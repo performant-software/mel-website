@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>Modes of Digital Editing</title>
+<meta content="Modes of Digital Editing" name="description"/>
+<link href="css/bootstrap.min.css" rel="stylesheet"/><link href="css/styles-v2.css" rel="stylesheet"/><link href="css/font-awesome.min.css" rel="stylesheet"/><script src="js/jquery3.js" type="text/javascript">
+</script>
+<!--[if lt IE 9]>
+                <script src="/js/html5shiv.js"></script>
+                <script src="/js/respond.min.js"></script>
+        <![endif]-->
+</head>
+<body>
+<h1 class="brand">Melville Electronic Library</h1>
+<h2 class="brand-sub">A Critical Archive</h2>
+<span class="sr-only"><a href="modes-of-digital-editing.html#skiplinks" shape="rect" title="Skip navigation and go to page content">Skip to content</a></span> 
+<nav class="navbar navbar-default" role="navigation"><div class="container">
+<div class="navbar-header"><button class="navbar-toggle" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" type="button"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button> <a class="navbar-brand" href="index.html">Melville Electronic Library</a></div>
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav">
+<li><a href="index.html">Home</a></li>
+<li><a href="archive.html">Archive</a></li>
+<li><a href="editions.html">Editions</a></li>
+<li><a href="projects.html">Projects</a></li>
+<li class="dropdown"><a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="modes-of-digital-editing.html#" role="button">About us <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="about-us.html">Staff</a></li>
+<li><a href="grants.html">Grants</a></li>
+<li><a href="acknowledgments.html">Acknowledgments</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div></nav>
+<div class="container"><a id="skiplinks" name="skiplinks"></a> <div class="starter"><h1>MODES OF DIGITAL EDITING</h1>
+<div class="row box">
+<div class="col-xs-8">
+<p>The reading text is the product of three successive modes of editing, designated in MEL as Primary, Secondary, and Tertiary Editing. In each mode, editors proofread the text against MEL&#8217;s digital images of the manuscript itself.</p>
+<p>In editing <i>Billy Budd</i> in revision, the editor&#8217;s initial obligation is to transcribe the manuscript and its texts.&#160; The editor is also obliged to facilitate readers in unpacking the revisions, making additions and deletions visible and explaining possible revision sequences. In keeping with the protocols of fluid-text editing, MEL&#8217;s policy is to perform these two editorial functions in separate stages. In Primary Editing, we describe the manuscript leaf and its texts as objects only. In Secondary Editing, we use the already marked-up primary transcription as a basis for the more subjective annotation of revision sequences and narratives. While TEI codes exist for integrating secondary revision sequencing along with primary transcription, MEL&#8217;s &#8220;stand-off&#8221; approach&#8212;a standard in digital humanities scholarship&#8212;separates the two functions, for a couple of reasons.</p>
+<ul>
+<li>Revision sequencing is, in many cases, necessarily speculative so that a single set of revision sites might yield multiple sequences or multiple narratives for a single sequence, depending upon the editor&#8217;s interpretation of the revision act. If revision sequence codes were included as part of the primary transcription coding, the transcriber&#8217;s single revision sequence and narrative would be codified as part of the transcription itself. More to point, that person&#8217;s singular coding of the revision elements&#8212;add, delete, restore, etc.&#8212;might be inflected to support the subjective revision sequence.&#160;</li>
+<li>While TEI permits multiple sequence codes within a so-called revision &#8220;campaign,&#8221; an editor seeking to add an alternative sequence would have to do so by altering the original transcription code, which is likely to be a cumbersome task.</li>
+</ul>
+<p>By separating primary and secondary editing function, we seek to minimize the subjective interpretation of revision annotation during the relatively objective processes of transcription coding. MEL&#8217;s stand-off approach is easier for editors, scholars, and students to manage; it permits fuller narratives of multiple-stepped sequences and stores revision sequences and narratives for side-by-side display.</p>
+<p><b>Primary Editing. </b>&#160;We use TextLab to mark-up Revisions Sites on the digital image of each manuscript leaf and to transcribe the leaf&#8217;s entire inscription (including its revision texts).</p>
+<p>In marking-up revision sites, the editor draws boxes (or zones) around each distinct unit of &#160;revision; TextLab automatically assigns a unique number to each box. The box numbers are arbitrary and do not represent revision sequencing; they merely identify the zone so that the text inside, when transcribed, can be associated with the zone. As noted above, no attempt is made in primary mark-up and transcription to encode revision sequencing. That more interpretive editorial function is performed separately in secondary editing. But, to ensure flexibility in the sequencing process, and to avoid inadvertently ruling out sequence options, our mark-up strategy is to seek a high degree of granularity, erring on the side of more rather than fewer boxes.</p>
+<p>For instance, in a single revision act, Melville might delete one word, insert a caret, and add another word above the deletion. This familiar enough revision scenario would receive three boxes, one for each revision element: the deletion, addition, and caret. The transcriber might box the three as one, and code them using the interpretive TEI code &lt;subst&gt; to mark them up as one &#8220;substituting&#8221; for another. However, to do so injects a subjective sequencing into the descriptive transcription. The reason we opt for three boxes instead of one is that it enables secondary editors to determine if in fact these three revision units are the immediate substitution they appear to be, or are changes that occur over time due to other intervening revisionary events.</p>
+<p>Another scenario also argues for granularity of revision unit. Three words appearing to be deleted in one stroke might be marked-up in one box as a single revision site because any single deletion stroke necessarily constitutes a single unit of revision. But a closer inspection of the site may reveal that what appears to be a three-word deletion is actually achieved through two deletion strokes&#8212;one for one word; another for the other two&#8212;whose actual overlapping is visible through digital magnification. By drawing two boxes instead of one, editors can, in secondary editing, more fully explain a two-step, rather than one-step, revision process. Primary editing is by no means a mechanical process, though it is remarkably facilitated by digital machinery.</p>
+<p>Primary editors also use TextLab to code the revision text(s) inside each box. MEL&#8217;s codes and textual coding strategies are discussed in <a href="modes-of-digital-editing.html#/transcription-coding">Transcription Coding</a><em>.</em></p>
+<p>In addition to enabling mark-up and transcribing in TEI, TextLab generates an accurate Diplomatic Transcription of each manuscript leaf. That is, its XSLT program transforms the primary TEI transcription codes into a typographic simulation of the leaf, placing all revision texts in their proper positions, above or below the line, or in the margins. TextLab displays the diplomatic transcription beside a zoomable image of the leaf itself, enabling readers to inspect both transcription and leaf image together. In addition, TextLab generates a Base Version of the manuscript, a &#8220;final reading&#8221; of each revised leaf that follows Melville&#8217;s revision instructions, by automatically deleting the text Melville deletes, adding what he inserts, and restoring his restorations. As noted elsewhere, a lightly-edited version of this base version becomes MEL&#8217;s Reading Text for <i>Billy Budd</i>.</p>
+<p><b>Secondary Editing.</b>&#160; If primary editing seeks to transcribe the <i>Billy Budd</i> manuscript as a physical and textual object, the goal in secondary editing is to describe revision through annotation.&#160; In this process, the editor selects a set of revision sites that have already been marked-up, transcribed, and coded in primary editing and composes a Revision Sequence and Narrative that explains Melville&#8217;s revision process, step by step, at those sites.&#160; TextLab facilitates annotation by providing a workspace for composing the sequence / narrative.&#160; When the editor selects a revision site, that site&#8217;s box number is entered as a step in the &#8220;site&#8221; column.&#160; In the adjacent &#8220;step&#8221; column, the editor copies the revision text for that site and the relevant inscription surrounding it to represent a single step of the sequence. In the third &#8220;narrative&#8221; column, the editor describes the how, why, and impact of the revision step. Additional sites are entered for additional steps until the sequence and narrative are completed.&#160;&#160;</p>
+<p>TextLab automatically stores each revision sequence / narrative in the edition&#8217;s database.&#160; Editors can submit multiple sequence / narratives for the same revision sites, and readers can view and compare all sequence / narratives that have been formally accepted into the edition. In MEL&#8217;s Projects section, instructors can create accounts for classroom experimentation in engaging with Melville&#8217;s revision process.</p>
+<p><b>Tertiary Editing.</b>&#160; &#160;Because the &#8220;base version&#8221; of the manuscript is neither complete nor in all places coherent, it must be edited into a readable format. The goal of tertiary editing is bring such a Reading Text into existence.&#160; MEL uses Juxta Editions&#8212;a digital platform for scholarly editing&#8212;to perform this task. The text of the base version of the <i>Billy Budd</i> manuscript is imported from TextLab into MEL&#8217;s Juxta Editions workspace, where editors emend the text and format it for ease of reading.&#160; Editors record textual emendations through Juxta&#8217;s note function and create additional contextual annotation. Juxta Editions displays MEL&#8217;s annotated reading text beside thumbnails of each manuscript leaf.&#160; Clicking a leaf takes the reader to TextLab&#8217;s diplomatic transcription and revision sequence / narratives.</p>
+<p>Editors also use Juxta&#8217;s powerful collation function to compare MEL&#8217;s base version of the <i>Billy Budd</i> manuscript against its reading text. The highlighted texts in this collation represent the entirety of MEL&#8217;s emendations.&#160; Revision narrative notes attached to substantive variants provide useful discussions justifying the emendation. MEL will also collate its base version and reading text against the major 20<sup>th</sup>-century transcriptions of <i>Billy Budd</i> (Weaver, Freeman, Hayford and Sealts) to document the modern evolution of Melville&#8217;s fluid text.</p>
+</div>
+<div class="col-xs-4"><a href="images/what_is_bb.jpg" target="_blank"><img alt="What is the text of Billy Budd" border="0" class="img img-responsive" src="images/what_is_bb.jpg" style="padding: 0px 0 30px 0;"/></a>
+<ul type="disc">
+<li><a href="versions-of-billy-budd.html"><i>VERSIONS OF BILLY BUDD</i>: A Fluid-Text Edition</a>
+<ul type="circle">
+<li><a href="how-to-use-the-edition.html">How to Use the Edition</a></li>
+<li><a href="http://mel-juxta-editions.herokuapp.com/documents/631" target="_blank">Enter the Edition</a></li>
+<li><a href="tracking-the-versions.html">Tracking the Versions: Billy Budd</a></li>
+<li><a href="how-billy-grew.html">How Billy Grew</a></li>
+</ul>
+</li>
+<li>Modes of Digital Editing
+<ul type="circle">
+<li><a href="transcription-coding.html">Transcription Coding</a></li>
+<li><a href="foliation-leaves-and-leaf-images.html">Foliation, Leaves, and Leaf Images</a></li>
+<li><a href="emending-the-reading-text.html">Emending the Reading Text</a></li>
+</ul>
+</li>
+<li>Collations
+<ul type="circle">
+<li>Billy Budd: Manuscript Base Version v. MEL Reading Text</li>
+<li>Billy Budd: 20<sup>th</sup>-century Reading Texts</li>
+</ul>
+</li>
+<li><a href="projects.html">Project Ideas</a></li>
+</ul>
+</div>
+</div></div></div>
+<footer><div class="container">
+<div class="row">
+<div class="col-md-3">
+<p><a href="http://www.neh.gov" target="_blank"><img alt="National Endowment for the Humanities" border="0" height="50" src="images/neh_logo.png"/></a></p>
+</div>
+<div class="col-md-3">
+<p><a href="http://hcl.harvard.edu/libraries/houghton/" target="_blank"><img alt="The Houghton Library of the Harvard College Library" border="0" height="50" src="images/houghton-library-logo.png"/></a></p>
+</div>
+<div class="col-md-3">
+<p><a href="http://hofstradrc.org/" target="_blank"><img alt="The Digital Research Center at Hofstra University" border="0" height="45" src="images/drc-logo.png"/></a></p>
+</div>
+<div class="col-md-3">
+<p class="pull-right-md-3"><a href="http://www.hofstra.edu"><img alt="Hofstra University" border="0" height="27" src="images/hofstra_logo.png"/></a><br/>
+ Contact Us: <a href="mailto:John.L.Bryant@hofstra.edu">E-mail</a></p>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<p class="text-center">The Melville Electronic Library is grateful for support from&#160;NEH, Houghton Library, and Hofstra DRC</p>
+</div>
+</div>
+</div></footer>
+<script src="js/bootstrap.min.js" type="text/javascript">
+</script>
+<script src="js/scripts.js" type="text/javascript">
+</script>
+
+</body>
+</html>

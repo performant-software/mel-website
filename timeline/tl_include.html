@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+	<link href="tlstyles.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript">
+		Timeline_ajax_url="/timeline/timeline_2.3.0/timeline_ajax/simile-ajax-api.js";
+		Timeline_urlPrefix='/timeline/timeline_2.3.0/timeline_js/';       
+		Timeline_parameters='bundle=true';
+    </script>
+    <script src="timeline_2.3.0/timeline_js/timeline-api.js" type="text/javascript"></script>
+	<script src="../js/jquery.js" type="text/javascript"></script>
+	<script src="../js/jquery.bgiframe.js" type="text/javascript"></script>
+	<script src="../js/jquery.tooltip.js" type="text/javascript"></script>
+	<script src="../js/swfobject.js" type="text/javascript"></script>
+	<script src="js/jquery.dropdown.js" type="text/javascript"></script>
+	<script src="js/jquery.loadmask.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+		SimileAjax.History.enabled = false;
+        var tl;
+        function onLoad() 
+		{
+            var eventSource = new Timeline.DefaultEventSource(0);
+            
+            var theme = Timeline.ClassicTheme.create();
+            theme.event.bubble.width = 320;
+            theme.event.bubble.height = 220;
+            theme.ether.backgroundColors[1] = theme.ether.backgroundColors[0];
+//            theme.timeline_start = new Date(Date.UTC(1847, 0, 1));
+//            theme.timeline_stop  = new Date(Date.UTC(1860, 0, 1));
+
+/*
+            var zones = [
+                {   start:    "1700",
+                    end:      "2100",
+                    magnify:  5,
+                    unit:     Timeline.DateTime.DECADE
+                },
+                {   start:    "1800",
+                    end:      "2100",
+                    magnify:  3,
+                    unit:     Timeline.DateTime.YEAR,
+                    multiple: 5
+                }
+            ];
+            var zones2 = [
+                {   start:    "1700",
+                    end:      "2100",
+                    magnify:  5,
+                    unit:     Timeline.DateTime.DECADE
+                },
+                {   start:    "1800",
+                    end:      "2100",
+                    magnify:  3,
+                    unit:     Timeline.DateTime.YEAR,
+                    multiple: 10
+                }
+            ];
+*/		
+			// Center on this date
+            var d = Timeline.DateTime.parseGregorianDateTime("1858")
+            var bandInfos = [
+                Timeline.createBandInfo({
+                    width:          "90%", 
+                    intervalUnit:   Timeline.DateTime.YEAR, 
+                    intervalPixels: 200,
+                    eventSource:    eventSource,
+                    date:           d,
+                    showEventText:  false,
+//					zones:          zones,
+                    theme:          theme
+                }),
+                Timeline.createBandInfo({
+                    width:          "10%",
+					overview:       true,
+                    eventSource:    eventSource,
+                    intervalUnit:   Timeline.DateTime.YEAR, 
+                    intervalPixels: 300,
+                    date:           d,
+//					zones:          zones2,
+                    theme:          theme
+                })
+            ];
+/*
+            bandInfos[0].etherPainter = new Timeline.YearCountEtherPainter({
+                startDate:  "Nov 14 1840 00:00:00 GMT",
+                multiple:   5,
+                theme:      theme
+            });
+*/
+            bandInfos[0].syncWith = 1;
+            bandInfos[0].highlight = true;
+/*
+            bandInfos[0].decorators = [
+                new Timeline.SpanHighlightDecorator({
+                    startDate:  "Jan 01 1840 00:00:00 GMT",
+                    endDate:    "Jan 01 1870 00:00:00 GMT",
+//                    startLabel: "birth",
+//                    endLabel:   "death",
+                    color:      "#FFC080",
+                    opacity:    50,
+                    theme:      theme
+                })
+            ];
+*/
+            tl = Timeline.create(document.getElementById("tl"), bandInfos, Timeline.HORIZONTAL);
+            tl.loadJSON("getEvents.jsp", function(json, url) 
+			{
+                eventSource.loadJSON(json, url);
+            });
+			
+			// Load table of contents
+			loadTOC();
+        }
+        var resizeTimerID = null;
+        function onResize() {
+            if (resizeTimerID == null) {
+                resizeTimerID = window.setTimeout(function() {
+                    resizeTimerID = null;
+                    tl.layout();
+                }, 500);
+            }
+        }
+		
+		function setPoem(poemid)
+		{
+			// Clear any loaded pictures
+			$("#poemimages").html("Poem images will display here");
+
+			$("#poem").mask("Loading...");
+			
+			var params = { poemid: poemid }
+			$.ajax(
+			{
+				dataType: "json",
+				data: params,
+				url: "getPoemInfo.jsp",
+				cache: false,
+				success: function(json)
+				{
+					if (json.status == 500)
+					{
+						$("#poem").innerHTML = json.msg;
+					}
+					else
+					{
+						$("#poemtitle").html(json.poem.title);
+						$("#poemauthor").html(json.poem.author);
+						$("#poemcontent").html(json.poem.content);
+						// Rewrite links
+						var poemlinks = $("#poemcontent a");
+						$.each( $("#poemcontent a"), function(i)
+						{
+							var linkHref = $(this).attr("href");
+							// If we find an image, target the right div
+							if (linkHref.toLowerCase().indexOf(".jpg") > -1 || linkHref.toLowerCase().indexOf(".gif") > -1 || linkHref.toLowerCase().indexOf(".png") > -1)
+							{
+								$(this).click(function() 
+								{
+									loadImage(linkHref);
+								});
+								$(this).attr("href", "javascript:void(0);");
+							}
+							else
+							{
+								// Open in a new window
+								$(this).attr("target", "_blank")
+							}
+						});
+					}
+					$("#poem").unmask();
+				}
+			});
+		}
+		function loadImage(img)
+		{
+			$("#poemimages").html("<img src="https://mel.hofstra.edu/timeline/\&quot;&quot;" + img + "\" />");
+		}
+
+		// LOAD TOC
+		function loadTOC()
+		{
+			$.ajax(
+			{
+				dataType: "json",
+				url: "getPoems.jsp",
+				cache: false,
+				success: function(json)
+				{
+					if (json.status == 500)
+					{
+						$("#tocddsub").append("<li>Unable to load poems.  Please try again. Message: " + json.msg + "</li>");
+					}
+					else
+					{
+						$.each(json.poems, function() 
+						{
+							var tmpPoemId = $(this)[0].id;
+							var tmpTitle = $(this)[0].title;
+							var tmpDate = $(this)[0].date;
+							if (!isNaN(tmpPoemId))
+							{
+								$("#tocddsub").append("<li><a title=\"" + tmpTitle + "\" href="https://mel.hofstra.edu/timeline/\&quot;javascript:void(0);\&quot;" onclick=\"setPoem(" + tmpPoemId + ");\">(" + tmpDate + ") " + tmpTitle + "</a></li>");
+							}
+						});
+					}
+				}
+			});
+		}
+    </script>
+
+</head>
+<body onLoad="onLoad();" onResize="onResize();">
+	<div class="starter">
+		<ul id="tocdd" class="dropdown">
+			<li><a href="tl_include.html#">Table of Contents</a>
+				<ul id="tocddsub">
+				</ul>
+			</li>
+		</ul>
+		<br />
+		<table border="0" width="600" height="450" align="center">
+		<tr>
+			<td width="50%"><div id="poemimages">Poem images will display here</div></td>
+			<td><img src="../images/spacer.gif" width="20" height="1" alt="spacer" /></td>
+			<td width="50%">
+				<div id="poem">
+					<div id="poemtitle"></div>
+					<div id="poemauthor">Click a date in the timeline below to load a poem</div>
+					<div id="poemcontent"></div>
+				</div>
+			</td>
+		</tr>
+		</table>
+	  
+		<div id="timelinecontent">
+		  <div id="tl" class="timeline-default" style="height: 300px;"></div>
+		</div>
+	</div>
+</body>
+</html>
