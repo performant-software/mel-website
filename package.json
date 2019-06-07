@@ -1,0 +1,17 @@
+{
+  "name": "CodeTestCVS",
+  "version": "1.0.0",
+  "description": "Mockups",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristyan Cadena",
+  "license": "Open Source Initiative",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.14.4"
+  }
+}
