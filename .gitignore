@@ -3,4 +3,5 @@ _site
 .jekyll-metadata
 .node-modules
 node-modules
-node-modules/
+/node-modules/*
+/node-modules
