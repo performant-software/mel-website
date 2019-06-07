@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css?family=Cagliostro|Pontano+Sans");
+body {
+  font-family: "Pontano Sans", sans-serif;
+  background: url(../images/background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-transform: uppercase;
+  font-family: "Pontano Sans", sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+p {
+  font-size: 1.25em;
+  line-height: 1.6;
+  color: #000;
+}
+hr {
+  max-width: 400px;
+  border-color: #999999;
+}
+.brand,
+.brand-sub {
+  display: none;
+}
+.navbar-brand {
+  text-transform: uppercase;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+.navbar-nav {
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.img-full {
+  min-width: 100%;
+}
+.brand-before,
+.brand-name {
+  text-transform: capitalize;
+}
+.brand-before {
+  margin: 15px 0;
+}
+.brand-name {
+  margin: 0;
+  font-size: 4em;
+}
+.tagline-divider {
+  margin: 15px auto 3px;
+  max-width: 250px;
+  border-color: #999999;
+}
+.box {
+  margin-bottom: 20px;
+  padding: 30px 15px;
+  background: #fff;
+  background: rgba(255, 255, 255, 0.9);
+}
+.intro-text {
+  text-transform: uppercase;
+  font-size: 1.25em;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+.img-border {
+  float: none;
+  margin: 0 auto 0;
+  border: #999999 solid 1px;
+}
+.img-left {
+  float: none;
+  margin: 0 auto 0;
+}
+footer {
+  background: #fff;
+  background: rgba(255, 255, 255, 0.9);
+}
+footer p {
+  margin: 0;
+  padding: 50px 0;
+}
+@media screen and (min-width: 768px) {
+  .brand {
+    display: inherit;
+    margin: 0;
+    padding: 20px 0 10px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    font-family: "Cagliostro", sans-serif;
+    text-transform: uppercase;
+    font-size: 4em;
+    font-weight: 300;
+    line-height: normal;
+    color: #fff;
+    word-spacing: 15px;
+  }
+  .top-divider {
+    margin-top: 0;
+  }
+  .img-left {
+    float: left;
+    margin-right: 25px;
+  }
+  .brand-sub {
+    display: inherit;
+    margin: 0;
+    padding: 0 0 30px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    font-family: "Cagliostro", sans-serif;
+    text-transform: lowercase;
+    font-size: 2.25em;
+    font-weight: 300;
+    letter-spacing: 3px;
+    color: #fff;
+    word-spacing: 15px;
+  }
+  .navbar {
+    border-radius: 0;
+  }
+  .navbar-header {
+    display: none;
+  }
+  .navbar {
+    min-height: 0;
+  }
+  .navbar-default {
+    border: none;
+    background: #fff;
+    background: rgba(0, 123, 196, 0.8);
+  }
+  .navbar-nav > li > a {
+    line-height: normal;
+  }
+  .navbar-nav {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    table-layout: fixed;
+  }
+  .pull-right-md-3 {
+    float: right !important;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .box:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover {
+  color: #ffed00;
+}
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
+  background-color: #ffed00;
+}
+.brand,
+.brand-sub {
+  background-color: rgba(39, 39, 39, 0.65);
+}
+.box {
+  border: 1px solid rgba(0, 141, 224, 0.93);
+}
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover {
+  background-color: #95d3f7;
+}
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover {
+  background-color: #95d3f7;
+}
+.nav > li {
+  background: rgba(0, 123, 196, 0.8);
+}
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff;
+  }
+}
+
+h1 {
+  color: #fff;
+  background-color: rgba(0, 123, 196, 0.8);
+  padding: 10px 10px 0 10px;
+  margin-bottom: 0;
+  text-align: center;
+  display: inline-block;
+}
+
+.pad-top-20 {
+  padding-top: 20px;
+}
+.hoverBG:hover {
+  background-color: #fff;
+}
+.hoverBG {
+  border-radius: 25px;
+}
+
+img.btnBullet {
+  width: 20px;
+  height: 20px;
+}
+a.btn {
+  white-space: normal;
+}
