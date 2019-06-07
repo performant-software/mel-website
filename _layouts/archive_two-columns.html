@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html id="landing-page" lang="en">
+
+{% include head.html %}
+
+<body class="index">
+	<div class="container-fluid">
+		{% include header.html %}
+				
+				<!-- ========== Main ========== -->
+		<div class="container"><a id="skiplinks" name="skiplinks"></a>
+			<div class="starter">
+				<main id="content" role="main">
+							
+					 <h1> {{ page.title }} </h1>  
+						<div class="row box">
+							
+							
+						
+						
+						{% if page.title == 'Archive' %}
+							<!-- ========== Archive ========== -->
+							<div class="col-xs-8">
+									{{ content }}
+							</div>
+							<div class="col-sm-4">
+								{% include menu-archive.html %}       
+							</div><!-- ========== End Archive ========== -->
+						
+							{% elsif page.title == 'Manuscripts & Books' %}
+							
+							<!-- ========== Manuscripts & Books ========== -->
+							<div class="col-xs-7">
+									{{ content }}
+							</div>
+							
+							<div class="col-sm-5">
+								{% include menu-manuscripts-and-books.html %}    
+							</div><!-- ========== End Manuscripts & Books ========== -->
+
+							{% elsif page.title == 'Manuscripts' %}
+							
+							<!-- ========== Manuscripts ========== -->
+							<div class="col-xs-7">
+									{{ content }}
+							</div>
+							
+							<div class="col-sm-5">
+								{% include menu-manuscripts.html %}    
+							</div><!-- ==========  end  Manuscripts ========== -->
+
+							{% elsif page.title == 'Books' %}
+							
+							<!-- ========== Books========== -->
+							<div class="col-xs-8">
+									{{ content }}
+							</div>
+							
+							<div class="col-sm-4">
+								{% include menu-books.html %}    
+							</div><!-- ========== end Books ========== -->
+
+							{% elsif page.title == 'Arts & Prints' %}
+							
+							<!-- ========== Books========== -->
+							<div class="col-xs-8">
+									{{ content }}
+							</div>
+							
+							<div class="col-sm-4">
+								{% include menu-arts-and-prints.html %}    
+							</div><!-- ========== end Books ========== -->
+							
+							{% elsif page.title == 'Melville&#39;s Print Collection' %}
+							
+							<!-- ========== Melville's Print Collection========== -->
+							<div class="col-xs-8">
+									{{ content }}
+							</div>
+							
+							<div class="col-sm-4">
+								{% include menu-melville-print-collection.html %}    
+							</div><!-- ========== end Melville's Print Collection ========== -->
+
+
+							
+							{% else %}
+						
+						{% endif %} 
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						<!-- ========== end menu column ========== -->	
+					 
+							   
+
+							
+					</div>
+				</main>
+			</div>
+		</div>
+		<!-- ========== End main ========== -->
+		{% include footer.html %}
+	</div>
+</body>
+{% include scripts.html %}
+
+</html>
