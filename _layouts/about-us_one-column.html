@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html id="landing-page" lang="en">
+
+{% include head.html %}
+
+<body class="index">
+	<div class="container-fluid">
+		{% include header.html %}
+		<!-- ========== MAIN ========== -->
+		<div class="container"><a id="skiplinks" name="skiplinks"></a>
+			<div class="starter">
+				<main id="content" role="main">
+                            
+                          <h1>  
+                                {{ page.title }} 
+                            </h1>  
+                    <div class="row box">
+                            
+                    {{ content }}
+                    </div>
+				</main>
+			</div>
+		</div>
+		<!-- ========== END MAIN ========== -->
+		{% include footer.html %}
+	</div>
+</body>
+{% include scripts.html %}
+
+</html>

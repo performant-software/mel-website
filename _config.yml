@@ -30,6 +30,14 @@ markdown: kramdown
 sass:
   style: compact # possible values: nested expanded compact compressed
 
+# Projects
+collections:
+  about-us:
+      output: true
+  archive:
+      output: true
+
+
 exclude: 
   - node_modules
   - LICENSE
