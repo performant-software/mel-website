@@ -114,14 +114,36 @@
 
 						{% elsif page.title == 'Adaptation' %}
 
-						<!-- ========== Sources========== -->
+						<!-- ========== Adaptation========== -->
 						<div class="col-xs-8">
 							{{ content }}
 						</div>
 
 						<div class="col-sm-4">
 							{% include menu-adaptation.html %}
-						</div><!-- ========== end Sources ========== -->
+						</div><!-- ========== end Adaptation ========== -->
+
+						{% elsif page.title == 'Biographical Materials' %}
+
+						<!-- ========== biographical materias========== -->
+						<div class="col-xs-8">
+							{{ content }}
+						</div>
+
+						<div class="col-sm-4">
+							{% include menu-biographical-materials.html %}
+						</div><!-- ========== end biographical materias ========== -->
+
+						{% elsif page.title == 'Bibliography' %}
+
+						<!-- ========== biographical materias========== -->
+						<div class="col-xs-8">
+							{{ content }}
+						</div>
+
+						<div class="col-sm-4">
+							{% include menu-bibliography.html %}
+						</div><!-- ========== end biographical materias ========== -->
 
 
 						{% else %}
