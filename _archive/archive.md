@@ -1,6 +1,7 @@
 ---
 layout: archive_two-columns
 title: Archive
+
 permalink: /archive
  
 ---
@@ -11,4 +12,5 @@ As MEL grows, the Archive will also contain materials related to Melville’s li
 
 We are always building the Archive.  Tell us what more you would like to see.
 
-
+---
+## Text
