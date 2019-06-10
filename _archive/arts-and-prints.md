@@ -1,10 +1,9 @@
 ---
 layout: archive_two-columns
 title: Arts & Prints
-permalink: /arts-and-prints
- 
+permalink: "/arts-and-prints"
+
 ---
- 
 In our Gallery room, users will have access to digital images of art works mentioned by Melville, the art prints he collected, modern illustrations of his writings, and family photographs.
 
 MEL’s Art Group editors use MELCat to upload images and enter metadata for artworks referenced in Moby-Dick. With Juxta Editions, editors can link to MELCat artwork entries in their contextual annotations for MEL’s Versions of Moby-Dick edition.
@@ -18,5 +17,5 @@ The images on view are from the Osborne and Reese Collections.
 (gallery coming soon)
 
 ## ART IN MOBY-DICK
-(gallery coming soon)
 
+(gallery coming soon)
