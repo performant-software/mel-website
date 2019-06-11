@@ -8,7 +8,6 @@ In our Gallery room, users will have access to digital images of art works menti
 
 MEL’s Art Group editors use MELCat to upload images and enter metadata for artworks referenced in Moby-Dick. With Juxta Editions, editors can link to MELCat artwork entries in their contextual annotations for MEL’s Versions of Moby-Dick edition.
 
-Ccadena.
 
 ## MELVILLE AS ART PRINT COLLECTOR
 

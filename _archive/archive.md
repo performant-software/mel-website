@@ -11,6 +11,3 @@ MEL’s Archive gives you direct access to our entire collection of digital imag
 As MEL grows, the Archive will also contain materials related to Melville’s life and works, such as his Art Print Collection, audio and video files related to Melville adaptations, photos and documents connected to the biography, and secondary bibliography.  The Archive’s Toolkit provides an overview of the digital tools created for MEL and used for editing (TextLab and Juxta Editions), metadata (MELCat), mapping Melville’s travels (Itinerary), and annotation (Annotation Studio).
 
 We are always building the Archive.  Tell us what more you would like to see.
-
----
-## Text
