@@ -44,7 +44,7 @@
                         <script>
                         for (x=1; x<=422; x++)
                         {
-                                document.writeln("<div class='item " + (x===1 ? "active" : "") + "'><img src='https://mel.hofstra.edu/images/weeds-and-wildings/modbm_ms_am_188_369_1_0&quot;&#32;+&#32;(x&#32;&lt;&#32;10&#32;?&#32;&quot;00&quot;&#32;:&#32;(x&lt;100&#32;?&#32;&quot;0&quot;&#32;:&#32;&quot;&quot;))&#32;+&#32;x&#32;+&#32;&quot;.jpg' /></div>");
+                                document.writeln("<div class='item " + (x===1 ? "active" : "") + "'><img src='/images/weeds-and-wildings/modbm_ms_am_188_369_1_0" + (x < 10 ? "00" : (x < 100 ? "0" : "")) + x + ".jpg' /></div>");
                         }
                         </script>
                         </div>

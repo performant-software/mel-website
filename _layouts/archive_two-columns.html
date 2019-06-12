@@ -195,10 +195,22 @@
 						<div class="col-xs-8">
 							{{ content }}
 						</div>
-						c
+
 						<div class="col-sm-4">
 							{% include menu-tool-kit.html %}
 						</div><!-- ========== end Mel Toolkit ========== -->
+
+						{% elsif page.title == 'Weeds &#38; Wildings, With a Rose or Two' %}
+
+						<!-- ========== 'Weeds &#38; Wildings========== -->
+						<div class="col-xs-12">
+							{{ content }}
+						</div>
+
+						<div class="col-xs-12">
+							{% include _ui_weeds-and-wildings-slideshow.html %}
+						</div>
+						<!-- ========== end Weeds &#38; Wildings ========== -->
 
 
 						{% else %}
