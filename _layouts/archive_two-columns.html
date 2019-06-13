@@ -12,7 +12,7 @@
 			<div class="starter">
 				<main id="content" role="main">
 
-					<h1> {{ page.title }} </h1>
+					<h1 style="margin-right:15%; text-align:left"> {{ page.title }} </h1>
 					<div class="row box">
 
 						{% if page.title == 'Archive' %}
@@ -245,6 +245,22 @@
 						<div class="col-sm-4">
 							{% include menu-versions-of-typee.html %}
 						</div><!-- ========== end 'Versions of Typee ========== -->
+
+
+						{% elsif page.title == 'Moby&#45;dick Side&#45;by&#45;Side&#58; The American And British First Editions' %}
+
+						<!-- ========== 'moby-dick;========== -->
+						<div class="col-xs-8">
+							{{ content }}
+						</div>
+						<div class="col-sm-4">
+							{% include menu-moby-dick-the-whale-proofs.html %}
+						</div>
+						<div class="col-xs-12">
+							{% include _ui_moby-dick-the-whale-proofs-slides.html %}
+						</div>
+
+						<!-- ========== end moby-dick========== -->
 
 
 						{% else %}
