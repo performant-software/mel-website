@@ -36,6 +36,8 @@ collections:
       output: true
   archive:
       output: true
+  editions:
+      output: true
 
 
 exclude: 
