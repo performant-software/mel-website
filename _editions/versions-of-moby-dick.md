@@ -1,0 +1,17 @@
+---
+layout: editions_two-columns
+title: Versions of Moby&#8211;Dick&#58; A Fluid&#8211;Text Edition
+permalink: /versions-of-moby-dick
+ 
+---
+
+
+![Young Melville](/images/what_is_md.jpg){:class="col-xs-3 img-responsive"} Melville’s most famous novel was written in an eighteen-month period beginning soon after his return in 1850 from his trip to England and the Continent. In the midst of composing _Moby-Dick_, he also purchased Arrowhead, a farm in Pittsfield, Massachusetts, adjacent to his Uncle Thomas’s farm and farmhouse, Broadhall, where he had spent many summer months as an adolescent. On a visit there, in August of 1850, Melville met Nathaniel Hawthorne, who had taken temporary lodging with his family in Lenox, Massachusetts, not far from Pittsfield. One measure of the intellectual and aesthetic impact of this friendship—evident in his review essay “Hawthorne and His Mosses,” composed in August, and in subsequent correspondence between the two writers—is that _Moby-Dick_ is dedicated to Hawthorne.
+
+{% include _ui_reading-text-moby-dick-juxta-editions_button.html %}
+
+That fall, Melville moved his family to the adjacent farm Arrowhead, where in the spring and summer of 1851 he completed  _Moby-Dick_  and prepared it for publication by Harpers in the US. At the same time, he sent slightly revised proofsheets to England, where his text was more heavily revised and expurgated by Melville’s British publisher Richard Bentley. Because no manuscript of  _Moby-Dick_  has survived, or yet emerged, its condition as a  [fluid text](/what-is-a-fluid-text.html)  rests largely on the variant American and British first edition versions and on a range of adaptive revisions to Melville’s text that have proliferated world culture since the 1920s.
+
+MEL’s  _Versions of Moby-Dick_  edition offers a digital Reading Text, based on the 2006 Longman print edition. This text will serve as a gateway to the varied iterations of Melville’s fluid text. Currently, the reading text, displayed in MEL’s Juxta Editions platform, showcases various kinds of contextual annotation, including the Longman annotations and new notes, composed by MEL editors, on Melville and the arts and Melville’s geographic imagination. The edition also includes links to MEL’s side-by-side display of the American and British first editions and a collation of those two texts for displaying revision narratives that explain variants and expurgations. This collation was initially achieved through Juxta collation technology incorporated into an earlier instance of TextLab. In the 2017-18 upgrading of TextLab, collation occurs through an integration of TextLab and Juxta Editions on the MEL platform. MEL is scheduled to launch that integrated collation by summer 2018. In the meantime, users can inspect the TextLab collation of  _Moby-Dick_  collation and its revision narratives.
+
+Also coming in 2018 are fuller introductions regarding MEL’s textual emendation of  _Moby-Dick_, homologous to MEL’s  [Emending the Reading Text](http://127.0.0.1:4000/emending-the-reading-text.html)  introduction in  _Versions of_  _Billy Budd_. Also in the works is a fluid-text project that will compare the 1956 Bradbury-Huston film adaptation to Melville’s original text. (For more, visit  [Adaptation](/adaptation.html) in MEL’s Projects section.)

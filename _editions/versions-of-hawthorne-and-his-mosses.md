@@ -7,9 +7,9 @@ permalink: /versions-of-hawthorne-and-his-mosses.html
 
 
 
-### _VERSIONS OF “HAWTHORNE AND HIS MOSSES”_
+ 
 
-![Young Melville](http://localhost:4000/images/biography_young_melville.jpg){:class="col-xs-3 img-responsive"} Melville’s review essay of Hawthorne’s  _Mosses from an Old Manse_  is now the most famous literary manifesto of the American nineteenth century, though it did not resurface until 1922 or gain much currency until Edmund Wilson’s inclusion of it in  _The Shock of Recognition_  in 1943. It argues for a uniquely American national literature (one awaiting recognition along the banks of the Ohio) as well as an enduring place for American genius in world literature. At the same time, it offers unprecedented praise for Hawthorne’s aesthetics that compresses bright and dark visions.
+![Young Melville](/images/biography_young_melville.jpg){:class="col-xs-3 img-responsive"} Melville’s review essay of Hawthorne’s  _Mosses from an Old Manse_  is now the most famous literary manifesto of the American nineteenth century, though it did not resurface until 1922 or gain much currency until Edmund Wilson’s inclusion of it in  _The Shock of Recognition_  in 1943. It argues for a uniquely American national literature (one awaiting recognition along the banks of the Ohio) as well as an enduring place for American genius in world literature. At the same time, it offers unprecedented praise for Hawthorne’s aesthetics that compresses bright and dark visions.
 
 As a literary document, the essay poses editorial and digital challenges. Because “Mosses” exists in fair-copy manuscript, revised manuscript, and print versions, editors have multiple options in what they chose to print. By giving access to all options, MEL’s proposed edition of “Hawthorne and His Mosses” will give readers a chance to compare significantly different versions of Melville’s remarkable manifesto. Because modern editors differ on how to edit “Mosses,” Melville’s essay is also a significant example of how scholarly editions contribute to and extend a literary work as a fluid text.
 

@@ -76,7 +76,7 @@
 
                         {% elsif page.title == 'Letters and Family Correspondence' %}
 
-                        <!-- ========== Journals ========== -->
+                        <!-- ========== Letters and Family Correspondence ========== -->
                         <div class="col-xs-8">
                             {{ content }}
                         </div>
@@ -84,8 +84,19 @@
                         <div class="col-sm-4">
 
                         </div>
-                        <!-- ========== End of Journals========== -->
+                        <!-- ========== End of Letters and Family Correspondence========== -->
 
+                        {% elsif page.title == 'Versions of Moby&#8211;Dick&#58; A Fluid&#8211;Text Edition' %}
+
+                        <!-- ========== Versions of Moby-Dick ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-editions-versions-of-moby-dick.html %}
+                        </div>
+                        <!-- ========== End  Versions of Moby-Dick ========== -->
 
 
 
