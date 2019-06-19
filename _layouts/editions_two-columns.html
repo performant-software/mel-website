@@ -97,9 +97,20 @@
                             {% include menu-editions-versions-of-moby-dick.html %}
                         </div>
                         <!-- ========== End  Versions of Moby-Dick ========== -->
+                        
+                        {% elsif page.title == 'Tracking the Versions of Moby&#8211;Dick' %}
 
+                        <!-- ========== Tracking Versions of Moby-Dick ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
 
+                        <div class="col-sm-4">
+                            {% include menu-tracking-the-versions-moby-dick.html %}
+                        </div>
+                        <!-- ========== End  Tracking  Versions of Moby-Dick ========== -->
 
+                       
 
                         {% else %}
 
