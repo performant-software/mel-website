@@ -109,8 +109,31 @@
                             {% include menu-tracking-the-versions-moby-dick.html %}
                         </div>
                         <!-- ========== End  Tracking  Versions of Moby-Dick ========== -->
+                        {% elsif page.title == 'How to Use the Edition&#58; Moby&#8211;Dick' %}
 
-                       
+                        <!-- ========== How to Use the  Moby-Dick Edition ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-how-to-use-the-edition-moby-dick.html %}
+                        </div>
+                        <!-- ========== End  How to Use the  Moby-Dick Edition ========== -->
+
+                        {% elsif page.title == 'Collating Moby&#8211;Dick&#58; Expurgations and Revision Narratives' %}
+
+                        <!-- ========== Expurgating Moby-Dick ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-expurgating-moby-dick.html %}
+                        </div>
+                        <!-- ========== End  Expurgating Moby-Dick  ========== -->
+
+ 
 
                         {% else %}
 
