@@ -133,7 +133,31 @@
                         </div>
                         <!-- ========== End  Expurgating Moby-Dick  ========== -->
 
- 
+                        {% elsif page.title == 'Versions of Battle&#8211;Pieces' %}
+
+                        <!-- ==========  Versions of Battle:Pieces ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-versions-of-battle-pieces.html %}
+                        </div>
+                        <!-- ========== End  Versions of Battle:Pieces  ========== -->
+                        
+                        
+                        {% elsif page.title == 'Tracking the Versions&#58; Battle Pieces' %}
+
+                        <!-- ==========  Versions of Battle:Pieces ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-tracking-the-versions-battle-pieces.html %}
+                        </div>
+                        <!-- ========== End  Versions of Battle:Pieces  ========== -->
+                        
 
                         {% else %}
 
