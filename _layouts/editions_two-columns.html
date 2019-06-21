@@ -192,7 +192,44 @@
                         <div class="col-sm-4">
                             {% include menu-how-to-use-the-edition.html %}
                         </div>
-                        <!-- ========== End  How to Use the Edition ========== 
+                        <!-- ========== End  How to Use the Edition ========== -->
+
+                        {% elsif page.title == 'How Billy Grew' %}
+
+                        <!-- ==========  How Billy Grew ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-how-billy-grew.html %}
+                        </div>
+                        <!-- ========== End  How Billy Grew ========== -->
+
+                        {% elsif page.title == 'Modes of Digital Editing' %}
+
+                        <!-- ==========  Modes of Digital Editing ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-modes-of-digital-editing.html %}
+                        </div>
+                        <!-- ========== End  Modes of Digital Editing ========== -->
+
+                        {% elsif page.title == 'Transcription Coding' %}
+
+                        <!-- ==========  Transcription Coding ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-transcription-coding.html %}
+                        </div>
+                        <!-- ========== End  Transcription Coding ========== -->
+
 
                         {% else %}
 
