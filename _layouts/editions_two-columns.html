@@ -229,8 +229,33 @@
                             {% include menu-transcription-coding.html %}
                         </div>
                         <!-- ========== End  Transcription Coding ========== -->
+                        
 
+                        {% elsif page.title == 'Foliation, Leaves, And Leaf Images' %}
 
+                        <!-- ==========  Foliation, Leaves, And Leaf Images Coding ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-foliation-leaves-and-leaf-images.html %}
+                        </div>
+                        <!-- ========== End  Foliation, Leaves, And Leaf Images Coding ========== -->
+
+                        {% elsif page.title == 'Emending The Reading Text' %}
+
+                        <!-- ==========  Emending The Reading Text ========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-sm-4">
+                            {% include menu-emending-the-reading-text.html %}
+                        </div>
+                        <!-- ========== End Emending The Reading Text ========== -->
+
+ 
                         {% else %}
 
                         {% endif %}

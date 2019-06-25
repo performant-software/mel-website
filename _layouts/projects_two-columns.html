@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html id="landing-page" lang="en">
+
+{% include head.html %}
+
+<body class="index">
+    <div class="container-fluid">
+        {% include header.html %}
+
+        <!-- ========== Main ========== -->
+        <div class="container"><a id="skiplinks" name="skiplinks"></a>
+            <div class="starter">
+                <main id="content" role="main">
+
+                    <h1 style="margin-right:15%; text-align:left"> {{ page.title }} </h1>
+                    <div class="row box">
+
+                        {% if page.title == 'Projects' %}
+                        <!-- ========== Projects========== -->
+                        <div class="col-xs-8">
+                            {{ content }}
+
+                        </div>
+                        <div class="col-sm-4">
+                            {% include menu-projects.html %}
+                        </div>
+                     
+                        <!-- ========== End Projects========== -->
+
+ 
+                        {% else %}
+
+                        {% endif %}
+
+
+
+                        <!-- ========== end menu column ========== -->
+
+
+
+
+                    </div>
+                </main>
+            </div>
+        </div>
+        <!-- ========== End main ========== -->
+        {% include footer.html %}
+    </div>
+</body>
+{% include scripts.html %}
+
+</html>
