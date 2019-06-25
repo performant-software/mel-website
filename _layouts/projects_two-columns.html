@@ -17,17 +17,42 @@
 
                         {% if page.title == 'Projects' %}
                         <!-- ========== Projects========== -->
-                        <div class="col-xs-8">
+                        <div class="col-md-8">
                             {{ content }}
 
                         </div>
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             {% include menu-projects.html %}
                         </div>
                      
                         <!-- ========== End Projects========== -->
 
- 
+                        {% elsif page.title == 'Use Cases' %}
+
+                        <!-- ==========  Use Cases ========== -->
+                        <div class="col-md-12">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-md-4">
+                            {% include menu-use-cases.html %}
+                        </div>
+                        <!-- ========== End  Use Cases ========== -->
+
+
+                        {% elsif page.title == 'Melville Remix' %}
+
+                        <!-- ==========  Melville Remix ========== -->
+                        <div class="col-md-8">
+                            {{ content }}
+                        </div>
+
+                        <div class="col-md-4">
+                            {% include menu-mel-remix-annotation-studio.html %}
+                        </div>
+                        <!-- ========== End Melville Remix ========== -->
+
+
                         {% else %}
 
                         {% endif %}
