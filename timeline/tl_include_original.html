@@ -17,7 +17,6 @@
 	<script src="js/jquery.loadmask.js" type="text/javascript"></script>
 	
 	<script>
-		SimileAjax.History.enabled = false;
         var tl;
         function onLoad() {
             var eventSource = new Timeline.DefaultEventSource(0);
@@ -54,95 +53,7 @@
                 }, 500);
             }
         }
-		
-		
-		function setPoem(poemid)
-		{
-			// Clear any loaded pictures
-			$("#poemimages").html("Poem images will display here");
-
-			$("#poem").mask("Loading...");
-			
-			var params = { poemid: poemid }
-			$.ajax(
-			{
-				dataType: "json",
-				data: params,
-				url: "getPoemInfo.jsp",
-				cache: false,
-				success: function(json)
-				{
-					if (json.status == 500)
-					{
-						$("#poem").innerHTML = json.msg;
-					}
-					else
-					{
-						$("#poemtitle").html(json.poem.title);
-						$("#poemauthor").html(json.poem.author);
-						$("#poemcontent").html(json.poem.content);
-						// Rewrite links
-						var poemlinks = $("#poemcontent a");
-						$.each( $("#poemcontent a"), function(i)
-						{
-							var linkHref = $(this).attr("href");
-							// If we find an image, target the right div
-							if (linkHref.toLowerCase().indexOf(".jpg") > -1 || linkHref.toLowerCase().indexOf(".gif") > -1 || linkHref.toLowerCase().indexOf(".png") > -1)
-							{
-								$(this).click(function() 
-								{
-									loadImage(linkHref);
-								});
-								$(this).attr("href", "javascript:void(0);");
-							}
-							else
-							{
-								// Open in a new window
-								$(this).attr("target", "_blank")
-							}
-						});
-					}
-					$("#poem").unmask();
-				}
-			});
-		}
-		function loadImage(img)
-		{
-			$("#poemimages").html("<img src=\"" + img + "\" />");
-		}
-
-		// LOAD TOC
-		function loadTOC()
-		{
-			$.ajax(
-			{
-				dataType: "json",
-				url: "poems.js",
-				cache: false,
-				success: function(json)
-				{
-					if (json.status == 500)
-					{
-						$("#tocddsub").append("<li>Unable to load poems.  Please try again. Message: " + json.msg + "</li>");
-					}
-					else
-					{
-						$.each(json.poems, function() 
-						{
-							var tmpPoemId = $(this)[0].id;
-							var tmpTitle = $(this)[0].title;
-							var tmpDate = $(this)[0].date;
-							if (!isNaN(tmpPoemId))
-							{
-								$("#tocddsub").append("<li><a title=\"" + tmpTitle + "\" href=\"javascript:void(0);\" onclick=\"setPoem(" + tmpPoemId + ");\">(" + tmpDate + ") " + tmpTitle + "</a></li>");
-							}
-						});
-					}
-				}
-			});
-		}
-	
-	</script>
+    </script>
 </head>
 <body onLoad="onLoad();" onResize="onResize();">
 	<div class="starter">
