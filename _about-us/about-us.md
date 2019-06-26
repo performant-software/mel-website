@@ -1,12 +1,12 @@
 ---
 layout: about-us_one-column
-title: About us
+title: About Us
 permalink: /about-us
  
 ---
  
 
-![John Bryant](/images/john_bryant.jpg "John Bryant"){:class="col-xs-1 "}
+![John Bryant](/images/john_bryant.jpg "John Bryant"){:class="col-xs-1 img-responsive "}
 **John Bryant**
 
 Project Director and General Editor, Professor Emeritus of English, Hofstra University
