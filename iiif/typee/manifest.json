@@ -19,11 +19,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackInner.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackInner.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackInner.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p0"
 						}
@@ -44,11 +51,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackOuter.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackOuter.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackOuter.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p1"
 						}
@@ -69,11 +83,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontInner.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontInner.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontInner.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p2"
 						}
@@ -94,11 +115,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontOuter.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontOuter.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontOuter.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p3"
 						}
@@ -119,11 +147,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Br.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Br.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 854,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Br.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p4"
 						}
@@ -144,11 +179,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Bv.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Bv.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 854,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Bv.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p5"
 						}
@@ -169,11 +211,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p6"
 						}
@@ -194,11 +243,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p7"
 						}
@@ -219,11 +275,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p8"
 						}
@@ -244,11 +307,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p9"
 						}
@@ -269,11 +339,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p10"
 						}
@@ -294,11 +371,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p11"
 						}
@@ -319,11 +403,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p12"
 						}
@@ -344,11 +435,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p13"
 						}
@@ -369,11 +467,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p14"
 						}
@@ -394,11 +499,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p15"
 						}
@@ -419,11 +531,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p16"
 						}
@@ -444,11 +563,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p17"
 						}
@@ -469,11 +595,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p18"
 						}
@@ -494,11 +627,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p19"
 						}
@@ -519,11 +659,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p20"
 						}
@@ -544,11 +691,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p21"
 						}
@@ -569,11 +723,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p22"
 						}
@@ -594,11 +755,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p23"
 						}
@@ -619,11 +787,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p24"
 						}
@@ -644,11 +819,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p25"
 						}
@@ -669,11 +851,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Br.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Br.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Br.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p26"
 						}
@@ -694,11 +883,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Bv.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Bv.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Bv.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p27"
 						}
@@ -719,11 +915,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p28"
 						}
@@ -744,11 +947,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p29"
 						}
@@ -769,11 +979,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p30"
 						}
@@ -794,11 +1011,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p31"
 						}
@@ -819,11 +1043,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p32"
 						}
@@ -844,11 +1075,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p33"
 						}
@@ -869,11 +1107,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p34"
 						}
@@ -894,11 +1139,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p35"
 						}
@@ -919,11 +1171,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15r.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15r.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1118
+								"width": 1118,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15r.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p36"
 						}
@@ -944,11 +1203,18 @@
 							"type": "Annotation",
 							"motivation": "painting",
 							"body": {
-								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15v.jpg",
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15v.jpg/full/full/0/default.jpg",
 								"type": "Image",
-								"format": "image/jpg",
+								"format": "image/jpeg",
 								"height": 1558,
-								"width": 1144
+								"width": 1144,
+								"service": [
+									{
+										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15v.jpg",
+										"type": "ImageService3",
+										"profile": "level2"
+									}
+								]
 							},
 							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p37"
 						}
