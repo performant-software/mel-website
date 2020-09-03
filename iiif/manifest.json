@@ -1,0 +1,965 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://melville.electroniclibrary.org/iiif/typee/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p0",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p0/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackInner.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p0"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p1",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p1/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackOuter.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p1"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p2",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p2/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p2",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontInner.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p3",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p3/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p3",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontOuter.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p3"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p4",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p4/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p4",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Br.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 854,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p4"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p5",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p5/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p5",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Bv.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 854,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p5"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p6",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p6/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p6",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p6"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p7",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p7/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p7",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p7"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p8",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p8/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p8",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p8"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p9",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p9/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p9",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p9"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p10",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p10/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p10",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p10"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p11",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p11/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p11",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p11"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p12",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p12/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p12",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p12"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p13",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p13/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p13",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p13"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p14",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p14/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p14",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p14"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p15",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p15/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p15",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p15"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p16",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p16/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p16",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p16"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p17",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p17/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p17",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p17"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p18",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p18/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p18",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p18"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p19",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p19/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p19",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p19"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p20",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p20/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p20",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p20"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p21",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p21/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p21",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p21"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p22",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p22/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p22",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p22"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p23",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p23/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p23",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p23"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p24",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p24/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p24",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p24"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p25",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p25/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p25",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p25"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p26",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p26/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p26",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Br.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p26"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p27",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p27/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p27",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Bv.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p27"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p28",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p28/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p28",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p28"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p29",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p29/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p29",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p29"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p30",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p30/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p30",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p30"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p31",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p31/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p31",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p31"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p32",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p32/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p32",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p32"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p33",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p33/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p33",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p33"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p34",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p34/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p34",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p34"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p35",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p35/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p35",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p35"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p36",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p36/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p36",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15r.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1118
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p36"
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p37",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/typee/canvas/p37/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/typee/annotation/p37",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15v.jpg",
+								"type": "Image",
+								"format": "image/jpg",
+								"height": 1558,
+								"width": 1144
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/typee/canvas/p37"
+						}
+					]
+				}
+			]
+		}
+	],
+	"label": {
+		"en": [
+			"Typee"
+		]
+	}
+}
