@@ -26,9 +26,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackInner.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackInner.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -60,9 +60,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackOuter.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperBackOuter.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -94,9 +94,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontInner.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontInner.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -128,9 +128,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontOuter.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-WrapperFrontOuter.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -162,9 +162,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Br.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Br.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -196,9 +196,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Bv.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01Bv.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -230,9 +230,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -264,9 +264,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f01v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -298,9 +298,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -332,9 +332,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f02v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -366,9 +366,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -400,9 +400,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f03v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -434,9 +434,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -468,9 +468,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f04v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -502,9 +502,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -536,9 +536,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f05v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -570,9 +570,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -604,9 +604,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f06v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -638,9 +638,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -672,9 +672,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f07v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -706,9 +706,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -740,9 +740,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f08v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -774,9 +774,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -808,9 +808,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f09v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -842,9 +842,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -876,9 +876,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f10v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -910,9 +910,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Br.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Br.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -944,9 +944,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Bv.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11Bv.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -978,9 +978,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1012,9 +1012,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f11v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1046,9 +1046,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1080,9 +1080,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f12v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1114,9 +1114,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1148,9 +1148,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f13v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1182,9 +1182,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1216,9 +1216,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f14v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1250,9 +1250,9 @@
 								"width": 1118,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15r.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15r.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
@@ -1284,9 +1284,9 @@
 								"width": 1144,
 								"service": [
 									{
-										"id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15v.jpg",
-										"type": "ImageService3",
-										"profile": "level2"
+										"@id": "https://iip.textlab.org/?IIIF=mel/typee/Typee-f15v.jpg",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
 									}
 								]
 							},
