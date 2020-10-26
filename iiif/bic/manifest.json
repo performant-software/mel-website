@@ -1,0 +1,1749 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://melville.electroniclibrary.org/iiif/bic/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p0",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p0/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130022.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6011,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130022.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p0"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6011
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p1",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p1/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130024.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5925,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130024.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p1"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5925
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p2",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p2/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p2",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130025.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4491,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130025.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p2"
+						}
+					]
+				}
+			],
+			"height": 4491,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p3",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p3/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p3",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130029.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5873,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130029.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p3"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5873
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p4",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p4/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p4",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130030.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4518,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130030.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p4"
+						}
+					]
+				}
+			],
+			"height": 4518,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p5",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p5/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p5",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130128.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6102,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130128.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p5"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6102
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p6",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p6/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p6",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130129.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4423,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130129.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p6"
+						}
+					]
+				}
+			],
+			"height": 4423,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p7",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p7/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p7",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130221.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 4493,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130221.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p7"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 4493
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p8",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p8/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p8",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130222.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 4496,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130222.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p8"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 4496
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p9",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p9/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p9",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130306.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6031,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130306.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p9"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6031
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p10",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p10/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p10",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130307.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4402,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130307.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p10"
+						}
+					]
+				}
+			],
+			"height": 4402,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p11",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p11/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p11",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130314.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5898,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130314.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p11"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5898
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p12",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p12/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p12",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130315.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4434,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130315.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p12"
+						}
+					]
+				}
+			],
+			"height": 4434,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p13",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p13/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p13",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130316.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4383,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130316.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p13"
+						}
+					]
+				}
+			],
+			"height": 4383,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p14",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p14/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p14",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130317.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4406,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130317.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p14"
+						}
+					]
+				}
+			],
+			"height": 4406,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p15",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p15/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p15",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130318.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4379,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130318.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p15"
+						}
+					]
+				}
+			],
+			"height": 4379,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p16",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p16/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p16",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130319.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4381,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130319.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p16"
+						}
+					]
+				}
+			],
+			"height": 4381,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p17",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p17/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p17",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130320.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4439,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130320.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p17"
+						}
+					]
+				}
+			],
+			"height": 4439,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p18",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p18/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p18",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130321.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4423,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130321.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p18"
+						}
+					]
+				}
+			],
+			"height": 4423,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p19",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p19/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p19",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130322.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4474,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130322.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p19"
+						}
+					]
+				}
+			],
+			"height": 4474,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p20",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p20/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p20",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130323.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4497,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130323.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p20"
+						}
+					]
+				}
+			],
+			"height": 4497,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p21",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p21/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p21",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130380.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5988,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130380.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p21"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5988
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p22",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p22/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p22",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130381.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4460,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130381.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p22"
+						}
+					]
+				}
+			],
+			"height": 4460,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p23",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p23/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p23",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130382.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4436,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130382.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p23"
+						}
+					]
+				}
+			],
+			"height": 4436,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p24",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p24/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p24",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130383.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4494,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130383.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p24"
+						}
+					]
+				}
+			],
+			"height": 4494,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p25",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p25/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p25",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130384.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5870,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130384.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p25"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5870
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p26",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p26/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p26",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130671-1.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6003,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130671-1.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p26"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6003
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p27",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p27/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p27",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130671.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6003,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130671.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p27"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6003
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p28",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p28/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p28",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130672.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5950,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130672.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p28"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5950
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p29",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p29/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p29",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130732.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5935,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130732.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p29"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5935
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p30",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p30/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p30",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130733.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4497,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130733.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p30"
+						}
+					]
+				}
+			],
+			"height": 4497,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p31",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p31/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p31",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130734.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6006,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130734.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p31"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6006
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p32",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p32/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p32",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130746.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 4581,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130746.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p32"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 4581
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p33",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p33/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p33",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130747.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 4638,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130747.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p33"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 4638
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p34",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p34/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p34",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130748.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 4530,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130748.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p34"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 4530
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p35",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p35/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p35",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130749.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 4522,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130749.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p35"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 4522
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p36",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p36/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p36",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130792.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6011,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130792.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p36"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6011
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p37",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p37/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p37",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130793.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4500,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130793.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p37"
+						}
+					]
+				}
+			],
+			"height": 4500,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p38",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p38/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p38",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130794.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6026,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130794.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p38"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6026
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p39",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p39/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p39",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130795.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5966,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130795.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p39"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5966
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p40",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p40/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p40",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130796.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5888,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130796.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p40"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5888
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p41",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p41/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p41",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130797.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5887,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130797.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p41"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5887
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p42",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p42/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p42",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130798.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5913,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130798.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p42"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5913
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p43",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p43/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p43",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130799.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5909,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130799.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p43"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5909
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p44",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p44/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p44",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130800.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6095,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130800.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p44"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6095
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p45",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p45/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p45",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130801.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6159,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130801.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p45"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6159
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p46",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p46/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p46",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130802.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6010,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130802.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p46"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6010
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p47",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p47/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p47",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130804.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 5861,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130804.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p47"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 5861
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p48",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p48/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p48",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130805.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 4537,
+								"width": 6500,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130805.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p48"
+						}
+					]
+				}
+			],
+			"height": 4537,
+			"width": 6500
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p49",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p49/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p49",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130806.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6031,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130806.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p49"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6031
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p50",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/bic/canvas/p50/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/bic/annotation/p50",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130807.tif/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 6500,
+								"width": 6225,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/bic/JRL18130807.tif",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/bic/canvas/p50"
+						}
+					]
+				}
+			],
+			"height": 6500,
+			"width": 6225
+		}
+	],
+	"label": {
+		"en": [
+			"Bow in the Cloud"
+		]
+	}
+}
