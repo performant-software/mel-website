@@ -43,6 +43,9 @@ collections:
 
 
 exclude:
+  - Gemfile
+  - Gemfile.lock
+  - html-original
   - node_modules
   - LICENSE
   - Makefile
