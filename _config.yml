@@ -45,15 +45,5 @@ collections:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - html-original
-  - node_modules
-  - LICENSE
-  - Makefile
   - README.md
-  - package.json
-  - package-lock.json
-  - yarn.lock
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+ 
