@@ -1,0 +1,33 @@
+
+.floating-window {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    text-align: center;
+    border: 2px solid gray;
+  }
+  
+.floating-window-header {
+    padding: 10px;
+    cursor: move;
+    z-index: 10;
+    background-color: gray;
+    color: #fff;
+}
+
+.floating-window-close-x { 
+    font-style: bold;
+    color: white;
+    padding: 3px;
+    float: right;
+}
+
+.floating-window-content {
+    max-width: 400px;
+    max-height: 600px;
+    overflow: hidden;
+}
+
+.floating-window-content > img {
+    max-width: 400px;
+}

@@ -1,0 +1,55 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-areas:
+      'header header header header header header'
+      'nav main main main thumb thumb'
+      'nav footer footer footer footer footer';
+    padding: 10px;  
+    margin: 2em;
+    margin-top: 0px;
+}
+
+#header {
+    grid-area: header;
+}
+
+#table-of-contents {
+    grid-area: nav;
+    padding-right: 40px;
+    max-width: 300px;
+}
+
+#table-of-contents > ul {
+    list-style: none;
+    line-height: 1.5em;
+    padding: 0;
+}
+
+#table-of-contents > h2 {
+    border-bottom: 2px solid black;
+}
+
+#content {
+    grid-area: main;
+    max-width: 700px;
+}
+
+#thumbnail-margin {
+    grid-area: thumb;
+    min-width: 180px;
+}
+
+.thumbnail {
+    position: absolute;
+    right: 60px;
+    width: 120px;
+}
+
+#footer {
+    grid-area: footer;
+}
