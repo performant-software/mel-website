@@ -7,6 +7,16 @@
         {
             "type": "pwa-node",
             "request": "launch",
+            "name": "Run Whale",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "cwd": "${workspaceFolder}/scripts",
+            "program": "${workspaceFolder}/scripts/whale.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
             "name": "Run Minnow",
             "skipFiles": [
                 "<node_internals>/**"

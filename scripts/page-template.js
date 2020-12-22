@@ -28,7 +28,7 @@ const pageTemplate = function renderPage(content) {
         <div id="grid-container">
             <div id="header">
                 <h1>Melville Electronic Library</h1>
-                <p>Melville Electronic Library >> Versions of Moby-Dick</p>
+                <p><a href="/editions.html">Melville Electronic Library</a> >> Versions of Moby-Dick</p>
             </div>
             <div id="table-of-contents">
                 <h2>Chapters</h2>

@@ -35,9 +35,6 @@ async function run() {
                 const bodyEl = xmlDoc.getElementsByTagName('body')[0]
                 const divEl = xmlDoc.createElement('div')
                 divEl.setAttribute('id',chapterID)
-                const headEl = xmlDoc.createElement('head')
-                headEl.innerHTML = filename
-                divEl.appendChild(headEl)
                 for( let i=0; i < bodyEl.childNodes.length; i++ ) {
                     const child = bodyEl.childNodes[i]
                     divEl.appendChild(child.cloneNode(true))

@@ -72,60 +72,46 @@ async function process(sourceDocsPath, targetPath) {
     mirrorDirs(sourceDocsPath, targetPath)
     
     // For all xml files found in sourcePath, process them into HTML at target path
-    const contentFileIDs = locateContent(sourceDocsPath)
-
-    const xmlFileIDs = [], editionMetadatas = {}
-    // Collect edition metadata
-    for( const contentFileID of contentFileIDs ) {
-        if( contentFileID.endsWith('.json') ) {
-            const editionDataPath = `${sourceDocsPath}/${contentFileID}`
-            const editionDataJSON = fs.readFileSync(editionDataPath,"utf8")
-            editionMetadatas[contentFileID] = JSON.parse(editionDataJSON)
-        } else {
-            xmlFileIDs.push(contentFileID)
-        }
-    }
+    const xmlFileIDs = locateContent(sourceDocsPath)
+    const metadata = { toc: [{title:'test', html:'#'}]}
 
     for( const xmlFileID of xmlFileIDs ) {
         const sourceFile = `${sourceDocsPath}/${xmlFileID}.xml`
         const body = convertToHTML(sourceFile)
         if( body ) {
-            const parentFolder = `moby-dick`
-            const metaDataID = `${parentFolder}/edition.json`
-            const metadata = editionMetadatas[metaDataID]
             const html = pageTemplate({ body, metadata })
-            const targetFile = `${targetPath}/${idToURLPath(xmlFileID)}.html`
+            const targetFile = `${targetPath}/${xmlFileID}.html`
             fs.writeFileSync(targetFile, html, "utf8")    
         }    
     }
 }
 
-function idToURLPath(id) {
-    return id.toLowerCase().replace(/[\s]/g,'-').replace(/[&']/g,'').replace('--','-')
-}
+// function idToURLPath(id) {
+//     return id.toLowerCase().replace(/[\s]/g,'-').replace(/[&']/g,'').replace('--','-')
+// }
 
-function generateTOC( editionPath ) {
-    const dirContents = fs.readdirSync(editionPath, {withFileTypes: true});
+// function generateTOC( editionPath ) {
+//     const dirContents = fs.readdirSync(editionPath, {withFileTypes: true});
 
-    const toc = []
-    for( let i=0; i < dirContents.length; i++ ) {
-        const sourceDirEnt = dirContents[i];
-        const filename = sourceDirEnt.name
-        if( !sourceDirEnt.isDirectory() ) {
-            const xmlExtensionIndex = filename.indexOf('.xml')
-            if( xmlExtensionIndex != -1 ) {
-                const contentID = filename.substring(0,xmlExtensionIndex)
-                const contentPath = idToURLPath(contentID)
-                toc.push( {
-                    "title": contentID,
-                    "html": `mel/moby-dick/${contentPath}`
-                })
-            }
-        }        
-    }
+//     const toc = []
+//     for( let i=0; i < dirContents.length; i++ ) {
+//         const sourceDirEnt = dirContents[i];
+//         const filename = sourceDirEnt.name
+//         if( !sourceDirEnt.isDirectory() ) {
+//             const xmlExtensionIndex = filename.indexOf('.xml')
+//             if( xmlExtensionIndex != -1 ) {
+//                 const contentID = filename.substring(0,xmlExtensionIndex)
+//                 const contentPath = idToURLPath(contentID)
+//                 toc.push( {
+//                     "title": contentID,
+//                     "html": `mel/moby-dick/${contentPath}`
+//                 })
+//             }
+//         }        
+//     }
 
-    return { toc }
-}
+//     return { toc }
+// }
 
 async function run() {
     // const editionMetadata = generateTOC('xml/mel/moby-dick')
