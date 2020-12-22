@@ -16,8 +16,8 @@ function fileNameToID(fileName) {
 // NOTE: XML source changes will happen downstream of this script, for reference only.
 async function run() {
     // read in the file names for each edition
-    const originalsPath = 'originals/battle-pieces'
-    const xmlPath = 'xml/battle-pieces'
+    const originalsPath = 'originals/versions-of-billy-budd'
+    const xmlPath = 'xml/versions-of-billy-budd'
     const dirContents = fs.readdirSync(originalsPath, {withFileTypes: true});
 
     for( let i=0; i < dirContents.length; i++ ) {

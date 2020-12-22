@@ -73,7 +73,8 @@ async function process(sourceDocsPath, targetPath) {
 
 async function run() {
     // TODO mkdir editions if necessary
-    await process('../xml/battle-pieces','../editions/battle-pieces')
+    await process('../xml/versions-of-billy-budd','../editions/versions-of-billy-budd')
+    // await process('../xml/battle-pieces','../editions/battle-pieces')
     // await process('../xml/versions-of-moby-dick','../editions/versions-of-moby-dick')
 }
 
