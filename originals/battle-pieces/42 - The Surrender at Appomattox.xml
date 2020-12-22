@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>42 - The Surrender at Appomattox</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher></publisher>
+			<pubPlace></pubPlace>
+			<date></date>
+		<authority></authority>
+		<availability><p></p></availability>
+	</publicationStmt>
+			<sourceDesc><p></p></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001273281-npagltfddpoxn7b9-cc43a9d1cae287c36ceafdb31d310719%2F147.jpg"/>The Surrender at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:489" type="place">Appomattox</name>
+(April, 1865)
+
+</p><p>As billows upon billows roll,
+  On victory victory breaks;
+Ere yet seven days from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:441" type="place">Richmond</name>&amp;apos;s fall
+  And crowning triumph wakes
+The loud joy-gun, whose thunders run
+  By sea-shore, streams, and lakes.
+    The hope and great event agree
+    In the sword that <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> received from <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>.
+
+</p><p>The warring eagles fold the wing,
+  But not in <ref target="#ref_19227">Cæsar</ref><note xml:id="ref_19227">Title for the emperor of Rome.
+
+[reference, historical, title]</note>&amp;apos;s sway;
+Not <name ref="https://mel-catalog.herokuapp.com/api/entries/place:8" type="place">Rome</name> o&amp;apos;ercome by Roman arms we sing,
+  As on <ref target="#ref_19231">Pharsalia</ref><note xml:id="ref_19231">Roman epic poem by Lucan. 
+
+[reference, literary]</note>&amp;apos;s day,
+But Treason thrown, though a giant grown,
+  And Freedom&amp;apos;s larger play.
+    All human tribes glad token see
+    In the close of the wars of Grant and Lee.
+</p></body>
+		</text>
+	</TEI>

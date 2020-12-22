@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>67 - A Requiem</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher></publisher>
+			<pubPlace></pubPlace>
+			<date></date>
+		<authority></authority>
+		<availability><p></p></availability>
+	</publicationStmt>
+			<sourceDesc><p></p></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002472269-gf40qy8ufonzsemi-68682fcab01ab928780f45e0ec432a87%2F186.jpg"/>A Requiem
+<ref target="#ref_21175">for Soldiers lost in Ocean Transports</ref><note xml:id="ref_21175">[criticism][interpretation] Martin Griffin notes that the poem raises awareness of a marginalized experience. While the naval battles were memoralized in story and song, naval troop transports found no place among the favored settings of popular memoralization. (Ashes of the Mind, 76). (Max Bock / Eric Meckley)</note>
+
+</p><p>When, after storms that woodlands rue,
+  To valleys comes atoning dawn,
+The robins blithe their orchard-sports renew;
+  And meadow-larks, no more withdrawn,
+Caroling fly in the languid blue;
+The while, from many a hid recess,
+Alert to partake the blessedness,
+The pouring mites their airy dance pursue.
+  So, after ocean&amp;apos;s ghastly gales,
+When laughing light of <ref target="#ref_21179">hoyden</ref><note xml:id="ref_21179">[definition] A girl or woman of saucy, boisterous, or carefree behavior. (Merriam-Webster) (Eric Meckley)</note> morning breaks,
+      Every finny hider wakes—
+  From vaults profound swims up with glittering scales;
+  Through the delightsome sea he sails,
+With shoals of shining tiny things
+Frolic on every wave that flings
+  Against the prow its showery spray;
+All creatures joying in the morn,
+Save them forever from <ref target="#ref_21178">joyance</ref><note xml:id="ref_21178">[definition] Delight, enjoyment, festivity. (Eric Meckley)</note> torn,
+  Whose bark was lost where now the dolphins play;
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002475618-qrk5q0nyumuqh0k9-68682fcab01ab928780f45e0ec432a87%2F187.jpg"/>Save them that by the fabled shore,
+  Down the pale stream are washed away,
+Far to the reef of bones are borne;
+  And never revisits them the light,
+Nor sight of long-sought land and pilot more;
+  Nor heed they now the lone bird&amp;apos;s flight
+Round the lone spar where mid-sea surges pour.</p></body>
+		</text>
+	</TEI>

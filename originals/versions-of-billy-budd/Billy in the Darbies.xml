@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>Billy in the Darbies</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher></publisher>
+			<pubPlace></pubPlace>
+			<date></date>
+		<authority></authority>
+		<availability><p></p></availability>
+	</publicationStmt>
+			<sourceDesc><p></p></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><p><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0789.tif" tl_leaf="https://app.textlab.org/transcriptions/17619"/>
+Good of the Chaplain to enter Lone Bay  
+And down on his marrow-bones here and pray  
+For the likes just o&amp;apos; me, Billy Budd.—But, look:  
+Through the port comes the moon-shine astray!  
+It tips the guard&amp;apos;s <orig regularizedText="cutlas">cutlass</orig> and silvers this nook;  
+But &amp;apos;twill die in the dawning of Billy&amp;apos;s last day.   
+A jewel-block they&amp;apos;ll make of me tomorrow,   
+Pendant pearl from the yard-arm-end  
+Like the ear-drop I gave to Bristol Molly— <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0791.tif" tl_leaf="https://app.textlab.org/transcriptions/17622"/>
+O, &amp;apos;tis me, not the sentence they&amp;apos;ll suspend.  
+Ay, Ay, all is up; and I must up too  
+Early in the morning, aloft from alow.
+On an empty stomach now never it would do.   
+They&amp;apos;ll give me a nibble—bit o&amp;apos; <orig regularizedText="buiscit">biscuit</orig> ere I go.  
+Sure, a messmate will reach me the last parting cup;
+But, turning heads away from the hoist and the belay,  
+Heaven knows who will have the running of me up!
+No pipe to those halyards.—But aren&amp;apos;t it all sham?
+A blur&amp;apos;s in my eyes; it is dreaming that I am.  
+A hatchet to my <orig regularizedText="hauzer">hawser</orig>? all adrift to go? <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0793.tif" tl_leaf="https://app.textlab.org/transcriptions/17621"/>
+The drum roll to grog, and Billy never know?
+But Donald he has promised to stand by the plank;
+So I&amp;apos;ll shake a friendly hand ere I sink.
+But—no! It is dead then I&amp;apos;ll be, come to think.—
+I remember Taff the Welshman when he sank.
+And his cheek it was like the budding pink
+But me they&amp;apos;ll lash me in hammock, drop me deep. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0795.tif" tl_leaf="https://app.textlab.org/transcriptions/17620"/>
+Fathoms down, fathoms down, how I&amp;apos;ll dream fast asleep.  
+I feel it stealing now. Sentry, are you there? 
+Just ease <orig regularizedText="this"><ref target="#ref_30172">these</ref><note xml:id="ref_30172">HM had "this iron," then "shackles," before settling on "darbies," but he neglected to modify "this" accordingly.</note></orig> darbies at the wrist, 
+and roll me over fair,  
+I am sleepy, and the oozy weeds about me twist.</p></body>
+		</text>
+	</TEI>

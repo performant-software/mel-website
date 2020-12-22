@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>32 - Sheridan at Cedar Creek</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher></publisher>
+			<pubPlace></pubPlace>
+			<date></date>
+		<authority></authority>
+		<availability><p></p></availability>
+	</publicationStmt>
+			<sourceDesc><p></p></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><p><pb/><ref target="#ref_19226"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name></ref><note xml:id="ref_19226">A version of "Sheridan at Cedar Creek" was published as “Philip” in Harper’s New Monthly Magazine 32 (April 1866), 640, one of four other poems in Battle-Pieces to be previously published in that journal anonymously." (variation)</note>
+(October, 1864)
+
+</p><p>Shoe <ref target="#ref_19009">the steed</ref><note xml:id="ref_19009">Rienzi, Sheridan's celebrated horse. Renamed Winchester after the ride to Cedar Creek described in the poem.
+
+(Eric Meckley) </note> with silver
+  That bore him to the fray,
+<ref target="#ref_20924">When he heard the guns at dawning</ref><note xml:id="ref_20924">[Allusion] [Literary] Melville's poem was inspired by (and perhaps a response to) Thomas Buchanan Read's "Sheridan's Ride" an early account written after the battle and published throughout the North. Read's first also stanza describes Sheridan hearing the guns and realizing the battle had begun anew. 
+(Eric Meckley) </note>—
+      Miles away;
+When he heard them calling, calling—
+    Mount! nor stay:
+      Quick, or all is lost;
+      They&amp;apos;ve surprised and stormed the post,
+      They push your routed host—
+  Gallop! retrieve the day.
+
+</p><p>House the horse in ermine—
+  For the foam-flake blew
+White through the red October;
+  He thundered into view;
+They cheered him in the looming,
+  Horseman and horse they knew.
+      The turn of the tide began,
+      The rally of bugles ran,
+      He swung his hat in the van;
+  The electric hoof-spark flew.
+
+</p><p>Wreathe the steed and lead him—
+  For the charge he led
+Touched and turned the cypress
+  Into amaranths for the head
+Of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:115" type="person">Philip</name>, king of riders,
+  Who raised them from the dead.
+      The camp (at dawning lost),
+      By eve, recovered—forced,
+      Rang with laughter of the host
+  At belated <name ref="https://mel-catalog.herokuapp.com/api/entries/person:175" type="person">Early</name> fled.
+
+</p><p>Shroud the horse in sable—
+  For the mounds they heap!
+There is firing in the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:446" type="place">Valley</name>,
+  And yet no strife they keep;
+It is the parting volley,
+  It is the pathos deep.
+      There is glory for the brave
+      Who lead, and nobly save,
+      But no knowledge in the grave
+  Where the nameless followers sleep.
+</p></body>
+		</text>
+	</TEI>

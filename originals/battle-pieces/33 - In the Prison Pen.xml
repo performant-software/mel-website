@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>33 - In the Prison Pen</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher></publisher>
+			<pubPlace></pubPlace>
+			<date></date>
+		<authority></authority>
+		<availability><p></p></availability>
+	</publicationStmt>
+			<sourceDesc><p></p></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000722113-uq8a0yc0l4bo6r-bbf9eec77ac9b52e5857420da7cee66b%2F128.jpg"/>In the Prison Pen
+(1864)
+
+</p><p>Listless he eyes the palisades
+  And sentries in the glare;
+&amp;apos;Tis barren as a <ref target="#ref_19248">pelican-beach</ref><note xml:id="ref_19248">"I am like a pelican of the wilderness: I am like an owl of the desert." Psalm 102 (Published Poems 653)</note>—
+  But his world is ended there.
+
+</p><p>Nothing to do; and vacant hands
+  Bring on the idiot-pain;
+He tries to think—to recollect,
+  But the blur is on his brain.
+
+</p><p>Around him swarm <ref target="#ref_19251">the plaining ghosts
+  Like those on <name ref="https://mel-catalog.herokuapp.com/api/entries/person:203" type="person">Virgil</name>&amp;apos;s shore</ref><note xml:id="ref_19251">See the Aeneid, 6, 297-316 and its reference to "the unsanctified dead who plead with Charon to be carried across the River Styx." (Cohen 253) [reference, literary]</note>—
+A wilderness of faces dim,
+  And pale ones gashed and hoar.
+
+</p><p>A smiting sun. No shed, no tree;
+  He totters to his lair—
+A <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:914" type="artwork"><ref target="#ref_19279">den</ref><note xml:id="ref_19279">Augustus C. Hamlin describes these earthen dens at length in his 1866 book Martyria; or, Andersonville Prison: “Sometimes the heavy rains washed away the roofs of mud, inundating the occupants beneath. Some of the poor wretches had not the strength to lift up the incumbent mass of earth, and perished miserably in their dens” (56). (Leslie McAbee)</note> that sick hands dug in earth</name>
+  Ere famine wasted there,
+
+</p><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000725726-e000lh4m7bqsq0k9-bbf9eec77ac9b52e5857420da7cee66b%2F129.jpg"/>Or, dropping in his place, he swoons,
+  Walled in by throngs that press,
+Till forth from the throngs they bear him dead—
+  Dead in his meagreness.</p></body>
+		</text>
+	</TEI>

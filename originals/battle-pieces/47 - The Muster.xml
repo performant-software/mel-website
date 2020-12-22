@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>47 - The Muster</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher></publisher>
+			<pubPlace></pubPlace>
+			<date></date>
+		<authority></authority>
+		<availability><p></p></availability>
+	</publicationStmt>
+			<sourceDesc><p></p></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001593733-jmyjkjo2w7yqr529-3d3763f65b2bc976097d621404b322fa%2F156.jpg"/><hi rend="bold">The Muster
+Suggested by the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:27" type="event">Two Days&amp;apos; Review</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:491" type="place">Washington</name>
+(May, 1865)
+</hi>
+</p><p><ref target="#ref_19246">The Abrahamic river</ref><note xml:id="ref_19246">Hennig Cohen takes this to be the Mississippi River, whose name means "Father of Waters" paralleling Abraham's calling to be the father of many nations in the book of Genesis.
+
+(Cohen, 271) [reference, etymology, geography, biblical]</note>—
+  Patriarch of floods,
+Calls the roll of all his streams
+  And watery mutitudes:
+      Torrent cries to torrent,
+        The rapids hail the fall;
+      With shouts the inland freshets
+        Gather to the call.
+    
+	The quotas of the Nation,
+      Like the water-shed of waves,
+    Muster into union—
+      Eastern warriors, Western braves.
+    
+	<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001596822-pllpidabx6uk57b9-3d3763f65b2bc976097d621404b322fa%2F157.jpg"/>Martial strains are mingling,
+      Though distant far the bands,
+    And the wheeling of the squadrons
+      Is like surf upon the sands.
+    
+	The bladed guns are gleaming—
+      Drift in lengthened trim,
+    Files on files for hazy miles—
+      Nebulously dim.
+    
+	O <ref target="#ref_19249">Milky Way</ref><note xml:id="ref_19249">The galaxy that contains our solar system. 
+
+[reference, astronomy]</note> of armies—
+      Star rising after star,
+    New banners of the Commonwealths,
+ 	  And eagles of the War.
+
+</p><p>The Abrahamic river
+  To sea-wide fullness fed,
+Pouring from the thaw-lands
+  By the God of floods is led:
+      His deep enforcing current
+        The streams of ocean own,
+      And <name ref="https://mel-catalog.herokuapp.com/api/entries/place:31" type="place">Europe</name>&amp;apos;s marge is evened
+        By rills from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:493" type="place">Kansas</name> lone.</p></body>
+		</text>
+	</TEI>

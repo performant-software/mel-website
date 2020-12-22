@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>34 - The College Colonel</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher></publisher>
+			<pubPlace></pubPlace>
+			<date></date>
+		<authority></authority>
+		<availability><p></p></availability>
+	</publicationStmt>
+			<sourceDesc><p></p></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000647026-vuvbg9k588vyrpb9-927fded6008b3555209b41cf0a88f158%2F130.jpg"/><ref target="#ref_19205"><ref target="#ref_19211">The College Colonel</ref><note xml:id="ref_19211">This poem was included in Edmund Clarence Stedman's An American Anthology, 1787-1900, Boston and New York: Houghton, Mifflin, 1900, 235.</note></ref><note xml:id="ref_19205">https://en.wikipedia.org/wiki/William_Francis_Bartlett</note>
+
+</p><p>He rides at their head;
+  A crutch by his saddle just slants in view,
+One slung arm is in splints, you see,
+  Yet he guides his strong steed—how coldly too.
+
+</p><p><ref target="#ref_19193">He brings his regiment home</ref><note xml:id="ref_19193">Bartlett and the soldiers of the Massachusetts 49th paraded in Pittsfield, Massachusetts on April 22, 1863 (Garner 266-269)</note>—
+  Not as they filed <ref target="#ref_19197">two years</ref><note xml:id="ref_19197">Stanton Garner notes how Melville fictionalized the Pittsfield parade of Bartlett and his soldiers by placing it later in time. The parade was a little over nine months before and not two years. (Garner 269)</note> before,
+But a remnant <ref target="#ref_19201">half-tattered</ref><note xml:id="ref_19201">"To have marched into Pittsfield in all our dirt and rags would have have been an affectation of heroism."  Henry T. Johns, Life with the Forty-ninth Massachusetts Volunteers [Rev. ed.] Washington, D.C.: Ramsey and Bisbee, 1890, 403  (Garner 269)</note>, and battered, and worn,
+Like castaway sailors, who—stunned
+    By the surf&amp;apos;s loud roar,
+  Their mates dragged back and seen no more—
+Again and again breast the surge,
+  And at last crawl, spent, to shore.
+
+</p><p>A still rigidity and pale—
+  An Indian aloofness lones his brow;
+He has lived a thousand years
+Compressed in battle&amp;apos;s pains and prayers,
+  Marches and watches slow.
+
+</p><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000651014-7sd6vdyyplhrrudi-927fded6008b3555209b41cf0a88f158%2F131.jpg"/>There are <ref target="#ref_19203">welcoming shouts, and flags</ref><note xml:id="ref_19203">"The residence of J. R. Morewood, Esq., was handsomely illuminated, and there was a fine display of fireworks on his grounds, on Saturday evening, in honor of the return of the 49th, and the Colonel of the Regiment."  The Melville's decorated their home Arrowhead with "Flags and festoons." Pittsfield Sun (August 27, 1863) (Leyda, Log, 662; Cohen 253-4)</note>;
+  Old men off hat to the Boy,
+Wreaths from gay balconies fall at his feet,
+  But to him—there comes alloy.
+
+</p><p>It is not that a leg is lost,
+  It is not that an arm is maimed.
+It is not that the fever has racked—
+  Self he has long disclaimed.
+
+</p><p>But all through the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">Seven Day&amp;apos;s Fight</name>,
+  And deep in the wilderness grim,
+And in the field-hospital tent,
+  And <ref target="#ref_19190"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:13" type="place">Petersburg</name> crater</ref><note xml:id="ref_19190">See "The Apparition."</note>, and dim
+Lean brooding in <ref target="#ref_19192">Libby</ref><note xml:id="ref_19192">Libby Prison in Richmond, Virginia, a warehouse where captured Union officers were held.
+https://en.wikipedia.org/wiki/Libby_Prison</note>, there came—
+  Ah heaven!—what <hi rend="italic"><ref target="#ref_19208">truth</ref><note xml:id="ref_19208">what meaning is added to the "truth" through Melville's italicization? [style]</note></hi> to him.
+</p></body>
+		</text>
+	</TEI>

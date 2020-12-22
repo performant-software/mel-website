@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>7 The Chapel</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher></publisher>
+			<pubPlace></pubPlace>
+			<date></date>
+		<authority></authority>
+		<availability><p></p></availability>
+	</publicationStmt>
+			<sourceDesc><p></p></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517779510205-1e9aye5o7ui-047c34f6f61235162591944771a71e6c%2FMD_Amer_0074.jpg"/>CHAPTER 7
+THE CHAPEL
+
+</p><p>IN this same <name ref="https://mel-catalog.herokuapp.com/api/entries/place:61" type="place">New Bedford</name> there stands a <ref target="#ref_15737">Whaleman’s Chapel</ref><note xml:id="ref_15737">Whaleman’s Chapel: Melville attended a service there before sailing in January 1841. The rebuilt <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:101'>New Bedford Seamen's Bethel</ref>, on the walls of which the memorial tablets Ishmael mentions can still be seen, is in the same spot on Johnny-Cake Hill.</note>, and few are the moody fishermen, shortly bound for the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:18" type="place">Indian Ocean</name> or <name ref="https://mel-catalog.herokuapp.com/api/entries/place:35" type="place">Pacific</name>, who fail to make a Sunday visit to the spot. I am sure that I did not.
+
+</p><p>Returning from my first morning stroll, I again sallied out upon this special errand. The sky had changed from clear, sunny cold, to driving sleet and mist. Wrapping myself in my<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517779542394-vjvasfrsjqe-047c34f6f61235162591944771a71e6c%2FMD_Amer_0075.jpg"/>shaggy jacket of the cloth called <ref target="#ref_15729">bearskin</ref><note xml:id="ref_15729">bearskin: shaggy woolen cloth.</note>, I fought my way against the stubborn storm. Entering, I found a small scattered congregation of sailors, and sailors’ wives and widows. A muffled silence reigned, only broken at times by the shrieks of the storm. Each silent worshipper seemed purposely sitting apart from the other, as if each silent grief were insular and incommunicable. The chaplain had not yet arrived; and there these silent islands of men and women sat steadfastly eyeing several marble tablets, with black borders, masoned into the wall on either side the pulpit. Three of them ran something like the following, but I do not pretend to quote:—
+
+</p><p>S A C R E D
+<hi rend="bold">To the Memory</hi>
+of
+JOHN TALBOT,
+Who, at the age of eighteen, was lost overboard,
+Near the <ref target="#ref_15730">Isle of Desolation</ref><note xml:id="ref_15730">Isle of Desolation: uninhabited island off the tip of <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:29'>South America</ref>.</note>, off <name ref="https://mel-catalog.herokuapp.com/api/entries/place:284" type="place">Patagonia</name>,
+<hi rend="italic">November 1st, </hi>1836.
+THIS TABLET
+Is erected to his Memory
+BY HIS SISTER.
+
+</p><p>SACRED
+<hi rend="bold">To the Memory</hi>
+of
+ROBERT LONG, WILLIS ELLERY,
+NATHAN COLEMAN, WALTER CANNY, SETH MACY, AND SAMUEL GLEIG,
+Forming one of the boats’ crews
+of
+<hi rend="bold">THE SHIP ELIZA</hi>,
+Who were towed out of sight by a Whale,
+On the <ref target="#ref_15738">Off-shore Ground</ref><note xml:id="ref_15738"><ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:103'>Off-shore ground (Pacific Ocean)</ref>: Large area of the Pacific Ocean west of <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:147'>Peru</ref>, from approximately 5 to 10 degrees south latitude and 90 to 125 degrees west longitude. In 1820 the <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:30'>Nantucket, Massachusetts</ref> whaler Essex (whose story is briefly told in Ch. 45) sank there after being struck by a bull sperm whale, 3,000 miles from the Peruvian coast.</note> in the
+P A C I F I C,
+<hi rend="italic">December 31st</hi>, 1839.
+THIS MARBLE
+Is here placed by their surviving
+<hi rend="bold">Shipmates.</hi>
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517779789474-etb7um0onil-047c34f6f61235162591944771a71e6c%2FMD_Amer_0076.jpg"/>
+</p><p>S A C R E D
+<hi rend="bold">To the Memory</hi>
+of
+The late
+CAPTAIN EZEKIEL HARDY,
+Who in the bows of his boat was killed by a
+Sperm Whale on the coast of <ref target="#ref_15739">Japan</ref><note xml:id="ref_15739">Japan: The first of 21 references to <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:104'>Japan</ref> distributed throughout Moby-Dick. The Japanese Cruising (Whaling) Ground <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:222'>Kagoshima Bay, Japan</ref> is cited by name four times and otherwise alluded to, as it is here on the memorial tablet. It is said that near Japan Ahab lost his leg (Ch. 28) and the Pequod her masts (Ch. 18), while, remarkably, the vessel’s new masts came from Japan (Ch. 16) despite the fact that it forbade foreigners to touch there, as emphasized in “That double-bolted land, Japan” (Ch. 24), “impenetrable Japans” (Ch. 111), and “locked Japan” (Ch. 123). Characteristic, high-pooped Japanese junks are alluded to in Chs. 16 and 50, while the Japanese seas are glorious and “resplendent” (Chs. 118 and 199), with their own fabulous whale, named Morquan (Ch. 45).</note>, 
+<hi rend="italic">August 3d</hi>, 1833.
+THIS TABLET
+Is erected to his Memory
+BY
+<hi rend="bold">HIS WIDOW.</hi>
+
+</p><p>Shaking off the sleet from my ice-glazed hat and jacket, I seated myself near the door, and turning sideways was surprised to see Queequeg near me. Affected by the solemnity of the scene, there was a wondering gaze of incredulous curiosity in his countenance. This savage was the only person present who seemed to notice my entrance; because he was the only one who could not read, and, therefore, was not reading those frigid inscriptions on the wall. Whether any of the relatives of the seamen whose names appeared there were now among the congregation, I knew not; but so many are the unrecorded accidents in the fishery, and so plainly did several women present wear the countenance if not the trappings of some unceasing grief, that I feel sure that here before me were assembled those, in whose unhealing hearts the sight of those bleak tablets sympathetically caused the old wounds to bleed afresh.
+
+</p><p>Oh! ye whose dead lie buried beneath the green grass; who standing among flowers can say—here, here lies my beloved; ye know not the desolation that broods in bosoms like these. What bitter blanks in those black-bordered marbles which cover no ashes! What despair in those immovable inscriptions! What deadly voids and unbidden infidelities in the lines that seem to gnaw upon all Faith, and refuse resurrections to the <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517779985933-5nd2qi8l1n-047c34f6f61235162591944771a71e6c%2FMD_Amer_0077.jpg"/>beings who have placelessly perished without a grave. As well might those tablets stand in the cave of <ref target="#ref_15731"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:943" type="artwork">Elephanta</name></ref><note xml:id="ref_15731"><ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:277'>Elephanta Caves, Mumbai, India</ref>: cave-temple to Hindu goddess <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/person:272'>Shiva the Destroyer</ref> or Siva the Destroyer on an island in the Bay of Bombay, India.</note> as here.
+
+</p><p>In what census of living creatures, the dead of mankind are included; why it is that a universal proverb says of them, that they tell no tales, though containing more secrets than the <ref target="#ref_15733"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1014" type="artwork">Goodwin Sands</name></ref><note xml:id="ref_15733"><ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/place:106'>Goodwin Sands, UK</ref>: treacherous shoals and graveyard of ships, off the east coast of England.</note>; how it is that to his name who yesterday departed for the other world, we prefix so significant and infidel a word, and yet do not thus entitle him, if he but embarks for the remotest Indies of this living earth; why the Life Insurance Companies pay death-forfeitures upon immortals; in what eternal, unstirring paralysis, and deadly, hopeless trance, yet lies antique <ref target="#ref_21246">Adam</ref><note xml:id="ref_21246">Adam . . . sixty round centuries ago: One of the then-current calculations from biblical chronology.</note> who died sixty round centuries ago; how it is that we still refuse to be comforted for those who we nevertheless maintain are dwelling in unspeakable bliss; why all the living so strive to hush all the dead; wherefore but the rumor of a knocking in a tomb will terrify a whole city. All these things are not without their meanings.
+
+</p><p>But Faith, like a jackal, feeds among the tombs, and even from these dead doubts she gathers her most vital hope.
+
+</p><p>It needs scarcely to be told, with what feelings, on the eve of a <name ref="https://mel-catalog.herokuapp.com/api/entries/place:30" type="place">Nantucket</name> voyage, I regarded those marble tablets, and by the murky light of that darkened, doleful day read the fate of the whalemen who had gone before me. Yes, Ishmael, the same fate may be thine. But somehow I grew merry again. Delightful inducements to embark, fine chance for promotion, it seems—aye, a <ref target="#ref_15734">stove boat</ref><note xml:id="ref_15734">stove boat: smashed or punctured boat (in this case by a whale); see present tense form in “stave my soul” in the last sentence.</note> will make me an immortal by <ref target="#ref_15735">brevet</ref><note xml:id="ref_15735">brevet: temporary military promotion sometimes given on the battlefield.</note>. Yes, there is death in this business of whaling—a speechlessly quick chaotic bundling of a man into Eternity. But what then? Methinks we have hugely mistaken this matter of Life and Death. Methinks that what they call my <ref target="#ref_21244">shadow</ref><note xml:id="ref_21244">my shadow here on earth is my true substance: Ishmael speaks in contrast to the allegory of the cave in the <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/text:147'>Republic</ref> of <ref type='reference' target='https://mel-catalog.herokuapp.com/api/entries/person:273'>Plato</ref>, in which shadows are only appearances and sunlight is true being. For false and true lights, see also Chs. 96 and 119.</note> here on earth is my true substance. Methinks that in looking at things spiritual, we are too much like oysters observing the sun through the water, and thinking that thick water the thinnest of air. Methinks my body is but the <ref target="#ref_15736">lees</ref><note xml:id="ref_15736">lees: dregs.</note> of my better being.
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517780017089-kzmru92ccad-047c34f6f61235162591944771a71e6c%2FMD_Amer_0078.jpg"/>
+</p><p> In fact take my body who will, take it I say, it is not me. And therefore three cheers for Nantucket; and come a stove boat and stove body when they will, for stave my soul, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:220" type="person">Jove</name> himself cannot.
+ </p></body>
+		</text>
+	</TEI>
