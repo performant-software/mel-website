@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>Etymology</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher/>
+			<pubPlace/>
+			<date/>
+		<authority/>
+		<availability><p/></availability>
+	</publicationStmt>
+			<sourceDesc><p/></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<front><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227481825-qx23wi0k81-bb4b1b673c87fe661ebcec7e43132023%2F000005737_0021.jpg"/>ETYMOLOGY
+(SUPPLIED BY A LATE <ref target="#ref_19450">CONSUMPTIVE USHER</ref><note xml:id="ref_19450">Consumptive Usher: assistant teacher with consumption (tuberculosis). </note> TO A GRAMMAR SCHOOL.)
+The pale Usher—threadbare in coat, heart, body, and brain; I see him now. He was ever dusting his old lexicons and grammars, with a queer handkerchief, mockingly embellished with all the gay flags of all the known nations of the world. He loved to dust his old grammars; it somehow mildly reminded him of his mortality.
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227528354-1lt3ihrlf2p-bb4b1b673c87fe661ebcec7e43132023%2F000005737_0022.jpg"/>ETYMOLOGY.
+“While you take in hand to school others, and to teach them by what name a whale-fish is to be called in our tongue, leaving out, through ignorance, the letter H, which almost alone maketh up the signification of the word, you deliver that which is not true.”
+<name ref="https://mel-catalog.herokuapp.com/api/entries/person:226" type="person">Hackluyt</name>.
+“WHALE.  *  *  *  Sw. and Dan. hval. This animal is named from roundness or rolling; for in Dan. hvalt is arched or vaulted.”
+<name ref="https://mel-catalog.herokuapp.com/api/entries/person:228" type="person">Webster</name>’s Dictionary.
+“WHALE.  *  *  *  It is more immediately from the Dut. and Ger. Wallen; A.S. Walw-ian, to roll, to wallow.”
+<name ref="https://mel-catalog.herokuapp.com/api/entries/person:227" type="person">Richardson</name>’s Dictionary.
+vh,	Hebrew.
+chtoj,	Greek.
+CETUS,	Latin.
+WHÆL,	Anglo-Saxon.
+HVALT,	Danish.
+WAL,	Dutch.
+HWAL,	Swedish.
+WHALE,	Icelandic.
+WHALE,	English.
+BALEINE,	French.
+BALLENA,	Spanish.
+PEKEE-NUEE-NUEE,	Fegee.
+PEHEE-NUEE-NUEE,	Erromangoan.
+</p></front><body><div xmlns="" id="etymology"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517802039916-rhu88hbron-437d696a4b2b9ef0fcc98cddfedd1791%2FMD_Amer_0021.jpg"/>ETYMOLOGY.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">(SUPPLIED BY A <ref target="#ref_27324">LATE CONSUMPTIVE</ref><note xml:id="ref_27324">Consumptive Usher: assistant teacher with consumption (tuberculosis).</note> USHER TO A 
+GRAMMAR SCHOOL.)
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">The pale Usher—threadbare in coat, heart, body, and brain; I see him now. He was ever dusting his old lexicons and grammars, with a queer handkerchief, mockingly embellished with all the gay flags of all the known nations of the world. He loved to dust his old grammars; it somehow mildly reminded him of his mortality.
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517802300282-ir517pupak-437d696a4b2b9ef0fcc98cddfedd1791%2FMD_Amer_0022.jpg"/>
+</p><p xmlns="http://www.tei-c.org/ns/1.0">ETYMOLOGY
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“While you take in hand to school others, and to teach them by what name a whale-fish is to be called in our tongue, leaving out, through ignorance, the letter H, which almost alone maketh up the signification of the word, you deliver that which is not true.”  <hi rend="italic">Hackluyt.</hi>
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“WHALE.  *  *  *  Sw. and Dan. <hi rend="italic">hval</hi>. This animal is named from roundness or rolling; for in Dan. <hi rend="italic">hvalt</hi> is arched or vaulted.” <hi rend="italic">Webster’s Dictionary</hi>.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“WHALE.  *  *  *  It is more immediately from the Dut. and Ger. <hi rend="italic">Wallen</hi>; a.s. Walw-ian, to roll, to wallow.” <hi rend="italic">Richardson’s Dictionary</hi>.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">vh,	<hi rend="italic">Hebrew</hi>.
+chtoj,	<hi rend="italic">Greek</hi>.
+CETUS,	<hi rend="italic">Latin</hi>.
+WHÆL,	<hi rend="italic">Anglo-Saxon</hi>.
+HVALT,	<hi rend="italic">Danish</hi>.
+WAL,	<hi rend="italic">Dutch</hi>.
+HWAL,	<hi rend="italic">Swedish</hi>.
+WHALE,	<hi rend="italic">Icelandic</hi>.
+WHALE,	<hi rend="italic">English</hi>.
+BALEINE,	<hi rend="italic">French</hi>.
+BALLENA,	<hi rend="italic">Spanish</hi>.
+PEKEE-NUEE-NUEE,	<hi rend="italic">Fegee</hi>.
+PEHEE-NUEE-NUEE,	<hi rend="italic">Erromangoan</hi>.</p></div></body>
+		</text>
+	</TEI>

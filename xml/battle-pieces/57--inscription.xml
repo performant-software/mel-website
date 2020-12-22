@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>57 - Inscription</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher/>
+			<pubPlace/>
+			<date/>
+		<authority/>
+		<availability><p/></availability>
+	</publicationStmt>
+			<sourceDesc><p/></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><div xmlns="" id="57--inscription"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002053636-e1sfc7jcs8wr8uxr-b2ccb6b39402b7d03854d8580da99c5c%2F176.jpg"/><ref target="#ref_20931">Inscription</ref><note xml:id="ref_20931">Note 1: [Historical] The Army of the Southwest fought General Price’s Confederate army in northwestern Arkansas in the Battle of Pea Ridge, which began on March 6, 1862 and continued through March 8, 1862. The Confederate army was forced to retreat deeper into Arkansas (Garner 142). (Christina Lee)</note> 
+for Graves at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:494" type="place">Pea Ridge, Arkansas</name>
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Let none misgive <ref target="#ref_20970">we</ref><note xml:id="ref_20970">Note 4: [Criticism] Caddell notes that “this poem challenges the Wordsworthian model of the epitaph both in its plurality of dead speakers, who address a reader apt to ‘misgive’ their reasons for fighting and dying, and in the less-than-noble motivations that brought them to their end – they died ‘amiss’” (308). (Christina Lee)</note> died amiss
+  When here we strove in furious fight:
+Furious it was; <ref target="#ref_20923">nathless</ref><note xml:id="ref_20923">Note 2: NATHLESS [Reference] [Allusion-Literary] Nevertheless, notwithstanding (OED “nathless”). Literary reference to Paradise Lost “The torrid Clime Smote on him sore…; Nathless he so endur’d” (Milton I.299). (Christina Lee)</note> was this
+  Better than tranquil plight,
+And tame surrender of the <ref target="#ref_20928">Cause</ref><note xml:id="ref_20928">Note 3: [Critical][Intratextual] This poem, along with “The Fortitude of the North under the Disaster of the Second Manassas” focuses on Right and Cause, part of “a constellation of values associated with Law in Melville’s mind” (Shurr 17). (Christina Lee)</note>
+Hallowed by hearts and by the laws.
+  We here who warred for Man and Right,
+The choice of warring never laid with us.
+  There we were ruled by the traitor&apos;s choice.
+  Nor long we stood to trim and poise,
+But marched, and fell—victorious!</p></div></body>
+		</text>
+	</TEI>

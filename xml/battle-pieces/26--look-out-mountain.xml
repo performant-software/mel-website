@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>26 - Look-out Mountain</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher/>
+			<pubPlace/>
+			<date/>
+		<authority/>
+		<availability><p/></availability>
+	</publicationStmt>
+			<sourceDesc><p/></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><div xmlns="" id="26--look-out-mountain"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999006439-9cvwud7jrx9ftj4i-112caff4c9584a5625f7bf201795479d%2F98.jpg"/><name ref="https://mel-catalog.herokuapp.com/api/entries/place:476" type="place">Look-out Mountain</name>.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">The Night Fight.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">(November, 1863.)
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">––––––––––––––––
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Who inhabiteth the Mountain
+  That it shines in lurid light,
+And is rolled about with thunders,
+  And terrors, and a blight,
+Like <ref target="#ref_19148">Kaf</ref><note xml:id="ref_19148">The dwelling place of Eblis...
+
+See: 
+https://books.google.com/books?id=59gPAAAAYAAJ&amp;pg=PA9&amp;lpg=PA9&amp;dq=kaf+the+peak+of+eblis&amp;source=bl&amp;ots=yt1d7O4HU2&amp;sig=HkWv0DGdZ2gR5GPywenBwg8it4w&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiDwuyX4PPNAhUDVT4KHeHRBGY4ChDoAQgoMAM#v=onepage&amp;q=kaf%20the%20peak%20of%20eblis&amp;f=false</note> the peak of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Eblis</name>—
+  Kaf, the evil height?
+Who has gone up with a shouting
+  And a trumpet in the night?
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">There is battle in the Mountain—
+  Might assaulteth Might;
+&apos;Tis the fastness of the Anarch,
+  Torrent-torn, an ancient height;
+The crags resound the clangor
+  Of the war of Wrong and Right;
+And the armies in the valley
+  Watch and pray for dawning light.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999010527-shpm8iuy58kt9-112caff4c9584a5625f7bf201795479d%2F99.jpg"/>Joy, joy, the day is breaking,
+  And the cloud is rolled from sight;
+There is triumph in the Morning
+  For the Anarch&apos;s plunging flight;
+God has glorified the Mountain
+  Where a Banner burneth bright,
+And the armies in the valley
+  They are fortified in right.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
+</p></div></body>
+		</text>
+	</TEI>
