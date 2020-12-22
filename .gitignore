@@ -4,3 +4,5 @@ _site
 scripts/node_modules
 .DS_Store
 editions
+xml
+originals

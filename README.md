@@ -20,6 +20,5 @@ In the scripts directory, `whale.js` takes the XML chapter files and creates sta
 
 To install, go to the scripts dir and run `yarn`. 
 
-To run, place the XML in the `xml` folder and then run `yarn start`. The HTML versions will output in the `editions` dir. The `xml` folder is included in the published site.
-
+To run, place the XML in the `xml` folder and then run `yarn start`. The HTML versions will output in the `editions` dir. 
 

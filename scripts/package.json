@@ -1,15 +1,14 @@
 {
-    "name": "whale",
-    "version": "0.1.0",
-    "description": "",
-    "author": "NL",
-    "license": "MIT",
-    "devDependencies": {
-    },
-    "scripts": {
-      "start": "whale.js"
-    },
-    "dependencies": {
-      "jsdom": "^16.2.2"
-    }
+  "name": "whale",
+  "version": "0.1.0",
+  "description": "",
+  "author": "NL",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node whale.js"
+  },
+  "dependencies": {
+    "jsdom": "^16.2.2"
   }
+}

@@ -138,10 +138,10 @@ async function run() {
 function main() {
     run().then(() => {
         let date = new Date();
-        console.info(`Whale finished at ${date.toLocaleTimeString()}.`)
+        console.info(`Whale surfaced at ${date.toLocaleTimeString()}.`)
     }, (err) => {
         let date = new Date();
-        console.info(`Whale stopped at ${date.toLocaleTimeString()}.`)
+        console.info(`Whale dove to the depths at ${date.toLocaleTimeString()}.`)
         console.error(`${err}: ${err.stack}`)  
     });
 }
