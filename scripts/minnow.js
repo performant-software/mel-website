@@ -13,6 +13,7 @@ function fileNameToID(fileName) {
 }
 
 // This is a one time conversion from Juxta Eds export file to MEL Textual Core XML
+// NOTE: XML source changes will happen downstream of this script, for reference only.
 async function run() {
     // read in the file names for each edition
     const originalsPath = 'originals/versions-of-moby-dick'
@@ -27,6 +28,7 @@ async function run() {
             if( chapterID ) {
                 const sourcePath = `${originalsPath}/${filename}`
                 const targetPath = `${xmlPath}/${chapterID}.xml`
+                console.log(`Converting ${sourcePath}`)
 
                 // wrap the body contents in a div with the chapter ID and head that is the title
                 const xml = fs.readFileSync(sourcePath, "utf8")

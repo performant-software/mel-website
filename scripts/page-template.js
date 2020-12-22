@@ -2,8 +2,7 @@
 function renderTOC(toc) {
     const listItems = []
     for( const entry of toc ) {
-        const {title, html} = entry
-        const path = `${html}.html`
+        const {path, title} = entry
         listItems.push(
             `<li><a href="/${path}">${title}</a></li>`
         )
@@ -12,8 +11,7 @@ function renderTOC(toc) {
     return `<ul>${listItems.join('\n')}</ul>`
 }
 
-const pageTemplate = function renderPage(content) {
-    const { body, metadata } = content
+const pageTemplate = function renderPage(chapter, toc, editionTitle) {
     return `<!DOCTYPE html>
     <html>
     <head>
@@ -28,13 +26,13 @@ const pageTemplate = function renderPage(content) {
         <div id="grid-container">
             <div id="header">
                 <h1>Melville Electronic Library</h1>
-                <p><a href="/editions.html">Melville Electronic Library</a> >> Versions of Moby-Dick</p>
+                <p><a href="/editions.html">Melville Electronic Library</a> >> ${editionTitle}</p>
             </div>
             <div id="table-of-contents">
                 <h2>Chapters</h2>
-                ${ renderTOC(metadata.toc)}     
+                ${ renderTOC(toc)}     
             </div>
-            <div id="content">${body}</div>
+            <div id="content">${chapter.content}</div>
             <div id="thumbnail-margin"></div>                    
             <div id="footer"></div>
         </div>

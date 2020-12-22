@@ -15,9 +15,10 @@ function convertToHTML( sourcePath ) {
     try {
         const xml = fs.readFileSync(sourcePath, "utf8")
         const xmlDOM = new JSDOM(xml, { contentType: "text/xml" })    
-
+        const xmlDoc = xmlDOM.window.document
+        const titleEl = xmlDoc.getElementsByTagName('title')[0]
         const data = ceTEI.domToHTML5(xmlDOM.window.document)
-        return data.innerHTML
+        return { title: titleEl.innerHTML, content: data.innerHTML }
     } catch( err ) {
         console.error(`ERROR ${err}: ${err.stack}`)  
     }
@@ -40,85 +41,39 @@ function mirrorDirs(sourcePath, targetPath) {
     }
 }
 
-function locateContent(sourcePath,contentPath) {
-    let contentFileIDs = []
-    const targetDir = contentPath ? `${sourcePath}/${contentPath}` : sourcePath
-    const dirContents = fs.readdirSync(targetDir, {withFileTypes: true});
-    for( let i=0; i < dirContents.length; i++ ) {
-        const dirent = dirContents[i];
-        const filename = dirent.name
-        if( dirent.isDirectory() ) {
-            const nextContentPath = contentPath ? `${contentPath}/${filename}` : filename
-            contentFileIDs = contentFileIDs.concat( locateContent(sourcePath,nextContentPath) )
-        } else {
-            const xmlExtensionIndex = filename.indexOf('.xml')
-            if( xmlExtensionIndex != -1 ) {
-                const contentID = filename.substring(0,xmlExtensionIndex)
-                const contentFileID = contentPath ? `${contentPath}/${contentID}` : contentID
-                contentFileIDs.push(contentFileID)
-            } else {
-                if( filename.endsWith(".json") ) {
-                    const contentFileID = contentPath ? `${contentPath}/${filename}` : filename
-                    contentFileIDs.push(contentFileID)
-                }
-            }   
-        }
-    }
-    return contentFileIDs
-}
-
 async function process(sourceDocsPath, targetPath) {
     // clear out target and match directory structure with source
     mirrorDirs(sourceDocsPath, targetPath)
     
-    // For all xml files found in sourcePath, process them into HTML at target path
-    const xmlFileIDs = locateContent(sourceDocsPath)
-    const metadata = { toc: [{title:'test', html:'#'}]}
+    // Process the files listed in the index into HTML at target path
+    const indexJSON = fs.readFileSync(`${sourceDocsPath}/__index__.json`, "utf8")
+    const editionIndex = JSON.parse(indexJSON)
+    const editionTitle = editionIndex.title
+    const toc = []
 
-    for( const xmlFileID of xmlFileIDs ) {
-        const sourceFile = `${sourceDocsPath}/${xmlFileID}.xml`
-        const body = convertToHTML(sourceFile)
-        if( body ) {
-            const html = pageTemplate({ body, metadata })
-            const targetFile = `${targetPath}/${xmlFileID}.html`
-            fs.writeFileSync(targetFile, html, "utf8")    
+    const chapters = []
+    for( const chapterFile of editionIndex.chapters ) {
+        const sourceFile = `${sourceDocsPath}/${chapterFile}`
+        const chapter = convertToHTML(sourceFile)
+        if( chapter ) {
+            const xmlExtensionIndex = chapterFile.indexOf('.xml')
+            chapter.id = chapterFile.substring(0,xmlExtensionIndex)
+            const targetFile = `${targetPath}/${chapter.id}.html`
+            chapters.push(chapter)
+            toc.push({ path: targetFile, title: chapter.title})
         }    
+    }
+
+    for( const chapter of chapters ) {
+        const html = pageTemplate(chapter, toc, editionTitle)
+        const targetFile = `${targetPath}/${chapter.id}.html`
+        fs.writeFileSync(targetFile, html, "utf8")    
     }
 }
 
-// function idToURLPath(id) {
-//     return id.toLowerCase().replace(/[\s]/g,'-').replace(/[&']/g,'').replace('--','-')
-// }
-
-// function generateTOC( editionPath ) {
-//     const dirContents = fs.readdirSync(editionPath, {withFileTypes: true});
-
-//     const toc = []
-//     for( let i=0; i < dirContents.length; i++ ) {
-//         const sourceDirEnt = dirContents[i];
-//         const filename = sourceDirEnt.name
-//         if( !sourceDirEnt.isDirectory() ) {
-//             const xmlExtensionIndex = filename.indexOf('.xml')
-//             if( xmlExtensionIndex != -1 ) {
-//                 const contentID = filename.substring(0,xmlExtensionIndex)
-//                 const contentPath = idToURLPath(contentID)
-//                 toc.push( {
-//                     "title": contentID,
-//                     "html": `mel/moby-dick/${contentPath}`
-//                 })
-//             }
-//         }        
-//     }
-
-//     return { toc }
-// }
-
 async function run() {
-    // const editionMetadata = generateTOC('xml/mel/moby-dick')
-    // console.log(JSON.stringify(editionMetadata,null,3))
-
-    // TODO mkdir editions
-    await process('../xml','../editions')
+    // TODO mkdir editions if necessary
+    await process('../xml/versions-of-moby-dick','../editions/versions-of-moby-dick')
 }
 
 function main() {
