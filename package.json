@@ -6,7 +6,7 @@
   "license": "MIT",
   "devDependencies": {},
   "scripts": {
-    "build": "jekyll build && node scripts/whale.js"
+    "build": "node scripts/whale.js && jekyll build"
   },
   "dependencies": {
     "jsdom": "^16.2.2"
