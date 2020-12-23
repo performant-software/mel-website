@@ -1,7 +1,7 @@
 {
-  "name": "whale",
+  "name": "MEL",
   "version": "0.1.0",
-  "description": "",
+  "description": "Package for building and running MEL website.",
   "author": "NL",
   "license": "MIT",
   "devDependencies": {},
