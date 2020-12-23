@@ -1,7 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
-scripts/node_modules
+node_modules
 .DS_Store
 editions
 .netlify

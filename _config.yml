@@ -46,6 +46,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - Makefile
   - /scripts
   - /xml
   - /originals
+  - /node_modules
+  - package.json
+  - yarn.lock

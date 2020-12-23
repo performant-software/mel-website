@@ -7,6 +7,15 @@ const { JSDOM } = jsdom
 const {CETEI} = require("./CETEI")
 const { pageTemplate } = require("./page-template")
 
+function dirExists( dir ) {
+    if( !fs.existsSync(dir) ) {
+      fs.mkdirSync(dir);
+      if( !fs.existsSync(dir) ) {
+        throw `ERROR: ${dir} not found and unable to create it.`;
+      }
+    }  
+}
+
 function convertToHTML( sourcePath ) {
     const htmlDOM = new JSDOM()
     const ceTEI = new CETEI(htmlDOM.window)
@@ -73,10 +82,13 @@ async function process(sourceDocsPath, targetPath) {
 }
 
 async function run() {
-    // TODO mkdir editions if necessary
-    await process('../xml/versions-of-billy-budd','../editions/versions-of-billy-budd')
-    await process('../xml/battle-pieces','../editions/battle-pieces')
-    await process('../xml/versions-of-moby-dick','../editions/versions-of-moby-dick')
+    dirExists('editions')
+    dirExists('editions/versions-of-billy-budd')
+    dirExists('editions/battle-pieces')
+    dirExists('editions/versions-of-moby-dick')
+    await process('xml/versions-of-billy-budd','editions/versions-of-billy-budd')
+    await process('xml/battle-pieces','editions/battle-pieces')
+    await process('xml/versions-of-moby-dick','editions/versions-of-moby-dick')
 }
 
 function main() {
