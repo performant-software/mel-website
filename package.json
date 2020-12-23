@@ -6,7 +6,7 @@
   "license": "MIT",
   "devDependencies": {},
   "scripts": {
-    "start": "jekyll serve",
+    "start": "jekyll serve -P 8888",
     "build": "node scripts/whale.js && jekyll build"
   },
   "dependencies": {
