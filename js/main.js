@@ -99,7 +99,7 @@ function createImageWindow(anchorID, url) {
     floatingWindow(windowID,imageWindowContent,anchorEl)
 }
 
-function initThumbs() {
+function initThumbs(tl_leaf,iiif) {
     // go through all the facs attributes and render them to the sidebar 
     const thumbnailMarginEl = document.getElementById('thumbnail-margin')
     const facsEls = document.querySelectorAll('[facs]')
@@ -116,7 +116,7 @@ function initThumbs() {
     }
 }
 
-function init() {
+function init(tl_leaf,iiif) {
     initNotes()
-    initThumbs()
+    initThumbs(tl_leaf,iiif)
 }

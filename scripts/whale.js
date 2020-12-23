@@ -49,6 +49,7 @@ async function process(sourceDocsPath, targetPath) {
     const indexJSON = fs.readFileSync(`${sourceDocsPath}/__index__.json`, "utf8")
     const editionIndex = JSON.parse(indexJSON)
     const editionTitle = editionIndex.title
+    const { tl_leaf, iiif } = editionIndex
     const toc = []
 
     const chapters = []
@@ -65,7 +66,7 @@ async function process(sourceDocsPath, targetPath) {
     }
 
     for( const chapter of chapters ) {
-        const html = pageTemplate(chapter, toc, editionTitle)
+        const html = pageTemplate(chapter, toc, editionTitle, tl_leaf, iiif )
         const targetFile = `${targetPath}/${chapter.id}.html`
         fs.writeFileSync(targetFile, html, "utf8")    
     }
@@ -74,8 +75,8 @@ async function process(sourceDocsPath, targetPath) {
 async function run() {
     // TODO mkdir editions if necessary
     await process('../xml/versions-of-billy-budd','../editions/versions-of-billy-budd')
-    // await process('../xml/battle-pieces','../editions/battle-pieces')
-    // await process('../xml/versions-of-moby-dick','../editions/versions-of-moby-dick')
+    await process('../xml/battle-pieces','../editions/battle-pieces')
+    await process('../xml/versions-of-moby-dick','../editions/versions-of-moby-dick')
 }
 
 function main() {
