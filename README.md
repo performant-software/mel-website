@@ -7,7 +7,7 @@ This is the MEL website, originally developed at Hofstra University.
 
 ## Installing locally
 
-Require Ruby 2.3 or higher. Uses [Jekyll](https://jekyllrb.com/) for static site rendering. Currently deployed via [Netlify](netlify.com). To deploy locally, setup a ruby environment, obtain the Netlify CLI tool and then run:
+Require Ruby 2.3 or higher. Uses [Jekyll](https://jekyllrb.com/) for static site rendering. Currently deployed via [Netlify](netlify.com). To deploy locally, setup a ruby environment and then run:
 
 ```
 bundle
@@ -20,7 +20,7 @@ To run the site locally:
 
 ```
 yarn build
-netlify dev
+yarn start
 ```
 
 ## Updating XML
