@@ -99,19 +99,23 @@ function createImageWindow(anchorID, url) {
     floatingWindow(windowID,imageWindowContent,anchorEl)
 }
 
-function initThumbs(tl_leaf,iiif) {
+function initThumbs(tlLeaf,iiif) {
     // go through all the facs attributes and render them to the sidebar 
     const thumbnailMarginEl = document.getElementById('thumbnail-margin')
     const facsEls = document.querySelectorAll('[facs]')
     let i = 0
     for( const facsEl of facsEls ) {
-        const url = facsEl.getAttribute('facs')
+        const url = iiif ? `${ facsEl.getAttribute('facs')}/full/120,/0/default.jpg` : facsEl.getAttribute('facs')
         const imageEl = document.createElement('img')
         imageEl.id = `thumb-${i++}`
         imageEl.classList.add('thumbnail')
         imageEl.style.top = `${facsEl.offsetTop}px`
         imageEl.setAttribute('src',url) 
-        imageEl.setAttribute('onclick',`createImageWindow("${imageEl.id}","${url}")`)
+        if( tlLeaf ) {
+            imageEl.setAttribute('onclick',`window.open("${facsEl.getAttribute('tl_leaf')}")`)
+        } else {
+            imageEl.setAttribute('onclick',`createImageWindow("${imageEl.id}","${url}")`)
+        }
         thumbnailMarginEl.appendChild(imageEl)
     }
 }
