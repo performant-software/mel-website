@@ -2,6 +2,8 @@
     "title": "Versions of Moby-Dick",
     "chapters": [
         "front-matter.xml",
+        "etymology.xml",
+        "extracts.xml",
         "1-loomings.xml",
         "2-the-carpet-bag.xml",
         "3-the-spouter-inn.xml",
@@ -132,9 +134,7 @@
         "133-the-chase-first-day.xml",
         "134-the-chase-second-day.xml",
         "135-the-chase-third-day.xml",
-        "epilogue.xml",
-        "etymology.xml",
-        "extracts.xml"
+        "epilogue.xml"
     ]
 }
 

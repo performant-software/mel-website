@@ -5,20 +5,24 @@
 
 This is the MEL website, originally developed at Hofstra University. 
 
-## Running site locally
+## Installing locally
 
-Require Ruby 2.3 or higher. Uses [Jekyll](https://jekyllrb.com/) for static site rendering. Currently deployed via [Netlify](netlify.com). To deploy locally, setup a ruby environment, obtain the Netlify CLI tool and then run:
+Require Ruby 2.3 or higher. Uses [Jekyll](https://jekyllrb.com/) for static site rendering. Currently deployed via [Netlify](netlify.com). To deploy locally, setup a ruby environment and then run:
 
 ```
 bundle
-netlify dev
+yarn
 ```
 
-## Running whale.js
+## Running locally
 
-In the scripts directory, `whale.js` takes the XML chapter files and creates static HTML versions of them. 
+To run the site locally:
 
-To install, go to the scripts dir and run `yarn`. 
+```
+yarn build
+yarn start
+```
 
-To run, place the XML in the `xml` folder and then run `yarn start`. The HTML versions will output in the `editions` dir. 
+## Updating XML
 
+Once the site is running locally, you can view changes to the local XML files by running `yarn build`. The XML sources are stored in the `xml` directory. The `originals` directory contains the XML output from Juxta Editions and should not be changed.

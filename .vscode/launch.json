@@ -7,20 +7,11 @@
         {
             "type": "pwa-node",
             "request": "launch",
-            "name": "Run Whale",
+            "name": "Run Whale (converts XML to HTML)",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/scripts/whale.js"
-        },
-        {
-            "type": "pwa-node",
-            "request": "launch",
-            "name": "Run Minnow",
-            "skipFiles": [
-                "<node_internals>/**"
-            ],
-            "program": "${workspaceFolder}/scripts/minnow.js"
         }
     ]
 }

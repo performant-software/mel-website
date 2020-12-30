@@ -1,11 +1,12 @@
 {
-  "name": "whale",
+  "name": "mel",
   "version": "0.1.0",
-  "description": "",
+  "description": "Package for building and running MEL website.",
   "author": "NL",
   "license": "MIT",
   "devDependencies": {},
   "scripts": {
+    "start": "jekyll serve -P 8888",
     "build": "node scripts/whale.js && jekyll build"
   },
   "dependencies": {
