@@ -13,12 +13,6 @@
 				<p>Battle-Pieces</p>
 			</sourceDesc>
 		</fileDesc>
-		<encodingDesc>
-			<tagsDecl><rendition scheme="css"
-				selector="*[rend*=2em]"> text-indent: 2em;
-		</rendition>
-			</tagsDecl>
-		</encodingDesc>
 	</teiHeader>			
 		<text>
 			<body>
