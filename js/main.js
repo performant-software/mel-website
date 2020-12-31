@@ -61,23 +61,60 @@ function createInfoWindow(data,anchorID) {
         const artwork = data.artworks[0]
         createArtworkWindow(artwork,anchorEl)
     } else if( data.events ) {
-        console.log('received event')
+        const eventObj = data.events[0]
+        createEventWindow(eventObj,anchorEl)
     } else if( data.people ) {
-        console.log('received person')
+        const person = data.people[0]
+        createPersonWindow(person,anchorEl)
     } else if( data.places ) {
-        console.log('received place')
+        const place = data.places[0]
+        createPlaceWindow(place,anchorEl)
     } else if( data.texts ) {
-        console.log('received text')
+        const text = data.texts[0]
+        createTextWindow(text,anchorEl)
     }
 }
 
+function createEventWindow(event,anchorEl) {
+    const infoWindowContent = `
+        <h2>${event.name}</h2>
+    `
+    const windowID = `window-${Date.now()}`
+    floatingWindow(windowID,infoWindowContent,anchorEl)
+}
+
+function createPersonWindow(person,anchorEl) {
+    const imageURL = person.images[0] ? `https:${person.images[0].image_medium}` : null
+    const img = imageURL ? `<img src="${imageURL}"/>` : ""
+
+    const infoWindowContent = `
+        <h2>${person.authoritative_name}</h2>
+        <p>${person.description}</p>
+        ${ img }
+    `
+    const windowID = `window-${Date.now()}`
+    floatingWindow(windowID,infoWindowContent,anchorEl)
+}
+
+function createPlaceWindow(place,anchorEl) {
+    const infoWindowContent = `
+        <h2>${place.name}</h2>
+    `
+    const windowID = `window-${Date.now()}`
+    floatingWindow(windowID,infoWindowContent,anchorEl)
+}
+
+function createTextWindow(text,anchorEl) {
+
+    const infoWindowContent = `
+        <h2>${text.name}</h2>
+        <p>${text.author}</p>
+    `
+    const windowID = `window-${Date.now()}`
+    floatingWindow(windowID,infoWindowContent,anchorEl)
+}
+
 function createArtworkWindow(artwork,anchorEl) {
-
-    // title
-    // artist
-    // images[0].image_medium (add http:)
-    // see_also[]
-
     const imageURL = artwork.images[0] ? `https:${artwork.images[0].image_medium}` : null
     const img = imageURL ? `<img src="${imageURL}"/>` : ""
 
