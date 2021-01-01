@@ -28,6 +28,18 @@ function createInfoWindow(data,anchorID) {
     }
 }
 
+function createArtworkWindow(artwork,anchorID) {
+    const imageURL = artwork.images[0] ? `https:${artwork.images[0].image_medium}` : null
+    const img = imageURL ? `<img src="${imageURL}"/>` : ""
+
+    const infoWindowContent = `
+        <h2>${artwork.title}</h2>
+        <p>By: ${artwork.artist}</p>
+        ${ img }
+    `
+    floatingWindow(anchorID,infoWindowContent)
+}
+
 function createEventWindow(event,anchorID) {
     const infoWindowContent = `
         <h2>${event.name}</h2>
@@ -59,18 +71,6 @@ function createTextWindow(text,anchorID) {
     const infoWindowContent = `
         <h2>${text.name}</h2>
         <p>${text.author}</p>
-    `
-    floatingWindow(anchorID,infoWindowContent)
-}
-
-function createArtworkWindow(artwork,anchorID) {
-    const imageURL = artwork.images[0] ? `https:${artwork.images[0].image_medium}` : null
-    const img = imageURL ? `<img src="${imageURL}"/>` : ""
-
-    const infoWindowContent = `
-        <h2>${artwork.title}</h2>
-        <p>By: ${artwork.artist}</p>
-        ${ img }
     `
     floatingWindow(anchorID,infoWindowContent)
 }
