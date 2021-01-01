@@ -7,7 +7,7 @@
         {
             "type": "pwa-node",
             "request": "launch",
-            "name": "Run Whale (converts XML to HTML)",
+            "name": "Whale (converts XML to HTML)",
             "skipFiles": [
                 "<node_internals>/**"
             ],
@@ -21,6 +21,15 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/scripts/add-choice-tags.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Minnow",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/scripts/minnow.js"
         }
     ]
 }
