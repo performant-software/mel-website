@@ -1,7 +1,7 @@
 const windowMaxWidth = 400
 const windowMaxHeight = 600
 
-function floatingWindow(windowID,content,anchorEl) {
+function floatingWindow(windowID,content) {
 
   const windowTemplate = `
     <div class="floating-window-close-x" onClick="closeFloatingWindow('${windowID}')">X</div>
@@ -11,10 +11,12 @@ function floatingWindow(windowID,content,anchorEl) {
     </div>
   `
 
+  // don't open more one window for same ID
+  closeFloatingWindow(windowID)
+
+  let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
   let offsetX = window.innerWidth/2 - windowMaxWidth/2
-  let offsetY = anchorEl.offsetTop - windowMaxHeight/2
-  offsetX = (offsetX < 0 ) ? 0 : offsetX
-  offsetY = (offsetY < 0 ) ? 0 : offsetY
+  let offsetY =  window.innerHeight/3 + scrollTop
 
   const windowDiv = document.createElement('div')
   windowDiv.id = windowID
@@ -22,6 +24,7 @@ function floatingWindow(windowID,content,anchorEl) {
   windowDiv.style.opacity = '100%'
   windowDiv.style.left = `${offsetX}px`
   windowDiv.style.top = `${offsetY}px`
+  windowDiv.style.zIndex = 10000
   windowDiv.innerHTML = windowTemplate
   const container = document.getElementById('floating-window-container')
   container.appendChild(windowDiv)
@@ -40,7 +43,7 @@ function disappearOffscreen(el) {
 
 function closeFloatingWindow(windowID) {
   const windowDiv = document.getElementById(windowID)
-  windowDiv.parentNode.removeChild(windowDiv)
+  if( windowDiv ) windowDiv.parentNode.removeChild(windowDiv)
 }
 
 function dragElement(elmnt) {

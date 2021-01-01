@@ -55,35 +55,32 @@ function loadInfoWindow(targetURL,anchorID) {
 }
 
 function createInfoWindow(data,anchorID) {
-    const anchorEl = document.querySelector(`[data-window-anchor = "${anchorID}"]`)
-
     if( data.artworks ) {
         const artwork = data.artworks[0]
-        createArtworkWindow(artwork,anchorEl)
+        createArtworkWindow(artwork,anchorID)
     } else if( data.events ) {
         const eventObj = data.events[0]
-        createEventWindow(eventObj,anchorEl)
+        createEventWindow(eventObj,anchorID)
     } else if( data.people ) {
         const person = data.people[0]
-        createPersonWindow(person,anchorEl)
+        createPersonWindow(person,anchorID)
     } else if( data.places ) {
         const place = data.places[0]
-        createPlaceWindow(place,anchorEl)
+        createPlaceWindow(place,anchorID)
     } else if( data.texts ) {
         const text = data.texts[0]
-        createTextWindow(text,anchorEl)
+        createTextWindow(text,anchorID)
     }
 }
 
-function createEventWindow(event,anchorEl) {
+function createEventWindow(event,anchorID) {
     const infoWindowContent = `
         <h2>${event.name}</h2>
     `
-    const windowID = `window-${Date.now()}`
-    floatingWindow(windowID,infoWindowContent,anchorEl)
+    floatingWindow(anchorID,infoWindowContent)
 }
 
-function createPersonWindow(person,anchorEl) {
+function createPersonWindow(person,anchorID) {
     const imageURL = person.images[0] ? `https:${person.images[0].image_medium}` : null
     const img = imageURL ? `<img src="${imageURL}"/>` : ""
 
@@ -92,29 +89,26 @@ function createPersonWindow(person,anchorEl) {
         <p>${person.description}</p>
         ${ img }
     `
-    const windowID = `window-${Date.now()}`
-    floatingWindow(windowID,infoWindowContent,anchorEl)
+    floatingWindow(anchorID,infoWindowContent)
 }
 
-function createPlaceWindow(place,anchorEl) {
+function createPlaceWindow(place,anchorID) {
     const infoWindowContent = `
         <h2>${place.name}</h2>
     `
-    const windowID = `window-${Date.now()}`
-    floatingWindow(windowID,infoWindowContent,anchorEl)
+    floatingWindow(anchorID,infoWindowContent)
 }
 
-function createTextWindow(text,anchorEl) {
+function createTextWindow(text,anchorID) {
 
     const infoWindowContent = `
         <h2>${text.name}</h2>
         <p>${text.author}</p>
     `
-    const windowID = `window-${Date.now()}`
-    floatingWindow(windowID,infoWindowContent,anchorEl)
+    floatingWindow(anchorID,infoWindowContent)
 }
 
-function createArtworkWindow(artwork,anchorEl) {
+function createArtworkWindow(artwork,anchorID) {
     const imageURL = artwork.images[0] ? `https:${artwork.images[0].image_medium}` : null
     const img = imageURL ? `<img src="${imageURL}"/>` : ""
 
@@ -123,17 +117,14 @@ function createArtworkWindow(artwork,anchorEl) {
         <p>By: ${artwork.artist}</p>
         ${ img }
     `
-    const windowID = `window-${Date.now()}`
-    floatingWindow(windowID,infoWindowContent,anchorEl)
+    floatingWindow(anchorID,infoWindowContent)
 }
 
 function createImageWindow(anchorID, url) {
     const imageWindowContent = `
         <img src="${url}"/>
     `
-    const windowID = `window-${Date.now()}`
-    const anchorEl = document.getElementById(anchorID)
-    floatingWindow(windowID,imageWindowContent,anchorEl)
+    floatingWindow(`image-window-${anchorID}`,imageWindowContent)
 }
 
 function initThumbs(tlLeaf,iiif) {
