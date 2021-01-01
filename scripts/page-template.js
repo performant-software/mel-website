@@ -40,6 +40,7 @@ const pageTemplate = function renderPage(chapter, toc, editionTitle, tl_leaf, ii
         <script src="https://unpkg.com/@popperjs/core@2"></script>
         <script src="https://unpkg.com/tippy.js@6"></script>
         <script src="/js/floating-window.js"></script>
+        <script src="/js/info-window.js"></script>
         <script src="/js/main.js"></script>
     </body>
     </html>`
