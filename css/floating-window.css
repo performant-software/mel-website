@@ -2,8 +2,7 @@
 .floating-window {
     position: absolute;
     z-index: 9;
-    background-color: #f1f1f1;
-    text-align: center;
+    background-color: white;
     border: 2px solid gray;
   }
   
@@ -25,9 +24,24 @@
 .floating-window-content {
     max-width: 400px;
     max-height: 600px;
+    padding: 10px;
     overflow: hidden;
 }
 
 .floating-window-content > img {
     max-width: 400px;
+}
+
+.floating-window-content > h2 {
+    font-size: 12pt;
+}
+
+.floating-window-content > p {
+    font-size: 10pt;
+}
+
+.right-img {
+    float: right;
+    padding: 5px;
+    width: 180px;
 }

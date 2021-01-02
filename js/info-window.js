@@ -29,33 +29,37 @@ function createInfoWindow(data,anchorID) {
 }
 
 function createArtworkWindow(artwork,anchorID) {
-    const imageURL = artwork.images[0] ? `https:${artwork.images[0].image_medium}` : null
-    const img = imageURL ? `<img src="${imageURL}"/>` : ""
-
-    const infoWindowContent = `
-        <h2>${artwork.title}</h2>
-        <p>By: ${artwork.artist}</p>
-        ${ img }
-    `
+    const lines = []
+    const image = renderImage(artwork)
+    if( image ) lines.push(image)
+    if( artwork.title.length > 0 ) lines.push(`<h2>${artwork.title}</h2>`)
+    if( artwork.artist.length > 0 ) lines.push(`<p>${artwork.artist}</p>`)
+    const seeAlso = renderSeeAlso(artwork)
+    if( seeAlso ) lines.push(seeAlso)
+    const infoWindowContent = lines.join('\n')
     floatingWindow(anchorID,infoWindowContent)
 }
 
 function createEventWindow(event,anchorID) {
-    const infoWindowContent = `
-        <h2>${event.name}</h2>
-    `
+    const lines = []
+    const image = renderImage(event)
+    if( image ) lines.push(image)
+    if( event.name.length > 0 ) lines.push(`<h2>${event.name}</h2>`)
+    const seeAlso = renderSeeAlso(event)
+    if( seeAlso ) lines.push(seeAlso)
+    const infoWindowContent = lines.join('\n')
     floatingWindow(anchorID,infoWindowContent)
 }
 
 function createPersonWindow(person,anchorID) {
-    const imageURL = person.images[0] ? `https:${person.images[0].image_medium}` : null
-    const img = imageURL ? `<img src="${imageURL}"/>` : ""
-
-    const infoWindowContent = `
-        <h2>${person.authoritative_name}</h2>
-        <p>${person.description}</p>
-        ${ img }
-    `
+    const lines = []
+    const image = renderImage(person)
+    if( image ) lines.push(image)
+    if( person.display_name.length > 0 ) lines.push(`<h2>${person.display_name}</h2>`)
+    if( person.description.length > 0 ) lines.push(`<p>${person.description}</p>`)
+    const seeAlso = renderSeeAlso(person)
+    if( seeAlso ) lines.push(seeAlso)
+    const infoWindowContent = lines.join('\n')
     floatingWindow(anchorID,infoWindowContent)
 }
 
@@ -67,10 +71,27 @@ function createPlaceWindow(place,anchorID) {
 }
 
 function createTextWindow(text,anchorID) {
-
-    const infoWindowContent = `
-        <h2>${text.name}</h2>
-        <p>${text.author}</p>
-    `
+    const lines = []
+    const image = renderImage(text)
+    if( image ) lines.push(image)
+    if( text.name.length > 0 ) lines.push(`<h2>${text.name}</h2>`)
+    if( text.author.length > 0 ) lines.push(`<p>Author: ${text.author}</p>`)
+    if( text.name.publisher > 0 ) lines.push(`<p>Publisher: ${text.publisher} ${text.place_of_publication} ${text.publication_date}</p>`)
+    const seeAlso = renderSeeAlso(text)
+    if( seeAlso ) lines.push(seeAlso)
+    const infoWindowContent = lines.join('\n')
     floatingWindow(anchorID,infoWindowContent)
+}
+
+function renderImage(entry) {
+    const imageURL = entry.images[0] ? `https:${entry.images[0].image_medium}` : null
+    return imageURL ? `<img class="right-img" src="${imageURL}"/>` : null
+}
+
+function renderSeeAlso(entry) {
+    const lines = []
+    for( const ref of entry.see_also ) {
+        lines.push(`<p><a href="${ref.url}">${ref.description}</a></p>`)
+    }
+    return ( lines.length > 0 ) ? lines.join('\n') : null
 }
