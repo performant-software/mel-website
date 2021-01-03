@@ -11,7 +11,7 @@ function renderTOC(toc) {
     return `<ul>${listItems.join('\n')}</ul>`
 }
 
-const pageTemplate = function renderPage(chapter, toc, editionTitle, tl_leaf, iiif ) {
+const pageTemplate = function renderPage(chapter, toc, editionTitle, tl_leaf, iiif, envs ) {
     return `<!DOCTYPE html>
     <html>
     <head>
@@ -42,6 +42,9 @@ const pageTemplate = function renderPage(chapter, toc, editionTitle, tl_leaf, ii
         <script src="/js/floating-window.js"></script>
         <script src="/js/info-window.js"></script>
         <script src="/js/main.js"></script>
+        <script>
+            window.GoogleMapAPIKey = "${envs['GOOGLE_MAP_API']}"
+        </script>
     </body>
     </html>`
 }

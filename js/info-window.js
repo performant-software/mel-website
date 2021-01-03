@@ -64,9 +64,13 @@ function createPersonWindow(person,anchorID) {
 }
 
 function createPlaceWindow(place,anchorID) {
-    const infoWindowContent = `
-        <h2>${place.name}</h2>
-    `
+    const lines = []
+    const map = renderMap(place.latitude,place.longitude)
+    if( map ) lines.push(map)
+    if( place.name.length > 0 ) lines.push(`<h2>${place.name}</h2>`)
+    const seeAlso = renderSeeAlso(place)
+    if( seeAlso ) lines.push(seeAlso)
+    const infoWindowContent = lines.join('\n')
     floatingWindow(anchorID,infoWindowContent)
 }
 
@@ -94,4 +98,9 @@ function renderSeeAlso(entry) {
         lines.push(`<p><a href="${ref.url}">${ref.description}</a></p>`)
     }
     return ( lines.length > 0 ) ? lines.join('\n') : null
+}
+
+function renderMap(lat,long) {
+    const staticMapURL = `https://maps.googleapis.com/maps/api/staticmap?center=${lat},${long}&zoom=10&size=180x180&maptype=satellite&key=${window.GoogleMapAPIKey}`
+    return `<img class="right-img" src="${staticMapURL}"/>`
 }

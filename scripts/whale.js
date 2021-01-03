@@ -16,6 +16,23 @@ function dirExists( dir ) {
     }  
 }
 
+function getEnvs() {
+    // in development use .env, which is .gitignored
+    if( fs.existsSync('.env') ) {
+        const envData = fs.readFileSync('.env', "utf8")
+        const envs = {}
+        for( const line of envData.split('\n') ) {
+            const eqIdx = line.indexOf('=')          
+            const key = line.slice(0,eqIdx).trim()
+            const val = line.slice(eqIdx+1).trim()
+            if( key && key.length > 0 ) envs[key] = val
+        }
+        return envs
+    } else {
+        return process.env
+    }
+}
+
 function convertToHTML( sourcePath ) {
     const htmlDOM = new JSDOM()
     const ceTEI = new CETEI(htmlDOM.window)
@@ -56,6 +73,7 @@ async function process(sourceDocsPath, targetPath) {
     
     // Process the files listed in the index into HTML at target path
     const indexJSON = fs.readFileSync(`${sourceDocsPath}/__index__.json`, "utf8")
+    const envs = getEnvs()
     const editionIndex = JSON.parse(indexJSON)
     const editionTitle = editionIndex.title
     const { tl_leaf, iiif } = editionIndex
@@ -75,7 +93,7 @@ async function process(sourceDocsPath, targetPath) {
     }
 
     for( const chapter of chapters ) {
-        const html = pageTemplate(chapter, toc, editionTitle, tl_leaf, iiif )
+        const html = pageTemplate(chapter, toc, editionTitle, tl_leaf, iiif, envs )
         const targetFile = `${targetPath}/${chapter.id}.html`
         fs.writeFileSync(targetFile, html, "utf8")    
     }
