@@ -67,7 +67,7 @@ function mirrorDirs(sourcePath, targetPath) {
     }
 }
 
-async function process(sourceDocsPath, targetPath) {
+async function processDocs(sourceDocsPath, targetPath) {
     // clear out target and match directory structure with source
     mirrorDirs(sourceDocsPath, targetPath)
     
@@ -104,9 +104,9 @@ async function run() {
     dirExists('editions/versions-of-billy-budd')
     dirExists('editions/battle-pieces')
     dirExists('editions/versions-of-moby-dick')
-    await process('xml/versions-of-billy-budd','editions/versions-of-billy-budd')
-    await process('xml/battle-pieces','editions/battle-pieces')
-    await process('xml/versions-of-moby-dick','editions/versions-of-moby-dick')
+    await processDocs('xml/versions-of-billy-budd','editions/versions-of-billy-budd')
+    await processDocs('xml/battle-pieces','editions/battle-pieces')
+    await processDocs('xml/versions-of-moby-dick','editions/versions-of-moby-dick')
 }
 
 function main() {
