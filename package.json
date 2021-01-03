@@ -7,7 +7,7 @@
   "devDependencies": {},
   "scripts": {
     "start": "jekyll serve -P 8888",
-    "build": "node scripts/whale.js && jekyll build"
+    "build": "node -p \"process.env\" && jekyll build"
   },
   "dependencies": {
     "jsdom": "^16.2.2"
