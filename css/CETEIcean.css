@@ -1105,9 +1105,9 @@ tei-p {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 14pt;
-  line-height: 2rem;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 13pt;
+  line-height: 1.42;
 }
 *[data-tei-rendition~="#center"] p {
   text-align: center;

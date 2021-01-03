@@ -42,6 +42,26 @@ function initNotes() {
             })        
         }
     }
+
+    // create popup tooltips for choice elements
+    const teiChoiceEls = document.getElementsByTagName('tei-choice')
+    for( const teiChoiceEl of teiChoiceEls ) {
+        const teiOrigEl = teiChoiceEl.getElementsByTagName('tei-orig')[0]
+        const teiRegEl = teiChoiceEl.getElementsByTagName('tei-reg')[0]
+        // display reg inline and hide orig
+        teiRegEl.style.display = 'none'
+        teiOrigEl.style.textDecoration = 'underline'
+        teiOrigEl.style.color = '#5f0000'
+        tippy( teiChoiceEl, {
+            content: () => {
+                // content of tooltip is the orig
+                return `<i>MS:</i> ${teiRegEl.innerHTML}`
+            },
+            allowHTML: true,
+            interactive: true,
+            theme: 'light-border'            
+        }) 
+    }
 }
 
 function createImageWindow(anchorID, url) {
