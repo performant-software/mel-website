@@ -1,54 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
+		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>03 - Misgivings</title>
-			</titleStmt>
+			<title>03 - Misgivings</title>
+			<!-- <author>Herman Melville</author>
+			<editor>Tim Marr</editor>
+			<editor>Christopher Ohge</editor>	-->	
+		</titleStmt>
 			<publicationStmt>
-				<publisher/>
-				<pubPlace/>
-				<date/>
-				<authority/>
-				<availability>
-					<p/>
-				</availability>
-			</publicationStmt>
-			<sourceDesc>
-				<p/>
-			</sourceDesc>
+		
+			<publisher/>
+			<pubPlace/>
+			<date/>
+		<authority/>
+		<availability><p/></availability>
+	</publicationStmt>
+			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>
-	<text>
-		<body>
-			<div>
-				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777202215-cty9bfacl9fcg14i-92a540e3077e18306430a271b083c2c1%2Fmodbm_ac85_m4977_866b_c_0023.jpg"></pb>
-				<head>Misgivings.<lb></lb>(1860.)</head>
-				<lg>
-					<l>When ocean-clouds over inland hills</l>
-					<l rend="indent">Sweep storming in late autumn brown</l>
-					<l>And horror the sodden valley fills,</l>
-					<l rend="indent"> And the <ref target="ref_20485">spire falls</ref> <note xml:id="ref_20485">[Criticism: Canonical] Hennig Cohen notes that the crashing spire "suggests that the restraining and purifying power of the church has declined" (206).</note><note type="Ambiguity" xml:id="ref_20488">[Ambiguity][Allusion: Religion] The connections here with religion can certainly be further examined. Although Melville doesn't mark the two passages in his Bible, he would have known the temptation of Jesus in the wilderness: Christ standing upon the highest point of the Holy Temple (Matthew 4.5; Luke 4.9). Battle-Pieces contains numerous allusions to John Milton. In Paradise Regained, we have Christ standing on the "Temple...of alabaster, topt with golden spires" (4.546; 547). In this spiritual battle between Jesus and Satan, the Son of God is tempted with kingdoms and tasked to stand firmly upon a precipice. Christ's ability to stand--to not fall--is part of his triumph over Satan. Thus, if the spire has fallen, there can be no more room for Christ to stand and withstand the temptations of Satan.</note> crashing in the town,</l>
-					<l>I muse upon my country's ills—</l>
-					<l rend="indent">The tempest bursting from the waste of Time</l>
-					<l>On <ref target="#ref_20484">the world's </ref><ref target="#ref_20501">fairest hope linked with man's foulest </ref></l>
-					<l>
-						<ref target="#ref_20501">crime. </ref>
-						<note xml:id="ref_20501">[Criticism: Canonical] [Intratextuality] Cohen notes Melville's use of fair and foul in the description of the soldier's eye in " The Scout Toward Aldie " (206). Melville writes, "And looked the Soldier in the eye— / A glance of mingled foul and fair."</note>
-						<note xml:id="ref_20484">[Ambiguity] There are a few ways to interpret Melville's understanding of "man's foulest crime." Throughout the Melville canon, we find situations that bring us back to the question posed in Genesis 4.9: "Am I my brother's keeper?" It may be that Melville is thinking of fratricide, and of how we continually revisit these themes throughout history. For Melville, slavery would certainly fall in this category. Additionally, the foul crime of fratricide may explain the world's fairest hope. As it became more apparent that the country was heading for war, it may have entered Melville's mind that fratricide might be the only solution. Thus, "the world's fairest hope linked with man's foulest crime."</note>
-					</l>
+	</teiHeader>			
+		<text>
+			<body><div type="poem" id="03--misgivings">
+				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777202215-cty9bfacl9fcg14i-92a540e3077e18306430a271b083c2c1%2Fmodbm_ac85_m4977_866b_c_0023.jpg"/>
+				<head>Misgivings. <lb/> (1860.) <lb/> ________________</head>
+				<lg type="stanza" n="1">
+					<l n="1">When ocean-clouds over inland hills</l>
+					<l n="2"> Sweep storming in late autumn brown</l>
+					<l n="3">And horror the sodden valley fills,</l>
+					<l n="4">And the <ref target="#ref_20488"><ref target="#ref_20485">spire falls</ref><note xml:id="ref_20485">Hennig Cohen notes that the crashing spire "suggests that the restraining and purifying power of the church has declined" (206). </note></ref><note xml:id="ref_20488"> The connections here with religion can certainly be further examined. Although Melville doesn't mark the two passages in his Bible, he would have known the temptation of Jesus in the wilderness: Christ standing upon the highest point of the Holy Temple (Matthew 4.5; Luke 4.9). <hi rend="italic">Battle-Pieces</hi>contains numerous allusions to John Milton. In <hi rend="italic">Paradise Regained</hi>, Christ stands on the "Temple...of alabaster, topt with golden spires" (4.546; 547). In this spiritual battle between Jesus and Satan, the Son of God is tempted with kingdoms and tasked to stand firmly upon a precipice. Christ's ability to stand--to not fall--is part of his triumph over Satan. Thus, if the spire has fallen, there can be no more room for Christ to stand and withstand the temptations of Satan.</note> crashing in the town,</l>
+					<l n="5">I muse upon my country&apos;s ills—</l>
+					<l n="6">The tempest bursting from the waste of Time</l>
+					<l n="7">On <ref target="#ref_20484">the world&apos;s <ref target="#ref_20501">fairest hope linked with man&apos;s foulest crime.</ref><note xml:id="ref_20501">  Cohen notes Melville's use of fair and foul in the description of the soldier's eye in "<ref target="https://mel-juxta-editions.herokuapp.com/documents/352">The Scout Toward Aldie</ref>" (206). Melville writes, "And looked the Soldier in the eye— / A glance of mingled foul and fair."</note></ref><note xml:id="ref_20484"> There are a few ways to interpret Melville's understanding of "man's foulest crime." Throughout the Melville canon, we find situations that bring us back to the question posed in Genesis 4.9: "Am I my brother's keeper?"  It may be that Melville is thinking of fratricide, and of how we continually revisit these themes throughout history. For Melville, slavery would certainly fall in this category. Additionally, the foul crime of fratricide may explain the world's fairest hope. As it became more apparent that the country was heading for war, it may have entered Melville's mind that fratricide might be the only solution. Thus, "the world's fairest hope linked with man's foulest crime." </note></l>
 				</lg>
 				<lg>
-					<l>Nature's dark side is heeded now—</l>
-					<l rend="indent">(Ah! optimist-cheer disheartened flown)—</l>
-					<l>A child may read the moody brow</l>
-					<l>Of yon <ref target="#ref_20486"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:442" type="place">black mountain</name></ref><note xml:id="ref_20486">[Ambiguity] If Melville is sitting outside and "[musing] upon [his] country's ills," he is most likely looking at Mount Greylock.</note> lone.</l>
-					<l>With shouts the torrents down the gorges go,</l>
-					<l>And storms are formed behind the storm we feel:</l>
-					<l>The <ref target="#ref_20979">hemlock</ref><note xml:id="ref_20979">A poisonous plant in the Apiaceae family [Allusion, botanical]; Socrates carried out his own sentence of death by drinking a poisonous beverage of hemlock [Allusion, Classical, Plato] (Tim Marr)</note> shakes in the rafter, the oak in the driv-</l>
-					<l>ing keel.</l>
+					<l n="8">Nature&apos;s dark side is heeded now—</l>
+					<l n="9">(Ah! optimist-cheer disheartened flown)—</l>
+					<l n="10">A child may read the moody brow</l>
+					<l n="11">Of yon <ref target="#ref_20486"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:442" type="place">black mountain</name></ref><note xml:id="ref_20486">Melville is most likely looking at Mount Greylock from his farm house in <placeName>Pittsfield, Mass</placeName>.</note> lone.</l>
+					<l n="12">With shouts the torrents down the gorges go,</l>
+					<l n="13">And storms are formed behind the storm we feel:</l>
+					<l n="14">The <ref target="#ref_20979">hemlock</ref><note xml:id="ref_20979">A poisonous plant in the Apiaceae family.
+Socrates carried out his own sentence of death by drinking a poisonous beverage of hemlock</note> shakes in the rafter, the oak in the driving keel.</l>
 				</lg>
-			</div>
-		</body>
-	</text>
-</TEI>
+</div></body>
+		</text>
+	</TEI>
