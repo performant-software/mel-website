@@ -49,13 +49,13 @@ function initNotes() {
         const teiOrigEl = teiChoiceEl.getElementsByTagName('tei-orig')[0]
         const teiRegEl = teiChoiceEl.getElementsByTagName('tei-reg')[0]
         // display reg inline and hide orig
-        teiRegEl.style.display = 'none'
-        teiOrigEl.style.textDecoration = 'underline'
-        teiOrigEl.style.color = '#5f0000'
+        teiOrigEl.style.display = 'none'
+        teiRegEl.style.textDecoration = 'underline'
+        teiRegEl.style.color = '#5f0000'
         tippy( teiChoiceEl, {
             content: () => {
                 // content of tooltip is the orig
-                return `<i>MS:</i> ${teiRegEl.innerHTML}`
+                return `<i>MS:</i> ${teiOrigEl.innerHTML}`
             },
             allowHTML: true,
             interactive: true,

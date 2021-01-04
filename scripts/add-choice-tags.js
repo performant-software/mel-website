@@ -23,19 +23,23 @@ function addChoiceTags(xmlDoc) {
     // regEls and origEls are live queries, not arrays, 
     // so gather up all the choice els before making them
 
+    // Orig and Reg were used interchangably in Billy Budd
+    // so treat whatever is inline as regularized and whatever was
+    // an attribute as the original.
+
     const choices = []
     for( let i=0; i < regEls.length; i++ ) {
         const el = regEls[i]
-        const regContent = el.innerHTML
-        const origContent = el.getAttribute('originalText')
-        choices.push([regContent,origContent,el])
+        const inlineContent = el.innerHTML
+        const attrContent = el.getAttribute('originalText')
+        choices.push([inlineContent,attrContent,el])
     }    
 
     for( let i=0; i < origEls.length; i++ ) {
         const el = origEls[i]
-        const regContent = el.getAttribute('regularizedText')
-        const origContent = el.innerHTML
-        choices.push([regContent,origContent,el])
+        const attrContent = el.getAttribute('regularizedText')
+        const inlineContent = el.innerHTML
+        choices.push([inlineContent,attrContent,el])
     }        
 
     for( const choice of choices ) {
@@ -45,7 +49,7 @@ function addChoiceTags(xmlDoc) {
     return true
 }
 
-function process(sourceDocsPath,targetDocsPath) {
+function processTags(sourceDocsPath,targetDocsPath) {
     // Process the files listed in the index into HTML at target path
     const indexJSON = fs.readFileSync(`${sourceDocsPath}/__index__.json`, "utf8")
     const editionIndex = JSON.parse(indexJSON)
@@ -78,7 +82,7 @@ function dirExists( dir ) {
 }
 
 function main() {
-    process('xml/versions-of-billy-budd','xml/versions-of-billy-budd')
+    processTags('temp/versions-of-billy-budd','xml/versions-of-billy-budd')
 }
 
 ///// RUN THE SCRIPT
