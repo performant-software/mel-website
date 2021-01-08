@@ -661,6 +661,9 @@ tei-heraldry {
 tei-hi[rend="caps"] {
   font-weight:bold;
 }
+tei-hi[rend="smallcaps"] {
+  font-variant: small-caps;
+}
 tei-hi[rend="italic"] {
   font-style: italic;
 }
