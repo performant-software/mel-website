@@ -755,10 +755,12 @@ tei-l {
   display: block;
   width: 35em;
 }
-tei-l[rend=2em] {
+tei-l[rend="2em"] {
+  display: block;
   text-indent: 2em;
 }
-tei-l[rend=4em] {
+tei-l[rend="4em"] {
+  display: block;
   text-indent: 4em;
 }
 tei-l[data-lineno]:before {
