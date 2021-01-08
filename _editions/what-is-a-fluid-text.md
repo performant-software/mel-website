@@ -1,13 +1,13 @@
 ---
 layout: editions_two-columns
-title: Editing Melville's Fluid Texts
+title: What is a Fluid Text
 permalink: /what-is-a-fluid-text
 
 ---
 
 Apart from offering reliable digital editions of Melville's writings,
 MEL's signal editorial contribution is that digitization also enables us
-to read Melville's works as fluid texts. A fluid text is any written 
+to read Melville's works as fluid texts. A fluid text is any written
 work that exists in multiple versions due to authorial, editorial, or
 adaptive revision. These kinds of versions are critically significant in
 studying Melville's revision process and the way editors and other
