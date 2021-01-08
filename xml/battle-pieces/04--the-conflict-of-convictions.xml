@@ -16,7 +16,13 @@
 		<authority/>
 		<availability><p/></availability>
 	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
+			<sourceDesc>
+					<listWit>
+						<witness xml:id="bp1866">First American edition of <hi rend="italic">Battle-Pieces</hi>.<!-- put in Houghton call numbers <bibl></bibl>--> </witness>
+						
+						<witness xml:id="bp1866c">Melville's c copy of <hi rend="italic">Battle-Pieces</hi>, which includes post-publication revisions.</witness>
+					</listWit>
+			</sourceDesc>
 		</fileDesc>
 	</teiHeader>			
 		<text>
@@ -90,7 +96,7 @@ https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note>
 	<l>The light is on the youthful brow.</l></lg>
 					<lg>
 	<l rend="4em"><hi rend="italic">(Ay, in caves the miner see:</hi></l>
-<l rend="4em"><hi rend="italic">His forehead bears a blinking light;</hi></l>
+						<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c">a tapor dim</lem><rdg wit="bp1866">a blinking light;</rdg></app></hi></l>
 <l rend="4em"><hi rend="italic">Darkness so he feebly braves—</hi></l>
 <l rend="4em"><hi rend="italic">A meagre wight!)</hi></l></lg>
 <lg>
@@ -134,12 +140,12 @@ https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note>
 <l>Death, with silent negative.</l>
 </lg>
 <lg>
-	<l rend="2m"><hi rend="smallcaps">yea and nay—</hi></l>
-<l rend="2m"><hi rend="smallcaps">each hath his say;</hi></l>
-<l rend="2m"><hi rend="smallcaps">but <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">God</name> He keeps the middle way.</hi></l>
-<l rend="2m"><hi rend="smallcaps">none was by</hi></l>
-<l rend="2m"><hi rend="smallcaps">when He spread the sky;</hi></l>
-<l rend="2m"><hi rend="smallcaps">wisdom is vain, and prophesy.</hi></l>
+	<l rend="2em"><hi rend="smallcaps">yea and nay—</hi></l>
+<l rend="2em"><hi rend="smallcaps">each hath his say;</hi></l>
+<l rend="2em"><hi rend="smallcaps">but <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">god</name> He keeps the middle way.</hi></l>
+<l rend="2em"><hi rend="smallcaps">none was by</hi></l>
+<l rend="2em"><hi rend="smallcaps">when he spread the sky;</hi></l>
+<l rend="2em"><hi rend="smallcaps">wisdom is vain, and prophesy.</hi></l>
 </lg>
 </div></body>
 		</text>
