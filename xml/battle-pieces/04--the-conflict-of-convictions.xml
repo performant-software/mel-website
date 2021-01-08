@@ -20,59 +20,68 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="04--the-conflict-of-convictions"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777324904-d0lc3bmwdim2huxr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0024.jpg"/>                <hi rend="italic">The Conflict of Convictions.</hi>[a]
-                                (1860–1.)
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">                    ________________
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">On starry heights
-    A bugle wails the long recall;
-Derision stirs the deep abyss,
-    Heaven&apos;s ominous silence over all.
-Return, return, O eager Hope,
-    And face man&apos;s latter fall.
-Events, they make the dreamers quail;
-Satan&apos;s old age is strong and hale,
-A disciplined captain, gray in skill,
-And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;
-Dashed aims, at which <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,
-Shall <ref target="#ref_19267"><ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">from Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
+			<body>
+				<div id="04--the-conflict-of-convictions"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777324904-d0lc3bmwdim2huxr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0024.jpg"/><head>The Conflict of Convictions.[a] <lb/>(1860–1)</lb>________________</head>
+<lg>
+	<l>On starry heights</l>
+    <l remd="2em">A bugle wails the long recall;</l>
+<l>Derision stirs the deep abyss,</l>
+    <l rend="2em">Heaven&apos;s ominous silence over all.</l>
+<l>Return, return, O eager Hope,</l>
+    <l rend="2em">And face man&apos;s latter fall.</l>
+<l>Events, they make the dreamers quail;</l>
+<l>Satan&apos;s old age is strong and hale,</l>
+<l>A disciplined captain, gray in skill,</l>
+<l>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
+<l>Dashed aims, at which <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
+<l>Shall <ref target="#ref_19267"><ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">from Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
 [etymology]
-https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note></ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." Matthew 6:24 [reference, biblical]</note>&apos;s slaves fulfill?
-                                                                                                                                                                           
-              <hi rend="italic">(Dismantle the fort,
-              Cut down the fleet—
-              Battle no more shall be!
-              While the fields for fight in æons to come
-              Congeal beneath the sea.)</hi>
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777331444-lt6i8o7r2nxhto6r-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0025.jpg"/>The terrors of truth and dart of death
-    To faith alike are vain;
-Though <name ref="https://mel-catalog.herokuapp.com/api/entries/event:50" type="event">comets</name>, gone a thousand years,
-          Return again,
-Patient she stands—she can no more—
-And waits, nor heeds she waxes hoar.
+https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note></ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." Matthew 6:24 [reference, biblical]</note>&apos;s slaves fulfill?</l>
+</lg>
+<lg>
+	<l rend="4em"><hi rend="italic">(Dismantle the fort,</hi></l>
+	              <l rend="4em"><hi rend="italic">Cut down the fleet—</hi></l>
+	              <l rend="4em"><hi rend="italic">Battle no more shall be!</hi></l>
+	              <l rend="4em"><hi rend="italic">While the fields for fight in æons to come</hi></l>
+	              <l rend="4em"><hi rend="italic">Congeal beneath the sea.)</hi></l></lg>
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777331444-lt6i8o7r2nxhto6r-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0025.jpg"/>
+				<lg>
+	<l>The terrors of truth and dart of death</l>
+    <l rend="2em">To faith alike are vain;</l>
+<l>Though <name ref="https://mel-catalog.herokuapp.com/api/entries/event:50" type="event">comets</name>, gone a thousand years,</l>
+          <l rend="2em">Return again,</l>
+<l>Patient she stands—she can no more—</l>
+<l>And waits, nor heeds she waxes hoar.</l>
+</lg>
                                                                                                                                                                                    
-             <hi rend="italic"> (At a stony gate,
-              A statue of stone,
-              Weed overgrown—
-              Long &apos;twill wait.!)</hi>
+             <lg>
+	<l rend="4em"><hi rend="italic">(At a stony gate,</hi></l>
+	              <l rend="4em"><hi rend="italic">A statue of stone,</hi></l>
+	              <l rend="4em"><hi rend="italic">Weed overgrown—</hi></l>
+	              <l rend="4em"><hi rend="italic">Long &apos;twill wait.!)</hi></l>
+</lg>
                                                                                                                                                                                      
-But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">God</name> his former mind retains,
-    Confirms his old decree;
-The generations are inured to pains,
-    And strong Necessity
-Surges, and heaps Time&apos;s strand with wrecks.
-    The People spread like a weedy grass,
-    The thing they will they bring to pass,
-And prosper to the apoplex.
-The rout it herds around the heart,
-    The ghost is yielded in the gloom;
-Kings wag their heads—Now save thyself
-    Who wouldst rebuild the world in bloom.<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777337999-etrmiczwhy2xzuxr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0026.jpg"/>            <hi rend="italic"> (Tide-mark
-             And top of the ages&apos; strife,
-             Verge where they called the world to come,
-             The last advance of life—
-             Ha ha, the rust on the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:918" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">Iron Dome</name></name>!)</hi>
+<lg>
+	<l>But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">God</name> his former mind retains,</l>
+    <l rend="2em">Confirms his old decree;</l>
+<l>The generations are inured to pains,</l>
+    <l rend="2em">And strong Necessity</l>
+<l>Surges, and heaps Time&apos;s strand with wrecks.</l>
+    <l rend="2em">The People spread like a weedy grass,</l>
+    <l rend="2em">The thing they will they bring to pass,</l>
+<l>And prosper to the apoplex.</l>
+<l>The rout it herds around the heart,</l>
+    <l rend="2em">The ghost is yielded in the gloom;</l>
+<l>Kings wag their heads—Now save thyself</l>
+   <l rend="2em">Who wouldst rebuild the world in bloom.</l></lg>
+					
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777337999-etrmiczwhy2xzuxr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0026.jpg"/>
+					<lg>
+						<l rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
+						<l rend="4em"><hi rend="italic">And top of the ages&apos; strife,</hi></l>
+							<l rend="4em"><hi rend="italic">Verge where they called the world to come,</hi></l>
+								<l rend="4em"><hi rend="italic">The last advance of life—</hi></l>
+									<l rend="4em"><hi rend="italic">Ha ha, the rust on the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:918" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">Iron Dome</name></name>!)</hi></l></lg>
                                                                                                                                                                                   
 Nay, but revere the hid event;
     In the cloud a sword is girded on,
@@ -94,7 +103,7 @@ Ah! faith is warm, but heaven with age is cold.
              Of olden times
              Is blurted out!)</hi>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777343869-7rvd8hzacyirizfr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0027.jpg"/>The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person"><ref target="#ref_19276">Ancient of Days</ref><note xml:id="ref_19276">"I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire." Daniel 7:9 (Published Poems 626) [reference, biblical]</note></name> forever is young,
+<p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777343869-7rvd8hzacyirizfr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0027.jpg"/>The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person"><ref target="#ref_19276">Ancient of Days</ref><note xml:id="ref_19276">"I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire." Daniel 7:9 (Published Poems 626) [reference, biblical]</note></name> forever is young,
     Forever the scheme of Nature thrives;
 I know a wind in purpose strong—
     It spins against the way it drives.
@@ -126,6 +135,6 @@ Death, with silent negative.
               None was by
               When He spread the sky;
               Wisdom is vain, and prophesy.
-</p></div></body>
+</div></body>
 		</text>
 	</TEI>
