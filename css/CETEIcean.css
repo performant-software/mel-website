@@ -755,6 +755,12 @@ tei-l {
   display: block;
   width: 35em;
 }
+tei-l[rend=2em] {
+  text-indent: 2em;
+}
+tei-l[rend=4em] {
+  text-indent: 4em;
+}
 tei-l[data-lineno]:before {
   content: attr(data-lineno);
   position: absolute;
