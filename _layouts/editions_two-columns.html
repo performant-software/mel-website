@@ -17,15 +17,17 @@
 
                         {% if page.title == 'Mel Editions' %}
                         <!-- ========== Editions========== -->
+                        <div class="col-md-12">
+                            {% include section-editions-banner.html %}
+                        </div>
                         <div class="col-md-9">
                             {{ content }}
-
+                            <p>If you would like to join our Editions Group to work on any MEL edition,&nbsp;<a
+                                href="mailto:John.L.Bryant@hofstra.edu">Contact
+                                US</a>.</p>                        
                         </div>
                         <div class="col-md-3">
                             {% include menu-editions.html %}
-                        </div>
-                        <div class="col-md-12">
-                            {% include section-editions-banner.html %}
                         </div>
                         <!-- ========== End Editions========== -->
 
