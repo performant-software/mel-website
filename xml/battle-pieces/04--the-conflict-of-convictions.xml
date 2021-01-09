@@ -96,7 +96,7 @@ https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note>
 	<l>The light is on the youthful brow.</l></lg>
 					<lg>
 	<l rend="4em"><hi rend="italic">(Ay, in caves the miner see:</hi></l>
-						<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c">a tapor dim</lem><rdg wit="bp1866">a blinking light;</rdg></app></hi></l>
+						<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c"><ref target="#ednote2">a tapor dim</ref><note xml:id="ednote2">Melville revised here to replace "a blinking light;".</note></lem><rdg wit="bp1866">a blinking light;</rdg></app></hi></l>
 <l rend="4em"><hi rend="italic">Darkness so he feebly braves—</hi></l>
 <l rend="4em"><hi rend="italic">A meagre wight!)</hi></l></lg>
 <lg>
@@ -142,7 +142,7 @@ https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note>
 <lg>
 	<l rend="2em"><hi rend="smallcaps">yea and nay—</hi></l>
 <l rend="2em"><hi rend="smallcaps">each hath his say;</hi></l>
-<l rend="2em"><hi rend="smallcaps">but <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">god</name> He keeps the middle way.</hi></l>
+<l rend="2em"><hi rend="smallcaps">but <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">god</name> he keeps the middle way.</hi></l>
 <l rend="2em"><hi rend="smallcaps">none was by</hi></l>
 <l rend="2em"><hi rend="smallcaps">when he spread the sky;</hi></l>
 <l rend="2em"><hi rend="smallcaps">wisdom is vain, and prophesy.</hi></l>
