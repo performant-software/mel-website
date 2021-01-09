@@ -1,6 +1,6 @@
 ---
 layout: editions_two-columns
-title: What is a Fluid Text?
+title: What is a Fluid Text
 permalink: /what-is-a-fluid-text
 
 ---
