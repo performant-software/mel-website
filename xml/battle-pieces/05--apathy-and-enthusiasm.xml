@@ -20,59 +20,63 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="05--apathy-and-enthusiasm"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777509585-xbsvfugsv85gsyvi-0695f3a7b4194aa7c0d95af1ca02cb3a%2Fmodbm_ac85_m4977_866b_c_0029.jpg"/>         <hi rend="italic"><ref target="#ref_20499"><ref target="#ref_20498">Apathy and Enthusiasm</ref><note xml:id="ref_20498">[Criticism: Canonical] Garner comments on Melville's representation of the "numbness of the North after Lincoln's election with the "Easter" rising of the people the following spring" (62). Melville utilizes stark, contrasting terms throughout <i> Battle-Pieces </i> as a way of showing the turmoil surrounding both the events leading up to the Civil War and the conflict itself. In doing so, Melville forces the reader to come to terms with the extremeness of the situation and prompts us to think about the existence of a middle space in between apathy and enthusiasm. Leading up to the War, the nation tried to find a middle space, but it soon learned that there could be none. Another example of this can be found in "<a href="https://mel-juxta-editions.herokuapp.com/documents/242">Misgivings</a>," where the speaker references "the world's fairest hope linked with man's foulest crime." </note></ref><note xml:id="ref_20499">[Criticism: Canonical] [Intertextuality] Cohen connects Melville's title with his 1854 short story entitled "The Fiddler," in which Hautboy "seemed intuitively to hit the exact line between enthusiasm and apathy. It was plain that while Hautboy saw the world pretty much as it was, yet he did not thereotically espouse its bright side nor its dark side" (211). </note></hi>
-                   (1860-1.)
+			<body>
+				<div id="05--apathy-and-enthusiasm">
+					<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777509585-xbsvfugsv85gsyvi-0695f3a7b4194aa7c0d95af1ca02cb3a%2Fmodbm_ac85_m4977_866b_c_0029.jpg"/>
+					<head><hi rend="italic"><ref target="#ref_20499"><ref target="#ref_20498">Apathy and Enthusiasm</ref><note xml:id="ref_20498">[Criticism: Canonical] Garner comments on Melville's representation of the "numbness of the North after Lincoln's election with the "Easter" rising of the people the following spring" (62). Melville utilizes stark, contrasting terms throughout <hi rend="italic"> Battle-Pieces </hi> as a way of showing the turmoil surrounding both the events leading up to the Civil War and the conflict itself. In doing so, Melville forces the reader to come to terms with the extremeness of the situation and prompts us to think about the existence of a middle space in between apathy and enthusiasm. Leading up to the War, the nation tried to find a middle space, but it soon learned that there could be none. Another example of this can be found in "<ref target="https://mel-juxta-editions.herokuapp.com/documents/242">Misgivings</ref>," where the speaker references "the world's fairest hope linked with man's foulest crime." </note></ref><note xml:id="ref_20499">[Criticism: Canonical] [Intertextuality] Cohen connects Melville's title with his 1854 short story entitled "The Fiddler," in which Hautboy "seemed intuitively to hit the exact line between enthusiasm and apathy. It was plain that while Hautboy saw the world pretty much as it was, yet he did not thereotically espouse its bright side nor its dark side" (211). </note></hi><lb/>(1860-1.)<lb/>_________________</head>
+					<label>I.</label>
+					<lg>
+						<l><hi rend="smallcap">O the</hi> clammy cold November,</l>
+						<l rend="2em">And the winter white and dead,</l>
+						<l>And the terror dumb with stupor,</l>
+						<l rend="2em">And the sky a sheet of lead;</l>
+						<l>And events that came resounding</l>
+						<l rend="2em">With the cry that All was lost,</l>
+						<l>Like the thunder-cracks of massy ice</l>
+						<l rend="2em">In intensity of frost—</l>
+						<l>Bursting one upon another</l>
+						<l rend="2em">Through the horror of the calm.</l>
+						<l rend="2em">The paralysis of arm</l>
+						<l>In the anguish of the heart;</l>
+						<l>And the hollowness and dearth.</l>
+						<l rend="2em"><ref target="#ref_20557">The appealings of the mother</ref><note xml:id="ref_20557">[Intratextuality] In <i> Battle-Pieces</i>, mothers are depicted as being confused and helpless, unable to push back against the war ardor of the country. Melville continually builds on his depictions of mothers. We bear witness to the "appealings of the mother" in "Apathy and Enthusiasm", and then we  feel the "anguish of maternal hearts" in "<ref target="https://mel-juxta-editions.herokuapp.com/documents/334">On the Slain Collegians </ref>." Even the nation itself is characterized as a "lorn Mother" standing "speechless" with "the flury of her brood" in "<a href="https://mel-juxta-editions.herokuapp.com/documents/335"> America </a>."</note></l>
+						<l rend="2em">To brother and to brother</l>
+						<l>Not in hatred so to part—</l>
+						<l>And the fissure in the hearth</l>
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777515291-78ssrjpnwxpnl8fr-0695f3a7b4194aa7c0d95af1ca02cb3a%2Fmodbm_ac85_m4977_866b_c_0030.jpg"/>
+						<l rend="2em">Growing momently more wide.</l>
+<l>Then the glances &apos;tween the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:172" type="person">Fates</name>,</l>
+						<l rend="2em">And the doubt on every side,</l>
+						<l>And the patience under gloom</l>
+						<l>In the stoniness that waits</l>
+						<l>The finality of doom.</l>
+					</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">          _________________
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">                            I.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">O THE clammy cold November,
-    And the winter white and dead,
-And the terror dumb with stupor,
-    And the sky a sheet of lead;
-And events that came resounding
-    With the cry that All was lost,
-Like the thunder-cracks of massy ice
-    In intensity of frost—
-Bursting one upon another
-    Through the horror of the calm.
-    The paralysis of arm
-In the anguish of the heart;
-And the hollowness and dearth.
-    <ref target="#ref_20557">The appealings of the mother</ref><note xml:id="ref_20557">[Intratextuality] In <i> Battle-Pieces</i>, mothers are depicted as being confused and helpless, unable to push back against the war ardor of the country. Melville continually builds on his depictions of mothers. We bear witness to the "appealings of the mother" in "Apathy and Enthusiasm", and then we  feel the "anguish of maternal hearts" in "<a href="https://mel-juxta-editions.herokuapp.com/documents/334"> On the Slain Collegians </a>." Even the nation itself is characterized as a "lorn Mother" standing "speechless" with "the flury of her brood" in "<a href="https://mel-juxta-editions.herokuapp.com/documents/335"> America </a>."</note>
-    To brother and to brother
-Not in hatred so to part—
-And the fissure in the hearth
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777515291-78ssrjpnwxpnl8fr-0695f3a7b4194aa7c0d95af1ca02cb3a%2Fmodbm_ac85_m4977_866b_c_0030.jpg"/>    Growing momently more wide.
-Then the glances &apos;tween the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:172" type="person">Fates</name>,
-    And the doubt on every side,
-And the patience under gloom
-In the stoniness that waits
-The finality of doom.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">                           II. 
-<ref target="#ref_20500">So the winter died despairing,
-    And the weary weeks of Lent;
-And the ice-bound rivers melted,
-    And the tomb of Faith was rent.
-O, the rising of the People
-    Came with springing of the grass,
-They rebounded from dejection
-    After <name ref="https://mel-catalog.herokuapp.com/api/entries/event:31" type="event">Easter</name> came to pass.
-And the young were all elation
-    Hearing <name ref="https://mel-catalog.herokuapp.com/api/entries/place:507" type="place">Sumter</name>&apos;s cannon roar,
-And they thought how tame the Nation
-    In the age that went before.</ref><note xml:id="ref_20500">[Criticism: Canonical] Cohen asserts that Melville may have relied on an editorial from the <i> New York Times  </i>of April 16, 1861 entitled "The Resurrection of Patriotism" for some of the imagery in this section. The unbounding patriotism and enthusiasm for the War is present in the editorial. There is another part of the editorial, however, to which Melville may have been responding. The last line of the <i> Times  </i>article reads, "Whatever may be the character of the contest, we have no fears or misgivings as to the final issue." We should recall that Melville places the poem "<a href="https://mel-juxta-editions.herokuapp.com/documents/242"> Misgivings </a>" directly after the "<a href="https://mel-juxta-editions.herokuapp.com/documents/240"> Portent </a>." In other words, the reaction to John Brown as the portent of the War is not certainty, not apathy or enthusiasm, but misgivings. </note>
-<ref target="#ref_20530">And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name> seemed gigantical,
-    The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Arch-fiend</name> but a dwarf;</ref><note xml:id="ref_20530">[Allusion: Biblical] Melville's allusion to the war in heaven between St. Michael and Satan speaks to the feeling of righteousness on both sides of the War. In Miltonic fashion, Melville depicts the battle of good vs. evil as being less a struggle than a matter of fact: Michael is "gigantical"; Satan is "but a dwarf." In Milton's <i> Paradise Lost </i>, Satan poses little threat in combat against St. Michael and the divine hand of God. Through this allusion, Melville captures the early excitement of the War as being a matter of good vs. evil.</note>
-And at the towers of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:322" type="person">Erebus</name>
-    Our striplings flung the scoffe
-But the elders with foreboding
-    Mourned the days forever o&apos;er,<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777524033-4f0tsvtpqq2maemi-0695f3a7b4194aa7c0d95af1ca02cb3a%2Fmodbm_ac85_m4977_866b_c_0031.jpg"/>And recalled the forest proverb,
-    <ref target="#ref_20533">The Iroquois&apos; old saw:
-<hi rend="italic">Grief to every graybeard</hi>
-    <hi rend="italic">When young Indians lead the war.</hi></ref><note xml:id="ref_20533">Note: 6 GRIEF TO EVERY GRAYBEARD WHEN YOUNG INDIANS LEAD THE WAR. [Criticism: Recent] In Peter Unseth's "The Source of Melville's Iroquois Proverb," he attempts to locate the source for this proverb. [waiting on a copy of the article]</note><hi rend="italic">Grief to every graybeard</hi>
-    When young Indians lead the war.</p></div></body>
+<label>II.</label> 
+<lg>
+	<l>So the winter died despairing,</l>
+	<l rend="2em">And the weary weeks of Lent;</l>
+	<l>And the ice-bound rivers melted,</l>
+	<l rend="2em">And the tomb of Faith was rent.</l>
+	<l>O, the rising of the People</l>
+	<l rend="2em">Came with springing of the grass,</l>
+	<l>They rebounded from dejection</l>
+<l rend="2em">After <name ref="https://mel-catalog.herokuapp.com/api/entries/event:31" type="event">Easter</name> came to pass.</l>
+	<l>And the young were all elation</l>
+	<l rend="2em">Hearing <name ref="https://mel-catalog.herokuapp.com/api/entries/place:507" type="place">Sumter</name>&apos;s cannon roar,</l>
+	<l>And they thought how tame the Nation</l>
+	<l rend="2em"><ref target="#ref_20500">In the age that went before.</ref><note xml:id="ref_20500">Cohen asserts that Melville may have relied on an editorial from the <i> New York Times  </i>of April 16, 1861 entitled "The Resurrection of Patriotism" for some of the imagery in this section. The unbounding patriotism and enthusiasm for the War is present in the editorial. There is another part of the editorial, however, to which Melville may have been responding. The last line of the <i> Times  </i>article reads, "Whatever may be the character of the contest, we have no fears or misgivings as to the final issue." We should recall that Melville places the poem "<a href="https://mel-juxta-editions.herokuapp.com/documents/242"> Misgivings </a>" directly after the "<a href="https://mel-juxta-editions.herokuapp.com/documents/240"> Portent </a>." In other words, the reaction to John Brown as the portent of the War is not certainty, not apathy or enthusiasm, but misgivings.</note></l>
+	<l>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name> seemed gigantical,</l>
+	<l rend="2em"><ref target="#ref_20530">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Arch-fiend</name> but a dwarf;</ref><note xml:id="ref_20530">Melville's allusion to the war in heaven between St. Michael and Satan speaks to the feeling of righteousness on both sides of the War. In Miltonic fashion, Melville depicts the battle of good vs. evil as being less a struggle than a matter of fact: Michael is "gigantical"; Satan is "but a dwarf." In Milton's <hi rend="italic">Paradise Lost</hi>, Satan poses little threat in combat against St. Michael and the divine hand of God. Through this allusion, Melville captures the early excitement of the War as being a matter of good vs. evil.</note></l>
+<l>And at the towers of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:322" type="person">Erebus</name></l>
+	<l rend="2em">Our striplings flung the scoffe</l>
+	<l>But the elders with foreboding</l>
+	<l rend="2em">Mourned the days forever o&apos;er,</l>
+	<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777524033-4f0tsvtpqq2maemi-0695f3a7b4194aa7c0d95af1ca02cb3a%2Fmodbm_ac85_m4977_866b_c_0031.jpg"/>
+	<l>And recalled the forest proverb,</l>
+	<l rend="2em"><ref target="#ref_20533">The Iroquois&apos; old saw:</ref><note xml:id="ref_20533">In Peter Unseth's "The Source of Melville's Iroquois Proverb," he attempts to locate the source for this proverb. <bibl><hi rend="italic">ANQ A Quarterly Journal of Short Articles Notes and Reviews</hi>, 28.3-4 (October 2015): pp. 182-185. DOI: 10.1080/0895769X.2016.1172954</bibl>.</note></l>
+<l><hi rend="italic">Grief to every graybeard</hi></l>
+	<l rend="2em"><hi rend="italic">When young Indians lead the war</hi>.</l></lg>
+				</div></body>
 		</text>
 	</TEI>
