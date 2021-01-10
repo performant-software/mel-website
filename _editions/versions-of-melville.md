@@ -5,7 +5,7 @@ permalink: /versions-of-melville
 
 ---
 
-## THREE MODEL EDITIONS
+## *THREE MODEL EDITIONS*
 
 During his lifetime, Melville published nine book-length works of
 fiction, a collection of tales, and four works of poetry. At his death,
@@ -32,9 +32,8 @@ templates for MEL's editions of additional works. Why we chose these
 three fluid texts as models for digital editing has to do with the
 nature of print, manuscript, prose, poetry, and digital technology.
 
-### Versions of Melville
-
-***Moby-Dick***. First appearing in 1851 in virtually simultaneous American and  expurgated British first editions, Melville's best-known work is also a
+#### ***Moby-Dick***
+First appearing in 1851 in virtually simultaneous American and  expurgated British first editions, Melville's best-known work is also a
 significant example of a fluid text in print. In addition to the two
 first editions, scholarly editors have created their own versions. For
 instance, the standard Northwestern-Newberry (NN) edition of *Moby-Dick*
@@ -68,7 +67,8 @@ Digitally, the challenge of *Moby-Dick* lies in establishing protocols
 for the transcribing and TEI coding of a prose fiction, in print only. *Billy Budd* poses the entirely different problem of editing a fluid text that exists
 fundamentally in a heavily revised manuscript but also in non-authorized, modern print transcriptions.
 
-***Billy Budd*.*** Melville left his completed but unpolished manuscript
+#### ***Billy Budd***
+Melville left his completed but unpolished manuscript
 of *Billy Budd* unpublished at the time of his death in 1891. The
 manuscript is riddled with thousands of revisions, in pencil and ink,
 that bear striking evidence of the writer's shifting intentions
@@ -109,7 +109,8 @@ Editions platform (now in its second iteration called FairCopy).
 MEL's *Billy Budd* reading text is fully launched with the features
 mentioned. Still to be addressed are collations in FairCopy with other editions and further links to adaptive revisions in play, opera, and film.
 
-***Battle-Pieces***. Melville's first published volume of poetry, *Battle-Pieces and Aspects of the War*, poses other problems for digital editing. Although working drafts of these Civil War poems have not survived, evidence of Melville's post-production revisions appears in pencil on certain poems in two of his personal copies of the book. Apart from the difficult matter of coding Melville's intricate stanza structure and line indentations, *Battle-Pieces* presents the digital problem of layering handwritten revisions over text in print. Melville also published a handful of *Battle-Pieces* poems in magazines before the
+#### ***Battle-Pieces***
+ Melville's first published volume of poetry, *Battle-Pieces and Aspects of the War*, poses other problems for digital editing. Although working drafts of these Civil War poems have not survived, evidence of Melville's post-production revisions appears in pencil on certain poems in two of his personal copies of the book. Apart from the difficult matter of coding Melville's intricate stanza structure and line indentations, *Battle-Pieces* presents the digital problem of layering handwritten revisions over text in print. Melville also published a handful of *Battle-Pieces* poems in magazines before the
 volume's publication, and certain poems were reprinted in anthologies later in Melville's life. The challenge of integrating magazine and anthologized poetic texts along with Melville's penciled revisions is also addressed in the
 modeling of data for *Battle-Pieces*.
 
