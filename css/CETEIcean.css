@@ -658,6 +658,9 @@ tei-height {
 tei-heraldry {
   /* Empty Rule Set */
 }
+tei-hi[rend="smallcaps"] {
+  font-variant: small-caps;
+}
 tei-hi[rend="caps"] {
   font-weight:bold;
 }
