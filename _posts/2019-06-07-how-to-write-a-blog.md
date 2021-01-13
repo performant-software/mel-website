@@ -10,13 +10,11 @@ order: 1
 <h2 class="intro-text text-center">In the Works</h2>
 <hr>
 <ul>
-<li><a href="biographical-materials.html">Editing the Journals and Letters</a></li>
-<li><a href="adaptation.html">Editing Adaptation</a></li>
-<li><a href="tool-kit.html">Melville ReMix</a></li>
-<li>Editing Typee</li>
-<li>Editing Mosses</li>
-<li>Editing Journals</li>
-<li>Editing Correspondence</li>
-<li>NEH Grant Proposal 2017</li>
+    <li>Editing <i>Typee</i></li>
+    <li>Editing “Benito Cereno”</li>
+    <li>Editing “Hawthorne and his Mosses”</li>
+    <li>Editing Melville’s Travel Journals</li>
+    <li>Editing Melville Letters and Melville Family Correspondence</li>
+    <li>Editing Adaptation and Adaptive Revision</li>
 </ul>
 </div>
