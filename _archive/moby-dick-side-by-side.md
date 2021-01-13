@@ -1,7 +1,7 @@
 ---
 layout: archive_two-columns
 title: Moby&#45;dick Side&#45;by&#45;Side&#58; The American And British First Editions
-permalink: /moby-dick-the-whale-proofs
+permalink: /moby-dick-side-by-side
  
 ---
  
