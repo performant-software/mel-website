@@ -2,7 +2,7 @@
 layout: editions_two-columns
 title: Collating Moby&#8211;Dick&#58; Expurgations and Revision Narratives
 permalink: /expurgating-moby-dick
- 
+
 ---
 
 Editors collate the texts of different editions of the same work, even different printings of the same edition, in order to find changes that authors, editors, and printers introduce into the work, as it evolves over time. Often these differences are accidental typographical errors. But authors and editors can intervene making substantial changes that affect the meaning of text. Therefore, collation is an essential step in the editorial process, regardless of editorial approach. In the past, collation has been an arduous task, performed by hand, or rather by the eyes of proofreaders comparing both texts, and drawing up lists of variants. These lists are concrete, material evidence of textual change that editors use to establish whether a change is, in fact, accidental or substantial. Digital technology can now perform collations of transcriptions of variant texts instantaneously. Though transcriptions can be faulty and must still be compared “manually” against original pages, digital collation reduces scholarly labor and thereby gives scholars and critics more direct access to evolutions in the text of a written work.
