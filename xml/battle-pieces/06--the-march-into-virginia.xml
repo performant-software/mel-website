@@ -20,13 +20,12 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="06--the-march-into-virginia"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777569623-48nfra4b6x8yqfr-2d8943f3f077f96acadafa998a7c2e63%2Fmodbm_ac85_m4977_866b_c_0032.jpg"/>                   <hi rend="italic">The March into Virginia, 
-                     Ending in the First Manassas.</hi>
-                                (July, 1861.)
+			<body><div xmlns="" id="06--the-march-into-virginia"><p xmlns="http://www.tei-c.org/ns/1.0">
+				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777569623-48nfra4b6x8yqfr-2d8943f3f077f96acadafa998a7c2e63%2Fmodbm_ac85_m4977_866b_c_0032.jpg"/>
+				<head><hi rend="italic">The March into Virginia, 
+                     Ending in the First Manassas.</hi><lb/>(July, 1861.)<lb/>________________</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">                       ________________
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Did all the lets and bars appear
+<lg>Did all the lets and bars appear
     To every just or larger end,
 Whence should come the trust and cheer?
     Youth must its ignorant impulse lend—
@@ -36,7 +35,7 @@ The champions and enthusiasts of the state:
     Turbid ardors and vain joys
         Not barrenly abate—
     Stimulants to the power mature,
-        Preparatives of <ref target="#ref_20558">fate</ref><note xml:id="ref_20558">[Ambiguity] In "The March into Virginia," Melville shows us the distinction between "fate" and "Fate." The lowercase use of the word indicates an unguided future. Whereas his use of "Fate" includes an element of the supernatural, whether it be the Greek Fates alluded to in <a href="https://mel-juxta-editions.herokuapp.com/documents/244"> "Apathy and Enthusiasm" </a> or Lee's insistence that "the North and South were driven by Fate to arms" in <a href="https://mel-juxta-editions.herokuapp.com/documents/353"> "Lee in the Capitol." </a></note>.
+        Preparatives of <ref target="#ref_20558">fate</ref><note xml:id="ref_20558">In "The March into Virginia," Melville shows us the distinction between "fate" and "Fate." The lowercase use of the word indicates an unguided future. Whereas his use of "Fate" includes an element of the supernatural, whether it be the Greek Fates alluded to in <a href="https://mel-juxta-editions.herokuapp.com/documents/244"> "Apathy and Enthusiasm" </a> or Lee's insistence that "the North and South were driven by Fate to arms" in <a href="https://mel-juxta-editions.herokuapp.com/documents/353"> "Lee in the Capitol." </a></note>.</lg>
                                                                                                                                                                            
 Who here forecasteth the event?
 What heart but spurns at precedent
