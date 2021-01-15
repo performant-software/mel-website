@@ -66,7 +66,7 @@ antebellum America and Victorian England. For instance, whereas in
 Chapter 1 of the American *Moby-Dick*, Ishmael uses slave diction
 comically to proclaim "Who aint a slave," the British *Whale* elevates
 him in class by having him say, in humorless proper grammar, "Who is not
-a slave?" Chapter 25---a brief satire on the pomp of monarchs---was too
+a slave?" Chapter 25—a brief satire on the pomp of monarchs—was too
 much teasing for British readers, and Bentley (or Milton) had it removed
 entirely. Perhaps the most devastating cut is of Ishmael's lines toward
 the end of "The Whiteness of the Whale" (Ch. 42) that manages to offend
@@ -76,8 +76,8 @@ the charnel-house within." Apparently, equating god's nature to a whore
 would not sit well with British readers, or so Melville's British editor
 surmised, and the line was cut. The British expurgations are obvious
 provocations for closer reading and interpretation of Melville's text,
-but only if authorial revisions---like the addition of *gallied* and the
-change from *discover* to *perceive*---and the unauthorized editorial
+but only if authorial revisions—like the addition of *gallied* and the
+change from *discover* to *perceive*—and the unauthorized editorial
 intervention can be visualized through collation and explained in
 revision narratives offering plausible and alternative scenarios.
 
@@ -115,8 +115,8 @@ variant versions instantaneously, significantly reducing the labor
 needed to bring textual revision and versions to light. But digital
 collations are only as accurate as the underlying digital transcriptions
 of the manuscript or print works being collated. Once manuscript leaves
-or print pages have been digitized---that is, converted into digital
-images---then the text appearing in each image must also be converted
+or print pages have been digitized—that is, converted into digital
+images—then the text appearing in each image must also be converted
 into digital text, either by hand or automatically through "optical
 character recognition" (OCR) technology. And since digital
 transcriptions are themselves subject to human or machine error, they
