@@ -10,7 +10,7 @@ Melville left scores of unfinished works in manuscript when he died, most of whi
 
 MEL has partnered with Houghton and NYPL in arranging for the digitization of Melville manuscripts. Images are processed through MELCat and transcribed in TextLab. The TextLab base version transcription, diplomatic transcription, and revision narrative annotation are then uploaded to Juxta Editions or FairCopy for further textual and contextual annotation and formatting.
 
-Manuscripts may be viewed in their editorial platforms . Or you may view displays of MEL’s collection of literary and related documents by clicking the desired link.
+Manuscripts may be viewed in their editorial platforms. Or you may view displays of MEL’s collection of literary and related documents by clicking the desired link.
 
 
 *  Manuscripts Collected
