@@ -62,7 +62,7 @@ people.
 As a fluid text, "Benito Cereno" seems to present only minor challenges. No working draft manuscript has been found, and differences in
 wording between the novella's three installments in the October to
 December 1855 issues of *Putnam's Monthly Magazine* and the print
-version appearing in the 1856 *Piazza Tales* are few. That said, "Benito Cereno" poses problems regarding the **positioning** of the **installments** in *Putnam's* and of the tale within *Piazza Tales*. Also at issue is the narrative's relation to **Melville's source**. (For the range of versions, <a href="pdf/Editing-Benito-Cereno-Slide1.pdf/" target="_blank">click here</a>).
+version appearing in the 1856 *Piazza Tales* are few. That said, "Benito Cereno" poses problems regarding the **positioning** of the **installments** in *Putnam's* and of the tale within *Piazza Tales*. Also at issue is the narrative's relation to **Melville's source**. (For a visualization of the range of versions, <a href="pdf/Editing-Benito-Cereno-Slide1.pdf/" target="_blank">click here</a>).
 
 Narratives serialized in monthly magazine installments are common, as is
 the altering of magazine texts later collected in book format, and these
