@@ -66,7 +66,3 @@ TextLab. TextLab's collation feature, no longer operative, displayed both texts 
 
 Click on the links to the right for further introductory details on
 these editorial features.
-
-
-
-[fluid text](/what-is-a-fluid-text.html)  
