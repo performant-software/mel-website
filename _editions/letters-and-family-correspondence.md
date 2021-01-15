@@ -5,7 +5,7 @@ permalink: /letters-and-family-correspondence
 
 ---
 
-kground: Melville Letters & Family Networks.
+#### Background: Melville Letters & Family Networks.
 
 The 1993 Northwestern-Newberry *Correspondence* edition includes texts
 of 313 letters by Melville and entries on 237 unlocated letters alluded
@@ -23,9 +23,9 @@ in three collections. Over 300 unedited letters (discovered in 1983 and known as
 collection of another two hundred letters. Both sets of family
 correspondence, organized by letter-writer in individual folders, are
 held in the Gansevoort-Lansing Collection. NYPL's Duyckinck Collection
-also contains a score of Melville and Melville family letters. Other
+also contains additional Melville and Melville family letters. Other
 important holdings are at Houghton, Berkshire Athenaeum, Beinecke,
-Boston Public, and UVa libraries, with single items located at 31 other
+Boston Public, and Univeristy of Virginia libraries, with single items located at 31 other
 repositories. Scholars, including Bryant, Kelley, Lori Robertson-Lorant,
 and Hershel Parker, have used their independent transcriptions of these
 unedited letters in their scholarship, and yet the full critical impact
