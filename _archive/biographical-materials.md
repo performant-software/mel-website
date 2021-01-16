@@ -5,7 +5,6 @@ permalink: /biographical-materials
 
 ---
 
-
 The MEL Archive assembles a variety of materials that document Melville’s life, facilitating the study of Melville’s works within his life and times.  Our Biography “to-do list” includes Gansevoort and Melville Family Trees, a Timeline of Melville family events, from Melville’s grandparents to his grandchildren, and a Melville Family Photo Album.
 
 Currently, we have collected biographical materials that document interactions among Melville’s siblings, including his older brother Gansevoort and younger sister Augusta and Melville’s travels. Our proposed editions of his travel journals, letters, and Melville family correspondence contribute to biographical research.
