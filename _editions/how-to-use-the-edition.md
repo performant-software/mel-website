@@ -8,7 +8,7 @@ permalink: /how-to-use-the-edition
 
 MEL’s edition of *Billy Budd*, titled *Versions of Billy Budd*, is generated through our manuscript editing tool TextLab. It was further edited and formatted in the Juxta Editions and FairCopy critical editing platforms, adapted by and managed through Performant Software Solutions. The following introductions include directions on how to navigate the edition. To enter the edition, click the Reading Text link. To return to MEL, click the MEL tab on your browser.
 
-When you enter *Versions of Billy Budd*, a Table of Contents to the left lists each chapter.  Click on a chapter to bring that chapter’s Reading Text into the center column. The thumbnail images in the right margin are links to the manuscript leaves that constitute the selected chapter. Mousing over a given thumbnail highlights the print text corresponding to its equivalent in that manuscript leaf. Double clicking the thumbnails will take you into TextLab's display features: diplomatic transcription, base version, and revision sequences and narratives, described more fully below. Use your browser’s back arrow, to return from TextLab to the edition’s Reading Text. To return to these navigational instructions, select the MEL tab in your browser.
+When you enter *Versions of Billy Budd*, a Table of Contents to the left lists each chapter.  Click on a chapter to bring that chapter’s Reading Text into the center column. The thumbnail images in the right margin are links to the manuscript leaves that constitute the selected chapter. Mousing over a given thumbnail highlights a small text icon in the print text corresponding to the beginning of the text in the selected manuscript leaf image. Double clicking the thumbnails will take you into TextLab's display features for that leaf: diplomatic transcription, base version, and revision sequences and narratives, described more fully below. Use your browser’s back arrow, to return from TextLab to the edition’s Reading Text. To return to these navigational instructions, select the MEL tab in your browser.
 
 #### TextLab: Transcription, Base Version, and Reading Text  
 
@@ -16,7 +16,7 @@ MEL editors use TextLab to transcribe all text found on each manuscript leaf of 
 
 #### Navigating *Billy Budd*
 
-When you mouse over the marginal thumbnail of a leaf in the *Billy Budd* Reading Text, the corresponding text of that leaf is highlighted. By double-clicking the thumbnail, you are taken to a set of TextLab displays that enable you to inspect revisions on that leaf and to navigate revision sequences step-by-step.
+When you mouse over the marginal thumbnail of a leaf in the *Billy Budd* Reading Text, a small text icon indicating the the beginning of the text of that leaf is highlighted. By double-clicking the thumbnail, you are taken to a set of TextLab displays that enable you to inspect revisions on that leaf and to navigate revision sequences step-by-step.
 
 **Leaf and Diplomatic Transcription.** The first TextLab screen is a side-by-side display of the full image of the leaf and a diplomatic transcription of that leaf. To magnify or reduce the leaf image, mouse-over the leaf and click or shift-click. Use the up, down, left, and right arrow keys to position the image. These manipulations can also be performed on a laptop’s touchpad. The reader can access the previous or next leaf in the chapter by clicking on the appropriate link above the leaf image frame.
 
