@@ -53,3 +53,7 @@ html {
 #footer {
     grid-area: footer;
 }
+
+.highlight-image {
+    border: 2px solid blue;
+}
