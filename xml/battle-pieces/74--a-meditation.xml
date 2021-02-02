@@ -20,9 +20,11 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="74--a-meditation"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004393321-fbp84lwd3knpnwmi-005cf4a0e19ec0589df2df4cfabcd647%2F251.jpg"/>A Meditation
+			<body><div xmlns="" id="74--a-meditation">
+			  <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004393321-fbp84lwd3knpnwmi-005cf4a0e19ec0589df2df4cfabcd647%2F251.jpg"/>
+			  <head>A Meditation</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="italic">Attributed to a Northerner after attending the last of two
+<p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="italic">Attributed to a Northerner after attending the last of two
 funerals from the same homestead--those of a National and a 
 Confederate officer (brothers), his kinsman, who had died from
 the effects of wounds received in the closing battles</hi>
