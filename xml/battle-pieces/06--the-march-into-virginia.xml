@@ -20,23 +20,27 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="06--the-march-into-virginia"><p xmlns="http://www.tei-c.org/ns/1.0">
+			<body>
+				<div id="06--the-march-into-virginia">
 				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777569623-48nfra4b6x8yqfr-2d8943f3f077f96acadafa998a7c2e63%2Fmodbm_ac85_m4977_866b_c_0032.jpg"/>
-				<head><hi rend="italic">The March into Virginia, 
+				<head type="poem-title"><hi rend="italic">The March into Virginia, 
                      Ending in the First Manassas.</hi><lb/>(July, 1861.)<lb/>________________</head>
 
-<lg>Did all the lets and bars appear
-    To every just or larger end,
-Whence should come the trust and cheer?
-    Youth must its ignorant impulse lend—
-Age finds place in the rear.
-    All wars are boyish, and are fought by boys,
-The champions and enthusiasts of the state:
-    Turbid ardors and vain joys
-        Not barrenly abate—
-    Stimulants to the power mature,
-        Preparatives of <ref target="#ref_20558">fate</ref><note xml:id="ref_20558">In "The March into Virginia," Melville shows us the distinction between "fate" and "Fate." The lowercase use of the word indicates an unguided future. Whereas his use of "Fate" includes an element of the supernatural, whether it be the Greek Fates alluded to in <a href="https://mel-juxta-editions.herokuapp.com/documents/244"> "Apathy and Enthusiasm" </a> or Lee's insistence that "the North and South were driven by Fate to arms" in <a href="https://mel-juxta-editions.herokuapp.com/documents/353"> "Lee in the Capitol." </a></note>.</lg>
-                                                                                                                                                                           
+<lg>
+<l>Did all the lets and bars appear</l>
+<l>To every just or larger end,</l>
+<l>Whence should come the trust and cheer?</l>
+<l>Youth must its ignorant impulse lend—</l>
+<l>Age finds place in the rear.</l>
+<l>All wars are boyish, and are fought by boys,</l>
+<l>The champions and enthusiasts of the state:</l>
+<l>Turbid ardors and vain joys</l>
+<l>Not barrenly abate—</l>
+<l>Stimulants to the power mature,</l>
+<l>Preparatives of <ref target="#ref_20558">fate</ref>
+<note xml:id="ref_20558">In "The March into Virginia," Melville shows us the distinction between "fate" and "Fate." The lowercase use of the word indicates an unguided future. Whereas his use of "Fate" includes an element of the supernatural, whether it be the Greek Fates alluded to in <ref target="https://mel-juxta-editions.herokuapp.com/documents/244">"Apathy and Enthusiasm"</ref> or Lee's insistence that "the North and South were driven by Fate to arms" in <ref target="https://mel-juxta-editions.herokuapp.com/documents/353">"Lee in the Capitol."</ref></note>.</l>
+</lg>
+                                                                                                                                                                      
 Who here forecasteth the event?
 What heart but spurns at precedent
 And warnings of the wise,
@@ -66,6 +70,6 @@ Or shame survive, and, like to adamant,
     <ref target="#ref_20684">The throe of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:41" type="event">Second Manassas</name> share.</ref><note xml:id="ref_20684">[Criticism: Canonical] The NN edition of <i> Published Poems  </i>explains Melville's revision sequence in the Harvard Copy C of <i> Battle-Pieces  </i>as follows:
 
 "Melville first underlined but did not line-through the printed last line--'The throe of Second Manassas share.'--and penciled a question mark in the right margin. Then he explicitly lined through the printed line and penciled, then lined through, 'Manassas' second throe and deadlier share'; then he penciled, below, 'Thy second shock, Manassas, share', and finally he substituted 'after' for 'second'. (627)</note>
-</p></div></body>
+</div></body>
 		</text>
 	</TEI>
