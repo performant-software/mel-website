@@ -26,3 +26,4 @@ yarn start
 ## Updating XML
 
 Once the site is running locally, you can view changes to the local XML files by running `yarn build`. The XML sources are stored in the `xml` directory. The `originals` directory contains the XML output from Juxta Editions and should not be changed.
+ 
