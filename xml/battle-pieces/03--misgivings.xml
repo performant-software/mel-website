@@ -22,7 +22,7 @@
 	</teiHeader>			
 		<text>
 			<body><div type="poem" id="03--misgivings">
-				<pb facs="../../images/battle-pieces-v1/battle-pieces-i-0021.jpg"/>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0021.jpg"/>
 				<head>Misgivings. <lb/> (1860.) <lb/>________________</head>
 				<lg type="stanza" n="1">
 					<l n="1" rend="2em">When ocean-clouds over inland hills</l>
@@ -37,7 +37,7 @@
 					<l n="8" rend="2em">Nature&apos;s dark side is heeded now—</l>
 					<l n="9" rend="4em">(Ah! optimist-cheer disheartened flown)—</l>
 					<l n="10" rend="2em">A child may read the moody brow</l>
-					<l n="11" rend="4em">Of yon <ref target="#ref_00001">black mountain</ref><note xml:id="ref_00001">The <name ref="https://mel-catalog.herokuapp.com/api/entries/place:442" type="place">Black Mountains</name>.</note> lone.</l>
+					<l n="11" rend="4em">Of yon <name ref="https://mel-catalog.herokuapp.com/api/entries/place:442" type="place">black mountain</name> lone.</l>
 					<l n="12" rend="2em">With shouts the torrents down the gorges go,</l>
 					<l n="13" rend="2em">And storms are formed behind the storm we feel:</l>
 					<l n="14">The <ref target="#ref_20979">hemlock</ref><note xml:id="ref_20979">A poisonous plant in the Apiaceae family. Socrates carried out his own sentence of death by drinking a poisonous beverage of hemlock.</note> shakes in the rafter, the oak in the driving keel.</l>
