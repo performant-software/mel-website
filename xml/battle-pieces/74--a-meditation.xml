@@ -19,7 +19,14 @@
 		<text>
 			<body><div xmlns="" id="74--a-meditation">
 			  <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004393321-fbp84lwd3knpnwmi-005cf4a0e19ec0589df2df4cfabcd647%2F251.jpg"/>
-			  <head>A Meditation.</head>
+			  <head><hi rend="italic">A Meditation.</hi></head>
+
+<p xmlns="http://www.tei-c.org/ns/1.0">
+	<lg><l>ATTRIBUTED TO A NORTHERNER AFTER ATTENDING THE</l>
+	<l>LAST OF TWO FUNERALS FROM THE SAME HOMESTEAD—</lg>
+	<l>THOSE OF A NATIONAL AND A CONFEDERATE OFFICER</lg>
+	<l>(BROTHERS), HIS KINSMAN, WHO HAD DIED FROM THE EF-</lg>
+	<l>FECTS OF WOUNDS RECEIVED IN THE CLOSING BATTLES.</lg></lg></p>
 
 <p><hi rend="smallcaps">Attributed to a Northerner after attending the last of two funerals from the same homestead—those of a National and a
 Confederate officer (brothers), his kinsman, who had died from
