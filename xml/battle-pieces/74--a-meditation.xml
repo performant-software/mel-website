@@ -21,86 +21,90 @@
 	</teiHeader>
 		<text>
 			<body><div xmlns="" id="74--a-meditation">
-			  <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004393321-fbp84lwd3knpnwmi-005cf4a0e19ec0589df2df4cfabcd647%2F251.jpg"/>
-			  <head><hi rend="italic">A Meditation.</hi></head>
 
-<p xmlns="http://www.tei-c.org/ns/1.0">
-	<lg><l>ATTRIBUTED TO A NORTHERNER AFTER ATTENDING THE</l>
-	<l>LAST OF TWO FUNERALS FROM THE SAME HOMESTEAD—</lg>
-	<l>THOSE OF A NATIONAL AND A CONFEDERATE OFFICER</lg>
-	<l>(BROTHERS), HIS KINSMAN, WHO HAD DIED FROM THE EF-</lg>
-	<l>FECTS OF WOUNDS RECEIVED IN THE CLOSING BATTLES.</lg></lg></p>
+<head rend="4em">A MEDITATION.</head>
+<lb>
+<lg><l>ATTRIBUTED TO A NORTHERNER AFTER ATTENDING THE</l>
+<l>LAST OF TWO FUNERALS FROM THE SAME HOMESTEAD—</l>
+<l>THOSE OF A NATIONAL AND A CONFEDERATE OFFICER</l>
+<l>(BROTHERS), HIS KINSMEN, WHO HAD DIED FROM THE EF-</l>
+<l>FECTS OF WOUNDS RECEIVED IN THE CLOSING BATTLES.</l></lg>
 
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004393321-fbp84lwd3knpnwmi-005cf4a0e19ec0589df2df4cfabcd647%2F251.jpg"/>
+<head><hi rend="italic">A Meditation.</hi></head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">How often in the years that close,
-  When truce had stilled the sieging gun,
-The soldiers, mounting on their works,
-  With mutual curious glance have run
-From face to face along the fronting show,
-And kinsman spied, or friend—even in a foe.
+<lg><l>How often in the years that close,</l>
+<l rend="2em">When truce had stilled the sieging gun,</l>
+<l>The soldiers, mounting on their works,</l>
+<l rend="2em">With mutual curious glance have run</l>
+<l>From face to face along the fronting show,</l>
+<l>And kinsman spied, or friend—even in a foe.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">What thoughts conflicting then were shared.
-  While sacred tenderness perforce
-Welled from the heart and wet the eye;
-  And something of a strange remorse
-Rebelled against the sanctioned sin of blood,
-And Christian wars of natural brotherhood.
+<lg><l>What thoughts conflicting then were shared.</l>
+<l rend="2em">While sacred tenderness perforce</l>
+<l>Welled from the heart and wet the eye;</l>
+<l rend="2em">And something of a strange remorse</l>
+<l>Rebelled against the sanctioned sin of blood,</l>
+<l>And Christian wars of natural brotherhood.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Then stirred the god within the breast—
-  The witness that is man&apos;s at birth;
-A deep misgiving undermined
-  Each plea and subterfuge of earth;
-The felt in that rapt pause, with warning rife,
-Horror and anguish for the civil strife.
+<lg><l>Then stirred the god within the breast—</l>
+<l rend="2em">The witness that is man&apos;s at birth;</l>
+<l>A deep misgiving undermined</l>
+<l rend="2em">Each plea and subterfuge of earth;</l>
+<l>They felt in that rapt pause, with warning rife,</l>
+<l>Horror and anguish for the civil strife.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004401479-046mr29blo5pzaor-005cf4a0e19ec0589df2df4cfabcd647%2F253.jpg"/>Mark the great Captains on both sides,
-  The soldiers with the broad renown—
-They all were <name ref="https://mel-catalog.herokuapp.com/api/entries/place:497" type="event">messmates on the Hudson&apos;s marge</name>,
-  Beneath one roof they laid them down;
-And free from hate in many an after pass,
-Strove as in school-boy rivalry of the class.
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004398031-k2eqmt47ulyp66r-005cf4a0e19ec0589df2df4cfabcd647%2F252.jpg"/>
+<lg><l>Of North or South they recked not then,</l>
+<l rend="2em">Warm passion cursed the cause of war:</l>
+<l>Can Africa pay back this blood</l>
+<l rend="2em">Spilt on Potomac&apos;s shore?</l>
+<l>Yet doubts, as pangs, were vain the strife to stay,</l>
+<l>And hands that fain had clasped again could slay.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">A darker side there is; but doubt
-  In Nature&apos;s charity hovers there:
-If men for new agreement yearn,
-  Then old upbraiding best forbear:
-&quot;The South&apos;s the sinner!&quot; Well, so let it be;
-But shall the North sin worse, and stand the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:213" type="person">Pharisee</name>?
+<lg><l>How frequent in the camp was seen</l>
+<l rend="2em">The herald from the hostile one,</l>
+<l>A guest and frank companion there</l>
+<l rend="2em">When the proud formal talk was done;</l>
+<l>The pipe of peace was smoked even &apos;mid the war,</l>
+<l>And fields in Mexico again fought o&apos;er.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">O, now that brave men yield the sword,
-  Mine be the manful soldier-view;
-By how much more they boldly warred,
-  By so much more is mercy due:
-When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,
-Silent the victors stood, scorning to raise a shout.
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004398031-k2eqmt47ulyp66r-005cf4a0e19ec0589df2df4cfabcd647%2F252.jpg"/>Of North or South they recked not then,
-  Warm passion cursed the cause of war:
-Can Africa pay back this blood
-  Spilt on Potomac&apos;s shore?
-Yet doubts, as pangs, were vain the strife to stay,
-And hands that fain had clasped again could slay.
+<lg><l>In Western battle long they lay</l>
+<l rend="2em">So near opposed in trench or pit,</l>
+<l>That foeman unto foeman called</l>
+<l rend="2em">As men who screened in tavern sit:</l>
+<l>&quot;You bravely fight&quot; each to the other said—</l>
+<l>&quot;Toss us a biscuit!&quot; o&apos;er the wall it sped.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">How frequent in the camp was seen
-  The herald from the hostile one,
-A guest and frank companion there
-  When the proud formal talk was done;
-The pipe of peace was smoked even &apos;mid the war,
-And fields in Mexico again fought o&apos;er.
+<lg><l>And pale on those same slopes, a boy—</l>
+<l rend="2em">A stormer, bled in noon-day glare;</l>
+<l>No aid the <name type="person">Blue-coats</name> then could bring,</l>
+<l rend="2em">He cried to them who nearest were,</l>
+<l>And out there came &apos;mid howling shot and shell</l>
+<l>A daring foe who him befriended well.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">In Western battle long they lay
-  So near opposed in trench or pit,
-That foeman unto foeman called
-  As men who screened in tavern sit:
-&quot;You bravely fight&quot; each to the other said—
-&quot;Toss us a biscuit!&quot; o&apos;er the wall it sped.
+<lg><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004401479-046mr29blo5pzaor-005cf4a0e19ec0589df2df4cfabcd647%2F253.jpg"/>
+<l>Mark the great Captains on both sides,</l>
+<l rend="2em">The soldiers with the broad renown—</l>
+<l>They all were <name ref="https://mel-catalog.herokuapp.com/api/entries/place:497" type="event">messmates on the Hudson&apos;s marge</name>,</l>
+<l rend="2em">Beneath one roof they laid them down;</l>
+<l>And, free from hate in many an after pass,</l>
+<l>Strove as in school-boy rivalry of the class.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">And pale on those same slopes, a boy—
-  A stormer, bled in noon-day glare;
-No aid the <name type="person">Blue-coats</name> then could bring,
-  He cried to them who nearest were,
-And out there came &apos;mid howling shot and shell
-A daring foe who him befriended well.
+<lg><l>A darker side there is; but doubt</l>
+<l rend="2em">In Nature&apos;s charity hovers there:</l>
+<l>If men for new agreement yearn,</l>
+<l rend="2em">Then old upbraiding best forbear:</l>
+<l>&quot;<hi rend="italic">The South&apos;s the sinner!</hi>&quot; Well, so let it be;</l>
+<l>But shall the North sin worse, and stand the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:213" type="person">Pharisee</name>?</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"/></div></body>
+<lg><l>O, now that brave men yield the sword,</l>
+<l rend="2em">Mine be the manful soldier-view;</l>
+<l>By how much more they boldly warred,</l>
+<l rend="2em">By so much more is mercy due:</l>
+<l>When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,</l>
+<l>Silent the victors stood, scorning to raise a shout.</l></lg>
+
+</div></body>
 		</text>
 	</TEI>
