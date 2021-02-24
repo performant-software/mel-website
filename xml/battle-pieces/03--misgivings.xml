@@ -21,7 +21,7 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div id="03--misgivings">
+			<body><div xml:id="misgivings">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0021.jpg"/>
 				<head><hi rend="italic">Misgivings.</hi> <lb/> (1860.) <lb/>________________</head>
 				<lg type="stanza" n="1">
