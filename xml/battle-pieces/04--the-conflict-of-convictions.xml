@@ -27,7 +27,7 @@
 	</teiHeader>			
 	<text>
 		<body>
-			<div type="poem" id="04--the-conflict-of-convictions"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0022.jpg"/><head><hi rend="italic">The Conflict of Convictions</hi>.[a] <lb/>(1860–1)<lb/>________________</head>
+			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0022.jpg"/><head><hi rend="italic">The Conflict of Convictions</hi>.[a] <lb/>(1860–1.)<lb/>________________</head>
 				<lg>
 					<l>On starry heights</l>
 					<l rend="2em">A bugle wails the long recall;</l>
@@ -39,7 +39,7 @@
 					<l>Satan&apos;s old age is strong and hale,</l>
 					<l>A disciplined captain, gray in skill,</l>
 					<l>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
-					<l>Dashed aims, <app><lem><ref target="#ednote1">whereat</ref><note xml:id="ednote1">After publication, Melville added this revision in pencil, changing "at which" to "whereat."</note></lem> <rdg wit="#bp1866c">at which</rdg></app> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
+					<l>Dashed aims, <app><lem><ref target="#ednote1">at which</ref><note xml:id="ednote1">After publication, Melville added this revision in pencil, changing "at which" to "whereat."</note></lem> <rdg wit="#bp1866c">at which</rdg></app> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
 					<l>Shall <ref target="#ref_19267"><ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">from Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
 						[etymology]
 						https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note></ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." Matthew 6:24 [reference, biblical]</note>&apos;s slaves fulfill?</l>
