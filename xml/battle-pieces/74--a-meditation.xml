@@ -17,10 +17,10 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xmlns="" id="74--a-meditation">
+			<body>
+<div id="74--a-meditation">
 
 <head rend="4em">A MEDITATION.</head>
-dummy word
 <lg><l>ATTRIBUTED TO A NORTHERNER AFTER ATTENDING THE</l>
 <l>LAST OF TWO FUNERALS FROM THE SAME HOMESTEAD—</l>
 <l>THOSE OF A NATIONAL AND A CONFEDERATE OFFICER</l>
@@ -101,7 +101,6 @@ dummy word
 <l rend="2em">By so much more is mercy due:</l>
 <l>When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,</l>
 <l>Silent the victors stood, scorning to raise a shout.</l></lg>
-
 </div></body>
 		</text>
 	</TEI>
