@@ -17,9 +17,9 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body>
-<div id="74--a-meditation">
+			<body><div id="74--a-meditation">
 
+<pb facs="https://github.com/performant-software/mel-website/blob/master/images/battle-pieces-v1/battle-pieces-i-0047.jpg"/>
 <head rend="4em">A MEDITATION.</head>
 <lg><l>ATTRIBUTED TO A NORTHERNER AFTER ATTENDING THE</l>
 <l>LAST OF TWO FUNERALS FROM THE SAME HOMESTEAD—</l>
@@ -27,7 +27,7 @@
 <l>(BROTHERS), HIS KINSMEN, WHO HAD DIED FROM THE EF-</l>
 <l>FECTS OF WOUNDS RECEIVED IN THE CLOSING BATTLES.</l></lg>
 
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004393321-fbp84lwd3knpnwmi-005cf4a0e19ec0589df2df4cfabcd647%2F251.jpg"/>
+<pb facs="https://github.com/performant-software/mel-website/blob/master/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/>
 <head><hi rend="italic">A Meditation.</hi></head>
 
 <lg><l>How often in the years that close,</l>
@@ -51,7 +51,7 @@
 <l>They felt in that rapt pause, with warning rife,</l>
 <l>Horror and anguish for the civil strife.</l></lg>
 
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004398031-k2eqmt47ulyp66r-005cf4a0e19ec0589df2df4cfabcd647%2F252.jpg"/>
+<pb facs="https://github.com/performant-software/mel-website/blob/master/images/battle-pieces-v1/battle-pieces-i-0050.jpg"/>
 <lg><l>Of North or South they recked not then,</l>
 <l rend="2em">Warm passion cursed the cause of war:</l>
 <l>Can Africa pay back this blood</l>
@@ -80,7 +80,7 @@
 <l>And out there came &apos;mid howling shot and shell</l>
 <l>A daring foe who him befriended well.</l></lg>
 
-<lg><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004401479-046mr29blo5pzaor-005cf4a0e19ec0589df2df4cfabcd647%2F253.jpg"/>
+<lg><pb facs="https://github.com/performant-software/mel-website/blob/master/images/battle-pieces-v1/battle-pieces-i-0051.jpg"/>
 <l>Mark the great Captains on both sides,</l>
 <l rend="2em">The soldiers with the broad renown—</l>
 <l>They all were <name ref="https://mel-catalog.herokuapp.com/api/entries/place:497" type="event">messmates on the Hudson&apos;s marge</name>,</l>
@@ -101,6 +101,7 @@
 <l rend="2em">By so much more is mercy due:</l>
 <l>When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,</l>
 <l>Silent the victors stood, scorning to raise a shout.</l></lg>
+
 </div></body>
 		</text>
 	</TEI>
