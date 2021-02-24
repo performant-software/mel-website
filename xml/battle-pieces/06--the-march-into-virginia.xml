@@ -36,7 +36,7 @@
 	<l rend="4em">Not barrenly abate—</l>
 <l>Stimulants to the power mature,</l>
 	<l rend="2em">Preparatives of <ref target="#ref_20558">fate</ref>
-		<note xml:id="ref_20558">In "The March into Virginia," Melville shows us the distinction between "fate" and "Fate." The lowercase use of the word indicates an unguided future. Whereas his use of "Fate" includes an element of the supernatural, whether it be the Greek Fates alluded to in <ref target="https://mel-juxta-editions.herokuapp.com/documents/244" type="reference">"Apathy and Enthusiasm"</ref> or Lee's insistence that "the North and South were driven by Fate to arms" in <ref target="https://mel-juxta-editions.herokuapp.com/documents/353" type="reference">"Lee in the Capitol."</ref></note>.</l>
+		<note xml:id="ref_20558">In "The March into Virginia," Melville shows us the distinction between "fate" and "Fate." The lowercase use of the word indicates an unguided future. Whereas his use of "Fate" includes an element of the supernatural, whether it be the Greek Fates alluded to in "Apathy and Enthusiasm" or Lee's insistence that "the North and South were driven by Fate to arms" in "Lee in the Capitol." <!-- need to fix cross-refs --></note>.</l>
 </lg>
 					<lg>
 <l>Who here forecasteth the event?</l>
@@ -51,9 +51,9 @@
 <l>No picnic party in the May,</l>
 <l>Ever went less loth than they</l>
 						<l rend="2em">Into that leafy neighborhood.</l>
-<l><ref target="#ref_20561">In <name ref="https://mel-catalog.herokuapp.com/api/entries/event:40" type="event">Bacchic</name> glee they file toward Fate</ref><note xml:id="ref_20561">[Allusion: Classical] [Ambiguity] [Allusion: Biblical]The reference to Bacchus tells us that the soldiers are in a frenzy, losing themselves in the glory of war. Melville's use of Fate at the end of the verse is important. It tells us that there is the feeling of a supernatural force that is leading these young men toward their Fates. Melville gives us one horrific possibility for this supernatural source in the next verse: Moloch. </note>,
+<l><ref target="#ref_20561">In <name ref="https://mel-catalog.herokuapp.com/api/entries/event:40" type="event">Bacchic</name> glee they file toward Fate</ref><note xml:id="ref_20561">The reference to Bacchus tells us that the soldiers are in a frenzy, losing themselves in the glory of war. Melville's use of Fate at the end of the verse is important. It tells us that there is the feeling of a supernatural force that is leading these young men toward their Fates. Melville gives us one horrific possibility for this supernatural source in the next verse: Moloch. </note>,
 </l>
-<l><ref target="#ref_20560"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:310" type="person">Moloch</name>&apos;s uninitiate</ref><note xml:id="ref_20560">As Cohen notes, "The worship pf Moloch required the sacrifice of children" (213). Melville may have, as Cohen mentions, been thinking about the roll call in <hi rend="italic">Paradise Lost</hi>: "First Moloch, horrid King besmear'd with blood / Of human sacrifice, and parents' tears" (213). </note>;
+<l><ref target="#ref_20560"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:310" type="person">Moloch</name>&apos;s uninitiate</ref><note xml:id="ref_20560">As Cohen notes, "The worship pf Moloch required the sacrifice of children" (213). Melville may have, as Cohen mentions, been thinking about the roll call in <hi rend="italic">Paradise Lost</hi>: "First Moloch, horrid King besmear'd with blood / Of human sacrifice, and parents' tears" (213).</note>;
 	Expectancy, and glad surmise</l>
 <l>Of battle&apos;s unknown mysteries.</l>
 <l>All they feel is this: &apos;tis glory,</l>
