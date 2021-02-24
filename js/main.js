@@ -77,7 +77,7 @@ function highlightImage( on, id ) {
     } else {
         document.getElementById(id).classList.remove("highlight-image")
     }
-}
+} 
 
 function initThumbs(tlLeaf,iiif) {
     // go through all the facs attributes and render them to the sidebar 
