@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>73 - Lee in the Capitol</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,12 +18,18 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="73--lee-in-the-capitol"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438004166378-bsokbo3r2tg4aemi-2f82b963af5b074cbb55ba89e6f3718d%2F239.jpg"/>Lee in the Capitol
-(<ref target="#ref_21090">April</ref><note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem." (Parker II, 612) [Allusion, Historical; Biographical, Composition] (Marr)</note>, 1866)
+			<body><div id="73--lee-in-the-capitol">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Hard pressed by numbers in his strait,
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0235.jpg"/>
+				<head rend="4em">LEE IN THE CAPITOL.</head>
+
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0237.jpg"/>
+				<head><hi rend="italic">Lee in the Capitol.</hi></head>
+				<l>(<ref target="#ref_21090">April</ref><note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem." (Parker II, 612) [Allusion, Historical; Biographical, Composition] (Marr)</note>, 1866)</l>l>
+
+<l><hi rend="smcap">Hard</hi> pressed by numbers in his strait,</l>
   Rebellion&apos;s soldier-chief no more contends—
 Feels that the hour is come of Fate,
   Lays down one sword, and widened warfare ends.
