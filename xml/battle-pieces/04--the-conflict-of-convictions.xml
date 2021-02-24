@@ -20,14 +20,14 @@
 				<listWit>
 					<witness xml:id="bp1866">First American edition of <hi rend="italic">Battle-Pieces</hi>.<!-- put in Houghton call numbers <bibl></bibl>--> </witness>
 					
-					<witness xml:id="bp1866c">Melville's c copy of <hi rend="italic">Battle-Pieces</hi>, which includes post-publication revisions.</witness>
+					<witness xml:id="bp1866c">Melville's c copy of <hi rend="italic">Battle-Pieces</hi>, which includes his post-publication revisions.</witness>
 				</listWit>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>			
 	<text>
 		<body>
-			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0022.jpg"/><head><hi rend="italic">The Conflict of Convictions</hi>.[a] <lb/>(1860–1.)<lb/>________________</head>
+			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/><head><hi rend="italic">The Conflict of Convictions</hi>.[a] <lb/>(1860–1.)<lb/>________________</head>
 				<lg>
 					<l>On starry heights</l>
 					<l rend="2em">A bugle wails the long recall;</l>
@@ -50,7 +50,7 @@
 					<l rend="4em"><hi rend="italic">Battle no more shall be!</hi></l>
 					<l rend="4em"><hi rend="italic">While the fields for fight in æons to come</hi></l>
 					<l rend="4em"><hi rend="italic">Congeal beneath the sea.)</hi></l></lg>
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0023.jpg"/>
+				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0025.jpg"/>
 				<lg>
 					<l>The terrors of truth and dart of death</l>
 					<l rend="2em">To faith alike are vain;</l>
@@ -79,7 +79,7 @@
 					<l>Kings wag their heads—Now save thyself</l>
 					<l rend="2em">Who wouldst rebuild the world in bloom.</l></lg>
 				
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0024.jpg"/>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-ii-0026.jpg"/>
 				<lg>
 					<l rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
 					<l rend="4em"><hi rend="italic">And top of the ages&apos; strife,</hi></l>
@@ -110,7 +110,7 @@
 					<l rend="4em"><hi rend="italic">Is blurted out!)</hi></l>
 				</lg>
 				
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0025.jpg"/>
+				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0027.jpg"/>
 				<lg>
 					<l>The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person"><ref target="#ref_19276">Ancient of Days</ref><note xml:id="ref_19276">"I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire." Daniel 7:9 (Published Poems 626) [reference, biblical]</note></name> forever is young,</l>
 					<l rend="2em">Forever the scheme of Nature thrives;</l>
@@ -135,7 +135,7 @@
 					<l>But <ref target="#ref_21169">the Founders&apos;</ref><note xml:id="ref_21169">Melville is referring to the Founding Fathers of the United States who led the American Revolution against the British. (Eric Meckley)</note> dream shall flee.</l>
 					<l>Age after age shall be</l>
 					<l>As age after age has been,</l>
-					<l>(From man&apos;s changeless heart their way they win);</l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0026.jpg"/>
+					<l>(From man&apos;s changeless heart their way they win);</l><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0028.jpg"/>
 					<l>And death be busy with all who strive—</l>
 					<l>Death, with silent negative.</l>
 				</lg>
