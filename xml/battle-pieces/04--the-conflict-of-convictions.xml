@@ -79,7 +79,7 @@
 					<l>Kings wag their heads—Now save thyself</l>
 					<l rend="2em">Who wouldst rebuild the world in bloom.</l></lg>
 				
-				<pb facs="/images/battle-pieces-v1/battle-pieces-ii-0026.jpg"/>
+				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0026.jpg"/>
 				<lg>
 					<l rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
 					<l rend="4em"><hi rend="italic">And top of the ages&apos; strife,</hi></l>
@@ -96,9 +96,9 @@
 					<l>The light is on the youthful brow.</l></lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ay, in caves the miner see:</hi></l>
-					<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c"><ref target="#ednote2">a tapor dim</ref><note xml:id="ednote2">Melville revised here to replace "a blinking light;".</note></lem><rdg wit="bp1866">a blinking light;</rdg></app></hi></l>
-					<l rend="4em"><hi rend="italic">Darkness so he feebly braves<app><lem wit="#bp1866c"> </lem><rdg wit="#bp1866">—</rdg></app></hi></l>
-					<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">which foldeth him!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!"</note></lem><rdg wit="#bp1866">A meagre wight!)</rdg></app></hi></l></lg>
+					<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c"><ref target="#ednote2">a blinking light</ref><note xml:id="ednote2">Melville revised here to replace "a blinking light" with "a tapor dim".</note></lem><rdg wit="bp1866">a blinking light</rdg><rdg wit="#bp1866c">a tapor dim</rdg></app>;</hi></l>
+					<l rend="4em"><hi rend="italic">Darkness so he feebly braves<app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866">[not in]</rdg></app></hi></l>
+					<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">A meagre wight!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!" with "which foldeth him!"</note></lem><rdg wit="#bp1866">A meagre wight!)</rdg><rdg wit="#bp1866c">which foldeth him!</rdg></app></hi></l></lg>
 				<lg>
 					<l>But He who rules is old—is old;</l>
 					<l>Ah! faith is warm, but heaven with age is cold.</l>
