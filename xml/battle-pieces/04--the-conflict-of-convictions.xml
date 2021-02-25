@@ -18,7 +18,7 @@
 			</publicationStmt>
 			<sourceDesc>
 				<listWit>
-					<witness xml:id="bp1866">First American edition of <hi rend="italic">Battle-Pieces</hi>.<!-- put in Houghton call numbers <bibl></bibl>--> </witness>
+					<witness xml:id="bp1866a">First American edition of <hi rend="italic">Battle-Pieces</hi>.<!-- put in Houghton call numbers <bibl></bibl>--> </witness>
 					
 					<witness xml:id="bp1866c">Melville's c copy of <hi rend="italic">Battle-Pieces</hi>, which includes his post-publication revisions.</witness>
 				</listWit>
@@ -39,7 +39,7 @@
 					<l>Satan&apos;s old age is strong and hale,</l>
 					<l>A disciplined captain, gray in skill,</l>
 					<l>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
-					<l>Dashed aims, <app><lem><ref target="#ednote1">at which</ref><note xml:id="ednote1">After publication, Melville added this revision in pencil, changing "at which" to "whereat."</note></lem> <rdg wit="#bp1866">at which</rdg><rdg wit="#bp1866c">whereat</rdg></app> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
+					<l>Dashed aims, <app><lem><ref target="#ednote1">at which</ref><note xml:id="ednote1">After publication, Melville added this revision in pencil, changing "at which" to "whereat."</note></lem> <rdg wit="#bp1866a">at which</rdg><rdg wit="#bp1866c">whereat</rdg></app> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
 					<l>Shall <ref target="#ref_19267"><ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">from Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
 						[etymology]
 						https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note></ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." Matthew 6:24 [reference, biblical]</note>&apos;s slaves fulfill?</l>
@@ -96,9 +96,9 @@
 					<l>The light is on the youthful brow.</l></lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ay, in caves the miner see:</hi></l>
-					<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c"><ref target="#ednote2">a blinking light</ref><note xml:id="ednote2">Melville revised here to replace "a blinking light" with "a tapor dim".</note></lem><rdg wit="bp1866">a blinking light</rdg><rdg wit="#bp1866c">a tapor dim</rdg></app>;</hi></l>
-					<l rend="4em"><hi rend="italic">Darkness so he feebly braves<app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866">[not in]</rdg></app></hi></l>
-					<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">A meagre wight!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!" with "which foldeth him!"</note></lem><rdg wit="#bp1866">A meagre wight!)</rdg><rdg wit="#bp1866c">which foldeth him!</rdg></app></hi></l></lg>
+					<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c"><ref target="#ednote2">a blinking light</ref><note xml:id="ednote2">Melville revised here to replace "a blinking light" with "a tapor dim".</note></lem><rdg wit="bp1866a">a blinking light</rdg><rdg wit="#bp1866c">a tapor dim</rdg></app>;</hi></l>
+					<l rend="4em"><hi rend="italic">Darkness so he feebly braves<app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app></hi></l>
+					<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">A meagre wight!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!" with "which foldeth him!"</note></lem><rdg wit="#bp1866a">A meagre wight!)</rdg><rdg wit="#bp1866c">which foldeth him!</rdg></app></hi></l></lg>
 				<lg>
 					<l>But He who rules is old—is old;</l>
 					<l>Ah! faith is warm, but heaven with age is cold.</l>
