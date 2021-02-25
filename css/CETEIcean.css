@@ -766,6 +766,10 @@ tei-l[rend="4em"] {
   display: block;
   text-indent: 4em;
 }
+tei-l[rend="6em"] {
+   diplay: block;
+   text-indent: 6em;
+}
 tei-l[data-lineno]:before {
   content: attr(data-lineno);
   position: absolute;
