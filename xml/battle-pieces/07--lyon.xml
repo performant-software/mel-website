@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 			<title>07 - Lyon</title>
-			
+			<author>Herman Melville</author>
 			
 					
 		</titleStmt>
@@ -20,86 +20,98 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="07--lyon"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437778846029-ag50skcgd1s8aor-86820a35aab0d3e0ab401d7c9e483fcb%2Fmodbm_ac85_m4977_866b_c_0034.jpg"/>                                         <hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:174" type="person">Lyon</name>.</hi> 
-                       <hi rend="italic">Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:502" type="place">Springfield, Missouri</name>.</hi> 
-                                  (August, 1861.)
-                         ___________________
+			<body>
+				<div xml:id="lyon">
+					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0032.jpg"/>
+					<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:174" type="person">Lyon</name>.</hi><lb/>
+					<hi rend="italic">Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:502" type="place">Springfield, Missouri</name>.</hi><lb/>
+                                  (<hi rend="smallcaps">August</hi>, 1861.)<lb/>
+                         ___________________</head>
 
-Some <ref target="#ref_19034">hearts</ref><note xml:id="ref_19034"/> there are of deeper sort,
-           Prophetic, sad,
-Which yet for cause are trebly clad;
-           Known death they fly on:
-This wizard-heart and heart-of-oak had Lyon.
-                                                                                                                                                                          
-“They are more than twenty <add>thousand</add> strong,
-           We less than five,
-Too few with such a host to strive.”
-           “Such counsel, fie on!
-&apos;Tis battle, or &apos;tis shame;” and firm stood Lyon.
-                                                                                                                                                                             
-&quot;For help at need in vain we wait—
-           Retreat or fight:
-Retreat the foe would take for flight,
-           And each proud scion
-Feel more elate; the end must come,&quot; said Lyon<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437778854810-z24m7gulsaif6r-86820a35aab0d3e0ab401d7c9e483fcb%2Fmodbm_ac85_m4977_866b_c_0035.jpg"/>By candlelight he wrote the will,
-           And left his all
-To <ref target="#ref_20245">Her</ref><note xml:id="ref_20245">Lyon was reported to have willed his estate to the United States.</note> for whom &apos;twas not enough to fall;
-           Loud neighed Orion
-Without the tent; drums beat; <ref target="#ref_20246">we</ref><note xml:id="ref_20246">This is one of the rare moments in Melville's Civil War Poetry when the speaker appears to be a common soldier.</note> marched with Lyon.
-                                                                                                                                                                          
-The night-tramp done, we spied the Vale
-           With guard-fires lit;
-Day broke, but trooping clouds made gloom of it:
-           “A field to die on,”
-Presaged in his unfaltering heart, brave Lyon.
-                                                                                                                                                                               
-We fought on the grass, we bled in the corn—
-           Fate seemed malign;
-His horse the Leader led along the line—
-           Star-browed Orion;
-Bitterly fearless, he rallied us there, brave Lyon.
-                                                                                                                                                                             
-There came a sound like the slitting of air
-           By a swift sharp sword—
-A rush of the sound; and the sleek chest broad
-           Of black Orion
-Heaved, and was fixed; the dead mane waved toward Lyon.
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437778862291-t5v6u2u4ih9i19k9-86820a35aab0d3e0ab401d7c9e483fcb%2Fmodbm_ac85_m4977_866b_c_0036.jpg"/>“General, you&apos;re hurt—this sleet of balls!”
-           He seemed half spent;
-With moody and bloody brow, he lowly bent:
-           “The field to die on;
-But not—not yet; the day is long,” breathed Lyon.
-                                                                                                                                                                            
-For a time becharmed there fell a lull
-           In the heart of the fight;
-The tree-tops nod, the slain sleep light;
-           Warm noon-winds sigh on,
-And thoughts which he never spake had Lyon.
-                                                                                                                                                                               
-<name type="person">Texans and Indians</name> trim for a charge:
-           “Stand ready, men!
-Let them come close, right up, and then
-           After the lead, the iron;
-Fire, and charge back!” So strength returned to Lyon.
-                                                                                                                                                                           
-<name type="person">The Iowa men</name> who held the van,
-           Half drilled, were new
-To battle: “Some one lead us, then we&apos;ll do,”
-           Said Corporal Tryon:
-“Men! <hi rend="italic">I</hi> will lead,” and a light glared in Lyon.
+<lg>
+<l><hi rend="smallcaps">Some</hi> <ref target="#ref_19034">hearts</ref><note xml:id="ref_19034"/> there are of deeper sort,</l>
+	<l rend="4em">Prophetic, sad,</l>
+<l>Which yet for cause are trebly clad;</l>
+	<l rend="4em">Known death they fly on:</l>
+<l>This wizard-heart and heart-of-oak had Lyon.</l>
+</lg>
+<lg>
+<l rend="4em">We less than five,</l>
+<l>Too few with such a host to strive.”</l>
+<l rend="4em">“Such counsel, fie on!</l>
+<l>&apos;Tis battle, or &apos;tis shame;” and firm stood Lyon.</l>
+</lg>
+<lg><l>&quot;For help at need in vain we wait—</l>
+	<l rend="4em">Retreat or fight:</l>
+<l>Retreat the foe would take for flight,</l>
+	<l rend="4em">And each proud scion</l>
+<l>Feel more elate; the end must come,&quot; said Lyon</l>
+</lg>
+	
+					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0033.jpg"/>
+					<lg><l>By candlelight he wrote the will,</l>
+						<l rend="4em">And left his all</l>
+<l>To <ref target="#ref_20245">Her</ref><note xml:id="ref_20245">Lyon was reported to have willed his estate to the United States.</note> for whom &apos;twas not enough to fall;</l>
+						<l rend="4em">Loud neighed Orion</l>
+<l>Without the tent; drums beat; <ref target="#ref_20246">we</ref><note xml:id="ref_20246">This is one of the rare moments in Melville's Civil War Poetry when the speaker appears to be a common soldier.</note> marched with Lyon.
+</l></lg>
+<lg><l>The night-tramp done, we spied the Vale</l>
+<l rend="4em">With guard-fires lit;</l>
+<l>Day broke, but trooping clouds made gloom of it:</l>
+	<l rend="4em">“A field to die on,”</l>
+<l>Presaged in his unfaltering heart, brave Lyon.</l></lg>
+					
+<lg><l>We fought on the grass, we bled in the corn—</l>
+<l rend="4em">Fate seemed malign;</l>
+<l>His horse the Leader led along the line—</l>	
+<l rend="4em">Star-browed Orion;</l>
+<l>Bitterly fearless, he rallied us there, brave Lyon.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437778868341-5lv22wxi6hia4i-86820a35aab0d3e0ab401d7c9e483fcb%2Fmodbm_ac85_m4977_866b_c_0037.jpg"/>On they came: they yelped, and fired;
-           His spirit sped;
-We leveled right in, and <name type="person">the half-breeds</name> fled,
-           Nor stayed the iron,
-<name type="event">Nor captured the crimson corse of Lyon</name>.
-                                                                                                                                                                           
-This seer foresaw his soldier-doom,
-           Yet wiled the fight.
-He never turned; his only flight
-           Was up to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:503" type="place">Zion</name>,
-Where prophets now and armies greet <corr originalText="brave">pale</corr> Lyon.
-</p></div></body>
+					<lg><l>There came a sound like the slitting of air</l>
+	<l rend="4em">By a swift sharp sword—</l>
+<l>A rush of the sound; and the sleek chest broad</l>
+	<l rend="4em">Of black Orion</l>
+<l>Heaved, and was fixed; the dead mane waved toward Lyon.</l></lg>
+
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0034.jpg"/><lg><l>“General, you&apos;re hurt—this sleet of balls!”</l>
+<l rend="4em">He seemed half spent;</l>
+<l>With moody and bloody brow, he lowly bent:</l>
+<l rend="4em">“The field to die on;</l>
+<l>But not—not yet; the day is long,” breathed Lyon.</l>
+</lg>
+
+					<lg><l>For a time becharmed there fell a lull</l>
+					<l rend="4em">In the heart of the fight;</l>
+<l>The tree-tops nod, the slain sleep light;</l>
+						<l rend="4em">Warm noon-winds sigh on,</l>
+<l>And thoughts which he never spake had Lyon.</l></lg>
+
+					<lg><l>Texans and Indians trim for a charge:</l>
+	<l rend="4em">“Stand ready, men!</l>
+<l>Let them come close, right up, and then</l>
+		<l rend="4em">After the lead, the iron;</l>
+<l>Fire, and charge back!” So strength returned to Lyon.</l></lg>
+
+					<lg><l><name type="person">The Iowa men</name> who held the van,</l>
+						<l rend="4em">Half drilled, were new</l>
+<l>To battle: “Some one lead us, then we&apos;ll do,”</l>
+							<l rend="4em">Said Corporal Tryon:</l>
+<l>“Men! <hi rend="italic">I</hi> will lead,” and a light glared in Lyon.</l>
+					</lg>
+
+					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0035.jpg"/><lg><l>On they came: they yelped, and fired;</l>
+						<l rend="4em">His spirit sped;</l>
+<l>We leveled right in, and <name type="person">the half-breeds</name> fled,</l>
+							<l rend="4em">Nor stayed the iron,</l>
+<l><name type="event">Nor captured the crimson corse of Lyon</name>.</l></lg>
+
+					<lg><l>This seer foresaw his soldier-doom,</l>
+	<l rend="4em">Yet wiled the fight.</l>
+<l>He never turned; his only flight</l>
+		<l rend="4em">Was up to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:503" type="place">Zion</name>,</l>
+<l>Where prophets now and armies greet <app><lem><ref target="#ednote1">brave</ref><note xml:id="ednote1">In Melville's post-publication copy, he penciled in "pale" as a possible replacement for "brave."</note></lem><rdg>pale</rdg></app> Lyon.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
