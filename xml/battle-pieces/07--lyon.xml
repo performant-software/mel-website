@@ -23,8 +23,8 @@
 			<body>
 				<div xml:id="lyon">
 					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0032.jpg"/>
-					<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:174" type="person">Lyon</name>.</hi><lb/>
-					<hi rend="italic">Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:502" type="place">Springfield, Missouri</name>.</hi><lb/>
+					<head>			<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:174" type="person">Lyon</name>.</hi><lb/>
+									<hi rend="italic">Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:502" type="place">Springfield, Missouri</name>.</hi><lb/>
                                   (<hi rend="smallcaps">August</hi>, 1861.)<lb/>
                          ___________________</head>
 
