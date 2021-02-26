@@ -767,7 +767,7 @@ tei-l[rend="4em"] {
   text-indent: 4em;
 }
 tei-l[rend="6em"] {
-  diplay: block;
+  display: block;
   text-indent: 6em;
 }
 tei-l[data-lineno]:before {
@@ -1036,7 +1036,7 @@ tei-musicNotation:before {
 }
 /* n */
 tei-name {
-  /* Empty Rule Set */
+  font-color: green;
 }
 tei-nameLink {
   /* Empty Rule Set */
