@@ -770,7 +770,7 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[n] {
+tei-l[n]:before {
   content: attr(n);
   left: -2em;
 }
