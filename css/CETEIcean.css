@@ -773,7 +773,7 @@ tei-l[rend="6em"] {
 }
 tei-l[n]:after {
   font-weight: bold;
-  margin-right: 20em;
+  margin-right: 6em;
   content: "["attr(n)"]";
 }
 tei-lacunaEnd {
