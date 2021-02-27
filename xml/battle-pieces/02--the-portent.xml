@@ -16,7 +16,7 @@
 	</teiHeader>			
 		<text>
 			<body>
-				<div id="02--the-portent">
+				<div xml:id="the-portent">
 					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0019.jpg"/>
 					<head><hi rend="italic">The Portent.</hi> <lb/>(1859.)<lb/>
 					----------</head>
