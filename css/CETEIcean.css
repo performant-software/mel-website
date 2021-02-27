@@ -1037,6 +1037,7 @@ tei-musicNotation:before {
 /* n */
 tei-name {
   color: blue;
+  cursor: pointer;
 }
 tei-nameLink {
   /* Empty Rule Set */
