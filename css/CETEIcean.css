@@ -771,10 +771,10 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[n]:after {
-  font-style: bold;
-  padding-right: 40px;
-  content: "[\a0" attr(n) "]"
+tei-l[n]:before {
+  font-weight: bold;
+  padding-left: 20px;
+  content: '\2003' "[\a0" attr(n) "]"
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
