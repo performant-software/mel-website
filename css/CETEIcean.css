@@ -774,7 +774,7 @@ tei-l[rend="6em"] {
 tei-l[n]:before {
   font-weight: bold;
   text-indent: -6em;
-  content: "["attr(n) "]" '\2003''\2003';
+  content: "["attr(n) "]" '\2003';
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
