@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 			<title>10 - The Stone Fleet</title>
-			
+			<author>Herman Melville</author>
 			
 					
 		</titleStmt>
@@ -20,9 +20,11 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="10--the-stone-fleet"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780417251-y9mgzv3ffi0sh5mi-39c813fc59a9d7ee676b249aee32956a%2F41.jpg"/><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event">The Stone Fleet</name>.
+			<body><div xml:id="the-stone-fleet">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/>
+				<name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event">The Stone Fleet</name>.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">An Old Sailor&apos;s Lament.
+<p xmlns="http://www.tei-c.org/ns/1.0">An Old Sailor&apos;s Lament.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">(December, 1861.)
 
