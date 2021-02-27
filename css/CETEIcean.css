@@ -771,8 +771,9 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[n]:empty:after {
-  content: attr(n);
+tei-l[n]:after {
+  white-space: pre;
+  content: "[\a attr(n);]"
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
