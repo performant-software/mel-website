@@ -773,7 +773,7 @@ tei-l[rend="6em"] {
 }
 tei-l[n]:after {
   content: attr(n);
-  margin-right:auto;
+  text-indent: 10em;
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
