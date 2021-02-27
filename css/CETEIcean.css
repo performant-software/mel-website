@@ -771,9 +771,9 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[n]:before {
+tei-l[n]:after {
   font-weight: bold;
-  margin-left: -2em;
+  margin-right: auto;
   content: "["attr(n) "]" '\2001';
 }
 tei-lacunaEnd {
