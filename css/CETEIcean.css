@@ -770,10 +770,9 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[data-lineno]:before {
-  content: attr(data-lineno);
-  position: absolute;
-  left: 2em;
+tei-l[n]:before {
+  display: block;
+  left: -4em;
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
