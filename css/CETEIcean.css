@@ -773,8 +773,8 @@ tei-l[rend="6em"] {
 }
 tei-l[n]:before {
   font-weight: bold;
-  margin-left: -3em;
-  content: "["attr(n) "]" '\2003';
+  margin-left: -2em;
+  content: "["attr(n) "]" '\2001';
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
