@@ -598,6 +598,7 @@ tei-TEI tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+  text-align: center;
 }
 tei-body > tei-head {
   font-size: 180%;
@@ -772,7 +773,7 @@ tei-l[rend="6em"] {
 }
 tei-l[n]:before {
   content: attr(data-n);
-  left: -2em;
+  margin-left: -6em;
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
