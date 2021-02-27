@@ -598,11 +598,11 @@ tei-TEI tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+  text-align: center;
 }
 tei-body > tei-head {
   font-size: 180%;
   text-indent: -0.5em;
-  text-align: center;
 }
 tei-div.textpart {
   display: none;
@@ -610,7 +610,6 @@ tei-div.textpart {
 tei-div > tei-head {
   font-size: 170%;
   text-indent: -0.5em;
-  text-align: center;
 }
 tei-div > tei-div > tei-head {
   font-size: 155%;
@@ -772,8 +771,9 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[n]:before {
-  content: attr(data-n);
+tei-l[n]:after {
+  content: attr(n);
+  margin-right: 6em;
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
