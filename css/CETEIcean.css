@@ -772,7 +772,7 @@ tei-l[rend="6em"] {
   text-indent: 6em;
 }
 tei-l[n]:after {
-  white-space: pre;
+  font-style: bold;
   content: \2003 attr(n);
 }
 tei-lacunaEnd {
