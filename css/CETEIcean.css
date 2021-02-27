@@ -771,9 +771,9 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[n]:after {
+tei-l[n]:before {
   content: attr(data-n);
-  text-indent: 6em;
+  text-indent: -6em;
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
