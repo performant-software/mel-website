@@ -774,7 +774,7 @@ tei-l[rend="6em"] {
 tei-l[n]:before {
   font-weight: bold;
   padding-left: 20px;
-  content: '\2003' "[\a0" attr(n) "]"
+  content: "["attr(n) "]"
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
