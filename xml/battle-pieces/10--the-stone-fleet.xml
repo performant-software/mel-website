@@ -22,14 +22,14 @@
 		<text>
 			<body><div xml:id="the-stone-fleet">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/>
-				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event">The Stone Fleet</name>.
+				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet</hi></name>.
 
-An Old Sailor&apos;s Lament.
+<hi rend="italic">An Old Sailor&apos;s Lament.</hi>
 
-(December, 1861.)</head>
+(<hi rend="smallcaps">December</hi>, 1861.)</head>
 
 
-<p xmlns="http://www.tei-c.org/ns/1.0">I Have a feeling for those ships,
+<p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="smallcaps">I have</hi> a feeling for those ships,
 Each worn and ancient one,
 With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">  Cohen connects Melville's language here with the <i>Rebellion Record's</i> republishing of a correspondent's account of the event, originally published in the New York <i>Tribune</i>. The correspondent writes, "her bluff bows nod to us rather gracefully" (219). </note>, and broad in the beam:
 Ay, it was unkindly done.
