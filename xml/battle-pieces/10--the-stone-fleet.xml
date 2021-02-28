@@ -29,47 +29,50 @@
 (<hi rend="smallcaps">December</hi>, 1861.)</head>
 
 
-<lg><l><hi rend="smallcaps">I have</hi> a feeling for those ships,</l>
+				<lg type="stanza"  n="1"><l><hi rend="smallcaps">I have</hi> a feeling for those ships,</l>
 <l rend="2em">Each worn and ancient one,</l>
 <l>With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">  Cohen connects Melville's language here with the <hi rend="italic">Rebellion Record's</hi> republishing of a correspondent's account of the event, originally published in the New York <hi rend="italic">Tribune</hi>. The correspondent writes, "her bluff bows nod to us rather gracefully" (219). </note>, and broad in the beam:</l>
 <l rend="2em">Ay, it was unkindly done.</l>
-<l rend="8em">But so they serve the <ref target="#ref_20304">Obsolete</ref><note xml:id="ref_20304"/>—</l>
+<l n="5" rend="8em">But so they serve the Obsolete—</l>
 <l rend="8em">Even so, Stone Fleet!</l></lg>
 
-<p xmlns="http://www.tei-c.org/ns/1.0">You&apos;ll say I&apos;m doting; do but think
-I scudded round the Horn in one—
-The Tenedos, a glorious
-Good old craft as ever run—
-Sunk (how all unmeet!)
-With the Old Stone Fleet.
+				<lg type="stanza" n="2">
+	<l>You&apos;ll say I&apos;m doting; do but think</l>
+<l rend="2em">I scudded round the Horn in one—</l>
+<l>The Tenedos, a glorious</l>
+<l n="10" rend="2em">Good old craft as ever run—</l>
+<l rend="8em">Sunk (how all unmeet!)</l>
+<l rend="8em">With the Old Stone Fleet.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">An India ship of fame was she,
-Spices and shawls and fans she bore;
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780422137-e58ovpkt6dhrggb9-39c813fc59a9d7ee676b249aee32956a%2F42.jpg"/>A whaler when her wrinkles came—
-Turned off! till, spent and poor,
-Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705"> Cohen reads the term as "reversion to the rightful owner, in this instance the sea" (219). </note>)!
-Ah! Stone Fleet.
+				<lg type="stanza" n="3"><l>An India ship of fame was she,</l>
+<l rend="2em">Spices and shawls and fans she bore;</l>
+	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/><l n="15">A whaler when her wrinkles came—</l>
+<l rend="2em">Turned off! till, spent and poor,</l>
+	<l rend="8em">Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705"> Cohen reads the term as "reversion to the rightful owner, in this instance the sea" (219). </note>)!</l>
+<l rend="8em">Ah! Stone Fleet.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Four were erst patrician keels
-(Names attest what families be)
-The Kensington, and Richmond too,
-Leonidas, and Lee:
-But now they have their seat
-With the Old Stone Fleet.
+				<lg type="stanza" n="4"><l>Four were erst patrician keels</l>
+<l n="20" rend="2em">(Names attest what families be),</l>
+<l>The Kensington, and Richmond too,</l>
+<l rend="2em">Leonidas, and Lee:</l>
+<l rend="8em">But now they have their seat</l>
+				<l rend="8em">With the Old Stone Fleet.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">To scuttle them—a pirate deed—
-Sack them, and dismast;
-They sunk so slow, they died so hard,
-But gurgling dropped at last.
-Their ghosts in gales repeat
-Woe&apos;s us, Stone Fleet!
+<lg type="stanza" n="5"><l n="25">To scuttle them—a pirate deed—</l>
+<l rend="2em">Sack them, and dismast;</l>
+<l>They sunk so slow, they died so hard,</l>
+<l rend="2em">But gurgling dropped at last.</l>
+<l rend="8em">Their ghosts in gales repeat</l>
+<l n="30" rend="8em"><hi rend="italic">Woe&apos;s us, Stone Fleet!</hi></l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">And all for naught. The waters pass—
-Currents will have their way;
-Nature is nobody&apos;s ally; &apos;tis well;
-<name ref="https://mel-catalog.herokuapp.com/api/entries/place:516" type="place">The harbor</name> is bettered—will stay.
-A failure, and complete,
-Was your Old Stone Fleet.
-</p></div></body>
+				<lg type="stanza" n="6">
+					<l>And all for naught. The waters pass—</l>
+<l rend="2em">Currents will have their way;</l>
+<l>Nature is nobody&apos;s ally; &apos;tis well;</l>
+					<l rend="2em"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:516" type="place">The harbor</name> is bettered—will stay.</l>
+<l n="35" rend="8em">A failure, and complete,</l>
+<l rend="8em">Was your Old Stone Fleet.</l></lg>
+</div></body>
 		</text>
 	</TEI>
