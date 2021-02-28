@@ -774,7 +774,7 @@ tei-l[rend="6em"] {
 tei-l[n]:after {
   font-weight: lighter;
   font-size: 75%;
-  margin-left: 2em;
+  margin-right: 2em;
   content: '\2003' '\2003' '\2003' attr(n);
 }
 tei-lacunaEnd {
