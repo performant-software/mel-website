@@ -41,7 +41,7 @@
 					<l n="10">And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
 					<l>Dashed aims, <app><lem><ref target="#ednote1">at which</ref><note xml:id="ednote1">After publication, Melville added this revision in pencil, changing "at which" to "whereat."</note></lem> <rdg wit="#bp1866a">at which</rdg><rdg wit="#bp1866c">whereat</rdg></app> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
 					<l>Shall <ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">From Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
-						<ref target="https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon">(https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon)</ref></note>&apos;s <ref target="#ref_19267">slaves fulfill?</ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon" (Matthew 6:24).</note></l>
+						(https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon)</note>&apos;s <ref target="#ref_19267">slaves fulfill?</ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon" (Matthew 6:24).</note></l>
 				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Dismantle the fort,</hi></l>
