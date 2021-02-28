@@ -598,7 +598,7 @@ tei-TEI tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
-  text-indent: 6em;
+  text-align: center;
 }
 tei-body > tei-head {
   font-size: 180%;
