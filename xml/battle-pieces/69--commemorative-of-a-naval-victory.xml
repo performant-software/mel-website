@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>69 - Commemorative of a Naval Victory</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher/>
+			<pubPlace/>
+			<date/>
+		<authority/>
+		<availability><p/></availability>
+	</publicationStmt>
+			<sourceDesc><p/></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><div xmlns="" id="69--commemorative-of-a-naval-victory"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002576061-l1b8tt1aoqn6ogvi-1eafdcca2db984ad178bc349a0e0e2a1%2F190.jpg"/><ref target="#ref_20985">Commemorative of a Naval Victory</ref><note xml:id="ref_20985">"There are three stanzas of nine lines each. The rhyme scheme is an odd one, but it is the same in each stanza. The prevailing meter is a calm, four-stress line. Each stanza dips and then swells to three stresses and then to five in its sixth and seventh line. The third stanza ends with a sharply discordant image presented in two rough lines of trimeter." (Shurr, 33-3) [Poetics] </note>
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Sailors there are of gentlest breed,
+  Yet strong, like every goodly thing;
+The discipline of arms refines,
+  And the wave gives tempering.
+  The damasked blade its beam can fling;
+It lends the last grave grace:
+The hawk, the hound, and sworded nobleman
+  In <ref target="#ref_20988"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:995" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:126" type="person">Titian</name>&apos;s picture</name></ref><note xml:id="ref_20988">https://latimesblogs.latimes.com/culturemonster/2008/09/the-getty-resto.html</note> for a king,
+Are of Hunter or warrior race.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">In social halls <ref target="#ref_20993">a favored guest
+  In years that follow victory won</ref><note xml:id="ref_20993">William H. Shurr suggests that this guest "seems to embody the prestige and authority that Melville had recently hoped for his cousing Guert Gansevoort."  "Guert has recenlty been appointed to be commander of a fine new sloop of war. I am rejoiced to hear it. It will do him good in more ways than one. He is as brave as a lion, a good seaman, a natural-born officer, &amp; I hope he will yet turn our the hero of a brilliant victory." (Letter to Thomas Melville, 25 May 1962, NN, Correspondence,  378) [Biography]</note>,
+How sweet to feel your festal fame,
+  In woman&apos;s glance instinctive thrown:
+  Repose is yours—your deed is known,
+It musks the amber wine;
+It lives, and sheds a litle from storied days
+  Rich as October sunsets brown,
+Which make the barren place to shine.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002579209-bii1pdcr9xqiwwmi-1eafdcca2db984ad178bc349a0e0e2a1%2F191.jpg"/>But seldom the laurel wreath is seen
+  Unmixed with pensive pansies dark;
+There&apos;s a light and a shadow on every man
+  Who at last attains his lifted mark—
+  Nursing through night the ethereal spark.
+Elate he never can be;
+He feels that spirits which glad had hailed his worth,
+  Sleep in oblivion.—The shark
+Glides white through the prosphorus sea.</p></div></body>
+		</text>
+	</TEI>

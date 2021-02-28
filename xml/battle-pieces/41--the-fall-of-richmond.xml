@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>41 - The Fall of Richmond</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher/>
+			<pubPlace/>
+			<date/>
+		<authority/>
+		<availability><p/></availability>
+	</publicationStmt>
+			<sourceDesc><p/></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><div xmlns="" id="41--the-fall-of-richmond"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001225213-epf6dfab175e9udi-0b778977e9039a446ad7f264c7b3e852%2F145.jpg"/>The Fall of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:441" type="place">Richmond</name>
+The tidings received in the Northern Metropolis
+(April, 1865)
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">What mean these peals from every tower,
+  And crowds like seas that sway?
+The cannon reply; they speak the heart
+  Of the People impassioned, and say—
+A city in flags for a city in flames,
+  Richmond goes <name ref="https://mel-catalog.herokuapp.com/api/entries/place:173" type="place">Babylon</name>&apos;s way—
+        <hi rend="italic">Sing and pray.</hi>
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">O weary years and woeful wars,
+  And armies in the grave;
+But hearts unquelled at last deter
+The helmed dilated <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Lucifer</name>—
+  Honor to <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> the brave,
+Whose three stars now like <ref target="#ref_19217">Orion</ref><note xml:id="ref_19217">Constellation with three stars that forming Orion's belt. 
+
+[reference, astronomy]</note>&apos;s rise
+  When wreck is on the wave—
+        <hi rend="italic">Bless his glaive.</hi><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001229018-z7nxic1b3dmzehfr-0b778977e9039a446ad7f264c7b3e852%2F146.jpg"/>Well that the faith we firmly kept,
+  And never our aim forswore
+For the Terrors that trooped from each recess
+When fainting we fought in the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name>,
+  And <ref target="#ref_19219">Hell</ref><note xml:id="ref_19219">A place of torment, punishment, and suffering in the afterlife. 
+
+[reference, biblical]</note> made loud hurrah;
+But God is in <ref target="#ref_19220">Heaven</ref><note xml:id="ref_19220">The dwelling place of God. 
+
+[reference, biblical]</note>, and Grant in the Town,
+  And Right through might is Law—
+        God&apos;s way adore.</p></div></body>
+		</text>
+	</TEI>

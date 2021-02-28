@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>51 - "Formerly a Slave"</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher/>
+			<pubPlace/>
+			<date/>
+		<authority/>
+		<availability><p/></availability>
+	</publicationStmt>
+			<sourceDesc><p/></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><div xmlns="" id="51--&quot;formerly-a-slave&quot;"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001784070-l6lepkfj7y88semi-ff9704a95e745cefbddccd571d7019ac%2F164.jpg"/>&quot;Formerly a Slave&quot;
+An idealized Portrait, by <name ref="https://mel-catalog.herokuapp.com/api/entries/person:205" type="person">E. Vedder</name>, in the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:28" type="event">Spring
+Exhibition of the National Academy, 1865</name>
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">The sufferance of her race is shown,
+  And retrospect of life,
+Which now too late deliverance dawns upon;
+  Yet is she not at strife.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Her children&apos;s children they shall know
+  The good withheld from her;
+And so her reverie takes prophetic cheer—
+  In spirit she sees the stir
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Far down the depth of thousand years,
+  And marks the revel shine;
+Her dusky face is lit with sober light,
+  Sibylline, yet benign.</p></div></body>
+		</text>
+	</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>02 - The Portent</title>
+				<author>Herman Melville</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>Melville Electronic Library</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Battle-Pieces</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body>
+				<div>
+					<!-- we are missing a <pb/> linking to the image server, which is why we are missing the image thumbnail -->
+					<pb facs="https://raw.githubusercontent.com/performant-software/mel-website/master/images/battle-pieces-v1/battle-pieces-i-0019.jpg?token=AFNTZF3PNRF52UE3YA4UVXLAEONKI"/>
+					<head>The Portent (1859)</head>
+					<lg type="stanza" n="1">
+						<l n="1"><hi rend="italic"><ref target="#ref_20376">Hanging from the beam</ref>,</hi><note xml:id="ref_20376">Stanton Garner brings in the reactions of Melville's contemporaries in order to show how much the country was torn as to how to view Brown's actions. Garner cites Hawthorne's private musing that "If Emerson chooses to plant John Brown's gallows on Mount Calvery, the moral and religious sense of mankind will insist on its being placed between the crosses of the two thieves, and not side by side with that of the Savior" (46). This is a clear indictment of the views of Brown as a Christ figure. Yet, Melville makes strong allusions to Christ in the poem. Melville may be expressing, as Garner believes, a mixture of alarm and admiration for Brown's actions (46).</note></l>
+						<l n="2" rend="2em"><hi rend="italic"><ref target="#ref_20364">Slowly swaying</ref> (<ref target="#ref_20373">such the law)</ref>,</hi><note xml:id="ref_20364">John Brown was hanged on December 2nd, 1859. He was found guilty of murder, inciting a slave insurrection, and treason against the Commonwealth of Virginia.</note><note xml:id="ref_20373">Hennig Cohen connects Brown's hanging with that of Billy Budd. Cohen notes that in both cases "society requires the hanging of a man who...is not clearly and unequivocally guilty" (204). (<ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/event:46">Hanging of John Brown</ref>)</note></l>
+	<l n="3"><hi rend="italic">Gaunt the shadow on your green,</hi></l>
+						<l n="4" rend="2em"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:515" type="place">Shenandoah</name>!</hi></l>
+						<l n="5"><hi rend="italic"><ref target="#ref_20374">The cut is on the crown</ref></hi><note xml:id="ref_20374">John Brown received a cut on his head from the sword of one of his own men, Lieutenant Green. See Trial of John Brown for more information. Melville’s use of the term “crown” instead of head brings to mind images of the crown of thorns upon Jesus’s head.</note></l>
+<l n="6"><hi rend="italic">(Lo, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:119" type="person">John Brown</name>),</hi></l>
+						<l n="7"><hi rend="italic">And <ref target="#ref_20308">the stabs</ref> shall heal no more.</hi><note xml:id="ref_20308"> Hennig Cohen introduces as part of his notes for the poem the letter sent by John Brown to Judge Daniel R. Tilden of Cleveland. In this letter, Brown says, "I am here a prisoner, with several cuts in my head, and bayonet stabs in my body" (204). Cohen connects Brown's words with Shakespeare and the notion of royalty. Melville may be prompting us here to think about the wounds on Christ's head from the crown of thorns and the wound on his side from the Roman centurion.</note></l></lg>
+
+<lg type="stanza" n="2">
+	<l n="8"><hi rend="italic">Hidden in the <ref target="#ref_20368">cap</ref></hi><note xml:id="ref_20368"> The word “cap” refers first to brown’s hat, which covered his wound, but the word also cuts down “capital” and “capitol,”  both from the Latin word caput, which means “head.” Melville likely references classical and imperial contexts, especially the most ponderous neo-classical symbol in the book, the “Iron Dome” of the Capitol Building in Washington, D.C., which was notably completed in the same year as Melville published Battle-Pieces. See line 44 in “The Conflict of Convictions” for the first use of this symbol, and note x there.  In the pun on “capitol,” Melville extends Brown’s physical pain from the cut on his “crown’ (see note x above] to the deeply personal, moral “anguish” over slavery that drove Brown to take his radical action. Moreover, Melville suggests that the nation’s moral wound at the time of Harper’s Ferry remains “hidden” in the constitution of federal power, as represented symbolically by the Capitol dome. If he wrote the poem late in his process of making the book, and it serves “as a preface to the other poems,” as Cohen writes, then the “anguish” “hidden” in the newly completed “cap”-itol dome may be allusive of future national trauma as well (201).</note></l>
+	<l n="9" rend="2em"><hi rend="italic">Is the <ref target="#ref_20369">anguish none can draw</ref>;</hi><note xml:id="ref_20369">Cohen remarks that “he imagery of the poem is predominantly visual and much of it derives from the human body” (203).  He also tells us that “draw” means to “remove so as to disclose, with a veil; portray, delineate” (205). The word “draw” may indirectly allude to the many artistic portrayals of John Brown available to readers by the time the poem was published. See the note x above for several of the images of Brown available to Melville in his time and another primary source, the Rebellion Record, as he composed the poem.   The word “draw” may be a perfect rhyme with “law” and “Shenandoah” if, according to William H. Shurr, these words pick up on Melville’s own “regional pronunciation” (NN 625, Shurr 16). Alternately, the word “draw” may be an example of an imperfect rhyme.  See Cohen for extended discussion of Melville’s deployment of irregular rhyme scheme in “The Portent” (203).  The word draw may allude generally to the violent act of drawing out blood, as in Brown’s enterprises in “Bloody Kansas,” the blood spilled at Harper’s Ferry, and the blood spilled in the Civil War. Moreover, in the 1860s medicinal blood-letting was uncommon but still practiced, and Melville may be alluding to Brown’s blood-letting as a failed attempt to “draw”-out or expurgate the nation’s  slavery- induced sickness.</note></l>
+	
+	<l n="10"><hi rend="italic"><ref target="#ref_20370">So</ref> your future veils its <ref target="#ref_20371">face</ref>,</hi><note xml:id="ref_20370">The word “so” carries a primary meaning of “just as,” and therefore through the logic of simile links two pairs of lines, 8-9 and 10-11. The hidden aspect of Browne’s head is compared to the bloody, wartime future of the Shenandoah Valley.</note><note xml:id="ref_20371"> The word “face” picks up on the word “aspect” in the subtitle of the volume.  See note x on the title page. It is significant in a book so given to portraits that the prefatory poem, or proem, ponders in some depth the aspect of a prophetic figure.</note></l>
+	<l n="11" rend="2em"><hi rend="italic">Shenandoah!</hi></l>
+	<l n="12"><hi rend="italic">But the <ref target="#ref_20372">streaming beard</ref> is shown</hi><note xml:id="ref_20372"> John Brown wore a long beard when he attacked Harper’s Ferry, and many of the images of him after his capture featured it. The word “streaming” points to the tail of the meteor discussed in the note below.  Walt Whitman wore a streaming beard and wrote the poem “Year of <ref target="https://en.wikipedia.org/wiki/1860_Great_Meteor">Meteors</ref>, 1859 ‘60”. Melville seems to have used as a source <hi rend="italic">The Life, Trail, and Execution of Captain John Brown.</hi></note></l>
+	<l n="13"><hi rend="italic">(Weird <name ref="https://mel-catalog.herokuapp.com/api/entries/person:172" type="person">John Brown</name>),</hi></l>
+<l n="14"><hi rend="italic">The <name ref="https://mel-catalog.herokuapp.com/api/entries/event:48" type="event">meteor</name> of the war.</hi></l>
+</lg>
+				</div>
+			</body>
+		</text>
+	</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<teiHeader>
+		<fileDesc>
+			<titleStmt>
+			<title>40 - The Frenzy in the Wake</title>
+			
+			
+					
+		</titleStmt>
+			<publicationStmt>
+		
+			<publisher/>
+			<pubPlace/>
+			<date/>
+		<authority/>
+		<availability><p/></availability>
+	</publicationStmt>
+			<sourceDesc><p/></sourceDesc>
+		</fileDesc>
+	</teiHeader>			
+		<text>
+			<body><div xmlns="" id="40--the-frenzy-in-the-wake"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001165923-x3a1lgrvhi0vbo6r-95e2f54f898553b3457a099ed9e213f3%2F143.jpg"/>The Frenzy in the Wake
+<name ref="https://mel-catalog.herokuapp.com/api/entries/person:138" type="person">Sherman</name>&apos;s advance through the <ref target="#ref_19200">Carolinas</ref><note xml:id="ref_19200">North and South Carolina
+
+[reference, geography]</note>
+(February, 1865)
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">So strong to suffer, shall we be
+  Weak to contend, and break
+The sinews of the Oppressor&apos;s knee
+  That grinds upon the neck?
+    O, the garments rolled in blood
+      Scorch in cities wrapped in flame,
+    And the African—the imp!
+      He gibbers, imputing shame.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Shall Time, avenging every woe,
+  To us that joy allot
+Which <ref target="#ref_19202">Israel</ref><note xml:id="ref_19202">The Israelites of the Old Testament
+
+[reference, biblical]</note> thrilled when <name ref="https://mel-catalog.herokuapp.com/api/entries/person:201" type="person">Sisera</name>&apos;s brow
+  Showed gaunt and showed the clot?
+    Curse on their foreheads, cheeks, and eyes—
+      The Northern faces—true
+    To the flag we hate, the flag whose stars
+      Like planets strike us through.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001169683-094tqj83s2i3haor-95e2f54f898553b3457a099ed9e213f3%2F144.jpg"/>From frozen <name ref="https://mel-catalog.herokuapp.com/api/entries/place:487" type="place">Maine</name> they come,
+  Far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:488" type="place">Minnesota</name> too;
+They come to a sun whose rays disown—
+  May it wither them as the dew!
+    The ghosts of our slain appeal:
+      &quot;Vain shall our victories be&quot;
+    But back from its ebb the flood recoils—
+      Back in a whelming sea.
+
+</p><p xmlns="http://www.tei-c.org/ns/1.0">With burning woods our skies are brass,
+  The pillars of dust are seen;
+The live-long day their cavalry pass—
+  No crossing the road between.
+    We were sore deceived—an awful host!
+      They move like a roaring wind.
+    Have we gamed and lost? but even despair
+      Shall never our hate rescind.</p></div></body>
+		</text>
+	</TEI>
