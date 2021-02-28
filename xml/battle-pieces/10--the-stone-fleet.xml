@@ -22,21 +22,21 @@
 		<text>
 			<body><div xml:id="the-stone-fleet">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/>
-				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet</hi></name>.
+				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet</hi></name>.<lb/>
 
-<hi rend="italic">An Old Sailor&apos;s Lament.</hi>
+<hi rend="italic">An Old Sailor&apos;s Lament.</hi><lb/>
 
 (<hi rend="smallcaps">December</hi>, 1861.)</head>
 
 
-<p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="smallcaps">I have</hi> a feeling for those ships,
-Each worn and ancient one,
-With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">  Cohen connects Melville's language here with the <i>Rebellion Record's</i> republishing of a correspondent's account of the event, originally published in the New York <i>Tribune</i>. The correspondent writes, "her bluff bows nod to us rather gracefully" (219). </note>, and broad in the beam:
-Ay, it was unkindly done.
-But so they serve the <ref target="#ref_20304">Obsolete</ref><note xml:id="ref_20304"/>—
-Even so, Stone Fleet!
+<lg><l><hi rend="smallcaps">I have</hi> a feeling for those ships,</l>
+<l rend="2em">Each worn and ancient one,</l>
+<l>With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">  Cohen connects Melville's language here with the <hi rend="italic">Rebellion Record's</hi> republishing of a correspondent's account of the event, originally published in the New York <hi rend="italic">Tribune</hi>. The correspondent writes, "her bluff bows nod to us rather gracefully" (219). </note>, and broad in the beam:</l>
+<l rend="2em">Ay, it was unkindly done.</l>
+<l rend="8em">But so they serve the <ref target="#ref_20304">Obsolete</ref><note xml:id="ref_20304"/>—</l>
+<l rend="8em">Even so, Stone Fleet!</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">You&apos;ll say I&apos;m doting; do but think
+<p xmlns="http://www.tei-c.org/ns/1.0">You&apos;ll say I&apos;m doting; do but think
 I scudded round the Horn in one—
 The Tenedos, a glorious
 Good old craft as ever run—

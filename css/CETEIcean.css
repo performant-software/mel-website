@@ -774,6 +774,10 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
+tei-l[rend="8em"] {
+  display: block;
+  text-indent: 8em;
+}
 tei-l[n]:after {
   font-weight: lighter;
   content: attr(n);
