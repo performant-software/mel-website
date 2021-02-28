@@ -33,47 +33,46 @@
 					<l rend="2em">A bugle wails the long recall;</l>
 					<l>Derision stirs the deep abyss,</l>
 					<l rend="2em">Heaven&apos;s ominous silence over all.</l>
-					<l>Return, return, O eager Hope,</l>
+					<l n="5">Return, return, O eager Hope,</l>
 					<l rend="2em">And face man&apos;s latter fall.</l>
 					<l>Events, they make the dreamers quail;</l>
 					<l>Satan&apos;s old age is strong and hale,</l>
 					<l>A disciplined captain, gray in skill,</l>
-					<l>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
+					<l n="10">And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
 					<l>Dashed aims, <app><lem><ref target="#ednote1">at which</ref><note xml:id="ednote1">After publication, Melville added this revision in pencil, changing "at which" to "whereat."</note></lem> <rdg wit="#bp1866a">at which</rdg><rdg wit="#bp1866c">whereat</rdg></app> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
-					<l>Shall <ref target="#ref_19267"><ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">from Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
-						[etymology]
-						https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note></ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." Matthew 6:24 [reference, biblical]</note>&apos;s slaves fulfill?</l>
+					<l>Shall <ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">From Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
+						<ref target="https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon">(https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon)</ref></note>&apos;s <ref target="#ref_19267">slaves fulfill?</ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon" (Matthew 6:24).</note></l>
 				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Dismantle the fort,</hi></l>
 					<l rend="4em"><hi rend="italic">Cut down the fleet—</hi></l>
-					<l rend="4em"><hi rend="italic">Battle no more shall be!</hi></l>
+					<l n="15" rend="4em"><hi rend="italic">Battle no more shall be!</hi></l>
 					<l rend="4em"><hi rend="italic">While the fields for fight in æons to come</hi></l>
 					<l rend="4em"><hi rend="italic">Congeal beneath the sea.)</hi></l></lg>
 				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0025.jpg"/>
 				<lg>
 					<l>The terrors of truth and dart of death</l>
 					<l rend="2em">To faith alike are vain;</l>
-					<l>Though <name ref="https://mel-catalog.herokuapp.com/api/entries/event:50" type="event">comets</name>, gone a thousand years,</l>
+					<l n="20">Though <name ref="https://mel-catalog.herokuapp.com/api/entries/event:50" type="event">comets</name>, gone a thousand years,</l>
 					<l rend="2em">Return again,</l>
 					<l>Patient she stands—she can no more—</l>
 					<l>And waits, nor heeds she waxes hoar.</l>
 				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(At a stony gate,</hi></l>
-					<l rend="4em"><hi rend="italic">A statue of stone,</hi></l>
+					<l n="25" rend="4em"><hi rend="italic">A statue of stone,</hi></l>
 					<l rend="4em"><hi rend="italic">Weed overgrown—</hi></l>
 					<l rend="4em"><hi rend="italic">Long &apos;twill wait.!)</hi></l>
 				</lg>
 				<lg>
 					<l>But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">God</name> his former mind retains,</l>
 					<l rend="2em">Confirms his old decree;</l>
-					<l>The generations are inured to pains,</l>
+					<l n="30">The generations are inured to pains,</l>
 					<l rend="2em">And strong Necessity</l>
 					<l>Surges, and heaps Time&apos;s strand with wrecks.</l>
 					<l rend="2em">The People spread like a weedy grass,</l>
 					<l rend="2em">The thing they will they bring to pass,</l>
-					<l>And prosper to the apoplex.</l>
+					<l n="35">And prosper to the apoplex.</l>
 					<l>The rout it herds around the heart,</l>
 					<l rend="2em">The ghost is yielded in the gloom;</l>
 					<l>Kings wag their heads—Now save thyself</l>
@@ -81,33 +80,33 @@
 				
 				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0026.jpg"/>
 				<lg>
-					<l rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
+					<l n="40" rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
 					<l rend="4em"><hi rend="italic">And top of the ages&apos; strife,</hi></l>
 					<l rend="4em"><hi rend="italic">Verge where they called the world to come,</hi></l>
 					<l rend="4em"><hi rend="italic">The last advance of life—</hi></l>
 					<l rend="4em"><hi rend="italic">Ha ha, the rust on the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:918" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">Iron Dome</name></name>!)</hi></l>
 				</lg>
 				<lg>
-					<l>Nay, but revere the hid event;</l>
+					<l n="45">Nay, but revere the hid event;</l>
 					<l rend="2em">In the cloud a sword is girded on,</l>
 					<l>I mark a twinkling in the tent</l>
 					<l rend="2em">Of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name> the warrior one.</l>
 					<l>Senior wisdom suits not now,</l>
-					<l>The light is on the youthful brow.</l></lg>
+					<l n="50">The light is on the youthful brow.</l></lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ay, in caves the miner see:</hi></l>
 					<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c"><ref target="#ednote2">a blinking light</ref><note xml:id="ednote2">Melville revised here to replace "a blinking light" with "a tapor dim".</note></lem><rdg wit="bp1866a">a blinking light</rdg><rdg wit="#bp1866c">a tapor dim</rdg></app>;</hi></l>
 					<l rend="4em"><hi rend="italic">Darkness so he feebly braves<app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app></hi></l>
 					<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">A meagre wight!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!" with "which foldeth him!"</note></lem><rdg wit="#bp1866a">A meagre wight!)</rdg><rdg wit="#bp1866c">which foldeth him!</rdg></app></hi></l></lg>
 				<lg>
-					<l>But He who rules is old—is old;</l>
+					<l n="55">But He who rules is old—is old;</l>
 					<l>Ah! faith is warm, but heaven with age is cold.</l>
 				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ho ho, ho ho,</hi></l>
 					<l rend="4em"><hi rend="italic">The cloistered doubt</hi></l>
 					<l rend="4em"><hi rend="italic">Of olden times</hi></l>
-					<l rend="4em"><hi rend="italic">Is blurted out!)</hi></l>
+					<l n="60" rend="4em"><hi rend="italic">Is blurted out!)</hi></l>
 				</lg>
 				
 				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0027.jpg"/>
@@ -116,36 +115,36 @@
 					<l rend="2em">Forever the scheme of Nature thrives;</l>
 					<l>I know a wind in purpose strong—</l>
 					<l rend="2em">It spins against the way it drives.</l>
-					<l>What if the gulfs their slimed foundations bare?</l>
+					<l n="65">What if the gulfs their slimed foundations bare?</l>
 					<l>So deep must the stones be hurled</l>
 					<l>Whereon the throes of ages rear</l>
 					<l>The final empire and the happier world.</l></lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(The poor old Past,</hi></l>
-					<l rend="4em"><hi rend="italic">The Future&apos;s slave,</hi></l>
+					<l n="70" rend="4em"><hi rend="italic">The Future&apos;s slave,</hi></l>
 					<l rend="4em"><hi rend="italic">She drudged through pain and crime</hi></l>
 					<l rend="4em"><hi rend="italic">To bring about the blissful Prime,</hi></l>
 					<l rend="4em"><hi rend="italic">Then—perished. There&apos;s a grave!)</hi></l></lg>
 				<lg>
 					<l rend="2em">Power unanointed may come—</l>
-					<l>Dominion (unsought by the free)</l>
+					<l n="75">Dominion (unsought by the free)</l>
 					<l rend="2em">And the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">Iron Dome</name>,</l>
 					<l>Stronger for stress and strain,</l>
 					<l>Fling her huge shadow athwart the main;</l>
 					<l>But <ref target="#ref_21169">the Founders&apos;</ref><note xml:id="ref_21169">Melville is referring to the Founding Fathers of the United States who led the American Revolution against the British. (Eric Meckley)</note> dream shall flee.</l>
-					<l>Age after age shall be</l>
+					<l n="80">Age after age shall be</l>
 					<l>As age after age has been,</l>
 					<l>(From man&apos;s changeless heart their way they win);</l><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0028.jpg"/>
 					<l>And death be busy with all who strive—</l>
 					<l>Death, with silent negative.</l>
 				</lg>
 				<lg>
-					<l rend="2em"><hi rend="smallcaps">Yea and Nay—</hi></l>
+					<l n="85" rend="2em"><hi rend="smallcaps">Yea and Nay—</hi></l>
 					<l rend="2em"><hi rend="smallcaps">Each hath his say;</hi></l>
 					<l rend="2em"><hi rend="smallcaps">But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">God</name> He keeps the middle way.</hi></l>
 					<l rend="2em"><hi rend="smallcaps">None was by</hi></l>
 					<l rend="2em"><hi rend="smallcaps">When he spread the sky;</hi></l>
-					<l rend="2em"><hi rend="smallcaps">Wisdom is vain, and prophesy.</hi></l>
+					<l n="90" rend="2em"><hi rend="smallcaps">Wisdom is vain, and prophesy.</hi></l>
 				</lg>
 			</div></body>
 	</text>
