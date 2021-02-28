@@ -774,7 +774,7 @@ tei-l[rend="6em"] {
 tei-l[n]:after {
   font-weight: lighter;
   font-size: 75%;
-  margin-right: 8em;
+  margin-right: 10em;
   content: attr(n);
 }
 tei-lacunaEnd {
