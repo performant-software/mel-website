@@ -18,13 +18,13 @@
 	</teiHeader>
 		<text>
 			<body>
-<div><pb facs="/images/battle-pieces-v1/battle-pieces-i-0193.jpg"/>
+				<div xml:id="the-scout-toward-aldie"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0193.jpg"/>
 <head><ref target="#ref_21089"><hi rend="italic">THE SCOUT TOWARD ALDIE.</hi></ref></head><note xml:id="ref_21089">"The longest poem in the book, . . . distinguished in the contents by being printed in capitals and small capitals" (Parker, II 611). Hennig Cohen notes that "separation pages set it off from the memorial verses which precede and from 'Lee in the Capitol' which follows.  In addition to its length it is unusual in its origin and its form.  Melville was not rehashing The Rebellion Record (italics) but was creating from personal experience and from events described to him by soldiers he had met, and he had chosen a genre, the literary ballad, which he had not previously attempted" (287). [biography]  "Aldie is situated in Loudon County, about ten miles south of Leesburg [Virginia], the county seat.  Loudon Valley lies between the Bull Run Mountains on the east and the Blue Ridge on the west" (Cohen, 287).  Aldie is located west of Vienna, Virginia, to which location Melville traveled with his brother Allan to see their cousin, Lieutenant Colonel Henry Gansevoort, commander of the 13th New York Cavalry, in April 1864.  The "scout" in which Melville participated that month moved west from Vienna towards Aldie--a region essentially controlled by the elusive and feared Colonel John S. Mosby and his troops (and aptly nicknamed "Mosby's Confederacy").  [biography] [place] [event] (Karah Mitchell)</note>
 <lb/></div>
-  <div xml:id="the-scout-toward-aldie">
+
 
 <div><pb facs="/images/battle-pieces-v1/battle-pieces-i-0195.jpg"/>
-  <head><hi rend="italic">The Scout toward Aldie.</hi></head></div>
+  <head><hi rend="italic">The Scout toward Aldie.</hi></head>
 
 <lg>
 <l>The <ref target="#ref_21113">cavalry-camp</ref> lies on the slope
@@ -241,7 +241,7 @@
 <l rend="4em">Silent speed on a scout were wise,</l>
 <l rend="4em">Could cunning baffle Mosby&apos;s spies.</l>
 </lg>
-<lb>
+
 <lg>
 <l>Rumor had come that a band was lodged</l>
 <l rend="2em">In green retreats of hills that peer</l>
@@ -251,7 +251,7 @@
 <l rend="4em">For Mosby&apos;s lads oft hearts enlarge</l>
 <l rend="4em">In revelry by some gorge&apos;s marge.</l>
 </lg>
-</lb>
+
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0201.jpg"/>
 <lg>
@@ -521,7 +521,7 @@
 <l rend="4em">One fool was battered.&quot; &quot;Find their lair?&quot;</l>
 <l rend="4em">&quot;Why, Mosby&apos;s brood camp every where.&quot;</l>
 </lg>
-<lb>
+
 <lg>
 <l>He sighed, and slid down from his horse,</l>
 <l rend="2em">And limping went to a spring-head nigh.</l>
@@ -564,54 +564,54 @@
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0211.jpg"/>
-														Meanwhile the mounted captives near
+														<lg>Meanwhile the mounted captives near
 														  Jested; and yet they anxious showed;
 														Virginians; some of family-pride,
 														And young, and full of fire, and fine
 														  In open feature and cheek that glowed;
 														    And here thralled vagabonds now they ride—
-														    But list! one speaks for Mosby&apos;s side.
+														    But list! one speaks for Mosby&apos;s side.</lg>
 
-														&quot;Why, three to one—your horses strong—
+														<lg>&quot;Why, three to one—your horses strong—
 														  Revolvers, rifles, and a surprise—
 														Surrender we account no shame!
 														We live, are gay, and life is hope;
 														  We&apos;ll fight again when fight is wise.
 														    There are plenty more from where we came;
-														    But go find Mosby—start the game!&quot;
+														    But go find Mosby—start the game!&quot;</lg>
 
-													  Yet one there was who looked but glum;
+													  <lg>Yet one there was who looked but glum;
 														  In middle-age, a father he,
 														And this his first experience too:
 														&quot;They shot at my heart when my hands were up—
 														  This fighting&apos;s crazy work, I see&quot;
 														    But noon is high; what next do?
-														    The woods are mute, and Mosby is the foe.
+														    The woods are mute, and Mosby is the foe.</lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0212.jpg"/>
-															&quot;Save what we&apos;ve got,&quot; the Major said;
+															<lg>&quot;Save what we&apos;ve got,&quot; the Major said;
 															  &quot;Bad plan to make a scout too long;
 															The tide may turn, and drag them back,
 															And more beside. These rides I&apos;ve been,
 															  And every time a mine was sprung.
 															    To rescue, mind, they won&apos;t be slack—
-															    Look out for Mosby&apos;s rifle-crack.&quot;
+															    Look out for Mosby&apos;s rifle-crack.&quot;</lg>
 
-															&quot;We&apos;ll welcome it! give crack for crack!
+															<lg>&quot;We&apos;ll welcome it! give crack for crack!
 															  Peril, old lad, is what I seek&quot;
 															&quot;O then, there&apos;s plenty to be had—
 															By all means on, and have our fill&quot;
 															  With that, grotesque, he writhed his neck,
 															    Showing a scar by buck-shot made—
-															    Kind Mosby&apos;s Christmas gift, he said.
+															    Kind Mosby&apos;s Christmas gift, he said.</lg>
 
-															But, Colonel, my prisoners—let a guard
+															<lg>But, Colonel, my prisoners—let a guard
 															  Make sure of them, and lead to camp.
 															That done, we&apos;re free for a dark-room fight
 															If so you say.&quot; The other laughed;
 															  &quot;Trust me, Major, nor throw a damp.
 															    But first to try a little sleight—
-															    Sure news of Mosby would suit me quite.&quot;
+															    Sure news of Mosby would suit me quite.&quot;</lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0213.jpg"/>
 																Herewith he turned—&quot;Reb, have a dram&quot;
@@ -1122,7 +1122,7 @@ And heaviest dole of all is this,
     As hers that now no more shall spring:
     To Mosby-land the dirges cling.
 
-	</div>
+	
 </body>
 		</text>
 	</TEI>
