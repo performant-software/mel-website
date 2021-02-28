@@ -773,7 +773,6 @@ tei-l[rend="6em"] {
 }
 tei-l[n]:after {
   font-weight: lighter;
-  font-size: 75%;
   content: attr(n);
   float: right;
 }
