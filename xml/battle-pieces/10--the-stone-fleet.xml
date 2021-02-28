@@ -22,7 +22,7 @@
 		<text>
 			<body><div xml:id="the-stone-fleet">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/>
-				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet</hi><hi rend="super">b</hi></name>.<lb/>
+				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet</hi>.<hi rend="super">b</hi></name><lb/>
 
 <hi rend="italic">An Old Sailor&apos;s Lament.</hi><lb/>
 
