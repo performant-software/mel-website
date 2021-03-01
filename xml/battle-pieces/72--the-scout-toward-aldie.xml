@@ -720,8 +720,7 @@
 <l rend="4em">She heaved, and if all unaware,</l>
 <l rend="4em">And far seemed Mosby from her care.</l>
 </lg>
-
-
+<lb/>
 <lg>
 	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0216.jpg"/>
 <l>She came from Yewton Place, her home,</l>
@@ -732,7 +731,7 @@
 <l rend="4em">The black? A servant, late her sire&apos;s.</l>
 <l rend="4em">And Mosby? Vainly he inquires.</l>
 </lg>
-
+<lb/>
 <lg>
 <l>He gazed, and sad she met his eye;</l>
 <l rend="2em">&quot;In the wood yonder were you lost?&quot;</l>
@@ -741,7 +740,8 @@
 <l rend="2em">Thick as the words in notes thrice crossed),</l>
 <l rend="4em">And fearful, made that episode.</l>
 <l rend="4em">In fear of Mosby? None she showed.</l>
-
+</lg>
+<lb/>
 <lg>
 <l>Her poor attire again he scanned:</l>
 <l>&quot;Lady, once more; I grieve to jar</l>
@@ -750,7 +750,7 @@
 <l rend="2em">That letter—&apos;tis justly prize of war&quot;</l>
 <l rend="4em">She started—gave it—she must need.</l>
 <l rend="4em">&quot;&apos;Tis not from Mosby? May I read?&quot;</l>
-</lg></lg>
+</lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0217.jpg"/>
 <lg>
@@ -762,6 +762,7 @@
 <l rend="4em">&quot;Garry,&quot; she said, &quot;tell all you can</l>
 <l rend="4em">Of Colonel Mosby—that brave man.&quot;</l>
 </lg>
+<lb/>
 <lg>
 <l>&quot;Dun know much, sare; and missis here</l>
 <l rend="2em">Know less dan me. But dis I know—&quot;</l>
@@ -771,6 +772,7 @@
 <l rend="2em">&quot;Come—Mosby—tell!&quot; &quot;O dun look so!</l>
 <l rend="2em">My gal nursed missis—let we go.&quot;</l>
 </lg>
+<lb/>
 <lg>
 <l>&quot;Go where?&quot; demanded Captain Cloud;</l>
 <l rend="2em">&quot;Back into bondage? Man, you&apos;re free!&quot;</l>
@@ -791,6 +793,7 @@
 <l rend="4em">Boots and saddles!—our pains we lose,</l>
 <l rend="4em">Nor care I if Mosby hear the news!&quot;</l>
 </lg>
+<lb/>
 <lg>
 <l>But word was sent to a house at hand,</l>
 <l rend="2em">And a flask was left by the hurt one&apos;s side.</l>
@@ -800,6 +803,7 @@
 <l rend="4em">A grudge? Hate will do what it can;</l>
 <l rend="4em">Along he went for a Mosby-man.</l>
 </lg>
+<lb/>
 <lg>
 <l>No secrets now; the bugle calls;</l>
 <l rend="2em">The open road they take, nor shun</l>
@@ -810,32 +814,37 @@
 <l rend="4em">A brush with Mosby is the play!&quot;</l>
 </lg>
 
-<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0219.jpg"/>
-						They rode till eve. Then on a farm
-				   That lay along a hill-side green,
-				 Bivouacked. Fires were made, and then
-				 Coffee was boiled; a cow was coaxed
-				   And killed, and savory roasts were seen;
-				     And under the lee of a cattle-pen
-				     The guard supped freely with Mosby&apos;s men.
-
-				 The ball was bandied to and fro;
-				   Hits were given and hits were met;
-				 &quot;Chickamauga, Feds—take off your hat&quot;
-				 &quot;But the Fight in the Clouds repaid you, Rebs&quot;
-				   &quot;Forgotten about Manassas yet&quot;
-				     Chatting and chaffing, and tit for tat,
-				     Mosby&apos;s clan with the troopers sat.
-
-				 &quot;Here comes the moon!&quot; a captive cried;
-				   &quot;A song! what say? Archy, my lad&quot;
-				 Hailing are still one of the clan
-				 (A boyish face with girlish hair),
-				   &quot;Give us that thing poor Pansy made
-				     Last Year.&quot; He brightened, and began;
-				     And this was the song of Mosby&apos;s man:
-
+<lg>
+<l>They rode till eve. Then on a farm</l>
+<l rend="2em">That lay along a hill-side green,</l>
+<l>Bivouacked. Fires were made, and then</l>
+<l>Coffee was boiled; a cow was coaxed</l>
+<l rend="2em">And killed, and savory roasts were seen;</l>
+<l rend="4em">And under the lee of a cattle-pen</l>
+<l rend="4em">The guard supped freely with Mosby&apos;s men.</l>
+</lg>
+<lb/>
+<lg>
+<l>The ball was bandied to and fro;</l>
+<l rend="2em">Hits were given and hits were met:</l>
+<l>&quot;Chickamauga, Feds—take off your hat!&quot;</l>
+<l>&quot;But the Fight in the Clouds repaid you, Rebs!&quot;</l>
+<l rend="2em">&quot;Forgotten about Manassas yet?&quot;</l>
+<l rend="4em">Chatting and chaffing, and tit for tat,</l>
+<l rend="4em">Mosby&apos;s clan with the troopers sat.</l>
+</lg>
+<lb>
+<lg>
+<l>&quot;Here comes the moon!&quot; a captive cried;</l>
+<l rend="2em">&quot;A song! what say? Archy, my lad!&quot;</l>
+<l>Hailing the still one of the clan</l>
+<l>(A boyish face with girlish hair),</l>
+<l rend="2em">&quot;Give us that thing poor Pansy made</l>
+<l rend="4em">Last Year.&quot; He brightened, and began;</l>
+<l rend="4em">And this was the song of Mosby&apos;s man:</l>
+</lg>
+<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0220.jpg"/>
 					 			Spring is come; she shows her pass—
 					           Wild violets cool!
