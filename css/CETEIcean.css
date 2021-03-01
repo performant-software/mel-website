@@ -603,6 +603,12 @@ tei-TEI tei-head {
 tei-head[type="sub-head"] {
   display: block;
   font-size: 100%;
+  text-align: center;
+}
+tei-head[type="main"] {
+  display: block;
+  font-size: 100%;
+  text-align: center;
 }
 tei-body > tei-head {
   font-size: 150%;
@@ -675,6 +681,7 @@ tei-hi[rend="bold"] {
 }
 tei-hi[rend="super"] {
   vertical-align: super;
+  font-size: 50%;
 }
 tei-hi {
   /* GLS: do we want to bold this or change the background color? */

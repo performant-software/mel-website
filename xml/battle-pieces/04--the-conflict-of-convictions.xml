@@ -27,7 +27,7 @@
 	</teiHeader>			
 	<text>
 		<body>
-			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/><head><hi rend="italic">The Conflict of Convictions</hi>.[a] <lb/>(1860–1.)<lb/>________________</head>
+			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/><head type="main"><hi rend="italic">The Conflict of Convictions</hi>.<hi rend="super">a</hi></head> <lb/><head type="sub-head">(1860–1.)</head><lb/>
 				<lg>
 					<l><hi rend="smallcaps">On</hi> starry heights</l>
 					<l rend="2em">A bugle wails the long recall;</l>

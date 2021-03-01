@@ -18,8 +18,8 @@
 		<body>
 			<div xml:id="the-portent">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0019.jpg"/>
-				<head><hi rend="italic">The Portent.</hi> <lb/>(1859.)<lb/>
-				</head>
+				<head type="main"><hi rend="italic">The Portent.</hi></head> <lb/><head type="sub-head">(1859.)</head><lb/>
+				
 				<lg type="stanza" n="1">
 					<l><hi rend="italic"><ref target="#ref_20376">Hanging from the beam</ref>,</hi><note xml:id="ref_20376">Stanton Garner brings in the reactions of Melville's contemporaries in order to show how much the country was torn as to how to view Brown's actions. Garner cites Hawthorne's private musing that "If Emerson chooses to plant John Brown's gallows on Mount Calvery, the moral and religious sense of mankind will insist on its being placed between the crosses of the two thieves, and not side by side with that of the Savior" (46). This is a clear indictment of the views of Brown as a Christ figure. Yet, Melville makes strong allusions to Christ in the poem. Melville may be expressing, as Garner believes, a mixture of alarm and admiration for Brown's actions (46).</note></l>
 					<l rend="2em"><hi rend="italic"><ref target="#ref_20364">Slowly swaying</ref><note xml:id="ref_20364">John Brown was hanged on December 2nd, 1859. He was found guilty of murder, inciting a slave insurrection, and treason against the Commonwealth of Virginia.</note> (<ref target="#ref_20373">such the law)</ref>,</hi><note xml:id="ref_20373">Hennig Cohen connects Brown's hanging with that of Billy Budd. Cohen notes that in both cases "society requires the hanging of a man who...is not clearly and unequivocally guilty" (204). (<ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/event:46">Hanging of John Brown</ref>)</note></l>
