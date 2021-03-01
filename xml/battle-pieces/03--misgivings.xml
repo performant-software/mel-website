@@ -23,7 +23,7 @@
 		<text>
 			<body><div xml:id="misgivings">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0021.jpg"/>
-				<head><hi rend="italic">Misgivings.</hi> <lb/> (1860.) <lb/></head>
+				<head><hi rend="italic">Misgivings.</hi></head> <lb/> <head type="sub-head">(1860.)</head> <lb/>
 				<lg type="stanza" n="1">
 					<l rend="2em"><hi rend="smallcaps">When</hi> ocean-clouds over inland hills</l>
 					<l rend="4em">Sweep storming in late autumn brown</l>
