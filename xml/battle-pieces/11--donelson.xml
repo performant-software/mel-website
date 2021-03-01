@@ -21,8 +21,7 @@
 	</teiHeader>			
 		<text>
 			<body><div xmlns="" id="11--donelson"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780630955-0lcyemlpnfczyqfr-4227022d31414728d879ad67cbfff5da%2F43.jpg"/>                               <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place"><ref target="#ref_21098">Donelson</ref><note xml:id="ref_21098">Note: Although there is no evidence that Melville owned a set of The Rebellion Record, a periodical that presents a history of the Civil War through a selection of newspaper accounts, official reports, poetry, and anecdotes, Cohen suggests there is close correlation between the poem “Donelson” and the various accounts presented in The Rebellion Record on the events at Fort Donelson (see Cohen’s Introduction, particularly p.16-19). (Christina Lee)
-
-Note: [Historical] The poem “Donelson” depicts the events at Fort Donelson near Dover, Tennessee from February 12, 1862 to February 16, 1862. The Confederate forces surrendered Fort Donelson to General Grant and abandoned its positions in Kentucky and northern Tennessee (Cohen 219). (Christina Lee).</note></name>.
+The poem “Donelson” depicts the events at Fort Donelson near Dover, Tennessee from February 12, 1862 to February 16, 1862. The Confederate forces surrendered Fort Donelson to General Grant and abandoned its positions in Kentucky and northern Tennessee (Cohen 219). (Christina Lee).</note></name>.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">                          (February, 1862.)
 
@@ -41,9 +40,6 @@ Note: [Historical] The poem “Donelson” depicts the events at Fort Donelson n
         Of eager, anxious people met,
         And every wakeful heart was set
         On latest news from West or South.
-<<<<<<< HEAD
-        <ref target="#ref_21129">“No seeing here,”</ref><note xml:id="ref_21129">Note: [Critical] Megan Williams argues that Battle-Pieces, published in the same year as George Barnard’s Photographic Views and Alexander Gardner’s Photographic Sketch-Book of the Civil War, “weighs the power of the written word against the act of representing this historical moment photographically” (142). The phrase “no seeing here” “…underscores the obvious fact that the telegraph and the written word do not offer the immediate visual images of the photograph” (154). (Christina Lee).</note> cries one— “don&apos;t crowd”—
-=======
         <ref target="#ref_21129">“No seeing here,”</ref><note xml:id="ref_21129">Note:  Megan Williams argues that Battle-Pieces, published in the same year as George Barnard’s Photographic Views and Alexander Gardner’s Photographic Sketch-Book of the Civil War, “weighs the power of the written word against the act of representing this historical moment photographically” (142). The phrase “no seeing here” “…underscores the obvious fact that the telegraph and the written word do not offer the immediate visual images of the photograph” (154). ().</note> cries one— “don&apos;t crowd”—
 >>>>>>> parent of 55e167c (Update 11--donelson.xml)
         “You tall man, pray you, read aloud.”

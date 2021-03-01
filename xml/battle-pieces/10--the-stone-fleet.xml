@@ -44,12 +44,21 @@ Good old craft as ever run—
 Sunk (how all unmeet!)
 With the Old Stone Fleet.
 
+<<<<<<< HEAD
 </p><p xmlns="http://www.tei-c.org/ns/1.0">An India ship of fame was she,
 Spices and shawls and fans she bore;
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780422137-e58ovpkt6dhrggb9-39c813fc59a9d7ee676b249aee32956a%2F42.jpg"/>A whaler when her wrinkles came—
 Turned off! till, spent and poor,
 Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705"> Cohen reads the term as "reversion to the rightful owner, in this instance the sea" (219). </note>)!
 Ah! Stone Fleet.
+=======
+				<lg type="stanza" n="3"><l>An India ship of fame was she,</l>
+<l rend="2em">Spices and shawls and fans she bore;</l>
+	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/><l n="15">A whaler when her wrinkles came—</l>
+<l rend="2em">Turned off! till, spent and poor,</l>
+	<l rend="8em">Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705">Cohen reads the term as "reversion to the rightful owner, in this instance the sea" (219).</note>)!</l>
+<l rend="8em">Ah! Stone Fleet.</l></lg>
+>>>>>>> parent of 4652794 (Update 10--the-stone-fleet.xml)
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">Four were erst patrician keels
 (Names attest what families be)
