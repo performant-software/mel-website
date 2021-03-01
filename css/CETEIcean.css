@@ -601,13 +601,11 @@ tei-TEI tei-head {
   text-align: center;
 }
 tei-head[type="sub-head"] {
-  display: block;
   font-size: 100%;
   text-align: center;
 }
 tei-head[type="main"] {
-  display: block;
-  font-size: 100%;
+  font-size: 125%;
   text-align: center;
 }
 tei-body > tei-head {
