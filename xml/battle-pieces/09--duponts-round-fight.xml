@@ -22,9 +22,7 @@
 	</teiHeader>			
 		<text>
 			<body><div xml:id="duponts-round-fight"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0038.jpg"/>
-				<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:182" type="person">Dupont</name>&apos;s <name ref="https://mel-catalog.herokuapp.com/api/entries/event:25" type="event">Round Fight</name>.</hi><lb/> 
-					                     (<hi rend="smallcaps">November</hi>, 1861.)<lb/>
-                  __________________</head>
+				<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:182" type="person">Dupont</name>&apos;s <name ref="https://mel-catalog.herokuapp.com/api/entries/event:25" type="event">Round Fight</name>.</hi><lb/>(<hi rend="smallcaps">November</hi>, 1861.)<lb/></head>
 
 <lg><l><hi rend="smallcaps">In</hi> time and measure perfect moves</l>
 <l rend="2em">All Art whose aim is sure;</l>
