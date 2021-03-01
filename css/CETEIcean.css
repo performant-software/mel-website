@@ -598,26 +598,30 @@ tei-TEI tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+  text-align: center;
 }
 tei-body > tei-head {
   font-size: 180%;
-  text-indent: -0.5em;
+  text-align: center;
 }
 tei-div.textpart {
   display: none;
 }
 tei-div > tei-head {
   font-size: 170%;
-  text-indent: -0.5em;
+  text-align: center;
 }
 tei-div > tei-div > tei-head {
   font-size: 155%;
+  text-align: center;
 }
 tei-div > tei-div > tei-div > tei-head {
   font-size: 140%;
+  text-align: center;
 }
 tei-div > tei-div > tei-div > tei-div > tei-head, list > tei-head {
   font-size: 130%;
+  text-align: center;
 }
 tei-div > tei-div > tei-div > tei-div > tei-div > tei-head {
   font-size: 120%;
@@ -669,6 +673,9 @@ tei-hi[rend="italic"] {
 }
 tei-hi[rend="bold"] {
   font-weight: bold;
+}
+tei-hi[rend="super"] {
+  vertical-align: super;
 }
 tei-hi {
   /* GLS: do we want to bold this or change the background color? */
@@ -766,10 +773,18 @@ tei-l[rend="4em"] {
   display: block;
   text-indent: 4em;
 }
-tei-l[data-lineno]:before {
-  content: attr(data-lineno);
-  position: absolute;
-  left: 2em;
+tei-l[rend="6em"] {
+  display: block;
+  text-indent: 6em;
+}
+tei-l[rend="8em"] {
+  display: block;
+  text-indent: 8em;
+}
+tei-l[n]:after {
+  font-weight: lighter;
+  content: attr(n);
+  float: right;
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
@@ -1030,9 +1045,9 @@ tei-musicNotation:before {
   font-weight: bold;
   content: "Musical Notation: ";
 }
-/* n */
 tei-name {
-  /* Empty Rule Set */
+  color: blue;
+  cursor: pointer;
 }
 tei-nameLink {
   /* Empty Rule Set */
@@ -1135,14 +1150,7 @@ tei-pause {
   /* Empty Rule Set*/
 }
 tei-pb {
-  /*
-  display: block;
-  width: 100%;
-  text-align: right;
-  color: gray;
-  margin: 2em 0 2em 0;
-  font-size: 11pt;
-  */
+
 }
 /*
 tei-pb:before {
@@ -1667,14 +1675,14 @@ tei-table > head {
   text-align: center;
 }
 tei-teiHeader {
-  display: block;
+  display: none;
   /*
 tei-border-radius: 15px;
 tei-border: 1px solid black;
 tei-background:white;
-tei-*/
+tei-
   margin-top: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 2em;*/
 }
 tei-TEI > tei-text {
   display: block;
@@ -1828,7 +1836,7 @@ html {
   margin: 0;
   padding: 0;
   margin-left: 2em;
-  margin-right: 4em;
+  margin-right: 2em;
   padding: 2.5em;
   font-family: "Lucida Grande", "Cardo", "Arial Unicode MS","Galilee Unicode Gk", "New Athena Unicode", "Athena Unicode", "Palatino Linotype", "Titus Cyberbit Basic", "Vusillus Old Face", "Alphabetum", "Galatia SIL", "Code 2000", "GentiumAlt", "Gentium", "Minion Pro", "GeorgiaGreek", "Vusillus Old Face Italic", "Everson Mono", "Aristarcoj", "Porson", "Legendum", "Aisa Unicode", "Hindsight Unicode", "Caslon", "Verdana", "Tahoma";
   font-size: 12pt;

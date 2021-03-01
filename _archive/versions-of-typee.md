@@ -23,9 +23,8 @@ Melville's fullest fluid text. Editing *Typee* as a fluid text of such scope and
 integrating it into MEL's digital platform pose significant navigational
 and technical challenges.
 
-The versions of *Typee* represent a full range of authorial, editorial,
-and adaptive revisions. **(See Attachment 6, Sample 1.)** Melville's 1845
-first draft manuscript--a three-chapter fragment--consists of
+The versions of *Typee* represent a full range of <a href="pdf/Editing-Typee-Sample-Slides.pdf/" target="_blank">authorial, editorial, and adaptive revisions</a>. Melville's 1845
+first draft manuscript—a three-chapter fragment—consists of
 extensive revisions, each a potential opening into new interpretations
 of the book. For instance, in one pattern of revision, Melville
 consistently deletes the word *savage* in favor of two other, more

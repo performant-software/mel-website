@@ -38,7 +38,7 @@ digital editing of the journals as fluid texts.
 MEL's pursuit of Melville's geographical imagination began with our
 editing of *Moby-Dick*. MEL editors Wyn Kelley and Brian Yothers used
 MELCat to annotate place names in the novel and created a searchable
-[database](./pdf/mel_travel_grid.pdf/) of 1500 geo-coordinates associated with all places (real,
+<a href="pdf/mel_travel_grid.pdf/" target="_blank">database</a>  of 1500 geo-coordinates associated with all places (real,
 invented) referenced in *Moby-Dick* alone.
 
 In a related effort, John Bryant worked with Jamie Folsom and Hofstra's

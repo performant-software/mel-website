@@ -71,6 +71,14 @@ function createImageWindow(anchorID, url) {
     floatingWindow(`image-window-${anchorID}`,imageWindowContent)
 }
 
+function highlightImage( on, id ) {
+    if( on ) {
+        document.getElementById(id).classList.add("highlight-image")
+    } else {
+        document.getElementById(id).classList.remove("highlight-image")
+    }
+} 
+
 function initThumbs(tlLeaf,iiif) {
     // go through all the facs attributes and render them to the sidebar 
     const thumbnailMarginEl = document.getElementById('thumbnail-margin')
@@ -80,15 +88,20 @@ function initThumbs(tlLeaf,iiif) {
         const url = iiif ? `${ facsEl.getAttribute('facs')}/full/120,/0/default.jpg` : facsEl.getAttribute('facs')
         const imageEl = document.createElement('img')
         imageEl.id = `thumb-${i++}`
+        facsEl.id = `inline-${imageEl.id}`
         imageEl.classList.add('thumbnail')
         imageEl.style.top = `${facsEl.offsetTop}px`
         imageEl.setAttribute('src',url) 
-        if( tlLeaf ) {
-            imageEl.setAttribute('onclick',`window.open("${facsEl.getAttribute('tl_leaf')}")`)
-        } else {
-            imageEl.setAttribute('onclick',`createImageWindow("${imageEl.id}","${url}")`)
-        }
+        const onClickFn = tlLeaf ? `window.open("${facsEl.getAttribute('tl_leaf')}")` : `createImageWindow("${imageEl.id}","${url}")`
+        imageEl.setAttribute('onclick',onClickFn)
+        imageEl.setAttribute('onmouseenter',`highlightImage( true, "${facsEl.id}"); highlightImage( true, "${imageEl.id}")`)
+        imageEl.setAttribute('onmouseleave',`highlightImage( false, "${facsEl.id}"); highlightImage( false, "${imageEl.id}")`)
         thumbnailMarginEl.appendChild(imageEl)
+
+        // create an icon which is linked to the image 
+        facsEl.innerHTML=`<img onclick='${onClickFn}' style="padding-top: 2px" height="15" width="12" src="/images/pb.png"/>`
+        facsEl.setAttribute('onmouseenter',`highlightImage( true, "${imageEl.id}"); highlightImage( true, "${facsEl.id}")`)
+        facsEl.setAttribute('onmouseleave',`highlightImage( false, "${imageEl.id}"); highlightImage( false, "${facsEl.id}")`)
     }
 }
 

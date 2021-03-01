@@ -2,29 +2,155 @@
 layout: editions_two-columns
 title: Collating Moby&#8211;Dick&#58; Expurgations and Revision Narratives
 permalink: /expurgating-moby-dick
- 
+
 ---
 
-Editors collate the texts of different editions of the same work, even different printings of the same edition, in order to find changes that authors, editors, and printers introduce into the work, as it evolves over time. Often these differences are accidental typographical errors. But authors and editors can intervene making substantial changes that affect the meaning of text. Therefore, collation is an essential step in the editorial process, regardless of editorial approach. In the past, collation has been an arduous task, performed by hand, or rather by the eyes of proofreaders comparing both texts, and drawing up lists of variants. These lists are concrete, material evidence of textual change that editors use to establish whether a change is, in fact, accidental or substantial. Digital technology can now perform collations of transcriptions of variant texts instantaneously. Though transcriptions can be faulty and must still be compared “manually” against original pages, digital collation reduces scholarly labor and thereby gives scholars and critics more direct access to evolutions in the text of a written work.
+Collation is the comparing of versions of a work in order to determine
+textual differences, and it is a crucial first step in building an
+edition's reading text, regardless of editorial approach. Collation is
+generally associated with the recording of "variants" in versions of
+authorized works only, but fluid-text editing also extends the process
+to examining differences between the edition's "originating" work and
+the sources that precede it and adaptations that follow.
 
-MEL uses Juxta technology to collate transcriptions of Melville’s manuscript and print texts. Eventually,  _Versions of Moby-Dick_  will offer a variety of collations that compare Melville’s original versions with modern scholarly editions, such as the Northwestern-Newberry’s “eclectic” edition, and with adaptive revisions, such as Bradbury’s screenplay of John Huston’s 1956 film Moby Dick.” Currently, MEL we use our collation of American and British as a platform for displaying Revision Narratives that explain British expurgations of Melville’s American text.
+Editors collate the texts of different editions of the same work, even
+different printings of the same edition, in order to discern variants,
+that is textual changes that authors, editors, and printers might
+introduce into the work, as it evolves over time through the publishing
+process. Often these variations are accidental typographical errors, but
+authors, editors, even printers also intervene making substantive
+changes that affect the meaning of a line, passage, or work. Because
+many changes represent a writer's evolving text, they are not strictly
+speaking "variants" from a single intended or definitive wording but
+evidence of shifting intentions.
 
-**Variants in  _Moby-Dick_.** The differences between the American and British first editions of  _Moby-Dick_range from minor to momentous. The British edition not only corrected typos—for instance, “fearfnlly” (Am Ed. p. 198, l. 25) or “warbrobe” (Ch. 90)—but also made scores of meaningful changes, visible only by comparing the American and British texts. Most changes are clearly expurgations imposed by British editors on the text, but since Melville had a chance, during his proofreading of the American sheets he sent to England, to alter his own text, the British edition changes also include some of Melville’s nuanced revisions. Accordingly, the first problem confronting us is whether a textual variant is, in fact, an authorial  _revision_  or an editorial  _change_  or  _expurgation_.
+#### Changes in *Moby-Dick*: Authorial Revision & Editorial Expurgation.
 
-For example, in his last encounter with Moby Dick, Ahab, in the American edition, can “_discover_  no sign” of the white whale (Ch. 133), but, in the British edition, the verb is changed to “_perceive_.” The difference is meaningful because Ahab’s inability to  _perceive_  suggests a blindness that prevents him from being able to “read” the signs of his doom. Since no direct evidence exists that shows Melville’s hand correcting the American  _discover_  to the British  _perceive_, we can only speculate that this variant is Melville’s revision. It is possible that Bentley’s editor Henry Milton made the change, but we also must ask why a copy-editor would presume or even want to make such a non-grammatical, non-political, non-sexual, non-heretical change? Chances are that Melville revised the word in proofs. An easier case has to do with a footnote that appears in the British edition that does not exist in the American. Most certainly, the note, explaining the American usage of a forgotten British whaling term “gallied” (Ch. 87), must have been added by Melville, explicitly for British readers, lecturing them on his country’s democratic preservation of an Anglo-Saxonism that his monarchic British cousins had forgotten.
+The differences between the American and British first editions of
+*Moby-Dick* range from minor to momentous. The British edition not only
+corrected American typos—for instance, "fearfnlly" (p. 198, l. 25) or
+"warbrobe" (p. 447, l.7)—but also made scores of meaningful changes,
+visible only by comparing the American and British texts. Most changes
+are editorial interventions: either conversions to British spelling and
+punctuation or expurgations of sexual, religious, or political content.
+But since Melville had a chance, during his proofreading of the American
+sheets he sent to England, to alter his own text, the British edition
+changes also include some of Melville's nuanced revisions. Accordingly,
+the first problem confronting us is whether a textual variant is, in
+fact, an authorial *revision* or editorial *expurgation*.
 
-Melville certainly inscribed his  _gallied_  note on the American proofsheets he sent abroad, and it was dutifully added to the British edition. But despite this certainty, the evidence is indirect. Collation of the American and British texts tells us that a variant exists, but the attribution of the revision to Melville must be inferred no less than we infer that the change from  _discover_ to  _perceive_  is not just an editorial change but an authorial revision. Determining the cause of the variant requires argumentation, ranging from “common sense” to speculation, and even common sense is not always self-evident. Because of this necessarily speculative aspect of revision analysis, editors are obliged to offer “revision narratives” that explain the textual condition of revisions and argue for a given revision scenario, and plausible alternative scenarios.
+For example, in his last encounter with Moby Dick, Ahab, in the American
+edition, can "*discover* no sign" of the white whale (Ch. 133), but, in
+the British edition, the verb is changed to "*perceive*." The difference
+is meaningful because Ahab's inability to *perceive* suggests a
+blindness that prevents him from being able to "read" the signs of his
+doom. Since no direct evidence shows Melville's hand correcting the
+American *discover* to the British *perceive*, we can only surmise that
+this variant is Melville's revision. It is possible that Bentley's
+editor Henry Milton made the change, but we also must ask why a
+copy-editor would presume or even want to make such a non-grammatical,
+non-political, non-sexual, non-heretical change? Chances are that
+Melville revised the word in proofs. An easier case has to do with a
+footnote that appears in the British edition but not in the American.
+The note explains the American usage of the forgotten British whaling
+term "gallied" (Ch. 87), and it only Melville had the expertise to add
+it, explicitly for British readers, lecturing them on his country's
+democratic preservation of an Anglo-Saxonism that his monarchic British
+cousins had allowed themselves to forget.
 
-**Revision Narratives.** The British expurgations of  _Moby-Dick_  allow us to measure cultural differences between antebellum America and Victorian England, or more precisely between an audacious Melville and his circumspect editor. Chapter 25—a brief satire on the pomp of monarchs—was too much teasing for British readers, and Bentley (or Milton) had it removed entirely. Perhaps the most devastating cut is of Ishmael’s line toward the end of “The Whiteness of the Whale” (Ch. 42) that manages to offend by combining the sexual and blasphemous in one blow: “all deified Nature absolutely paints like the harlot, whose allurements cover nothing but the charnel-house within.” Apparently, equating god’s nature to a whore would not sit well with British readers, or so Melville’s British editors surmised. Elsewhere, rather than expurgate, an editor—it can be argued—modulated Melville’s humor by revising Melville’s words. Where Ishmael uses slave diction to proclaim “Who aint a slave?” (Ch. 1) in the American  _Moby-Dick_, the British  _Whale_  has him say, in absurdly proper grammar, “Who is not a slave?”
+The more extreme editorial interventions, the British expurgations of
+*Moby-Dick*, constitute a broad range of textual difference, from the
+stylistic disparities between a class-defying Melville and his more
+conservative editor to the larger cultural contradictions between
+antebellum America and Victorian England. For instance, whereas in
+Chapter 1 of the American *Moby-Dick*, Ishmael uses slave diction
+comically to proclaim "Who aint a slave," the British *Whale* elevates
+him in class by having him say, in humorless proper grammar, "Who is not
+a slave?" Chapter 25—a brief satire on the pomp of monarchs—was too
+much teasing for British readers, and Bentley (or Milton) had it removed
+entirely. Perhaps the most devastating cut is of Ishmael's lines toward
+the end of "The Whiteness of the Whale" (Ch. 42) that manages to offend
+by combining the sexual and blasphemous in one blow: "all deified Nature
+absolutely paints like the harlot, whose allurements cover nothing but
+the charnel-house within." Apparently, equating god's nature to a whore
+would not sit well with British readers, or so Melville's British editor
+surmised, and the line was cut. The British expurgations are obvious
+provocations for closer reading and interpretation of Melville's text,
+but only if authorial revisions—like the addition of *gallied* and the
+change from *discover* to *perceive*—and the unauthorized editorial
+intervention can be visualized through collation and explained in
+revision narratives offering plausible and alternative scenarios.
 
-Annotations for these and other textual changes, including revision narratives, are affixed to their corresponding, highlighted variants in MEL’s collation of the American and British versions.
+#### MEL's Collation & Revision Narrative Project.
 
-Currently, MEL’s collation project for  _Moby-Dick_  is in transition. Initially, our collation of the American and British versions was achieved through Juxta Collation technology that had been incorporated into an earlier instance of TextLab. Each version was transcribed, with minimal TEI encoding, from digital images of the American and British first editions supplied by the University of Virginia Library’s special collections. (See  [_Moby-Dick_  Side-by-Side](/moby-dick-the-whale-proofs.html), for more details on these two volumes.) Each book was “double-keyed” by Aptara, Inc.—that is, typed twice by different keyboarders—and separately collated in-house for typing errors.
+MEL continues to develop collation protocols for each MEL edition and
+enhanced digital technologies involving collation and annotation. MEL's
+Reading Text of *Moby-Dick* is a digitization of Bryant and Springer's
+Longman critical edition, which is itself a lightly edited and minimally
+modified version of the first American edition's text. Like the Longman
+edition, MEL highlights substantive authorial changes and editorial
+expurgations found in the British edition, and these highlighted changes
+are drawn from collations of the American and British texts recorded in
+the Textual Apparatus of the 1988 Northwestern-Newberry of *Moby-Dick*.
+Longman's revision narratives are also featured as pop-up revision
+annotations in the MEL's Reading Text for *Moby-Dick*. In short, MEL's
+display and annotation of expurgations are not derived from immediate
+digital collation,
 
-Then we uploaded each version’s proofed transcription texts to TextLab’s Juxta collation function, which allows us to compare the American and British versions. In this collation, readers can click on selected variants to find revision narratives explaining the textual change, revision, or expurgation. Last year, we developed a more advanced approach to collation as part of our integration of TextLab into the Juxta Editions platform, which will be on display later in 2018. In the meantime, the present display offers the same collation and revision annotation functions to be found in what we are developing. To navigate the  [collation site](http://mel.hofstra.edu/juxta/moby-dick/0/3/sbs?compareTo=1), please follow the instructions below.
+However, in the works is an added editorial feature that digitally
+collates the American and British texts, automatically highlights
+textual differences, and enables editors to add revision narratives to
+any given highlighted change for display online, in addition to our
+*Moby-Dick* reading text. In keeping with fluid-text protocols, this
+collation and annotation feature would allow multiple narratives for any
+given expurgation site, thus encouraging users to engage in different
+perspectives on the interpretive nature of authorized and unauthorized
+revision.
 
-**Navigating the Collation.** When you enter the collation site, you should see the American 1851 and British 1851 versions displayed side-by-side, for Chapter 1. If not, click the double-headed arrow icon in the menu bar and choose “select a witness” in the Side-by-Side option box: choose the British 1851 option. To change chapters, select the American 1851 link in the menu bar, and select the desired chapter from the table of contents.
+Not surprisingly, collation is an arduous task. In the past, it has been
+performed by hand, or rather by the eyes of proofreaders comparing both
+texts, and drawing up lists of variants. Digital technologies (such as
+Juxta Collation) now perform collations of transcriptions of texts in
+variant versions instantaneously, significantly reducing the labor
+needed to bring textual revision and versions to light. But digital
+collations are only as accurate as the underlying digital transcriptions
+of the manuscript or print works being collated. Once manuscript leaves
+or print pages have been digitized—that is, converted into digital
+images—then the text appearing in each image must also be converted
+into digital text, either by hand or automatically through "optical
+character recognition" (OCR) technology. And since digital
+transcriptions are themselves subject to human or machine error, they
+must still be proofread visually against the original leaves and pages
+or the digitized images of them. In short, while digital collation is
+automatic, digital transcription is not.
 
-In the side-by-side view, the Juxta collation allows you to scroll both versions together; click the padlock icon between the two versions to unlock the simultaneous scrolling. Each textual variant is highlighted in blue in both columns, and a highlight bar in between the columns links the corresponding variants. We will use this collation feature to record all textual variants between the two versions and provide textual notes where necessary.
+MEL's editorial staff employs these and other modes of transcription and
+collation in building our model editions. For *Billy Budd*, we used
+TextLab for the digitally assisted manual transcription and coding of
+the manuscript. For *Moby-Dick*, each version was transcribed, with
+minimal TEI encoding, from digital images of the American and British
+first editions supplied by the University of Virginia Library's special
+collections. See [*Moby-Dick* Side-by-Side](
+https://mel.netlify.app/moby-dick-side-by-side) for more details on
+these two volumes. Each book was "double-keyed" by Aptara, Inc.—that
+is, typed twice by different keyboarders—and the two were collated
+in-house to detect keyboarding errors. For *Typee* and "Benito Cereno,"
+we use the OCR transcription approach mentioned above.
 
-Expurgations of the American version on the left are also highlighted and the highlight bar between the versions points to a highlighted blank in the spot where the text would appear in the British version on the right. If a revision narrative has been composed for a highlighted expurgation, it will appear when you click the expurgated text on the left. If multiple revision narratives have been composed, an option box will list all those that are available. A completed revision narrative has a two-step structure: step one explains the content removed; step two argues for the reasons for the removal.
+MEL's efforts in developing a process and display for collation and
+revision narrative annotation is in transition. Initially, our collation
+of the American and British versions was achieved through Juxta
+Collation technology that had been incorporated into an earlier instance
+of TextLab. This chapter by chapter collation of the two editions
+included a pop-up feature enabling editors to compose revision
+narratives for highlighted variants and revisions. The revision
+narrative feature assisted editors in discerning Melville's revisions
+from British editing and expurgation and in annotating their possible
+causes and effects. An enhanced version of this feature is slated in the
+development of Juxta Editions newest iteration, FairCopy. For
+screenshots of the earlier collation/annotation prototype, click on <a
+href="pdf/British-American-Textual-Collation.pdf/"
+target="_blank">American and British editions collation</a>. For a
+trial collation involving adaptation, click on <a
+href="pdf/bradbury-melville-collation.pdf/"
+target="_blank">Bradbury screenplay and American edition</a>.
