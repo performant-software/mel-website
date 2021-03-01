@@ -22,7 +22,11 @@
 		<text>
 			<body><div xml:id="the-stone-fleet">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/>
+<<<<<<< HEAD
 				<name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event">The Stone Fleet</name>.
+=======
+				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet</hi><hi rend="super">b</hi></name>.<lb/>
+>>>>>>> parent of b7aec13 (small cosmetic changes)
 
 <p xmlns="http://www.tei-c.org/ns/1.0">An Old Sailor&apos;s Lament.
 
