@@ -21,68 +21,66 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xml:id="donelson"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/>
-				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place"><ref target="#ref_21098">Donelson</ref><note xml:id="ref_21098">Note: Although there is no evidence that Melville owned a set of The Rebellion Record, a periodical that presents a history of the Civil War through a selection of newspaper accounts, official reports, poetry, and anecdotes, Cohen suggests there is close correlation between the poem “Donelson” and the various accounts presented in The Rebellion Record on the events at Fort Donelson (see Cohen’s Introduction, particularly p.16-19).
+		    <body><div xml:id="donelson"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0041.jpg"/>
+				<head><name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place"><ref target="#ref_21098">Donelson</ref><note xml:id="ref_21098">Although there is no evidence that Melville owned a set of The Rebellion Record, a periodical that presents a history of the Civil War through a selection of newspaper accounts, official reports, poetry, and anecdotes, Cohen suggests there is close correlation between the poem “Donelson” and the various accounts presented in The Rebellion Record on the events at Fort Donelson (see Cohen’s Introduction, particularly p.16-19). The poem “Donelson” depicts the events at Fort Donelson near Dover, Tennessee from February 12, 1862 to February 16, 1862. The Confederate forces surrendered Fort Donelson to General Grant and abandoned its positions in Kentucky and northern Tennessee (Cohen 219).</note></name>.</head><lb/><head type="sub-head">(<hi rend="smallcaps">February</hi>, 1862.)</head>
 
-Note:  The poem “Donelson” depicts the events at Fort Donelson near Dover, Tennessee from February 12, 1862 to February 16, 1862. The Confederate forces surrendered Fort Donelson to General Grant and abandoned its positions in Kentucky and northern Tennessee (Cohen 219).</note></name>.
-
-                         (February, 1862.)</head>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">        THE bitter cup
-             Of that hard countermand
-        Which gave the Envoys up,
-        Still was <ref target="#ref_21085">wormwood</ref><note xml:id="ref_21085">WORMWOOD  Webster’s 1846 dictionary entry for “wormwood” defines what is also known as the artemisia plant as having “a bitter, nauseous taste” (An American Dictionary of the English Language, 1846). 
+<lg>
+    <l rend="2em"><hi rend="smallcaps">The</hi> bitter cup</l>
+    <l rend="4em">Of that hard countermand</l>
+    <l rend="2em">Which gave the Envoys up,</l>
+    <l rend="2em">Still was <ref target="#ref_21085">wormwood</ref><note xml:id="ref_21085">Webster’s 1846 dictionary entry for “wormwood” defines what is also known as the artemisia plant as having “a bitter, nauseous taste” (<bibl>An American Dictionary of the English Language, 1846</bibl>). 
  A possible reference to the apocalyptic image in the Bible’s Book of Revelations: “10. And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters; 11. And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter” (KJV, Revelation 8:10-11).
-(Leslie McAbee)</note> in the mouth,
-            And clouds involved the land,
-        When, pelted by sleet in the icy street,
-            About the bulletin-board a band
-        Of eager, anxious people met,
-        And every wakeful heart was set
-        On latest news from West or South.
-        <ref target="#ref_21129">“No seeing here,”</ref><note xml:id="ref_21129">Note:  Megan Williams argues that Battle-Pieces, published in the same year as George Barnard’s Photographic Views and Alexander Gardner’s Photographic Sketch-Book of the Civil War, “weighs the power of the written word against the act of representing this historical moment photographically” (142). The phrase “no seeing here” “…underscores the obvious fact that the telegraph and the written word do not offer the immediate visual images of the photograph” (154).</note> cries one— “don&apos;t crowd”—
-        “You tall man, pray you, read aloud.”
+(Leslie McAbee)</note> in the mouth,</l>
+    <l rend="4em">And clouds involved the land,</l>
+    <l rend="2em">When, pelted by sleet in the icy street,</l>
+    <l rend="4em">About the bulletin-board a band</l>
+    <l rend="2em">Of eager, anxious people met,</l>
+    <l rend="2em">And every wakeful heart was set</l>
+    <l rend="2em">On latest news from West or South.</l>
+    <l rend="2em"><ref target="#ref_21129">“No seeing here,”</ref><note xml:id="ref_21129">Megan Williams argues that Battle-Pieces, published in the same year as George Barnard’s Photographic Views and Alexander Gardner’s Photographic Sketch-Book of the Civil War, “weighs the power of the written word against the act of representing this historical moment photographically” (142). The phrase “no seeing here” “…underscores the obvious fact that the telegraph and the written word do not offer the immediate visual images of the photograph” (154).</note> cries one— “don&apos;t crowd”—</l>
+    <l rend="2em">“You tall man, pray you, read aloud.”</l>
+</lg>
                                                                                      
-IMPORTANT.
-                      <hi rend="italic"> We learn that <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">General Grant</name>,
-                   Marching from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:458" type="place">Henry</name> overland
-               And joined by a force up the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:459" type="place">Cumberland</name> sent
-                   (Some thirty thousand the command),</hi>
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780634334-i3bpnqtzmtbxd2t9-4227022d31414728d879ad67cbfff5da%2F44.jpg"/>                  <hi rend="italic"> On <ref target="#ref_19085"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Wednesday</name></ref><note xml:id="ref_19085">February 12,1862</note> a good position won—
-                   Began the siege of Donelson.</hi>
+<lg>
+    <l><hi rend="smallcaps">Important</hi>.</l>
+                      <l rend="6em"><hi rend="italic"> We learn that <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">General Grant</name>,</hi></l>
+                   <l rend="4em"><hi rend="italic">Marching from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:458" type="place">Henry</name> overland</hi></l>
+               <l rend="2em"><hi rend="italic">And joined by a force up the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:459" type="place">Cumberland</name> sent</hi></l>
+                   <l rend="4em"><hi rend="italic">(Some thirty thousand the command),</hi></l>
+    <l rend="2em"><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0044.jpg"/><hi rend="italic"> On <ref target="#ref_19085"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Wednesday</name></ref><note xml:id="ref_19085">February 12,1862</note> a good position won—</hi></l>
+    <l rend="2em"><hi rend="italic">Began the siege of Donelson.</hi></l></lg>
                                                                                                
-                  <hi rend="italic"> This stronghold crowns a river-bluff,
-                       A good broad mile of leveled top;
-                   Inland the ground rolls off
-                       Deep-gorged, and rocky, and broken up—
-                   A wilderness of trees and brush.
-                       The spaded summit shows the roods
-                   Of fixed intrenchments in their hush;
-                       Breast-works and rifle-pits in woods
-                   Perplex the base.—
-                                                     The welcome weather
-                       Is clear and mild; &apos;tis much like May.
-                   The ancient boughs that lace together
-                   Along the stream, and hang far forth,
-                       Strange with green mistletoe, betray</hi><ref target="#ref_21128">The welcome weather
-                       Is clear and mild; &apos;tis much like May.
-                   The ancient boughs that lace together
-                   Along the stream, and hang far forth,
-                       Strange with green mistletoe, betray
-                   A dreamy contrast to the North.</ref><note xml:id="ref_21128">Note:  Zlatic discusses how the telegraph influenced “Donelson”: “Melville uses the telegraph primarily to create a sense of immediacy for the battle. He captures the new experience of synchronicity, enabled through rapid communication at a distance, in the mild surprise of the narrator who notes the contrast between the pleasant battlefield weather in Tennessee and the sleet endured by Northern civilians huddled to hear the telegraphic dispatches” (40). ()</note>
+                  <lg>
+                      <l rend="2em"><hi rend="italic">This stronghold crowns a river-bluff,</hi></l>
+                      <l rend="4em"><hi rend="italic">A good broad mile of leveled top;</hi></l>
+                      <l rend="2em"><hi rend="italic">Inland the ground rolls off</hi></l>
+                      <l rend="4em"><hi rend="italic">Deep-gorged, and rocky, and broken up—</hi></l>
+                      <l rend="2em"><hi rend="italic">A wilderness of trees and brush.</hi></l>
+                      <l rend="4em"><hi rend="italic">The spaded summit shows the roods</hi></l>
+                      <l rend="2em"><hi rend="italic">Of fixed intrenchments in their hush;</hi></l>
+                      <l rend="4em"><hi rend="italic">Breast-works and rifle-pits in woods</hi></l>
+                      <l rend="2em"><hi rend="italic">Perplex the base.—</hi></l>
+                      <l rend="8em"><hi rend="italic">The welcome weather</hi></l>
+                      <l rend="4em"><hi rend="italic">Is clear and mild; &apos;tis much like May.</hi></l>
+                      <l rend="2em"><hi rend="italic">The ancient boughs that lace together</hi></l>
+                      <l rend="2em"><hi rend="italic">Along the stream, and hang far forth,</hi></l>
+                      <l rend="4em"><hi rend="italic">Strange with green mistletoe, betray</hi></l>
+                      <l rend="2em"><hi rend="italic"><ref target="#ref_21128">A dreamy contrast to the North.</ref></hi><note xml:id="ref_21128">Zlatic discusses how the telegraph influenced “Donelson”: “Melville uses the telegraph primarily to create a sense of immediacy for the battle. He captures the new experience of synchronicity, enabled through rapid communication at a distance, in the mild surprise of the narrator who notes the contrast between the pleasant battlefield weather in Tennessee and the sleet endured by Northern civilians huddled to hear the telegraphic dispatches” (40).</note></l>
+                  </lg>
                                                                                                                                                   
-               <hi rend="italic">    Our troops are full of spirits—say
-                       The siege won&apos;t prove a creeping one.
-                   They purpose not the lingering stay
-                   Of old beleaguerers; not that way;
-                       But, fill of <ref target="#ref_21100">vim</ref><note xml:id="ref_21100">Note:   VIM from Latin vim, accusative singular of vis, meaning “strength, energy” (OED “vim”). Cohen suggests Melville came across the word “vim” used as a Civil War slang found in the Rebellion Record (220). ().</note> from Western prairies won
-                       They&apos;ll make, ere long, a dash at Donelson.</hi>
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780637251-20bgq1av2wgbvs4i-4227022d31414728d879ad67cbfff5da%2F45.jpg"/>                   Washed by the storm till the paper grew
-                   Every shade of a streaky blue,
-                   That bulletin stood. The next day brought
-                   A second.
+               <lg>
+                   <l rend="2em"><hi rend="italic">Our troops are full of spirits—say</hi></l>
+                   <l rend="4em"><hi rend="italic">The siege won&apos;t prove a creeping one.</hi></l>
+                   <l rend="2em"><hi rend="italic">They purpose not the lingering stay</hi></l>
+                   <l rend="2em"><hi rend="italic">Of old beleaguerers; not that way;</hi></l>
+                   <l rend="4em"><hi rend="italic">But, fill of <ref target="#ref_21100">vim</ref><note xml:id="ref_21100">VIM from Latin vim, accusative singular of vis, meaning “strength, energy” (OED “vim”). Cohen suggests Melville came across the word “vim” used as a Civil War slang found in the Rebellion Record (220).</note> from Western prairies won</hi></l>
+		                        <l><hi rend="italic">They&apos;ll make, ere long, a dash at Donelson.</hi></l>
+                       <l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0043.jpg"/><hi rend="italic">Washed by the storm till the paper grew</hi></l>
+                       <l><hi rend="italic">Every shade of a streaky blue,</hi></l>
+                       <l><hi rend="italic">That bulletin stood. The next day brought</hi></l>
+		        <l><hi rend="italic">A second.</hi></l></lg>
                                                                                      
-                                <ref target="#ref_21130">LATER FROM TEH FORT.</ref><note xml:id="ref_21130">Note:  Megan Williams notes that the use of bold headlines such as “LATER FROM THE FORT” or “FURTHER” marks the ability of the written word to “measure the passage of time with a minuteness that the photograph cannot” (154). ()</note>
+                                <ref target="#ref_21130">LATER FROM THE FORT.</ref><note xml:id="ref_21130">Megan Williams notes that the use of bold headlines such as “LATER FROM THE FORT” or “FURTHER” marks the ability of the written word to “measure the passage of time with a minuteness that the photograph cannot” (154).</note>
                   <hi rend="italic"> Grant&apos;s investment is complete—
                        A semicircular one.
                    Both wings the Cumberland&apos;s margin meet,
@@ -100,7 +98,7 @@ IMPORTANT.
                    On Thursday added ground was won
                        A long bold steep: we near the Den.
                    Later the foe came shouting down
-                       In <ref target="#ref_21127">sortie</ref><note xml:id="ref_21127">Note:   SORTIE “A dash or sally by a besieged garrison upon an investing force” (OED “sortie”). ()</note>, which was quelled; and then
+                       In <ref target="#ref_21127">sortie</ref><note xml:id="ref_21127"> SORTIE “A dash or sally by a besieged garrison upon an investing force” (OED “sortie”). ()</note>, which was quelled; and then
                    We stormed them on their left.
                    A chilly change in the afternoon;</hi>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780640211-mafhtnwm36ljif6r-4227022d31414728d879ad67cbfff5da%2F46.jpg"/>                 <hi rend="italic">  The sky, late clear, is now bereft
@@ -119,13 +117,13 @@ IMPORTANT.
                    Finds &apos;tis an enemy shares the tree
                    Some scores are maimed by boughs shot off
                        In the glades by the Fort&apos;s big gun.
-                       We mourn the loss of <ref target="#ref_21182">Colonel Morrison</ref><note xml:id="ref_21182">Note:  Colonel William Ralls Morrison was wounded (not killed) at Fort Donelson. While still in command of his regiment in the field, he was elected to Congress and resigned his commission in 1863. Morrison died in 1909 in Waterloo, Illinois. Melville highlights here the inaccuracy of circulated news in the Civil War. ()
+                       We mourn the loss of <ref target="#ref_21182">Colonel Morrison</ref><note xml:id="ref_21182">Colonel William Ralls Morrison was wounded (not killed) at Fort Donelson. While still in command of his regiment in the field, he was elected to Congress and resigned his commission in 1863. Morrison died in 1909 in Waterloo, Illinois. Melville highlights here the inaccuracy of circulated news in the Civil War. ()
 
 “Death of Colonel William R. Morrison.” Journal of the Illinois State Historical Society (1908-1984) 2.3 (October 1909): 111-113.</note>
                        Killed while cheering his regiment on.
                    Their far sharpshooters try our stuff;
                    And ours return them puff for puff:
-                   &apos;Tis <ref target="#ref_21198">diamond-cutting-diamond work</ref><note xml:id="ref_21198">Note:  New York City, where Melville resided from 1863-1891, became a diamond cutting center in the 1870s.  DIAMOND and ADAMANT share the same Latin root “adamas”. ADAMANT: “A very hard or impenetrable stone; a name given to the diamond and other substances of extreme hardness” (“adamant” Webster’s Dictionary 1846). ()
+                   &apos;Tis <ref target="#ref_21198">diamond-cutting-diamond work</ref><note xml:id="ref_21198">New York City, where Melville resided from 1863-1891, became a diamond cutting center in the 1870s.  DIAMOND and ADAMANT share the same Latin root “adamas”. ADAMANT: “A very hard or impenetrable stone; a name given to the diamond and other substances of extreme hardness” (“adamant” Webster’s Dictionary 1846). ()
 
 “Diamond Cutting in New York.” Scientific American (1845-1908) XXVI.16 (Apr 13, 1872): 241.</note>.
                        Woe on the rebel cannoneer
@@ -205,7 +203,7 @@ IMPORTANT.
                    “Hurrah for Grant!” cried a stripling shrill;
                    Three urchins joined him with a will,
                    And some of taller stature cheered.
-                   Meantime a <ref target="#ref_21287">Copperhead</ref><note xml:id="ref_21287">Note:  COPPERHEAD. A venomous snake; also a Civil War term for “a northern sympathizer with the Secessionists of the south” (OED “copperhead). ()</note> passed; he sneered.
+                   Meantime a <ref target="#ref_21287">Copperhead</ref><note xml:id="ref_21287">COPPERHEAD. A venomous snake; also a Civil War term for “a northern sympathizer with the Secessionists of the south” (OED “copperhead). ()</note> passed; he sneered.
                        “Win or lose,” he pausing said,
                    “Caps fly the same; all boys, mere boys;
                    Any thing to make a noise.
@@ -333,7 +331,7 @@ IMPORTANT.
                                Musing on right and wrong
                                And mysteries dimly sealed—
                    Breasting the storm in daring discontent;
-                   The storm, whose <ref target="#ref_21215">black flag</ref><note xml:id="ref_21215">Note:  A black flag was flown by guerillas in the Civil War to signal no-quarter tactics. For more information about the role of guerillas in the Civil War, see Michael Fellman’s Inside War (1989), Daniel Sutherland’s A Savage Conflict (2009) and Joseph M. Bellein Jr. and Matthew C. Hulbert’s edited collection of essays entitled the Civil War Guerrilla (2015). Melville figures the “storm” as a guerrilla-like, unpredictable, and ominous threat to the soldiers. ().</note> showed in heaven,
+                   The storm, whose <ref target="#ref_21215">black flag</ref><note xml:id="ref_21215">A black flag was flown by guerillas in the Civil War to signal no-quarter tactics. For more information about the role of guerillas in the Civil War, see Michael Fellman’s Inside War (1989), Daniel Sutherland’s A Savage Conflict (2009) and Joseph M. Bellein Jr. and Matthew C. Hulbert’s edited collection of essays entitled the Civil War Guerrilla (2015). Melville figures the “storm” as a guerrilla-like, unpredictable, and ominous threat to the soldiers. ().</note> showed in heaven,
                    As if to say no quarter there was given
                                To wounded men in wood,
                        Or true hearts yearning for the good—
