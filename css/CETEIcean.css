@@ -602,23 +602,26 @@ tei-TEI tei-head {
 }
 tei-body > tei-head {
   font-size: 180%;
-  text-indent: -0.5em;
+  text-align: center;
 }
 tei-div.textpart {
   display: none;
 }
 tei-div > tei-head {
   font-size: 170%;
-  text-indent: -0.5em;
+  text-align: center;
 }
 tei-div > tei-div > tei-head {
   font-size: 155%;
+  text-align: center;
 }
 tei-div > tei-div > tei-div > tei-head {
   font-size: 140%;
+  text-align: center;
 }
 tei-div > tei-div > tei-div > tei-div > tei-head, list > tei-head {
   font-size: 130%;
+  text-align: center;
 }
 tei-div > tei-div > tei-div > tei-div > tei-div > tei-head {
   font-size: 120%;
@@ -670,6 +673,9 @@ tei-hi[rend="italic"] {
 }
 tei-hi[rend="bold"] {
   font-weight: bold;
+}
+tei-hi[rend="super"] {
+  vertical-align: super;
 }
 tei-hi {
   /* GLS: do we want to bold this or change the background color? */
@@ -771,10 +777,14 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[n]:before {
-  font-weight: bold;
-  margin-left: -3em;
-  content: "["attr(n) "]" '\2003' '\2003';
+tei-l[rend="8em"] {
+  display: block;
+  text-indent: 8em;
+}
+tei-l[n]:after {
+  font-weight: lighter;
+  content: attr(n);
+  float: right;
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
@@ -1826,7 +1836,7 @@ html {
   margin: 0;
   padding: 0;
   margin-left: 2em;
-  margin-right: 4em;
+  margin-right: 2em;
   padding: 2.5em;
   font-family: "Lucida Grande", "Cardo", "Arial Unicode MS","Galilee Unicode Gk", "New Athena Unicode", "Athena Unicode", "Palatino Linotype", "Titus Cyberbit Basic", "Vusillus Old Face", "Alphabetum", "Galatia SIL", "Code 2000", "GentiumAlt", "Gentium", "Minion Pro", "GeorgiaGreek", "Vusillus Old Face Italic", "Everson Mono", "Aristarcoj", "Porson", "Legendum", "Aisa Unicode", "Hindsight Unicode", "Caslon", "Verdana", "Tahoma";
   font-size: 12pt;
