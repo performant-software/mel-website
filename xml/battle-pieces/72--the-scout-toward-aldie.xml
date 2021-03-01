@@ -769,8 +769,8 @@
 <l>&quot;Well, what?&quot; &quot;I dun know what I know.&quot;</l>
 <l>&quot;A knowing answer!&quot; The hump-back coughed,</l>
 <l rend="2em">Rubbing his yellowish wool like tow.</l>
-<l rend="2em">&quot;Come—Mosby—tell!&quot; &quot;O dun look so!</l>
-<l rend="2em">My gal nursed missis—let we go.&quot;</l>
+<l rend="4em">&quot;Come—Mosby—tell!&quot; &quot;O dun look so!</l>
+<l rend="4em">My gal nursed missis—let we go.&quot;</l>
 </lg>
 <lb/>
 <lg>
@@ -834,7 +834,7 @@
 <l rend="4em">Chatting and chaffing, and tit for tat,</l>
 <l rend="4em">Mosby&apos;s clan with the troopers sat.</l>
 </lg>
-<lb>
+<lb/>
 <lg>
 <l>&quot;Here comes the moon!&quot; a captive cried;</l>
 <l rend="2em">&quot;A song! what say? Archy, my lad!&quot;</l>
@@ -844,34 +844,40 @@
 <l rend="4em">Last Year.&quot; He brightened, and began;</l>
 <l rend="4em">And this was the song of Mosby&apos;s man:</l>
 </lg>
-<!--
+
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0220.jpg"/>
-					 			Spring is come; she shows her pass—
-					           Wild violets cool!
-					       South of woods a small close grass—
-					           A vernal wool!
-					       Leaves are a&apos;bud on the sassafras—
-					           They&apos;ll soon be full;
-					       Blessings on the friendly screen—
-					       I&apos;m for the South! says the leafage green.
-
-					 			Robins! fly, and take your fill
-					           Of out-of-doors—
-					       Garden, orchard, meadow, hill,
-					           Barns and bowers;
-					       Take your fill, and have your will—
-					           Virginia&apos;s yours!
-					       But, bluebirds! keep away, and fear
-					       The ambuscade in bushes here.
-
-					 &quot;A green song that,&quot; a seargeant said;
-					   &quot;But where&apos;s poor Pansy? gone, I fear&quot;
-					 &quot;Ay, mustered out at Ashby&apos;s Gap&quot;
-					 &quot;I see; now for a live man&apos;s song;
-					   Ditty for ditty—prepare to cheer.
-					     My bluebirds, you can fling a cap!
-					     You barehead Mosby-boys—why—clap!&quot;
-
+<lg>
+<l><hi rend="italic">Spring is come; she shows her pass—</hi></l>
+<l rend="4em"><hi rend="italic">Wild violets cool!</hi></l>
+<l><hi rend="italic">South of woods a small close grass—</hi></l>
+<l rend="4em"><hi rend="italic">A vernal wool!</hi></l>
+<l><hi rend="italic">Leaves are a&apos;bud on the sassafras—</hi></l>
+<l rend="4em"><hi rend="italic">They&apos;ll soon be full;</hi></l>
+<l><hi rend="italic">Blessings on the friendly screen—</hi></l>
+<l><hi rend="italic">I&apos;m for the South! says the leafage green.</hi></l>
+</lg>
+<lb/>
+<lg>
+<l><hi rend="italic">Robins! fly, and take your fill</hi></l>
+<l rend="4em"><hi rend="italic">Of out-of-doors—</hi></l>
+<l><hi rend="italic">Garden, orchard, meadow, hill,</hi></l>
+<l rend="4em"><hi rend="italic">Barns and bowers;</hi></l>
+<l><hi rend="italic">Take your fill, and have your will—</hi></l>
+<l rend="4em"><hi rend="italic">They&apos;ll soon be full;</hi></l>
+<l><hi rend="italic">But, bluebirds! keep away, and fear</hi></l>
+<l><hi rend="italic">The ambuscade in bushes here.</hi></l>
+</lg>
+<lb/>
+<lg>
+<l>&quot;A green song that,&quot; a seargeant said;</l>
+<l rend="2em">&quot;But where&apos;s poor Pansy? gone, I fear&quot;</l>
+<l>&quot;Ay, mustered out at Ashby&apos;s Gap&quot;</l>
+<l>&quot;I see; now for a live man&apos;s song;</l>
+<l rend="2em">Ditty for ditty—prepare to cheer.</l>
+<l rend="4em">My bluebirds, you can fling a cap!</l>
+<l rend="4em">You barehead Mosby-boys—why—clap!&quot;</l>
+</lg>
+<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0221.jpg"/>
 						 			Nine Blue-coats went a-nutting
 						         Slyly in Tennessee—
