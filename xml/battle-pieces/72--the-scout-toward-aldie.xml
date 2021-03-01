@@ -748,13 +748,13 @@
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0217.jpg"/>
-		And straight such matter he perused
-		  That with the Guide he went apart.
-		The Hospital Steward&apos;s turn began:
+		<l>And straight such matter he perused</l>
+<l rend="2em">That with the Guide he went apart.
+		<l>The Hospital Steward&apos;s turn began:</l>
 		&quot;Must squeeze this darkey; every tap
-		  Of knowledge we are bound to start&quot;
-		    &quot;Garry,&quot; she said, &quot;tell all you can
-		    Of Colonel Mosby—that brave man.&quot;
+<l rend="2em">Of knowledge we are bound to start&quot;
+	<l rend="4em">&quot;Garry,&quot; she said, &quot;tell all you can
+<l rend="4em">Of Colonel Mosby—that brave man.&quot;
 
 		&quot;Dun know much, sare; and missis here
 		  Know less dan me. But dis I know—&quot;
@@ -781,9 +781,9 @@
 				    Boots and saddles!—our pains we lose,
 				    Nor care I if Mosby hear the news!&quot;
 
-				But word was sent to a house at hand,
+				<l>But word was sent to a house at hand,</l>
 				  And a flask was left by the hurt one&apos;s side.
-				They seized in that same house a man,
+				<l>They seized in that same house a man,</l>
 				Neutral by day, by night a foe—
 				  So charged his neighbor late, the Guide.
 				    A grudge? Hate will do what it can;
