@@ -237,7 +237,7 @@
 <l rend="2em">And up the muddy bank they strain;</l>
 <l>A horse at the spectral white-ash shies—</l>
 <l>One of the span of the ambulance,</l>
-<l rend="2em">Black as a hearse. They give the rein:</l>
+<l n="110" rend="2em">Black as a hearse. They give the rein:</l>
 <l rend="4em">Silent speed on a scout were wise,</l>
 <l rend="4em">Could cunning baffle Mosby&apos;s spies.</l>
 </lg>
@@ -254,7 +254,7 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0201.jpg"/>
 <lg>
-<l>&quot;Don&apos;t let your sabres rattle and ring;</l>
+<l n="120">&quot;Don&apos;t let your sabres rattle and ring;</l>
 <l rend="2em">To his oat-bag let each man give heed—</l>
 <l>There now, that fellow&apos;s bag&apos;s untied,</l>
 <l>Sowing the road with the precious grain.</l>
@@ -267,7 +267,7 @@
 <l>Picked lads and keen went sharp before—</l>
 <l rend="2em">A guard, though scarce against surprise;</l>
 <l>And rearmost rode an answering troop,</l>
-<l>But flankers none to right or left.</l>
+<l n="130">But flankers none to right or left.</l>
 <l rend="2em">No bugle peals, no pennon flies:</l>
 <l rend="4em">Silent they sweep, and fail would swoop</l>
 <l rend="4em">On Mosby with an Indian whoop.</l>
@@ -280,7 +280,7 @@
 <l>The blackened hut they turned to see,</l>
 <l rend="2em">And spied charred benches on the green;</l>
 <l rend="4em">A squirrel sprang from the rotting mill</l>
-<l rend="4em">Whence Mosby sallied late, brave blood to spill.</l>
+<l n="140" rend="4em">Whence Mosby sallied late, brave blood to spill.</l>
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0202.jpg"/>
@@ -298,7 +298,7 @@
 <l>The brook in the dell they pass. One peers</l>
 <l rend="2em">Between the leaves: &quot;Ay, there&apos;s the place—</l>
 <l>There, on the oozy ledge—&apos;twas there</l>
-<l>We found the body (Blake&apos;s you know);</l>
+<l n="150">We found the body (Blake&apos;s you know);</l>
 <l rend="2em">Such whirlings, gurglings round the face—</l>
 <l rend="4em">Shot drinking! Well, in war all&apos;s fair—</l>
 <l rend="4em">So Mosby says. The bough—take care!&quot;</l>
@@ -592,7 +592,7 @@
 <l rend="2em">But noon is high; what next to do?</l>
 <l rend="2em">The woods are mute, and Mosby is the foe.</l>
 </lg>
-
+<lb/>
 <lg>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0212.jpg"/>
 <l>&quot;Save what we&apos;ve got,&quot; the Major said;</l>
@@ -603,7 +603,7 @@
 <l rend="4em">To rescue, mind, they won&apos;t be slack—</l>
 <l rend="4em">Look out for Mosby&apos;s rifle-crack.&quot;</l>
 </lg>
-
+<lb/>
 <lg>
 <l>&quot;We&apos;ll welcome it! give crack for crack!</l>
 <l rend="2em">Peril, old lad, is what I seek.&quot;</l>
@@ -613,7 +613,7 @@
 <l rend="4em">Showing a scar by buck-shot made—</l>
 <l rend="4em">Kind Mosby&apos;s Christmas gift, he said.</l>
 </lg>
-
+<lb/>
 <lg>
 <l>But, Colonel, my prisoners—let a guard</l>
 <l rend="2em">Make sure of them, and lead to camp.</l>
@@ -623,7 +623,6 @@
 <l rend="4em">But first to try a little sleight—</l>
 <l rend="4em">Sure news of Mosby would suit me quite.&quot;</l>
 </lg>
-
 
 <lg>
 	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0213.jpg"/>
