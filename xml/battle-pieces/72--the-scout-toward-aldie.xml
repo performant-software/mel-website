@@ -1063,30 +1063,36 @@
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0227.jpg"/>
-													 As restive they turn, how sore they feel,
-													   And cross, and sleepy, and full of spleen,
-													 And curse the war. &quot;Fools, North and South&quot;
-													 Said one right out. &quot;O for a bed!
-													   O now to drop in this woodland green&quot;
-													     He drops as the syllables leave his mouth—
-													     Mosby speaks from the undergrowth—
+<lg>
+<l>As restive they turn, how sore they feel,</l>
+<l rend="2em">And cross, and sleepy, and full of spleen,</l>
+<l>And curse the war. &quot;Fools, North and South!&quot;</l>
+<l>Said one right out. &quot;O for a bed!</l>
+<l rend="2em">O now to drop in this woodland green!&quot;</l>
+<l rend="4em">He drops as the syllables leave his mouth—</l>
+<l rend="4em">Mosby speaks from the undergrowth—</l>
+</lg>
+<lb/>
+<lg>
+<l>Speaks in a volley! out jets the flame!</l>
+<l rend="2em">Men fall from their saddles like plums from trees;</l>
+<l>Horses take fright, reins tangle and bind;</l>
+<l>&quot;Steady—dismount—form—and into the wood!&quot;</l>
+<l rend="2em">They go, but find what scarce can please:</l>
+<l rend="4em">Their steeds have been tied in the field behind</l>
+<l rend="4em">And Mosby&apos;s men are off like the wind.</l>
+</lg>
+<lb/>
+<lg>
+<l>Sound the recall! vain to pursue—</l>
+<l rend="2em">The enemy scatters in wilds he knows,</l>
+<l>To reunite in his own good time;</l>
+<l>And, to follow, they need divide—</l>
+<l rend="2em">To come lone and lost on crouching foes:</l>
+<l rend="4em">Maple and hemlock, beech and lime,</l>
+<l rend="4em">Are Mosby&apos;s confederates, share the crime.</l>
+</lg>
 
-													 Speaks in a volley! out jets the flame!
-													   Men fall from their saddles like plums from trees;
-													 Horses take fright, reins tangle and bind;
-													 &quot;Steady—Dismount—form—and into the wood&quot;
-													   They go, but find what scarce can please:
-													     Their steeds have been tied in the field behind,
-													     And Mosby&apos;s men are off like the wind.
-
-													 Sound the recall! vain to pursue—
-													   The enemy scatters in wilds he knows,
-													 To reunite in his own good time;
-													 And, to follow, they need divide—
-													   To come lone and lost on crouching foes:
-													     Maple and hemlock, beech and lime,
-													     Are Mosby&apos;s confederates, share the crime.
-<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0228.jpg"/>
 														 &quot;Major,&quot; burst in a bugler small,
 														   &quot;The fellow we left in Loudon grass—
@@ -1111,7 +1117,7 @@
 														   And comes he there? &apos;Tis streak of dawn;
 														     Mosby is off, the woods are wide—
 														     Hist! there&apos;s a groan—this crazy ride!&quot;
-
+<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0229.jpg"/>
 															 As they searched for the fallen, the dawn grew chill;
 															   They lay in the dew: &quot;Ah! hurt much, Mink?
