@@ -1665,7 +1665,7 @@ tei-table > head {
   text-align: center;
 }
 tei-teiHeader {
-  display: none;
+  display: block;
   /*
 tei-border-radius: 15px;
 tei-border: 1px solid black;
