@@ -81,21 +81,22 @@
 		        <l><hi rend="italic">A second.</hi></l></lg>
 
                                 <lg>
-                                    <l><ref target="#ref_21130"><hi rend="smallcaps">Later from the Fort.</hi></ref><note xml:id="ref_21130">Megan Williams notes that the use of bold headlines such as “LATER FROM THE FORT” or “FURTHER” marks the ability of the written word to “measure the passage of time with a minuteness that the photograph cannot” (154).</note></l>
-                  <hi rend="italic"> Grant&apos;s investment is complete—
-                       A semicircular one.
-                   Both wings the Cumberland&apos;s margin meet,
-                   Then, backward curving, clasp the rebel seat.
-                       On Wednesday this good work was done;
-                       But of the doers some lie prone.
-                   Each wood, each hill, each glen was fought for;
-                   The bold inclosing line we wrought for
-                   Flamed with sharpshooters. Each cliff cost
-                   A limb or life. But back we forced
-                   Reserves and all; made good our hold;
-                   And so we rest.</hi></lg>
+                                    <l rend="6em"><ref target="#ref_21130"><hi rend="smallcaps">Later from the Fort.</hi></ref>
+                                        <note xml:id="ref_21130">Megan Williams notes that the use of bold headlines such as “LATER FROM THE FORT” or “FURTHER” marks the ability of the written word to “measure the passage of time with a minuteness that the photograph cannot” (154).</note></l>
+                  <l rend="2em"><hi rend="italic">Grant&apos;s investment is complete—</hi></l>
+                                    <l rend="4em"><hi rend="italic">A semicircular one.</hi></l>
+                                    <l rend="2em"><hi rend="italic">Both wings the Cumberland&apos;s margin meet,</hi></l>
+                                    <l rend="2em"><hi rend="italic">Then, backward curving, clasp the rebel seat.</hi></l>
+                                    <l rend="4em"><hi rend="italic">On Wednesday this good work was done;</hi></l>
+                                    <l rend="4em"><hi rend="italic">But of the doers some lie prone.</hi></l>
+                                    <l rend="2em"><hi rend="italic">Each wood, each hill, each glen was fought for;</hi></l>
+                                    <l rend="2em"><hi rend="italic">The bold inclosing line we wrought for</hi></l>
+                                    <l rend="2em"><hi rend="italic">Flamed with sharpshooters. Each cliff cost</hi></l>
+                                    <l rend="2em"><hi rend="italic">A limb or life. But back we forced</hi></l>
+                                    <l rend="2em"><hi rend="italic">Reserves and all; made good our hold;</hi></l>
+                                    <l rend="2em"><hi rend="italic">And so we rest.</hi></l></lg>
 
-                                            <hi rend="italic"> Events unfold.
+                                            <l rend="8em"><hi rend="italic"> Events unfold.</hi></l>
                    On Thursday added ground was won
                        A long bold steep: we near the Den.
                    Later the foe came shouting down
