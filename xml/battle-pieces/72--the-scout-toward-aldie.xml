@@ -155,7 +155,7 @@
 <l>The sun is gold, and the world is green,</l>
 <l rend="2em">Opal the vapors of morning roll;</l>
 <l>The champing horses lightly prance—</l>
-<l>Full of caprice, and the riders too</l>
+<l n="60" >Full of caprice, and the riders too</l>
 <l rend="2em">Curving in many a <ref target="#ref_21141">caricole</ref>.
 <note xml:id="ref_21141">A misspelling of the word "caracol," defined in Webster's 1846 dictionary as follows: "1. In the manege (italics) ['A school for teaching horsemanship, and for training horses.'], a semi-round, or half turn, which a horseman makes.--2. In architecture (italics), a staircase in a helix or spiral form." [definition] (Karah Mitchell)
 </note></l>
@@ -170,7 +170,7 @@
 <l>The froth of the cup is gone for them</l>
 <l rend="2em">(Caw! caw! the crows through the blueness wing):</l>
 <l rend="4em">Yet these were late as bold, as gay;</l>
-<l rend="4em">But Mosby—<ref target="#ref_21146">a clip, and grass is hay</ref>.
+<l n="70" rend="4em">But Mosby—<ref target="#ref_21146">a clip, and grass is hay</ref>.
 <note xml:id="ref_21146">"Cf. Psalms 90: 5-6: 'In the morning they are like grass which groweth up. . . . in the evening it is cut down, and withereth'" (Cohen, 288).  [allusion] (Karah Mitchell)
 </note></l>
 </lg>
@@ -191,7 +191,7 @@
 <lg>
 <l>To which behest one rider sly</l>
 <l rend="2em">(Spurred, but unarmed) gave little heed—</l>
-<l>Of dexterous fun not slow or spare,</l>
+<l n="80">Of dexterous fun not slow or spare,</l>
 <l>He teased his neighbors of touchy mood,</l>
 <l rend="2em">Into plungings he pricked his steed:</l>
 <l rend="4em">A black-eyed man on a coal-black mare,</l>
@@ -204,7 +204,7 @@
 <l>A healthy man for the sick to view;</l>
 <l>The taste in his mouth was sweet at morn;</l>
 <l rend="2em">Little of care he cared about.</l>
-<l rend="4em">And yet of pains and pangs he knew—</l>
+<l n="90" rend="4em">And yet of pains and pangs he knew—</l>
 <l rend="4em">In others, maimed by Mosby&apos;s crew.</l>
 </lg>
 
@@ -223,7 +223,7 @@
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0200.jpg"/>
 <lg>
 <l>They pass the picket by the pine</l>
-<l rend="2em">And hollow log—a lonesome place;</l>
+<l n="100" rend="2em">And hollow log—a lonesome place;</l>
 <l>His horse adroop, and pistol clean;</l>
 <l>&apos;Tis cocked—kept leveled toward the wood;</l>
 <l rend="2em">Strained vigilance ages his childish face.</l>
