@@ -1022,7 +1022,7 @@
 </lg>
 <lb/>
 <lg>
-<l> &quot;Ay! ay!—you&apos;re odd.&quot; The moon sailed up;</l>
+<l>&quot;Ay! ay!—you&apos;re odd.&quot; The moon sailed up;</l>
 <l rend="2em">On through the shadowy land they went.</l>
 <l>&quot;<hi rend="italic">Names must be made and printed be!</hi> &quot;</l>
 <l>Hummed the blithe Colonel. &quot;Doc, your flask!</l>
@@ -1030,32 +1030,38 @@
 <l rend="4em">My pipe is out—enough for me!</l>
 <l rend="4em">One&apos;s buttons shine—does Mosby see?</l>
 </lg>
-<!--
+
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0226.jpg"/>
-												 &quot;But what comes here?&quot; A man from the front
-												   Reported a tree athwart the road.
-												 &quot;Go round it, then; no time to bide;
-												 All right—go on! Were one to stay
-												   For each distrust of a nervous mood,
-												     Long miles we&apos;d make in this our ride
-												     Through Mosby-land.—Oh! with the Guide!&quot;
-
-												 Then sportful to the Surgeon turned:
-												   &quot;Green sashes hardly serve by night&quot;
-												 &quot;Nor bullets nor bottles,&quot; the Major sighed,
-												 &quot;Against these moccasin-snakes—such foes
-												   As seldom come to solid fight:
-												     They kill and vanish; through grass they glide;
-												     Devil take Mosby!—&quot; his horse here shied.
-
-												 &quot;Hold! look—the tree, like a dragged balloon;
-												   A globe of leaves—some trickery here;
-												 My nag is right—best now be shy&quot;
-												 A movement was made, a hubbub and snarl;
-												   Little was plain—they blindly steer.
-												     The Pleiads, as from ambush sly,
-												     Peep out—Mosby&apos;s men in the sky!
-
+<lg>
+<l> &quot;But what comes here?&quot; A man from the front</l>
+<l rend="2em">Reported a tree athwart the road.</l>
+<l> &quot;Go round it, then; no time to bide;</l>
+<l> All right—go on! Were one to stay</l>
+<l rend="2em">For each distrust of a nervous mood,</l>
+<l rend="4em">Long miles we&apos;d make in this our ride</l>
+<l rend="4em">Through Mosby-land.—Oh! with the Guide!&quot;</l>
+</lg>
+<lb/>
+<lg>
+<l>Then sportful to the Surgeon turned:</l>
+<l rend="2em">&quot;Green sashes hardly serve by night&quot;</l>
+<l>&quot;Nor bullets nor bottles,&quot; the Major sighed,</l>
+<l>&quot;Against these moccasin-snakes—such foes</l>
+<l rend="2em">As seldom come to solid fight:</l>
+<l rend="4em">They kill and vanish; through grass they glide;</l>
+<l rend="4em">Devil take Mosby!—&quot; his horse here shied.</l>
+</lg>
+<lb/>
+<lg>
+<l>&quot;Hold! look—the tree, like a dragged balloon;</l>
+<l rend="2em">A globe of leaves—some trickery here;</l>
+<l>My nag is right—best now be shy&quot;</l>
+<l>A movement was made, a hubbub and snarl;</l>
+<l rend="2em">Little was plain—they blindly steer.</l>
+<l rend="4em">The Pleiads, as from ambush sly,</l>
+<l rend="4em">Peep out—Mosby&apos;s men in the sky!</l>
+</lg>
+<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0227.jpg"/>
 													 As restive they turn, how sore they feel,
 													   And cross, and sleepy, and full of spleen,
