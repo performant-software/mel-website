@@ -879,28 +879,34 @@
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0221.jpg"/>
-						 			Nine Blue-coats went a-nutting
-						         Slyly in Tennessee—
-						       Not for chestnuts—better than that—
-						         Hugh, you bumble-bee!
-						           Nutting, nutting—
-						           All through the year there&apos;s nutting!
+<lg>
+<l><hi rend="italic">Nine Blue-coats went a-nutting</hi></l>
+<l rend="2em"><hi rend="italic">Slyly in Tennessee—</hi></l>
+<l><hi rend="italic">Not for chestnuts—better than that—</hi></l>
+<l rend="2em"><hi rend="italic">Hush, you bumble-bee!</hi></l>
+<l rend="4em"><hi rend="italic">Nutting, nutting—</hi></l>
+<l rend="4em"><hi rend="italic">All through the year there&apos;s nutting!</hi></l>
+</lg>
+<lb/>
+<lg>
+<l><hi rend="italic">A tree they spied so yellow,</hi></l>
+<l rend="2em"><hi rend="italic">Rustling in motion queer;</hi></l>
+<l><hi rend="italic">In they fired, and down they dropped—</hi></l>
+<l rend="2em"><hi rend="italic">Butternuts, my dear!</hi></l>
+<l rend="4em"><hi rend="italic">Nutting, nutting—</hi></l>
+<l rend="4em"><hi rend="italic">Who&apos;ll &apos;list to go a-nutting?</hi></l>
+</lg>
+<lb/>
+<lg>
+<l>Ah! why should good fellows foemen be?</l>
+<l rend="2em">And who would dream that foes they were—</l>
+<l>Larking and singing so friendly then—</l>
+<l>A family likeness in every face.</l>
+<l rend="2em">But Captain Cloud made sour demur:</l>
+<l rend="4em">&quot;Guard! keep your prisoners <hi rend="italic">in</hi> the pen,</l>
+<l rend="4em">And let none talk with Mosby&apos;s men.&quot;</l>
+</lg>
 
-									 A tree they spied so yellow,
-						 				Rustling in motion queer;
-						       In they fired, and down they dropped—
-						         Butternuts, my dear!
-						           Nutting, nutting—
-						           Who&apos;ll &apos;list to go a-nutting?
-
-						 Ah! why should good fellows foemen be?
-						   And who would dream that foes they were—
-						 Larking and singing so friendly then—
-						 A family likeness in every face.
-						   But Captain Cloud made sour demur:
-						     &quot;Guard! keep your prisoners in the pen,
-						     And let none talk with Mosby&apos;s men.&quot;
-<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0222.jpg"/>
 								 That captain was a valorous one
 								   (No irony, but honest truth),
@@ -925,7 +931,7 @@
 								   &quot;I know, I know—a cruel war!
 								     But wait—even Mosby&apos;ll eat his bun;
 								     The Old Hearth—back to it anon!&quot;
-
+<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0223.jpg"/>
 									 But cordial words no balm could bring;
 									   She sighed, and kept her inward chafe,
