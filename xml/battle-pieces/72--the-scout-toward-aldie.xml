@@ -972,10 +972,10 @@
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0224.jpg"/>
 <lg>
 <l>&quot;No doubt, no doubt:—was that a hare?—</l>
-<l rend="2em">First catch, then cook; and cook him brown&quot;</l>
+<l rend="2em">First catch, then cook; and cook him brown.&quot;</l>
 <l>&quot;Trust me to catch,&quot; the other cried—</l>
 <l>&quot;The lady&apos;s letter!—a dance, man, dance</l>
-<l rend="2em">This night is given in Leesburg town&quot;</l>
+<l rend="2em">This night is given in Leesburg town!&quot;</l>
 <l rend="4em">&quot;He&apos;ll be there too!&quot; wheezed out the Guide;</l>
 <l rend="4em">&quot;That Mosby loves a dance and ride!&quot;</l>
 </lg>
@@ -999,32 +999,38 @@
 <l rend="4em">Mosby has wiles which subtle are—</l>
 <l rend="4em">But woman&apos;s wiles in wiles of war!&quot;</l>
 </lg>
-<!--
+
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0225.jpg"/>
-											 &quot;Tut, Major! by what craft or guile—&quot;
-											   &quot;Can&apos;t tell! but he&apos;ll be found in wait.
-											 Softly we enter, say, the town—
-											 Good! pickets post, and all so sure—
-											   When—crack! the rifles from every gate,
-											     The Gray-backs fire—dashes up and down—
-											     Each alley unto Mosby known!&quot;
-
-											 &quot;Now, Major, now—you take dark views
-											   Of a moonlight night.&quot; &quot;Well, well, we&apos;ll see&quot;
-											 And smoked as if each whiff were gain.
-											 The other mused; then sudden asked,
-											   &quot;What would you do in grand decree&quot;
-											     I&apos;d beat, if I could, Lee&apos;s armies—then
-											     Send constables after Mosby&apos;s men.&quot;
-
-											 &quot;Ay! ay!—you&apos;re odd.&quot; The moon sailed up;
-											   On through the shadowy land they went.
-											 &quot;Names must be made and printed be!&quot;
-											 Hummed the blithe Colonel. &quot;Doc, your flask!
-											   Major, I drink to your good content.
-											     My pipe is out—enough for me!
-											     One&apos;s buttons shine—does Mosby see?
-
+<lg>
+<l>&quot;Tut, Major! by what craft or guile—&quot;</l>
+<l rend="2em">&quot;Can&apos;t tell! but he&apos;ll be found in wait.</l>
+<l>Softly we enter, say, the town—</l>
+<l>Good! pickets post, and all so sure—</l>
+<l rend="2em">When—crack! the rifles from every gate,</l>
+<l rend="4em">The Gray-backs fire—dash up and down—</l>
+<l rend="4em">Each alley unto Mosby known!&quot;</l>
+</lg>
+<lb/>
+<lg>
+<l>&quot;Now, Major, now—you take dark views</l>
+<l rend="2em">Of a moonlight night.&quot; &quot;Well, well, we&apos;ll see,&quot;</l>
+<l>And smoked as if each whiff were gain.</l>
+<l>The other mused; then sudden asked,</l>
+<l rend="2em">&quot;What would you do in grand decree?&quot;</l>
+<l rend="4em">I&apos;d beat, if I could, Lee&apos;s armies—then</l>
+<l rend="4em">Send constables after Mosby&apos;s men.&quot;</l>
+</lg>
+<lb/>
+<lg>
+<l> &quot;Ay! ay!—you&apos;re odd.&quot; The moon sailed up;</l>
+<l rend="2em">On through the shadowy land they went.</l>
+<l>&quot;<hi rend="italic">Names must be made and printed be!</hi> &quot;</l>
+<l>Hummed the blithe Colonel. &quot;Doc, your flask!</l>
+<l rend="2em">Major, I drink to your good content.</l>
+<l rend="4em">My pipe is out—enough for me!</l>
+<l rend="4em">One&apos;s buttons shine—does Mosby see?</l>
+</lg>
+<!--
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0226.jpg"/>
 												 &quot;But what comes here?&quot; A man from the front
 												   Reported a tree athwart the road.
