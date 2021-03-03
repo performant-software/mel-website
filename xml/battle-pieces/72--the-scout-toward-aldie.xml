@@ -920,7 +920,7 @@
 <l>Meantime the lady rueful sat,</l>
 <l rend="2em">Watching the flicker of a fire</l>
 <l>Were the Colonel played the outdoor host</l>
-<l>In brave old hall of ancient Night.</l>
+<l n="570">In brave old hall of ancient Night.</l>
 <l rend="2em">But ever the dame grew shyer and shyer,</l>
 <l rend="4em">Seeming with private grief engrossed—</l>
 <l rend="4em">Grief far from Mosby, housed or lost.</l>
@@ -933,7 +933,7 @@
 <l>Cared for her servant—sought to cheer:</l>
 <l rend="2em">&quot;I know, I know—a cruel war!</l>
 <l rend="4em">But wait—even Mosby&apos;ll eat his bun;</l>
-<l rend="4em">The Old Hearth—back to it anon!&quot;</l>
+<l n="580" rend="4em">The Old Hearth—back to it anon!&quot;</l>
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0223.jpg"/>
@@ -950,7 +950,7 @@
 <lg>
 <l>(&quot;A night-ride, eh?&quot;) &quot;Tighten your girths!</l>
 <l rend="2em">But, buglers! not a note from you.</l>
-<l>Fling more rails on the fires—a blaze!&quot;</l>
+<l n="590">Fling more rails on the fires—a blaze!&quot;</l>
 <l>(&quot;Sergeant, a feint—I told you so—</l>
 <l rend="2em">Toward Aldie again. Bivouac, adieu!&quot;)</l>
 <l rend="4em">After the cheery flames they gaze,</l>
@@ -963,7 +963,7 @@
 <l>The Leader backward cast his glance,</l>
 <l>Proud of the cavalcade that came—</l>
 <l rend="2em">A hundred horses, bay and cream:</l>
-<l rend="4em">&quot;Major! look how the lads advance—</l>
+<l n="600" rend="4em">&quot;Major! look how the lads advance—</l>
 <l rend="4em">Mosby we&apos;ll have in the ambulance!&quot;</l>
 </lg>
 
@@ -980,7 +980,7 @@
 <lb/>
 <lg>
 <l>&quot;The lady, ah!—the lady&apos;s letter—</l>
-<l rend="2em">A <hi rend="italic">lady</hi>, then, is in the case,&quot;</l>
+<l n="610" rend="2em">A <hi rend="italic">lady</hi>, then, is in the case,&quot;</l>
 <l>Muttered the Major. &quot;Ay, her aunt</l>
 <l>Writes her to come by Friday eve</l>
 <l rend="2em">(To-night), for people of the place,</l>
@@ -993,7 +993,7 @@
 <l rend="2em">We owe to her?—One lighted house</l>
 <l>In a town else dark.—The moths, begar!</l>
 <l>Are not quite yet all dead!&quot; &quot;How? how?&quot;</l>
-<l rend="2em">&quot;A mute, meek mournful little mouse!—</l>
+<l n="620" rend="2em">&quot;A mute, meek mournful little mouse!—</l>
 <l rend="4em">Mosby has wiles which subtle are—</l>
 <l rend="4em">But woman&apos;s wiles in wiles of war!&quot;</l>
 </lg>
@@ -1010,7 +1010,7 @@
 </lg>
 <lb/>
 <lg>
-<l>&quot;Now, Major, now—you take dark views</l>
+<l n="630">&quot;Now, Major, now—you take dark views</l>
 <l rend="2em">Of a moonlight night.&quot; &quot;Well, well, we&apos;ll see,&quot;</l>
 <l>And smoked as if each whiff were gain.</l>
 <l>The other mused; then sudden asked,</l>
@@ -1023,7 +1023,7 @@
 <l>&quot;Ay! ay!—you&apos;re odd.&quot; The moon sailed up;</l>
 <l rend="2em">On through the shadowy land they went.</l>
 <l>&quot;<hi rend="italic">Names must be made and printed be!</hi> &quot;</l>
-<l>Hummed the blithe Colonel. &quot;Doc, your flask!</l>
+<l n="640">Hummed the blithe Colonel. &quot;Doc, your flask!</l>
 <l rend="2em">Major, I drink to your good content.</l>
 <l rend="4em">My pipe is out—enough for me!</l>
 <l rend="4em">One&apos;s buttons shine—does Mosby see?</l>
@@ -1037,7 +1037,7 @@
 <l>All right—go on! Were one to stay</l>
 <l rend="2em">For each distrust of a nervous mood,</l>
 <l rend="4em">Long miles we&apos;d make in this our ride</l>
-<l rend="4em">Through Mosby-land.—On! with the Guide!&quot;</l>
+<l n="650" rend="4em">Through Mosby-land.—On! with the Guide!&quot;</l>
 </lg>
 <lb/>
 <lg>
@@ -1053,7 +1053,7 @@
 <lg>
 <l>&quot;Hold! look—the tree, like a dragged balloon;</l>
 <l rend="2em">A globe of leaves—some trickery here;</l>
-<l>My nag is right—best now be shy.&quot;</l>
+<l n="660">My nag is right—best now be shy.&quot;</l>
 <l>A movement was made, a hubbub and snarl;</l>
 <l rend="2em">Little was plain—they blindly steer.</l>
 <l rend="4em">The Pleiads, as from ambush sly,</l>
@@ -1067,7 +1067,7 @@
 <l>And curse the war. &quot;Fools, North and South!&quot;</l>
 <l>Said one right out. &quot;O for a bed!</l>
 <l rend="2em">O now to drop in this woodland green!&quot;</l>
-<l rend="4em">He drops as the syllables leave his mouth—</l>
+<l n="670" rend="4em">He drops as the syllables leave his mouth—</l>
 <l rend="4em">Mosby speaks from the undergrowth—</l>
 </lg>
 <lb/>
@@ -1083,7 +1083,7 @@
 <lb/>
 <lg>
 <l>Sound the recall! vain to pursue—</l>
-<l rend="2em">The enemy scatters in wilds he knows,</l>
+<l n="680" rend="2em">The enemy scatters in wilds he knows,</l>
 <l>To reunite in his own good time;</l>
 <l>And, to follow, they need divide—</l>
 <l rend="2em">To come lone and lost on crouching foes:</l>
@@ -1097,7 +1097,7 @@
 <l rend="2em">&quot;The fellow we left in Loudon grass—</l>
 <l>Sir Slyboots with the inward bruise,</l>
 <l>His voice I heard—the very same—</l>
-<l rend="2em">Some watchword in the ambush pass;</l>
+<l n="690" rend="2em">Some watchword in the ambush pass;</l>
 <l rend="4em">Ay, sir, we had him in his shoes—</l>
 <l rend="4em">We caught him—Mosby—but to lose!&quot;</l>
 </lg>
@@ -1113,7 +1113,7 @@
 </lg>
 <lb/>
 <lg>
-<l>&quot;Come, come, fall back! reform yours ranks—</l>
+<l n="700">&quot;Come, come, fall back! reform yours ranks—</l>
 <l rend="2em">All&apos;s jackstraws here! Where&apos;s Captain Morn?—</l>
 <l>We&apos;ve parted like boats in a raging tide!</l>
 <l>But stay-the Colonel—did he charge?</l>
@@ -1127,7 +1127,7 @@
 <l>As they searched for the fallen, the dawn grew chill;</l>
 <l rend="2em">They lay in the dew: &quot;Ah! hurt much, Mink?</l>
 <l>And—yes—the Colonel!&quot; Dead! but so calm</l>
-<l>That death seemed nothing—even death,</l>
+<l n="710">That death seemed nothing—even death,</l>
 <l rend="2em">The thing we deem every thing heart can think;</l>
 <l rend="4em">Amid wilding roses that shed their balm,</l>
 <l rend="4em">Careless of Mosby he lay—in a charm!</l>
@@ -1140,7 +1140,7 @@
 <l>&quot;Good-by!&quot; and gazed with humid glance;</l>
 <l rend="2em">Then in a hollow revery said,</l>
 <l rend="4em">&quot;The weakest thing is lustihood;</l>
-<l rend="4em">But Mosby—&quot; and he checked his mood.</l>
+<l n="720" rend="4em">But Mosby—&quot; and he checked his mood.</l>
 </lg>
 <lb/>
 <lg>
@@ -1157,7 +1157,7 @@
 <lg>
 <l>&quot;Ho!&quot; turning—&quot;Captain Cloud, you mind</l>
 <l rend="2em">The place where the escort went—so shady?</l>
-<l>Go, search every closet low and high,</l>
+<l n="730">Go, search every closet low and high,</l>
 <l>And barn, and bin, and hidden bower—</l>
 <l rend="2em">Every covert—find that lady!</l>
 <l rend="4em">And yet I may misjudge her—ay,</l>
@@ -1170,7 +1170,7 @@
 <l>Secure; that done, await us where</l>
 <l>We last turned off. Stay! fire the cage</l>
 <l rend="2em">If the birds be flown.&quot; By the cross-road spring</l>
-<l rend="4em">The bands rejoined; no words; the glare</l>
+<l n="740" rend="4em">The bands rejoined; no words; the glare</l>
 <l rend="4em">Told all. Had Mosby plotted there?</l>
 </lg>
 <lb/>
@@ -1187,7 +1187,7 @@
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0231.jpg"/>
 <lg>
 <l>In order due the Major rode—</l>
-<l rend="2em">Chaplain and Surgeon on either hand;</l>
+<l n="750" rend="2em">Chaplain and Surgeon on either hand;</l>
 <l>A riderless horse a negro led;</l>
 <l>In a wagon the blanketed sleeper went;</l>
 <l rend="2em">Then the ambulance with the bleeding band;</l>
@@ -1200,7 +1200,7 @@
 <l rend="2em">And changed the cheer that late they took,</l>
 <l>As double-guarded now they rode</l>
 <l>Between the files of moody men?</l>
-<l rend="2em">Some sudden consciousness they brook,</l>
+<l n="760" rend="2em">Some sudden consciousness they brook,</l>
 <l rend="4em">Or dread the sequel. That night&apos;s blood</l>
 <l rend="4em">Disturbed even Mosby&apos;s brotherhood.</l>
 </lg>
@@ -1217,7 +1217,7 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0232.jpg"/>
 <lg>
-<l>The Hospital Steward—even he—</l>
+<l n="770">The Hospital Steward—even he—</l>
 <l rend="2em">Who on the sleeper kept his glance,</l>
 <l>Was changed; late bright-black beard and eye</l>
 <l>Looked now hearse-black; his heavy heart,</l>
@@ -1230,7 +1230,7 @@
 <l>The amber sunset flushed the camp</l>
 <l rend="2em">As on the hill their eyes they fed;</l>
 <l>The pickets dumb looks at the wagon dart;</l>
-<l>A handkerchief waves from the bannered tent—</l>
+<l n="780">A handkerchief waves from the bannered tent—</l>
 <l rend="2em">As white, alas! the face of the dead:</l>
 <l rend="4em">Who shall the withering news impart?</l>
 <l rend="4em">The bullet of Mosby goes through heart to heart!</l>
@@ -1243,7 +1243,7 @@
 <l>Where sweet-fern flings an odor nigh—</l>
 <l rend="2em">Yet held in fear for the gleaming ghost!</l>
 <l rend="4em">Though the bride should see threescore and ten,</l>
-<l rend="4em">She will dream of Mosby and his men.</l>
+<l n="790" rend="4em">She will dream of Mosby and his men.</l>
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0233.jpg"/>
