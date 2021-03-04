@@ -20,7 +20,7 @@
 			<body><div id="74--a-meditation">
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0247.jpg"/>
-<head rend="4em">A MEDITATION.</head>
+<head type="head"><hi rend="italic">A MEDITATION.</hi></head>
 <lg><l>ATTRIBUTED TO A NORTHERNER AFTER ATTENDING THE</l>
 <l>LAST OF TWO FUNERALS FROM THE SAME HOMESTEAD—</l>
 <l>THOSE OF A NATIONAL AND A CONFEDERATE OFFICER</l>
@@ -28,9 +28,10 @@
 <l>FECTS OF WOUNDS RECEIVED IN THE CLOSING BATTLES.</l></lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0249.jpg"/>
-<head><hi rend="italic">A Meditation.</hi></head>
+<head type="sub-head"><hi rend="italic">A Meditation.</hi></head>
 
-<lg><l><hi rend="smallcaps">How</hi> often in the years that close,</l>
+<lg>
+<l><hi rend="smallcaps">How</hi> often in the years that close,</l>
 <l rend="2em">When truce had stilled the sieging gun,</l>
 <l>The soldiers, mounting on their works,</l>
 <l rend="2em">With mutual curious glance have run</l>
@@ -40,7 +41,7 @@
 <lg><l>What thoughts conflicting then were shared.</l>
 <l rend="2em">While sacred tenderness perforce</l>
 <l>Welled from the heart and wet the eye;</l>
-<l rend="2em">And something of a strange remorse</l>
+<l n="10" rend="2em">And something of a strange remorse</l>
 <l>Rebelled against the sanctioned sin of blood,</l>
 <l>And Christian wars of natural brotherhood.</l></lg>
 
@@ -52,21 +53,24 @@
 <l>Horror and anguish for the civil strife.</l></lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0250.jpg"/>
-<lg><l>Of North or South they recked not then,</l>
+<lg>
+<l  n="20">Of North or South they recked not then,</l>
 <l rend="2em">Warm passion cursed the cause of war:</l>
 <l>Can Africa pay back this blood</l>
 <l rend="2em">Spilt on Potomac&apos;s shore?</l>
 <l>Yet doubts, as pangs, were vain the strife to stay,</l>
 <l>And hands that fain had clasped again could slay.</l></lg>
 
-<lg><l>How frequent in the camp was seen</l>
+<lg>
+<l>How frequent in the camp was seen</l>
 <l rend="2em">The herald from the hostile one,</l>
 <l>A guest and frank companion there</l>
 <l rend="2em">When the proud formal talk was done;</l>
-<l>The pipe of peace was smoked even &apos;mid the war,</l>
+<l n="30">The pipe of peace was smoked even &apos;mid the war,</l>
 <l>And fields in Mexico again fought o&apos;er.</l></lg>
 
-<lg><l>In Western battle long they lay</l>
+<lg>
+<l>In Western battle long they lay</l>
 <l rend="2em">So near opposed in trench or pit,</l>
 <l>That foeman unto foeman called</l>
 <l rend="2em">As men who screened in tavern sit:</l>
@@ -75,7 +79,7 @@
 
 <lg><l>And pale on those same slopes, a boy—</l>
 <l rend="2em">A stormer, bled in noon-day glare;</l>
-<l>No aid the <name type="person">Blue-coats</name> then could bring,</l>
+<l n="40">No aid the <name type="person">Blue-coats</name> then could bring,</l>
 <l rend="2em">He cried to them who nearest were,</l>
 <l>And out there came &apos;mid howling shot and shell</l>
 <l>A daring foe who him befriended well.</l></lg>
@@ -88,7 +92,8 @@
 <l>And, free from hate in many an after pass,</l>
 <l>Strove as in school-boy rivalry of the class.</l></lg>
 
-<lg><l>A darker side there is; but doubt</l>
+<lg>
+<l  n="50">A darker side there is; but doubt</l>
 <l rend="2em">In Nature&apos;s charity hovers there:</l>
 <l>If men for new agreement yearn,</l>
 <l rend="2em">Then old upbraiding best forbear:</l>
@@ -99,7 +104,7 @@
 <l rend="2em">Mine be the manful soldier-view;</l>
 <l>By how much more they boldly warred,</l>
 <l rend="2em">By so much more is mercy due:</l>
-<l>When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,</l>
+<l n="60">When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,</l>
 <l>Silent the victors stood, scorning to raise a shout.</l></lg>
 
 </div></body>
