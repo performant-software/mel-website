@@ -20,7 +20,7 @@
 			<body><div id="74--a-meditation">
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0247.jpg"/>
-<head type="head"><hi rend="italic">A MEDITATION.</hi></head>
+<head type="main"><hi rend="italic">A MEDITATION:</hi></head>
 <lg><l>ATTRIBUTED TO A NORTHERNER AFTER ATTENDING THE</l>
 <l>LAST OF TWO FUNERALS FROM THE SAME HOMESTEAD—</l>
 <l>THOSE OF A NATIONAL AND A CONFEDERATE OFFICER</l>
@@ -38,14 +38,16 @@
 <l>From face to face along the fronting show,</l>
 <l>And kinsman spied, or friend—even in a foe.</l></lg>
 
-<lg><l>What thoughts conflicting then were shared.</l>
+<lg>
+<l>What thoughts conflicting then were shared.</l>
 <l rend="2em">While sacred tenderness perforce</l>
 <l>Welled from the heart and wet the eye;</l>
 <l n="10" rend="2em">And something of a strange remorse</l>
 <l>Rebelled against the sanctioned sin of blood,</l>
 <l>And Christian wars of natural brotherhood.</l></lg>
 
-<lg><l>Then stirred the god within the breast—</l>
+<lg>
+<l>Then stirred the god within the breast—</l>
 <l rend="2em">The witness that is man&apos;s at birth;</l>
 <l>A deep misgiving undermined</l>
 <l rend="2em">Each plea and subterfuge of earth;</l>
@@ -54,8 +56,8 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0250.jpg"/>
 <lg>
-<l  n="20">Of North or South they recked not then,</l>
-<l rend="2em">Warm passion cursed the cause of war:</l>
+<l>Of North or South they recked not then,</l>
+<l n="20" rend="2em">Warm passion cursed the cause of war:</l>
 <l>Can Africa pay back this blood</l>
 <l rend="2em">Spilt on Potomac&apos;s shore?</l>
 <l>Yet doubts, as pangs, were vain the strife to stay,</l>
@@ -66,8 +68,8 @@
 <l rend="2em">The herald from the hostile one,</l>
 <l>A guest and frank companion there</l>
 <l rend="2em">When the proud formal talk was done;</l>
-<l n="30">The pipe of peace was smoked even &apos;mid the war,</l>
-<l>And fields in Mexico again fought o&apos;er.</l></lg>
+<l>The pipe of peace was smoked even &apos;mid the war,</l>
+<l n="30">And fields in Mexico again fought o&apos;er.</l></lg>
 
 <lg>
 <l>In Western battle long they lay</l>
@@ -77,14 +79,16 @@
 <l>&quot;You bravely fight&quot; each to the other said—</l>
 <l>&quot;Toss us a biscuit!&quot; o&apos;er the wall it sped.</l></lg>
 
-<lg><l>And pale on those same slopes, a boy—</l>
+<lg>
+<l>And pale on those same slopes, a boy—</l>
 <l rend="2em">A stormer, bled in noon-day glare;</l>
-<l n="40">No aid the <name type="person">Blue-coats</name> then could bring,</l>
-<l rend="2em">He cried to them who nearest were,</l>
+<l>No aid the <name type="person">Blue-coats</name> then could bring,</l>
+<l n="40" rend="2em">He cried to them who nearest were,</l>
 <l>And out there came &apos;mid howling shot and shell</l>
 <l>A daring foe who him befriended well.</l></lg>
 
-<lg><pb facs="/images/battle-pieces-v1/battle-pieces-i-0251.jpg"/>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0251.jpg"/>
+<lg>
 <l>Mark the great Captains on both sides,</l>
 <l rend="2em">The soldiers with the broad renown—</l>
 <l>They all were <name ref="https://mel-catalog.herokuapp.com/api/entries/place:497" type="event">messmates on the Hudson&apos;s marge</name>,</l>
@@ -93,19 +97,20 @@
 <l>Strove as in school-boy rivalry of the class.</l></lg>
 
 <lg>
-<l  n="50">A darker side there is; but doubt</l>
-<l rend="2em">In Nature&apos;s charity hovers there:</l>
+<l>A darker side there is; but doubt</l>
+<l n="50" rend="2em">In Nature&apos;s charity hovers there:</l>
 <l>If men for new agreement yearn,</l>
 <l rend="2em">Then old upbraiding best forbear:</l>
 <l>&quot;<hi rend="italic">The South&apos;s the sinner!</hi>  &quot; Well, so let it be;</l>
 <l>But shall the North sin worse, and stand the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:213" type="person">Pharisee</name>?</l></lg>
 
-<lg><l>O, now that brave men yield the sword,</l>
+<lg>
+<l>O, now that brave men yield the sword,</l>
 <l rend="2em">Mine be the manful soldier-view;</l>
 <l>By how much more they boldly warred,</l>
 <l rend="2em">By so much more is mercy due:</l>
-<l n="60">When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,</l>
-<l>Silent the victors stood, scorning to raise a shout.</l></lg>
+<l>When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,</l>
+<l n="60">Silent the victors stood, scorning to raise a shout.</l></lg>
 
 </div></body>
 		</text>
