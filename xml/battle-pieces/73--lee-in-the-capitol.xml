@@ -20,11 +20,21 @@
 			<body><div id="73--lee-in-the-capitol">
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0235.jpg"/>
-<head type="main"><hi rend="italic">LEE IN THE CAPITOL.</hi><hi rend="super">x</hi></head>
+<head type="main"><hi rend="italic">LEE IN THE CAPITOL.</hi></head>
 <lb/>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0237.jpg"/>
-<head type="sub-head"><hi rend="italic">Lee in the Capitol.</hi>
-<l>(<ref target="#ref_21090">April</ref><note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem." (Parker II, 612) [Allusion, Historical; Biographical, Composition] (Marr)</note>, 1866.)</l>
+<head type="sub-head"><ref target="#BP_noteX"><hi rend="italic">Lee in the Capitol.</hi><hi rend="super">x</hi></ref>
+<note xml:id="BP_noteX"><hi rend="smallcaps">Note x</hi>, <hi rend="italic">page</hi> 229.
+<p>Among those summoned during the spring just passed to appear before the Reconstruction Committee of Congress was Robert E. Lee. His testimony is deeply interesting, both in itself and as coming from him. After various questions had been put and briefly answered, these words were addressed to him:
+</p>
+<p>&quot;If there be any other matter about which you wish to speak on this occasion, do so freely.&quot; Waiving this invitation, he responded by a short personal explanation of some point in a previous answer, and, after a few more brief questions and replies, the interview closed.
+</p>
+<p>In the verse a poetical liberty has been ventured. Lee is not only represented as responding to the invitation, but also as at last renouncing his cold reserve, doubtless the cloak to feelings more or less poignant. If for such freedom warrant be necessary, the speeches in ancient histories, not to speak of those in Shakespeare&apos;s historic plays, may not unfitly perhaps be cited.
+</p>
+<p>The character of the original measures proposed about this time in the National Legislature for the treament of the (as yet) Congressionally excluded South, and the spirit in which those measures were advocated—these are circumstances which it is fairly supposable would have deeply influenced the thoughts, whether spoken or withheld, of a Southerner placed in the position of Lee before the Reconstruction Committee.
+</p>
+</note>
+<l>(<ref target="#ref_21090">April, 1866.</ref><note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem" (Parker 2.612). [Allusion, Historical; Biographical, Composition] (Marr)</note>)</l>
 </head>
 
 <lg><l><hi rend="smallcaps">Hard</hi> pressed by numbers in his strait,</l>
