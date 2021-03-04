@@ -20,11 +20,12 @@
 			<body><div id="73--lee-in-the-capitol">
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0235.jpg"/>
-<head><hi rend="italic">LEE IN THE CAPITOL.</hi></head>
+<head type="main"><hi rend="italic">LEE IN THE CAPITOL.</hi><hi rend="super">x</hi></head>
 <lb/>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0237.jpg"/>
-<head><hi rend="italic">Lee in the Capitol.</hi>
-<l>(<ref target="#ref_21090">April</ref><note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem." (Parker II, 612) [Allusion, Historical; Biographical, Composition] (Marr)</note>, 1866.)</l></head>
+<head type="sub-head"><hi rend="italic">Lee in the Capitol.</hi>
+<l>(<ref target="#ref_21090">April</ref><note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem." (Parker II, 612) [Allusion, Historical; Biographical, Composition] (Marr)</note>, 1866.)</l>
+</head>
 
 <lg><l><hi rend="smallcaps">Hard</hi> pressed by numbers in his strait,</l>
 <l rend="2em">Rebellion&apos;s soldier-chief no more contends—</l>
