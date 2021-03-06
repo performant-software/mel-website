@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>60 - An Epitaph</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,17 +15,29 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="60--an-epitaph"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002190296-cahetbwwrclhm2t9-d0c314dc9b953ae5af7dbafc9aa07d4a%2F179.jpg"/>An Epitaph
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">When Sunday tidings from the front
-  Made pale the priest and people,
-And heavily the blessing went,
-  And bells were dumb in the steeple;
-The Soldier&apos;s widow <ref target="#ref_21001">(summering sweetly here,
-  In shade by waving beeches lent)</ref><note xml:id="ref_21001">Note 1: [Critical] While Garner suggests that this poem pays tribute to “all the war-widows who, by their example, eased the bereavements of others” (Garner 190), Cadell complicates Garner’s interpretation by noting that the poem suggests that the widow herself is deceased in the parenthetical phrase “(summering sweetly here, / In shade by waving beeches lent)”. Caddell argues that “the disconnect between the poem’s assigned genre, an epitaph, and its lack of clarity about who is being memorialized” represents yet another instance in Battle-Pieces “when epitaphic tropes are transformed” (Caddell 303). (Christina Lee)</note>
-  Felt deep at heart her faith content,
-And priest and people borrowed of her cheer.</p></div></body>
+			<body><div id="60--an-epitaph">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0177.jpg"/>
+				<head type="main">
+				<hi rend="italic">An Epitaph.</hi>
+				</head>
+				<head type="sub-head"><hi rend="italic"></hi>
+				</head>
+<lg>
+<l><hi rend="smallcaps">When</hi> Sunday tidings from the front</l>
+<l rend="2em">Made pale the priest and people,</l>
+<l>And heavily the blessing went,</l>
+<l rend="2em">And bells were dumb in the steeple;</l>
+<l>The Soldier&apos;s widow (summering sweetly here,</l>
+<l rend="2em">In shade by waving beeches lent)</l>
+<!--
+<note>Note 1: [Critical] While Garner suggests that this poem pays tribute to “all the war-widows who, by their example, eased the bereavements of others” (Garner 190), Cadell complicates Garner’s interpretation by noting that the poem suggests that the widow herself is deceased in the parenthetical phrase “(summering sweetly here, / In shade by waving beeches lent)”. Caddell argues that “the disconnect between the poem’s assigned genre, an epitaph, and its lack of clarity about who is being memorialized” represents yet another instance in Battle-Pieces “when epitaphic tropes are transformed” (Caddell 303). (Christina Lee)
+</note>
+-->
+<l rend="2em">Felt deep at heart her faith content,</l>
+<l>And priest and people borrowed of her cheer.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
