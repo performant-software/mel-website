@@ -4,12 +4,10 @@
 		<fileDesc>
 			<titleStmt>
 			<title>63 - On the Slain at Chickamauga</title>
-			
-			
-					
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,25 +16,36 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="63--on-the-slain-at-chickamauga"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002322578-y3oo8nu2iny4lsor-96b547b2eac3313b5327eaa77a894012%2F182.jpg"/>On the Slain at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:490" type="place">Chickamauga</name>
+			<body><div id="63--on-the-slain-at-chickamauga">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Happy are they and charmed in life
-  Who through long wars arrive unscarred
-At peace. To such the wreath be given,
-If they unfalteringly have striven—
-  In honor, as in limb, unmarred.
-Let cheerful praise be rife,
-  And let them live their years at ease,
-Musing on brothers who victorious died—
-  Loved mates whose memory shall ever please.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">And yet mischance is honorable too—
-  Seeming defeat in conflict justified
-Whose end to closing eyes is his from view.
-The will, that never can relent—
-The aim, survivor of the bafflement,
-    Make this memorial due.</p></div></body>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0180.jpg"/>
+				<head type="main">
+				<hi rend="italic">On the Slain at Chickamauga.</hi>
+				</head>
+				<head type="sub-head"><hi rend="italic"></hi>
+				</head>
+<lg>
+<l>Happy are they and charmed in life</l>
+<l rend="2em">Who through long wars arrive unscarred</l>
+<l>At peace. To such the wreath be given,</l>
+<l>If they unfalteringly have striven—</l>
+<l rend="2em">In honor, as in limb, unmarred.</l>
+<l>Let cheerful praise be rife,</l>
+<l rend="2em">And let them live their years at ease,</l>
+<l>Musing on brothers who victorious died—</l>
+<l rend="2em">Loved mates whose memory shall ever please.</l>
+</lg>
+<lb/>
+<lg>
+<l>And yet mischance is honorable too—</l>
+<l rend="2em">Seeming defeat in conflict justified</l>
+<l>Whose end to closing eyes is his from view.</l>
+<l>The will, that never can relent—</l>
+<l>The aim, survivor of the bafflement,</l>
+<l rend="4em">Make this memorial due.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
