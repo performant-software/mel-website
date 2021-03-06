@@ -20,10 +20,10 @@
 			<body><div id="73--lee-in-the-capitol">
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0235.jpg"/>
-<head type="main"><hi rend="italic">LEE IN THE CAPITOL.</hi></head>
+<head><hi rend="italic">LEE IN THE CAPITOL.</hi></head>
 <lb/>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0237.jpg"/>
-<head type="sub-head"><ref target="#BP_noteX"><hi rend="italic">Lee in the Capitol.</hi><hi rend="super">x</hi></ref>
+<head type="main"><ref target="#BP_noteX"><hi rend="italic">Lee in the Capitol.</hi><hi rend="super">x</hi></ref></head>
 <note xml:id="BP_noteX"><hi rend="smallcaps">Note x</hi>, <hi rend="italic">page</hi> 229.
 <p>Among those summoned during the spring just passed to appear before the Reconstruction Committee of Congress was Robert E. Lee. His testimony is deeply interesting, both in itself and as coming from him. After various questions had been put and briefly answered, these words were addressed to him:
 </p>
@@ -34,9 +34,11 @@
 <p>The character of the original measures proposed about this time in the National Legislature for the treament of the (as yet) Congressionally excluded South, and the spirit in which those measures were advocated—these are circumstances which it is fairly supposable would have deeply influenced the thoughts, whether spoken or withheld, of a Southerner placed in the position of Lee before the Reconstruction Committee.
 </p>
 </note>
-<l>(<ref target="#ref_21090">April, 1866.</ref><note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem" (Parker 2.612). [Allusion, Historical; Biographical, Composition] (Marr)</note>)</l>
+<head type="sub-head">(April, 1866.)</head>
+<!--
+<note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem" (Parker 2.612). [Allusion, Historical; Biographical, Composition] (Marr)</note>)</l>
 </head>
-
+-->
 <lg><l><hi rend="smallcaps">Hard</hi> pressed by numbers in his strait,</l>
 <l rend="2em">Rebellion&apos;s soldier-chief no more contends—</l>
 <l>Feels that the hour is come of Fate,</l>
@@ -132,12 +134,20 @@
 <l>Would the South then drive her wedges home?&quot;</l>
 <l>And more hereof. The Virginian sees—</l>
 <l>Replies to such anxieties.</l>
-<l><ref target="#ref_21095">Discreet his answers run—appear</ref></l>
-<l>Briefly straightforward, coldly clear<note xml:id="ref_21095">"He represents that nothing like a sentiment of hostility to the United States Government exists in Virginia; that there are no combinations or conspiracies having that end in view; that the people, though disappointed and saddened by the result of the war, accept the result submissively, and are only looking now to their material interests, and that the surest and speediest means of reconciling the people to the Government, and making them its cardinal supporters, is to extend to them equal rights with the people of the other States." Senator Jacob Merritt Howard (Michigan), Intelligencer, 28 March 1866. (Parker, II, 612) [Allusion, historical; Source] </note>.</l>
+<l>Discreet his answers run—appear</l>
+<l>Briefly straightforward, coldly clear.</l>
+<!--
+<note>"He represents that nothing like a sentiment of hostility to the United States Government exists in Virginia; that there are no combinations or conspiracies having that end in view; that the people, though disappointed and saddened by the result of the war, accept the result submissively, and are only looking now to their material interests, and that the surest and speediest means of reconciling the people to the Government, and making them its cardinal supporters, is to extend to them equal rights with the people of the other States." Senator Jacob Merritt Howard (Michigan), Intelligencer, 28 March 1866. (Parker, II, 612) [Allusion, historical; Source]
+</note>
+-->
 <lb/>
 <l>&quot;If now,&quot; the Senators, closing, say,</l>
-<l><ref target="#ref_21096">&quot;Aught else remain, speak out, we pray.&quot;</ref><note xml:id="ref_21096">"If there be any other matters about which you wish to speak on this occasion, do so freely." Senator Jacob Merritt Howard to Lee, Intelligencer, 28 March 1866 (Parker, II, 612) [Allusion, historical; Source) (Marr)</note></l></lg>
-
+<l>&quot;Aught else remain, speak out, we pray.&quot;</l>
+</lg>
+<!--
+<note>"If there be any other matters about which you wish to speak on this occasion, do so freely." Senator Jacob Merritt Howard to Lee, Intelligencer, 28 March 1866 (Parker, II, 612) [Allusion, historical; Source) (Marr)
+</note>
+-->
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0241.jpg"/>
 <lg><l>Hereat he paused; his better heart</l>
 <l>Strove strongly then; prompted a worthier part</l>
