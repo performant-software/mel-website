@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>56 - On the Home Guards</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,19 +15,33 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="56--on-the-home-guards"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002023838-rlnysjjksft7qfr-9be8752ba14fe17694aaa267e977885c%2F175.jpg"/>VERSES INSCRIPTIVE AND MEMORIAL
+			<body><div id="56--on-the-home-guards">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">On the Home Guards
-who perished in the Defense of Lexington, Missouri
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0171.jpg"/>
+				<head type="main">
+				<hi rend="italic">VERSES</hi>
+				</head>
+				<head type="sub-head"><hi rend="italic">INSCRIPTIVE AND MEMORIAL.</hi>
+				</head>
+				<lb/>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0173.jpg"/>
+				<head type="main">
+				<hi rend="italic">On the Home Guards</hi>
+				</head>
+				<head type="sub-head"><hi rend="italic">who perished in the Defense of Lexington, Missouri.</hi>
+				</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The men who here in harness died
-  Fell not in vain, though in defeat.
-They by their end well fortified
-  The Cause, and built retreat
-(With memory of their valor tried)
-For emulous hearts in many an after fray—
-Hearts sore beset, which died at bay.</p></div></body>
+<lg>
+<l><hi rend="smallcaps">The</hi> men who here in harness died</l>
+<l rend="2em">Fell not in vain, though in defeat.</l>
+<l>They by their end well fortified</l>
+<l rend="2em">The Cause, and built retreat</l>
+<l>(With memory of their valor tried)</l>
+<l>For emulous hearts in many an after fray—</l>
+<l>Hearts sore beset, which died at bay.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
