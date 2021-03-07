@@ -122,11 +122,11 @@
 		        <l rend="2em"><hi rend="italic">Finds &apos;tis an enemy shares the tree</hi></l>
 		        <l rend="2em"><hi rend="italic">Some scores are maimed by boughs shot off</hi></l>
 		        <l rend="4em"><hi rend="italic">In the glades by the Fort&apos;s big gun.</hi></l>
-		        <l rend="4em"><hi rend="italic">We mourn the loss of <ref target="#ref_21182">Colonel Morrison</ref><note xml:id="ref_21182">Colonel William Ralls Morrison was wounded (not killed) at Fort Donelson. While still in command of his regiment in the field, he was elected to Congress and resigned his commission in 1863. Morrison died in 1909 in Waterloo, Illinois. Melville highlights here the inaccuracy of circulated news in the Civil War. “Death of Colonel William R. Morrison.” Journal of the Illinois State Historical Society (1908-1984) 2.3 (October 1909): 111-113.</note></hi></l>
+		            <l rend="4em"><hi rend="italic">We mourn the loss of <ref target="#ref_21182"><name type="person">Colonel Morrison</name></ref><note xml:id="ref_21182">Colonel William Ralls Morrison was wounded (not killed) at Fort Donelson. While still in command of his regiment in the field, he was elected to Congress and resigned his commission in 1863. Morrison died in 1909 in Waterloo, Illinois. Melville highlights here the inaccuracy of circulated news in the Civil War. “Death of Colonel William R. Morrison.” Journal of the Illinois State Historical Society (1908-1984) 2.3 (October 1909): 111-113.</note></hi></l>
 		        <l rend="4em"><hi rend="italic">Killed while cheering his regiment on.</hi></l>
 		        <l rend="2em"><hi rend="italic">Their far sharpshooters try our stuff;</hi></l>
 		        <l rend="2em"><hi rend="italic">And ours return them puff for puff:</hi></l>
-		        <l rend="2em"><hi rend="italic">&apos;Tis <ref target="#ref_21198">diamond-cutting-diamond work</ref><note xml:id="ref_21198">New York City, where Melville resided from 1863-1891, became a diamond cutting center in the 1870s.  DIAMOND and ADAMANT share the same Latin root “adamas”. ADAMANT: “A very hard or impenetrable stone; a name given to the diamond and other substances of extreme hardness” (“adamant” Webster’s Dictionary 1846). “Diamond Cutting in New York.” Scientific American (1845-1908) XXVI.16 (Apr 13, 1872): 241.</note>.</hi></l>
+		        <l rend="2em"><hi rend="italic">&apos;Tis <ref target="#ref_21198">diamond-cutting-diamond work</ref><note xml:id="ref_21198">New York City became a diamond cutting center in the 1870s.  DIAMOND and ADAMANT share the same Latin root “adamas”. ADAMANT: “A very hard or impenetrable stone; a name given to the diamond and other substances of extreme hardness” (“adamant” Webster’s Dictionary 1846). “Diamond Cutting in New York.” Scientific American (1845-1908) XXVI.16 (Apr 13, 1872): 241.</note>.</hi></l>
 		        <l rend="4em"><hi rend="italic">Woe on the rebel cannoneer</hi></l>
 		        <l rend="2em"><hi rend="italic">Who shows his head. Our fellows lurk</hi></l>
 		        <l rend="4em"><hi rend="italic">Like Indians that waylay the deer</hi></l>
@@ -476,7 +476,7 @@
 
 		        <lg>
 		            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0056.jpg"/>
-		        <l rend="2em"><hi rend="italic">1 P.M.</hi></l>
+		        <l rend="2em">1 <hi rend="italic">P.M.</hi></l>
 		        <l rend="8em"><hi rend="italic">An order given</hi></l>
 		        <l rend="4em"><hi rend="italic">Requires withdrawal from the front</hi></l>
 		        <l rend="4em"><hi rend="italic">Of regiments that bore the brunt</hi></l>
