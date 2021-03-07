@@ -22,7 +22,7 @@
 	</teiHeader>
 		<text>
 		    <body><div xml:id="donelson"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0041.jpg"/>
-				<head><hi rend="italic"><ref target="#ref_21098">Donelson</ref></hi><note xml:id="ref_21098">Cohen suggests there is close correlation between the poem and various accounts presented in <hi rend="italic">The Rebellion Record</hi> on the events at Fort Donelson (see Cohen’s Introduction, particularly pp. 16–19). The battle at Fort Donelson, near Dover, Tennessee, from February 12, 1862 to February 16, 1862, ended with Confederate forces surrendering the fort to General Grant and abandoning its positions in Kentucky and northern Tennessee.</note>.</head><lb/><head type="sub-head">(<hi rend="smallcaps">February</hi>, 1862.)</head>
+				<head><hi rend="italic"><ref target="#ref_21098">Donelson</ref></hi><note xml:id="ref_21098">Cohen suggests there is close correlation between the poem and various accounts presented in <hi rend="italic">The Rebellion Record</hi> on the events at Fort Donelson (see Cohen’s Introduction, particularly pp. 16–19). The battle at Fort Donelson, near Dover, Tennessee, from 12 to 16 February 1862, ended with Confederate forces surrendering the fort to General Grant and abandoning its positions in Kentucky and northern Tennessee.</note>.</head><lb/><head type="sub-head">(<hi rend="smallcaps">February</hi>, 1862.)</head>
 
 <lg>
     <l rend="2em"><hi rend="smallcaps">The</hi> bitter cup</l>
@@ -514,7 +514,7 @@
 		        </lg>
 
 		        <lg>
-		            <l rend="2em"><hi rend="italic"><name ref="https://www.wikidata.org/wiki/Q357102" type="reference">Lew Wallace</name>, moving to retake</hi></l>
+		            <l rend="2em"><hi rend="italic"><ref target="https://www.wikidata.org/wiki/Q357102" type="reference"><name type="person">Lew Wallace</name></ref>, moving to retake</hi></l>
 		        <l rend="2em"><hi rend="italic">The heights late lost—</hi></l>
 		        <l rend="10em"><hi rend="italic">(Herewith a break.</hi></l>
 		        <l rend="4em"><hi rend="italic">Storms at the West derange the wires.</hi></l>
