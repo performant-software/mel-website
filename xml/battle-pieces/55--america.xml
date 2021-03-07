@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>55 - America</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,13 +18,14 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div xmlns="" id="55--america"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001944253-4dbv9t56eev78pvi-d223b2b208f3047f4086d3fd350e5d52%2F170.jpg"/>America
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">I.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Where the wings of a sunny Dome expand
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
+Where the wings of a sunny Dome expand
 I saw a Banner in gladsome air—
 Starry, like <ref target="#ref_20973">Berenice&apos;s Hair</ref><note xml:id="ref_20973">Coma Berenices is the only modern constellation named  for a historical figure: Queen Berenice II of Egypt, wife of King Ptolemy Eugeretes (c. 248 B.C.E.) who sacrificed her long hair as a votive offering to Venus. [Allusion, astronomical]
 "Bringer of Victory," from pherein "to bring" and nike "victory" [etymology] </note>—
@@ -45,18 +46,9 @@ And over the spear-point of the shaft
   I saw the ambiguous lightning play.
 Valor with Valor strove, and died:
 Fierce was Despair, and cruel was Pride;
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001961568-fs4dakaekuqe61or-d223b2b208f3047f4086d3fd350e5d52%2F172.jpg"/>A clear calm look. It spake of pain,
-But such as purifies from stain—
-Sharp pangs that never come again—
-  And triumph repressed by knowledge meet,
-Power dedicate, and hope grown wise,
-  And youth matured for age&apos;s seat—
-Law on her brow and empire in her eyes.
-  So she, with graver air and lifted flag;
-While the shadow, chased by light,
-Fled along the far-drawn height,
-  And left her on the crag.
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001957314-3v9pzvfyu89cc8fr-d223b2b208f3047f4086d3fd350e5d52%2F171.jpg"/>And the lorn Mother speechless stood,
+
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001957314-3v9pzvfyu89cc8fr-d223b2b208f3047f4086d3fd350e5d52%2F171.jpg"/>
+And the lorn Mother speechless stood,
 Pale at the fury of her brood.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">III.
@@ -87,6 +79,18 @@ And the dreamer lying in that starry shroud.
 At her feet a shivered yoke,
 And in her aspect turned to heaven
   No trace of passion or of strife—
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001961568-fs4dakaekuqe61or-d223b2b208f3047f4086d3fd350e5d52%2F172.jpg"/>
+	A clear calm look. It spake of pain,
+	But such as purifies from stain—
+	Sharp pangs that never come again—
+	  And triumph repressed by knowledge meet,
+	Power dedicate, and hope grown wise,
+	  And youth matured for age&apos;s seat—
+	Law on her brow and empire in her eyes.
+	  So she, with graver air and lifted flag;
+	While the shadow, chased by light,
+	Fled along the far-drawn height,
+	  And left her on the crag.
 </p></div></body>
 		</text>
 	</TEI>
