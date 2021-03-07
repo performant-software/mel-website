@@ -28,7 +28,7 @@ function initNotes() {
     // for tei-ref that are not references, create a popup tooltip
     // that displays the associated tei-note
     for( const teiRefEl of teiRefEls ) {
-        const type = teiRefEl.getAttribute('target')
+        const type = teiRefEl.getAttribute('type')
         if( type !== 'reference' ) {
             tippy( teiRefEl, {
                 content: (reference) => {
