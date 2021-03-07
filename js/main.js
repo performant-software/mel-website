@@ -4,7 +4,7 @@ function initNotes() {
     let nextID = 0
     const nextWindowAnchorID = () => nextID++
 
-    // add loadInfoWindow callbacks 
+    // add loadInfoWindow callbacks
     const teiRefEls = document.getElementsByTagName('tei-ref')
     for( const teiRefEl of teiRefEls ) {
         const type = teiRefEl.getAttribute('type')
@@ -12,8 +12,8 @@ function initNotes() {
             const target = teiRefEl.getAttribute('target')
             const anchorID = nextWindowAnchorID()
             teiRefEl.setAttribute("data-window-anchor", anchorID )
-            teiRefEl.setAttribute("onclick", `loadInfoWindow("${target}",${anchorID})`)                     
-        } 
+            teiRefEl.setAttribute("onclick", `loadInfoWindow("${target}",${anchorID})`)
+        }
     }
 
     // create callbacks for tei-name
@@ -22,24 +22,24 @@ function initNotes() {
         const target = teiNameEl.getAttribute('ref')
         const anchorID = nextWindowAnchorID()
         teiNameEl.setAttribute("data-window-anchor", anchorID )
-        teiNameEl.setAttribute("onclick", `loadInfoWindow("${target}",${anchorID})`)                     
+        teiNameEl.setAttribute("onclick", `loadInfoWindow("${target}",${anchorID})`)
     }
 
-    // for tei-ref that are not references, create a popup tooltip 
+    // for tei-ref that are not references, create a popup tooltip
     // that displays the associated tei-note
     for( const teiRefEl of teiRefEls ) {
-        const type = teiRefEl.getAttribute('type')
+        const type = teiRefEl.getAttribute('target')
         if( type !== 'reference' ) {
             tippy( teiRefEl, {
                 content: (reference) => {
                     const id = reference.getAttribute('target').slice(1)
                     const note = document.getElementById(id)
-                    return note.innerHTML 
+                    return note.innerHTML
                 },
                 allowHTML: true,
                 interactive: true,
-                theme: 'light-border'            
-            })        
+                theme: 'light-border'
+            })
         }
     }
 
@@ -59,8 +59,8 @@ function initNotes() {
             },
             allowHTML: true,
             interactive: true,
-            theme: 'light-border'            
-        }) 
+            theme: 'light-border'
+        })
     }
 }
 
@@ -77,10 +77,10 @@ function highlightImage( on, id ) {
     } else {
         document.getElementById(id).classList.remove("highlight-image")
     }
-} 
+}
 
 function initThumbs(tlLeaf,iiif) {
-    // go through all the facs attributes and render them to the sidebar 
+    // go through all the facs attributes and render them to the sidebar
     const thumbnailMarginEl = document.getElementById('thumbnail-margin')
     const facsEls = document.querySelectorAll('[facs]')
     let i = 0
@@ -91,14 +91,14 @@ function initThumbs(tlLeaf,iiif) {
         facsEl.id = `inline-${imageEl.id}`
         imageEl.classList.add('thumbnail')
         imageEl.style.top = `${facsEl.offsetTop}px`
-        imageEl.setAttribute('src',url) 
+        imageEl.setAttribute('src',url)
         const onClickFn = tlLeaf ? `window.open("${facsEl.getAttribute('tl_leaf')}")` : `createImageWindow("${imageEl.id}","${url}")`
         imageEl.setAttribute('onclick',onClickFn)
         imageEl.setAttribute('onmouseenter',`highlightImage( true, "${facsEl.id}"); highlightImage( true, "${imageEl.id}")`)
         imageEl.setAttribute('onmouseleave',`highlightImage( false, "${facsEl.id}"); highlightImage( false, "${imageEl.id}")`)
         thumbnailMarginEl.appendChild(imageEl)
 
-        // create an icon which is linked to the image 
+        // create an icon which is linked to the image
         facsEl.innerHTML=`<img onclick='${onClickFn}' style="padding-top: 2px" height="15" width="12" src="/images/pb.png"/>`
         facsEl.setAttribute('onmouseenter',`highlightImage( true, "${imageEl.id}"); highlightImage( true, "${facsEl.id}")`)
         facsEl.setAttribute('onmouseleave',`highlightImage( false, "${imageEl.id}"); highlightImage( false, "${facsEl.id}")`)
