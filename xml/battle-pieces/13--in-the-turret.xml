@@ -23,7 +23,7 @@
 			<body><div xml:id="in-the-turret">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0063.jpg"/>
 				<head type="main"><hi rend="italic">In the Turret.</hi> </head>
-<head type="sub-head">(March, 1862.)</head>
+<head type="sub-head">(<hi rend="smallcaps">March</hi>, 1862.)</head>
 
 				<lg>
 					<l><hi rend="smallcaps"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:184" type="person">Your</name></hi> honest heart of <ref target="#ref_19284">duty</ref><note xml:id="ref_19284">"The dominant note of characterization, 'duty,' is struck in the first line and surges in crescendo to be repeated five times in the last stanza." William B. Schurr,  <hi rend="italic">The Mystery of Iniquity</hi>,  p. 35.</note>, <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:909" type="artwork">Worden</name>,</l>
@@ -45,11 +45,8 @@
 	<l rend="2em"><ref target="#ref_19285">Cribbed</ref><note xml:id="ref_19285">Cf. Macbeth, after he has just experienced his first reversal: "Most royal sir, Fleance is "scaped." To which Macbeth replies, "Then comes my fit again: I had else been perfect, / Whole as the marble, founded as the rock, / As broad and general as the casing air: / But now I am cabin'd, cribb'd, confined, bound in / To saucy doubts and fears." (Act III, scene iv; William B. Shurr, <hi rend="italic">Mystery of Iniquity</hi>, p. 36).</note> in a craft which like a log</l>
 <l>Was washed by every billow&apos;s motion—</l>
 <l rend="2em">By night you heard of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:187" type="person">Og</name></l>
-	<l n="15">The huge; nor felt your courage clog.</l>
-</lg>
-				
-<lg>
-	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0064.jpg"/><l>At tokens of his onset grim:</l>
+	<l n="15">The huge; nor felt your courage clog</l>
+					<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0064.jpg"/>At tokens of his onset grim:</l>
 <l>You marked the sunk ship&apos;s flag-staff slim,</l>
 <l rend="2em">Lit by her burning sister&apos;s heart;</l>
 <l>You marked, and mused: “Day brings the trial:</l>
