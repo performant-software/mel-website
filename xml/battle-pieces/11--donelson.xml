@@ -47,8 +47,8 @@
                    <l rend="4em"><hi rend="italic">Marching from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:458" type="place">Henry</name> overland</hi></l>
                <l rend="2em"><hi rend="italic">And joined by a force up the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:459" type="place">Cumberland</name> sent</hi></l>
                    <l rend="4em"><hi rend="italic">(Some thirty thousand the command),</hi></l>
-    <l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0042.jpg"/><hi rend="italic"> On <ref target="#ref_19085"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Wednesday</name></ref><note xml:id="ref_19085">February 12,1862</note> a good position won—</hi></l>
-    <l rend="2em"><hi rend="italic">Began the siege of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l></lg>
+    <l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0042.jpg"/><hi rend="italic"> On <ref target="#ref_19085">Wednesday</ref><note xml:id="ref_19085">February 12, 1862.</note> a good position won—</hi></l>
+    <l rend="2em"><hi rend="italic">Began the siege of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Donelson</name>.</hi></l></lg>
 
                   <lg>
                       <l rend="2em"><hi rend="italic">This stronghold crowns a river-bluff,</hi></l>
@@ -514,7 +514,7 @@
 		        </lg>
 
 		        <lg>
-		            <l rend="2em"><hi rend="italic"><name ref="https://www.wikidata.org/wiki/Q357102" type="person">Lew Wallace</name>, moving to retake</hi></l>
+		            <l rend="2em"><hi rend="italic"><name ref="https://www.wikidata.org/wiki/Q357102" type="reference">Lew Wallace</name>, moving to retake</hi></l>
 		        <l rend="2em"><hi rend="italic">The heights late lost—</hi></l>
 		        <l rend="10em"><hi rend="italic">(Herewith a break.</hi></l>
 		        <l rend="4em"><hi rend="italic">Storms at the West derange the wires.</hi></l>
