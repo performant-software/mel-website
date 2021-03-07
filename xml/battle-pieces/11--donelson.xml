@@ -47,7 +47,7 @@
                    <l rend="4em"><hi rend="italic">Marching from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:458" type="place">Henry</name> overland</hi></l>
                <l rend="2em"><hi rend="italic">And joined by a force up the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:459" type="place">Cumberland</name> sent</hi></l>
                    <l rend="4em"><hi rend="italic">(Some thirty thousand the command),</hi></l>
-    <l rend="2em"><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0044.jpg"/><hi rend="italic"> On <ref target="#ref_19085"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Wednesday</name></ref><note xml:id="ref_19085">February 12,1862</note> a good position won—</hi></l>
+    <l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0042.jpg"/><hi rend="italic"> On <ref target="#ref_19085"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Wednesday</name></ref><note xml:id="ref_19085">February 12,1862</note> a good position won—</hi></l>
     <l rend="2em"><hi rend="italic">Began the siege of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l></lg>
 
                   <lg>
@@ -427,74 +427,84 @@
 		        </lg>
 
                    <lg>
-                       The reader ceased; the storm beat hard;
-                       &apos;Twas day, but the office-gas was lit;
-                   Nature retained her sulking-fit,
-                            In her hand the shard.
-                   Flitting faces took the hue
-                   Of that washed bulletin-board in view,
-                   And seemed to bear the public grief
-                   As private, and uncertain of relief;
-                   Yea, many an earnest heart was won,
-                       As broodingly he plodded on,
-                   To find in himself some bitter thing,
-                   Some hardness in his lot as harrowing
-                   As <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.
+                       <l>The reader ceased; the storm beat hard;</l>
+                       <l rend="2em">&apos;Twas day, but the office-gas was lit;</l>
+                       <l rend="2em">Nature retained her sulking-fit,</l>
+                       <l rend="6em">In her hand the shard.</l>
+                   <l>Flitting faces took the hue</l>
+                   <l>Of that washed bulletin-board in view,</l>
+                   <l>And seemed to bear the public grief</l>
+                   <l>As private, and uncertain of relief;</l>
+                   <l>Yea, many an earnest heart was won,</l>
+                       <l rend="2em">As broodingly he plodded on,</l>
+                   <l>To find in himself some bitter thing,</l>
+                   <l>Some hardness in his lot as harrowing</l>
+                   <l rend="8em">As <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</l>
 </lg>
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780676949-tgwvskt5u9s5rk9-4227022d31414728d879ad67cbfff5da%2F57.jpg"/>                   That night the board stood barren there,
-                       Oft eyed by wistful people passing,
-                       Who nothing saw but the rain-beads chasing
-                   Each other down the wafered square,
-                   As down some storm-beat grave-yard stone.
-                   But next day showed—
+		        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0055.jpg"/>
+		        <lg>
+		           <l>That night the board stood barren there,</l>
+		           <l rend="2em">Oft eyed by wistful people passing,</l>
+		           <l rend="2em">Who nothing saw but the rain-beads chasing</l>
+                   <l>Each other down the wafered square,</l>
+                   <l>As down some storm-beat grave-yard stone.</l>
+                   <l>But next day showed—</l>
+		        </lg>
 
-                                                             MORE NEWS LAST NIGHT.
+                                                             <lg>
+                                                                 <l rend="10em"><hi rend="smallcaps">More news last night.</hi></l>
+<lb/>
+                                                                 <l rend="4em"><hi rend="smallcaps">Story of Saturday afternoon.</hi></l>
+                                                                 <lb/>
+                                                                 <l rend="4em"><hi rend="smallcaps">Vicissitudes of the war.</hi></l></lg>
 
-                          STORY OF SATURDAY AFTERNOON.
+                       <lg>
+                           <l rend="4em"><hi rend="italic">The damaged gun-boats can&apos;t wage fight</hi></l>
+                           <l rend="2em"><hi rend="italic">For days; so says the Commodore.</hi></l>
+                           <l rend="2em"><hi rend="italic">Thus no diversion can be had</hi></l>
+                           <l rend="2em"><hi rend="italic">Under a sunless sky of lead</hi></l>
+                           <l rend="4em"><hi rend="italic">Our grim-faced boys in blackened plight</hi></l>
+                           <l rend="2em"><hi rend="italic">Gaze toward the ground they held before,</hi></l>
+                           <l rend="2em"><hi rend="italic">And then on Grant. He marks their mood,</hi></l>
+                           <l rend="2em"><hi rend="italic">And hails it, and will turn the same to good.</hi></l>
+                           <l rend="2em"><hi rend="italic">Spite all that they have undergone,</hi></l>
+                           <l rend="2em"><hi rend="italic">Their desperate hearts are set upon</hi></l>
+                           <l rend="2em"><hi rend="italic">This winter fort, this stubborn fort,</hi></l>
+                           <l rend="2em"><hi rend="italic">This castle of the last resort,</hi></l>
+                           <l rend="6em"><hi rend="italic">This <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
+                       </lg>
 
-                          VICISSITUDES OF THE WAR.
+		        <lg>
+		            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0056.jpg"/>
+		        <l rend="2em"><hi rend="italic">1 P.M.</hi></l>
+		        <l rend="8em"><hi rend="italic">An order given</hi></l>
+		        <l rend="4em"><hi rend="italic">Requires withdrawal from the front</hi></l>
+		        <l rend="4em"><hi rend="italic">Of regiments that bore the brunt</hi></l>
+		        <l rend="2em"><hi rend="italic">Of morning&apos;s fray. Their ranks all riven</hi></l>
+		        <l rend="2em"><hi rend="italic">Are being replaced by fresh, strong men.</hi></l>
+		        <l rend="2em"><hi rend="italic">Great vigilance in the foeman&apos;s Den;</hi></l>
+		        <l rend="2em"><hi rend="italic">He snuffs the stormers. Need it is</hi></l>
+		        <l rend="2em"><hi rend="italic">That for that fell assault of his</hi></l>
+		        <l rend="2em"><hi rend="italic">That rout inflicted, and self scorn—</hi></l>
+		        <l rend="2em"><hi rend="italic">Immoderate in noble natures, torn</hi></l>
+		        <l rend="2em"><hi rend="italic">By sense of being through slackness overborne—</hi></l>
+		        <l rend="2em"><hi rend="italic">The rebel be given a quick return:</hi></l>
+		        <l rend="2em"><hi rend="italic">The kindest face looks now half stern.</hi></l>
+		        <l rend="2em"><hi rend="italic">Balked of their prey in airs that freeze,</hi></l>
+		        <l rend="2em"><hi rend="italic">Some fierce ones glare like savages.</hi></l>
+		        <l rend="2em"><hi rend="italic">And yet, and yet, strange moments are—</hi></l>
+		        <l rend="2em"><hi rend="italic">Well—blood, and tears, and anguished War!</hi></l>
+		        <l rend="2em"><hi rend="italic">The mornings battle-ground is seen</hi></l>
+		        <l rend="4em"><hi rend="italic">In lifted glades, like meadows rare;</hi></l>
+		            <l rend="4em"><hi rend="italic">The blood-drops on the snow-crust there</hi></l>
+		        <l rend="2em"><hi rend="italic">Like clover in the white-weed show—</hi></l>
+		        <l rend="4em"><hi rend="italic">Flushed fields of death, that call again—</hi></l>
+		            <l rend="4em"><hi rend="italic">Call to our men, and not in vain,</hi></l>
+		        <l rend="2em"><hi rend="italic">For that way must the stormers go.</hi></l>
+		        </lg>
 
-                       <hi rend="italic">The damaged gun-boats can&apos;t wage fight
-                   For days; so says the Commodore.
-                   Thus no diversion can be had
-                   Under a sunless sky of lead
-                       Our grim-faced boys in blackened plight
-                   Gaze toward the ground they held before,
-                   And then on Grant. He marks their mood,
-                   And hails it, and will turn the same to good.
-                   Spite all that they have undergone,
-                   Their desperate hearts are set upon
-                   This winter fort, this stubborn fort,
-                   This castle of the last resort,
-                   This <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</.</hi>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780680241-470px1z0teyzxgvi-4227022d31414728d879ad67cbfff5da%2F58.jpg"/>                   <hi rend="italic">1 P.M.
-                                               An order given</hi>
-                     <hi rend="italic">  Requires withdrawal from the front
-                       Of regiments that bore the brunt
-                   Of morning&apos;s fray. Their ranks all riven
-                   Are being replaced by fresh, strong men.
-                   Great vigilante in the foeman&apos;s Den;
-                   He snuffs the stormers. Need it is
-                   That for that fell assault of his
-                   That rout inflicted, and self scorn—
-                   Immoderate in noble natures, torn
-                   By sense of being through slackness overborne—
-                   The rebel be given a quick return:
-                   The kindest face looks now half stern.
-                   Balked of their prey in airs that freeze,
-                   Some fierce ones glare like savages.
-                   And yet, and yet, strange moments are—
-                   Well—blood, and tears, and anguished War!
-                   The mornings battle-ground is seen
-                       In lifted glades, like meadows rare;
-                       The blood-drops on the snow-crust there
-                   Like clover in the white-weed show—
-                       Flushed fields of death, that call again—
-                       Call to our men, and not in vain,
-                   For that way must the stormers go.</hi>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780683291-v3rqvt0rpki6bt9-4227022d31414728d879ad67cbfff5da%2F59.jpg"/>                   <hi rend="italic">3 P.M.
+		        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0057.jpg"/>
+		        <hi rend="italic">3 P.M.
                                          The work begins.
                    Light drifts of men thrown forward, fade
                        In skirmish-line along the slope,
