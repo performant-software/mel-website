@@ -31,7 +31,7 @@
 	<!--  <note xml:id="ref_20995">The syllabic mellifluousness of the name Cumberland on the surface meter of the poem is itself obstructed by the poem's own hidden semantic thickets. Faith Barrett claims that Melville was “torn between a desire to critique nationalist poetry and a desire for the consolations that a nationalist poetry might offer.”</note> This note does not actually clarify the meaning of the line [CO]. -->
 <l>Are pledge that they shall ever live renowned;</l>
 <l rend="6em">Such seems to be</l>
-<l>A Frigate&apos;s name (by present glory spanned)—</l>
+<l n="5">A Frigate&apos;s name (by present glory spanned)—</l>
 <l rend="6em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:908" type="artwork">Cumberland</name>.</l>
 </lg>
 <lg>
@@ -40,12 +40,12 @@
 <l rend="10em">Cumberland! Cumberland!</l>
 </lg>
 <lg>
-	<l>She <ref target="#ref_20996">warred and sunk</ref><note xml:id="ref_20996">In the same waters where the Cumberland retained its flag, the naval ship with the symbolic name the USS United States -- on which Melville had served and written about in <hi rend="italic">White-Jacket</hi> -- had earlier been scuttled to prevent its getting in the hands of the Confederates.</note>. There&apos;s no denying</l>
+	<l n="10">She <ref target="#ref_20996">warred and sunk</ref><note xml:id="ref_20996">In the same waters where the Cumberland retained its flag, the naval ship with the symbolic name the USS United States -- on which Melville had served and written about in <hi rend="italic">White-Jacket</hi> -- had earlier been scuttled to prevent its getting in the hands of the Confederates.</note>. There&apos;s no denying</l>
 <l rend="2em">That she was ended—quelled;</l>
 <l>And yet her flag above her fate is flying,</l>
 <l rend="6em">As when it swelled</l>
 <l>Unswallowed by the swallowing sea: so grand—</l>
-		<l rend="6em">The Cumberland.</l>
+		<l n="15" rend="6em">The Cumberland.</l>
 </lg>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0062.jpg"/>
 				<lg>
@@ -55,7 +55,7 @@
 				</lg>
 <lg>
 <l>What need to tell how she was fought—</l>
-<l rend="2em">The sinking flaming gun—</l>
+<l n="20" rend="2em">The sinking flaming gun—</l>
 <l>The gunner leaping out the port—</l>
 <l rend="6em">Washed back, undone!</l>
 <l>Her dead unconquerably manned</l>
@@ -63,21 +63,21 @@
 </lg>
 				
 <lg>
-<l rend="10em">Noble name as ere was sung,</l>
+<l n="25" rend="10em">Noble name as ere was sung,</l>
 <l rend="10em">Slowly roll it on the tongue—</l>
 <l rend="10em">Cumberland! Cumberland!</l>
 </lg>
 <lg>
 <l>Long as hearts shall share the flame</l>
 <l rend="2em">Which burned in that brave crew,</l>
-<l>Her fame shall live—outlive the victor&apos;s name;</l>
+<l n="30">Her fame shall live—outlive the victor&apos;s name;</l>
 <l rend="6em">For this is due.</l>
 <l>Your flag and flag-staff shall in story stand—</l>
 <l rend="6em">Cumberland!</l>
 </lg>
 				<lg>
 					<l rend="10em">Sounding name as ere was sung,</l>
-					<l rend="10em">Long they&apos;ll roll it on the tongue—</l>
+					<l n="35" rend="10em">Long they&apos;ll roll it on the tongue—</l>
 						<l rend="10em">Cumberland! Cumberland!</l>
 				</lg>
 </div></body>
