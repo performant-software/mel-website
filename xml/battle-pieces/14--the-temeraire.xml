@@ -22,7 +22,7 @@
 		<text>
 			<body><div xml:id="the-temeraire">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0066.jpg"/>
-				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:910" type="artwork">The Temeraire</name>.</hi><ref target="#hm_note14"><hi rend="super">c</hi></ref></head>
+				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:910" type="artwork">The Temeraire</name>.</hi><hi rend="super">c</hi></head>
 <head type="sub-head"><hi rend="italic">(Supposed to have been suggested to an Englishman of the old<lb/>
              order by the fight of the Monitor and Merrimac.)</hi> </head>
 
