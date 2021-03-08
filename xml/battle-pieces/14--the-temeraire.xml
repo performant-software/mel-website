@@ -54,7 +54,7 @@
 <l>O Ship, how brave and fair,</l>
 <l rend="2em">That fought so oft and well,</l>
 <l>On open decks you manned the gun</l>
-<l n="20" rend="6em">Armorial.</l>
+<l n="20" rend="6em">Armorial.<ref target="#hm_note14d">d</ref></l>
 <l>What cheerings did you share,</l>
 <l rend="2em">Impulsive in the van,</l>
 <l>When down upon leagued <name ref="https://mel-catalog.herokuapp.com/api/entries/place:10" type="place">France</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:11" type="place">Spain</name></l>
@@ -108,8 +108,9 @@
 <l rend="2em">O, the Temeraire no more!</l>
 </lg>
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/>
-<note xml:id="hm_note14">[Melville's note:] The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</note>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/><p>[Notes page]</p>
+<note xml:id="hm_note14c">[Melville's note:] The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</note>
+<note xml:id="hm_note14d">[Melville's note:] Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shades that <name type="person">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them–field-pieces–captured in our earlier wars, are preserved in arsenals and navy-yards.</note>
 
 </div></body>
 		</text>
