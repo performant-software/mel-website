@@ -601,7 +601,7 @@ tei-TEI tei-head {
 }
 tei-head[type="sub-head"] {
   display: block;
-  font-size: 125%;
+  font-size: 110%;
 }
 tei-head[type="main"] {
   display: block;
