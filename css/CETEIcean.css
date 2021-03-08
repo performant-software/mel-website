@@ -678,7 +678,7 @@ tei-hi[rend="bold"] {
 }
 tei-hi[rend="super"] {
   vertical-align: super;
-  font-size: 50%;
+  font-size: 70%;
 }
 tei-hi {
   /* GLS: do we want to bold this or change the background color? */
