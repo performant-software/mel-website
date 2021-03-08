@@ -601,11 +601,11 @@ tei-TEI tei-head {
 }
 tei-head[type="sub-head"] {
   display: block;
-  font-size: 110%;
+  font-size: 125%;
 }
 tei-head[type="main"] {
   display: block;
-  font-size: 125%;
+  font-size: 150%;
 }
 tei-body > tei-head {
   font-size: 150%;
