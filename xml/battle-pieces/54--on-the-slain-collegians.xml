@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>54 - On the Slain Collegians</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,78 +15,104 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="54--on-the-slain-collegians"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001873266-c73ce1gqnhppsyvi-8624a4c5c624ec1e36378c7018c8cc37%2F167.jpg"/><ref target="#ref_21218">On the Slain Collegians
-</ref><note xml:id="ref_21218">THE SECOND AND THIRD PAGES OF THIS POEM ARE OUT OF ORDER.
+			<body><div id="54--on-the-slain-collegians">
 
-[Eric Meckley]</note>
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Youth is the time when hearts are large,
-    And stirring wars
-Appeal to the spirit which appeals in turn
-    To the blade it draws.
-If woman incite, and duty show
-  (Though made the mask of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:195" type="person">Cain</name>),
-Or whether it be Truth&apos;s sacred cause,
-    <ref target="#ref_21216">Who can aloof remain
-That shares youth&apos;s ardor</ref><note xml:id="ref_21216">This recalls Melville's invented Iroquois proverb which concludes the earlier poem "Apathy and Enthusiasm," which laments many young men's headlong rush to take up arms in the conflict. 
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0165.jpg"/>
+				<head type="main">
+				<hi rend="italic">On the Slain Collegians.</hi>
+				<ref target="#BP_noteT"><hi rend="super">t</hi></ref> 
+<note xml:id="BP_noteT"><hi rend="smallcaps">Note t</hi>, <hi rend="italic">page</hi> 157.<p>The records of Northern colleges attest what numbers of our noblest youth went from them to the battle-field. Southern members of the same classes arrayed themselves on the side of Secession; while Southern seminaries contributed large quotas. Of all these, what numbers marched who never returned except on the shield</p></note>
 
-[Eric Meckley]</note>, uncooled by the snow
-    Of wisdom or sordid gain?
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The liberal arts and nurture sweet
-Which give his gentleness to man—
-  Train him to honor, lend him grace
-Through bright examples meet—
-That culture which makes never wan
-With underminings deep, but holds
-  The surface still, its fitting place,
-  And so gives sunniness to the face
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001880759-ahsr4q5lx6crf6r-8624a4c5c624ec1e36378c7018c8cc37%2F169.jpg"/>By priests and mothers in the name of Heaven;
-    And honor in both was chief.
-Warred one for Right, and one for Wrong?
-So be it; but they both were young—
-Each grape to his cluster clung,
-All their elegies are sung.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The anguish of maternal hearts
-  Must search for balm divine;
-But well the striplings bore their fated parts
-  (The heavens all parts assign)—
-Never felt life&apos;s care or cloy.
-Each bloomed and died an unabated Boy;
-Nor dreamed what death was—thought it mere
-Sliding into some vernal sphere.
-They knew the joy, but leaped the grief,
-Like plants that flower ere comes the leaf—
-Which storms lay low in kindly doom,
-And kill them in their flush of bloom.<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001877303-zcmiwryuzr9c0udi-8624a4c5c624ec1e36378c7018c8cc37%2F168.jpg"/>And bravery to the heart; what troops
-  Of generous boys in happiness thus bred—
-  Saturnians through life&apos;s Tempe led,
-Went from the North and came from the South,
-With golden mottoes in the mouth,
-  To lie down midway on a bloody bed.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Woe for the homes of the North,
-And woe for the seats of the South;
-All who felt life&apos;s spring in prime,
-And were swept by the wind of their place and time—
-  All lavish hearts, on whichever side,
-Of birth urbane or courage high,
-Armed them for the stirring wars—
-Armed them—some to die.
-    <name ref="https://mel-catalog.herokuapp.com/api/entries/person:206" type="person">Apollo</name>-like in pride,
-Each would slay his <ref target="#ref_21217">Python</ref><note xml:id="ref_21217">A serpent in Greek mythology thought to be at Delphi. 
-
-[Eric Meckley]</note>—caught
-The maxims in his temple taught—
-  Aflame with sympathies whose blaze
-Perforce enwrapped him—social laws,
-  Friendship and kin, and by-gone days—
-Vows, kisses—every heart unmoors,
-And launches into the seas of wars.
-What could they else—North or South?
-Each went forth with blessings given
-</p></div></body>
+<!--<p>NOTE S, page 153: Shortly prior to the evacuation of Peersburg, the enemy, with a view to ultimate repossession, interred some of his heavy guns in the same field with his dead, and with every circumstance calculated to deceive. Subsequently the negroes exposed the strategm.</p>
+-->
+				</head>
+<lg>
+<l><hi rend="smallcaps">Youth</hi> is the time when hearts are large,</l>
+<l rend="4em">And stirring wars</l>
+<l>Appeal to the spirit which appeals in turn</l>
+<l rend="4em">To the blade it draws.</l>
+<l>If woman incite, and duty show</l>
+<l rend="2em">(Though made the mask of Cain),</l>
+<l>Or whether it be Truth&apos;s sacred cause,</l>
+<l rend="4em">Who can aloof remain</l>
+<l>That shares youth&apos;s ardor, uncooled by the snow</l>
+<l rend="4em">Of wisdom or sordid gain?</l>
+<!--<note >This recalls Melville's invented Iroquois proverb which concludes the earlier poem "Apathy and Enthusiasm," which laments many young men's headlong rush to take up arms in the conflict.
+[Eric Meckley]
+</note>
+-->
+</lg>
+<lb/>
+<lg>
+<l>The liberal arts and nurture sweet</l>
+<l>Which give his gentleness to man—</l>
+<l rend="2em">Train him to honor, lend him grace</l>
+<l>Through bright examples meet—</l>
+<l>That culture which makes never wan</l>
+<l>With underminings deep, but holds</l>
+<l rend="2em">The surface still, its fitting place,</l>
+<l rend="2em">And so gives sunniness to the face</l>
+</lg>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0166.jpg"/>
+<lg>
+<l>And bravery to the heart; what troops</l>
+<l rend="2em">Of generous boys in happiness thus bred—</l>
+<l rend="2em">Saturnians through life&apos;s Tempe led,</l>
+<l>Went from the North and came from the South,</l>
+<l>With golden mottoes in the mouth,</l>
+<l rend="2em">To lie down midway on a bloody bed.</l>
+</lg>
+<lb/>
+<lg>
+<l>Woe for the homes of the North,</l>
+<l>And woe for the seats of the South;</l>
+<l>All who felt life&apos;s spring in prime,</l>
+<l>And were swept by the wind of their place and time—</l>
+<l rend="2em">All lavish hearts, on whichever side,</l>
+<l>Of birth urbane or courage high,</l>
+<l>Armed them for the stirring wars—</l>
+<l>Armed them—some to die.</l>
+<l rend="4em">Apollo-like in pride,</l>
+<l>Each would slay his Python—caught</l>
+<!--<note>A serpent in Greek mythology thought to be at Delphi. [Eric Meckley]
+</note>
+-->
+<l>The maxims in his temple taught—</l>
+<l rend="2em">Aflame with sympathies whose blaze</l>
+<l>Perforce enwrapped him—social laws,</l>
+<l rend="2em">Friendship and kin, and by-gone days—</l>
+<l>Vows, kisses—every heart unmoors,</l>
+<l>And launches into the seas of wars.</l>
+<l>What could they else—North or South?</l>
+<l>Each went forth with blessings given</l>
+</lg>
+<lb/>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0167.jpg"/>
+<lg>
+<l>By priests and mothers in the name of Heaven;</l>
+<l rend="4em">And honor in both was chief.</l>
+<l>Warred one for Right, and one for Wrong?</l>
+<l>So be it; but they both were young—</l>
+<l>Each grape to his cluster clung,</l>
+<l>All their elegies are sung.</l>
+</lg>
+<lb/>
+<lg>
+<l>The anguish of maternal hearts</l>
+<l rend="2em">Must search for balm divine;</l>
+<l>But well the striplings bore their fated parts</l>
+<l rend="2em">(The heavens all parts assign)—</l>
+<l>Never felt life&apos;s care or cloy.</l>
+<l>Each bloomed and died an unabated Boy;</l>
+<l>Nor dreamed what death was—thought it mere</l>
+<l>Sliding into some vernal sphere.</l>
+<l>They knew the joy, but leaped the grief,</l>
+<l>Like plants that flower ere comes the leaf—</l>
+<l>Which storms lay low in kindly doom,</l>
+<l>And kill them in their flush of bloom.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
