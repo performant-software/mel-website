@@ -108,9 +108,9 @@
 <l rend="2em">O, the Temeraire no more!</l>
 </lg>
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/>
-<p><note xml:id="hm_note14c">[Melville's note c:] The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</note></p>
-<p><note xml:id="hm_note14d">[Melville's note:] Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shades that <name type="person">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them–field-pieces–captured in our earlier wars, are preserved in arsenals and navy-yards.</note></p>
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/>
+<p xml:id="hm_note14c">[Melville's note c:] The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</p>
+<p xml:id="hm_note14d">[Melville's note:] Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shades that <name type="person">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them–field-pieces–captured in our earlier wars, are preserved in arsenals and navy-yards.</p></div>
 </div></body>
 		</text>
 	</TEI>
