@@ -22,7 +22,7 @@
 		<text>
 			<body><div xml:id="the-temeraire">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0066.jpg"/>
-				<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:910" type="artwork">The Temeraire</name>.</hi><ref target="#hm_note14c"><hi rend="super">c</hi></ref></head>
+				<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:910" type="artwork">The Temeraire</name>.</hi><hi rend="super">c</hi></head>
 <head type="sub-head"><hi rend="italic">(Supposed to have been suggested to an Englishman of the old<lb/>
              order by the fight of the Monitor and Merrimac.)</hi> </head>
 
@@ -54,7 +54,7 @@
 <l>O Ship, how brave and fair,</l>
 <l rend="2em">That fought so oft and well,</l>
 <l>On open decks you manned the gun</l>
-<l n="20" rend="6em">Armorial.<ref target="#hm_note14d"><hi rend="super">d</hi></ref></l>
+<l n="20" rend="6em">Armorial.<hi rend="super">d</hi></l>
 <l>What cheerings did you share,</l>
 <l rend="2em">Impulsive in the van,</l>
 <l>When down upon leagued <name ref="https://mel-catalog.herokuapp.com/api/entries/place:10" type="place">France</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:11" type="place">Spain</name></l>
@@ -108,10 +108,9 @@
 <l rend="2em">O, the Temeraire no more!</l>
 </lg>
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/><p>[Melville's notes page]</p>
-<note xml:id="hm_note14c">[Melville's note:] The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</note>
-<note xml:id="hm_note14d">[Melville's note:] Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shades that <name type="person">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them–field-pieces–captured in our earlier wars, are preserved in arsenals and navy-yards.</note>
-
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/>
+<p><note xml:id="hm_note14c">[Melville's note c:] The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</note></p>
+<p><note xml:id="hm_note14d">[Melville's note:] Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shades that <name type="person">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them–field-pieces–captured in our earlier wars, are preserved in arsenals and navy-yards.</note></p>
 </div></body>
 		</text>
 	</TEI>
