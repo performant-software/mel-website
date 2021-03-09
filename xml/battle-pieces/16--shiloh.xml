@@ -20,7 +20,9 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="16--shiloh"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780998066-ato1233jo90vbo6r-9dc6b05db759d34f918b5ee5f4ca1919%2F73.jpg"/>                       <ref target="#ref_21103">Shiloh</ref><note xml:id="ref_21103">It "was Melville's bad luck that his 'Shiloh: A Requiem' would almost inevtoiabley suggest, by contrast, the very strikign poem of Mr. Forceyth Willson's, of which a great part of the scene is laid on the battle-field of Shiloh, called 'The Old Sergeant." New York Nation (Parker, II, 621) [Intertextuality] "The Old Sergeant" (1863) was republished in Edmund Clarence Stedman's An American Anthology, 1787-1900 (1900): https://www.bartleby.com/248/710.html</note>. 
+			<body><div xml:id="shiloh">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0071.jpg"/>
+				<ref target="#ref_21103">Shiloh</ref><note xml:id="ref_21103">It "was Melville's bad luck that his 'Shiloh: A Requiem' would almost inevtoiabley suggest, by contrast, the very strikign poem of Mr. Forceyth Willson's, of which a great part of the scene is laid on the battle-field of Shiloh, called 'The Old Sergeant." New York Nation (Parker, II, 621) [Intertextuality] "The Old Sergeant" (1863) was republished in Edmund Clarence Stedman's An American Anthology, 1787-1900 (1900): https://www.bartleby.com/248/710.html</note>. 
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">                      A Requiem.
 
