@@ -767,6 +767,7 @@ tei-kinesic {
 tei-l {
   display: block;
   width: 35em;
+  font-size: 12pt;
 }
 tei-l[rend="2em"] {
   display: block;
@@ -1134,8 +1135,8 @@ tei-p {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 13pt;
+  font-family: sans-serif;
+  font-size: 12pt;
   line-height: 1.42;
 }
 *[data-tei-rendition~="#center"] p {
