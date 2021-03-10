@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>51 - "Formerly a Slave"</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,25 +15,36 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="51--&quot;formerly-a-slave&quot;"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001784070-l6lepkfj7y88semi-ff9704a95e745cefbddccd571d7019ac%2F164.jpg"/>&quot;Formerly a Slave&quot;
-An idealized Portrait, by <name ref="https://mel-catalog.herokuapp.com/api/entries/person:205" type="person">E. Vedder</name>, in the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:28" type="event">Spring
-Exhibition of the National Academy, 1865</name>
+			<body><div id="51--&quot;formerly-a-slave&quot;">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The sufferance of her race is shown,
-  And retrospect of life,
-Which now too late deliverance dawns upon;
-  Yet is she not at strife.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Her children&apos;s children they shall know
-  The good withheld from her;
-And so her reverie takes prophetic cheer—
-  In spirit she sees the stir
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Far down the depth of thousand years,
-  And marks the revel shine;
-Her dusky face is lit with sober light,
-  Sibylline, yet benign.</p></div></body>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0162.jpg"/>
+<head type="main">
+<hi rend="italic">&quot;Formerly a Slave.&quot;</hi>
+</head>
+<head type="sub-head">
+<hi rend="italic">An idealized Portrait, by E. Vedder, in the Spring
+Exhibition of the National Academy, 1865.</hi>
+</head>
+<lg>
+<l><hi rend="smallcaps">The</hi> sufferance of her race is shown,</l>
+<l rend="2em">And retrospect of life,</l>
+<l>Which now too late deliverance dawns upon;</l>
+<l rend="2em">Yet is she not at strife.</l>
+</lg>
+<lg>
+<l n="5">Her children&apos;s children they shall know</l>
+<l rend="2em">The good withheld from her;</l>
+<l>And so her reverie takes prophetic cheer—</l>
+<l rend="2em">In spirit she sees the stir</l>
+</lg>
+<lg>
+<l>Far down the depth of thousand years,</l>
+<l n="10" rend="2em">And marks the revel shine;</l>
+<l>Her dusky face is lit with sober light,</l>
+<l rend="2em">Sibylline, yet benign.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
