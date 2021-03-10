@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>49 - The Released Rebel Prisoner</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,58 +15,82 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="49--the-released-rebel-prisoner"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001694061-22ukallm3gkchaor-711c594322893731cddffdc3bab2ecc7%2F160.jpg"/>The Released Rebel Prisoner
-(June, 1865)
+			<body><div id="49--the-released-rebel-prisoner">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Armies he&apos;s seen—the herds of war,
-  But never such swarms of men
-As now in the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:37" type="place"><ref target="#ref_20917"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:333" type="place">Nineveh</name> of the North</ref><note xml:id="ref_20917">[Allusion] New York City</note></name>—
-  How mad the Rebellion then!
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0158.jpg"/>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">And yet but dimly he divines
-  The depth of that deceit,
-And superstition of vast pride
-  Humbled to such defeat.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Seductive shone the Chiefs in arms—
-  His steel the nearest magnet drew;
-Wreathed with its kind, the Gulf-weed drives—
-  &apos;Tis Nature&apos;s wrong they rue.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">His face is hidden in his beard,
-  But his heart peers out at eye—
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1495041004073-avojh0ee5vs-bdc958479b9e4d5b46dc387f8d849f47%2Fbattle-pieces-ii-0161.jpg"/>And such a heart! like a mountain-pool
-  Where no man passes by.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">He thinks of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:378" type="person">Hill</name>—a brave soul gone;
-  And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:379" type="person">Ashby</name> dead in pale disdain;
-And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:380" type="person">Stuart</name> with the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:381" type="person">Rupert</name>-plume,
-  Whose blue eye never shall laugh again.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">He hears the drum; he sees our boys
-  From his wasted fields return;
-Ladies feast them on strawberries,
-  And even to kiss them yearn.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">He marks them bronzed, in soldier-trim,
-  The rifle proudly borne;
-They bear it for an heir-loom home,
-  And he—disarmed—jail-worn.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Home, home—his heart is full of it;
-  But home he never shall see,
-Even should he stand upon the spot;
-  &apos;Tis gone!—where his brothers be.<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1495041629359-jcrtsr6rwzd-bdc958479b9e4d5b46dc387f8d849f47%2Fbattle-pieces-ii-0162.jpg"/>The cypress-moss from tree to tree
-  Hangs in his Southern land;
-As weird, from thought to thought of his
-  Run memories hand in hand.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">And so he lingers—lingers on
-  In the City of the Foe—
-His cousins and his countrymen
-  Who see him listless go.
-</p></div></body>
+<head type="main">
+<hi rend="italic">The Released Rebel Prisoner.</hi>
+<ref target="#BP_noteR"><hi rend="super">r</hi></ref> 
+<note xml:id="BP_noteR"><hi rend="smallcaps">Note r</hi>, <hi rend="italic">page</hi> 150.
+<p>For a month or two after the completion of peace, some thousands of released captives from the military prisons of the North, natives of all parts of the South, passed through the city of New York, sometimes waiting farther transportation for days, during which interval they wandered penniless about the streets, or lay in their worn and patched gray uniforms under the trees of the Battery, near the barracks where they were lodged and fed. They were transported and provided for at the charge of government.
+</p></note>
+</head>
+<head type="sub-head">(<hi rend="smallcaps">June</hi>, 1865.)
+</head>
+<lg>
+<l><hi rend="smallcaps">Armies</hi> he&apos;s seen—the herds of war,</l>
+<l rend="2em">But never such swarms of men</l>
+<l>As now in the Nineveh of the North—</l>
+<l rend="2em">How mad the Rebellion then!</l>
+</lg>
+<lg>
+<l n="5">And yet but dimly he divines</l>
+<l rend="2em">The depth of that deceit,</l>
+<l>And superstition of vast pride</l>
+<l rend="2em">Humbled to such defeat.</l>
+</lg>
+<lg>
+<l>Seductive shone the Chiefs in arms—</l>
+<l n="10" rend="2em">His steel the nearest magnet drew;</l>
+<l>Wreathed with its kind, the Gulf-weed drives—</l>
+<l rend="2em">&apos;Tis Nature&apos;s wrong they rue.</l>
+</lg>
+<lg>
+<l>His face is hidden in his beard,</l>
+<l rend="2em">But his heart peers out at eye—</l>
+<l n="15"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0159.jpg"/>And such a heart! like a mountain-pool</l>
+<l rend="2em">Where no man passes by.</l>
+</lg>
+<lg>
+<l>He thinks of Hill—a brave soul gone;</l>
+<l rend="2em">And Ashby dead in pale disdain;</l>
+<l>And Stuart with the Rupert-plume,</l>
+<l n="20" rend="2em">Whose blue eye never shall laugh again.</l>
+</lg>
+<lg>
+<l>He hears the drum; he sees our boys</l>
+<l rend="2em">From his wasted fields return;</l>
+<l>Ladies feast them on strawberries,</l>
+<l rend="2em">And even to kiss them yearn.</l>
+</lg>
+<lg>
+<l n="25">He marks them bronzed, in soldier-trim,</l>
+<l rend="2em">The rifle proudly borne;</l>
+<l>They bear it for an heir-loom home,</l>
+<l rend="2em">And he—disarmed—jail-worn.</l>
+</lg>
+<lg>
+<l>Home, home—his heart is full of it;</l>
+<l n="30" rend="2em">But home he never shall see,</l>
+<l>Even should he stand upon the spot:</l>
+<l rend="2em">&apos;Tis gone!—where his brothers be.</l>
+</lg>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0159.jpg"/>
+<lg>
+<l>The cypress-moss from tree to tree</l>
+<l rend="2em">Hangs in his Southern land;</l>
+<l  n="35">As weird, from thought to thought of his</l>
+<l rend="2em">Run memories hand in hand.</l>
+</lg>
+<lg>
+<l>And so he lingers—lingers on</l>
+<l rend="2em">In the City of the Foe—</l>
+<l>His cousins and his countrymen</l>
+<l n="40" rend="2em">Who see him listless go.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
