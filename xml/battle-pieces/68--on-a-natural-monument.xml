@@ -46,7 +46,7 @@
 <l rend="2em">In cheer of hymns that round them float:</l>
 <l>In happy dreams such close the eye.</l>
 <l>But withering famine slowly wore,</l>
-<l rend="2em">And slowly fell disease did gloat.</l>
+<l n="10" rend="2em">And slowly fell disease did gloat.</l>
 <l>Even Nature&apos;s self did aid deny;</l>
 <l>They choked in horror the pensive sigh.</l>
 <l rend="2em">Yea, off from home sad Memory bore</l>
@@ -74,9 +74,8 @@
 (Leslie McAbee)
 </note>
 -->
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0187.jpg"/>
 <lg>
-<l>But naught shall now their peace molest.</l>
+<l n="20"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0187.jpg"/>But naught shall now their peace molest.</l>
 <!--
 <note xml:id="ref_19283">Miltonic Epic simile from lines 16-19—a simile of restrained length that typically represents a concrete and particular experience and often advances a brief fable that ennobles its subject. Milton scholars assert that the Miltonic simile is not just a decorative or entertaining digression.  See James Whaler’s “The Miltonic Simile” (1931) and L.D. Lerner’s “The Miltonic Simile” (1954) for further discussion and definition of Milton’s epic similes.  (Leslie McAbee) [poetics]
 </note>
