@@ -20,12 +20,14 @@
 			<body><div id="50--a-grave-near-petersberg,-virginia">
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0161.jpg"/>
+
 <head type="main">
-<hi rend="italic">A Grave near Petersberg, Virginia</hi>.<hi rend="super">s</hi></head>
-<!--
-<ref target=“#BP_noteS”>s</ref>
-<note xml:id=“BP_noteS”><hi rend="smallcaps">Note s</hi>, <hi rend="italic">page</hi> 153.<p>Shortly prior to the evacuation of Petersburg, the enemy, with a view to ultimate repossession, interred some of his heavy guns in the same field with his dead, and with every circumstance calculated to deceive. Subsequently the negroes exposed the stratagem.</p></note>
--->
+<hi rend="italic">A Grave near Petersberg, Virginia.</hi>
+<ref target="#BP_noteS"><hi rend="super">s</hi></ref> 
+<note xml:id="BP_noteS"><hi rend="smallcaps">Note s</hi>, <hi rend="italic">page</hi> 153.
+<p>Shortly prior to the evacuation of Petersburg, the enemy, with a view to ultimate repossession, interred some of his heavy guns in the same field with his dead, and with every circumstance calculated to deceive. Subsequently the negroes exposed the stratagem.
+</p></note>
+</head>
 <lg>
 <l><hi rend="smallcaps">Head-board</hi> and foot-board duly placed—</l>
 <l rend="2em">Grassed in the mound between;</l>
