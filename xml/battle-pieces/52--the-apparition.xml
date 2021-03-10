@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>52 - The Apparition</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,27 +15,39 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="52--the-apparition"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001815425-yk758eymy53lerk9-4887360d35cf5eafbb3a7fb7f57c522b%2F165.jpg"/>The Apparition
-(A Retrospect)
+			<body><div id="52--the-apparition">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:13" type="event">Convulsions came</name>; and, where <name ref="https://mel-catalog.herokuapp.com/api/entries/place:449" type="place"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:447" type="place">the field</name></name>
-  Long slept in pastoral green,
-A goblin-mountain was upheaved
-(Sure the scared sense was all deceived),
-  Marl-glen and slag-ravine.
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0163.jpg"/>
+				<head type="main">
+				<hi rend="italic">The Apparition.</hi>
+				</head>
+				<head type="sub-head">
+				<hi rend="italic">(A Retrospect.)</hi>
+				</head>
+<lg>
+<l><hi rend="smallcaps">Convulsions</hi> came; and, where the field</l>
+<l rend="2em">Long slept in pastoral green,</l>
+<l>A goblin-mountain was upheaved</l>
+<l>(Sure the scared sense was all deceived),</l>
+<l n="5" rend="2em">Marl-glen and slag-ravine.</l>
+</lg>
+<lg>
+<l>The unreserve of Ill was there,</l>
+<l rend="2em">The clinkers in her last retreat;</l>
+<l>But, ere the eye could take it in,</l>
+<l>Or mind could comprehension win,</l>
+<l n="10" rend="2em">It sunk!—and at our feet.</l>
+</lg>
+<lg>
+<l>So, then, Solidity&apos;s a crust—</l>
+<l rend="2em">The core of fire below;</l>
+<l>All may go well for many a year,</l>
+<l>But who can think without a fear</l>
+<l n="15" rend="2em">Of horrors that happen so?</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The unreserve of Ill was there,
-  The clinkers in her last retreat;
-But, ere the eye could take it in,
-Or mind could comprehension win,
-  It sunk!—and at our feet.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">So, then, Solidity&apos;s a crust—
-  The core of fire below;
-All may go well for many a year,
-But who can think without a fear
-  Of horrors that happen so?</p></div></body>
+</div></body>
 		</text>
 	</TEI>
