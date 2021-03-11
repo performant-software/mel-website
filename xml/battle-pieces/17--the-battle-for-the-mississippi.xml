@@ -20,7 +20,9 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="17--the-battle-for-the-mississippi"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781053114-hauwm18al594quxr-67199c4000fcdafd2c6e5e3443549843%2F74.jpg"/><name ref="https://mel-catalog.herokuapp.com/api/entries/event:43" type="event"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:44" type="event">The Battle for the Mississipp</name>i</name> 
+			<body><div xmlns="" id="17--the-battle-for-the-mississippi">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0072.jpg"/>
+				<name ref="https://mel-catalog.herokuapp.com/api/entries/event:43" type="event"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:44" type="event">The Battle for the Mississipp</name>i</name> 
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">(April, 1862.)
 
