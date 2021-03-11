@@ -22,33 +22,30 @@
 		<text>
 			<body><div xml:id="shiloh">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0071.jpg"/>
-				<ref target="#ref_21103">Shiloh</ref><note xml:id="ref_21103">It "was Melville's bad luck that his 'Shiloh: A Requiem' would almost inevtoiabley suggest, by contrast, the very strikign poem of Mr. Forceyth Willson's, of which a great part of the scene is laid on the battle-field of Shiloh, called 'The Old Sergeant." New York Nation (Parker, II, 621) [Intertextuality] "The Old Sergeant" (1863) was republished in Edmund Clarence Stedman's An American Anthology, 1787-1900 (1900): https://www.bartleby.com/248/710.html</note>. 
+				<head type="main"><ref target="#ref_21103"><hi rend="italic">Shiloh</hi></ref><note xml:id="ref_21103">It "was Melville's bad luck that his 'Shiloh: A Requiem' would suggest, by contrast, the striking poem of Mr. Forceyth Willson's, of which a great part of the scene is laid on the battle-field of Shiloh, called 'The Old Sergeant" (Parker, II, 621). "The Old Sergeant" (1863) was republished in Edmund Clarence Stedman's An American Anthology, 1787-1900 (1900): https://www.bartleby.com/248/710.html</note>. </head>
+<head type="sub-head"><hi rend="italic">A Requiem.</hi><lb/>
+(<hi rend="smallcaps">April</hi>, 1862.)</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">                      A Requiem.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">                     (April, 1862.)
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">                     ____________
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Skimming lightly, wheeling still,
-    The swallows fly low
-Over the field in clouded days,
-    The forest-field of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:463" type="place">Shiloh</name>—
-Over the field where April rain
-Solaced the parched ones stretched in pain
-Through the pause of night
-That followed <name ref="https://mel-catalog.herokuapp.com/api/entries/event:38" type="event">the Sunday fight</name>
-    Around the church of Shiloh—
-The church so lone, the log-built one,
-That echoed to many a parting groan
-        And natural prayer
-    Of dying foemen mingled there—
-Foemen at morn, but friends at eve—
-    Fame or country least their care:
-<ref target="#ref_20983">(What like a bullet can undeceive!)</ref><note xml:id="ref_20983">This line was quoted at the beginning of the short story, Memento Mori, by Jonathan Nolan which his older brother Christopher used to write the screenplay for the 2000 move "Memento." https://www.public.asu.edu/~srbeatty/366/MementoMori.pdf
-https://en.wikipedia.org/wiki/Memento_%28film%29 [Appropriation] [Style, Parenthesis] </note>
-    But now they lie low,
-While over them the swallows skim,
-    And all is hushed at <ref target="#ref_20984">Shiloh</ref><note xml:id="ref_20984">The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be. Genesis 49:10 [Allusion, biblical]</note>.</p></div></body>
+<lg>
+<l><hi rend="smallcaps">Skimming</hi> lightly, wheeling still,</l>
+<l rend="2em">The swallows fly low</l>
+<l>Over the field in clouded days,</l>
+<l rend="2em">The forest-field of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:463" type="place">Shiloh</name>—</l>
+<l n="5">Over the field where April rain</l>
+<l>Solaced the parched ones stretched in pain</l>
+<l>Through the pause of night</l>
+<l>That followed <name ref="https://mel-catalog.herokuapp.com/api/entries/event:38" type="event">the Sunday fight</name></l>
+<l rend="2em">Around the church of Shiloh—</l>
+<l n="10">The church so lone, the log-built one,</l>
+<l>That echoed to many a parting groan</l>
+<l rend="4em">And natural prayer</l>
+<l rend="2em">Of dying foemen mingled there—</l>
+<l>Foemen at morn, but friends at eve—</l>
+<l n="15" rend="2em">Fame or country least their care:</l>
+<l><ref target="#ref_20983">(What like a bullet can undeceive!)</ref><note xml:id="ref_20983">This line was quoted at the beginning of the short story, Memento Mori, by Jonathan Nolan which his older brother Christopher used to write the screenplay for the 2000 move "Memento" (https://www.public.asu.edu/~srbeatty/366/MementoMori.pdf
+https://en.wikipedia.org/wiki/Memento_%28film%29).</note></l>
+<l rend="2em">But now they lie low,</l>
+<l>While over them the swallows skim,</l>
+<l rend="2em">And all is hushed at <ref target="#ref_20984">Shiloh</ref><note xml:id="ref_20984">The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be. Genesis 49:10 [Allusion, biblical]</note>.</l></lg></div></body>
 		</text>
 	</TEI>
