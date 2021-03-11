@@ -51,7 +51,7 @@
 <l rend="2em">Built of a thousand trees,</l>
 <l n="15">Lunging out her lightnings,</l>
 <l rend="2em">And beetling o&apos;er the seas—</l>
-<l>O Ship, how brave and fair,</l>
+<l>O Ship, how brave and <ref target="#ed-note1">fair</ref>,<note xml:id="ed-note1">In Melville's copy C, he considered "rare" as a variant reading but did not strike out "fair."</note></l>
 <l rend="2em">That fought so oft and well,</l>
 <l>On open decks you manned the gun</l>
 <l n="20" rend="6em">Armorial.<hi rend="super">d</hi></l>
@@ -88,7 +88,7 @@
 </lg>
 				
 <lg>
-	<l n="45">But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event">Trafalgar</name>&apos; is over now,</l>
+	<l n="45">But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event">Trafalgar</name><ref target="#ed-note2">&apos;</ref><note xml:id="ed-note2">According to NN <hi rend="italic">Published Poems</hi>, Melville put the accent mark here to encourage the Spanish pronunciation and emphasis (636).</note> is over now,</l>
 <l rend="2em">The quarter-deck undone;</l>
 <l>The carved and castled navies fire</l>
 <l rend="2em">Their evening-gun.</l>
