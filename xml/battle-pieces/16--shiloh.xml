@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-		<teiHeader>
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>16 - Shiloh</title>
-			
-			
-					
-		</titleStmt>
+				<title>16 - Shiloh</title>
+
+
+
+			</titleStmt>
 			<publicationStmt>
-		
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
-	</publicationStmt>
+
+				<publisher/>
+				<pubPlace/>
+				<date/>
+				<authority/>
+				<availability><p/></availability>
+			</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
-		<text>
-			<body><div xml:id="shiloh">
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0071.jpg"/>
-				<head type="main"><ref target="#ref_21103"><hi rend="italic">Shiloh</hi></ref><note xml:id="ref_21103">It "was Melville's bad luck that his 'Shiloh: A Requiem' would suggest, by contrast, the striking poem of Mr. Forceyth Willson's, of which a great part of the scene is laid on the battle-field of Shiloh, called 'The Old Sergeant" (Parker, II, 621). "The Old Sergeant" (1863) was republished in Edmund Clarence Stedman's An American Anthology, 1787-1900 (1900): https://www.bartleby.com/248/710.html</note>. </head>
-<head type="sub-head"><hi rend="italic">A Requiem.</hi><lb/>
-(<hi rend="smallcaps">April</hi>, 1862.)</head>
+	</teiHeader>
+	<text>
+		<body><div xml:id="shiloh">
+			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0071.jpg"/>
+			<head type="main"><ref target="#ref_21103"><hi rend="italic">Shiloh</hi></ref><note xml:id="ref_21103">It "was Melville's bad luck that his 'Shiloh: A Requiem' would suggest, by contrast, the striking poem of Mr. Forceyth Willson's, of which a great part of the scene is laid on the battle-field of Shiloh, called 'The Old Sergeant" (Parker, II, 621). "The Old Sergeant" (1863) was republished in Edmund Clarence Stedman's An American Anthology, 1787-1900 (1900): https://www.bartleby.com/248/710.html</note>. </head>
+			<head type="sub-head"><hi rend="italic">A Requiem.</hi><lb/>
+				(<hi rend="smallcaps">April</hi>, 1862.)</head>
 
-<lg>
-<l><hi rend="smallcaps">Skimming</hi> lightly, wheeling still,</l>
-<l rend="2em">The swallows fly low</l>
-<l>Over the field in clouded days,</l>
-<l rend="2em">The forest-field of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:463" type="place">Shiloh</name>—</l>
-<l n="5">Over the field where April rain</l>
-<l>Solaced the parched ones stretched in pain</l>
-<l>Through the pause of night</l>
-<l>That followed <name ref="https://mel-catalog.herokuapp.com/api/entries/event:38" type="event">the Sunday fight</name></l>
-<l rend="2em">Around the church of Shiloh—</l>
-<l n="10">The church so lone, the log-built one,</l>
-<l>That echoed to many a parting groan</l>
-<l rend="4em">And natural prayer</l>
-<l rend="2em">Of dying foemen mingled there—</l>
-<l>Foemen at morn, but friends at eve—</l>
-<l n="15" rend="2em">Fame or country least their care:</l>
-<l>(What like a bullet can undeceive!)
-	<!-- <note xml:id="ref_20983">This line was quoted at the beginning of the short story, Memento Mori, by Jonathan Nolan which his older brother Christopher used to write the screenplay for the 2000 move "Memento" (https://www.public.asu.edu/~srbeatty/366/MementoMori.pdf
+			<lg>
+				<l><hi rend="smallcaps">Skimming</hi> lightly, wheeling still,</l>
+				<l rend="2em">The swallows fly low</l>
+				<l>Over the field in clouded days,</l>
+				<l rend="2em">The forest-field of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:463" type="place">Shiloh</name>—</l>
+				<l n="5">Over the field where April rain</l>
+				<l>Solaced the parched ones stretched in pain</l>
+				<l>Through the pause of night</l>
+				<l>That followed <name ref="https://mel-catalog.herokuapp.com/api/entries/event:38" type="event">the Sunday fight</name></l>
+				<l rend="2em">Around the church of Shiloh—</l>
+				<l n="10">The church so lone, the log-built one,</l>
+				<l>That echoed to many a parting groan</l>
+				<l rend="4em">And natural prayer</l>
+				<l rend="2em">Of dying foemen mingled there—</l>
+				<l>Foemen at morn, but friends at eve—</l>
+				<l n="15" rend="2em">Fame or country least their care:</l>
+				<l>(What like a bullet can undeceive!)
+					<!-- <note xml:id="ref_20983">This line was quoted at the beginning of the short story, Memento Mori, by Jonathan Nolan which his older brother Christopher used to write the screenplay for the 2000 move "Memento" (https://www.public.asu.edu/~srbeatty/366/MementoMori.pdf
 https://en.wikipedia.org/wiki/Memento_%28film%29).</note> I don't think this is a worthy note, but it does signal something about adaptation.--></l>
-<l rend="2em">But now they lie low,</l>
-<l>While over them the swallows skim,</l>
-	<l rend="2em">And <ref target="#ref_20984">all is hushed at Shiloh</ref><note xml:id="ref_20984">"The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be" (Genesis 49:10). NN <hi rend="italic">Published Poems</hi>, pp. 637–38, notes that Melville had also referred to Hawthorne as "the literary Shiloh of America" in "Hawthorne and his Mosses" (NN <hi rend="italic">Piazza Tales</hi>, 181). Hennig Cohen also cross-references HM's story "The Bell Tower": "A silence, as of the expectation of some Shiloh, pervaded the swarming plain" (NN <hi rend="italic">Piazza Tales</hi>, 252).</note>.</l></lg></div></body>
-		</text>
-	</TEI>
+				<l rend="2em">But now they lie low,</l>
+				<l>While over them the swallows skim,</l>
+				<l rend="2em">And <ref target="#ref_20984">all is hushed at Shiloh</ref><note xml:id="ref_20984">"The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be" (Genesis 49:10). NN <hi rend="italic">Published Poems</hi>, pp. 637–38, notes that Melville had also referred to Hawthorne as "the literary Shiloh of America" in "Hawthorne and his Mosses" (NN <hi rend="italic">Piazza Tales</hi>, 181). Hennig Cohen also cross-references HM's story "The Bell Tower": "A silence, as of the expectation of some Shiloh, pervaded the swarming plain" (NN <hi rend="italic">Piazza Tales</hi>, 252).</note>.</l></lg></div></body>
+	</text>
+</TEI>
