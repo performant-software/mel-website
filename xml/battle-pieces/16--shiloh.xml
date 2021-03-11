@@ -42,10 +42,11 @@
 <l rend="2em">Of dying foemen mingled there—</l>
 <l>Foemen at morn, but friends at eve—</l>
 <l n="15" rend="2em">Fame or country least their care:</l>
-<l><ref target="#ref_20983">(What like a bullet can undeceive!)</ref><note xml:id="ref_20983">This line was quoted at the beginning of the short story, Memento Mori, by Jonathan Nolan which his older brother Christopher used to write the screenplay for the 2000 move "Memento" (https://www.public.asu.edu/~srbeatty/366/MementoMori.pdf
-https://en.wikipedia.org/wiki/Memento_%28film%29).</note></l>
+<l>(What like a bullet can undeceive!)
+	<!-- <note xml:id="ref_20983">This line was quoted at the beginning of the short story, Memento Mori, by Jonathan Nolan which his older brother Christopher used to write the screenplay for the 2000 move "Memento" (https://www.public.asu.edu/~srbeatty/366/MementoMori.pdf
+https://en.wikipedia.org/wiki/Memento_%28film%29).</note> I don't think this is a worthy note, but it does signal something about adaptation.--></l>
 <l rend="2em">But now they lie low,</l>
 <l>While over them the swallows skim,</l>
-	<l rend="2em">And all is hushed at <ref target="#ref_20984">Shiloh</ref><note xml:id="ref_20984">The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be (Genesis 49:10). NN <hi rend="italic">Published Poems</hi>, pp. 637–38, notes that Melville had also referred to Hawthorne as "the literary Shiloh of America" in "Hawthorne and his Mosses" (NN <hi rend="italic">Piazza Tales</hi>, 181). Hennig Cohen also cross-references HM's story "The Bell Tower": "A silence, as of the expectation of some Shiloh, pervaded the swarming plain" (NN <hi rend="italic">Piazza Tales</hi>, 252).</note>.</l></lg></div></body>
+	<l rend="2em">And <ref target="#ref_20984">all is hushed at Shiloh</ref><note xml:id="ref_20984">"The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be" (Genesis 49:10). NN <hi rend="italic">Published Poems</hi>, pp. 637–38, notes that Melville had also referred to Hawthorne as "the literary Shiloh of America" in "Hawthorne and his Mosses" (NN <hi rend="italic">Piazza Tales</hi>, 181). Hennig Cohen also cross-references HM's story "The Bell Tower": "A silence, as of the expectation of some Shiloh, pervaded the swarming plain" (NN <hi rend="italic">Piazza Tales</hi>, 252).</note>.</l></lg></div></body>
 		</text>
 	</TEI>
