@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>48 - Aurora-Borealis</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,34 +15,44 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="48--aurora-borealis"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001640712-cr4tyckffbsjdcxr-d3760ff3987754b4eb44f46ba6349bcb%2F158.jpg"/><hi rend="bold">Aurora-Borealis
-Commemorative of the Dissolution of Armies at the Peace
-(May, 1865)</hi>
+			<body><div xmlns="" id="48--aurora-borealis">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0156.jpg"/>
+				<head type="main">
+				<hi rend="italic">Aurora-Borealis.</hi>
+				</head>
+				<head type="sub-head">
+				<hi rend="italic">Commemorative of the Dissolution of Armies at the Peace.</hi><lb/>
+				(<hi rend="smallcaps">May</hi>, 1865.)
+				</head>
+<lg>
+<l><hi rend="smallcaps">What</hi> power disbands the Northern Lights</l>
+<l rend="2em">After their steely play?</l>
+<l>The lonely watcher feels an awe</l>
+<l rend="2em">Of Nature&apos;s sway,</l>
+<l n="5" rend="4em">As when appearing,</l>
+<l rend="4em">He marked their flashed uprearing</l>
+<l>In the cold gloom—</l>
+<l rend="2em">Retreatings and advancings,</l>
+(<l>Like dallyings of doom),</l>
+<l n="10" rend="2em">Transitions and enhancings,</l>
+<l rend="4em">And bloody ray.</l>
+</lg>
+<lg>
+<l>The phantom-host has faded quite,</l>
+<l rend="2em">Splendor and Terror gone—</l>
+<l>Portent or promise—and gives way</l>
+<l n="15" rend="2em">To pale, meek Dawn;</l>
+<l rend="4em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0157.jpg"/>The coming, going,</l>
+<l rend="4em">Alike in wonder showing—</l>
+<l>Alike the God,</l>
+<l rend="2em">Decreeing and commanding</l>
+<l n="20" >The million blades that glowed,</l>
+<l rend="2em">The muster and disbanding—</l>
+<l rend="4em">Midnight and Morn.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">What power disbands the Northern Lights
-  After their steely play?
-The lonely watcher feels an awe
-  Of Nature&apos;s sway,
-    As when appearing,
-    He marked their flashed uprearing
-In the cold gloom—
-  Retreatings and advancings,
-(Like dallyings of doom),
-  Transitions and enhancings,
-    And bloody ray.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The phantom-host has faded quite,
-  Splendor and Terror gone—
-Portent or promise—and gives way
-  To pale, meek Dawn;
-    <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001644006-nylg44nyt4e4gqfr-d3760ff3987754b4eb44f46ba6349bcb%2F159.jpg"/>The coming, going,
-    Alike in wonder showing—
-Alike the God,
-  Decreeing and commanding
-The million blades that glowed,
-  The muster and disbanding—
-    Midnight and Morn.</p></div></body>
+	</div></body>
 		</text>
 	</TEI>
