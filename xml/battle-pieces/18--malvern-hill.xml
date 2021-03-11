@@ -20,7 +20,9 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="18--malvern-hill"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781102687-t52q79g7vb249529-db5ae4e9b580f2f4073af4698c9ddff2%2F77.jpg"/><name ref="https://mel-catalog.herokuapp.com/api/entries/event:18" type="event"><ref target="#ref_21057">Malvern Hill</ref><note xml:id="ref_21057">Title Note [Criticism—Canonical] According to Hennig Cohen, Melville visited Virginia battlefields in April 1864, including Malvern Hill, where he purchased “a souvenir brick made from the clay of Malvern Hill” (Cohen 232).
+			<body><div xml:id="malvern-hill">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0075.jpg"/>
+				<name ref="https://mel-catalog.herokuapp.com/api/entries/event:18" type="event"><ref target="#ref_21057">Malvern Hill</ref><note xml:id="ref_21057">Title Note [Criticism—Canonical] According to Hennig Cohen, Melville visited Virginia battlefields in April 1864, including Malvern Hill, where he purchased “a souvenir brick made from the clay of Malvern Hill” (Cohen 232).
 (Leslie McAbee)</note></name>. 
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">(July, 1862.) 

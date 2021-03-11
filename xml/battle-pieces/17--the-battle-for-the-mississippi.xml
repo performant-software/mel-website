@@ -22,7 +22,7 @@
 	<text>
 		<body><div xml:id="the-battle-for-the-mississippi">
 			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0072.jpg"/>
-			<head type="main"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:43" type="event"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:44" type="event"><hi rend="italic">The Battle for the Mississippi.</hi></name></name></head> 
+			<head type="main"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:43" type="event"><hi rend="italic">The Battle for the Mississippi.</hi></name></head> 
 			
 			<head type="sub-head">(<hi rend="smallcaps">April</hi>, 1862.)</head>
 			
