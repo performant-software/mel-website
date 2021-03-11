@@ -1,104 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-		<teiHeader>
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>17 - The Battle for the Mississippi</title>
-			
-			
-					
-		</titleStmt>
+				<title>17 - The Battle for the Mississippi</title>
+
+
+
+			</titleStmt>
 			<publicationStmt>
-		
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
-	</publicationStmt>
+
+				<publisher/>
+				<pubPlace/>
+				<date/>
+				<authority/>
+				<availability><p/></availability>
+			</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
-		<text>
-			<body><div xmlns="" id="17--the-battle-for-the-mississippi">
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0072.jpg"/>
-				<name ref="https://mel-catalog.herokuapp.com/api/entries/event:43" type="event"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:44" type="event">The Battle for the Mississipp</name>i</name> 
+	</teiHeader>
+	<text>
+		<body><div xml:id="the-battle-for-the-mississippi">
+			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0072.jpg"/>
+			<head type="main"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:43" type="event"><hi rend="italic">The Battle for the Mississippi.</hi></name></head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">(April, 1862.)
+			<head type="sub-head">(<hi rend="smallcaps">April</hi>, 1862.)</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">––––––––––––––––
+			<lg type="octet">
+				<l><hi rend="smallcaps">When</hi> <ref target="#ref_19110">Israel camped by Migdol hoar</ref><note xml:id="ref_19110">See Exodus 14:2.</note>,</l>
+				<l rend="2em">Down at her feet her shawm she threw,</l>
+				<l>But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:190" type="person">Moses</name> sung and timbrels rung</l>
+				<l rend="2em">For <name ref="https://mel-catalog.herokuapp.com/api/entries/person:191" type="person">Pharaoh</name>&apos;s stranded crew.</l>
+				<l n="5">So God appears in apt events—</l>
+				<l rend="2em">The Lord is a man of war!</l>
+				<l>So the strong wing to the muse is given</l>
+				<l rend="6em">In victory&apos;s roar.</l>
+			</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">When <ref target="#ref_19109">Israel</ref><note xml:id="ref_19109">Old Testament People of Israel
+			<lg type="octet">
+				<l>Deep be the ode that hymns the fleet—</l>
+				<l n="10" rend="2em">The fight by night—the fray</l>
+				<l>Which bore our Flag against the powerful stream,</l>
+				<l rend="2em">And led it up to day.</l>
+				<l>Dully through din of larger strife</l>
+				<l rend="2em">Shall bay that warring gun;</l>
+				<l n="15">But none the less to us who live</l>
+				<l rend="2em">It peals—an echoing one.</l>
+			</lg>
 
-Exodus 14:2</note> <ref target="#ref_19111">camped by <ref target="#ref_19110">Migdol</ref><note xml:id="ref_19110">Exodus 14:2
+			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0073.jpg"/>
+			<lg type="octet">
+				<l>The shock of ships, the jar of walls,</l>
+				<l rend="2em">The rush through thick and thin—</l>
+				<l>The flaring fire-rafts, glare and gloom—</l>
+				<l n="20" rend="2em">Eddies, and shells that spin—</l>
+				<l>The boom-chain burst, the hulks dislodged,</l>
+				<l rend="2em">The jam of gun-boats driven,</l>
+				<l>Or fired, or sunk—made up a war</l>
+				<l rend="2em">Like <name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name>&apos;s waged with leven.</l>
+			</lg>
 
-See also: 
-https://en.wikipedia.org/wiki/Migdol</note> hoar</ref><note xml:id="ref_19111">Exodus 14:2
-
-https://en.wikipedia.org/wiki/Pi-hahiroth</note>,
-Down at her feet her shawm she threw,
-But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:190" type="person">Moses</name> sung and timbrels rung
-For <name ref="https://mel-catalog.herokuapp.com/api/entries/person:191" type="person">Pharaoh</name>&apos;s stranded crew.
-So God appears in apt events—
-The Lord is a man of war!
-So the strong wing to the muse is given
-In victory&apos;s roar.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Deep be the ode that hymns the fleet—
-The fight by night—the fray
-Which bore our Flag against the powerful stream,
-And led it up to day.
-Dully through din of larger strife
-Shall bay that warring gun;
-But none the less to us who live
-It peals—an echoing one.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781056496-wmxu3h2yxpwuerk9-67199c4000fcdafd2c6e5e3443549843%2F75.jpg"/>The shock of ships, the jar of walls,
-The rush through thick and thin—
-The flaring fire-rafts, glare and gloom—
-Eddies, and shells that spin—
-The boom-chain burst, the hulks dislodged,
-The jam of gun-boats driven,
-Or fired, or sunk—made up a war
-Like <name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name>&apos;s waged with leven.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The manned <name ref="https://mel-catalog.herokuapp.com/api/entries/person:314" type="person">Varuna</name> stemmed and quelled
-The odds which hard beset;
-The oaken flag-ship, half ablaze,
-Passed on and thundered yet;
-While foundering, gloomed in grimy flame,
-The Ram Manassas—hark the yell!—
-Plunged, and was gone; in joy or fright,
-The <name ref="https://mel-catalog.herokuapp.com/api/entries/place:243" type="place">River</name> gave a startled swell.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">They fought through lurid dark till dawn;
-The war-smoke rolled away
-With clouds of night, and showed the fleet
-In scarred yet firm array,
-Above the forts, above the drift
-Of wrecks which strife had made;
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781060238-zvltpkmbp2satt9-67199c4000fcdafd2c6e5e3443549843%2F76.jpg"/>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name> sailed up to the town
-And anchored—sheathed the blade.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The moody broadsides, brooding deep,
-Hold the lewd mob at bay,
-While o&apos;er the armed decks&apos; solemn aisles
-The meek church-pennons play;
-By shotted guns the sailors stand,
-With foreheads bound or bare;
-The captains and the conquering crews
-Humble their pride in prayer.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">They pray; and after victory, prayer
-Is meet for men who mourn their slain;
-The living shall unmoor and sail,
-But Death&apos;s dark anchor secret deeps detain.
-Yet Glory slants her shaft of rays
-Far through the undisturbed abyss;
-There must be other, nobler worlds for them
-Who nobly yield their lives in this.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-</p></div></body>
-		</text>
-	</TEI>
+			<lg type="octet">
+				<l n="25">The manned <name ref="https://mel-catalog.herokuapp.com/api/entries/person:314" type="person">Varuna</name> stemmed and quelled</l>
+				<l rend="2em">The odds which hard beset;</l>
+				<l>The oaken flag-ship, half ablaze,</l>
+				<l rend="2em">Passed on and thundered yet;</l>
+				<l>While foundering, gloomed in grimy flame,</l>
+				<l n="30" rend="2em">The Ram Manassas—hark the yell!—</l>
+				<l>Plunged, and was gone; in joy or fright,</l>
+				<l rend="2em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/place:243" type="place">River</name> gave a startled swell.</l></lg>
+			<lg type="octet">
+				<l>They fought through lurid dark till dawn;</l>
+				<l rend="2em">The war-smoke rolled away</l>
+				<l n="35">With clouds of night, and showed the fleet</l>
+				<l rend="2em">In scarred yet firm array,</l>
+				<l>Above the forts, above the drift</l>
+				<l rend="2em">Of wrecks which strife had made;</l>
+				<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0074.jpg"/>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name> sailed up to the town</l>
+				<l n="40" rend="2em">And anchored—sheathed the blade.</l></lg>
+			<lg type="octet">
+				<l>The moody broadsides, brooding deep,</l>
+				<l rend="2em">Hold the lewd mob at bay,</l>
+				<l>While o&apos;er the armed decks&apos; solemn aisles</l>
+				<l rend="2em">The meek church-pennons play;</l>
+				<l n="45">By shotted guns the sailors stand,</l>
+				<l rend="2em">With foreheads bound or bare;</l>
+				<l>The captains and the conquering crews</l>
+				<l rend="2em">Humble their pride in prayer.</l>
+			</lg>
+			<lg type="octet">
+				<l>They pray; and after victory, prayer</l>
+				<l n="50" rend="2em">Is meet for men who mourn their slain;</l>
+				<l>The living shall unmoor and sail,</l>
+				<l rend="2em">But Death&apos;s dark anchor secret deeps detain.</l>
+				<l>Yet Glory slants her shaft of rays</l>
+				<l rend="2em">Far through the undisturbed abyss;</l>
+				<l n="55">There must be other, nobler worlds for them</l>
+				<l rend="2em">Who nobly yield their lives in this.</l>
+			</lg>
+		</div>
+		</body>
+	</text>
+</TEI>
