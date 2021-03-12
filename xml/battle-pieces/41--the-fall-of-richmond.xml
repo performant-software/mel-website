@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>41 - The Fall of Richmond</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,40 +15,48 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="41--the-fall-of-richmond"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001225213-epf6dfab175e9udi-0b778977e9039a446ad7f264c7b3e852%2F145.jpg"/>The Fall of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:441" type="place">Richmond</name>
-The tidings received in the Northern Metropolis
-(April, 1865)
+			<body><div id="41--the-fall-of-richmond">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">What mean these peals from every tower,
-  And crowds like seas that sway?
-The cannon reply; they speak the heart
-  Of the People impassioned, and say—
-A city in flags for a city in flames,
-  Richmond goes <name ref="https://mel-catalog.herokuapp.com/api/entries/place:173" type="place">Babylon</name>&apos;s way—
-        <hi rend="italic">Sing and pray.</hi>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">O weary years and woeful wars,
-  And armies in the grave;
-But hearts unquelled at last deter
-The helmed dilated <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Lucifer</name>—
-  Honor to <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> the brave,
-Whose three stars now like <ref target="#ref_19217">Orion</ref><note xml:id="ref_19217">Constellation with three stars that forming Orion's belt. 
-
-[reference, astronomy]</note>&apos;s rise
-  When wreck is on the wave—
-        <hi rend="italic">Bless his glaive.</hi><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001229018-z7nxic1b3dmzehfr-0b778977e9039a446ad7f264c7b3e852%2F146.jpg"/>Well that the faith we firmly kept,
-  And never our aim forswore
-For the Terrors that trooped from each recess
-When fainting we fought in the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name>,
-  And <ref target="#ref_19219">Hell</ref><note xml:id="ref_19219">A place of torment, punishment, and suffering in the afterlife. 
-
-[reference, biblical]</note> made loud hurrah;
-But God is in <ref target="#ref_19220">Heaven</ref><note xml:id="ref_19220">The dwelling place of God. 
-
-[reference, biblical]</note>, and Grant in the Town,
-  And Right through might is Law—
-        God&apos;s way adore.</p></div></body>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0143.jpg"/>
+				<head type="main">
+				<hi rend="italic">The Fall of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:441" type="place">Richmond</name>.</hi>
+				</head>
+				<head type="sub-head">
+				<hi rend="italic">The tidings received in the Northern Metropolis.</hi><lb/>
+				(<hi rend="smallcaps">April</hi>, 1865.)
+				</head>
+<lg>
+<l><hi rend="smallcaps">What</hi> mean these peals from every tower,</l>
+<l rend="2em">And crowds like seas that sway?</l>
+<l>The cannon reply; they speak the heart</l>
+<l rend="2em">Of the People impassioned, and say—</l>
+<l n="5">A city in flags for a city in flames,</l>
+<l rend="2em">Richmond goes <name ref="https://mel-catalog.herokuapp.com/api/entries/place:173" type="place">Babylon</name>&apos;s way—</l>
+<l rend="8em"><hi rend="italic">Sing and pray.</hi></l>
+</lg>
+<lg>
+<l>O weary years and woeful wars,</l>
+<l rend="2em">And armies in the grave;</l>
+<l n="10">But hearts unquelled at last deter</l>
+<l>The helmed dilated <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Lucifer</name>—</l>
+<l rend="2em">Honor to <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> the brave,</l>
+<l>Whose three stars now like <ref target="#ref_19217">Orion</ref><note xml:id="ref_19217">Constellation with three stars forming Orion's belt.
+[reference, astronomy]</note>&apos;s rise</l>
+<l rend="2em">When wreck is on the wave—</l>
+<l n="15" rend="8em"><hi rend="italic">Bless his glaive.</hi></l>
+</lg>
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0144.jpg"/>Well that the faith we firmly kept,</l>
+<l rend="2em">And never our aim forswore</l>
+<l>For the Terrors that trooped from each recess</l>
+<l>When fainting we fought in the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name>,</l>
+<l n="20" rend="2em">And Hell made loud hurrah;</l>
+<l>But God is in Heaven, and Grant in the Town,</l>
+<l rend="2em">And Right through might is Law—</l>
+<l rend="8em">God&apos;s way adore.</l>
+</lg>
+			</div></body>
 		</text>
 	</TEI>
