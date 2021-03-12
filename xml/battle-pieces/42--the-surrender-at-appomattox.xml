@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>42 - The Surrender at Appomattox</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,32 +15,38 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="42--the-surrender-at-appomattox"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001273281-npagltfddpoxn7b9-cc43a9d1cae287c36ceafdb31d310719%2F147.jpg"/>The Surrender at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:489" type="place">Appomattox</name>
-(April, 1865)
+			<body><div id="42--the-surrender-at-appomattox">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">As billows upon billows roll,
-  On victory victory breaks;
-Ere yet seven days from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:441" type="place">Richmond</name>&apos;s fall
-  And crowning triumph wakes
-The loud joy-gun, whose thunders run
-  By sea-shore, streams, and lakes.
-    The hope and great event agree
-    In the sword that <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> received from <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The warring eagles fold the wing,
-  But not in <ref target="#ref_19227">Cæsar</ref><note xml:id="ref_19227">Title for the emperor of Rome.
-
-[reference, historical, title]</note>&apos;s sway;
-Not <name ref="https://mel-catalog.herokuapp.com/api/entries/place:8" type="place">Rome</name> o&apos;ercome by Roman arms we sing,
-  As on <ref target="#ref_19231">Pharsalia</ref><note xml:id="ref_19231">Roman epic poem by Lucan. 
-
-[reference, literary]</note>&apos;s day,
-But Treason thrown, though a giant grown,
-  And Freedom&apos;s larger play.
-    All human tribes glad token see
-    In the close of the wars of Grant and Lee.
-</p></div></body>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0145.jpg"/>
+				<head type="main">
+				<hi rend="italic">The Surrender at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:489" type="place">Appomattox</name></hi>.
+				</head>
+				<head type="sub-head">
+				(<hi rend="smallcaps">April</hi>, 1865.)
+				</head>
+<lg>
+<l><hi rend="smallcaps">As</hi> billows upon billows roll,</l>
+<l rend="2em">On victory victory breaks;</l>
+<l>Ere yet seven days from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:441" type="place">Richmond</name>&apos;s fall</l>
+<l rend="2em">And crowning triumph wakes</l>
+<l>The loud joy-gun, whose thunders run</l>
+<l rend="2em">By sea-shore, streams, and lakes.</l>
+<l rend="4em">The hope and great event agree</l>
+<l rend="4em">In the sword that <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> received from <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>.</l>
+</lg>
+<lg>
+<l>The warring eagles fold the wing,</l>
+<l rend="2em">But not in Cæsar&apos;s sway;</l>
+<l>Not <name ref="https://mel-catalog.herokuapp.com/api/entries/place:8" type="place">Rome</name> o&apos;ercome by Roman arms we sing,</l>
+<l rend="2em">As on <ref target="#ref_19231">Pharsalia</ref><note xml:id="ref_19231">Roman epic poem by Lucan.
+[reference, literary]</note>&apos;s day,</l>
+<l>But Treason thrown, though a giant grown,</l>
+<l rend="2em">And Freedom&apos;s larger play.</l>
+<l rend="4em">All human tribes glad token see</l>
+<l rend="4em">In the close of the wars of Grant and Lee.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
