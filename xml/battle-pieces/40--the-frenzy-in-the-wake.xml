@@ -4,12 +4,8 @@
 		<fileDesc>
 			<titleStmt>
 			<title>40 - The Frenzy in the Wake</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,50 +14,64 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="40--the-frenzy-in-the-wake"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001165923-x3a1lgrvhi0vbo6r-95e2f54f898553b3457a099ed9e213f3%2F143.jpg"/>The Frenzy in the Wake
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:138" type="person">Sherman</name>&apos;s advance through the <ref target="#ref_19200">Carolinas</ref><note xml:id="ref_19200">North and South Carolina
+			<body><div id="40--the-frenzy-in-the-wake">
 
-[reference, geography]</note>
-(February, 1865)
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0141.jpg"/>
+				<head type="main">
+				<hi rend="italic">The Frenzy in the Wake.</hi>
+				<ref target="#BP_noteN"><hi rend="super">n</hi></ref> 
+				<note xml:id="BP_noteN"><hi rend="smallcaps">Note n</hi>, <hi rend="italic">page</hi> 133.
+				<p>This piece was written while yet the reports were coming North of Sherman's homeward advance from Savannah. It is needless to point out its purely dramatic character.</p><p>Though the sentiment ascribed in the beginning of the second stanza must, in the present reading, suggest the historic tragedy of the 14th of April, nevertheless, as intimated, it was written prior to that event, and without any distinct application in the writer's mind. After consideration, it is allowed to remain.</p><p>Few need be reminded that, by the less intelligent classes of the South, Abraham Lincoln, by nature the most kindly of men, was regarded as a monster wantonly warring upon liberty. He stood for the personification of tyrannic power. Each Union soldier was called a Lincolnite.</p><p>Undoubtedly Sherman, in the desolation he inflicted after leaving Atlanta, acted not in contravention of orders; and all, in a military point of view, is by military judges deemed to have been expedient, and nothing can abate General Sherman's shining renown; his claims to it rest on no single cvampaign. Still, there are those who can not but contrast some of the scenes enacted in Georgia and the Carolinas, and also in the Shenandoah, with a circumstance in a great Civil War of heathen antiquity. Plutarch relates that in a military council held by Pompey and the chiefs of that party which stood for the Commonwealth, it was decided that under no plea should any city be sacked that was subject to the people of Rome. There was this difference, however, between the Roman civil conflict and the American one. The war of Pompey and Caesar divided the Roman people promiscuously; that of the North and South ran a frontier line between what for the time were distinct communities or nations. In this circumstance, possibly, and some others, may be found both the cause and the justification of some of the sweeping measures adopted.
+			</p>
+				</note>
+				</head>
+				<head type="sub-head">
+				<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:138" type="person">Sherman</name>&apos;s advance through the Carolinas.</hi><lb/>
+				(<hi rend="smallcaps">February</hi>, 1865.)
+			</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">So strong to suffer, shall we be
-  Weak to contend, and break
-The sinews of the Oppressor&apos;s knee
-  That grinds upon the neck?
-    O, the garments rolled in blood
-      Scorch in cities wrapped in flame,
-    And the African—the imp!
-      He gibbers, imputing shame.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Shall Time, avenging every woe,
-  To us that joy allot
-Which <ref target="#ref_19202">Israel</ref><note xml:id="ref_19202">The Israelites of the Old Testament
-
-[reference, biblical]</note> thrilled when <name ref="https://mel-catalog.herokuapp.com/api/entries/person:201" type="person">Sisera</name>&apos;s brow
-  Showed gaunt and showed the clot?
-    Curse on their foreheads, cheeks, and eyes—
-      The Northern faces—true
-    To the flag we hate, the flag whose stars
-      Like planets strike us through.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001169683-094tqj83s2i3haor-95e2f54f898553b3457a099ed9e213f3%2F144.jpg"/>From frozen <name ref="https://mel-catalog.herokuapp.com/api/entries/place:487" type="place">Maine</name> they come,
-  Far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:488" type="place">Minnesota</name> too;
-They come to a sun whose rays disown—
-  May it wither them as the dew!
-    The ghosts of our slain appeal:
-      &quot;Vain shall our victories be&quot;
-    But back from its ebb the flood recoils—
-      Back in a whelming sea.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">With burning woods our skies are brass,
-  The pillars of dust are seen;
-The live-long day their cavalry pass—
-  No crossing the road between.
-    We were sore deceived—an awful host!
-      They move like a roaring wind.
-    Have we gamed and lost? but even despair
-      Shall never our hate rescind.</p></div></body>
+<lg>
+<l><hi rend="smallcaps">So</hi> strong to suffer, shall we be</l>
+<l rend="2em">Weak to contend, and break</l>
+<l>The sinews of the Oppressor&apos;s knee</l>
+<l rend="2em">That grinds upon the neck?</l>
+<l n="5" rend="4em">O, the garments rolled in blood</l>
+<l rend="6em">Scorch in cities wrapped in flame,</l>
+<l rend="4em">And the African—the imp!</l>
+<l rend="6em">He gibbers, imputing shame.</l>
+</lg>
+<lg>
+<l>Shall Time, avenging every woe,</l>
+<l n="10" rend="2em">To us that joy allot</l>
+<l>Which Israel thrilled when <name ref="https://mel-catalog.herokuapp.com/api/entries/person:201" type="person">Sisera</name>&apos;s brow</l>
+<l rend="2em">Showed gaunt and showed the clot?</l>
+<l rend="4em">Curse on their foreheads, cheeks, and eyes—</l>
+<l rend="6em">The Northern faces—true</l>
+<l n="15" rend="4em">To the flag we hate, the flag whose stars</l>
+<l rend="6em">Like planets strike us through.</l>
+</lg>
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0142.jpg"/>From frozen <name ref="https://mel-catalog.herokuapp.com/api/entries/place:487" type="place">Maine</name> they come,</l>
+<l rend="2em">Far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:488" type="place">Minnesota</name> too;</l>
+<l>They come to a sun whose rays disown—</l>
+<l n="20" rend="2em">May it wither them as the dew!</l>
+<l rend="4em">The ghosts of our slain appeal:</l>
+<l rend="6em">&quot;Vain shall our victories be?&quot;</l>
+<l rend="4em">But back from its ebb the flood recoils—</l>
+<l rend="6em">Back in a whelming sea.</l>
+</lg>
+<lg>
+<l n="25" >With burning woods our skies are brass,</l>
+<l rend="2em">The pillars of dust are seen;</l>
+<l>The live-long day their cavalry pass—</l>
+<l rend="2em">No crossing the road between.</l>
+<l rend="4em">We were sore deceived—an awful host!</l>
+<l n="30" rend="6em">They move like a roaring wind.</l>
+<l rend="4em">Have we gamed and lost? but even despair</l>
+<l rend="6em">Shall never our hate rescind.</l>
+</lg>
+		</div></body>
 		</text>
 	</TEI>
