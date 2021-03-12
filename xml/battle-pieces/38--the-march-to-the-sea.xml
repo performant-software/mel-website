@@ -24,7 +24,6 @@
 				<hi rend="italic">The March to the Sea.</hi>
 				</head>
 				<head type="sub-head">
-				<hi rend="italic">Indicative of the passion of the people on the 15th of<lb/> April, 1865.</hi>
 				(<hi rend="smallcaps">December</hi>, 1864.)
 				</head>
 
@@ -50,7 +49,7 @@
 <l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0137.jpg"/>
 And the grand pines waving o&apos;er them</l>
 <l rend="2em">Bowed to axes keen and cool.</l>
-<l rend="6em">The columns grooved their channels.</l>
+<l rend="6em">The columns grooved their channels,</l>
 <l n="20" rend="8em">Enforced their own decree,</l>
 <l rend="6em">And their power met nothing larger</l>
 <l rend="8em">Until it met the sea:</l>
@@ -67,7 +66,7 @@ And the grand pines waving o&apos;er them</l>
 <l rend="6em">To Sherman&apos;s shifting problem</l>
 <l rend="8em">No foeman knew the key;</l>
 <l rend="6em">But onward went the marching</l>
-<l rend="8em">Unpausing to the sea:</l>
+<l rend="8em"><ref target="#BP_RNnote1">Unpausing</ref><note xml:id="BP_RNnote1">In his copy of BP, HM revised in pencil: He added a dash after "marching" at the end of the preceding line and deleted "Unpausing." To the left of the deleted word, he inscribed, also in pencil, "Right onward," an incremental repetition of "But onward" in the preceding line.</note> to the sea:</l> 
 <l n="35" rend="10em">It was glorious glad marching,</l>
 <l rend="10em">The swinging step was free.</l>
 </lg>
@@ -96,7 +95,7 @@ The flocks of all those regions,</l>
 <l n="55"  rend="6em">The cocks crowed from the cannon</l>
 <l rend="8em">(Pets named from <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>),</l>
 <l rend="6em">Plumed fighters and campaigners</l>
-<l rend="8em">In the marching to the sea:</l>
+<l rend="8em">In that marching to the sea:</l>
 <l rend="10em">It was glorious glad marching,</l>
 <l n="60" rend="10em">For every man was free.</l>
 </lg>
