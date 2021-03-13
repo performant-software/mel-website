@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>30 - The Swamp Angel</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,64 +15,82 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="30--the-swamp-angel"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000022684-exru1p0qsn61or-4304ed4396c550277e066cad65dcf9a2%2F117.jpg"/>The Swamp Angel
+			<body><div id="30--the-swamp-angel">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">There is a coal-black Angel
-  With a thick Afric lip,
-And he dwells (like the hunted and harried)
-  In a swamp where the green frogs dip.
-But his face is against <name ref="https://mel-catalog.herokuapp.com/api/entries/place:525" type="place">a City</name>
-  Which is over a bay of the sea,
-And he breathes with a breath that is blastment,
-  And dooms by a far decree.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">By night there is fear in the City,
-  Through the darkness a star soareth on;
-There&apos;s a scream that screams up to the zenith,
-  Then the poise of a meteor lone—
-Lighting far the pale fright of the faces,
-  And downward the coming is seen;
-Then the rush, and the burst, and the havoc,
-  And wails and shrieks between.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0115.jpg"/>
+				<head type="main">
+				<hi rend="italic">The Swamp Angel.</hi>
+				<ref target="#BP_noteK"><hi rend="super">k</hi></ref> 
+				<note xml:id="BP_noteK"><hi rend="smallcaps">Note k</hi>, <hi rend="italic">page</hi> 146.
+				<p>The great Parrott gun, planted in the marshes of James Island, and employed in the prolonged, though at times intermitted bombardment of Charleston, was known among our soldiers as the Swamp Angel.</p><p>St. Michael's, characterized by its venerable tower, was the historic and aristocratic church of the town.</p>
+				</note>
+				</head>
 
 
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000062835-2haiitffilm4e7b9-4304ed4396c550277e066cad65dcf9a2%2F119.jpg"/>
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Vainly she calls upon Michael
-  (The white man&apos;s seraph was he),
-For Michael has fled from his tower
-  To the Angel over the sea.
+<lg>
+<l><hi rend="smallcaps">There</hi> is a coal-black Angel</l>
+<l rend="2em">With a thick Afric lip,</l>
+<l>And he dwells (like the hunted and harried)</l>
+<l rend="2em">In a swamp where the green frogs dip.</l>
+<l>But his face is against <name ref="https://mel-catalog.herokuapp.com/api/entries/place:525" type="place">a City</name></l>
+<l rend="2em">Which is over a bay of the sea,</l>
+<l>And he breathes with a breath that is blastment,</l>
+<l rend="2em">And dooms by a far decree.</l>
+</lg>
+<lg>
+<l>By night there is fear in the City,</l>
+<l rend="2em">  Through the darkness a star soareth on;</l>
+<l>There&apos;s a scream that screams up to the zenith,</l>
+<l rend="2em">Then the poise of a meteor lone—</l>
+<l>Lighting far the pale fright of the faces,</l>
+<l rend="2em">And downward the coming is seen;</l>
+<l>Then the rush, and the burst, and the havoc,</l>
+<l rend="2em">And wails and shrieks between.</l>
+</lg>
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0116.jpg"/>
+It comes like the thief in the gloaming;</l>
+<l rend="2em">It comes, and none may foretell</l>
+<l>The place of the coming—the glaring;</l>
+<l rend="2em">They live in a sleepless spell</l>
+<l>That wizens, and withers, and whitens;</l>
+<l rend="2em">It ages the young, and the bloom</l>
+<l>Of the maiden is ashes of roses—</l>
+<l rend="2em">The Swamp Angel broods in his gloom.</l>
+</lg>
+<lg>
+<l>Swift is his messengers&apos; going,</l>
+<l rend="2em">But slowly he saps their halls,</l>
+<l>As if by delay deluding.</l>
+<l rend="2em">They move from their crumbling walls</l>
+<l>Farther and farther away;</l>
+<l rend="2em">But the Angel sends after and after,</l>
+<l>By night with the flame of his ray—</l>
+<l rend="2em">By night with the voice of his screaming—</l>
+<l>Sends after them, stone by stone,</l>
+<l rend="2em">And farther walls fall, farther portals,</l>
+<l>And weed follows weed through the Town.</l>
+</lg>
+<lg>
+<l>Is this the proud City? the scorner</l>
+<l rend="2em">Which never would yield the ground?</l>
+<l>Which mocked at the coal-black Angel?</l>
+<l rend="2em">The cup of despair goes round.</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0117.jpg"/>
+Vainly she calls upon Michael</l>
+<l rend="2em">(The white man&apos;s seraph was he),</l>
+<l>For Michael has fled from his tower</l>
+<l rend="2em">To the Angel over the sea.</l>
+</lg>
+<lg>
+<l>Who weeps for the woeful City</l>
+<l rend="2em">Let him weep for our guilty kind;</l>
+<l>Who joys at her wild despairing—</l>
+<l rend="2em">Christ, the Forgiver, convert his mind.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Who weeps for the woeful City
-  Let him weep for our guilty kind;
-Who joys at her wild despairing—
-  Christ, the Forgiver, convert his mind.<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000058355-sdt87ihzhw2buik9-4304ed4396c550277e066cad65dcf9a2%2F118.jpg"/>It comes like the thief in the gloaming;
-  It comes, and none may foretell
-The place of the coming—the glaring;
-  They live in a sleepless spell
-That wizens, and withers, and whitens;
-  It ages the young, and the bloom
-Of the maiden is ashes of roses—
-  The Swamp Angel broods in his gloom.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Swift is his messengers&apos; going,
-  But slowly he saps their halls,
-As if by delay deluding.
-  They move from their crumbling walls
-Farther and farther away;
-  But the Angel sends after and after,
-By night with the flame of his ray—
-  By night with the voice of his screaming—
-Sends after them, stone by stone,
-  And farther walls fall, farther portals,
-And weed follows weed through the Town.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Is this the proud City? the scorner
-  Which never would yield the ground?
-Which mocked at the coal-black Angel?
-  The cup of despair goes round.</p></div></body>
+	</div></body>
 		</text>
 	</TEI>
