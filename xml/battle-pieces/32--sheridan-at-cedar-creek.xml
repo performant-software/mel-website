@@ -21,7 +21,7 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0124.jpg"/>
 				<head type="main">
-				<hi rend="italic"><ref target="#ref_19226"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name></ref>.</hi>
+				<hi rend="italic">Sheridan at Cedar Creek.</hi>
 				</head>
 				<head type="sub-head">
 				(<hi rend="smallcaps">October</hi>, 1864.)
@@ -84,6 +84,7 @@ The turn of the tide began,</l>
 	</TEI>
 
 <!--
+<hi rend="italic"><ref target="#ref_19226"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name></ref>.</hi>
 <ref target="#ref_19226"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name></ref><note xml:id="ref_19226">A version of "Sheridan at Cedar Creek" was published as “Philip” in Harper’s New Monthly Magazine 32 (April 1866), 640, one of four other poems in Battle-Pieces to be previously published in that journal anonymously." (variation)</note>
 <ref target="#ref_19009">the steed</ref><note xml:id="ref_19009">Rienzi, Sheridan's celebrated horse. Renamed Winchester after the ride to Cedar Creek described in the poem.
 (Eric Meckley) </note>
