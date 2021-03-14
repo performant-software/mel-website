@@ -20,15 +20,16 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="20--the-battle-of-stone-river,-tennessee"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781216682-v17ku7lzahgaxlxr-bb18825fd7a270262254b94d936b62a4%2F83.jpg"/>The Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:464" type="place">Stone River</name>, Tennessee. 
+			<body><div xmlns="" id="20--the-battle-of-stone-river,-tennessee">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0081.jpg"/>
+				The Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:464" type="place">Stone River</name>, Tennessee. 
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">A View from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:468" type="place">Oxford</name> Cloisters.
+A View from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:468" type="place">Oxford</name> Cloisters.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">(January, 1863.) 
+(January, 1863.) 
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">–––––––––––––––––
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">With <name ref="https://mel-catalog.herokuapp.com/api/entries/place:467" type="place">Tewksbury</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:465" type="place">Barnet</name> heath
+<p xmlns="http://www.tei-c.org/ns/1.0">With <name ref="https://mel-catalog.herokuapp.com/api/entries/place:467" type="place">Tewksbury</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:465" type="place">Barnet</name> heath
 In days to come the field shall blend,
 The story dim and date obscure;
 In legend all shall end.
