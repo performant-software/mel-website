@@ -4,8 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>19 - The Victor of Antietam</title>
-			
-			
+			<author>Herman Melville</author>
+				<editor>Leslie McAbee</editor>
+				<editor>Eric Meckley</editor>
 					
 		</titleStmt>
 			<publicationStmt>
@@ -20,114 +21,110 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="19--the-victor-of-antietam"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781152377-azilv6b0emmzehfr-66ba8202150d24131d862e42a6e00e45%2F79.jpg"/><ref target="#ref_20966"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:45" type="event">The Victor of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:457" type="place">Antietam</name></name></ref><note xml:id="ref_20966">Reprinted in R. H. Stoddard's edition of Rufus M. Griswold's Poets and Poetry of America (New York: Hames Miller, 1873), 631. [Circulation]; "The poem may be read as a poem in search of itself; that is, as a poem in which the process of creation has been left visible. the first half of the poem experiments with the placement of the one-word refrain; the stanzas of the second half proceed with the stanza finally achieved." (Schurr 19) [Poetics]</note>
+			<body><div xml:id="the-victor-of-antietam">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0077.jpg"/>
+				<head type="main"><ref target="#ref_20966"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:45" type="event">The Victor of Antietam</name></ref><note xml:id="ref_20966">Reprinted in R. H. Stoddard's edition of Rufus M. Griswold's <hi rend="italic">Poets and Poetry of America</hi> (New York: Hames Miller, 1873), 631.<!-- "The poem may be read as a poem in search of itself; that is, as a poem in which the process of creation has been left visible. The first half of the poem experiments with the placement of the one-word refrain; the stanzas of the second half proceed with the stanza finally achieved." (Schurr 19)--> </note>e</head>
+<head type="sub-head">(1862.)</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">(1862.) 
+<lg type="sestet">
+<l><hi rend="smallcaps">When</hi> tempest winnowed <ref target="#ref_21082">grain from bran</ref>
+<!-- <note xml:id="ref_21082">This appears to be an image of mass death. As the bran is winnowed (separated) from the grain, the body is separated from the soul.</note> -->,</l>
+<l>And men were looking for a man,</l>
+<l><ref target="#ref_21074">Authority called you</ref><note xml:id="ref_21074">McClellan was appointed commander of the Army of the Potomac after General Irvin McDowell faced defeat at the battle of the First Bull Run. Once General Winfield Scott retired in November 1861, McClellan then became the General-in-Chief of the Federal armies" (https://www.civilwar.org/learn/biographies/george-b-mcclellan).</note> to the <ref target="#ref_21069">van</ref><note xml:id="ref_21069">Van can refer to “the front of an army; or the front line or foremost division of a fleet, either in sailing or in battle”––or, as a pun relating to "winnowed grain" in Melville's first line, "a fan for winnowing grain” (Webster, <hi rend="italic">An American Dictionary of the English Language</hi>, 1846).</note>,</l>
+<l rend="8em"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:178" type="person">McClellan</name>:</l>
+<l n="5"><ref target="#ref_21073">Along the line the plaudit ran</ref><note xml:id="ref_21073">As a new commander, McClellan gained the respect and admiration of Union troops, “instilling in them a remarkable (esprit de corps),” despite his near constant querelling with Lincoln (https://www.civilwar.org/learn/biographies/george-b-mcclellan).</note>,</l>
+<l>As later when <name ref="https://mel-catalog.herokuapp.com/api/entries/place:457" type="place">Antietam</name>&apos;s cheers began.</l>
+</lg>
+<!-- <note xml:id="ref_21115"> In her article “Correspondent Lines,” Eliza Richards interprets the “univocality” of both spectators (those “long the line” of newspaper reports) and soldiers (who later shout “Antietam’s cheers” along the line of battle) as “eerily mindless.” Richards adds that the “authority" that promotes McClellan is "probably not the will of the people [...] since ‘Antietam’s cheers’ preceded or accompanied a slaughter—not to mention that McClellan lost his command soon after the battle …” (156).
+</note> -->
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">–––––––––––––––
+<lg>
+<l>Through storm-cloud and eclipse must move</l>
+<l>Each Cause and Man, dear to the stars and <name ref="https://mel-catalog.herokuapp.com/api/entries/person:220" type="person">Jove</name>;</l>
+<l>Nor always can the wisest tell</l>
+<l n="10">Deferred fulfillment from the hopeless knell—</l>
+<l>The struggler from the floundering ne&apos;er-do-well</l>.
+<l>A pall-cloth on <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">the Seven Days</name> fell,</l>
+<l rend="8em">McClellan—</l>
+<l>Unprosperously heroical!</l>
+<l n="15">Who could Antietam&apos;s <ref target="#ref_21188">wreath</ref><note xml:id="ref_21188">The wreath here refers both to the figurative wreath that would crown the victor, as well as the many wreaths laid to commemorate the fallen.</note> foretell?</l>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0078.jpg"/>
+<l><ref target="#ref_21072">Authority called you; then, in mist
+And loom of jeopardy—dismissed.</ref><note xml:id="ref_21072">Due to Lincoln’s eagerness to mount an offensive against Lee’s army and McClellan’s hesitancy, the latter was removed as General-in-Chief in the spring of 1862, though he still retained command of the Potomac Army. Soon after, McClellan led the army in the Peninsula Campaign to take Richmond. After the bloody Seven Day’s battles that ended the Peninsula Campaign without the capture of Richmond, Lincoln relieved McClellan of his command, appointing Henry Halleck as General-in-Chief of the army and General John Pope as commander of the Army of the Potomac (https://www.civilwar.org/learn/biographies/george-b-mcclellan).
+Leslie McAbee</note></l>
+<l>But staring peril soon appalled;</l>
+<l>You, the Discarded, she recalled—</l>
+<l>Recalled you, nor <ref target="#ref_21077">endured delay</ref><note xml:id="ref_21077">Lincoln reinstated McClellan as commander after John Pope failed to take Richmond in the battle of Second Manassas. McClellan moved the Union army to rout Lee’s march on Maryland in 1862.</note>;</l>
+<l n="20">And forth you rode upon a blasted way,</l>
+<l>Arrayed <name ref="https://mel-catalog.herokuapp.com/api/entries/person:193" type="person">Pope</name>&apos;s rout, and routed <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>&apos;s array,</l>
+<l rend="8em">McClellan:</l>
+<l>Your tent was <ref target="#ref_21196">choked with captured flags that day</ref><note xml:id="ref_21196"> Although Melville emphasizes the flags captured and brought to McClellan, the Union and Confederate forces suffered comparable losses in the battle.</note>,</l>
+<l rend="8em">McClellan.</l>
+<l n="25"><ref target="#ref_21078">Antietam was a telling fray</ref><note xml:id="ref_21078">McClellan’s maneuvers to rebuff Lee’s advance in Maryland culminated in the battle of Antietam, also known as the Battle of Sharpsburg, on September 17, 1862, known as the single bloodiest day of the war.</note>.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">When tempest winnowed <ref target="#ref_21082">grain from bran</ref><note xml:id="ref_21082">WHEAT FROM BRAN [Denotation] Melville’s copy of Webster’s 1846 dictionary edition defines “bran” as “the outer coat of wheat, rye, or other farinaceous grain, separated from the flour by grinding” (Webster, An American Dictionary of the English Language, 1846). 
-[Style--imagery] This appears to be an image of mass death. As the bran is winnowed (separated) from the grain, the body is separated from the soul.
-(Leslie McAbee)</note>,
-And men were looking for a man,
-<ref target="#ref_21074">Authority called you to the <ref target="#ref_21069">van</ref><note xml:id="ref_21069">VAN [denotation] Melville’s copy of Webster’s 1846 dictionary includes definitions for “van” relevant to the first stanza. The foremost signification refers to “[t]he front of an army; or the front line or foremost division of a fleet, either in sailing or in battle.” The secondary definition presents a possible pun in keeping with the winnowing imagery of the first line: “Among farmers, a fan for winnowing grain” (Webster, An American Dictionary of the English Language, 1846). 
-(Leslie McAbee)</note>,
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:178" type="person">McClellan</name>:</ref><note xml:id="ref_21074">AUTHORITY CALLED YOU TO THE VAN [Allusion—historical] McClellan was appointed commander of the Army of the Potomac after General Irvin McDowell faced defeat at the battle of the First Bull Run. Once General Winfield Scott retired in November 1861, McClellan then became the General-in-Chief of the Federal armies" (https://www.civilwar.org/learn/biographies/george-b-mcclellan).
-(Leslie McAbee)</note><ref target="#ref_21069">van</ref><note xml:id="ref_21069">VAN [denotation] Melville’s copy of Webster’s 1846 dictionary includes definitions for “van” relevant to the first stanza. The foremost signification refers to “[t]he front of an army; or the front line or foremost division of a fleet, either in sailing or in battle.” The secondary definition presents a possible pun in keeping with the winnowing imagery of the first line: “Among farmers, a fan for winnowing grain” (Webster, An American Dictionary of the English Language, 1846). 
-(Leslie McAbee)</note>,
-McClellan:
-<ref target="#ref_21115"><ref target="#ref_21073">Along the line the <ref target="#ref_21065">plaudit</ref><note xml:id="ref_21065">PLAUDIT [Denotation] Meville’s copy of Webster’s 1846 dictionary defines “plaudit” as “applause; praise bestowed” (Webster, An American Dictionary of the English Language, 616).
-(Leslie McAbee)</note> ran</ref><note xml:id="ref_21073">Allusion—historical] As a new commander, McClellan gained the respect and admiration of Union troops, “instilling in them a remarkable (esprit de corps)” (https://www.civilwar.org/learn/biographies/george-b-mcclellan).
-(Leslie McAbee)</note>,
-As later when Antietam&apos;s cheers began.</ref><note xml:id="ref_21115">[Criticism] In her article “Correspondent Lines,” Eliza Richards interprets the “univocality” of both spectators (those “[a]long the line” of newspaper reports) and soldiers (who later shout “Antietam’s cheers” along the line of battle) as “eerily mindless.” Richards adds that the “authority" that promotes McClellan is "probably not the will of the people [...] since ‘Antietam’s cheers’ preceded or accompanied a slaughter—not to mention that McClellan lost his command soon after the battle …” (156).
-(Leslie McAbee)</note>
+<lg type="sestet">
+<l>Recalled you; and she heard your drum</l>
+<l>Advancing through the ghastly gloom.</l>
+<l>You manned the wall, you propped <name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">the Dome</name>,</l>
+<l>You stormed the powerful stormer home,</l>
+<l n="30" rend="8em">McClellan:</l>
+<l>Antietam&apos;s cannon long shall boom.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Through storm-cloud and eclipse must move
-Each Cause and Man, dear to the stars and <name ref="https://mel-catalog.herokuapp.com/api/entries/person:220" type="person">Jove</name>;
-Nor always can the wisest tell
-Deferred fulfillment from the hopeless knell—
-The straggler from the floundering ne&apos;er-do-well.
-A pall-cloth on <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">the Seven Days</name> fell,
-McClellan—
-Unprosperously heroical!
-Who could Antietam&apos;s <ref target="#ref_21188">wreath</ref><note xml:id="ref_21188">[allusion][interpretation] The wreath here refers both to the figurative wreath that would crown the victor, as well as the many wreaths laid to commemorate the fallen. (Eric Meckley)</note> foretell?
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781155239-6gwfskzot0fqolxr-66ba8202150d24131d862e42a6e00e45%2F80.jpg"/><ref target="#ref_21072">Authority called you; then, in mist
-And loom of jeopardy—dismissed.</ref><note xml:id="ref_21072">AUTHORITY CALLED YOU…DISMISSED [Allusion—historical] Due to Lincoln’s eagerness to mount an offensive against Lee’s army and McClellan’s hesitancy, the latter was removed as General-in-Chief in the spring of 1862, though he still retained command of the Potomac Army. Soon after, McClellan led the army in the Peninsula Campaign to take Richmond. After the bloody Seven Day’s battles that ended the Peninsula Campaign without the capture of Richmond, Lincoln relieved McClellan of his command, appointing Henry Halleck as General-in-Chief of the army and General John Pope as commander of the Army of the Potomac (Biography: George B. McClellan, https://www.civilwar.org/learn/biographies/george-b-mcclellan).
-Leslie McAbee</note>
-But staring peril soon appalled;
-<ref target="#ref_21077">You, the Discarded, she recalled—
-Recalled you, nor endured delay;
-And forth you rode upon a blasted way,
-<ref target="#ref_21070">Arrayed</ref><note xml:id="ref_21070">ARRAYED [Denotation] Melville’s copy of Webster’s 1846 dictionary defines “arrayed” as follows: “Set in order, or in lines; arranged in order for attack or defense; dressed; adorned by dress; impanneled” (An American Dictionary of the English Language). [Intratextuality] Hennig Cohen notes that Melville elsewhere enlists a variation of “array” in the Battle-Pieces poem “Lee in the Capitol” (line 37) : “Of Pope’s impelled retreat in disarray” (234).
-(Leslie McAbee)</note> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:193" type="person">Pope</name>&apos;s rout, and routed <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>&apos;s array,
-McClellan</ref><note xml:id="ref_21077">YOU, THE DISCARDED…ENDURED DELAY [Allusion—historical] Lincoln reinstated McClellan as commander after John Pope failed to take Richmond in the battle of Second Manassas. McClellan moved the Union army to rout Lee’s march on Maryland in 1862 (Biography: George B. McClellan, https://www.civilwar.org/learn/biographies/george-b-mcclellan).
-(Leslie McAbee)</note>:
-Your tent was <ref target="#ref_21196">choked with captured flags that day</ref><note xml:id="ref_21196">[allusion][historical][interpretation] Although Melville emphasizes the flags captured and brought to McClellan, the Union and Confederate forces suffered comparable losses in the battle. (jpulz@unc.edu / Eric Meckley)</note>,
-McClellan.
-<ref target="#ref_21078">Antietam was a telling <ref target="#ref_21071">fray</ref><note xml:id="ref_21071">FRAY [Style—pun] While the primary signification of “fray” here means “[a] combat, a battle,” it also connotes the wearing of fabric, which may be significant to the image of “captured flags” two lines above.
-(Leslie McAbee)</note></ref><note xml:id="ref_21078">ANTIETAM WAS A TELLING FRAY [Allusion—historical] McClellan’s maneuvers to rebuff Lee’s advance in Maryland culminated in the battle of Antietam, also known as the Battle of Sharpsburg, on September 17, 1862, known as the single bloodiest day of the war (Biography: George B. McClellan, https://www.civilwar.org/learn/biographies/george-b-mcclellan).
-(Leslie McAbee)</note>.
+<lg>
+<l><ref target="#ref_21080">At <name ref="https://mel-catalog.herokuapp.com/api/entries/place:472" type="place">Alexandria</name>, left alone,</ref></l>
+<l rend="8em">McClellan—</l>
+<l>Your veterans sent from you, and thrown</l>
+<l n="35">To fields and fortunes all unknown—<note xml:id="ref_21080">Following the Peninsula Campaign, in which he failed to capture Richmond, McClellan withdrew his men to Aquia Creek, VA, and Alexandria, VA. Most of McClellan's men were reassigned to John Pope's command in August 1862 after McClellan was relieved of duty as commander of the Army of the Potomac.</note></l>
+<l>What thoughts were yours, revealed to none,</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0079.jpg"/>While faithful still you labored on—</l>
+<l><ref target="#ref_21081">Hearing the far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:450" type="place">Manassas</name> gun!</ref><note xml:id="ref_21081">After McClellan's command was given to Major General John Pope, the latter met a withering defeat at the Battle of Second Manassas in August of 1862. McClellan was subsequently reinstated as commander of the Army of the Potomac.</note></l>
+<l rend="8em">McClellan,</l>
+<l n="40">Only Antietam could atone.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Recalled you; and she heard your drum
-Advancing through the ghastly gloom.
-You manned the wall, you propped <name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">the Dome</name>,
-You stormed the powerful stormer home,
-McClellan:
-Antietam&apos;s cannon long shall boom.
+<lg>
+<l>You fought in the front (an evil day,</l>
+<l rend="8em">McClellan)—</l>
+<l>The fore-front of the first assay;</l>
+<l>The Cause went <ref target="#ref_21066">sounding</ref><note xml:id="ref_21066">Hennig Cohen identifies “sounding” as one of several nautical puns in lines 45-46. “Sounding,”  according to Cohen, can refer to “measuring depth for the purpose of safe navigation” but also “dropping down abruptly, and as a whaling term connotes uncertainty and suspense over when or whether the whale will surface” (Cohen 234). 
+</note>, groped its way;</l>
+<l n="45">The <ref target="#ref_21067">leadsmen</ref><note xml:id="ref_21067">In lines 45-46, Hennig Cohen suggests that Melville offers several nautically-themed puns. As one of them, “leadsman” is someone who “takes soundings or measurements of depth with a lead-weighted line.” However, Cohen contends that the primary meaning for this line is of “a person who leads.” Cohen adds that this signification “is re-enforced by the fact that (leadsman) is a variant of (lodesman), meaning leader, guide, pilot or steersman (N.E.D.) (234).</note> quarrelled <ref target="#ref_21068">in the bay</ref><note xml:id="ref_21068">Hennig Cohen identifies this phrase as one of three nautical puns in lines 45-46. This phrase of course “refers to a body of water and to the state of being held in check, at bay” (234).</note>;</l>
+<l>Quills thwarted swords; divided sway;</l>
+<l>The rebel flushed in his lusty May:</l>
+<l>You did your best, as in you lay,</l>
+<l rend="8em">McClellan.</l>
+<l n="50">Antietam&apos;s sun-burst sheds a ray.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><ref target="#ref_21080">At <name ref="https://mel-catalog.herokuapp.com/api/entries/place:472" type="place">Alexandria</name>, left alone,
-McClellan—
-Your veterans sent from you, and thrown
-To fields and fortunes all unknown—</ref><note xml:id="ref_21080">AT ALEXANDRIA...ALL UNKNOWN [Allusion--historical] Following the Peninsula Campaign, in which he failed to capture Richmond, McClellan withdrew his men to Aquia Creek, VA and Alexandira, VA. Most of McClellan's men were reassigned to John Pope in August of 1862 after McClellan was relieved of duty as commander of the Army of the Potomac (blueandgraytrail.com).
-(Leslie McAbee)</note>
-What thoughts were yours, revealed to none,
+<lg>
+<l>Your medalled soldiers love you well,</l>
+<l rend="8em">McClellan:</l>
+<l>Name your name, their true hearts swell;</l>
+<l><ref target="#ref_21079">With you they shook dread <name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name>&apos;s spell</ref><note xml:id="ref_21079">Before the Battle of Malvern Hill, the final clash of the Seven Days Battles and the Peninsula Campaign, McClellan seized a strategic position at Glendale, where the Federal army needed to advance to the James River. Lee sent several divisions, including Major General Thomas “Stonewall” Jackson to attack the Union’s Glendale position, which was located between Malvern Hill and White Oak Swamp. Federal artillery prevented Jackson’s advance through White Oak Swamp (“The Seven Days Battles,” https://www.civilwar.org/learn/articles/seven-days-battles).</note>,</l>
+<l n="55">With you they braved the blended yell</l>
+<l>Of rebel and maligner fell;</l>
+<l>With you in shame or fame they dwell,</l>
+<l rend="8em">McClellan:</l>
+<l><ref target="#ref_21199">Antietam-braves a brave can tell</ref><note xml:id="ref_21199">Here Melville uses the trope of native American warrior "braves" to symbolize the commonality between those who fought at Antietam. This also appears in "Apathy and Enthusiasm," "Donelson," and "Running the Batteries," among others.</note>.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781157792-e6ghd9boma13jtt9-66ba8202150d24131d862e42a6e00e45%2F81.jpg"/>While faithful still you labored on—
-<ref target="#ref_21081">Hearing the far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:450" type="place">Manassas</name> gun!</ref><note xml:id="ref_21081">HEARING THE FAR MANASSAS GUN [Allusion--historical] After McClellan's command was given to Major General John Pope, the latter met a withering defeat at the Battle of Second Manassas in August of 1862. McClellan was subsequently reinstated as commander of the Army of the Potomac ("Biography: George McClellan, https://www.civilwar.org/learn/biographies/george-b-mcclellan).
-(Leslie McAbee)</note>
-McClellan,
-Only Antietam could atone.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">You fought in the front (an evil day,
-McClellan)—
-The fore-front of the first assay;
-The Cause went <ref target="#ref_21066">sounding</ref><note xml:id="ref_21066">SOUNDING [Criticism—canonical] [Style—pun] Hennig Cohen identifies “sounding” as one of several nautical puns in lines 45-46. “Sounding,”  according to Cohen, can refer to “measuring depth for the purpose of safe navigation” but also “dropping down abruptly, and as a whaling term connotes uncertainty and suspense over when or whether the whale will surface” (Cohen 234). 
-(Leslie McAbee)</note>, groped its way;
-The <ref target="#ref_21067">leadsmen</ref><note xml:id="ref_21067">LEADSMAN [Criticism—canonical] [Style—pun] In lines 45-46, Hennig Cohen suggests that Melville offers several nautically-themed puns. As one of them, “leadsman” is someone who “takes soundings or measurements of depth with a lead-weighted line.” However, Cohen contends that the primary meaning for this line is of “a person who leads.” Cohen adds that this signification “is re-enforced by the fact that (leadsman) is a variant of (lodesman), meaning leader, guide, pilot or steersman (N.E.D.) (234).  
-(Leslie McAbee)</note> quarrelled <ref target="#ref_21068">in the bay</ref><note xml:id="ref_21068">IN THE BAY [Criticism—canonical] [Style] Hennig Cohen identifies this phrase as one of three nautical puns in lines 45-46. This phrase of course “refers to a body of water and to the state of being held in check, at bay” (234). 
-
-(Leslie McAbee)</note>;
-Quills thwarted swords; divided sway;
-The rebel flushed in his lusty May:
-You did your best, as in you lay,
-McClellan.
-Antietam&apos;s sun-burst sheds a ray.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Your medalled soldiers love you well,
-McClellan:
-Name your name, their true hearts swell;
-<ref target="#ref_21079">With you they shook dread <name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name>&apos;s spell</ref><note xml:id="ref_21079">WITH YOU THEY SHOOK DREAD STONEWALL'S SPELL [Allusion—historical] Before the Battle of Malvern Hill, the final clash of the Seven Days Battles and the Peninsula Campaign, McClellan seized a strategic position at Glendale, which the Federal army needed to advance to the James river. Lee sent several divisions, including Major General Thomas “Stonewall” Jackson to attack the Union’s Glendale position, which was located between Malvern Hill and White Oak Swamp. Federal artillery prevented Jackson’s advance through White Oak Swamp (“The Seven Days Battles,” https://www.civilwar.org/learn/articles/seven-days-battles)
-(Leslie McAbee)</note>,
-With you they braved the blended yell
-Of rebel and maligner fell;
-With you in shame or fame they dwell,
-McClellan:
-<ref target="#ref_21199">Antietam-braves a brave can tell</ref><note xml:id="ref_21199">[allusion][literary][intratextual] Here Melville uses the trope of native American warrior "braves" to symbolize the commonality between those who fought at Antietam. This also appears in "Apathy and Enthusiasm," "Donelson," and "Running the Batteries," among others.  (Eric Meckley)</note>.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781160635-rlv3dpdp6s3v7vi-66ba8202150d24131d862e42a6e00e45%2F82.jpg"/><ref target="#ref_21116">And when your comrades (now so few,
-McClellan—
-Such ravage in deep files they rue)</ref><note xml:id="ref_21116">AND WHEN YOUR COMRADES … DEEP FILES THEY RUE) [Critical] Eliza Richards suggests that the last stanza reflects a change in the “line” of support for McClellan mentioned in the first stanza. In the last stanza, McClellan’s support has dwindled as many of the soldiers who loved him have died in battle. Richards reads “deep files” as an image that “evokes both trenches dug as mass graves and swathes of men cut down by mechanized weapons in rows running perpendicular to advancing battle lines” (“Correspondent Lines” 157).
-(Leslie McAbee)</note>
-Meet round the board, and sadly view
-The empty places; tribute due
-They render to the dead—and you!
-Absent and silent o&apos;er the blue;
-The one-armed lift the wine to you,
-<ref target="#ref_21117">McClellan</ref><note xml:id="ref_21117">[Critical] [Poetics—lineation] Eliza Richards argues that the poem’s broken lines, cut short to shout “McClellan” in a “one-beat line,” create a visual impression of newspaper and poetry print “full of white spaces and gaps that cannot be closed.” Richards reads this discontinuity in the poem’s lineation as “an analogy to looking around the table and seeing the permanent gaps in a once seemingly solid and infinite black line of force” (“Correspondent Lines” 158).
-(Leslie McAbee)</note>,
-And great Antietam&apos;s cheers renew.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-</p></div></body>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0080.jpg"/>
+<lg>
+<l n="60"><ref target="#ref_21116">And when your comrades (now so few,</ref><note xml:id="ref_21116">AND WHEN YOUR COMRADES … DEEP FILES THEY RUE)  Eliza Richards suggests that the last stanza reflects a change in the “line” of support for McClellan mentioned in the first stanza. In the last stanza, McClellan’s support has dwindled as many of the soldiers who loved him have died in battle. Richards reads “deep files” as an image that “evokes both trenches dug as mass graves and swathes of men cut down by mechanized weapons in rows running perpendicular to advancing battle lines” (“Correspondent Lines” 157).</note></l>
+<l rend="8em">McClellan—</l>
+<l>Such ravage in deep files they rue)</l>
+<l>Meet round the board, and sadly view</l>
+<l>The empty places; tribute due</l>
+<l n="65">They render to the dead—and you!</l>
+<l>Absent and silent o&apos;er the blue;</l>
+<l>The one-armed lift the wine to you,</l>
+<l rend="8em"><ref target="#ref_21117">McClellan</ref><note xml:id="ref_21117">Eliza Richards argues that the poem’s broken lines, cut short to shout “McClellan” in a “one-beat line,” create a visual impression of newspaper and poetry print “full of white spaces and gaps that cannot be closed.” Richards reads this discontinuity in the poem’s lineation as “an analogy to looking around the table and seeing the permanent gaps in a once seemingly solid and infinite black line of force” (“Correspondent Lines” 158).
+</note>,</l>
+<l>And great Antietam&apos;s cheers renew.</l>
+</lg>
+</div>
+			</body>
 		</text>
 	</TEI>
