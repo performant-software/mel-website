@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>28 - The Armies of the Wilderness</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,91 +15,43 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<front><p><pb/><pb/><pb/><pb/><pb/><pb/><pb/><pb/><pb/><pb/><pb/><pb/><pb/>Battle-Pieces
-and
-Aspects of the WarHerman Melville
-1866
-New York:
-Harper &amp; Brothers, Publishers
-Franklin Square<pb/></p><div><p> Entered, according to Act of Congress, in the year one thousand eight hundred
-and sixty-six, by
-HARPER &amp; BROTHERS,
-In the Clerk&apos;s Office of the District Court of the Southern District of
-New York.
+<body><div id="28--the-armies-of-the-wilderness">
 
-</p><p>
-</p></div><pb/><div><p>THE BATTLE-PIECES
-IN THIS VOLUME ARE DEDICATED
-TO THE MEMORY OF THE
-THREE HUNDRED THOUSAND
-WHO IN THE WAR
-FOR THE MAINTENANCE OF THE UNION
-FELL DEVOTEDLY
-UNDER THE FLAG OF THEIR FATHERS.
+	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0101.jpg"/>
+	<head type="main">
+	<hi rend="italic">The Armies of the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name>.</hi>
+	</head>
+	<head type="sub-head">
+	<hi rend="italic">Indicative of the passion of the people on the 15th of<lb/> April, 1865.</hi>
+	(1863-4.)
+	</head>
 
-</p><p>
-</p></div><pb/><pb/><div><p>[ With few exceptions, the Pieces in this volume originated in an impulse
-imparted by the fall of Richmond. They were composed without reference to
-collective arrangement, but, being brought together in review, naturally fall into
-the order assumed.
-
-</p><p>The events and incidents of the conflict—making up a whole, in varied amp-
-litude, corresponding with the geographical area covered by the war—from
-these but a few themes have been taken, such as for any cause chanced to im-
-print themselves upon the mind.
-
-</p><p>The aspects which the strife as a memory assumes are as manifold as are the
-moods of involuntary meditation—moods variable, and at times widely at vari-
-ance. Yielding instinctively, one after another, to feelings not inspired from
-any one source exclusively, and unmindful, without purposing to be, of consis-
-tency, I seem, in most of these verses, to have but placed a harp in a window,
-and noted the contrasted airs which wayward winds have played upon the
-strings.]
-
-</p><p>
-</p></div><pb/><pb/><div><head>Contents.</head><p>page Misgivings <ref target="n25">13</ref> The Conflict of Convictions <ref target="n26">14</ref> Apathy and Enthusiasm <ref target="n31">19</ref> The March into Virginia <ref target="n34">22</ref> Lyon <ref target="n36">24</ref> Ball&apos;s Bluff <ref target="n40">28</ref> Dupont&apos;s Round Fight <ref target="n42">30</ref> The Stone Fleet <ref target="n43">31</ref> Donelson <ref target="n45">33</ref> The Cumberland <ref target="n65">53</ref> In the Turret <ref target="n67">55</ref> The Temeraire <ref target="n70">58</ref> A utilitarian View of the Monitor&apos;s Fight <ref target="n73">61</ref> Shiloh <ref target="n75">63</ref> The Battle for the Mississippi <ref target="n76">64</ref> Malvern Hill <ref target="n79">67</ref> The Victor of Antietam <ref target="n81">69</ref> Battle of Stone River <ref target="n85">73</ref> Running the Batteries <ref target="n87">75</ref><pb/> Stonewall Jackson <ref target="n91">79</ref> Stonewall Jackson (ascribed to a Virginian) <ref target="n93">81</ref> Gettysburg <ref target="n96">84</ref> The House-top <ref target="n98">86</ref> Look-out Mountain <ref target="n100">88</ref> Chattanooga <ref target="n102">90</ref> The Armies of the Wilderness <ref target="n105">93</ref> On the Photograph of a Corps Commander <ref target="n117">105</ref> The Swamp Angel <ref target="n119">107</ref> The Battle for the Bay <ref target="n122">110</ref> Sheridan at Cedar Creek <ref target="n128">116</ref> In the Prison Pen <ref target="n130">118</ref> The College Colonel <ref target="n132">120</ref> The Eagle of the Blue <ref target="n134">122</ref> A Dirge for McPherson <ref target="n136">124</ref> At the Cannon&apos;s Mouth <ref target="n138">126</ref> The March to the Sea <ref target="n140">128</ref> The Frenzy in the Wake <ref target="n145">133</ref> The Fall of Richmond <ref target="n147">135</ref> The Surrender at Appomattox <ref target="n149">137</ref> A Canticle <ref target="n150">138</ref> The Martyr <ref target="n153">141</ref>“ The Coming Storm” <ref target="n155">143</ref> Rebel Color-bearers at Shiloh <ref target="n156">144</ref><pb/> The Muster <ref target="n158">146</ref> Aurora Borealis <ref target="n160">148</ref> The released Rebel Prisoner <ref target="n162">150</ref> A Grave near Petersburg, Virginia <ref target="n165">153</ref>“ Formerly a Slave” <ref target="n166">154</ref> The Apparition <ref target="n167">155</ref> Magnanimity Baffled <ref target="n168">156</ref> On the Slain Collegians <ref target="n169">157</ref> America <ref target="n172">160</ref> VERSES INSCRIPTIVE AND MEMORIAL. On the Home Guards who perished in the
-Defense of Lexington, Missouri <ref target="n177">165</ref> Inscription for Graves at Pea Ridge,
-Arkansas <ref target="n178">166</ref> The Fortitude of the North under the
-Disaster of the Second Manassas <ref target="n179">167</ref> On the Men of Maine killed in the Vic-
-tory of Baton Rouge, Louisiana <ref target="n180">168</ref> An Epitaph <ref target="n181">169</ref> Inscription for Marye&apos;s Heights, Freder-
-icksburg <ref target="n182">170</ref> The Mound by the Lake <ref target="n183">171</ref> On the Slain at Chickamauga <ref target="n184">172</ref><pb/> An uninscribed Monument on one of the
-Battle-fields of the Wilderness <ref target="n185">173</ref> On Sherman&apos;s Men who fell in the Assault
-of Kenesaw Mountain, Georgia <ref target="n186">174</ref> On the Grave of a young Cavalry Officer
-killed in the Valley of Virginia <ref target="n187">175</ref> A Requiem for Soldiers lost in Ocean
-Transports <ref target="n188">176</ref> On a natural Monument in a Field of
-Georgia <ref target="n190">178</ref> Commemorative of a Naval Victory <ref target="n192">180</ref> Presentation to the Authorities by Privates
-of Colors captured in Battles ending in
-the Surrender of Lee <ref target="n194">182</ref> The returned Volunteer to his Rifle <ref target="n195">183</ref> The Scout toward Aldie <ref target="n199">187</ref> Lee in the Capitol <ref target="n229">217</ref> A Meditation <ref target="n251">239</ref> Notes <ref target="n257">245</ref> Supplement <ref target="n271">259</ref>
-
-</p><p>
-</p></div></front><body><div xmlns="" id="28--the-armies-of-the-wilderness"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999341920-s1m0lxzi1mjz6w29-a70a4effd1ee9f06fb9b23c63688324a%2F103.jpg"/>The Armies of the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name>
-(1863-4)
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Like snows the camps on southern hills
-  Lay all the winter long,
-Our levies there in patience stood—
-  They stood in patience strong.
-On fronting slopes gleamed other camps
-  Where faith as firmly clung:
-Ah, <ref target="#ref_21064"><name type="person">froward</name></ref><note xml:id="ref_21064">FROWARD [Definition] According to Melville’s 1846 copy of Webster’s Dictionary, “froward” describes what is “[p]erverse, that is, turning from, with aversion or reluctance; not willing to yield or comply with what is required; unyielding; ungovernable; refractory; disobedient; peevish” (Webster, An American Dictionary of the English Language, 362).
-(Leslie McAbee)</note> king! so brave miss—
-  The zealots of the Wrong.
+	<lg>
+	<l rend="12em">I.</l>
+<l><hi rend="smallcaps">Like</hi> snows the camps on southern hills</l>
+<l rend="2em">Lay all the winter long,</l>
+<l>Our levies there in patience stood—</l>
+<l rend="2em">They stood in patience strong.</l>
+<l>On fronting slopes gleamed other camps</l>
+<l rend="2em">Where faith as firmly clung:</l>
+<l>Ah, froward kin! so brave miss—</l>
+<l rend="2em">The zealots of the Wrong.</l>
+</lg>
+<lg>
 <hi rend="italic">
-        In this strife of brothers
-          (God, hear their country call),
-        However it be, whatever betide,
-          Let not the just one fall.</hi></p><p xmlns="http://www.tei-c.org/ns/1.0">        In this strife of brothers
-          (God, hear their country call),
-        However it be, whatever betide,
-          Let not the just one fall.
+<l rend="6em">In this strife of brothers</l>
+<l rend="8em">(God, hear their country call),</l>
+<l rend="6em">However it be, whatever betide,</l>
+<l rend="8em">Let not the just one fall.</hi></l>
+</lg>
+<lg>
+<l>Through the pointed glass our soldiers saw</l>
+<l rend="2em">The base-ball bounding sent;</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Through the pointed glass our soldiers saw
-  The base-ball bounding sent;
-____________________________________
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
+<!--
 
   <hi rend="italic">      </hi>
 But the field-mouse small and busy ant
@@ -148,7 +97,7 @@ Are flung to his kennel. It is ravage and range,
 [denotation]</note> let loose
           On the Pampas—zebras again.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Like the <ref target="#ref_19174">Pleiads</ref><note xml:id="ref_19174">Cluster of stars in the Taurus constellation. 
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Like the <ref target="#ref_19174">Pleiads</ref><note xml:id="ref_19174">Cluster of stars in the Taurus constellation.
 
 See: https://en.wikipedia.org/wiki/Pleiades
 
@@ -207,9 +156,9 @@ Borne by the cavalry scouting on—
   Sounding the Wilderness.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">        <hi rend="italic"><ref target="#ref_19181">Like shoals of fish in spring
-          That visit <ref target="#ref_19178">Crusoe</ref><note xml:id="ref_19178">Robinson Crusoe, main character of Daniel Defoe's 1719 novel of the same name. 
+          That visit <ref target="#ref_19178">Crusoe</ref><note xml:id="ref_19178">Robinson Crusoe, main character of Daniel Defoe's 1719 novel of the same name.
 
-[reference, literary]</note>&apos;s <ref target="#ref_19179">isle</ref><note xml:id="ref_19179">Uninhabited island upon which Robinson Crusoe was stranded after a shipwreck in Defoe's 1719 novel. 
+[reference, literary]</note>&apos;s <ref target="#ref_19179">isle</ref><note xml:id="ref_19179">Uninhabited island upon which Robinson Crusoe was stranded after a shipwreck in Defoe's 1719 novel.
 
 [reference, literary]</note></ref><note xml:id="ref_19181">Drawn from incident in Defoe's novel Robinson Crusoe
 
@@ -283,14 +232,14 @@ But Heaven lent strength, the Right strove well,
   And emerged from the Wilderness.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">       <hi rend="italic"> Emerged, for the way was won;
-          But t<ref target="#ref_19186">he Pillar of Smoke</ref><note xml:id="ref_19186">Alluding to the the pilar of smoke followed by the Israelites through the Wilderness as described in the Book of Exodus. 
+          But t<ref target="#ref_19186">he Pillar of Smoke</ref><note xml:id="ref_19186">Alluding to the the pilar of smoke followed by the Israelites through the Wilderness as described in the Book of Exodus.
 
 [reference, biblical]</note> that led
         Was brand-like with ghosts that went up
               Ashy and red.</hi>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">None can narrate that strife in the pines,
-  A seal is on it—<ref target="#ref_19191">Sabaean</ref><note xml:id="ref_19191">Ancient people of the Arabian Peninsula mention in the Old Testament books of Job, Joel, Ezekiel, and Isaiah. 
+  A seal is on it—<ref target="#ref_19191">Sabaean</ref><note xml:id="ref_19191">Ancient people of the Arabian Peninsula mention in the Old Testament books of Job, Joel, Ezekiel, and Isaiah.
 
 [reference, biblical, group]
 
@@ -306,7 +255,9 @@ A riddle of death, of which the slain
           Of the shroudless dead. It is right;
         Not yet can we bear the flare
             Of the funeral light.</hi>
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999345979-i05gmgcavjd4e7b9-a70a4effd1ee9f06fb9b23c63688324a%2F104.jpg"/><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999349721-h630bo7b80rdaemi-a70a4effd1ee9f06fb9b23c63688324a%2F105.jpg"/>&quot;Well, then, your camps—come, tell the names!&quot;
+
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999345979-i05gmgcavjd4e7b9-a70a4effd1ee9f06fb9b23c63688324a%2F104.jpg"/><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999349721-h630bo7b80rdaemi-a70a4effd1ee9f06fb9b23c63688324a%2F105.jpg"/>
+&quot;Well, then, your camps—come, tell the names!&quot;
   Freely he leveled his finger then:
 &quot;Yonder—see—are our Georgians; on the crest,
   The Carolinians; lower, past the glen,
@@ -333,7 +284,8 @@ Deep through the dim suspected wood
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">
 
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999353204-rvoadfo5snel8fr-a70a4effd1ee9f06fb9b23c63688324a%2F106.jpg"/>		The Indian has passed away,
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999353204-rvoadfo5snel8fr-a70a4effd1ee9f06fb9b23c63688324a%2F106.jpg"/>
+The Indian has passed away,
           But creeping comes another—
         Deadlier far. Picket,
           Take heed—take heed of thy brother!
@@ -355,8 +307,18 @@ The hearth is a houseless stone again—
 </p><p xmlns="http://www.tei-c.org/ns/1.0">A path down the mountain winds to the glade
   Where the dead of the Moonlight Fight lie low;
 A hand reaches out of the thin-laid mould
-  As begging help which none can bestow.<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999370591-dwg1h7ikricnmi-a70a4effd1ee9f06fb9b23c63688324a%2F111.jpg"/>O the clammy cold November,And the winter white and dead,And the terror dumb with stupor,And the sky a sheet of lead;And events that came resoundingWith the cry that All was lost,Like the thunder-cracks of massy iceIn intensity of frost—Bursting one upon anotherThrough the horror of the calm.The paralysis of armIn the anguish of the heart;And the hollowness and dearth.The appealings of the motherTo brother and to brotherNot in hatred so to part—And the fissure in the hearth<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999387246-zr1gggfmvlz3erk9-a70a4effd1ee9f06fb9b23c63688324a%2F114.jpg"/>Did all the lets and bars appearTo every just or larger end,Whence should come the trust and cheer?Youth must its ignorant impulse lend—Age finds place in the rear.All wars are boyish, and are fought by boys,The champions and enthusiasts of the state:Turbid ardors and vain joysNot barrenly abate—Stimulants to the power mature,Preparatives of fate.Who here forecasteth the event?What heart but spurns at precedentAnd warnings of the wise,Contemned foreclosures of surprise?<pb/></p><div xmlns="http://www.tei-c.org/ns/1.0"><head>Running the Batteries, As observed from the Anchorage above Vicksburgh.( April, 1863.)</head><p><pb/>e&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in the hazy groves—What flying encounters fell;Pursuer and pursued like ghosts disappearIn gloomed shade—their end who shall tell?The crippled, a ragged-barked stick for a crutch,Limp to some elfin dell—Hobble from the sight of dead faces—whiteAs pebbles in a well.Few burial rites shall be;No priest with book and bandShall come to the secret placeOf the corpse in the foeman&apos;s land.Watch and fast, march and fight—clutch your gun!Day-fights and night-fights; sore is the stress;Look, through the pines what line comes on?Longstreet slants through the hauntedness<pb/>m the spirit moulds the form.Here favoring Nature, oft remiss,With eagle mien expressive has enduedA man to kindle strains that warm.Trace back his lineage, and his sires,Yeoman or noble, you shall findEnrolled with men of Agincourt,Heroes who shared great Harry&apos;s mind.E2Down to us come the knightly Norman fires,And front the Templars bore.Nothing can lift the heart of manLike manhood in a fellow-man.The thought of heaven&apos;s great King afarBut humbles us—too weak to scan;But manly greatness men can span,And feel the bonds that draw.
+  As begging help which none can bestow.
 
+	<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999370591-dwg1h7ikricnmi-a70a4effd1ee9f06fb9b23c63688324a%2F111.jpg"/>
+	O the clammy cold November,And the winter white and dead,And the terror dumb with stupor,And the sky a sheet of lead;And events that came resoundingWith the cry that All was lost,Like the thunder-cracks of massy iceIn intensity of frost—Bursting one upon anotherThrough the horror of the calm.The paralysis of armIn the anguish of the heart;And the hollowness and dearth.The appealings of the motherTo brother and to brotherNot in hatred so to part—And the fissure in the hearth
+	<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437999387246-zr1gggfmvlz3erk9-a70a4effd1ee9f06fb9b23c63688324a%2F114.jpg"/>Did all the lets and bars appearTo every just or larger end,Whence should come the trust and cheer?Youth must its ignorant impulse lend—Age finds place in the rear.All wars are boyish, and are fought by boys,The champions and enthusiasts of the state:Turbid ardors and vain joysNot barrenly abate—Stimulants to the power mature,Preparatives of fate.Who here forecasteth the event?What heart but spurns at precedentAnd warnings of the wise,Contemned foreclosures of surprise?<pb/></p>
+
+	<div xmlns="http://www.tei-c.org/ns/1.0"><head>Running the Batteries, As observed from the Anchorage above Vicksburgh.( April, 1863.)</head><p><pb/>e&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in the hazy groves—What flying encounters fell;Pursuer and pursued like ghosts disappearIn gloomed shade—their end who shall tell?The crippled, a ragged-barked stick for a crutch,Limp to some elfin dell—Hobble from the sight of dead faces—whiteAs pebbles in a well.Few burial rites shall be;No priest with book and bandShall come to the secret placeOf the corpse in the foeman&apos;s land.Watch and fast, march and fight—clutch your gun!Day-fights and night-fights; sore is the stress;Look, through the pines what line comes on?Longstreet slants through the hauntedness<pb/>m the spirit moulds the form.Here favoring Nature, oft remiss,With eagle mien expressive has enduedA man to kindle strains that warm.Trace back his lineage, and his sires,Yeoman or noble, you shall findEnrolled with men of Agincourt,Heroes who shared great Harry&apos;s mind.E2Down to us come the knightly Norman fires,And front the Templars bore.Nothing can lift the heart of manLike manhood in a fellow-man.The thought of heaven&apos;s great King afarBut humbles us—too weak to scan;But manly greatness men can span,And feel the bonds that draw.
+-->
+</div></body>
+		</text>
+	</TEI>
+<!--
 </p><p>There is a coal-black AngelWith a thick Afric lip,And he dwells (like the hunted and harried)In a swamp where the green frogs dip.But his face is against a CityWhich is over a bay of the sea,And he breathes wA gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs inA gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in thA gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in the hazy groves—What flying encounters fell;Pursuer aA gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in the hazy groves—What flying encounters fell;Pursuer and pursued lbles in a well.Few burial rites shall be;No priest with book and bandShall come to the secret placeOf the corpse in the foeman&apos;s land.Watch and fast, march and fight—clutch your gun!Day-fights and night-fights; sore is the stress;Look, through the pines what line comes on?Longstreet slants through the hauntedness!&apos;Tis charge for charge, and shout for yell,Such battles on battles oppress—But Heaven lent strength, the Right strove w</p></div><pb xmlns="http://www.tei-c.org/ns/1.0"/>A gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in<pb xmlns="http://www.tei-c.org/ns/1.0"/>A gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in th<pb xmlns="http://www.tei-c.org/ns/1.0"/>A gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in the hazy groves—What flying encounters fell;Pursuer a<pb xmlns="http://www.tei-c.org/ns/1.0"/>A gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in the hazy groves—What flying encounters fell;Pursuer and pursued l<pb xmlns="http://www.tei-c.org/ns/1.0"/>bles in a well.Few burial rites shall be;No priest with book and bandShall come to the secret placeOf the corpse in the foeman&apos;s land.Watch and fast, march and fight—clutch your gun!Day-fights and night-fights; sore is the stress;Look, through the pines what line comes on?Longstreet slants through the hauntedness!&apos;Tis charge for charge, and shout for yell,Such battles on battles oppress—But Heaven lent strength, the Right strove w<pb xmlns="http://www.tei-c.org/ns/1.0"/><div xmlns="http://www.tei-c.org/ns/1.0"><head>Malvern Hill.( July, 1862.)</head><p>Ay, man is manly. Here you seeThe warrior-carriage of the head,And brave dilation of the frame;And lighting all, the soul that ledIn Spottsylvania&apos;s charge to victory,Which justifies his fame.A cheering picture. It is goodTo look upon a Chief like this,In whom the spirit moulds the form.Here favoring Nature, oft remiss,With eagle mien expressive has enduedA man to kindle strains that warm.Trace back his lineage, and his sires,Yeoman or noble, you shall findEnrolled with men of Agincourt,Heroes who shared great Harry&apos;s mind.E2Down to us come the knightly Norman fires,And front the Templars bore.</p></div><pb xmlns="http://www.tei-c.org/ns/1.0"/><div xmlns="http://www.tei-c.org/ns/1.0"><head>Look-out Mountain. The Night Fight.( November, 1863.)</head><p>A gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in the hazy groves—What flying encounters fell;Pursuer an<pb/></p></div><div xmlns="http://www.tei-c.org/ns/1.0"><head>Gettysburg. The Check.( July, 1863.)</head><p>e hazy groves—What flying encounters fell;Pursuer and pursued like ghosts disappearIn gloomed shade—their end who shall tell?The crippled, a ragged-barked stick for a crutch,Limp to some elfin dell—Hobble from the sight of dead faces—whiteAs pebb<pb/></p></div><div xmlns="http://www.tei-c.org/ns/1.0"><head>Donelson( February, 1862.)</head><p>nd pursued like ghosts disappearIn gloomed shade—their end who shall tell?The crippled, a ragged-barked stick for a crutch,Limp to some elfin dell—Hobble from the sight of dead faces—whiteAs pebbles in a well.Few burial rites shall be;No priest with book and bandShall come to the secret placeOf the corpse in the foeman&apos;s land.Watch and fast, march and fight—clutch your gun!Day-fights and night-fights; sore is the stress;Look, through the pines what line comes on?Longstreet slants through the hauntedness!&apos;Tis charge for charge, and shout for yell,Such battles on battles oppress—But Heaven lent strength, the Right strove well,And emerged from the Wilderness.Emerged, for the way was won;But the Pillar of Smoke that ledWas brand-<pb/>A gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.There&apos;s a dust of hurrying feet,Bitten lips and bated breath,And drums that challenge to the grave,And faces fixed, forefeeling death.What husky huzzahs in the hazy groves—What flying encounters fell;Pursuer and pursued like ghosts disappearIn gloomed shade—their end who shall tell?The crippled, a ragged-barked stick for a crutch,Limp to some elfin dell—Hobble from the sight of dead faces—whiteAs pebbles in a well.Few burial rites shall be;No priest with book and ban</p></div><pb xmlns="http://www.tei-c.org/ns/1.0"/><div xmlns="http://www.tei-c.org/ns/1.0"><head>On the Photograph of a Corps Commander.</head><p>ike ghosts disappearIn gloomed shade—their end who shall tell?The crippled, a ragged-barked stick for a crutch,Limp to some elfin dell—Hobble from the sight of dead faces—whiteAs pebbles in a well.Few burial rites shall be;No priest with book and bandShall come to the secret placeOf the corpse in the foeman&apos;s land.Watch and fast, march <pb/></p></div><div xmlns="http://www.tei-c.org/ns/1.0"><head>The Cumberland.( March, 1862.)</head><p>Nothing can lift the heart of manLike manhood in a fellow-man.The thought of heaven&apos;s great King afarBut humbles us—too weak to scan;But manly greatness men can span,And feel the bonds that draw.
 <pb/></p></div><div xmlns="http://www.tei-c.org/ns/1.0"><head>A Utilitarian View of the Monitor's Fight.</head><p> the hazy groves—What flying encounters fell;Pursuer and pursued like ghosts disappearIn gloomed shade—their end who shall tell?The crippled, a ragged-barked stick for a crutch,Limp to some elfin dell—Hobble from the sight of dead faces—whiteAs pebbles in a well.Few burial rites shall be;No priest with book and bandShall come to the secret placeOf the corpse in the foeman&apos;s land.Watch and fast, march and fight—clutch your gun!Day-fights and night-fights; sore is the stress;Look, through the pines what line comes on?Longstreet slants through the hauntedness!&apos;Tis charge for charge, and sh<pb/></p></div><div xmlns="http://www.tei-c.org/ns/1.0"><head>Stonewall Jackson.(Ascribed to a Virginian.)</head><p>dShall come to the secret placeOf the corpse in the foeman&apos;s land.Watch and fast, march and fight—clutch your gun!Day-fights and night-fights; sore is the stress;Look, through the pines what line comes on?Longstreet slants through the hauntedness!&apos;Tis charge for charge, and shout for yell,Such battles on battles oppress—But Heaven lent strength, the Right strove well,And emerged from the Wilderness.Emerged, for the way was won;But the Pillar of Smoke that ledWas brand-li<pb/>and fight—clutch your gun!Day-fights and night-fights; sore is the stress;Look, through the pines what line comes on?Longstreet slants through the hauntedness!&apos;Tis charge for charge, and shout for yell,Such battles on battles oppress—But Heaven lent strength, the Right strove well,And emerged from the Wilderness.Emerged, for the way was won;But the Pillar of Smoke that ledWas brand-like with ghosts that went upAshy and red.None can narrate that strife in the pines,A seal is on it—Sabæan lore!Obscure as the wood, the entangled rhymeBut hints at the maze of war—Vivid glimpses or livid through peopled gloom,And fires which creep and char—A riddle of death, of which the slainSole solvers are.Long they withhold the rollOf the shroudless dead. It is right;Not yet can we bear the flareOf the funeral light.
 
@@ -988,6 +950,5 @@ There is a coal-black AngelWith a thick Afric lip,And he dwells (like the hunted
 
 Ay, man is manly. Here you seeThe warrior-carriage of the head,And brave dilation of the frame;And lighting all, the soul that ledIn Spottsylvania&apos;s charge to victory,Which justifies his fame.A cheering picture. It is goodTo look upon a Chief like this,In whom the spirit moulds the form.Here favoring Nature, oft remiss,With eagle mien expressive has enduedA man to kindle strains that warm.Trace back his lineage, and his sires,Yeoman or noble, you shall findEnrolled with men of Aginco<pb xmlns="http://www.tei-c.org/ns/1.0"/>A gleam!—a volley! And who shall goStorming the swarmers in jungles dread?No cannon-ball answers, no proxies are sent—They rush in the shrapnel&apos;s stead.Plume and sash are vanities now—Let them deck the pall of the dead;They go where the shade is, perhaps into Hades,Where the brave of all times have led.Ther<pb xmlns="http://www.tei-c.org/ns/1.0"/>ke with ghosts that went upAshy and red.None can narrate that strife in the pines,A seal is on it—Sabæan lore!Obscure as the wood, the entangled rhymeBut hints at the maze of war—Vivid glimpses or livid through peopled gloom,And fires which creep and char—A riddle of death, of which the slainSole solvers are.Long they withhold the rollOf the shroudless dead. It is right;Not yet can we bear the flareOf the funeral light.
 
-Ay, man is manly. Here you seeThe warrior-carriage of the head,And brave dilation of the frame;And lighting all, the soul that ledIn Spottsylvania&apos;s charge to victory,Which justifies his fame.A cheering picture. It is goodTo look upon a Chief like this,In who</div></body>
-		</text>
-	</TEI>
+Ay, man is manly. Here you seeThe warrior-carriage of the head,And brave dilation of the frame;And lighting all, the soul that ledIn Spottsylvania&apos;s charge to victory,Which justifies his fame.A cheering picture. It is goodTo look upon a Chief like this,In who
+-->
