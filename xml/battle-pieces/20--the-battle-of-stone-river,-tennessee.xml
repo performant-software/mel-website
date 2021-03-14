@@ -22,14 +22,14 @@
 		<text>
 			<body><div xmlns="" id="20--the-battle-of-stone-river,-tennessee">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0081.jpg"/>
-				The Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:464" type="place">Stone River</name>, Tennessee. 
+				<head type="main"><hi rend="italic">The Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:464" type="place">Stone River</name>, Tennessee.</hi></head> 
 
-A View from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:468" type="place">Oxford</name> Cloisters.
+				<head type="sub-head"><hi rend="italic">A View from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:468" type="place">Oxford</name> Cloisters.</hi><lb/>
 
-(January, 1863.) 
+(<hi rend="smallcaps">January</hi>, 1863.)</head>
 
 
-<p xmlns="http://www.tei-c.org/ns/1.0">With <name ref="https://mel-catalog.herokuapp.com/api/entries/place:467" type="place">Tewksbury</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:465" type="place">Barnet</name> heath
+<hi rend="smallcaps">With</hi> <name ref="https://mel-catalog.herokuapp.com/api/entries/place:467" type="place">Tewksbury</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:465" type="place">Barnet</name> heath
 In days to come the field shall blend,
 The story dim and date obscure;
 In legend all shall end.
@@ -40,7 +40,7 @@ The haziness of years.
 In North and South still beats the vein
 Of <ref target="#ref_19118">Yorkist</ref><note xml:id="ref_19118">House of York; see https://en.wikipedia.org/wiki/House_of_York#Wars_of_the_Roses</note> and <ref target="#ref_19119">Lancastrian</ref><note xml:id="ref_19119">House of Lancaster; see https://en.wikipedia.org/wiki/House_of_Lancaster</note>.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Our rival <name ref="War of Roses" type="event"><ref target="#ref_19122">Roses</ref><note xml:id="ref_19122">War of Roses; see https://www.britannica.com/event/Wars-of-the-Roses</note></name> warred for Sway—
+<p xmlns="http://www.tei-c.org/ns/1.0">Our rival <name ref="War of Roses" type="event"><ref target="#ref_19122">Roses</ref><note xml:id="ref_19122">War of Roses; see https://www.britannica.com/event/Wars-of-the-Roses</note></name> warred for Sway—
 For Sway, but named the name of Right;
 And Passion, scorning pain and death,
 Lent sacred fervor to the fight.
