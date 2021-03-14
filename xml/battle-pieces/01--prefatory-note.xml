@@ -6,7 +6,7 @@
 			<title>01 - Prefatory Note</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -15,11 +15,74 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div xml:id="prefatory-note">
-				<p><pb facs="/images/battle-pieces-v1/battle-pieces-i-0013.jpg"/>[<ref target="#ref_27044">With few exceptions</ref><note xml:id="ref_27044">Tanselle reminds us that “five of his Civil War poems were published in <hi rend="italic">Harper’s</hi> between February and July 1866 (“The March to the Sea” in February, “The Cumberland” in March, “Philip”—later entitled “Sheridan at Cedar Creek”—in April, “Chattanooga” in June, and “Gettysburg” in July)” (NN PP 531).</note>, the <ref target="#ref_27045">Pieces</ref><note xml:id="ref_27045">Title, Battle-Pieces, "derived from his interest in the visual arts, since it was the standard term for battle scenes, especially nautical, as depicted in paintings and engravings." (Parker, II, 561) [Allusion, artistic; Source] (Marr)</note> in this volume originated in an impulse imparted by the fall of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:441" type="place">Richmond</name>. They were composed without reference to collective arrangement, but, being brought together in review, naturally fall into the order assumed.</p>                                                               
+				<p><pb facs="/images/battle-pieces-v1/battle-pieces-i-0013.jpg"/>[<ref target="#ref_27044">With few exceptions</ref><note xml:id="ref_27044">Tanselle reminds us that “five of his Civil War poems were published in <hi rend="italic">Harper’s</hi> between February and July 1866 (“The March to the Sea” in February, “The Cumberland” in March, “Philip”—later entitled “Sheridan at Cedar Creek”—in April, “Chattanooga” in June, and “Gettysburg” in July)” (NN PP 531).</note>, the <ref target="#ref_27045">Pieces</ref><note xml:id="ref_27045">Title, Battle-Pieces, "derived from his interest in the visual arts, since it was the standard term for battle scenes, especially nautical, as depicted in paintings and engravings." (Parker, II, 561) [Allusion, artistic; Source] (Marr)</note> in this volume originated in an impulse imparted by the fall of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:441" type="place">Richmond</name>. They were composed without reference to collective arrangement, but, being brought together in review, naturally fall into the order assumed.</p>
 <p>The events and incidents of the conflict––making up a whole, in varied amplitude, corresponding with the geographical area covered by the war––from these but a few themes have been taken, such as for any cause chanced to imprint themselves upon the mind.</p>
 				<p>The aspects which the strife as a memory assumes are as manifold as are the moods of involuntary meditation––moods variable, and at times widely at variance. Yielding instinctively, one after another, to feelings not inspired from any one source exclusively, and unmindful, without purposing to be, of consistency, I seem, in most of these verses, to have but placed a <ref target="#ref_27046">harp</ref><note xml:id="ref_27046">[Allusion: Literary] Here Melville makes a clear allusion to lines 13-15 in “The Eolian Harp,” by Samuel Taylor Coleridge: “And that simplest Lute, / Placed length-ways in the clasping casement, hark! / How by the desultory breeze caressed,”</note> in a window, and noted the <ref target="#ref_27047">contrasted airs</ref><note xml:id="ref_27047">[Poetics] Here Melville alludes to the numerous speakers and subjects within his poems, as well as to the highly varied form of his verse. Cohen tells us that “there are poems deal [sic] with officers of the highest rank and with enlisted men of both armies, with Negroes and whites, with civilians as well as soldiers, and with both men and women.” Cohen also notes “the remarkable range of verse forms [in Battle-Pieces], none of which is used more than once…” (19).</note> which wayward winds have played upon the strings.]</p></div></body>
 		</text>
 	</TEI>
+
+
+<!--
+<front>Battle-Pieces
+and
+Aspects of the WarHerman Melville
+1866
+New York:
+Harper &amp; Brothers, Publishers
+Franklin Square<pb/></p><div><p> Entered, according to Act of Congress, in the year one thousand eight hundred
+and sixty-six, by
+HARPER &amp; BROTHERS,
+In the Clerk&apos;s Office of the District Court of the Southern District of
+New York.
+
+</p><p>
+</p></div><pb/><div><p>THE BATTLE-PIECES
+IN THIS VOLUME ARE DEDICATED
+TO THE MEMORY OF THE
+THREE HUNDRED THOUSAND
+WHO IN THE WAR
+FOR THE MAINTENANCE OF THE UNION
+FELL DEVOTEDLY
+UNDER THE FLAG OF THEIR FATHERS.
+
+</p><p>
+</p></div><pb/><pb/><div><p>[ With few exceptions, the Pieces in this volume originated in an impulse
+imparted by the fall of Richmond. They were composed without reference to
+collective arrangement, but, being brought together in review, naturally fall into
+the order assumed.
+
+</p><p>The events and incidents of the conflict—making up a whole, in varied amp-
+litude, corresponding with the geographical area covered by the war—from
+these but a few themes have been taken, such as for any cause chanced to im-
+print themselves upon the mind.
+
+</p><p>The aspects which the strife as a memory assumes are as manifold as are the
+moods of involuntary meditation—moods variable, and at times widely at vari-
+ance. Yielding instinctively, one after another, to feelings not inspired from
+any one source exclusively, and unmindful, without purposing to be, of consis-
+tency, I seem, in most of these verses, to have but placed a harp in a window,
+and noted the contrasted airs which wayward winds have played upon the
+strings.]
+
+</p><p>
+</p></div><pb/><pb/><div><head>Contents.</head><p>page Misgivings <ref target="n25">13</ref> The Conflict of Convictions <ref target="n26">14</ref> Apathy and Enthusiasm <ref target="n31">19</ref> The March into Virginia <ref target="n34">22</ref> Lyon <ref target="n36">24</ref> Ball&apos;s Bluff <ref target="n40">28</ref> Dupont&apos;s Round Fight <ref target="n42">30</ref> The Stone Fleet <ref target="n43">31</ref> Donelson <ref target="n45">33</ref> The Cumberland <ref target="n65">53</ref> In the Turret <ref target="n67">55</ref> The Temeraire <ref target="n70">58</ref> A utilitarian View of the Monitor&apos;s Fight <ref target="n73">61</ref> Shiloh <ref target="n75">63</ref> The Battle for the Mississippi <ref target="n76">64</ref> Malvern Hill <ref target="n79">67</ref> The Victor of Antietam <ref target="n81">69</ref> Battle of Stone River <ref target="n85">73</ref> Running the Batteries <ref target="n87">75</ref><pb/> Stonewall Jackson <ref target="n91">79</ref> Stonewall Jackson (ascribed to a Virginian) <ref target="n93">81</ref> Gettysburg <ref target="n96">84</ref> The House-top <ref target="n98">86</ref> Look-out Mountain <ref target="n100">88</ref> Chattanooga <ref target="n102">90</ref> The Armies of the Wilderness <ref target="n105">93</ref> On the Photograph of a Corps Commander <ref target="n117">105</ref> The Swamp Angel <ref target="n119">107</ref> The Battle for the Bay <ref target="n122">110</ref> Sheridan at Cedar Creek <ref target="n128">116</ref> In the Prison Pen <ref target="n130">118</ref> The College Colonel <ref target="n132">120</ref> The Eagle of the Blue <ref target="n134">122</ref> A Dirge for McPherson <ref target="n136">124</ref> At the Cannon&apos;s Mouth <ref target="n138">126</ref> The March to the Sea <ref target="n140">128</ref> The Frenzy in the Wake <ref target="n145">133</ref> The Fall of Richmond <ref target="n147">135</ref> The Surrender at Appomattox <ref target="n149">137</ref> A Canticle <ref target="n150">138</ref> The Martyr <ref target="n153">141</ref>“ The Coming Storm” <ref target="n155">143</ref> Rebel Color-bearers at Shiloh <ref target="n156">144</ref><pb/> The Muster <ref target="n158">146</ref> Aurora Borealis <ref target="n160">148</ref> The released Rebel Prisoner <ref target="n162">150</ref> A Grave near Petersburg, Virginia <ref target="n165">153</ref>“ Formerly a Slave” <ref target="n166">154</ref> The Apparition <ref target="n167">155</ref> Magnanimity Baffled <ref target="n168">156</ref> On the Slain Collegians <ref target="n169">157</ref> America <ref target="n172">160</ref> VERSES INSCRIPTIVE AND MEMORIAL. On the Home Guards who perished in the
+Defense of Lexington, Missouri <ref target="n177">165</ref> Inscription for Graves at Pea Ridge,
+Arkansas <ref target="n178">166</ref> The Fortitude of the North under the
+Disaster of the Second Manassas <ref target="n179">167</ref> On the Men of Maine killed in the Vic-
+tory of Baton Rouge, Louisiana <ref target="n180">168</ref> An Epitaph <ref target="n181">169</ref> Inscription for Marye&apos;s Heights, Freder-
+icksburg <ref target="n182">170</ref> The Mound by the Lake <ref target="n183">171</ref> On the Slain at Chickamauga <ref target="n184">172</ref><pb/> An uninscribed Monument on one of the
+Battle-fields of the Wilderness <ref target="n185">173</ref> On Sherman&apos;s Men who fell in the Assault
+of Kenesaw Mountain, Georgia <ref target="n186">174</ref> On the Grave of a young Cavalry Officer
+killed in the Valley of Virginia <ref target="n187">175</ref> A Requiem for Soldiers lost in Ocean
+Transports <ref target="n188">176</ref> On a natural Monument in a Field of
+Georgia <ref target="n190">178</ref> Commemorative of a Naval Victory <ref target="n192">180</ref> Presentation to the Authorities by Privates
+of Colors captured in Battles ending in
+the Surrender of Lee <ref target="n194">182</ref> The returned Volunteer to his Rifle <ref target="n195">183</ref> The Scout toward Aldie <ref target="n199">187</ref> Lee in the Capitol <ref target="n229">217</ref> A Meditation <ref target="n251">239</ref> Notes <ref target="n257">245</ref> Supplement <ref target="n271">259</ref>
+
+</p>
+<p>
+</p></div></front>
+-->
