@@ -7,6 +7,7 @@
 			<author>Herman Melville</author>
 				<editor>Leslie McAbee</editor>
 				<editor>Eric Meckley</editor>
+				<editor>Christopher Ohge</editor>
 					
 		</titleStmt>
 			<publicationStmt>
@@ -23,11 +24,11 @@
 		<text>
 			<body><div xml:id="the-victor-of-antietam">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0077.jpg"/>
-				<head type="main"><ref target="#ref_20966"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:45" type="event">The Victor of Antietam</name></ref><note xml:id="ref_20966">Reprinted in R. H. Stoddard's edition of Rufus M. Griswold's <hi rend="italic">Poets and Poetry of America</hi> (New York: Hames Miller, 1873), 631.<!-- "The poem may be read as a poem in search of itself; that is, as a poem in which the process of creation has been left visible. The first half of the poem experiments with the placement of the one-word refrain; the stanzas of the second half proceed with the stanza finally achieved." (Schurr 19)--> </note>e</head>
+				<head type="main"><ref target="#ref_20966"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:45" type="event">The Victor of Antietam</name></ref><note xml:id="ref_20966">Reprinted in R. H. Stoddard's edition of Rufus M. Griswold's <hi rend="italic">Poets and Poetry of America</hi> (New York: Hames Miller, 1873), 631.<!-- "The poem may be read as a poem in search of itself; that is, as a poem in which the process of creation has been left visible. The first half of the poem experiments with the placement of the one-word refrain; the stanzas of the second half proceed with the stanza finally achieved." (Schurr 19)--> </note><hi rend="super">e</hi></head>
 <head type="sub-head">(1862.)</head>
 
 <lg type="sestet">
-<l><hi rend="smallcaps">When</hi> tempest winnowed <ref target="#ref_21082">grain from bran</ref>
+<l><hi rend="smallcaps">When</hi> tempest winnowed grain from bran
 <!-- <note xml:id="ref_21082">This appears to be an image of mass death. As the bran is winnowed (separated) from the grain, the body is separated from the soul.</note> -->,</l>
 <l>And men were looking for a man,</l>
 <l><ref target="#ref_21074">Authority called you</ref><note xml:id="ref_21074">McClellan was appointed commander of the Army of the Potomac after General Irvin McDowell faced defeat at the battle of the First Bull Run. Once General Winfield Scott retired in November 1861, McClellan then became the General-in-Chief of the Federal armies" (https://www.civilwar.org/learn/biographies/george-b-mcclellan).</note> to the <ref target="#ref_21069">van</ref><note xml:id="ref_21069">Van can refer to “the front of an army; or the front line or foremost division of a fleet, either in sailing or in battle”––or, as a pun relating to "winnowed grain" in Melville's first line, "a fan for winnowing grain” (Webster, <hi rend="italic">An American Dictionary of the English Language</hi>, 1846).</note>,</l>
@@ -73,10 +74,10 @@ Leslie McAbee</note></l>
 </lg>
 
 <lg>
-<l><ref target="#ref_21080">At <name ref="https://mel-catalog.herokuapp.com/api/entries/place:472" type="place">Alexandria</name>, left alone,</ref></l>
+	<l><ref target="#ref_21080">At <name ref="https://mel-catalog.herokuapp.com/api/entries/place:472" type="place">Alexandria</name>, left alone,</ref><note xml:id="ref_21080">Following the Peninsula Campaign, in which he failed to capture Richmond, McClellan withdrew his men to Aquia Creek, VA, and Alexandria, VA. Most of McClellan's men were reassigned to John Pope's command in August 1862 after McClellan was relieved of duty as commander of the Army of the Potomac.</note></l>
 <l rend="8em">McClellan—</l>
 <l>Your veterans sent from you, and thrown</l>
-<l n="35">To fields and fortunes all unknown—<note xml:id="ref_21080">Following the Peninsula Campaign, in which he failed to capture Richmond, McClellan withdrew his men to Aquia Creek, VA, and Alexandria, VA. Most of McClellan's men were reassigned to John Pope's command in August 1862 after McClellan was relieved of duty as commander of the Army of the Potomac.</note></l>
+<l n="35">To fields and fortunes all unknown—</l>
 <l>What thoughts were yours, revealed to none,</l>
 <l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0079.jpg"/>While faithful still you labored on—</l>
 <l><ref target="#ref_21081">Hearing the far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:450" type="place">Manassas</name> gun!</ref><note xml:id="ref_21081">After McClellan's command was given to Major General John Pope, the latter met a withering defeat at the Battle of Second Manassas in August of 1862. McClellan was subsequently reinstated as commander of the Army of the Potomac.</note></l>
@@ -112,7 +113,7 @@ Leslie McAbee</note></l>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0080.jpg"/>
 <lg>
-<l n="60"><ref target="#ref_21116">And when your comrades (now so few,</ref><note xml:id="ref_21116">AND WHEN YOUR COMRADES … DEEP FILES THEY RUE)  Eliza Richards suggests that the last stanza reflects a change in the “line” of support for McClellan mentioned in the first stanza. In the last stanza, McClellan’s support has dwindled as many of the soldiers who loved him have died in battle. Richards reads “deep files” as an image that “evokes both trenches dug as mass graves and swathes of men cut down by mechanized weapons in rows running perpendicular to advancing battle lines” (“Correspondent Lines” 157).</note></l>
+<l n="60"><ref target="#ref_21116">And when your comrades (now so few,</ref><note xml:id="ref_21116">Eliza Richards suggests that the last stanza reflects a change in the “line” of support for McClellan mentioned in the first stanza. In the last stanza, McClellan’s support has dwindled as many of the soldiers who loved him have died in battle. Richards reads “deep files” as an image that “evokes both trenches dug as mass graves and swathes of men cut down by mechanized weapons in rows running perpendicular to advancing battle lines” (“Correspondent Lines” 157).</note></l>
 <l rend="8em">McClellan—</l>
 <l>Such ravage in deep files they rue)</l>
 <l>Meet round the board, and sadly view</l>
