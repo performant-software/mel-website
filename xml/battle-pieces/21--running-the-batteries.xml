@@ -4,7 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 			<title>21 - Running the Batteries</title>
-			
+				<editor>R.D. Madison</editor>
 			
 					
 		</titleStmt>
@@ -20,21 +20,17 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="21--running-the-batteries"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781259691-ebj25jwxpysw0zfr-dd08fb19bd759dbe7ea478719fd104d8%2F85.jpg"/>Running the <ref target="#ref_20937">Batteries</ref><note xml:id="ref_20937">[Allusion][Military] During the American Civil war, a battery was an emplacement of artillery. Light batteries were usually made up of six light cannon, each on a two-wheeled carriage and hitched to a two-wheeled ammunition cart called a limber. The entire assembly was normally pulled by six horses. Heavy artillery batteries were made up of varying numbers of permanent or semi-permanent cannon. Both types seem to have been in use at the defense of Vicksburg.
-
-(R.D. Madison)</note>. 
+			<body><div xml:id="running-the-batteries">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0082.jpg"/>
+				Running the <ref target="#ref_20937">Batteries</ref><note xml:id="ref_20937">During the American Civil war, a battery was an emplacement of artillery. Light batteries were usually made up of six light cannon, each on a two-wheeled carriage and hitched to a two-wheeled ammunition cart called a limber. The entire assembly was normally pulled by six horses. Heavy artillery batteries were made up of varying numbers of permanent or semi-permanent cannon. Both types seem to have been in use at the defense of Vicksburg.</note>. 
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">As observed from an <ref target="#ref_20938">anchorage</ref><note xml:id="ref_20938">[Allusion][Nautical] An anchorage required depth to keep vessels afloat, room for them to swing with wind and current, and protection from storms. In this case, the anchorage also protected the fleet from the batteries downstream.
 
-(R.D. Madison)</note> above <ref target="#ref_20940"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:498" type="place">Vicksburgh</name></ref><note xml:id="ref_20940">[Allusion][Historical] Usually spelled Vicksburg, a city on the Mississippi about 250 miles below Memphis and 200 miles above New Orleans (by land). Union forces planned to divide the Confederacy by controlling the Mississippi River from its confluence with the Ohio to the Gulf of Mexico. The high bluffs of Vicksburg allowed the city to hold out the longest; Vicksburg’s fall to a six-week siege following the events of this poem and the fall of Port Hudson opened the river for the free passage of union vessels.
-
-(R.D. Madison)</note>. 
+(R.D. Madison)</note> above <ref target="#ref_20940"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:498" type="place">Vicksburgh</name></ref><note xml:id="ref_20940">[Allusion][Historical] Usually spelled Vicksburg, a city on the Mississippi about 250 miles below Memphis and 200 miles above New Orleans (by land). Union forces planned to divide the Confederacy by controlling the Mississippi River from its confluence with the Ohio to the Gulf of Mexico. The high bluffs of Vicksburg allowed the city to hold out the longest; Vicksburg’s fall to a six-week siege following the events of this poem and the fall of Port Hudson opened the river for the free passage of union vessels.</note>. 
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">(April, 1863.)
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">––––––––––––––––
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">A moonless night—a friendly one;
+A moonless night—a friendly one;
 A haze dimmed the shadowy shore
 As the first <ref target="#ref_20941">lampless boat</ref><note xml:id="ref_20941">[Allusion][Nautical] ] By law vessels carried running lights to prevent collisions. Their absence on a moonless night emphasizes not only the darkness but also stealth and danger.
 
