@@ -4,7 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>21 - Running the Batteries</title>
+				<author>Herman Melville</author>
 				<editor>R.D. Madison</editor>
+				<editor>Eric Meckley</editor>
 			
 					
 		</titleStmt>
@@ -21,130 +23,134 @@
 	</teiHeader>			
 		<text>
 			<body><div xml:id="running-the-batteries">
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0082.jpg"/>
-				Running the <ref target="#ref_20937">Batteries</ref><note xml:id="ref_20937">During the American Civil war, a battery was an emplacement of artillery. Light batteries were usually made up of six light cannon, each on a two-wheeled carriage and hitched to a two-wheeled ammunition cart called a limber. The entire assembly was normally pulled by six horses. Heavy artillery batteries were made up of varying numbers of permanent or semi-permanent cannon. Both types seem to have been in use at the defense of Vicksburg.</note>. 
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0083.jpg"/>
+				<head type="main">Running the <ref target="#ref_20937">Batteries</ref><note xml:id="ref_20937">During the American Civil war, a battery was an emplacement of artillery. Light batteries were usually made up of six light cannon, each on a two-wheeled carriage and hitched to a two-wheeled ammunition cart called a limber. The entire assembly was normally pulled by six horses. Heavy artillery batteries were made up of varying numbers of permanent or semi-permanent cannon. Both types seem to have been in use at the defense of Vicksburg.</note>.</head>
+<head type="sub-head">As observed from an <ref target="#ref_20938">anchorage</ref><note xml:id="ref_20938">An anchorage required depth to keep vessels afloat, room for them to swing with wind and current, and protection from storms. In this case, the anchorage also protected the fleet from the batteries downstream.</note> above <ref target="#ref_20940"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:498" type="place">Vicksburgh</name></ref><note xml:id="ref_20940">Usually spelled Vicksburg, a city on the Mississippi about 250 miles below Memphis and 200 miles above New Orleans (by land). Union forces planned to divide the Confederacy by controlling the Mississippi River from its confluence with the Ohio to the Gulf of Mexico. The high bluffs of Vicksburg allowed the city to hold out the longest; Vicksburg’s fall to a six-week siege following the events of this poem and the fall of Port Hudson opened the river for the free passage of union vessels.</note>. 
+<lb/>
+(<hi rend="smallcaps">April</hi>, 1863.)</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">As observed from an <ref target="#ref_20938">anchorage</ref><note xml:id="ref_20938">[Allusion][Nautical] An anchorage required depth to keep vessels afloat, room for them to swing with wind and current, and protection from storms. In this case, the anchorage also protected the fleet from the batteries downstream.
+<lg>
+<l><hi rend="smallcaps">A moonless</hi> night—a friendly one;</l>
+<l rend="2em">A haze dimmed the shadowy shore</l>
+<l>As the first <ref target="#ref_20941">lampless boat</ref><note xml:id="ref_20941">By law vessels carried running lights to prevent collisions. Their absence on a moonless night emphasizes not only the darkness but also stealth and danger.</note> slid silent on;</l>
+<l>Hist! and we spake no more;</l>
+<l n="5">We but pointed, and stilly, to what we saw.</l>
+</lg>
 
-(R.D. Madison)</note> above <ref target="#ref_20940"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:498" type="place">Vicksburgh</name></ref><note xml:id="ref_20940">[Allusion][Historical] Usually spelled Vicksburg, a city on the Mississippi about 250 miles below Memphis and 200 miles above New Orleans (by land). Union forces planned to divide the Confederacy by controlling the Mississippi River from its confluence with the Ohio to the Gulf of Mexico. The high bluffs of Vicksburg allowed the city to hold out the longest; Vicksburg’s fall to a six-week siege following the events of this poem and the fall of Port Hudson opened the river for the free passage of union vessels.</note>. 
+				<lg>
+					<l>We felt the dew, and seemed to feel</l>
+<l rend="2em">The secret like a burden laid.</l>
+<l>The first boat melts; and a second keel</l>
+					<l rend="2em">Is blent with the foliaged shade—</l>
+<l n="10">Their midnight rounds have the rebel officers made?</l>
+				</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">(April, 1863.)
+<lg>
+<l>Unspied as yet. A third—a fourth—</l>
+<l rend="2em"><ref target="#ref_20942">Gun-boat and transport</ref><note xml:id="ref_20942">Gun-boats were specially designed or converted to withstand the shock of firing a heavy gun and to resist, by means of heavy timber or armor plate, bombardment from shore or another vessel. Transports had little such extra protection and hence were more vulnerable.</note> in <ref target="#ref_20943">Indian file</ref><note xml:id="ref_20943">One after another. Melville alludes to Native Americans often in <hi rend="italic">Battle-Pieces</hi>, mobilizing familiar caricatures as metaphors in his poems. See also "Apathy and Enthusiasm," "Lyon," "Donelson," "The Armies of the Wilderness," "The College Colonel," and "The Scout Toward Aldie."</note></l>
+<l>Upon the war-path, smooth from the North;</l>
+<l rend="2em">But the watch may they hope to beguile?</l>
+<l n="15">The manned river-batteries stretch for mile on mile.</l>
+</lg>
 
-A moonless night—a friendly one;
-A haze dimmed the shadowy shore
-As the first <ref target="#ref_20941">lampless boat</ref><note xml:id="ref_20941">[Allusion][Nautical] ] By law vessels carried running lights to prevent collisions. Their absence on a moonless night emphasizes not only the darkness but also stealth and danger.
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0084.jpg"/>
+<lg>
+<l>A flame leaps out; they are seen;</l>
+<l rend="2em">Another and another gun roars;</l>
+<l>We tell the course of the boats through the screen</l>
+<l rend="2em">By each further fort that pours,</l>
+<l n="20">And we guess how they jump from their beds on those
+shrouded shores.</l>
+</lg>
 
-(R.D. Madison)</note> slid silent on;
-Hist! and we spake no more;
-We but pointed, and stilly, to what we saw.
+<lg>
+<l><ref target="#ref_20944">Converging fires</ref><note xml:id="ref_20944">Massing cannon fire on a single target was more effective than firing individual guns at separate targets.</note>. We speak, though low:</l>
+<l rend="2em">“That blastful furnace can they thread?”</l>
+<l>“Why, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:382" type="person">Shadrach</name>, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:383" type="person">Meshach</name>, and <name ref="https://mel-catalog.herokuapp.com/api/entries/person:384" type="person">Abed-nego</name></l>
+<l rend="2em"><ref target="#ref_20945">Came out all right, we read</ref><note xml:id="ref_20945">Old Testament Book of Daniel 3.13-28. Nebuchadnezzar casts these three into a burning fiery furnace for failing to worship a golden image. They are saved from burning by an angel “like a son of the gods” and Nebuchadnezzar is converted.</note>;</l>
+<l n="25"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">The Lord</name>, be sure, he helps his people, <ref target="#ref_20948">Ned</ref><note xml:id="ref_20948">Stanton Garner reads this as a nod to Ned Curtis, Melville's cousin who served in the navy at the Battle of Vicksburg (Garner, p. 231).</note>.”</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">We felt the dew, and seemed to feel
-The secret like a burden laid.
-The first boat melts; and a second keel
-Is blent with the foliaged shade—
-Their midnight rounds have the rebel officers made?
+<lg>
+<l>How we strain our gaze. On bluffs they shun</l>
+<l rend="2em">A golden growing flame appears—</l>
+<l>Confirms to a silvery steadfast one:</l>
+<l rend="2em">“The town is afire!” crows Hugh: “three cheers!”</l>
+<l n="30"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:385" type="person">Lot</name> stops his mouth: “Nay, lad, better three tears.”</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Unspied as yet. A third—a fourth—
-<ref target="#ref_20942">Gun-boat and transport</ref><note xml:id="ref_20942">[Allusion] [Nautical] Gun-boats were specially designed or converted to withstand the shock of firing a heavy gun and to resist, by means of heavy timber or armor plate, bombardment from shore or another vessel. Transports had little such extra protection and hence were more vulnerable.
+<lg>
+<l>A purposed light; it shows our fleet;</l>
+<l rend="2em">Yet a little late in its searching ray,</l>
+<l>So far and strong, that in phantom cheat</l>
+<l rend="2em">Lank on the deck our shadows lay;</l>
+<l n="35">The shining <ref target="#ref_20949">flag-ship</ref><note xml:id="ref_20949">The vessel which carried the admiral or commodore, and thus the command-center of the fleet.</note> stings their guns to furious play.</l>
+</lg>
 
-(R.D. Madison)</note> in <ref target="#ref_20943">Indian file</ref><note xml:id="ref_20943">[Allusion] One after another. 
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0085.jpg"/>
+				<lg>
+					<l>How dread to mark her near the glare</l>
+				<l rend="2em">And glade of death the beacon throws</l>
+<l>Athwart the racing waters there;</l>
+				<l rend="2em">One by one each plainer grows,</l>
+<l n="40">Then speeds a blazoned target to our gladdened foes.</l>
+				</lg>
 
-(R.D. Madison)
+<lg>
+	<l>The impartial <ref target="#ref_20951">cresset lights</ref><note xml:id="ref_20951">Torches set up on shore.</note> as well</l>
+				<l rend="2em">The fixed forts to the boats that run;</l>
+<l>And, plunged from the ports, their answers swell</l>
+<l rend="2em">Back to each fortress <ref target="#ref_20952">dun</ref><note xml:id="ref_20952">Can refer to both the dull color in the semi-light or the position of the forts on hills.</note>:</l>
+<l n="45">Ponderous words speaks every monster gun.</l>
+</lg>
 
-[Intratextual] Melville alludes to Native Americans often in Battle-Pieces, mobilizing familiar caricatures as metaphors in his poems. See also "Apathy and Enthusiasm", "Lyon", "Donelson", "The Armies of the Wilderness", "The College Colonel", and "The Scout Toward Aldie."
+<lg>
+	<l>Fearless they flash through gates of flame,</l>
+<l rend="2em">The salamanders hard to hit,</l>
+<l>Though vivid shows each bulky frame;</l>
+<l rend="2em">And never the batteries intermit,</l>
+<l n="50">Nor the boats huge guns; they fire and flit.</l>
+</lg>
+				
+<lg>
+	<l>Anon a lull. The beacon dies:</l>
+				<l rend="2em">“Are they out of that strait accurst?”</l>
+<l>But other flames now dawning rise,</l>
+				<l rend="2em">Not mellowly brilliant like the first,</l>
+<l n="55">But rolled in smoke, whose whitish volumes burst.</l>
+</lg>
 
-(Eric Meckley) </note>
-Upon the war-path, smooth from the North;
-But the watch may they hope to beguile?
-The manned river-batteries stretch for mile on mile.
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0086.jpg"/>
+				<lg>
+					<l>A baleful brand, a hurrying torch</l>
+					<l rend="2em">Whereby anew the boats are seen—</l>
+<l>A burning transport all alurch!</l>
+						<l rend="2em">Breathless we gaze; yet still we glean</l>
+<l n="60">Glimpses of beauty as we eager lean.</l>
+				</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781263154-1r0h4jirmgdmfgvi-dd08fb19bd759dbe7ea478719fd104d8%2F86.jpg"/>A flame leaps out; they are seen;
-Another and another gun roars;
-We tell the course of the boats through the screen
-By each further fort that pours,
-And we guess how they jump from their beds on those
-shrouded shores.
+<lg>
+	<l>The effulgence takes an amber glow</l>
+	<l rend="2em">Which bathes the hill-side villas far;</l>
+<l>Affrighted ladies mark the show</l>
+	<l rend="2em">Painting the pale magnolia—</l>
+<l n="65"><ref target="#ref_20955">The fair, false, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:177" type="person">Circe</name> light of cruel War</ref><note xml:id="ref_20955">In Homer’s <hi rend="italic">Odyssey</hi>, which Melville owned and annotated (see Sealts #278 and [in part] #147), Circe turns mortals into beasts; here, the image is of the transformative effect of firelight which reveals the change from men to beasts that war precipitates.</note>.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><ref target="#ref_20944">Converging fires</ref><note xml:id="ref_20944">Massing cannon fire on a single target was more effective than firing individual guns at separate targets.
+<lg>
+	<l>The barge drifts doomed, a plague-struck one.</l>
+				<l rend="2em">Shoreward in <ref target="#ref_20956">yawls</ref><note xml:id="ref_20956">A round-bottomed boat propelled by about a dozen oarsmen, here used as lifeboats.</note> the sailors fly.</l>
+<l>But the gauntlet now is nearly run,</l>
+				<l rend="2em">The spleenful forts by fits reply,</l>
+<l n="70">And the burning boat dies down in morning&apos;s sky.</l>
+</lg>
 
-(R.D. Madison)</note>. We speak, though low:
-“That blastful furnace can they thread?”
-“<ref target="#ref_20945">Why, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:382" type="person">Shadrach</name>, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:383" type="person">Meshach</name>, and <name ref="https://mel-catalog.herokuapp.com/api/entries/person:384" type="person">Abed-nego</name>
-Came out all right, we read</ref><note xml:id="ref_20945">Old Testament Book of Daniel 3.13-28. Nebuchadnezzar casts these three into a burning fiery furnace for failing to worship a golden image. They are saved from burning by an angel “like a son of the gods” and Nebuchadnezzar is converted.
-
-(R.D. Madison)</note>;
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">The Lord</name>, be sure, he helps his people, <ref target="#ref_20948">Ned</ref><note xml:id="ref_20948">Stanton Garner reads this as a nod to Ned Curtis, Melville's cousin who served in the navy at the Battle of Vicksburg. 
-
-(Garner, The Civil War World of Herman Melville... p. 231)</note>.”
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">How we strain our gaze. On bluffs they shun
-A golden growing flame appears—
-Confirms to a silvery steadfast one:
-“The town is afire!” crows Hugh: “three cheers!”
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:385" type="person">Lot</name> stops his mouth: “Nay, lad, better three tears.”
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">A purposed light; it shows our fleet;
-Yet a little late in its searching ray,
-So far and strong, that in phantom cheat
-Lank on the deck our shadows lay;
-The shining <ref target="#ref_20949">flag-ship</ref><note xml:id="ref_20949">[Allusion] [Nautical] The vessel which carried the admiral or commodore, and thus the command-center of the fleet.
-
-(R.D. Madison)</note> stings their guns to furious play.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781265948-q4nnd2ieyk9ms4i-dd08fb19bd759dbe7ea478719fd104d8%2F87.jpg"/>How dread to mark her near the glare
-And glade of death the beacon throws
-Athwart the racing waters there;
-One by one each plainer grows,
-Then speeds a blazoned target to our gladdened foes.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The impartial <ref target="#ref_20951">cresset lights</ref><note xml:id="ref_20951">[definition] Torches set up on shore
-
-(R. D. Madison)</note> as well
-The fixed forts to the boats that run;
-And, plunged from the ports, their answers swell
-Back to each fortress <ref target="#ref_20952">dun</ref><note xml:id="ref_20952">[definition] Can refer to both the dull color in the semi-light or the position of the forts on hills.
-
-(R.D. Madison)</note>:
-Ponderous words speaks every monster gun.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Fearless they flash through gates of flame,
-The salamanders hard to hit,
-Though vivid shows each bulky frame;
-And never the batteries intermit,
-Nor the boats huge guns; they fire and flit.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Anon a lull. The beacon dies:
-“Are they out of that strait accurst?”
-But other flames now dawning rise,
-Not mellowly brilliant like the first,
-But rolled in smoke, whose whitish volumes burst.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437781269300-4o5vhorf2m15g66r-dd08fb19bd759dbe7ea478719fd104d8%2F88.jpg"/>A baleful brand, a hurrying torch
-Whereby anew the boats are seen—
-A burning transport all alurch!
-Breathless we gaze; yet still we glean
-Glimpses of beauty as we eager lean.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The effulgence takes an amber glow
-Which bathes the hill-side villas far;
-Affrighted ladies mark the show
-Painting the pale magnolia—
-<ref target="#ref_20955">The fair, false, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:177" type="person">Circe</name> light of cruel War</ref><note xml:id="ref_20955">[Allusion] [literary] In Homer’s Odyssey (Sealts #278 and [in part] #147), Circe turns mortals into beasts; here, the image is of the transformative effect of firelight... (R. D. Madison) which reveals the change from men to beasts that war precipitates. (Eric Meckley)</note>.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The barge drifts doomed, a plague-struck one.
-Shoreward in <ref target="#ref_20956">yawls</ref><note xml:id="ref_20956">[allusion] [nautical] A round-bottomed boat propelled by about a dozen oarsmen, here used as lifeboats. (R. D. Madison)</note> the sailors fly.
-But the gauntlet now is nearly run,
-The spleenful forts by fits reply,
-And the burning boat dies down in morning&apos;s sky.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">All out of range. Adieu, Messieurs!
-Jeers, as it speeds, our parting gun.
-So burst we through their barriers
-And menaces every one:
-So <ref target="#ref_20959"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:176" type="person">Porter</name> proves himself a brave man&apos;s son</ref><note xml:id="ref_20959">[allusion] [intratext] [intertext] 77 Porter] David Dixon Porter (1813-1891). Melville’s note "g" is a reminder that he had plundered the elder Porter’s Journal of a Cruise  (Bercaw  #563) in Typee and “The Encantadas.”</note>.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-
-</p></div></body>
+<lg>
+	<l>All out of range. Adieu, Messieurs!</l>
+				<l rend="2em">Jeers, as it speeds, our parting gun.</l>
+<l>So burst we through their barriers</l>
+				<l rend="2em">And menaces every one:</l>
+				<l>So <name ref="https://mel-catalog.herokuapp.com/api/entries/person:176" type="person">Porter</name> <ref target="#ref_20959">proves himself a brave man&apos;s son</ref><note xml:id="ref_20959">Melville’s note "g" is a reminder that he had plundered the elder Porter’s <hi>Journal of a Cruise Made to the Pacific Ocean</hi>  (Philadelphia, 1815; Bercaw  #563; NN <hi rend="italic">Typee</hi>, p. 291) in <hi rend="italic">Typee</hi> and “The Encantadas.”</note>.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
