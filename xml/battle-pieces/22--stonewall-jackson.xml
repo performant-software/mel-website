@@ -20,15 +20,15 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="22--stonewall-jackson"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431006102253-g3xpqlq48g-32ed654384b1016a3cb61ae64cc70d77%2Fbattle-pieces-i-0087.jpg"/><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall Jackson</name>.
+			<body><div xml:id="stonewall-jackson">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0087.jpg"/>
+				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall Jackson</name>.</hi>
+</head>
+<head><hi rend="italic">Mortally wounded at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:444" type="place">Chancellorsville</name>.</hi>
+<lb/>
+(<hi rend="smallcaps">May</hi>, 1863.)</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Mortally wounded at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:444" type="place">Chancellorsville</name>.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">(May, 1863.)
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">––––––––––––––
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The Man who fiercest charged in fight,
+The Man who fiercest charged in fight,
 Whose sword and prayer were long—
 Stonewall!
 Even him who stoutly stood for Wrong,
