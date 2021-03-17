@@ -210,28 +210,32 @@ They snug their huts with the chapel-pews,</l>
 	<head type="sub-head"><l rend="12em">II.</l></head>
 </lg>
 	<lb/>
-
-<!--  The May-weed springs; and comes a Man
-  And mounts our Signal Hill;
-A quiet Man, and plain in garb—
-  Briefly he looks his fill,
-Then drops his gray eye on the ground,
-  Like a loaded mortar he is still:
-Meekness and grimness meet in him—
-  The silent General.
-
-        <hi rend="italic">Were men but strong and wise,
-          Honest as <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name>, and calm,
-        War would be left to the red and black ants,
-          And the happy world disarm.</hi>
-
-That eve a stir was in the camps,
-  Forerunning quiet soon to come
-Among the streets of beechen huts
-  No more to know the drum.
-The weed shall choke the lowly door,
-  And foxes peer within the gloom,
-
+<lg>
+<l>The May-weed springs; and comes a Man</l>
+<l rend="2em">And mounts our Signal Hill;</l>
+<l>A quiet Man, and plain in garb—</l>
+<l rend="2em">Briefly he looks his fill,</l>
+<l>Then drops his gray eye on the ground,</l>
+<l rend="2em">Like a loaded mortar he is still:</l>
+<l>Meekness and grimness meet in him—</l>
+<l rend="2em">The silent General.</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em">Were men but strong and wise,</l>
+<l rend="8em">Honest as <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name>, and calm,</l>
+<l rend="6em">War would be left to the red and black ants,</l>
+<l rend="8em">And the happy world disarm.</l></hi>
+</lg>
+<lb/>
+<lg>
+<l>That eve a stir was in the camps,</l>
+<l rend="2em">Forerunning quiet soon to come</l>
+<l>Among the streets of beechen huts</l>
+<l rend="2em">No more to know the drum.</l>
+<l>The weed shall choke the lowly door,</l>
+<l rend="2em">And foxes peer within the gloom,</l>
+</lg>
+<!-- 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0108.jpg"/>
 
 Till scared perchange by <name ref="https://mel-catalog.herokuapp.com/api/entries/person:123" type="person">Mosby</name>&apos;s prowling men,
