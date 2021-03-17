@@ -46,7 +46,7 @@
 <l rend="4em">On leaf-walled ways,</l>
 <l n="15">Where streamed our wagons in caravan;</l>
 <l rend="2em">And the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">Seven Nights and Days</name></l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0076.jpg"/> Of march and fast, retreat and fight,</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0076.jpg"/>Of march and fast, retreat and fight,</l>
 <l>Pinched our grimed faces to ghastly plight—</l>
 <l rend="6em">Does the elm wood</l>
 <l n="20">Recall the haggard beards of blood?</l></lg>
@@ -65,11 +65,11 @@
 </lg>
 
 <lg>
-<l rend="6em">We elms of Malvern Hill</l>
-<l rend="8em">Remember every thing;</l>
-<l rend="6em">But sap the twig will fill:</l>
-	<l rend="6em"><ref target="#ref_21060"><ref target="#ref_21019">Wag</ref><note xml:id="ref_21019">According to Melville’s 1846 Webster’s Dictionary, “wag” in verb form is defined as “1. [t]o be quick in ludicrous motion; to stir. 2. To go; to depart; to pack off. 3. To be moved one way and the other” (Webster, An American Dictionary of the English Language, 1846). According to the Oxford English Dictionary, the verb form of “wag” is from the “Middle English wagge-n, root of Old English wagian … to oscillate, shake."</note> the world how it will</ref><note xml:id="ref_21060">Hennig Cohen lists the possible sources for this phrase: “Cf. Shakespeare, (As You Like It), II, vii. 23: “‘ . . . Thus we may see,’ quoth he, ‘how the world wags . . .’” Also cf. the uncollected poem located by H. P. Vincent, “In a Nutshell” (line 4): 'Wag the world how it may.' The phrase is proverbial (Tilley W879)” (Cohen 233).</note>,</l>
-<l n="35" rend="8em">Leaves must be green in Spring. <!--  <note xml:id="ref_21020">Ronald Giles reads the final stanza, in which the elms speak, as the trees' “rebuke” of human kind “for attempting to coerce an unnatural compassion,” of which the elms are not capable ("Malvern Hill," Explicator, 1987). Aaron Kramer places “Malvern Hill” in a constellation with other Battle-Pieces that address the theme of “nature’s uninterested continuity after a human catastrophe. He cites “Shiloh,” “The Stone Fleet,” “A Requiem for Soldiers Lost in Ocean Transports,” and “On a Natural Monument in a Field of Georgia” (Kramer, Melville’s Poetry: Toward the Enlarged Heart, 28).</note> --></l>
+<l rend="6em"><hi rend="italic">We elms of Malvern Hill</hi></l>
+	<l rend="8em"><hi rend="italic">Remember every thing;</hi></l>
+	<l rend="6em"><hi rend="italic">But sap the twig will fill:</hi></l>
+	<l rend="6em"><ref target="#ref_21019"><hi rend="italic">Wag</hi></ref><note xml:id="ref_21019">According to Melville’s 1846 Webster’s Dictionary, “wag” in verb form is defined as “1. [t]o be quick in ludicrous motion; to stir. 2. To go; to depart; to pack off. 3. To be moved one way and the other” (Webster, An American Dictionary of the English Language, 1846). According to the Oxford English Dictionary, the verb form of “wag” is from the “Middle English wagge-n, root of Old English wagian … to oscillate, shake." Also, “Cf. Shakespeare, (As You Like It), II, vii. 23: “‘ . . . Thus we may see,’ quoth he, ‘how the world wags . . .’” Also cf. the uncollected poem located by H. P. Vincent, “In a Nutshell” (line 4): 'Wag the world how it may.' The phrase is proverbial (Tilley W879)” (Cohen 233).</note>,</l>
+<l n="35" rend="8em"><hi rend="italic">Leaves must be green in Spring.</hi><!--  <note xml:id="ref_21020">Ronald Giles reads the final stanza, in which the elms speak, as the trees' “rebuke” of human kind “for attempting to coerce an unnatural compassion,” of which the elms are not capable ("Malvern Hill," Explicator, 1987). Aaron Kramer places “Malvern Hill” in a constellation with other Battle-Pieces that address the theme of “nature’s uninterested continuity after a human catastrophe. He cites “Shiloh,” “The Stone Fleet,” “A Requiem for Soldiers Lost in Ocean Transports,” and “On a Natural Monument in a Field of Georgia” (Kramer, Melville’s Poetry: Toward the Enlarged Heart, 28).</note> --></l>
 </lg>
 </div></body>
 		</text>

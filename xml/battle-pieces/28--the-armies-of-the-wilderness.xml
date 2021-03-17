@@ -17,7 +17,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-<body><div id="28--the-armies-of-the-wilderness">
+<body><div xml:id="the-armies-of-the-wilderness">
 
 	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0101.jpg"/>
 	<head type="main">
@@ -161,40 +161,39 @@ But the field-mouse small and busy ant</l>
 
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0106.jpg"/>
-<l>They snug their huts with the chapel-pews,
-<l rend="2em">In court-houses stable their steeds—
-<l>Kindle their fires with indentures and bonds,
-<l rend="2em">And old <name ref="https://mel-catalog.herokuapp.com/api/entries/person:196" type="person">Lord Fairfax</name>&apos;s parchment deeds;
-<l>And Virginian gentlemen&apos;s libraries old—
-<l rend="2em">Books which only the scholar heeds—
-<l>Are flung to his kennel. It is ravage and range,
-<l rend="2em">And gardens are left to weeds.
+<l>They snug their huts with the chapel-pews,</l>
+<l rend="2em">In court-houses stable their steeds—</l>
+<l>Kindle their fires with indentures and bonds,</l>
+<l rend="2em">And old <name ref="https://mel-catalog.herokuapp.com/api/entries/person:196" type="person">Lord Fairfax</name>&apos;s parchment deeds;</l>
+<l>And Virginian gentlemen&apos;s libraries old—</l>
+<l rend="2em">Books which only the scholar heeds—</l>
+<l>Are flung to his kennel. It is ravage and range,</l>
+<l rend="2em">And gardens are left to weeds.</l>
 
-<l rend="6em">Turned adrift into war
-<l rend="8em">Man runs wild on the plain,
-<l rend="6em">Like the <ref target="#ref_19172">jennets</ref><note xml:id="ref_19172">A small, medieval Spanish horse</note> let loose
-<l rend="8em">On the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:482" type="place">Pampas</name>—zebras again.
+<l rend="6em">Turned adrift into war</l>
+<l rend="8em">Man runs wild on the plain,</l>
+<l rend="6em">Like the <ref target="#ref_19172">jennets</ref><note xml:id="ref_19172">A small, medieval Spanish horse</note> let loose</l>
+<l rend="8em">On the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:482" type="place">Pampas</name>—zebras again.</l>
 
 
-<l>Like the <ref target="#ref_19174">Pleiads</ref><note xml:id="ref_19174">Faint luster of stars in the Taurus constellation.</note> dim, see the tents through the storm—
-<l rend="2em">Aloft by the hill-side hamlet&apos;s graves,
-<l>On a head-stone used for a hearth-stone there
-<l rend="2em">The water is bubbling for punch for our braves.
-<l>What if the night be drear, and the blast
-<l rend="2em">Ghostly shrieks? their rollicking staves
-<l>Make frolic the heart; beating time with their swords,
-<l rend="2em">What care they if Winter raves?
+<l>Like the <ref target="#ref_19174">Pleiads</ref><note xml:id="ref_19174">Faint luster of stars in the Taurus constellation.</note> dim, see the tents through the storm—</l>
+<l rend="2em">Aloft by the hill-side hamlet&apos;s graves,</l>
+<l>On a head-stone used for a hearth-stone there</l>
+<l rend="2em">The water is bubbling for punch for our braves.</l>
+<l>What if the night be drear, and the blast</l>
+<l rend="2em">Ghostly shrieks? their rollicking staves</l>
+<l>Make frolic the heart; beating time with their swords,</l>
+<l rend="2em">What care they if Winter raves?</l>
 
-<l rend="6em">Is life but a dream? and so,
-<l rend="8em">In the dream do men laugh aloud?
-<l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0107.jpg"/>
-So strange seems mirth in a camp,
-<l rend="8em">So like a white tent to a shroud.</hi>
+<l rend="6em">Is life but a dream? and so,</l>
+<l rend="8em">In the dream do men laugh aloud?</l>
+<l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0107.jpg"/>So strange seems mirth in a camp,</l>
+<l rend="8em">So like a white tent to a shroud.</l>
 
 
 <l rend="12em">II.</l>
 
-The May-weed springs; and comes a Man
+<!--  The May-weed springs; and comes a Man
   And mounts our Signal Hill;
 A quiet Man, and plain in garb—
   Briefly he looks his fill,
@@ -331,7 +330,7 @@ A riddle of death, of which the slain
           Of the shroudless dead. It is right;
         Not yet can we bear the flare
             Of the funeral light.</hi>
-END OF POEM
+END OF POEM -->
 
 </div></body>
 		</text>
