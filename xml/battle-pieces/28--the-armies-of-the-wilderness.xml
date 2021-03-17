@@ -45,7 +45,6 @@
 <l rend="6em">However it be, whatever betide,</l>
 <l rend="8em">Let not the just one fall.</l></hi>
 </lg>
-<lb/>
 <lg>
 <l>Through the pointed glass our soldiers saw</l>
 <l rend="2em">The base-ball bounding sent;</l>
@@ -65,25 +64,25 @@ They could have joined them in their sport</l>
 <l rend="6em">Over and over, again and again</l>
 <l rend="8em">Must the fight for the Right be fought?</l></hi>
 </lg>
-<lb/>
 <lg>
 <l>They lead a Gray-back to the crag:</l>
 <l rend="2em">&quot;Your earth-works yonder—tell us, man!&quot;</l>
 <l>&quot;A prisoner—no deserter, I,</l>
-<l rend="2em">Nor one of the tell-ale clan.&quot;</l>
+<l rend="2em">Nor one of the tell-tale clan.&quot;</l>
 <l>His rags they mark: &quot;True-blue like you</l>
 <l rend="2em">Should wear the color—your Country&apos;s, man!&quot;</l>
 <l>He grinds his teeth: &quot;However that be,</l>
 <l rend="2em">Yon earth-works have their plan.&quot;</l>
-
-<l rend="6em">Such brave ones, foully snared</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em">Such brave ones, foully snared</l>
 <l rend="8em">By Belial&apos;s wily plea,</l>
 <l rend="6em">Were faithful unto the evil end—</l>
-<l rend="10em">Feudal fidelity.</l>
-
-
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0103.jpg"/>
-<l>&quot;Well, then, your camps—come, tell the names!&quot;</l>
+<l rend="10em">Feudal fidelity.</l></hi>
+</lg>
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0103.jpg"/>
+&quot;Well, then, your camps—come, tell the names!&quot;</l>
 <l rend="2em">Freely he leveled his finger then:</l>
 <l>&quot;Yonder—see—are our Georgians; on the crest,</l>
 <l rend="2em">The Carolinians; lower, past the glen,</l>
@@ -93,6 +92,7 @@ They could have joined them in their sport</l>
 <l rend="2em">Halloa! I see the picket-hut, the den</l>
 <l>Where I last night lay.&quot; &quot;Where&apos;s Lee&quot;</l>
 <l rend="2em">&quot;In the hearts and bayonets of all yon men!&quot;</l>
+</lg>
 
 <l rend="6em">The tribes swarm up to war</l>
 <l rend="8em">As in ages long ago,</l>
