@@ -154,7 +154,7 @@ But the field-mouse small and busy ant</l>
 <l rend="8em">Of the world&apos;s great Prime?</l></hi>
 </lg>
 <lb/>
-
+<lg>
 <l>The wagon mired and cannon dragged</l>
 <l rend="2em">Have trenched their scar; the plain</l>
 <l>Tramped like the cindery beach of the damned—</l>
@@ -163,15 +163,17 @@ But the field-mouse small and busy ant</l>
 <l rend="2em">Like a massacre show. The armies have lain</l>
 <l>By fires where gums and balms did burn,</l>
 <l rend="2em">And the seeds of Summer&apos;s reign.</l>
-
-<l rend="6em">Where are the birds and boys?</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em">Where are the birds and boys?</l>
 <l rend="8em">Who shall go chestnutting when</l>
 <l rend="6em">October returns? The nuts—</l>
-<l rend="8em">O, long ere they grow again.</l>
-
-
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0106.jpg"/>
-<l>They snug their huts with the chapel-pews,</l>
+<l rend="8em">O, long ere they grow again.</l></hi>
+</lg>
+<lb/>
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0106.jpg"/>
+They snug their huts with the chapel-pews,</l>
 <l rend="2em">In court-houses stable their steeds—</l>
 <l>Kindle their fires with indentures and bonds,</l>
 <l rend="2em">And old <name ref="https://mel-catalog.herokuapp.com/api/entries/person:196" type="person">Lord Fairfax</name>&apos;s parchment deeds;</l>
@@ -179,14 +181,16 @@ But the field-mouse small and busy ant</l>
 <l rend="2em">Books which only the scholar heeds—</l>
 <l>Are flung to his kennel. It is ravage and range,</l>
 <l rend="2em">And gardens are left to weeds.</l>
-
-<l rend="6em">Turned adrift into war</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em">Turned adrift into war</l>
 <l rend="8em">Man runs wild on the plain,</l>
 <l rend="6em">Like the <ref target="#ref_19172">jennets</ref><note xml:id="ref_19172">A small, medieval Spanish horse</note> let loose</l>
-<l rend="8em">On the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:482" type="place">Pampas</name>—zebras again.</l>
-
-
-<l>Like the <ref target="#ref_19174">Pleiads</ref><note xml:id="ref_19174">Faint luster of stars in the Taurus constellation.</note> dim, see the tents through the storm—</l>
+<l rend="8em">On the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:482" type="place">Pampas</name>—zebras again.</l></hi>
+</lg>
+<lb/>
+<lg>
+<l>Like the <ref target="#ref_19174">Pleiads</ref><note xml:id="ref_19174">Faint cluster of stars in the Taurus constellation.</note> dim, see the tents through the storm—</l>
 <l rend="2em">Aloft by the hill-side hamlet&apos;s graves,</l>
 <l>On a head-stone used for a hearth-stone there</l>
 <l rend="2em">The water is bubbling for punch for our braves.</l>
@@ -194,14 +198,17 @@ But the field-mouse small and busy ant</l>
 <l rend="2em">Ghostly shrieks? their rollicking staves</l>
 <l>Make frolic the heart; beating time with their swords,</l>
 <l rend="2em">What care they if Winter raves?</l>
-
-<l rend="6em">Is life but a dream? and so,</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em">Is life but a dream? and so,</l>
 <l rend="8em">In the dream do men laugh aloud?</l>
 <l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0107.jpg"/>So strange seems mirth in a camp,</l>
-<l rend="8em">So like a white tent to a shroud.</l>
-
-
-<l rend="12em">II.</l>
+<l rend="8em">So like a white tent to a shroud.</l></hi>
+</lg>
+<lb/>
+	<lg>
+	<head type="sub-head"><l rend="12em">II.</l></head>
+	<lb/>
 
 <!--  The May-weed springs; and comes a Man
   And mounts our Signal Hill;
