@@ -24,27 +24,27 @@
 	<hi rend="italic">The Armies of the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name>.</hi>
 	</head>
 	<head type="sub-head">
-	<hi rend="italic">Indicative of the passion of the people on the 15th of<lb/> April, 1865.</hi>
 	(1863-4.)
 	</head>
-
+<lb/>
 	<lg>
-	<l rend="12em">I.</l>
+	<head type="sub-head"><l rend="12em">I.</l></head>
+	<lb/>
 <l><hi rend="smallcaps">Like</hi> snows the camps on southern hills</l>
 <l rend="2em">Lay all the winter long,</l>
 <l>Our levies there in patience stood—</l>
 <l rend="2em">They stood in patience strong.</l>
 <l>On fronting slopes gleamed other camps</l>
 <l rend="2em">Where faith as firmly clung:</l>
-<l>Ah, froward kin! so brave miss—</l>
+<l>Ah, froward kin! so brave amiss—</l>
 <l rend="2em">The zealots of the Wrong.</l>
 </lg>
 <lg>
 
-<l rend="6em"><hi rend="italic">In this strife of brothers</hi></l>
+<hi rend="italic"><l rend="6em">In this strife of brothers</l>
 <l rend="8em">(God, hear their country call),</l>
 <l rend="6em">However it be, whatever betide,</l>
-<l rend="8em">Let not the just one fall.</l>
+<l rend="8em">Let not the just one fall.</l></hi>
 </lg>
 <lg>
 <l>Through the pointed glass our soldiers saw</l>
@@ -190,6 +190,7 @@ But the field-mouse small and busy ant</l>
 <l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0107.jpg"/>
 So strange seems mirth in a camp,
 <l rend="8em">So like a white tent to a shroud.</hi>
+
 
 <l rend="12em">II.</l>
 
