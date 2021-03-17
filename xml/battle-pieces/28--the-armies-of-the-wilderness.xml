@@ -63,6 +63,7 @@ They could have joined them in their sport</l>
 <l rend="6em">Over and over, again and again</l>
 <l rend="8em">Must the fight for the Right be fought?</l></hi>
 </lg>
+<lb/>
 <lg>
 <l>They lead a Gray-back to the crag:</l>
 <l rend="2em">&quot;Your earth-works yonder—tell us, man!&quot;</l>
@@ -79,6 +80,7 @@ They could have joined them in their sport</l>
 <l rend="6em">Were faithful unto the evil end—</l>
 <l rend="10em">Feudal fidelity.</l></hi>
 </lg>
+<lb/>
 <lg>
 <l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0103.jpg"/>
 &quot;Well, then, your camps—come, tell the names!&quot;</l>
@@ -87,18 +89,19 @@ They could have joined them in their sport</l>
 <l rend="2em">The Carolinians; lower, past the glen,</l>
 <l>Virginians—Alabamians—Mississippians—Kentuckians</l>
 <l rend="2em">(Follow my finger)—Tennesseeans; and the ten</l>
-<l>Camps there—ask your grave-pits; they&apos;ll tell.</l>
+<l>Camps <hi rend="italic">there</hi>—ask your grave-pits; they&apos;ll tell.</l>
 <l rend="2em">Halloa! I see the picket-hut, the den</l>
-<l>Where I last night lay.&quot; &quot;Where&apos;s Lee&quot;</l>
+<l>Where I last night lay.&quot; &quot;Where&apos;s Lee?&quot;</l>
 <l rend="2em">&quot;In the hearts and bayonets of all yon men!&quot;</l>
 </lg>
-
-<l rend="6em">The tribes swarm up to war</l>
+<lg>
+<hi rend="italic"><l rend="6em">The tribes swarm up to war</l>
 <l rend="8em">As in ages long ago,</l>
 <l rend="6em">Ere the palm of promise leaved</l>
-<l rend="8em">And the lily of Christ did blow.</l>
-
-
+<l rend="8em">And the lily of Christ did blow.</l></hi>
+</lg>
+<lb/>
+<lg>
 <l>Their mounted pickets for miles are spied</l>
 <l rend="2em">Dotting the lowland plain,</l>
 <l>The nearer ones in their veteran-rags—</l>
@@ -107,12 +110,13 @@ They could have joined them in their sport</l>
 <l rend="2em">With rifles ready and eyes that strain</l>
 <l>Deep through the dim suspected wood</l>
 <l rend="2em">Where the Rapidan rolls amain.</l>
+</lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0104.jpg"/>
-<l rend="6em">The Indian has passed away,</l>
+<hi rend="italic"><l rend="6em">The Indian has passed away,</l>
 <l rend="8em">But creeping comes another—</l>
 <l rend="6em">Deadlier far. Picket,</l>
-<l rend="8em">Take heed—take heed of thy brother!</l>
+<l rend="8em">Take heed—take heed of thy brother!</l></hi>
 
 
 <l>From a wood-hung height, an outpost lone,</l>
