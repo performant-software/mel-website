@@ -258,7 +258,7 @@ They snug their huts with the chapel-pews,</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Like shoals of fish in spring</l>
-<l rend="8em">That visit <ref target="#ref_19178">Crusoe</ref><note xml:id="ref_19178">Robinson Crusoe, main character of Daniel Defoe's 1719 novel of the same name.</note>&apos;s isle</l>
+<l rend="8em">That visit <ref target="#ref_19178">Crusoe</ref><note xml:id="ref_19178">Main character in Daniel Defoe's 1719 novel Robinson Crusoe.</note>&apos;s isle,</l>
 <l rend="6em">The host in the lonesome place—</l>
 <l rend="8em">The hundred thousand file.</l></hi>
 </lg>
@@ -266,36 +266,37 @@ They snug their huts with the chapel-pews,</l>
 <lg>
 <l>The foe that held his guarded hills</l>
 <l rend="2em">Must speed to woods afar;</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0109.jpg"/>For the scheme that was nursed by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:483" type="place">Culpepper</name> hearth</l>
+<l rend="2em">With the slowly-smoked cigar—</l>
+<l>The scheme that smouldered through winter long</l>
+<l rend="2em">Now bursts into act—into war—</l>
+<l>The resolute scheme of a heart as calm</l>
+<l rend="2em">As the Cyclone&apos;s core.</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em">The fight for the city is fought</l>
+<l rend="8em">In Nature&apos;s old domain;</l>
+<l rend="6em">Man goes out to the wilds,</l>
+<l rend="8em">And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:198" type="person">Orpheus</name>&apos; charm is vain.</l></hi>
+</lg>
+<lb/>
+<lg>
+<l>In glades they meet skull after skull</l>
+<l rend="2em">Where pine-cones lay—the rusted gun,</l>
+<l>Green shoes full of bones, the mouldering coat</l>
+<l rend="2em">And cuddled-up skeleton;</l>
+<l>And scores of such. Some start as in dreams,</l>
+<l rend="2em">And comrades lost bemoan:</l>
+<l>By the edge of those wilds <name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name> had charged—</l>
+<l rend="2em">But the Year and the Man were gone.</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em">At the height of their madness</l>
+<l rend="8em">The night winds pause,</l>
+<l rend="6em">Recollecting themselves;</l>
+<l rend="8em">But no lull in these wars.</l></hi>
 </lg>
 <!--
-	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0109.jpg"/>
-
-For the scheme that was nursed by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:483" type="place">Culpepper</name> hearth
-  With the slowly-smoked cigar—
-The scheme that smouldered through winter long
-  Now bursts into act—into waw—
-The resolute scheme of a heart as calm
-  As the Cyclone&apos;s core.
-
-       <hi rend="italic"> The fight for the city is fought
-          In Nature&apos;s old domain;
-        Man goes out to the wilds,
-          And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:198" type="person">Orpheus</name>&apos; charm is vain.</hi>
-
-In glades they meet skull after skull
-  Where pine-cones lay—the rusted gun,
-Green shoes full of bones, the mouldering coat
-  And cuddled-up skeleton;
-And scores of such. Some start as in dreams,
-  And comrades lost bemoan:
-By the edge of those wilds <name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name> had charged—
-  But the Year and the Man were gone.
-
-        <hi rend="italic">At the height of their madness
-          The night winds pause,
-        Recollecting themselves;
-          But no lull in these wars.</hi>
-
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0110.jpg"/>
 
 A gleam!—a volley! And who shall go
