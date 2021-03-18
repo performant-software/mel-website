@@ -33,7 +33,7 @@
 <l rend="2em">That it shines in lurid light,</l>
 <l>And is rolled about with thunders,</l>
 <l rend="2em">And terrors, and a blight,</l>
-<l>Like <ref target="#ref_19148">Kaf</ref><note xml:id="ref_19148">In some Arabic traditions, Mount Qaf, located at the ends of the world, represents increasingly higher spiritual states.See: 
+<l n="5">Like <ref target="#ref_19148">Kaf</ref><note xml:id="ref_19148">In some Arabic traditions, Mount Qaf, located at the ends of the world, represents increasingly higher spiritual states.See:
 https://books.google.com/books?id=59gPAAAAYAAJ&amp;pg=PA9&amp;lpg=PA9&amp;dq=kaf+the+peak+of+eblis&amp;source=bl&amp;ots=yt1d7O4HU2&amp;sig=HkWv0DGdZ2gR5GPywenBwg8it4w&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiDwuyX4PPNAhUDVT4KHeHRBGY4ChDoAQgoMAM#v=onepage&amp;q=kaf%20the%20peak%20of%20eblis&amp;f=false</note> the peak of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Eblis</name>—</l>
 <l rend="2em">Kaf, the evil height?</l>
 <l>Who has gone up with a shouting</l>
@@ -41,12 +41,12 @@ https://books.google.com/books?id=59gPAAAAYAAJ&amp;pg=PA9&amp;lpg=PA9&amp;dq=kaf
 </lg>
 <lg>
 <l>There is battle in the Mountain—</l>
-<l rend="2em">Might assaulteth Might;</l>
+<l n="10" rend="2em">Might assaulteth Might;</l>
 <l>&apos;Tis the fastness of the Anarch,</l>
 <l rend="2em">Torrent-torn, an ancient height;</l>
 <l>The crags resound the clangor</l>
 <l rend="2em">Of the war of Wrong and Right;</l>
-<l>And the armies in the valley</l>
+<l n="15">And the armies in the valley</l>
 <l rend="2em">Watch and pray for dawning light.</l>
 </lg>
 <lg>
@@ -54,7 +54,7 @@ https://books.google.com/books?id=59gPAAAAYAAJ&amp;pg=PA9&amp;lpg=PA9&amp;dq=kaf
 Joy, joy, the day is breaking,</l>
 <l rend="2em">And the cloud is rolled from sight;</l>
 <l>There is triumph in the Morning</l>
-<l rend="2em">For the Anarch&apos;s plunging flight;</l>
+<l n="20" rend="2em">For the Anarch&apos;s plunging flight;</l>
 <l>God has glorified the Mountain</l>
 <l rend="2em">Where a Banner burneth bright,</l>
 <l>And the armies in the valley</l>
