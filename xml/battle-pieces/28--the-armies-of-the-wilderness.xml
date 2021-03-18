@@ -235,34 +235,40 @@ They snug their huts with the chapel-pews,</l>
 <l>The weed shall choke the lowly door,</l>
 <l rend="2em">And foxes peer within the gloom,</l>
 </lg>
-<!-- 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0108.jpg"/>
-
-Till scared perchange by <name ref="https://mel-catalog.herokuapp.com/api/entries/person:123" type="person">Mosby</name>&apos;s prowling men,
-  Who ride in the rear of doom.
-
-      <hi rend="italic">  Far West, and farther South,
-          Wherever the sword has been,
-        Deserted camps are met,
-          And desert graves are seen.</hi>
-
-The livelong night they ford the flood;
-  With guns held high they silent press,
-Till shimmers the grass in their bayonets&apos; sheen—
-  On Morning&apos;s banks their ranks they dress;
-Then by the forests lightly wind,
-  Whose waving boughs the pennons seem to bless,
-Borne by the cavalry scouting on—
-  Sounding the Wilderness.
-
-        <hi rend="italic"><ref target="#ref_19181">Like shoals of fish in spring
-          That visit <ref target="#ref_19178">Crusoe</ref><note xml:id="ref_19178">Robinson Crusoe, main character of Daniel Defoe's 1719 novel of the same name.</note>&apos;s isle
-        The host in the lonesome place—
-          The hundred thousand file.</hi>
-
-The foe that held his guarded hills
-  Must speed to woods afar;
-
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0108.jpg"/>
+Till scared perchange by <name ref="https://mel-catalog.herokuapp.com/api/entries/person:123" type="person">Mosby</name>&apos;s prowling men,</l>
+<l rend="2em">Who ride in the rear of doom.</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em">Far West, and farther South,</l>
+<l rend="em">Wherever the sword has been,</l>
+<l rend="6em">Deserted camps are met,</l>
+<l rend="8em">And desert graves are seen.</l></hi>
+</lg>
+<lb/>
+<lg>
+<l>The livelong night they ford the flood;</l>
+<l rend="2em">With guns held high they silent press,</l>
+<l>Till shimmers the grass in their bayonets&apos; sheen—</l>
+<l rend="2em">On Morning&apos;s banks their ranks they dress;</l>
+<l>Then by the forests lightly wind,</l>
+<l rend="2em">Whose waving boughs the pennons seem to bless,</l>
+<l>Borne by the cavalry scouting on—</l>
+<l rend="2em">Sounding the Wilderness.</l>
+</lg>
+<lg>
+<hi rend="italic"><l rend="6em"><ref target="#ref_19181">Like shoals of fish in spring</l>
+<l rend="8em">That visit <ref target="#ref_19178">Crusoe</ref><note xml:id="ref_19178">Robinson Crusoe, main character of Daniel Defoe's 1719 novel of the same name.</note>&apos;s isle</l>
+<l rend="6em">The host in the lonesome place—</l>
+<l rend="8em">The hundred thousand file.</l></hi>
+</lg>
+<lb/>
+<lg>
+<l>The foe that held his guarded hills</l>
+<l rend="2em">Must speed to woods afar;</l>
+</lg>
+<!--
 	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0109.jpg"/>
 
 For the scheme that was nursed by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:483" type="place">Culpepper</name> hearth
