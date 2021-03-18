@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>23 - Stonewall Jackson Ascribed to a Virginian</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,13 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div xml:id="stonewall-jackson-ascribed-to-a-virginian">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0089.jpg"/>
-				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="place">Stonewall Jackson</name>.</hi></head> 
+				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="place">Stonewall Jackson</name>.</hi></head>
 
-<head type="sub-head"><hi rend="italic">(Ascribed to a Virginian.)</hi></head> 
+<head type="sub-head"><hi rend="italic">(Ascribed to a Virginian.)</hi></head>
 
 
 <lg>
@@ -48,9 +48,9 @@
 <l n="15" rend="6em">Stonewall followed his star.</l>
 </lg>
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0090.jpg"/>
 <lg>
-<l>He followed his star on the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:461" type="place">Romney</name> march</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0090.jpg"/>
+He followed his star on the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:461" type="place">Romney</name> march</l>
 <l rend="2em">Through the sleet to the wintry war;</l>
 <l>And he followed it on when he bowed the grain—</l>
 <l rend="2em">The Wind of the Shenandoah;</l>
@@ -71,7 +71,7 @@ https://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/lyricsco.html</note>
 <l rend="6em">For Stonewall followed a star.</l>
 </lg>
 
-				<lg>
+<lg>
 <l>Back it led him to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:452" type="place">Marye</name>&apos;s slope,</l>
 <l rend="2em">Where the shock and the fame he bore;</l>
 <l>And to green <name ref="https://mel-catalog.herokuapp.com/api/entries/place:453" type="place">Moss-Neck</name> it guided him—</l>
@@ -81,9 +81,9 @@ https://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/lyricsco.html</note>
 <l rend="4em">Even unto death it piloted him—</l>
 <l rend="6em">Stonewall followed his star.</l>
 				</lg>
-	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0091.jpg"/>
-	<lg>
-<l n="40">Its lead he followed in gentle ways</l>
+				<lg>
+<l n="40"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0091.jpg"/>
+	Its lead he followed in gentle ways</l>
 <l rend="2em">Which never the valiant mar;</l>
 <l rend="2em">A cap we sent him, bestarred, to replace</l>
 <l>The sun-scorched helm of war:</l>
