@@ -20,73 +20,86 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="23--stonewall-jackson-ascribed-to-a-virginian"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437998713305-8ahv29kbq3zestt9-b009594bdcb16f7a05312e33c86820f2%2F91.jpg"/>                    <hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="place">Stonewall Jackson</name>.</hi> 
+			<body><div xml:id="stonewall-jackson-ascribed-to-a-virginian">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0089.jpg"/>
+				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="place">Stonewall Jackson</name>.</hi></head> 
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">                <hi rend="italic">(Ascribed to a Virginian.)</hi> 
-                    ----------------------
+<head type="sub-head"><hi rend="italic">(Ascribed to a Virginian.)</hi></head> 
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">One man we claim of wrought renown
-    Which not the North shall care to slur;
-A Modern lived who sleeps in death,
-    Calm as the marble Ancients are:
-            &apos;Tis he whose life, though a vapor&apos;s wreath
-        Was charged with the lightning&apos;s burning breath—
-                <name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name>, stormer of the war.
-                                                                                       
-But who shall hymn the Roman heart?
-    A stoic, he, but even more:
-The iron will and lion thew
-    Were strong to inflict as to endure:
-            Who like him could stand, or pursue?
-            His fate the fatalist followed through;
-            In all his great soul found to do
-                 Stonewall followed his star.
-                                       
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437998717999-zhh7p534ovx9lik9-b009594bdcb16f7a05312e33c86820f2%2F92.jpg"/>He followed his star on the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:448" type="place">Romney</name> march
-    Through the sleet to the wintry war;
-And he followed it on when he bowed the grain—
-    The Wind of the Shenandoah;
-           At <name ref="https://www.nps.gov/rich/learn/historyculture/gainesmillbull.htm" type="event"><name ref=" " type="text">Gaines&apos;s Mill</name></name> in the giants&apos; strain—
-           On the fierce forced stride to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:450" type="place">Manassas</name>-plain,
-           Where his sword with thunder was clothed again,
-                  Stonewall followed his star.
-                                                                                                                                                                             
-His star he followed athwart the flood
-    To <name ref="https://mel-catalog.herokuapp.com/api/entries/place:451" type="place">Potomac</name>&apos;s Northern shore,
-When midway wading, his host of braves
-    <hi rend="italic">“ <ref target="#ref_19067">My Maryland!</ref><note xml:id="ref_19067">The State Song of Maryland
-https://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/lyricsco.html</note>”</hi> loud did roar—
-           To red <name ref="https://mel-catalog.herokuapp.com/api/entries/place:457" type="place">Antietam</name>&apos;s field of graves,
-           Through mountain-passes, woods and waves,
-           They followed their pagod with hymns and <ref target="#ref_19083">glaives</ref><note xml:id="ref_19083">https://commons.wikimedia.org/wiki/File:Glaives_by_Wendelin_Boeheim.jpg#/media/File:Glaives_by_Wendelin_Boeheim.jpg</note>,
-                    For Stonewall followed a star.
-                                                                                       
-Back it led him to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:452" type="place">Marye</name>&apos;s slope,
-    Where the shock and the fame he bore;
-And to green <name ref="https://mel-catalog.herokuapp.com/api/entries/place:453" type="place">Moss-Neck </name>it guided him—
-    Brief respite from throes of war:
-           To the laurel glade by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name> grim,
-           Through climaxed victory naught shall dim,
-           Even unto death it piloted him—
-                    Stonewall followed his star.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437998721609-sq6lfmzunakprpb9-b009594bdcb16f7a05312e33c86820f2%2F93.jpg"/>Its lead he followed in gentle ways
-    Which never the valiant mar;
-A cap we sent him, bestarred, to replace
-    The sun-scorched helm of war:
-           A fillet he made of the shining lace
-           Childhood&apos;s laughing brow to grace—
-                  Not his was a goldsmith&apos;s star.
-                                                                                       
-O, much of doubt in after days
-    Shall cling, as now, to the war;
-Of the right and the wrong they&apos;ll still debate,
-    Puzzled by Stonewall&apos;s star:
-            “Fortune went with the North elate,”
-            “Ay, but the South had Stonewall&apos;s weight,
-                  And he fell in the South&apos;s vain war.”
+<lg>
+<l><hi rend="smallcaps">One</hi> man we claim of wrought renown</l>
+<l rend="2em">Which not the North shall care to slur;</l>
+<l>A Modern lived who sleeps in death,</l>
+<l rend="2em">Calm as the marble Ancients are:</l>
+<l n="5" rend="4em">&apos;Tis he whose life, though a vapor&apos;s wreath</l>
+<l rend="4em">Was charged with the lightning&apos;s burning breath—</l>
+<l rend="6em"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name>, stormer of the war.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-</p></div></body>
+<lg>
+<l>But who shall hymn the Roman heart?</l>
+<l rend="2em">A stoic, he, but even more:</l>
+<l n="10">The iron will and lion thew</l>
+<l rend="2em">Were strong to inflict as to endure:</l>
+<l rend="4em">Who like him could stand, or pursue?</l>
+<l rend="4em">His fate the fatalist followed through;</l>
+<l rend="4em">In all his great soul found to do</l>
+<l n="15" rend="6em">Stonewall followed his star.</l>
+</lg>
+
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0090.jpg"/>
+<lg>
+<l>He followed his star on the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:448" type="place">Romney</name> march</l>
+<l rend="2em">Through the sleet to the wintry war;</l>
+<l>And he followed it on when he bowed the grain—</l>
+<l rend="2em">The Wind of the Shenandoah;</l>
+	<l n="20" rend="4em">At <name ref="https://mel-catalog.herokuapp.com/api/entries/event:51" type="event">Gaines&apos;s Mill</name> in the giants&apos; strain—</l>
+<l rend="4em">On the fierce forced stride to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:450" type="place">Manassas</name>-plain,</l>
+<l rend="4em">Where his sword with thunder was clothed again,</l>
+<l rend="6em">Stonewall followed his star.</l>
+</lg>
+<lg>
+<l>His star he followed athwart the flood</l>
+<l n="25" rend="2em">To <name ref="https://mel-catalog.herokuapp.com/api/entries/place:451" type="place">Potomac</name>&apos;s Northern shore,</l>
+<l>When midway wading, his host of braves</l>
+<l rend="2em"><hi rend="italic">“ <ref target="#ref_19067">My Maryland!</ref><note xml:id="ref_19067">The State Song of Maryland
+https://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/lyricsco.html</note>”</hi> loud did roar—</l>
+<l rend="4em">To red <name ref="https://mel-catalog.herokuapp.com/api/entries/place:457" type="place">Antietam</name>&apos;s field of graves,</l>
+<l rend="4em">Through mountain-passes, woods and waves,</l>
+<l n="30" rend="4em">They followed their pagod with hymns and <ref target="#ref_19083">glaives</ref><note xml:id="ref_19083">https://commons.wikimedia.org/wiki/File:Glaives_by_Wendelin_Boeheim.jpg#/media/File:Glaives_by_Wendelin_Boeheim.jpg</note>,</l>
+<l rend="6em">For Stonewall followed a star.</l>
+</lg>
+
+				<lg>
+<l>Back it led him to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:452" type="place">Marye</name>&apos;s slope,</l>
+<l rend="2em">Where the shock and the fame he bore;</l>
+<l>And to green <name ref="https://mel-catalog.herokuapp.com/api/entries/place:453" type="place">Moss-Neck</name> it guided him—</l>
+<l n="35" rend="2em">Brief respite from throes of war:</l>
+<l rend="4em">To the laurel glade by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name> grim,</l>
+<l rend="4em">Through climaxed victory naught shall dim,</l>
+<l rend="4em">Even unto death it piloted him—</l>
+<l rend="6em">Stonewall followed his star.</l>
+				</lg>
+	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0091.jpg"/>
+	<lg>
+<l n="40">Its lead he followed in gentle ways</l>
+<l rend="2em">Which never the valiant mar;</l>
+<l rend="2em">A cap we sent him, bestarred, to replace</l>
+<l>The sun-scorched helm of war:</l>
+<l rend="4em">A fillet he made of the shining lace</l>
+<l n="45" rend="4em">Childhood&apos;s laughing brow to grace—</l>
+<l rend="6em">Not his was a goldsmith&apos;s star.</l>
+	</lg>
+<lg>
+<l>O, much of doubt in after days</l>
+<l rend="2em">Shall cling, as now, to the war;</l>
+<l>Of the right and the wrong they&apos;ll still debate,</l>
+<l n="50" rend="2em">Puzzled by Stonewall&apos;s star:</l>
+<l rend="4em">“Fortune went with the North elate,”</l>
+<l rend="4em">“Ay, but the South had Stonewall&apos;s weight,</l>
+<l rend="6em">And he fell in the South&apos;s vain war.”</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>
