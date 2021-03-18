@@ -34,14 +34,14 @@
 <l rend="2em">Lay all the winter long,</l>
 <l>Our levies there in patience stood—</l>
 <l rend="2em">They stood in patience strong.</l>
-<l>On fronting slopes gleamed other camps</l>
+<l n="5">On fronting slopes gleamed other camps</l>
 <l rend="2em">Where faith as firmly clung:</l>
 <l>Ah, froward kin! so brave amiss—</l>
 <l rend="2em">The zealots of the Wrong.</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">In this strife of brothers</l>
-<l rend="8em">(God, hear their country call),</l>
+<l n="10" rend="8em">(God, hear their country call),</l>
 <l rend="6em">However it be, whatever betide,</l>
 <l rend="8em">Let not the just one fall.</l></hi>
 </lg>
@@ -49,13 +49,13 @@
 <lg>
 <l>Through the pointed glass our soldiers saw</l>
 <l rend="2em">The base-ball bounding sent;</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0102.jpg"/>
+<l n="15"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0102.jpg"/>
 They could have joined them in their sport</l>
 <l rend="2em">But for the vale&apos;s deep rent.</l>
 <l>And others turned the reddish soil,</l>
 <l rend="2em">Like diggers of graves they bent:</l>
 <l>The reddish soil nd trenching toil</l>
-<l rend="4em">Begat presentiment.</l>
+<l n="20" rend="4em">Begat presentiment.</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Did the Fathers feel mistrust?</l>
@@ -65,19 +65,19 @@ They could have joined them in their sport</l>
 </lg>
 <lb/>
 <lg>
-<l>They lead a Gray-back to the crag:</l>
+<l n="25">They lead a Gray-back to the crag:</l>
 <l rend="2em">&quot;Your earth-works yonder—tell us, man!&quot;</l>
 <l>&quot;A prisoner—no deserter, I,</l>
 <l rend="2em">Nor one of the tell-tale clan.&quot;</l>
 <l>His rags they mark: &quot;True-blue like you</l>
-<l rend="2em">Should wear the color—your Country&apos;s, man!&quot;</l>
+<l n="30" rend="2em">Should wear the color—your Country&apos;s, man!&quot;</l>
 <l>He grinds his teeth: &quot;However that be,</l>
 <l rend="2em">Yon earth-works have their plan.&quot;</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Such brave ones, foully snared</l>
 <l rend="8em">By Belial&apos;s wily plea,</l>
-<l rend="6em">Were faithful unto the evil end—</l>
+<l n="35" rend="6em">Were faithful unto the evil end—</l>
 <l rend="10em">Feudal fidelity.</l></hi>
 </lg>
 <lb/>
@@ -86,19 +86,19 @@ They could have joined them in their sport</l>
 &quot;Well, then, your camps—come, tell the names!&quot;</l>
 <l rend="2em">Freely he leveled his finger then:</l>
 <l>&quot;Yonder—see—are our Georgians; on the crest,</l>
-<l rend="2em">The Carolinians; lower, past the glen,</l>
+<l n="40" rend="2em">The Carolinians; lower, past the glen,</l>
 <l>Virginians—Alabamians—Mississippians—Kentuckians</l>
 <l rend="2em">(Follow my finger)—Tennesseeans; and the ten</l>
 <l>Camps <hi rend="italic">there</hi>—ask your grave-pits; they&apos;ll tell.</l>
 <l rend="2em">Halloa! I see the picket-hut, the den</l>
-<l>Where I last night lay.&quot; &quot;Where&apos;s Lee?&quot;</l>
+<l n="45">Where I last night lay.&quot; &quot;Where&apos;s Lee?&quot;</l>
 <l rend="2em">&quot;In the hearts and bayonets of all yon men!&quot;</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">The tribes swarm up to war</l>
 <l rend="8em">As in ages long ago,</l>
 <l rend="6em">Ere the palm of promise leaved</l>
-<l rend="8em">And the lily of Christ did blow.</l></hi>
+<l n="50" rend="8em">And the lily of Christ did blow.</l></hi>
 </lg>
 <lb/>
 <lg>
@@ -106,7 +106,7 @@ They could have joined them in their sport</l>
 <l rend="2em">Dotting the lowland plain,</l>
 <l>The nearer ones in their veteran-rags—</l>
 <l rend="2em">Loutish they loll in lazy disdain.</l>
-<l>But ours in perilous places bide</l>
+<l n="55">But ours in perilous places bide</l>
 <l rend="2em">With rifles ready and eyes that strain</l>
 <l>Deep through the dim suspected wood</l>
 <l rend="2em">Where the Rapidan rolls amain.</l>
@@ -114,7 +114,7 @@ They could have joined them in their sport</l>
 <lg>
 <hi rend="italic"><l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0104.jpg"/>
 The Indian has passed away,</l>
-<l rend="8em">But creeping comes another—</l>
+<l n="60" rend="8em">But creeping comes another—</l>
 <l rend="6em">Deadlier far. Picket,</l>
 <l rend="8em">Take heed—take heed of thy brother!</l></hi>
 </lg>
@@ -122,12 +122,12 @@ The Indian has passed away,</l>
 <lg>
 <l>From a wood-hung height, an outpost lone,</l>
 <l rend="2em">Crowned with a woodman&apos;s fort,</l>
-<l>The sentinel looks on a land of dole,</l>
+<l n="65">The sentinel looks on a land of dole,</l>
 <l rend="4em">Like Paran, all amort.</l>
 <l>Black chimneys, gigantic in moor-like wastes,</l>
 <l rend="2em">The scowl of the clouded sky retort;</l>
 <l>The hearth is a houseless stone again—</l>
-<l rend="2em">Ah! where shall the people be sought?</l>
+<l n="70" rend="2em">Ah! where shall the people be sought?</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Since the venom such blastment deals,</l>
@@ -137,20 +137,20 @@ The Indian has passed away,</l>
 </lg>
 <lb/>
 <lg>
-<l>A path down the mountain winds to the glade</l>
+<l n="75">A path down the mountain winds to the glade</l>
 <l rend="2em">Where the dead of the Moonlight Fight lie low;</l>
 <l>A hand reaches out of the thin-laid mould</l>
 <l rend="2em">As begging help which none can bestow.</l>
 <l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0105.jpg"/>
 But the field-mouse small and busy ant</l>
-<l rend="2em">Heap their hillocks, to hide if they may the woe:</l>
+<l n="80" rend="2em">Heap their hillocks, to hide if they may the woe:</l>
 <l>By the bubbling spring lies the rusted canteen,</l>
 <l rend="2em">And the drum which the drummer-boy dying let go.</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Dust to dust, and blood for blood—</l>
 <l rend="8em">Passion and pangs! Has Time</l>
-<l rend="6em">Gone back? or is this the Age</l>
+<l n="85" rend="6em">Gone back? or is this the Age</l>
 <l rend="8em">Of the world&apos;s great Prime?</l></hi>
 </lg>
 <lb/>
@@ -158,14 +158,14 @@ But the field-mouse small and busy ant</l>
 <l>The wagon mired and cannon dragged</l>
 <l rend="2em">Have trenched their scar; the plain</l>
 <l>Tramped like the cindery beach of the damned—</l>
-<l rend="2em">A site for the city of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:195" type="person">Cain</name>.</l>
+<l n="90"  rend="2em">A site for the city of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:195" type="person">Cain</name>.</l>
 <l>And stumps of forests for dreary leagues</l>
 <l rend="2em">Like a massacre show. The armies have lain</l>
 <l>By fires where gums and balms did burn,</l>
 <l rend="2em">And the seeds of Summer&apos;s reign.</l>
 </lg>
 <lg>
-<hi rend="italic"><l rend="6em">Where are the birds and boys?</l>
+<hi n="95" rend="italic"><l rend="6em">Where are the birds and boys?</l>
 <l rend="8em">Who shall go chestnutting when</l>
 <l rend="6em">October returns? The nuts—</l>
 <l rend="8em">O, long ere they grow again.</l></hi>
@@ -174,19 +174,19 @@ But the field-mouse small and busy ant</l>
 <lg>
 <l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0106.jpg"/>
 They snug their huts with the chapel-pews,</l>
-<l rend="2em">In court-houses stable their steeds—</l>
+<l n="100" rend="2em">In court-houses stable their steeds—</l>
 <l>Kindle their fires with indentures and bonds,</l>
 <l rend="2em">And old <name ref="https://mel-catalog.herokuapp.com/api/entries/person:196" type="person">Lord Fairfax</name>&apos;s parchment deeds;</l>
 <l>And Virginian gentlemen&apos;s libraries old—</l>
 <l rend="2em">Books which only the scholar heeds—</l>
-<l>Are flung to his kennel. It is ravage and range,</l>
+<l n="105">Are flung to his kennel. It is ravage and range,</l>
 <l rend="2em">And gardens are left to weeds.</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Turned adrift into war</l>
 <l rend="8em">Man runs wild on the plain,</l>
 <l rend="6em">Like the <ref target="#ref_19172">jennets</ref><note xml:id="ref_19172">A small, medieval Spanish horse</note> let loose</l>
-<l rend="8em">On the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:482" type="place">Pampas</name>—zebras again.</l></hi>
+<l n="110" rend="8em">On the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:482" type="place">Pampas</name>—zebras again.</l></hi>
 </lg>
 <lb/>
 <lg>
@@ -194,14 +194,14 @@ They snug their huts with the chapel-pews,</l>
 <l rend="2em">Aloft by the hill-side hamlet&apos;s graves,</l>
 <l>On a head-stone used for a hearth-stone there</l>
 <l rend="2em">The water is bubbling for punch for our braves.</l>
-<l>What if the night be drear, and the blast</l>
+<l n="115">What if the night be drear, and the blast</l>
 <l rend="2em">Ghostly shrieks? their rollicking staves</l>
 <l>Make frolic the heart; beating time with their swords,</l>
 <l rend="2em">What care they if Winter raves?</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Is life but a dream? and so,</l>
-<l rend="8em">In the dream do men laugh aloud?</l>
+<l n="120" rend="8em">In the dream do men laugh aloud?</l>
 <l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0107.jpg"/>So strange seems mirth in a camp,</l>
 <l rend="8em">So like a white tent to a shroud.</l></hi>
 </lg>
