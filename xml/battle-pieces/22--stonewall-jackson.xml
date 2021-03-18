@@ -20,36 +20,43 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="22--stonewall-jackson"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431006102253-g3xpqlq48g-32ed654384b1016a3cb61ae64cc70d77%2Fbattle-pieces-i-0087.jpg"/><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall Jackson</name>.
+			<body><div xml:id="stonewall-jackson">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0087.jpg"/>
+				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall Jackson</name>.</hi>
+</head>
+<head><hi rend="italic">Mortally wounded at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:444" type="place">Chancellorsville</name>.</hi>
+<lb/>
+(<hi rend="smallcaps">May</hi>, 1863.)</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Mortally wounded at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:444" type="place">Chancellorsville</name>.
+<lg type="sestet">
+<l>The Man who fiercest charged in fight,</l>
+<l rend="2em">Whose sword and prayer were long—</l>
+<l rend="10em">Stonewall!</l>
+<l rend="2em">Even him who stoutly stood for Wrong,</l>
+<l>How can we praise? Yet coming days</l>
+<l rend="2em">Shall not forget him with this song.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">(May, 1863.)
+<lg>
+	<l>Dead is the Man whose Cause is dead,</l>
+				<l rend="2em">Vainly he died and set his seal—</l>
+				<l rend="10em">Stonewall!</l>
+				<l rend="2em">Earnest in error, as we feel;</l>
+<l>True to the thing he deemed was due,</l>
+				<l rend="2em">True as <name ref="https://mel-catalog.herokuapp.com/api/entries/person:119" type="person">John Brown</name> or steel.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">––––––––––––––
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The Man who fiercest charged in fight,
-Whose sword and prayer were long—
-Stonewall!
-Even him who stoutly stood for Wrong,
-How can we praise? Yet coming days
-Shall not forget him with this song.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Dead is the Man whose Cause is dead,
-Vainly he died and set his seal—
-Stonewall!
-Earnest in error, as we feel;
-True to the thing he deemed was due,
-True as <name ref="https://mel-catalog.herokuapp.com/api/entries/person:119" type="person">John Brown</name> or steel.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431006138178-i1yr9gn6j1g-32ed654384b1016a3cb61ae64cc70d77%2Fbattle-pieces-i-0088.jpg"/>Relentlessly he routed us;
-But we relent, for he is low—
-Stonewall!
-Justly his fame we outlaw; so
-We drop a tear on the bold Virginian&apos;s bier,
-Because no wreath we owe.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-</p></div></body>
+	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0088.jpg"/>
+				<lg type="sestet">
+					<l>Relentlessly he routed us;</l>
+					<l rend="2em">But we relent, for he is low—</l>
+						<l rend="10em">Stonewall!</l>
+							<l rend="2em">Justly his fame we outlaw; so</l>
+<l>We drop a tear on the bold Virginian&apos;s bier,</l>
+								<l rend="2em">Because no wreath we owe.</l>
+				</lg>
+</div>
+			</body>
 		</text>
 	</TEI>
