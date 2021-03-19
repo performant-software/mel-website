@@ -7,11 +7,11 @@
 				<author>Herman Melville</author>
 				<editor>R.D. Madison</editor>
 				<editor>Eric Meckley</editor>
-			
-					
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -20,21 +20,21 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div xml:id="running-the-batteries">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0083.jpg"/>
-				<head type="main"><hi rend="italic">Running the <ref target="#ref_20937">Batteries</ref></hi><note xml:id="ref_20937">During the American Civil war, a battery was an emplacement of artillery. Light batteries were usually made up of six light cannon, each on a two-wheeled carriage and hitched to a two-wheeled ammunition cart called a limber. The entire assembly was normally pulled by six horses. Heavy artillery batteries were made up of varying numbers of permanent or semi-permanent cannon. Both types seem to have been in use at the defense of Vicksburg.</note>.</head>
-				<head type="sub-head"><hi rend="italic">As observed from an <ref target="#ref_20938">anchorage</ref> above <ref target="#ref_20940"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:498" type="place">Vicksburgh</name></ref>.</hi>
-					<note xml:id="ref_20938">An anchorage required depth to keep vessels afloat, room for them to swing with wind and current, and protection from storms. In this case, the anchorage also protected the fleet from the batteries downstream.</note>
-<note xml:id="ref_20940">Usually spelled Vicksburg, a city on the Mississippi about 250 miles below Memphis and 200 miles above New Orleans (by land). Union forces planned to divide the Confederacy by controlling the Mississippi River from its confluence with the Ohio to the Gulf of Mexico. The high bluffs of Vicksburg allowed the city to hold out the longest; Vicksburg’s fall to a six-week siege following the events of this poem and the fall of Port Hudson opened the river for the free passage of union vessels.</note>
+				<head type="main"><hi rend="italic">Running the <ref target="#ref_20937">Batteries</ref></hi><note xml:id="ref_20937">Artillery emplacements, in this case Southern light and heavy cannon, both mobile and fixed, placed on shore and facing the Mississippi to defend Vicksburg downstream against attack by river from the North.</note>,</head>
+				<head type="sub-head"><hi rend="italic">As observed from the <ref target="#ref_20938">Anchorage</ref> above <ref target="#ref_20940"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:498" type="place">Vicksburgh</name></ref>.</hi>
+					<note xml:id="ref_20938">To prepare for the siege of Vicksburg, Union ships headed upstream to anchor north of Vicksburg, passing Southern gun placements on shore.</note>
+<note xml:id="ref_20940">Usually spelled Vicksburg, this rivertown on a bluff overlooking the Mississippi was the last Southern stronghold against the Northern strategy of controlling the river in order to split the Confederacy. The siege of Vicksburg, beginning mid-May 1863 in the month after the poem's setting, lasted six weeks.</note>
 <lb/>
 (<hi rend="smallcaps">April</hi>, 1863.)</head>
 
 <lg>
 <l><hi rend="smallcaps">A moonless</hi> night—a friendly one;</l>
 <l rend="2em">A haze dimmed the shadowy shore</l>
-<l>As the first <ref target="#ref_20941">lampless boat</ref><note xml:id="ref_20941">By law vessels carried running lights to prevent collisions. Their absence on a moonless night emphasizes not only the darkness but also stealth and danger.</note> slid silent on;</l>
+<l>As the first lampless boat slid silent on;</l>
 <l>Hist! and we spake no more;</l>
 <l n="5">We but pointed, and stilly, to what we saw.</l>
 </lg>
@@ -49,15 +49,15 @@
 
 <lg>
 <l>Unspied as yet. A third—a fourth—</l>
-<l rend="2em"><ref target="#ref_20942">Gun-boat and transport</ref><note xml:id="ref_20942">Gun-boats were specially designed or converted to withstand the shock of firing a heavy gun and to resist, by means of heavy timber or armor plate, bombardment from shore or another vessel. Transports had little such extra protection and hence were more vulnerable.</note> in <ref target="#ref_20943">Indian file</ref><note xml:id="ref_20943">One after another. Melville alludes to Native Americans often in <hi rend="italic">Battle-Pieces</hi>, mobilizing familiar caricatures as metaphors in his poems. See also "Apathy and Enthusiasm," "Lyon," "Donelson," "The Armies of the Wilderness," "The College Colonel," and "The Scout Toward Aldie."</note></l>
+<l rend="2em">Gun-boat and transport in <ref target="#ref_20943">Indian file</ref><note xml:id="ref_20943">One after another. For other Native American references in <hi rend="italic">Battle-Pieces</hi>, see "Apathy and Enthusiasm," "Lyon," "Donelson," "The Armies of the Wilderness," "The College Colonel," and "The Scout Toward Aldie."</note></l>
 <l>Upon the war-path, smooth from the North;</l>
 <l rend="2em">But the watch may they hope to beguile?</l>
 <l n="15">The manned river-batteries stretch for mile on mile.</l>
 </lg>
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0084.jpg"/>
 <lg>
-<l>A flame leaps out; they are seen;</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0084.jpg"/>
+A flame leaps out; they are seen;</l>
 <l rend="2em">Another and another gun roars;</l>
 <l>We tell the course of the boats through the screen</l>
 <l rend="2em">By each further fort that pours,</l>
@@ -113,7 +113,7 @@ shrouded shores.</l>
 <l rend="2em">And never the batteries intermit,</l>
 <l n="50">Nor the boats huge guns; they fire and flit.</l>
 </lg>
-				
+
 <lg>
 	<l>Anon a lull. The beacon dies:</l>
 				<l rend="2em">“Are they out of that strait accurst?”</l>
