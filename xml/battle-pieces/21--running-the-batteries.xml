@@ -111,7 +111,7 @@ How dread to mark her near the glare</l>
 <l rend="2em">The salamanders hard to hit,</l>
 <l>Though vivid shows each bulky frame;</l>
 <l rend="2em">And never the batteries intermit,</l>
-<l n="50">Nor the boats huge guns; they fire and flit.</l>
+<l n="50">Nor the <ref target="#ref_TEXTnote1">boats'</ref><note xml:id="ref_TEXTnote1">MEL emends the original "boats" to its possessive.</note> huge guns; they fire and flit.</l>
 </lg>
 
 <lg>
@@ -128,7 +128,7 @@ How dread to mark her near the glare</l>
 <l>A burning transport all alurch!</l>
 						<l rend="2em">Breathless we gaze; yet still we glean</l>
 <l n="60">Glimpses of beauty as we eager lean.</l>
-				</lg>
+</lg>
 
 <lg>
 	<l>The effulgence takes an amber glow</l>
