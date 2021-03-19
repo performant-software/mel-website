@@ -99,7 +99,7 @@ How dread to mark her near the glare</l>
 </lg>
 
 <lg>
-	<l>The impartial <ref target="#ref_20951">cresset</ref><note xml:id="ref_20951">Torch set up on shore.</note>lights as well</l>
+	<l>The impartial <ref target="#ref_20951">cresset</ref><note xml:id="ref_20951">Torch set up on shore.</note> lights as well</l>
 				<l rend="2em">The fixed forts to the boats that run;</l>
 <l>And, plunged from the ports, their answers swell</l>
 <l rend="2em">Back to each fortress <ref target="#ref_20952">dun</ref><note xml:id="ref_20952">Dull gray-brown color.</note>:</l>
@@ -135,11 +135,11 @@ How dread to mark her near the glare</l>
 	<l rend="2em">Which bathes the hill-side villas far;</l>
 <l>Affrighted ladies mark the show</l>
 	<l rend="2em">Painting the pale magnolia—</l>
-<l n="65"><ref target="#ref_20955">The fair, false, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:177" type="person">Circe</name> light of cruel War</ref><note xml:id="ref_20955">In Homer’s <hi rend="italic">Odyssey</hi>, which Melville owned and annotated (see Sealts #278 and [in part] #147), Circe turns mortals into beasts; here, the image is of the transformative effect of firelight which reveals the change from men to beasts that war precipitates.</note>.</l></lg>
+<l n="65">The fair, false, <ref target="#ref_20955"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:177" type="person">Circe</name></ref><note xml:id="ref_20955">In Homer’s <hi rend="italic">Odyssey</hi>, which Melville owned and annotated (see Sealts #278 and [in part] #147), Circe turns mortals into beasts.</note> light of cruel War.</l></lg>
 
 <lg>
 	<l>The barge drifts doomed, a plague-struck one.</l>
-				<l rend="2em">Shoreward in <ref target="#ref_20956">yawls</ref><note xml:id="ref_20956">A round-bottomed boat propelled by about a dozen oarsmen, here used as lifeboats.</note> the sailors fly.</l>
+				<l rend="2em">Shoreward in <ref target="#ref_20956">yawls</ref><note xml:id="ref_20956">A ship's row-boats.</note> the sailors fly.</l>
 <l>But the gauntlet now is nearly run,</l>
 				<l rend="2em">The spleenful forts by fits reply,</l>
 <l n="70">And the burning boat dies down in morning&apos;s sky.</l>
@@ -150,7 +150,12 @@ How dread to mark her near the glare</l>
 				<l rend="2em">Jeers, as it speeds, our parting gun.</l>
 <l>So burst we through their barriers</l>
 				<l rend="2em">And menaces every one:</l>
-				<l n="75">So <name ref="https://mel-catalog.herokuapp.com/api/entries/person:176" type="person">Porter</name> <ref target="#ref_20959">proves himself a brave man&apos;s son</ref><note xml:id="ref_20959">Melville’s note "g" is a reminder that he had plundered the elder Porter’s <hi>Journal of a Cruise Made to the Pacific Ocean</hi>  (Philadelphia, 1815; Bercaw  #563; NN <hi rend="italic">Typee</hi>, p. 291) in <hi rend="italic">Typee</hi> and “The Encantadas.”</note>.</l>
+				<l n="75">So <name ref="https://mel-catalog.herokuapp.com/api/entries/person:176" type="person">Porter</name> <ref target="#ref_20959">proves himself a brave man&apos;s son</ref><note xml:id="ref_20959">Admiral David Dixon Porter was the son of Commodore David Porter, whose 1815 <hi>Journal of a Cruise Made to the Pacific Ocean</hi> (see Bercaw  #563) was a source for <hi rend="italic">Typee</hi> and “The Encantadas.”</note>.
+				<ref target="#BP_noteG"><hi rend="super">g</hi></ref> 
+				<note xml:id="BP_noteG">[Melville's] <hi rend="smallcaps">Note g</hi>, <hi rend="italic">page</hi> 78.
+				<p>Admiral Porter is a son of the late Commodore Porter, commander of the frigate Essex on that Pacific cruise which ended in the desperate fight off Valparaiso with the English frigates Cherub and Phoebe, in the year 1814.</p>
+			</note>
+			</l>
 </lg>
 </div></body>
 		</text>
