@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>22 - Stonewall Jackson</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,7 +18,7 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div xml:id="stonewall-jackson">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0087.jpg"/>
@@ -47,9 +47,9 @@
 </lg>
 
 
-	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0088.jpg"/>
-				<lg type="sestet">
-					<l>Relentlessly he routed us;</l>
+<lg type="sestet">
+	<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0088.jpg"/>
+				Relentlessly he routed us;</l>
 					<l rend="2em">But we relent, for he is low—</l>
 						<l n="15" rend="8em">Stonewall!</l>
 							<l rend="2em">Justly his fame we outlaw; so</l>
