@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>20 - The Battle of Stone River, Tennessee</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,11 +15,11 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div xml:id="the-battle-of-stone-river-tennessee">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0081.jpg"/>
-				<head type="main"><hi rend="italic">The Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:464" type="place">Stone River</name>, Tennessee.</hi></head>
+				<head type="main"><hi rend="italic">Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:464" type="place">Stone River</name>, Tennessee.</hi></head>
 				<head type="sub-head"><hi rend="italic">A View from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:468" type="place">Oxford</name> Cloisters.</hi><lb/>
 (<hi rend="smallcaps">January</hi>, 1863.)</head>
 
