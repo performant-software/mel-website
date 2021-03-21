@@ -17,7 +17,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="the-battle-of-stone-river-tennessee">
+			<body><div xml:id="battle-of-stone-river-tennessee">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0081.jpg"/>
 				<head type="main"><hi rend="italic">Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:464" type="place">Stone River</name>, Tennessee.</hi></head>
 				<head type="sub-head"><hi rend="italic">A View from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:468" type="place">Oxford</name> Cloisters.</hi><lb/>
