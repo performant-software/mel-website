@@ -52,9 +52,9 @@
 
 <lg>
 <l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0078.jpg"/>
-<ref target="#ref_21072">Authority called you</ref><note xml:id="ref_21072">Due to Lincoln’s eagerness to mount an offensive against Lee’s army and McClellan’s hesitancy, the latter was removed as General-in-Chief in the spring of 1862, though he still retained command of the Potomac Army. Soon after, McClellan led the army in the Peninsula Campaign to take Richmond. After the bloody Seven Days' battles that ended the Peninsula Campaign without the capture of Richmond, Lincoln relieved McClellan of his command, appointing Henry Halleck as General-in-Chief of the army and General John Pope as commander of the Army of the Potomac (https://www.civilwar.org/learn/biographies/george-b-mcclellan).
-Leslie McAbee</note>; then, in mist</l>
-<l>And loom of jeopardy—dismissed.</l>
+Authority called you; then, in mist</l>
+	<l>And loom of jeopardy—<ref target="#ref_21072">dismissed</ref>.<note xml:id="ref_21072">Due to Lincoln’s eagerness to mount an offensive against Lee’s army and McClellan’s hesitancy, the latter was removed as General-in-Chief in the spring of 1862, though he still retained command of the Potomac Army. Soon after, McClellan led the army in the Peninsula Campaign to take Richmond. After the bloody Seven Days' battles that ended the Peninsula Campaign without the capture of Richmond, Lincoln relieved McClellan of his command, appointing Henry Halleck as General-in-Chief of the army and General John Pope as commander of the Army of the Potomac (https://www.civilwar.org/learn/biographies/george-b-mcclellan).
+		Leslie McAbee</note></l>
 <l>But staring peril soon appalled;</l>
 <l>You, the Discarded, she recalled—</l>
 <l n="20">Recalled you, nor <ref target="#ref_21077">endured delay</ref><note xml:id="ref_21077">Lincoln reinstated McClellan as commander after John Pope failed to take Richmond in the battle of Second Manassas. McClellan moved the Union army to rout Lee’s march on Maryland in 1862.</note>;</l>
