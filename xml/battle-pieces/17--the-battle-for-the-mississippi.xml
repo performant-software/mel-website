@@ -4,9 +4,6 @@
 		<fileDesc>
 			<titleStmt>
 				<title>17 - The Battle for the Mississippi</title>
-
-
-
 			</titleStmt>
 			<publicationStmt>
 
@@ -27,7 +24,7 @@
 			<head type="sub-head">(<hi rend="smallcaps">April</hi>, 1862.)</head>
 
 			<lg type="octet">
-				<l><hi rend="smallcaps">When</hi> <ref target="#ref_19110">Israel camped by Migdol hoar</ref><note xml:id="ref_19110">See Exodus 14:2.</note>,</l>
+				<l><hi rend="smallcaps">When</hi> Israel camped by <ref target="#ref_19110">Migdol hoar</ref><note xml:id="ref_19110">See Exodus 14:2.</note>,</l>
 				<l rend="2em">Down at her feet her shawm she threw,</l>
 				<l>But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:190" type="person">Moses</name> sung and timbrels rung</l>
 				<l rend="2em">For <name ref="https://mel-catalog.herokuapp.com/api/entries/person:191" type="person">Pharaoh</name>&apos;s stranded crew.</l>
@@ -36,7 +33,7 @@
 				<l>So the strong wing to the muse is given</l>
 				<l rend="6em">In victory&apos;s roar.</l>
 			</lg>
-
+<!--Add note for shawm-->
 			<lg type="octet">
 				<l>Deep be the ode that hymns the fleet—</l>
 				<l n="10" rend="2em">The fight by night—the fray</l>
@@ -76,7 +73,8 @@
 				<l rend="2em">In scarred yet firm array,</l>
 				<l>Above the forts, above the drift</l>
 				<l rend="2em">Of wrecks which strife had made;</l>
-				<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0074.jpg"/>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name> sailed up to the town</l>
+				<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0074.jpg"/>
+				And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name> sailed up to the town</l>
 				<l n="40" rend="2em">And anchored—sheathed the blade.</l></lg>
 			<lg type="octet">
 				<l>The moody broadsides, brooding deep,</l>
