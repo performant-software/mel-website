@@ -4,10 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>16 - Shiloh</title>
-
-
-
-			</titleStmt>
+		</titleStmt>
 			<publicationStmt>
 
 				<publisher/>
@@ -22,7 +19,7 @@
 	<text>
 		<body><div xml:id="shiloh">
 			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0071.jpg"/>
-			<head type="main"><ref target="#ref_21103"><hi rend="italic">Shiloh</hi></ref><note xml:id="ref_21103">It "was Melville's bad luck that his 'Shiloh: A Requiem' would suggest, by contrast, the striking poem of Mr. Forceyth Willson's, of which a great part of the scene is laid on the battle-field of Shiloh, called 'The Old Sergeant" (Parker, II, 621). "The Old Sergeant" (1863) was republished in Edmund Clarence Stedman's An American Anthology, 1787-1900 (1900): https://www.bartleby.com/248/710.html</note>. </head>
+			<head type="main"><hi rend="italic">Shiloh.</hi></head>
 			<head type="sub-head"><hi rend="italic">A Requiem.</hi><lb/>
 				(<hi rend="smallcaps">April</hi>, 1862.)</head>
 
@@ -47,6 +44,8 @@
 https://en.wikipedia.org/wiki/Memento_%28film%29).</note> I don't think this is a worthy note, but it does signal something about adaptation.--></l>
 				<l rend="2em">But now they lie low,</l>
 				<l>While over them the swallows skim,</l>
-				<l rend="2em">And <ref target="#ref_20984">all is hushed at Shiloh</ref><note xml:id="ref_20984">"The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be" (Genesis 49:10). NN <hi rend="italic">Published Poems</hi>, pp. 637–38, notes that Melville had also referred to Hawthorne as "the literary Shiloh of America" in "Hawthorne and his Mosses" (NN <hi rend="italic">Piazza Tales</hi>, 181). Hennig Cohen also cross-references HM's story "The Bell Tower": "A silence, as of the expectation of some Shiloh, pervaded the swarming plain" (NN <hi rend="italic">Piazza Tales</hi>, 252).</note>.</l></lg></div></body>
+				<l rend="2em">And <ref target="#ref_20984">all is hushed at Shiloh</ref><note xml:id="ref_20984">Ancient Israelite worship center, generally translated as Tranquil Place, and therefore an emblem of peace, but also a version of the messiah; hence: "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be" (Genesis 49:10).  Melville also referred to Hawthorne as "the literary Shiloh of America" in "Hawthorne and his Mosses" (NN <hi rend="italic">Piazza Tales</hi>, 181). See also "The Bell Tower": "A silence, as of the expectation of some Shiloh, pervaded the swarming plain" (NN <hi rend="italic">Piazza Tales</hi>, 252).</note>.</l>
+			</lg>
+			</div></body>
 	</text>
 </TEI>
