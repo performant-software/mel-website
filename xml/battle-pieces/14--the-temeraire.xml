@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>14 - The Temeraire</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,7 +15,7 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div xml:id="the-temeraire">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0066.jpg"/>
@@ -32,29 +29,30 @@
 <l>And prove that oak, and iron, and man</l>
 <l rend="2em">Are tough in fibre yet.</l>
 </lg>
-				
+
 <lg type="quatrain">
 <l n="5">But Splendors wane. The sea-fight yields</l>
 <l rend="2em">No front of old display;</l>
 <l>The garniture, emblazonment,</l>
 <l rend="2em">And heraldry all decay.</l>
 </lg>
-				
+
 <lg type="quatrain"><l>Towering afar in parting light,</l>
 <l n="10" rend="2em">The fleets like <name ref="https://mel-catalog.herokuapp.com/api/entries/place:382" type="place">Albion</name>&apos;s forelands shine—</l>
 <l>The full-sailed fleets, the shrouded show</l>
-<l rend="2em">Of Ships-of-the-Line.</l></lg>
+<l rend="2em">Of Ships-of-the-Line.</l>
+</lg>
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0067.jpg"/>
 <lg>
-	<l>The fighting Temeraire,</l>
-<l rend="2em">Built of a thousand trees,</l>
-<l n="15">Lunging out her lightnings,</l>
-<l rend="2em">And beetling o&apos;er the seas—</l>
-<l>O Ship, how brave and <ref target="#ed-note1">fair</ref>,<note xml:id="ed-note1">In Melville's copy C, he considered "rare" as a variant reading but did not strike out "fair."</note></l>
-<l rend="2em">That fought so oft and well,</l>
-<l>On open decks you manned the gun</l>
-<l n="20" rend="6em">Armorial.<hi rend="super">d</hi></l>
+<l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0067.jpg"/>
+The fighting Temeraire,</l>
+<l rend="8em">Built of a thousand trees,</l>
+<l n="15" rend="6em">Lunging out her lightnings,</l>
+<l rend="8em">And beetling o&apos;er the seas—</l>
+<l rend="6em">O Ship, how brave and <ref target="#ed-note1">fair</ref>,<note xml:id="ed-note1">In his bound copy of sheets from Battle-Pieces (copy C), Melivlle underlined "fair" in pencil and inscribed "rare" in the right margin, indicating a possible revision.</note></l>
+<l rend="8em">That fought so oft and well,</l>
+<l rend="6em">On open decks you manned the gun</l>
+<l n="20" rend="10em">Armorial.<hi rend="super">d</hi></l>
 <l>What cheerings did you share,</l>
 <l rend="2em">Impulsive in the van,</l>
 <l>When down upon leagued <name ref="https://mel-catalog.herokuapp.com/api/entries/place:10" type="place">France</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:11" type="place">Spain</name></l>
@@ -73,11 +71,8 @@
 <l rend="2em">With orders nobly won,</l>
 <l n="35">Shone in the globe of the battle glow—</l>
 <l rend="2em">The angel in that sun.</l>
-</lg>
-
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0068.jpg"/>
-<lg>
-<l>Parallel in story,</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0068.jpg"/>
+Parallel in story,</l>
 <l rend="2em">Lo, the stately pair,</l>
 <l>As late in grapple ranging,</l>
 <l n="40" rend="2em">The foe between them there—</l>
@@ -86,9 +81,9 @@
 <l>And your prizes twain appeared,</l>
 <l rend="6em">Temeraire!</l>
 </lg>
-				
+
 <lg>
-	<l n="45">But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event">Trafalgar</name><ref target="#ed-note2">&apos;</ref><note xml:id="ed-note2">According to NN <hi rend="italic">Published Poems</hi>, Melville put the accent mark here to encourage the Spanish pronunciation and emphasis (636).</note> is over now,</l>
+	<l n="45">But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event">Trafalgar'</name><ref target="#ed-note2">&apos;</ref><note xml:id="ed-note2">According to NN <hi rend="italic">Published Poems</hi>, Melville put the accent mark here to encourage the Spanish pronunciation and emphasis (636).</note> is over now,</l>
 <l rend="2em">The quarter-deck undone;</l>
 <l>The carved and castled navies fire</l>
 <l rend="2em">Their evening-gun.</l>
