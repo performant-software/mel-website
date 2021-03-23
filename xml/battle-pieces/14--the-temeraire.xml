@@ -69,7 +69,7 @@ The fighting Temeraire,</l>
 <l rend="8em">Throughout that earnest race—</l>
 <l rend="6em">The Victory, whose Admiral,</l>
 <l rend="8em">With orders nobly won,</l>
-<l n="35">Shone in the globe of the battle glow—</l>
+<l n="35" rend="6em">Shone in the globe of the battle glow—</l>
 <l rend="8em">The angel in that sun.</l>
 <l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0068.jpg"/>
 Parallel in story,</l>
@@ -78,12 +78,13 @@ Parallel in story,</l>
 <l n="40" rend="8em">The foe between them there—</l>
 <l rend="6em">When four great hulls lay tiered,</l>
 <l rend="6em">And the fiery tempest cleared,</l>
-<l>rend="6em"And your prizes twain appeared,</l>
+<l rend="6em">And your prizes twain appeared,</l>
 <l rend="10em">Temeraire!</l>
 </lg>
 
 <lg>
-	<l n="45" rend="6em">But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event">Trafalgar'</name><ref target="#ed-note2">&apos;</ref><note xml:id="ed-note2">According to NN <hi rend="italic">Published Poems</hi>, Melville put the accent mark here to encourage the Spanish pronunciation and emphasis (636).</note> is over now,</l>
+	<l n="45" rend="6em">
+But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event">Trafalgar<ref target="#ed-note2">&apos;</ref></name><note xml:id="ed-note2">The one-beat English pronunciation of TraFALgar is not sufficient for Melville's four-beat line. The accent mark at the end of the word encourages the Spanish two-beat TRAfalGAR (NN <hi rend="italic">Published Poems</hi>, t636).</note> is over now,</l>
 <l rend="8em">The quarter-deck undone;</l>
 <l rend="6em">The carved and castled navies fire</l>
 <l rend="8em">Their evening-gun.</l>
@@ -105,8 +106,9 @@ Parallel in story,</l>
 
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/>
 	<p xml:id="hm_note14c">[Melville's] <hi rend="smallcaps">Note c</hi>, <hi rend="italic">page</hi> 58.
-	<lb/> The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:443">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</p>
-	<p xml:id="hm_note14d">[Melville's] <hi rend="smallcaps">Note d</hi>, <hi rend="italic">page</hi> 59. Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shapes which <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:444">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them—field-pieces—captured in our earlier wars, are preserved in arsenals and navy-yards.</p></div>
+	<lb/>The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:443">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</p>
+	<p xml:id="hm_note14d">[Melville's] <hi rend="smallcaps">Note d</hi>, <hi rend="italic">page</hi> 59.
+	<lb/>Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shapes which <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:444">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them—field-pieces—captured in our earlier wars, are preserved in arsenals and navy-yards.</p></div>
 </div></body>
 		</text>
 	</TEI>
