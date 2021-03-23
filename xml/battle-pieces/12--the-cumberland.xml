@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 			<title>12 - The Cumberland</title>
-			
-			
-					
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,26 +15,26 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div xml:id="the-cumberland">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0061.jpg"/>
-				<head type="main"><ref target="#ref_19221"><hi rend="italic">The Cumberland</hi></ref><note xml:id="ref_19221">"The Cumberland" was published in <hi rend="italic">Harper’s New Monthly Magazine</hi> 32 (March 1866), 474, one of four other poems in <hi rend="italic">Battle-Pieces</hi> to be previously published in that journal anonymously.</note>.<lb/></head>
+				<head type="main"><ref target="#ref_19221"><hi rend="italic">The Cumberland.</hi></ref><note xml:id="ref_19221">First published in March, 1866, "The Cumberland" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32: 474).</note><lb/></head>
 <head type="sub-head">(<hi rend="smallcaps">March</hi>, 1862.)</head>
 
 <lg>
-	<l><hi rend="smallcaps">Some</hi> names there are of telling sound,</l>
+<l><hi rend="smallcaps">Some</hi> names there are of telling sound,</l>
 <l rend="2em">Whose voweled syllables free</l>
 	<!--  <note xml:id="ref_20995">The syllabic mellifluousness of the name Cumberland on the surface meter of the poem is itself obstructed by the poem's own hidden semantic thickets. Faith Barrett claims that Melville was “torn between a desire to critique nationalist poetry and a desire for the consolations that a nationalist poetry might offer.”</note> This note does not actually clarify the meaning of the line [CO]. -->
 <l>Are pledge that they shall ever live renowned;</l>
-<l rend="6em">Such seems to be</l>
+<l rend="4em">Such seems to be</l>
 <l n="5">A Frigate&apos;s name (by present glory spanned)—</l>
-<l rend="6em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:908" type="artwork">Cumberland</name>.</l>
+<l rend="4em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:908" type="artwork">Cumberland</name>.</l>
 </lg>
 <lg>
-<l rend="10em">Sounding name as ere was sung,</l>
-<l rend="10em">Flowing, rolling on the tongue—</l>
-<l rend="10em">Cumberland! Cumberland!</l>
+<l rend="8em">Sounding name as ere was sung,</l>
+<l rend="8em">Flowing, rolling on the tongue—</l>
+<l rend="8em">Cumberland! Cumberland!</l>
 </lg>
 <lg>
 	<l n="10">She <ref target="#ref_20996">warred and sunk</ref><note xml:id="ref_20996">In the same waters where the Cumberland retained its flag, the naval ship with the symbolic name the USS United States -- on which Melville had served and written about in <hi rend="italic">White-Jacket</hi> -- had earlier been scuttled to prevent its getting in the hands of the Confederates.</note>. There&apos;s no denying</l>
@@ -61,7 +58,7 @@
 <l>Her dead unconquerably manned</l>
 <l rend="6em">The Cumberland.</l>
 </lg>
-				
+
 <lg>
 <l n="25" rend="10em">Noble name as ere was sung,</l>
 <l rend="10em">Slowly roll it on the tongue—</l>
