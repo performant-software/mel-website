@@ -473,8 +473,7 @@
                        </lg>
 
 		        <lg>
-		            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0056.jpg"/>
-		        <l rend="2em">1 <hi rend="italic">P.M.</hi></l>
+		        <l rend="2em">1 <hi rend="italic">P.M.</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0056.jpg"/></l>
 		        <l rend="8em"><hi rend="italic">An order given</hi></l>
 		        <l rend="4em"><hi rend="italic">Requires withdrawal from the front</hi></l>
 		        <l n="350" rend="4em"><hi rend="italic">Of regiments that bore the brunt</hi></l>
@@ -501,9 +500,9 @@
 		        <l rend="2em"><hi rend="italic">For that way must the stormers go.</hi></l>
 		        </lg>
 
-		        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0057.jpg"/>
+
 		        <lg>
-		            <l rend="2em">3 <hi rend="italic">P.M.</hi></l>
+		            <l rend="2em">3 <hi rend="italic">P.M.</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0057.jpg"/></l>
 		            <l rend="8em"><hi rend="italic">The work begins.</hi></l>
 		                <l rend="2em"><hi rend="italic">Light drifts of men thrown forward, fade</hi></l>
 		            <l n="375" rend="4em"><hi rend="italic">In skirmish-line along the slope,</hi></l>
@@ -535,10 +534,8 @@
                        <l rend="2em"><hi rend="italic">The stormers: on! still on!</hi></l>
                        <l rend="2em"><hi rend="italic">Bayonets for <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>!</hi></l>
                    </lg>
-
-		        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0058.jpg"/>
 		        <lg>
-		            <l rend="2em"><hi rend="italic">Over the ground that morning lost</hi></l>
+		            <l rend="2em"><hi rend="italic">Over the ground that morning lost</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0058.jpg"/></l>
 		            <l n="395" rend="2em"><hi rend="italic">Rolled the blue billows, tempest-tossed,</hi></l>
 		            <l rend="4em"><hi rend="italic">Following a hat on the point of a sword.</hi></l>
 		            <l rend="2em"><hi rend="italic">Spite shell and round-shot, grape and canister,</hi></l>
@@ -570,10 +567,8 @@
                            <l rend="4em"><hi rend="italic">The National flag is flying</hi></l>
                            <l rend="2em"><hi rend="italic">From the crammed court-house pinnacle.</hi></l>
                        </lg>
-
-		        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0059.jpg"/>
-		        <lg>
-		            <l rend="2em"><hi rend="italic">Great boat-loads of our wounded go</hi></l>
+	        <lg>
+		            <l rend="2em"><hi rend="italic">Great boat-loads of our wounded go</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0059.jpg"/></l>
 		            <l rend="2em"><hi rend="italic">To-day to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:462" type="place">Nashville</name>. The sleet-minds blow;</hi></l>
 		            <l n="420" rend="2em"><hi rend="italic">But all is right: the fight is won,</hi></l>
 		            <l rend="2em"><hi rend="italic">The winter-fight for <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
@@ -588,7 +583,7 @@
                        <l rend="2em"><hi rend="italic">For lists of killed and wounded, see</hi></l>
                            <l rend="2em"><hi rend="italic">The morrow&apos;s dispatch: to-day &apos;tis victory.</hi></l>
                    </lg>
-
+<lb/>
                <lg>
                    <l>The man who read this to the crowd</l>
                    <l n="430" rend="2em">Shouted as the end he gained;</l>
@@ -603,10 +598,8 @@
                <l>While some in prayer, as these in glee,</l>
                <l n="440">Blessed heaven for the winter-victory.</l>
                </lg>
-
-		        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0060.jpg"/>
 		        <lg>
-		            <l>But others were who wakeful laid</l>
+		            <l>But others were who wakeful laid<pb facs="/images/battle-pieces-v1/battle-pieces-i-0060.jpg"/></l>
 		            <l rend="2em">In midnight beds, and early rose,</l>
 		                <l rend="2em">And, feverish in the foggy snows,</l>
                <l>Snatched the damp paper—wife and maid.</l>
@@ -614,7 +607,7 @@
 		            <l rend="6em">Down the pale sheet,</l>
                <l>And there the whelming waters meet.</l>
 		        </lg>
-
+						<lb/>
                        <lg>
                            <l rend="4em">Ah God! may Time with happy haste</l>
                            <l rend="4em">Bring wail and triumph to a waste,</l>
