@@ -339,7 +339,7 @@
                        <l rend="2em"><hi rend="italic">So stiffened—perished.</hi></l>
                    </lg>
 		        <lg>
-		            <l rend="10em"><hi rend="italic">Yet in spite</hi></l>
+		            <l rend="12em"><hi rend="italic">Yet in spite</hi></l>
 		        <l rend="2em"><hi rend="italic">Of pangs for these, no heart is lost.</hi></l>
 		        <l n="240" rend="2em"><hi rend="italic">Hungry, and clothing stiff with frost</hi></l>
 		        <l rend="2em"><hi rend="italic">Our men declare a nearing sun</hi></l>
@@ -351,9 +351,8 @@
 		        <l rend="2em"><hi rend="italic">They swear it, and swerve not, gazing on</hi></l>
 		            <l rend="2em"><hi rend="italic">A flag, deemed black, flying from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name></hi>.</l>
 		        </lg>
-		        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0052.jpg"/>
 		        <lg>
-		            <l rend="2em"><hi rend="italic">Some of the wounded in the wood</hi></l>
+		            <l rend="2em"><hi rend="italic">Some of the wounded in the wood</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0052.jpg"/></l>
 		            <l n="250" rend="4em"><hi rend="italic">Were cared for by the foe last night,</hi></l>
 		            <l rend="2em"><hi rend="italic">Though he could do them little needed good,</hi></l>
 		            <l rend="4em"><hi rend="italic">Himself being all in shivering plight.</hi></l>
