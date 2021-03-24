@@ -67,18 +67,21 @@
                       <l rend="2em"><hi rend="italic">The ancient boughs that lace together</hi></l>
                       <l rend="2em"><hi rend="italic">Along the stream, and hang far forth,</hi></l>
                       <l rend="4em"><hi rend="italic">Strange with green mistletoe, betray</hi></l>
-                      <l rend="2em"><hi rend="italic"><ref target="#ref_21128">A dreamy contrast to the North.</ref></hi><note xml:id="ref_21128">Zlatic discusses how the telegraph influenced “Donelson”: “Melville uses the telegraph primarily to create a sense of immediacy for the battle. He captures the new experience of synchronicity, enabled through rapid communication at a distance, in the mild surprise of the narrator who notes the contrast between the pleasant battlefield weather in Tennessee and the sleet endured by Northern civilians huddled to hear the telegraphic dispatches” (40).</note></l>
+                      <l rend="2em"><hi rend="italic">A dreamy contrast to the North.</hi></l>
                   </lg>
 
+<!--
+<ref target="#ref_21128">A dreamy contrast to the North.</ref></hi><note xml:id="ref_21128">Zlatic discusses how the telegraph influenced “Donelson”: “Melville uses the telegraph primarily to create a sense of immediacy for the battle. He captures the new experience of synchronicity, enabled through rapid communication at a distance, in the mild surprise of the narrator who notes the contrast between the pleasant battlefield weather in Tennessee and the sleet endured by Northern civilians huddled to hear the telegraphic dispatches” (40).</note>
+-->
                <lg>
                    <l n="35" rend="2em"><hi rend="italic">Our troops are full of spirits—say</hi></l>
                    <l rend="4em"><hi rend="italic">The siege won&apos;t prove a creeping one.</hi></l>
                    <l rend="2em"><hi rend="italic">They purpose not the lingering stay</hi></l>
                    <l rend="2em"><hi rend="italic">Of old beleaguerers; not that way;</hi></l>
-                   <l rend="4em"><hi rend="italic">But, fill of <ref target="#ref_21100">vim</ref><note xml:id="ref_21100">VIM from Latin vim, accusative singular of vis, meaning “strength, energy” (OED “vim”). Cohen suggests Melville came across the word “vim” used as a Civil War slang found in the Rebellion Record (220).</note> from Western prairies won</hi></l>
+                   <l rend="4em"><hi rend="italic">But, full of</hi> <ref target="#ref_21100">vim</ref><note xml:id="ref_21100">Strength, energy. The "roman" font for "vim" (an "un-italicizing" in the midst of the prevailing italics) gives the word special emphasis, suggesting that it might have been a new slang expression that Melville picked up from his reading of <hi rend="italic">The Rebellion Record</hi> (Cohen 220).</note> <hi rend="italic">from Western prairies won,</hi></l>
                    <l n="40" rend="4em"><hi rend="italic">They&apos;ll make, ere long, a dash at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
 									 <lb/>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0043.jpg"/>Washed by the storm till the paper grew></l>
+<l>Washed by the storm till the paper grew><pb facs="/images/battle-pieces-v1/battle-pieces-i-0043.jpg"/></l>
 <l>Every shade of a streaky blue,</l>
 <l>That bulletin stood. The next day brought</l>
 <l>A second.</l>
@@ -104,13 +107,13 @@
 
                                             <lg>
                                                 <l rend="8em"><hi rend="italic">Events unfold.</hi></l>
-		        <l rend="2em"><hi rend="italic">On Thursday added ground was won</hi></l>
+		        <l rend="2em"><hi rend="italic">On Thursday added ground was won,</hi></l>
 		        <l n="55" rend="4em"><hi rend="italic">A long bold steep: we near the Den.</hi></l>
 		        <l rend="2em"><hi rend="italic">Later the foe came shouting down</hi></l>
-		        <l rend="4em"><hi rend="italic">In <ref target="#ref_21127">sortie</ref>, which was quelled; and then</hi><note xml:id="ref_21127"> SORTIE “A dash or sally by a besieged garrison upon an investing force” (OED “sortie”).</note></l>
+		        <l rend="4em"><hi rend="italic">In <ref target="#ref_21127">sortie</ref>, which was quelled; and then</hi><note xml:id="ref_21127"> According to the OED, a sortie is “A dash or sally by a besieged garrison upon an investing force.”</note></l>
 		        <l rend="2em"><hi rend="italic">We stormed them on their left.</hi></l>
 		        <l rend="2em"><hi rend="italic">A chilly change in the afternoon;</hi></l>
-                                                <l n="60" rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0044.jpg"/><hi rend="italic">The sky, late clear, is now bereft</hi></l>
+<l n="60" rend="2em"><hi rend="italic">The sky, late clear, is now bereft</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0044.jpg"/></l>
 <l rend="2em"><hi rend="italic">Of sun. Last night the ground froze hard—</hi></l>
 <l rend="2em"><hi rend="italic">Rings to the enemy as they run</hi></l>
 <l rend="2em"><hi rend="italic">Within their works. A ramrod bites</hi></l>
