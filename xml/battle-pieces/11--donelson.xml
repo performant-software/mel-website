@@ -7,7 +7,6 @@
 			<author>Herman Melville</author>
 				<editor>Christina Lee</editor>
 				<editor>Christopher Ohge</editor>
-
 		</titleStmt>
 			<publicationStmt>
 
@@ -22,7 +21,8 @@
 	</teiHeader>
 		<text>
 		    <body><div xml:id="donelson"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0041.jpg"/>
-				<head><hi rend="italic"><ref target="#ref_21098">Donelson</ref></hi><note xml:id="ref_21098">Cohen suggests there is close correlation between the poem and various accounts presented in <hi rend="italic">The Rebellion Record</hi> on the events at Fort Donelson (see Cohen’s Introduction, particularly pp. 16–19). The battle at Fort Donelson, near Dover, Tennessee, from 12 to 16 February 1862, ended with Confederate forces surrendering the fort to General Grant and abandoning its positions in Kentucky and northern Tennessee.</note>.</head><lb/><head type="sub-head">(<hi rend="smallcaps">February</hi>, 1862.)</head>
+				<head><hi rend="italic"><ref target="#ref_21098">Donelson</ref></hi><note xml:id="ref_21098">Melville's probable sources are the various newspaper accounts collected in <hi rend="italic">The Rebellion Record</hi> (see Cohen, 16–19). The battle at Fort Donelson, near Dover, Tennessee, on 12-16 February 1862, ended with Confederate forces surrendering to Grant and abandoning its positions in Kentucky and northern Tennessee.</note>.</head><lb/>
+				<head type="sub-head">(<hi rend="smallcaps">February</hi>, 1862.)</head>
 
 <lg>
     <l rend="2em"><hi rend="smallcaps">The</hi> bitter cup</l>
@@ -60,6 +60,7 @@
                       <l rend="2em"><hi rend="italic">Of fixed intrenchments in their hush;</hi></l>
                       <l rend="4em"><hi rend="italic">Breast-works and rifle-pits in woods</hi></l>
                       <l rend="2em"><hi rend="italic">Perplex the base.—</hi></l>
+											<lb/>
                       <l rend="10em"><hi rend="italic">The welcome weather</hi></l>
                       <l n="30" rend="4em"><hi rend="italic">Is clear and mild; &apos;tis much like May.</hi></l>
                       <l rend="2em"><hi rend="italic">The ancient boughs that lace together</hi></l>
@@ -74,11 +75,12 @@
                    <l rend="2em"><hi rend="italic">They purpose not the lingering stay</hi></l>
                    <l rend="2em"><hi rend="italic">Of old beleaguerers; not that way;</hi></l>
                    <l rend="4em"><hi rend="italic">But, fill of <ref target="#ref_21100">vim</ref><note xml:id="ref_21100">VIM from Latin vim, accusative singular of vis, meaning “strength, energy” (OED “vim”). Cohen suggests Melville came across the word “vim” used as a Civil War slang found in the Rebellion Record (220).</note> from Western prairies won</hi></l>
-                   <l n="40"><hi rend="italic">They&apos;ll make, ere long, a dash at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
-                       <l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0043.jpg"/><hi rend="italic">Washed by the storm till the paper grew</hi></l>
-                       <l><hi rend="italic">Every shade of a streaky blue,</hi></l>
-                       <l><hi rend="italic">That bulletin stood. The next day brought</hi></l>
-		        <l><hi rend="italic">A second.</hi></l>
+                   <l n="40" rend="4em"><hi rend="italic">They&apos;ll make, ere long, a dash at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
+									 <lb/>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0043.jpg"/>Washed by the storm till the paper grew></l>
+<l>Every shade of a streaky blue,</l>
+<l>That bulletin stood. The next day brought</l>
+<l>A second.</l>
                </lg>
 
                                 <lg>
@@ -161,8 +163,8 @@
 		            <l rend="2em"><hi rend="italic">The charge too upward, and not down—</hi></l>
 		            <l rend="2em"><hi rend="italic">Up a steep ridge-side, toward its crown,</hi></l>
 		            <l rend="4em"><hi rend="italic">A strong redoubt. But they who first</hi></l>
-		            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0046.jpg"/>
-		            <l n="110" rend="2em"><hi rend="italic">Gained the fort&apos;s base, and marked the trees</hi></l>
+		            <l n="110" rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0046.jpg"/>
+		            <hi rend="italic">Gained the fort&apos;s base, and marked the trees</hi></l>
 		            <l rend="2em"><hi rend="italic">Felled, heaped in horned perplexities,</hi></l>
 		            <l rend="4em"><hi rend="italic">And shagged with brush; and swarming there</hi></l>
 		            <l rend="2em"><hi rend="italic">Fierce wasps whose sting was present death—</hi></l>
@@ -171,7 +173,7 @@
 		            <l rend="2em"><hi rend="italic">Yet still, perforce, returned the ball,</hi></l>
 		            <l rend="2em"><hi rend="italic">Firing into the tangled wall</hi></l>
 		            <l rend="2em"><hi rend="italic">Till ordered to come down. They came;</hi></l>
-		            <l rend="4em"><hi rend="italic">But left some comrades in their fame,</hi></l>
+		            <l rend="2em"><hi rend="italic">But left some comrades in their fame,</hi></l>
 		            <l n="120" rend="2em"><hi rend="italic">Red on the ridge in icy wreath</hi></l>
 		            <l rend="2em"><hi rend="italic">And hanging gardens of cold Death.</hi></l>
 		            <l rend="4em"><hi rend="italic">But not quite unavenged these fell;</hi></l>
@@ -188,8 +190,8 @@
 		            <l rend="2em"><hi rend="italic">A night not soon to be forgot,</hi></l>
 		            <l rend="4em"><hi rend="italic">Reviving old rheumatic pains</hi></l>
 		            <l n="135" rend="2em"><hi rend="italic">And longings for a cot.</hi></l>
-		            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0047.jpg"/>
-		            <l rend="4em"><hi rend="italic">No blankets, overcoats, or tents.</hi></l>
+		            <l rend="4em"><hi rend="italic"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0047.jpg"/>
+		            No blankets, overcoats, or tents.</hi></l>
 		            <l rend="2em"><hi rend="italic">Coats thrown aside on the warm march here—</hi></l>
 		            <l rend="2em"><hi rend="italic">We looked not then for changeful cheer;</hi></l>
 		            <l rend="2em"><hi rend="italic">Tents, coats, and blankets too much care.</hi></l>
@@ -308,7 +310,7 @@
                                                         <l rend="2em"><hi rend="italic">All the fleet was driven aground,</hi></l>
                                                         <l rend="2em"><hi rend="italic">But for the timely order to retire.</hi></l>
                                                     </lg>
-                                                                                      
+
 		        <lg>
 		        <l rend="2em"><hi rend="italic">Some damage from our fire, &apos;tis thought</hi></l>
 		        <l rend="2em"><hi rend="italic">Was done the water-batteries of the Fort.</hi></l>
