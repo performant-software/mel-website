@@ -334,9 +334,9 @@
                        <l rend="6em"><hi rend="italic">Great suffering through the night—</hi></l>
                        <l rend="2em"><hi rend="italic">A stinging one. Our heedless boys</hi></l>
                        <l n="230" rend="4em"><hi rend="italic">Were nipped like blossoms. Some dozen</hi></l>
-                       <l rend="4em"><hi rend="italic">Hapless wounded men were frozen</hi></l>
+                       <l rend="4em"><hi rend="italic">Hapless wounded men were frozen.</hi></l>
                        <l rend="2em"><hi rend="italic">During day being struck down out of sight,</hi></l>
-                       <l rend="2em"><hi rend="italic">And help-cries drowned in roaring noise</hi></l>
+                       <l rend="2em"><hi rend="italic">And help-cries drowned in roaring noise,</hi></l>
                        <l rend="2em"><hi rend="italic">They were left just where the skirmish shifted—</hi></l>
                        <l n="235" rend="2em"><hi rend="italic">Left in dense underbrush snow-drifted.</hi></l>
                        <l rend="2em"><hi rend="italic">Some, seeking to crawl in crippled plight,</hi></l>
@@ -345,15 +345,14 @@
 		        <lg>
 		            <l rend="12em"><hi rend="italic">Yet in spite</hi></l>
 		        <l rend="2em"><hi rend="italic">Of pangs for these, no heart is lost.</hi></l>
-		        <l n="240" rend="2em"><hi rend="italic">Hungry, and clothing stiff with frost</hi></l>
+		        <l n="240" rend="2em"><hi rend="italic">Hungry, and clothing stiff with frost,</hi></l>
 		        <l rend="2em"><hi rend="italic">Our men declare a nearing sun</hi></l>
 		            <l rend="2em"><hi rend="italic">Shall see the fall of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
 		        <l rend="4em"><hi rend="italic">And this they say, yet not disown</hi></l>
 		            <l rend="2em"><hi rend="italic">The dark redoubts round <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name></hi></l>
 		        <l n="245" rend="4em"><hi rend="italic">And ice-glazed corpses, each a stone—</hi></l>
-		            <l rend="6em"><hi rend="italic">A sacrifice to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>,</hi></l>
 		        <l rend="2em"><hi rend="italic">They swear it, and swerve not, gazing on</hi></l>
-		            <l rend="2em"><hi rend="italic">A flag, deemed black, flying from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name></hi>.</l>
+		            <l rend="2em"><hi rend="italic">A flag, deemed black, flying from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
 		        </lg>
 		        <lg>
 		            <l rend="2em"><hi rend="italic">Some of the wounded in the wood</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0052.jpg"/></l>
@@ -373,7 +372,7 @@
                        <l n="260" rend="4em">Musing on right and wrong</l>
                        <l rend="4em">And mysteries dimly sealed—</l>
                    <l>Breasting the storm in daring discontent;</l>
-                       <l>The storm, whose <ref target="#ref_21215">black flag</ref><note xml:id="ref_21215">A black flag was flown by guerillas in the Civil War to signal no-quarter tactics. For more information about the role of guerillas in the Civil War, see Michael Fellman’s <hi rend="italic">Inside War</hi> (1989), Daniel Sutherland’s <hi rend="italic">A Savage Conflict</hi> (2009) and Joseph M. Bellein Jr. and Matthew C. Hulbert’s edited collection of essays, the <hi rend="italic">Civil War Guerrilla</hi> (2015). Melville figures the “storm” as a guerrilla-like, unpredictable, and ominous threat to the soldiers.</note> showed in heaven,</l>
+                       <l>The storm, whose <ref target="#ref_21215">black flag</ref><note xml:id="ref_21215">Guerilla emblem signaling no-quarter.</note> showed in heaven,</l>
                    <l>As if to say no quarter there was given</l>
                        <l n="265" rend="4em">To wounded men in wood,</l>
                        <l rend="2em">Or true hearts yearning for the good—</l>
@@ -382,21 +381,24 @@
                        <l rend="2em">On the bulletin-board this stood:</l>
                    </lg>
 
+<!--
+<ref target="#ref_21215">black flag</ref><note xml:id="ref_21215">A black flag was flown by guerillas in the Civil War to signal no-quarter tactics. For more information about the role of guerillas in the Civil War, see Michael Fellman’s <hi rend="italic">Inside War</hi> (1989), Daniel Sutherland’s <hi rend="italic">A Savage Conflict</hi> (2009, and Joseph M. Bellein Jr. and Matthew C. Hulbert’s edited collection of essays, the <hi rend="italic">Civil War Guerrilla</hi> (2015). Melville figures the “storm” as a guerrilla-like, unpredictable, and ominous threat to the soldiers.</note>
+-->
                    <lg>
                        <l n="270" rend="2em"><hi rend="italic">Saturday morning at 3 A.M.</hi></l>
                        <l rend="4em"><hi rend="italic">A stir within the Fort betrayed</hi></l>
                        <l rend="2em"><hi rend="italic">That the rebels were getting under arms;</hi></l>
-                       <l rend="4em"><hi rend="italic">Some plot these early birds had laid.</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0053.jpg"/></l>
+                       <l rend="4em"><hi rend="italic">Some plot these early birds had laid.</hi></l>
                    </lg>
 		        <lg>
-						<l rend="2em"><hi rend="italic">But a lancing sleet cut him who stared</hi></l>
+						<l rend="2em"><hi rend="italic">But a lancing sleet cut him who stared</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0053.jpg"/></l>
 		        <l n="275" rend="2em"><hi rend="italic">Into the storm. After some vague alarms,</hi></l>
-		        <l rend="2em"><hi rend="italic">Which left our lads unscared</hi></l>
-		        <l rend="2em"><hi rend="italic">Out sallied the enemy at dim of dawn</hi></l>
+		        <l rend="2em"><hi rend="italic">Which left our lads unscared,</hi></l>
+		        <l rend="2em"><hi rend="italic">Out sallied the enemy at dim of dawn,</hi></l>
 		        <l rend="4em"><hi rend="italic">With cavalry and artillery, and went</hi></l>
 		        <l rend="4em"><hi rend="italic">In fury at our environment.</hi></l>
 		        <l n="280" rend="2em"><hi rend="italic">Under cover of shot and shell</hi></l>
-		        <l rend="4em"><hi rend="italic">Three columns of infantry rolled on</hi></l>
+		        <l rend="4em"><hi rend="italic">Three columns of infantry rolled on,</hi></l>
 		        <l rend="4em"><hi rend="italic">Vomited out of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>—</hi></l>
 		        <l rend="2em"><hi rend="italic">Rolled down the slopes like rivers of hell,</hi></l>
 		        <l rend="4em"><hi rend="italic">Surged at our line, and swelled and poured</hi></l>
@@ -415,7 +417,7 @@
 		        <l rend="2em"><hi rend="italic">Yet not without spontaneous plan</hi></l>
 		        <l rend="4em"><hi rend="italic">However tangled showed the plight:</hi></l>
 		        <l rend="2em"><hi rend="italic">Duels all over &apos;tween man and man,</hi></l>
-		        <l n="300" rend="2em"><hi rend="italic">Duels on cliff-side, and down in ravine</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0054.jpg"/></l>
+		        <l n="300" rend="2em"><hi rend="italic">Duels on cliff-side, and down in ravine,</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0054.jpg"/></l>
 		        <l rend="4em"><hi rend="italic">Duels at long range, and bone to bone;</hi></l>
 		        <l rend="2em"><hi rend="italic">Duels every where flitting and half unseen.</hi></l>
 		        <l rend="4em"><hi rend="italic">Only by courage good as their own,</hi></l>
@@ -463,7 +465,7 @@
                        <lg>
                            <l rend="4em"><hi rend="italic">The damaged gun-boats can&apos;t wage fight</hi></l>
                            <l n="335" rend="2em"><hi rend="italic">For days; so says the Commodore.</hi></l>
-                           <l rend="2em"><hi rend="italic">Thus no diversion can be had</hi></l>
+                           <l rend="2em"><hi rend="italic">Thus no diversion can be had.</hi></l>
                            <l rend="2em"><hi rend="italic">Under a sunless sky of lead</hi></l>
                            <l rend="4em"><hi rend="italic">Our grim-faced boys in blackened plight</hi></l>
                            <l rend="2em"><hi rend="italic">Gaze toward the ground they held before,</hi></l>
@@ -485,7 +487,7 @@
 		        <l rend="2em"><hi rend="italic">Are being replaced by fresh, strong men.</hi></l>
 		        <l rend="2em"><hi rend="italic">Great vigilance in the foeman&apos;s Den;</hi></l>
 		        <l rend="2em"><hi rend="italic">He snuffs the stormers. Need it is</hi></l>
-		        <l n="355" rend="2em"><hi rend="italic">That for that fell assault of his</hi></l>
+		        <l n="355" rend="2em"><hi rend="italic">That for that fell assault of his,</hi></l>
 		        <l rend="2em"><hi rend="italic">That rout inflicted, and self scorn—</hi></l>
 		        <l rend="2em"><hi rend="italic">Immoderate in noble natures, torn</hi></l>
 		        <l rend="2em"><hi rend="italic">By sense of being through slackness overborne—</hi></l>
@@ -495,7 +497,7 @@
 		        <l rend="2em"><hi rend="italic">Some fierce ones glare like savages.</hi></l>
 		        <l rend="2em"><hi rend="italic">And yet, and yet, strange moments are—</hi></l>
 		        <l rend="2em"><hi rend="italic">Well—blood, and tears, and anguished War!</hi></l>
-		        <l n="365" rend="2em"><hi rend="italic">The mornings battle-ground is seen</hi></l>
+		        <l n="365" rend="2em"><hi rend="italic">The morning's battle-ground is seen</hi></l>
 		        <l rend="4em"><hi rend="italic">In lifted glades, like meadows rare;</hi></l>
 		        <l rend="4em"><hi rend="italic">The blood-drops on the snow-crust there</hi></l>
 		        <l rend="2em"><hi rend="italic">Like clover in the white-weed show—</hi></l>
@@ -515,7 +517,7 @@
 		        </lg>
 
 		        <lg>
-		            <l rend="2em"><hi rend="italic"><name type="person" ref="https://www.wikidata.org/wiki/Q357102"><ref target="#lwnote1">Lew Wallace</ref></name>, moving to retake</hi><note xml:id="lwnote1">American lawyer, Union general in the American Civil War, territorial governor and statesman, politician, and author of 'Ben Hur' (1827-1905). Source: WikiData (https://www.wikidata.org/wiki/Q357102).</note></l>
+		            <l rend="2em"><hi rend="italic"><name type="person" ref="https://www.wikidata.org/wiki/Q357102"><ref target="#lwnote1">Lew Wallace</ref></name>, moving to retake</hi><note xml:id="lwnote1">Wallace (1827-1905) was a Union general, later a territorial governor, and author of <hi rend="italic">Ben Hur</hi>. Source: WikiData (https://www.wikidata.org/wiki/Q357102).</note></l>
 		        <l rend="2em"><hi rend="italic">The heights late lost—</hi></l>
 		        <l n="380" rend="10em"><hi rend="italic">(Herewith a break.</hi></l>
 		        <l rend="4em"><hi rend="italic">Storms at the West derange the wires.</hi></l>
@@ -547,7 +549,7 @@
 		            <l rend="4em"><hi rend="italic">Up the steep hill-sides long and broad,</hi></l>
 		            <l n="400" rend="2em"><hi rend="italic">Driving the rebel deep within his works.</hi></l>
 		            <l rend="2em"><hi rend="italic">&apos;Tis nightfall; not an enemy lurks</hi></l>
-		            <l rend="4em"><hi rend="italic">In sight. the chafing men</hi></l>
+		            <l rend="4em"><hi rend="italic">In sight. The chafing men</hi></l>
 		            <l rend="6em"><hi rend="italic">Fret for more fight:</hi></l>
 		            <l rend="4em"><hi rend="italic">“To-night, to-night let us take the Den!”</hi></l>
 		            <l n="405" rend="2em"><hi rend="italic">But night is treacherous, Grant is wary;</hi></l>
@@ -567,7 +569,7 @@
                            <l rend="2em"><hi rend="italic">Bringing surrender. From their towers</hi></l>
                            <l rend="4em"><hi rend="italic">Floats out the banner late their scorn.</hi></l>
                            <l rend="2em"><hi rend="italic">In <name ref="https://mel-catalog.herokuapp.com/api/entries/place:460" type="place">Dover</name>, hut and house are full</hi></l>
-                           <l n="415" rend="4em"><hi rend="italic">Of rebels dead or dying</hi></l>
+                           <l n="415" rend="4em"><hi rend="italic">Of rebels dead or dying.</hi></l>
                            <l rend="4em"><hi rend="italic">The National flag is flying</hi></l>
                            <l rend="2em"><hi rend="italic">From the crammed court-house pinnacle.</hi></l>
                        </lg>
