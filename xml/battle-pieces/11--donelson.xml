@@ -440,9 +440,8 @@
                    <l>Some hardness in his lot as harrowing</l>
                    <l rend="8em">As <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</l>
 </lg>
-		        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0055.jpg"/>
 		        <lg>
-		           <l n="325">That night the board stood barren there,</l>
+		           <l n="325">That night the board stood barren there,<pb facs="/images/battle-pieces-v1/battle-pieces-i-0055.jpg"/></l>
 		           <l rend="2em">Oft eyed by wistful people passing,</l>
 		           <l rend="2em">Who nothing saw but the rain-beads chasing</l>
                    <l>Each other down the wafered square,</l>
