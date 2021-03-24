@@ -28,27 +28,28 @@
     <l rend="2em"><hi rend="smallcaps">The</hi> bitter cup</l>
     <l rend="4em">Of that hard countermand</l>
     <l rend="2em">Which gave the Envoys up,</l>
-    <l rend="2em">Still was <ref target="#ref_21085">wormwood</ref><note xml:id="ref_21085">Webster’s 1846 dictionary entry for “wormwood” defines what is also known as the artemisia plant as having “a bitter, nauseous taste” (<bibl>An American Dictionary of the English Language, 1846</bibl>).
- A possible reference to the apocalyptic image in the Bible’s Book of Revelations: “10. And the third angel sounded, and there fell a great star from heaven, burning as it were a lamp, and it fell upon the third part of the rivers, and upon the fountains of waters; 11. And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter” (KJV, Revelation 8:10-11).
-(Leslie McAbee)</note> in the mouth,</l>
+    <l rend="2em">Still was <ref target="#ref_21085">wormwood</ref><note xml:id="ref_21085">Bitter-tasting herb, folk remedy, and ingredient in the alcohol spirit absinthe(See also Revelation 8:10-11).</note> in the mouth,</l>
     <l n="5" rend="4em">And clouds involved the land,</l>
     <l rend="2em">When, pelted by sleet in the icy street,</l>
     <l rend="4em">About the bulletin-board a band</l>
     <l rend="2em">Of eager, anxious people met,</l>
     <l rend="2em">And every wakeful heart was set</l>
     <l n="10" rend="2em">On latest news from West or South.</l>
-    <l rend="2em"><ref target="#ref_21129">“No seeing here,”</ref><note xml:id="ref_21129">Megan Williams argues that Battle-Pieces, published in the same year as George Barnard’s Photographic Views and Alexander Gardner’s Photographic Sketch-Book of the Civil War, “weighs the power of the written word against the act of representing this historical moment photographically” (142). The phrase “no seeing here” “…underscores the obvious fact that the telegraph and the written word do not offer the immediate visual images of the photograph” (154).</note> cries one— “don&apos;t crowd”—</l>
+    <l rend="2em">“No seeing here,” cries one— “don&apos;t crowd”—</l>
     <l rend="2em">“You tall man, pray you, read aloud.”</l>
 </lg>
-
+<!--
+<ref target="#ref_21129">“No seeing here,”</ref><note xml:id="ref_21129">Megan Williams argues that Battle-Pieces, published in the same year as George Barnard’s Photographic Views and Alexander Gardner’s Photographic Sketch-Book of the Civil War, “weighs the power of the written word against the act of representing this historical moment photographically” (142). The phrase “no seeing here” “…underscores the obvious fact that the telegraph and the written word do not offer the immediate visual images of the photograph” (154).</note>
+-->
 <lg>
     <l><hi rend="smallcaps">Important</hi>.</l>
-                      <l rend="6em"><hi rend="italic"> We learn that <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">General Grant</name>,</hi></l>
-                   <l n="15" rend="4em"><hi rend="italic">Marching from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:458" type="place">Henry</name> overland</hi></l>
+                      <l rend="6em"><hi rend="italic"> We learn that General <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name>,</hi></l>
+                   <l n="15" rend="4em"><hi rend="italic">Marching from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:458" type="place">Henry</name> overland,</hi></l>
                <l rend="2em"><hi rend="italic">And joined by a force up the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:459" type="place">Cumberland</name> sent</hi></l>
                    <l rend="4em"><hi rend="italic">(Some thirty thousand the command),</hi></l>
-    <l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0042.jpg"/><hi rend="italic"> On <ref target="#ref_19085">Wednesday</ref><note xml:id="ref_19085">February 12, 1862.</note> a good position won—</hi></l>
-    <l rend="2em"><hi rend="italic">Began the siege of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Donelson</name>.</hi></l></lg>
+    <l rend="2em"><hi rend="italic"> On <ref target="#ref_19085">Wednesday</ref><note xml:id="ref_19085">February 12, 1862.</note> a good position won—</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0042.jpg"/></l>
+    <l rend="2em"><hi rend="italic">Began the siege of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Donelson</name>.</hi></l>
+	</lg>
 
                   <lg>
                       <l n="20" rend="2em"><hi rend="italic">This stronghold crowns a river-bluff,</hi></l>
