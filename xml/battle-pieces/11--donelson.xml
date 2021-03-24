@@ -219,13 +219,13 @@
                    <l>“Hurrah for Grant!” cried a stripling shrill;</l>
                    <l>Three urchins joined him with a will,</l>
                    <l>And some of taller stature cheered.</l>
-                   <l n="155">Meantime a <ref target="#ref_21287">Copperhead</ref><note xml:id="ref_21287">A Civil War term for “a northern sympathizer with the Secessionists of the south” (OED).</note> passed; he sneered.</l>
+                   <l n="155">Meantime a <ref target="#ref_21287">Copperhead</ref><note xml:id="ref_21287">A Northern "Peace Democrat," who opposed the Civil War, on racist and anti-abolitionist not pacificist grounds.</note> passed; he sneered.</l>
                        <l rend="2em">“Win or lose,” he pausing said,</l>
                    <l>“Caps fly the same; all boys, mere boys;</l>
                    <l>Any thing to make a noise.</l>
                        <l rend="2em">Like to see the list of the dead;</l>
-                       <l n="160"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0048.jpg"/>
-                       These ‘<hi rend="italic">craven Southerners</hi>’ hold out;</l>
+                       <l n="160">
+                       These ‘<hi rend="italic">craven Southerners</hi>’ hold out;<pb facs="/images/battle-pieces-v1/battle-pieces-i-0048.jpg"/></l>
                    <l>Ay, ay, they&apos;ll give you many a bout.”</l>
                        <l rend="2em">“We&apos;ll beat in the end, sir,”</l>
                    <l>Firmly said one in staid rebuke,</l>
@@ -252,11 +252,11 @@
                            <lg>
                                <l rend="4em"><hi rend="smallcaps">Glorious Victory of the Fleet!</hi></l>
 <lb/>
-                               <l n="180" rend="4em"><hi rend="smallcaps">Friday's great event.</hi></l>
+                               <l n="180" rend="4em"><hi rend="smallcaps">Friday's great event!</hi></l>
                                <lb/>
-                               <l rend="4em"><hi rend="smallcaps">The enemy's water-batteries beat!</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/></l>
+                               <l rend="4em"><hi rend="smallcaps">The enemy's water-batteries beat!</hi></l>
                                <lb/>
-                               <l rend="4em"><hi rend="smallcaps">We silenced every gun!</hi></l>
+                               <l rend="4em"><hi rend="smallcaps">We silenced every gun!</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/></l>
                                <lb/>
                                <l rend="4em"><hi rend="smallcaps">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:183" type="person">old Commodore</name>&apos;s compliments sent</hi></l>
                                <l rend="4em"><hi rend="smallcaps">Plump into <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>!</hi></l>
@@ -288,10 +288,10 @@
 </lg>
                    <lg>
                        <l rend="2em"><hi rend="italic">Yesterday stung us; frozen shores</hi></l>
-                       <l rend="4em"><hi rend="italic">Snow-clad, and through the drear defiles</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0050.jpg"/></l>
+                       <l rend="4em"><hi rend="italic">Snow-clad, and through the drear defiles</hi></l>
                    </lg>
 		        <lg>
-		        <l n="200" rend="2em"><hi rend="italic">And over the desolate ridges blew</hi></l>
+		        <l n="200" rend="2em"><hi rend="italic">And over the desolate ridges blew</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0050.jpg"/></l>
 		        <l rend="2em"><hi rend="italic">A Lapland wind.</hi></l>
 </lg>
 <lb/>
