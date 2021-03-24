@@ -218,8 +218,8 @@
                    <l>“Caps fly the same; all boys, mere boys;</l>
                    <l>Any thing to make a noise.</l>
                        <l rend="2em">Like to see the list of the dead;</l>
-                       <pb facs="/images/battle-pieces-v1/battle-pieces-i-0048.jpg"/>
-                       <l n="160">These ‘<hi rend="italic">craven Southerners</hi>’ hold out;</l>
+                       <l n="160"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0048.jpg"/>
+                       These ‘<hi rend="italic">craven Southerners</hi>’ hold out;</l>
                    <l>Ay, ay, they&apos;ll give you many a bout.”</l>
                        <l rend="2em">“We&apos;ll beat in the end, sir,”</l>
                    <l>Firmly said one in staid rebuke,</l>
@@ -248,9 +248,8 @@
 <lb/>
                                <l n="180" rend="4em"><hi rend="smallcaps">Friday's great event.</hi></l>
                                <lb/>
-                               <l rend="4em"><hi rend="smallcaps">The enemy's water-batteries beat!</hi></l>
+                               <l rend="4em"><hi rend="smallcaps">The enemy's water-batteries beat!</hi></l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/>
                                <lb/>
-                               <pb facs="/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/>
                                <l rend="4em"><hi rend="smallcaps">We silenced every gun!</hi></l>
                                <lb/>
                                <l rend="4em"><hi rend="smallcaps">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:183" type="person">old Commodore</name>&apos;s compliments sent</hi></l>
