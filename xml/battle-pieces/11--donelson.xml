@@ -82,10 +82,12 @@
 <l>That bulletin stood. The next day brought</l>
 <l>A second.</l>
                </lg>
-
+<!--
+<ref target="#ref_21130"><hi rend="smallcaps">Later from the Fort.</hi></ref>
+<note xml:id="ref_21130">Megan Williams notes that the use of bold headlines such as “LATER FROM THE FORT” or “FURTHER” marks the ability of the written word to “measure the passage of time with a minuteness that the photograph cannot” (154).</note>
+-->
                                 <lg>
-                                    <l n="40" rend="6em"><ref target="#ref_21130"><hi rend="smallcaps">Later from the Fort.</hi></ref>
-                                        <note xml:id="ref_21130">Megan Williams notes that the use of bold headlines such as “LATER FROM THE FORT” or “FURTHER” marks the ability of the written word to “measure the passage of time with a minuteness that the photograph cannot” (154).</note></l>
+                                    <l n="40" rend="6em"><hi rend="smallcaps">Later from the Fort.</hi></l>
                   <l rend="2em"><hi rend="italic">Grant&apos;s investment is complete—</hi></l>
                                     <l rend="4em"><hi rend="italic">A semicircular one.</hi></l>
                                     <l rend="2em"><hi rend="italic">Both wings the Cumberland&apos;s margin meet,</hi></l>
@@ -248,7 +250,7 @@
 <lb/>
                                <l n="180" rend="4em"><hi rend="smallcaps">Friday's great event.</hi></l>
                                <lb/>
-                               <l rend="4em"><hi rend="smallcaps">The enemy's water-batteries beat!</hi></l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/>
+                               <l rend="4em"><hi rend="smallcaps">The enemy's water-batteries beat!</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/></l>
                                <lb/>
                                <l rend="4em"><hi rend="smallcaps">We silenced every gun!</hi></l>
                                <lb/>
