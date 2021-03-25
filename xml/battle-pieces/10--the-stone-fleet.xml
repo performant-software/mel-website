@@ -5,11 +5,9 @@
 			<titleStmt>
 				<title>10 - The Stone Fleet</title>
 				<author>Herman Melville</author>
-				
-				
 			</titleStmt>
 			<publicationStmt>
-				
+
 				<publisher/>
 				<pubPlace/>
 				<date/>
@@ -18,24 +16,22 @@
 			</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 	<text>
 		<body><div xml:id="the-stone-fleet">
 			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/>
-			<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet</hi>.<hi rend="super">b</hi></name></head><lb/>
-				
+			<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet:</hi><hi rend="super">b</hi></name></head><lb/>
 				<head type="sub-head"><hi rend="italic">An Old Sailor&apos;s Lament.</hi><lb/>
-				
-				(<hi rend="smallcaps">December</hi>, 1861.)</head>
-			
-			
+				(<hi rend="smallcaps">December, 1861.</hi>)</head>
+
+
 			<lg type="stanza"  n="1"><l><hi rend="smallcaps">I have</hi> a feeling for those ships,</l>
 				<l rend="2em">Each worn and ancient one,</l>
 				<l>With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">Cohen connects Melville's language here with the <hi rend="italic">Rebellion Record</hi>'s republishing of a correspondent's account of the event, originally published in the New York <hi rend="italic">Tribune</hi>. The correspondent writes, "her bluff bows nod to us rather gracefully" (219).</note>, and broad in the beam:</l>
 				<l rend="2em">Ay, it was unkindly done.</l>
 				<l n="5" rend="8em">But so they serve the Obsolete—</l>
 				<l rend="8em">Even so, Stone Fleet!</l></lg>
-			
+
 			<lg type="stanza" n="2">
 				<l>You&apos;ll say I&apos;m doting; do but think</l>
 				<l rend="2em">I scudded round the Horn in one—</l>
@@ -44,28 +40,28 @@
 				<l rend="8em">Sunk (how all unmeet!)</l>
 				<l rend="8em">With the Old Stone Fleet.</l>
 			</lg>
-			
+
 			<lg type="stanza" n="3"><l>An India ship of fame was she,</l>
 				<l rend="2em">Spices and shawls and fans she bore;</l>
 				<l n="15"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/>A whaler when her wrinkles came—</l>
 				<l rend="2em">Turned off! till, spent and poor,</l>
 				<l rend="8em">Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705">Cohen reads the term as "reversion to the rightful owner, in this instance the sea" (219).</note>)!</l>
 				<l rend="8em">Ah! Stone Fleet.</l></lg>
-			
+
 			<lg type="stanza" n="4"><l>Four were erst patrician keels</l>
 				<l n="20" rend="2em">(Names attest what families be),</l>
 				<l>The Kensington, and Richmond too,</l>
 				<l rend="2em">Leonidas, and Lee:</l>
 				<l rend="8em">But now they have their seat</l>
 				<l rend="8em">With the Old Stone Fleet.</l></lg>
-			
+
 			<lg type="stanza" n="5"><l n="25">To scuttle them—a pirate deed—</l>
 				<l rend="2em">Sack them, and dismast;</l>
 				<l>They sunk so slow, they died so hard,</l>
 				<l rend="2em">But gurgling dropped at last.</l>
 				<l rend="8em">Their ghosts in gales repeat</l>
 				<l n="30" rend="8em"><hi rend="italic">Woe&apos;s us, Stone Fleet!</hi></l></lg>
-			
+
 			<lg type="stanza" n="6">
 				<l>And all for naught. The waters pass—</l>
 				<l rend="2em">Currents will have their way;</l>
