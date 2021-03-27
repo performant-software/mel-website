@@ -27,7 +27,7 @@
 
 			<lg type="stanza"  n="1"><l><hi rend="smallcaps">I have</hi> a feeling for those ships,</l>
 				<l rend="2em">Each worn and ancient one,</l>
-				<l>With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">A broad and rounded rather than pointed bow, more suited for warfare though not speed. Melville's usage here echoes an entry in the <hi rend="italic">Rebellion Record</hi>, a reprints of an account of the event in the New York <hi rend="italic">Tribune</hi>:  "her bluff bows nod to us rather gracefully" (Cohen 219).</note>, and broad in the beam:</l>
+				<l>With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">A broad and rounded rather than pointed bow, more suited for warfare though not speed. Melville's usage here echoes an entry in the <hi rend="italic">Rebellion Record</hi>, a reprint of an account of the event in the New York <hi rend="italic">Tribune</hi>:  "her bluff bows nod to us rather gracefully" (Cohen 219).</note>, and broad in the beam:</l>
 				<l rend="2em">Ay, it was unkindly done.</l>
 				<l n="5" rend="8em">But so they serve the Obsolete—</l>
 				<l rend="8em">Even so, Stone Fleet!</l></lg>
@@ -45,7 +45,7 @@
 				<l rend="2em">Spices and shawls and fans she bore;</l>
 				<l n="15">A whaler when her wrinkles came—<pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/></l>
 				<l rend="2em">Turned off! till, spent and poor,</l>
-				<l rend="8em">Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705">In probate law, the government's right to take ownership of unclaimed estate assets and properties. In this case, the sea claims final ownership of the decommissioned ships (Cohen 219).</note>)!</l>
+				<l rend="8em">Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705">In probate law, the government's right to take ownership of unclaimed estate assets and properties unassigned in will. In this case, the sea claims final ownership of the decommissioned and scuttled ships (Cohen 219).</note>)!</l>
 				<l rend="8em">Ah! Stone Fleet.</l></lg>
 
 			<lg type="stanza" n="4"><l>Four were erst patrician keels</l>
