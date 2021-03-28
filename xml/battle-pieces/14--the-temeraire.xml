@@ -84,7 +84,7 @@ Parallel in story,</l>
 
 <lg>
 	<l n="45" rend="6em">
-But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event">Trafalgar<ref target="#ed-note2">&apos;</ref></name><note xml:id="ed-note2">The one-beat English pronunciation of TraFALgar is not sufficient for Melville's four-beat line. The accent mark at the end of the word encourages the Spanish two-beat TRAfalGAR (NN <hi rend="italic">Published Poems</hi>, t636).</note> is over now,</l>
+But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event"><ref target="#ed-note2">Trafalgar&apos;</ref></name><note xml:id="ed-note2">The one-beat English pronunciation of TraFALgar is not sufficient for Melville's four-beat line. The accent mark at the end of the word encourages the Spanish two-beat TRAfalGAR (NN <hi rend="italic">Published Poems</hi>, 636).</note> is over now,</l>
 <l rend="8em">The quarter-deck undone;</l>
 <l rend="6em">The carved and castled navies fire</l>
 <l rend="8em">Their evening-gun.</l>
