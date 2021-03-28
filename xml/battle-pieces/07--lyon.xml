@@ -5,11 +5,9 @@
 			<titleStmt>
 				<title>07 - Lyon</title>
 				<author>Herman Melville</author>
-				
-				
 			</titleStmt>
 			<publicationStmt>
-				
+
 				<publisher/>
 				<pubPlace/>
 				<date/>
@@ -18,16 +16,16 @@
 			</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 	<text>
 		<body>
 			<div xml:id="lyon">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0032.jpg"/>
-				<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:174" type="person">Lyon</name>.</hi><lb/></head>
+				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:174" type="person">Lyon</name>.</hi><lb/></head>
 				<head type="sub-head"><hi rend="italic">Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:502" type="place">Springfield, Missouri</name>.</hi><lb/>
 					(<hi rend="smallcaps">August</hi>, 1861.)</head><lb/>
-				
-				
+
+
 				<lg>
 					<l><hi rend="smallcaps">Some</hi> hearts there are of deeper sort,</l>
 					<l rend="2em">Prophetic, sad,</l>
@@ -36,7 +34,7 @@
 					<l n="5">This wizard-heart and heart-of-oak had Lyon.</l>
 				</lg>
 				<lg>
-					<l>"They are more  than twenty thousand strong,</l>
+					<l>"They are more than twenty thousand strong,</l>
 					<l rend="2em">We less than five,</l>
 					<l>Too few with such a host to strive.”</l>
 					<l rend="2em">“Such counsel, fie on!</l>
@@ -46,72 +44,85 @@
 					<l rend="2em">Retreat or fight:</l>
 					<l>Retreat the foe would take for flight,</l>
 					<l rend="2em">And each proud scion</l>
-					<l n="15">Feel more elate; the end must come,&quot; said Lyon</l>
+					<l n="15">Feel more elate; the end must come,&quot; said.<pb facs="/images/battle-pieces-v1/battle-pieces-i-0033.jpg"/></l>
 				</lg>
-				
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0033.jpg"/>
-				<lg><l>By candlelight he wrote the will,</l>
+
+				<lg>
+					<l>By candlelight he wrote the will,</l>
 					<l rend="2em">And left his all</l>
 					<l>To <ref target="#ref_20245">Her</ref><note xml:id="ref_20245">Lyon was reported to have willed his estate to the United States.</note> for whom &apos;twas not enough to fall;</l>
 					<l rend="2em">Loud neighed Orion</l>
-					<l n="20">Without the tent; drums beat; <ref target="#ref_20246">we</ref><note xml:id="ref_20246">This is one of the rare moments in Melville's Civil War Poetry when the speaker appears to be a common soldier.</note> marched with Lyon.
-					</l></lg>
-				<lg><l>The night-tramp done, we spied the Vale</l>
+					<l n="20">Without the tent; drums beat; we marched with Lyon.</l>
+				</lg>
+
+				<lg>
+					<l>The night-tramp done, we spied the Vale</l>
 					<l rend="2em">With guard-fires lit;</l>
 					<l>Day broke, but trooping clouds made gloom of it:</l>
 					<l rend="2em">“A field to die on,”</l>
-					<l n="25">Presaged in his unfaltering heart, brave Lyon.</l></lg>
-				
-				<lg><l>We fought on the grass, we bled in the corn—</l>
+					<l n="25">Presaged in his unfaltering heart, brave Lyon.</l>
+				</lg>
+
+				<lg>
+					<l>We fought on the grass, we bled in the corn—</l>
 					<l rend="2em">Fate seemed malign;</l>
-					<l>His horse the Leader led along the line—</l>	
+					<l>His horse the Leader led along the line—</l>
 					<l rend="2em">Star-browed Orion;</l>
 					<l n="30">Bitterly fearless, he rallied us there, brave Lyon.</l>
 				</lg>
-				
-				<lg><l>There came a sound like the slitting of air</l>
+
+				<lg>
+					<l>There came a sound like the slitting of air</l>
 					<l rend="2em">By a swift sharp sword—</l>
 					<l>A rush of the sound; and the sleek chest broad</l>
 					<l rend="2em">Of black Orion</l>
-					<l n="35">Heaved, and was fixed; the dead mane waved toward Lyon.</l></lg>
-				
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0034.jpg"/><lg><l>“General, you&apos;re hurt—this sleet of balls!”</l>
+					<l n="35">Heaved, and was fixed; the dead mane waved toward Lyon.<pb facs="/images/battle-pieces-v1/battle-pieces-i-0034.jpg"/></l>
+				</lg>
+
+				<lg>
+					<l>“General, you&apos;re hurt—this sleet of balls!”</l>
 					<l rend="2em">He seemed half spent;</l>
 					<l>With moody and bloody brow, he lowly bent:</l>
 					<l rend="2em">“The field to die on;</l>
 					<l n="40">But not—not yet; the day is long,” breathed Lyon.</l>
 				</lg>
-				
-				<lg><l>For a time becharmed there fell a lull</l>
+
+				<lg>
+					<l>For a time becharmed there fell a lull</l>
 					<l rend="2em">In the heart of the fight;</l>
 					<l>The tree-tops nod, the slain sleep light;</l>
 					<l rend="2em">Warm noon-winds sigh on,</l>
 					<l n="45">And thoughts which he never spake had Lyon.</l></lg>
-				
-				<lg><l>Texans and Indians trim for a charge:</l>
+
+				<lg>
+					<l>Texans and Indians trim for a charge:</l>
 					<l rend="2em">“Stand ready, men!</l>
 					<l>Let them come close, right up, and then</l>
 					<l rend="2em">After the lead, the iron;</l>
-					<l n="50">Fire, and charge back!” So strength returned to Lyon.</l></lg>
-				
-				<lg><l><name type="person"><ref target="#context-note1">The Iowa men</ref><note xml:id="context-note1">The 1st Iowa Infantry were part of Lyon's army.</note></name> who held the van,</l>
+					<l n="50">Fire, and charge back!” So strength returned to Lyon.</l>
+				</lg>
+
+				<lg>
+					<l><name type="person"><ref target="#context-note1">The Iowa men</ref><note xml:id="context-note1">The 1st Iowa Infantry were part of Lyon's army.</note></name> who held the van,</l>
 					<l rend="2em">Half drilled, were new</l>
 					<l>To battle: “Some one lead us, then we&apos;ll do,”</l>
 					<l rend="2em">Said Corporal Tryon:</l>
-					<l n="55">“Men! <hi rend="italic">I</hi> will lead,” and a light glared in Lyon.</l>
+					<l n="55">“Men! <hi rend="italic">I</hi> will lead,” and a light glared in Lyon.<pb facs="/images/battle-pieces-v1/battle-pieces-i-0035.jpg"/></l>
 				</lg>
-				
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0035.jpg"/><lg><l>On they came: they yelped, and fired;</l>
+
+				<lg>
+					<l>On they came: they yelped, and fired;</l>
 					<l rend="2em">His spirit sped;</l>
 					<l>We leveled right in, and the half-breeds fled,</l>
 					<l rend="2em">Nor stayed the iron,</l>
-					<l n="60">Nor captured the crimson corse of Lyon.</l></lg>
-				
+					<l n="60">Nor captured the crimson corse of Lyon.</l>
+				</lg>
+
 				<lg><l>This seer foresaw his soldier-doom,</l>
-					<l rend="2em">Yet wiled the fight.</l>
+					<l rend="2em">Yet willed the fight.</l>
 					<l>He never turned; his only flight</l>
 					<l rend="2em">Was up to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:503" type="place">Zion</name>,</l>
-					<l n="65">Where prophets now and armies greet <app><lem><ref target="#ednote1">brave</ref><note xml:id="ednote1">In Melville's post-publication copy, he penciled in "pale" as a possible replacement for "brave."</note></lem><rdg>pale</rdg></app> Lyon.</l>
+					<l n="65">Where prophets now and armies greet <app><lem><ref target="#ednote1">brave</ref><note xml:id="ednote1">In both his personal published copy of <hi rend="italic">Battle-Pieces</hi> and his bound copy of sheets from <hi rend="italic">Battle-Pieces</hi> (copies A and C, respectively), Melville revised "brave" to "pale."  In Copy A, he struck through "brave" in pencil and inscribed "pale" in the right margin; in Copy C, he deleted "brave," added a caret before it, and inserted "pale" above.</note></lem><rdg>pale</rdg></app> Lyon.</l>
 				</lg>
 			</div></body>
 	</text>
