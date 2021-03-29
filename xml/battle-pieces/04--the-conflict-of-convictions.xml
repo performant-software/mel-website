@@ -4,12 +4,9 @@
 		<fileDesc>
 			<titleStmt>
 				<title>04 - The Conflict of Convictions</title>
-				
-				
-				
 			</titleStmt>
 			<publicationStmt>
-				
+
 				<publisher/>
 				<pubPlace/>
 				<date/>
@@ -19,15 +16,17 @@
 			<sourceDesc>
 				<listWit>
 					<witness xml:id="bp1866a">First American edition of <hi rend="italic">Battle-Pieces</hi>.<!-- put in Houghton call numbers <bibl></bibl>--> </witness>
-					
+
 					<witness xml:id="bp1866c">Melville's c copy of <hi rend="italic">Battle-Pieces</hi>, which includes his post-publication revisions.</witness>
 				</listWit>
 			</sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 	<text>
 		<body>
-			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/><head type="main"><hi rend="italic">The Conflict of Convictions</hi>.<hi rend="super">a</hi></head> <lb/><head type="sub-head">(1860–1.)</head><lb/>
+			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/>
+			<head type="main"><hi rend="italic">The Conflict of Convictions</hi>.<hi rend="super">a</hi></head>
+			<head type="sub-head">(1860–1.)</head><lb/>
 				<lg>
 					<l><hi rend="smallcaps">On</hi> starry heights</l>
 					<l rend="2em">A bugle wails the long recall;</l>
@@ -49,13 +48,14 @@
 					<l rend="4em"><hi rend="italic">Cut down the fleet—</hi></l>
 					<l n="15" rend="4em"><hi rend="italic">Battle no more shall be!</hi></l>
 					<l rend="4em"><hi rend="italic">While the fields for fight in æons to come</hi></l>
-					<l rend="4em"><hi rend="italic">Congeal beneath the sea.)</hi></l></lg>
-				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0025.jpg"/>
+					<l rend="4em"><hi rend="italic">Congeal beneath the sea.)</hi><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0025.jpg"/></l>
+				</lg>
+				<lb/>
 				<lg>
 					<l>The terrors of truth and dart of death</l>
 					<l rend="2em">To faith alike are vain;</l>
 					<l n="20">Though <name ref="https://mel-catalog.herokuapp.com/api/entries/event:50" type="event">comets</name>, gone a thousand years,</l>
-					<l rend="2em">Return again,</l>
+					<l rend="4em">Return again,</l>
 					<l>Patient she stands—she can no more—</l>
 					<l>And waits, nor heeds she waxes hoar.</l>
 				</lg>
@@ -77,9 +77,9 @@
 					<l>The rout it herds around the heart,</l>
 					<l rend="2em">The ghost is yielded in the gloom;</l>
 					<l>Kings wag their heads—Now save thyself</l>
-					<l rend="2em">Who wouldst rebuild the world in bloom.</l></lg>
-				
-				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0026.jpg"/>
+					<l rend="2em">Who wouldst rebuild the world in bloom. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0026.jpg"/></l>
+				</lg>
+
 				<lg>
 					<l n="40" rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
 					<l rend="4em"><hi rend="italic">And top of the ages&apos; strife,</hi></l>
@@ -87,6 +87,7 @@
 					<l rend="4em"><hi rend="italic">The last advance of life—</hi></l>
 					<l rend="4em"><hi rend="italic">Ha ha, the rust on the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:918" type="artwork">Iron Dome</name>!)</hi></l>
 				</lg>
+				<lb/>
 				<lg>
 					<l n="45">Nay, but revere the hid event;</l>
 					<l rend="2em">In the cloud a sword is girded on,</l>
@@ -103,14 +104,14 @@
 					<l n="55">But He who rules is old—is old;</l>
 					<l>Ah! faith is warm, but heaven with age is cold.</l>
 				</lg>
+				<lb/>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ho ho, ho ho,</hi></l>
 					<l rend="4em"><hi rend="italic">The cloistered doubt</hi></l>
 					<l rend="4em"><hi rend="italic">Of olden times</hi></l>
-					<l n="60" rend="4em"><hi rend="italic">Is blurted out!)</hi></l>
+					<l n="60" rend="4em"><hi rend="italic">Is blurted out!)</hi> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0027.jpg"/></l>
 				</lg>
-				
-				<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0027.jpg"/>
+				<lb/>
 				<lg>
 					<l>The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person"><ref target="#ref_19276">Ancient of Days</ref><note xml:id="ref_19276">"I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire." Daniel 7:9 (Published Poems 626) [reference, biblical]</note></name> forever is young,</l>
 					<l rend="2em">Forever the scheme of Nature thrives;</l>
@@ -125,7 +126,9 @@
 					<l n="70" rend="4em"><hi rend="italic">The Future&apos;s slave,</hi></l>
 					<l rend="4em"><hi rend="italic">She drudged through pain and crime</hi></l>
 					<l rend="4em"><hi rend="italic">To bring about the blissful Prime,</hi></l>
-					<l rend="4em"><hi rend="italic">Then—perished. There&apos;s a grave!)</hi></l></lg>
+					<l rend="4em"><hi rend="italic">Then—perished. There&apos;s a grave!)</hi></l>
+				</lg>
+				<lb/>
 				<lg>
 					<l rend="2em">Power unanointed may come—</l>
 					<l n="75">Dominion (unsought by the free)</l>
