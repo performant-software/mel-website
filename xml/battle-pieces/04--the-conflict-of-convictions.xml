@@ -65,6 +65,7 @@
 					<l rend="4em"><hi rend="italic">Weed overgrown—</hi></l>
 					<l rend="4em"><hi rend="italic">Long &apos;twill wait.!)</hi></l>
 				</lg>
+				<lb/>
 				<lg>
 					<l>But God his former mind retains,</l>
 					<l rend="2em">Confirms his old decree;</l>
@@ -79,7 +80,6 @@
 					<l>Kings wag their heads—Now save thyself</l>
 					<l rend="2em">Who wouldst rebuild the world in bloom. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0024.jpg"/></l>
 				</lg>
-
 				<lg>
 					<l n="40" rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
 					<l rend="4em"><hi rend="italic">And top of the ages&apos; strife,</hi></l>
@@ -94,17 +94,19 @@
 					<l>I mark a twinkling in the tent</l>
 					<l rend="2em">Of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name> the warrior one.</l>
 					<l>Senior wisdom suits not now,</l>
-					<l n="50">The light is on the youthful brow.</l></lg>
+					<l n="50">The light is on the youthful brow.</l>
+				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ay, in caves the miner see:</hi></l>
 					<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c"><ref target="#ednote2">a blinking light</ref><note xml:id="ednote2">Melville revised here to replace "a blinking light" with "a tapor dim".</note></lem><rdg wit="bp1866a">a blinking light</rdg><rdg wit="#bp1866c">a tapor dim</rdg></app>;</hi></l>
 					<l rend="4em"><hi rend="italic">Darkness so he feebly braves<app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app></hi></l>
-					<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">A meagre wight!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!" with "which foldeth him!"</note></lem><rdg wit="#bp1866a">A meagre wight!)</rdg><rdg wit="#bp1866c">which foldeth him!</rdg></app></hi></l></lg>
+					<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">A meagre wight!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!" with "which foldeth him!"</note></lem><rdg wit="#bp1866a">A meagre wight!)</rdg><rdg wit="#bp1866c">which foldeth him!</rdg></app></hi></l>
+				</lg>
+					<lb/>
 				<lg>
 					<l n="55">But He who rules is old—is old;</l>
 					<l>Ah! faith is warm, but heaven with age is cold.</l>
 				</lg>
-				<lb/>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ho ho, ho ho,</hi></l>
 					<l rend="4em"><hi rend="italic">The cloistered doubt</hi></l>
@@ -144,10 +146,10 @@
 				</lg>
 				<lg>
 					<l n="85" rend="2em"><hi rend="smallcaps">Yea and Nay—</hi></l>
-					<l rend="2em"><hi rend="smallcaps">Each hath his say;</hi></l>
-					<l rend="2em"><hi rend="smallcaps">But God He keeps the middle way.</hi></l>
-					<l rend="2em"><hi rend="smallcaps">None was by</hi></l>
-					<l rend="2em"><hi rend="smallcaps">When he spread the sky;</hi></l>
+					<l rend="4em"><hi rend="smallcaps">Each hath his say;</hi></l>
+					<l rend="4em"><hi rend="smallcaps">But God He keeps the middle way.</hi></l>
+					<l rend="4em"><hi rend="smallcaps">None was by</hi></l>
+					<l rend="4em"><hi rend="smallcaps">When he spread the sky;</hi></l>
 					<l n="90" rend="2em"><hi rend="smallcaps">Wisdom is vain, and prophesy.</hi></l>
 				</lg>
 			</div></body>
