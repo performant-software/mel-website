@@ -38,11 +38,14 @@
 					<l>Satan&apos;s old age is strong and hale,</l>
 					<l>A disciplined captain, gray in skill,</l>
 					<l n="10">And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
-					<l>Dashed aims, <app><lem><ref target="#ednote1">at which</ref><note xml:id="ednote1">After publication, Melville added this revision in pencil, changing "at which" to "whereat."</note></lem> <rdg wit="#bp1866a">at which</rdg><rdg wit="#bp1866c">whereat</rdg></app> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
+					<l>Dashed aims, <ref target="#RNnoteCC1">at which</ref><note xml:id="RNoteCC1">In his copy of bound sheets for <hi rend="italic">Battle-Pieces</hi>, Melville deleted "at which" in pencil, inserted a caret in front of the words, and added "whereat" in the left margin. See corresponding thumbnail to view the revision site.</note><name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/></l>
 					<l>Shall <ref target="#ref_19267"><ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">from Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
 						[etymology]
 						https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note></ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." Matthew 6:24 [reference, biblical]</note>&apos;s slaves fulfill?</l>
 				</lg>
+<!--
+<app><lem><ref target="#RNnoteCC1">at which</ref><note xml:id="RNoteCC1">In his copy of bound sheets for Battle-Pieces, Melville deleted "at which" in pencil, inserted a caret in front of the words, and added "whereat" in the left margin. See corresponding thumbnail to view the revision site.</note></lem> <rdg wit="#bp1866a">at which</rdg><rdg wit="#bp1866c">whereat</rdg></app>
+-->
 				<lg>
 					<l rend="4em"><hi rend="italic">(Dismantle the fort,</hi></l>
 					<l rend="4em"><hi rend="italic">Cut down the fleet—</hi></l>
@@ -145,12 +148,12 @@
 					<l>Death, with silent negative.</l>
 				</lg>
 				<lg>
-					<l n="85" rend="2em"><hi rend="smallcaps">Yea and Nay—</hi></l>
+					<l n="85" rend="4em"><hi rend="smallcaps">Yea and Nay—</hi></l>
 					<l rend="4em"><hi rend="smallcaps">Each hath his say;</hi></l>
 					<l rend="4em"><hi rend="smallcaps">But God He keeps the middle way.</hi></l>
 					<l rend="4em"><hi rend="smallcaps">None was by</hi></l>
 					<l rend="4em"><hi rend="smallcaps">When he spread the sky;</hi></l>
-					<l n="90" rend="2em"><hi rend="smallcaps">Wisdom is vain, and prophesy.</hi></l>
+					<l n="90" rend="4em"><hi rend="smallcaps">Wisdom is vain, and prophesy.</hi></l>
 				</lg>
 			</div></body>
 	</text>
