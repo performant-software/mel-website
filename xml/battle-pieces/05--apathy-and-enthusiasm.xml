@@ -20,12 +20,12 @@
 		<body>
 			<div xml:id="apathy-and-enthusiasm">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0027.jpg"/>
-				<head rend="main"><hi rend="italic"><ref target="#ref_20498">Apathy and Enthusiasm.</ref></hi><note xml:id="ref_20498">In Melville's 1854 short story "The Fiddler," the central character Hautboy "seemed intuitively to hit the exact line between enthusiasm and apathy. It was plain that while Hautboy saw the world pretty much as it was, yet he did not thereotically espouse its bright side nor its dark side" (as quoted in Cohen 211).
+				<head rend="main"><hi rend="italic"><ref target="#ref_20498">Apathy and Enthusiasm.</ref></hi><note xml:id="ref_20498">In Melville's 1854 short story "The Fiddler," the central character Hautboy "seemed intuitively to hit the exact line between enthusiasm and apathy. It was plain that while Hautboy saw the world pretty much as it was, yet he did not thereotically espouse its bright side nor its dark side" (as quoted in Cohen 211). More directly, Melville may have been responding to a <hi rend="italic">New York Times</hi> editorial of April 16, 1861 titled "The Resurrection of Patriotism," which stressed the unbounding enthusiasm for the war. The editorial's last line—"Whatever may be the character of the contest, we have no fears or misgivings as to the final issue"—may have also inspired Melville's less optimistic poem "Misgivings."
 				</note>
 				</head>
 				<head type="sub-head">(1860-1.)</head>
 
-				<l rend="10em">I.</l>
+				<l rend="8em">I.</l>
 				<lg>
 					<l><hi rend="smallcaps">O the</hi> clammy cold November,</l>
 					<l rend="2em">And the winter white and dead,</l>
@@ -53,7 +53,7 @@
 				</lg>
 				<lb/>
 
-				<l rend="10em">II.</l>
+				<l rend="8em">II.</l>
 				<lg>
 					<l>So the winter died despairing,</l>
 					<l n="25" rend="2em">And the weary weeks of Lent;</l>
@@ -66,15 +66,15 @@
 					<l>And the young were all elation</l>
 					<l rend="2em">Hearing <name ref="https://mel-catalog.herokuapp.com/api/entries/place:507" type="place">Sumter</name>&apos;s cannon roar,</l>
 					<l>And they thought how tame the Nation</l>
-					<l n="35" rend="2em"><ref target="#ref_20500">In the age that went before.</ref><note xml:id="ref_20500">In this section of the poem, Melville may have been responding to a <hi rend="italic">New York Times</hi> editorial of April 16, 1861 titled "The Resurrection of Patriotism," which stressed the unbounding enthusiasm for the war. The editorial's last line—"Whatever may be the character of the contest, we have no fears or misgivings as to the final issue"—may have also inspired Melville's less optimistic poem "Misgivings.""</note></l>
-					<l>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name> seemed gigantical,</l>
-					<l rend="2em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Arch-fiend</name> but a <ref target="#ref_20530">dwarf;</ref><note xml:id="ref_20530">Melville alludes to the war in heaven between St. Michael and the "Arch-fiend" Satan in Milton's <hi rend="italic">Paradise Lost</hi>.</note></l>
+					<l n="35" rend="2em">In the age that went before.</l>
+					<l>And <ref target="#ref_20530"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name></ref><note xml:id="ref_20530">Melville alludes to the war in heaven between St. Michael and the "Arch-fiend" Satan in Milton's <hi rend="italic">Paradise Lost</hi>.</note> seemed gigantical,</l>
+					<l rend="2em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Arch-fiend</name> but a dwarf;</l>
 					<l>And at the towers of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:322" type="person">Erebus</name></l>
 					<l rend="2em">Our striplings flung the scoff.</l>
 					<l n="40">But the elders with foreboding</l>
-					<l rend="2em">Mourned the days forever o&apos;er,<pb facs="/images/battle-pieces-v1/battle-pieces-i-0029.jpg"/></l>
+					<l rend="2em">Mourned the days forever o&apos;er, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0029.jpg"/></l>
 					<l>And recalled the forest proverb,</l>
-					<l rend="2em"><ref target="#ref_20533">The Iroquois&apos; old saw:</ref><note xml:id="ref_20533">In Peter Unseth's "The Source of Melville's Iroquois Proverb," he attempts to locate the source for this proverb. <bibl><hi rend="italic">ANQ A Quarterly Journal of Short Articles Notes and Reviews</hi>, 28.3-4 (October 2015): pp. 182-185. DOI: 10.1080/0895769X.2016.1172954</bibl>.</note></l>
+					<l rend="2em">The Iroquois&apos; <ref target="#ref_20533">old saw:</ref><note xml:id="ref_20533">In "The Source of Melville's Iroquois Proverb," Peter Unseth finds no proverb tradition among the Iroquois nations and no source for this proverb in general; Melville seems to have made up. <bibl><hi rend="italic">ANQ A Quarterly Journal of Short Articles Notes and Reviews</hi> 28.3-4 (October 2015): 182-85. DOI: 10.1080/0895769X.2016.1172954</bibl>.</note></l>
 					<l><hi rend="italic">Grief to every graybeard</hi></l>
 					<l n="45" rend="2em"><hi rend="italic">When young Indians lead the war</hi>.</l>
 				</lg>
