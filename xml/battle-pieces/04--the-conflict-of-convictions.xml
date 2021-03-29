@@ -38,7 +38,8 @@
 					<l>Satan&apos;s old age is strong and hale,</l>
 					<l>A disciplined captain, gray in skill,</l>
 					<l n="10">And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
-					<l>Dashed aims, <ref target="#RNnoteCC1">at which</ref><note xml:id="RNnoteCC1">In his copy of bound sheets for <hi rend="italic">Battle-Pieces</hi>, Melville deleted "at which" in pencil, inserted a caret in front of the words, and added "whereat" in the left margin. See corresponding thumbnail to view the revision site.</note><name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/></l>
+					<l>Dashed aims, <ref target="#RNnoteCC1">at which</ref><note xml:id="RNnoteCC1">In his copy of bound sheets for <hi rend="italic">Battle-Pieces</hi>, Melville deleted "at which" in pencil, inserted a caret in front of the words, and added "whereat" in the left margin. See corresponding thumbnail to view the revision site.</note> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,
+					<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/></l>
 					<l>Shall <ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">A loan word from Greek and Latin into Aramaic and the New Testament, meaning money or wealth. See also: "No man can serve two masters: ... Ye cannot serve God and mammon." Matthew 6:24</note>&apos;s slaves fulfill?</l>
 				</lg>
 <!--
@@ -99,9 +100,9 @@
 				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ay, in caves the miner see:</hi></l>
-					<l rend="4em"><hi rend="italic">His forehead bears <ref target="#RNnoteCC2">a blinking light</ref><note xml:id="RNnoteCC2">REVISION NARRATIVE: In his copy of bound sheets for <hi rend="italic">Battle-Pieces</hi>, Melville deleted "a blinking light" in pencil, inserted a caret before the deletion with a line connecting it to "a taper dim," inscribed in the right margin. See corresponding thumbnail to view this and related revision sites on this page. </note>;</hi> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0026.jpg"/></l>
+					<l rend="4em"><hi rend="italic">His forehead bears <ref target="#RNnoteCC2">a blinking light</ref>;</hi><note xml:id="RNnoteCC2">REVISION NARRATIVE: In his copy of bound sheets for <hi rend="italic">Battle-Pieces</hi>, Melville deleted "a blinking light" in pencil, inserted a caret before the deletion with a line connecting it to "a taper dim," inscribed in the right margin. See corresponding thumbnail to view this and related revision sites in this stanza. </note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0026.jpg"/></l>
 					<l rend="4em"><hi rend="italic">Darkness so he feebly braves—</hi></l>
-					<l rend="4em"><hi rend="italic"><ref target="#RBnoteCC3">A meagre wight!</ref><note xml:id="RNnoteCC3">REVISION NARRATIVE: At the same time he revised the second line of this stanza, Melville revised the fourth. He used pencil to delete the dash at the end of the third line and in one stroke deleted  "A meagre wight!"; he then inscribed "which foldeth him!" in the right margin, completing the rhyme with "a taper dim."</note></hi></l>
+					<l rend="4em"><hi rend="italic"><ref target="#RNnoteCC3">A meagre wight!</ref><note xml:id="RNnoteCC3">REVISION NARRATIVE: At the same time he revised the second line of this stanza, Melville revised the fourth. He used pencil to delete the dash at the end of the third line and in one stroke deleted  "A meagre wight!"; he then inscribed "which foldeth him!" in the right margin, completing the rhyme with "a taper dim."</note></hi></l>
 				</lg>
 					<lb/>
 <!--
