@@ -20,7 +20,13 @@
 	<text>
 		<body><div xml:id="the-stone-fleet">
 			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/>
-			<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet:</hi><hi rend="super">b</hi></name></head><lb/>
+			<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet:</hi></name>
+
+			<ref target="#BP_noteB"><hi rend="super">b</hi></ref> 
+			<note xml:id="BP_noteB">[Melville's]<hi rend="smallcaps">Note b</hi>, <hi rend="italic">page</hi> 31.
+			<p>"The terrible Stone Fleet, on a mission as pitiless as the granite that feights it, sailed this morning from Port Royal, and before two days are past will have made Charleston an inland city. The ships are all old whalers, and cost the government from $2500 to $5000 each. Some of them were once famous ships."</p><p>—(From Newspaper Correspondence of the day.)</p><p>Sixteen vessels were accordingly sunk on the bar at the river entrance. Their names were as follows:</p><p>Amazon, America, American, Archer, Courier, Fortune, Herald, Kensington,</p><p>Leonidas, Maria Theresa, Potomac, Rebecca Simms, L. C. Richmond, Robin Hood, Tenedos, William Lee.</p><p>All accounts seem to agree that the object proposed was not accomplished. The channel is even said to have become ultimately benefited by the means employed to obstruct it.
+			</p></note>
+			  </head>
 				<head type="sub-head"><hi rend="italic">An Old Sailor&apos;s Lament.</hi><lb/>
 				(<hi rend="smallcaps">December, 1861.</hi>)</head>
 
