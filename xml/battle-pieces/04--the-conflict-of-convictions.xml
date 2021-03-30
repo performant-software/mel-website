@@ -25,7 +25,11 @@
 	<text>
 		<body>
 			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0022.jpg"/>
-			<head type="main"><hi rend="italic">The Conflict of Convictions</hi>.<hi rend="super">a</hi></head>
+			<head type="main"><hi rend="italic">The Conflict of Convictions</hi>.
+			<ref target="#BP_noteA"><hi rend="super">a</hi></ref> 
+			<note xml:id="BP_noteA"><hi rend="smallcaps">Note a</hi>, <hi rend="italic">page</hi> 14.
+			<p>The gloomy lull of the early part of the winter of 1860-1, seeming big with final disaster to our institutions, affected some minds that believed them to constitute one of the great hopes of mankind, much as the eclipse which came over the promise of the first French Revolution affected kindred natures, throwing them for the time into doubts and misgivings universal.</p></note>
+			  </head>
 			<head type="sub-head">(1860–1.)</head><lb/>
 				<lg>
 					<l><hi rend="smallcaps">On</hi> starry heights</l>
@@ -123,7 +127,8 @@ app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app>
 				</lg>
 				<lb/>
 				<lg>
-					<l>The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person"><ref target="#ref_19276">Ancient of Days</ref><note xml:id="ref_19276">"I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire." Daniel 7:9 (Published Poems 626) [reference, biblical]</note></name> forever is young,</l>
+					<l>The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person"><ref target="#ref_19276">Ancient of Days</ref><note xml:id="ref_19276">In early Hebrew and Christian traditions, the Ancient of Days represents the eternity of God as well as the coming of Jesus and is associated with St. Michael, who leads battle against the forces of Satan, and prophesy, as is evident in the Book of Daniel: "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire" (Daniel 7:9; see also NN Published Poems 626). Melville opens his 1857 novel <hi rend="italic">The Confidence-Man</hi> with the appearance of a prophet-like man dressed in white, and would compose a post-Darwinian poem titled "The New Ancient of Days" that was not published in his lifetime. <hi rend="italic">Battle-Pieces</hi> is also replete with references to the Archangel Michael.
+				  </note></name> forever is young,</l>
 					<l rend="2em">Forever the scheme of Nature thrives;</l>
 					<l>I know a wind in purpose strong—</l>
 					<l rend="2em">It spins against the way it drives.</l>
@@ -145,7 +150,7 @@ app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app>
 					<l rend="2em">And the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">Iron Dome</name>,</l>
 					<l>Stronger for stress and strain,</l>
 					<l>Fling her huge shadow athwart the main;</l>
-					<l>But <ref target="#ref_21169">the Founders&apos;</ref><note xml:id="ref_21169">Melville is referring to the Founding Fathers of the United States who led the American Revolution against the British. (Eric Meckley)</note> dream shall flee.</l>
+					<l>But the Founders&apos; dream shall flee.</l>
 					<l n="80">Age after age shall be</l>
 					<l>As age after age has been,</l>
 					<l>(From man&apos;s changeless heart their way they win); <pb facs="/images/battle-pieces-v1/battle-pieces-i-0026.jpg"/></l>
