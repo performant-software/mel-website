@@ -19,12 +19,17 @@
 		<text>
 			<body><div id="75--supplement">
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0265.jpg"/>
-<head><l rend="8em"><hi rend="italic">SUPPLEMENT.</hi></l></head>
+<head><l rend="12em"><hi rend="italic">SUPPLEMENT.</hi></l></head>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0267.jpg"/>
-<p>Were I fastidiously anxious for the symmetry of this book, it would close with the notes. But the times are such that patriotism—not free from solicitude—urges a claim overriding all literary scruples.
+<!--
+<ref target="#EDnoteSupp1"></ref>
+<note xml:id="EDnoteSupp1"></note>
+-->
+<p><hi rend="smallcaps"> Were</hi> I fastidiously anxious for the symmetry of this book, it would close with the notes. But the times are such that patriotism—not free from solicitude—urges a claim overriding all literary scruples.
 </p>
 
-<p>It is more than a year since the memorable surrender, but events have not yet rounded themselves into completion. Not justly can we complain of this. There has been an upheavel affecting the basis of things; to altered circumstances complicated adaptations are to be made; there are difficulties great and novel. But is Reason still waiting for Passion to spend itself? We have sung of the soldiers and sailors, but who shall hymn the politicians?
+<p>It is more than a year since the memorable <ref target="#EDnoteSupp1">surrender</ref>
+<note xml:id="EDnoteSupp1">Lee's surrender to Grant at Appomattox Court House, VA, on 9 April 1865 signaled the end of the Civil War.Through the spring and summer of 1866, Melville published five Civil War poems in <hi rend="italic">Harper's New Monthly Magazine</hi> and included them among the 72 lyric and long poems in <hi rend="italic">Battle-Pieces</hi>, published in fall 1866. He probably wrote the book's "Supplement" in late summer and early fall of that year.</note>, but events have not yet rounded themselves into completion. Not justly can we complain of this. There has been an upheavel affecting the basis of things; to altered circumstances complicated adaptations are to be made; there are difficulties great and novel. But is Reason still waiting for Passion to spend itself? We have sung of the soldiers and sailors, but who shall hymn the politicians?
 </p>
 
 <p>In view of the infinite desirableness of Re-establishment, and considering that, so far as feeling is concerned, it depends not mainly on the temper in which the South regards the North, but rather conversely; one who never was a blind adherent feels constrained to submit some thoughts, counting on the indulgence of his countrymen.
@@ -32,10 +37,11 @@
 
 <p>And, first, it may be said that, if among the feelings and opinions growing immediately out of a great civil
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0268.jpg"/>convulsion, there are any which time shall modify or do away, they are presumably those of a less temperate and charitable cast.
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0268.jpg"/> convulsion, there are any which time shall modify or do away, they are presumably those of a less temperate and charitable cast.
 </p>
 
-<p>There seems no reason why patriotism and narrowness should go together, or why intellectual impartiality should be confounded with political trimming, or why serviceable truth should keep cloistered by a cause not partisan. Yet the work of Reconstruction, if admitted to be feasible at all, demands little but common sense and Christian charity. Little but these? These are much.
+<p>There seems no reason why patriotism and narrowness should go together, or why intellectual impartiality should be confounded with political trimming, or why serviceable truth should keep cloistered by a cause not partisan. Yet the work of <ref target="#EDnoteSupp2">Reconstruction</ref>
+<note xml:id="EDnoteSupp2">The Reconstruction Era (1866-1877) introduced federal measures (including constitutional amendments, voting rights acts, and the Freedmen's Bureau) for assimilating the southern states and former enslaved people into the Union. In the immediate aftermath of the war, Congress overrode vetoes by Lincoln's presidential successor Andrew Johnson, until the mid-term Congressional elections of November 1866, which gave further impetus to reconstruction legislation. Melville composed his "Supplement" during this fractious political moment.</note>, if admitted to be feasible at all, demands little but common sense and Christian charity. Little but these? These are much.
 </p>
 <p>Some of us are concerned because as yet the South shows no penitence. But what exactly do we mean by this? Since down to the close of the war she never confessed any for braving it, the only penitence now left her is that which springs solely from the sense of discomfiture; and since this evidently would be a contrition hypocritical, it would be unworthy in us to demand it. Certain it is that penitence, in the sense of voluntary humiliation, will never be displayed. Nor does this afford just ground for unreserved condemnation. It is enough, for all practical purposes, if the South have been taught by the terrors of civil war to feel that Secession, like Slavery, is against Destiny; that both now lie buried in one grave; that her fate is linked with ours; and that together we comprise the Nation.
 </p>
@@ -106,7 +112,7 @@
 </p>
 
 <p>Let us pray that the terrible historic tragedy of our time may not have been enacted without instructing our whole beloved country through terror and pity; and may fulfillment verify in the end those expectations which kindle the bards of Progress and Humanity.
-<l rend="8em">THE END.</l>
+<l rend="12em">THE END.</l>
 </p>
 
 </div>
