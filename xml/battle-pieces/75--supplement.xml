@@ -17,7 +17,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div id="75--supplement">
+			<body><div xml:id="supplement">
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0265.jpg"/>
 <head><l rend="12em"><hi rend="italic">SUPPLEMENT.</hi></l></head>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0267.jpg"/>
