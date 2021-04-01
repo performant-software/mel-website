@@ -17,7 +17,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="supplement">
+			<body><div id="75--supplement">
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0265.jpg"/>
 <head><l rend="12em"><hi rend="italic">S U P P L E M E N T.</hi></l></head>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0267.jpg"/>
@@ -57,7 +57,10 @@
 <p>But the South herself is not wanting in recent histories and biographies which record the deeds of her chieftains—writings freely published at the North by loyal houses, widely read here, and with a deep though saddened interest. By students of the war such works are hailed as welcome accessories, and tending to the completeness of the record.
 </p>
 
-<p>Supposing a happy issue out of present perplexities, then, in the generation next to come, Southerners there will be yielding allegiance to the Union, feeling all their interests bound up in it, and yet cherishing unrebuked that kind of feeling for the memory of the soldiers of the fallen Confederacy that Burns, Scott, and the Ettrick Shepherd felt for the memory of the gallant clansmen ruined through their fidelity to the Stuarts—a feeling whose passion was tempered by the poetry imbuing it, and which in no wise affected their loyalty to the Georges, and which, it may be added, indirectly contributed excellent things to literature. But, setting
+<p>Supposing a happy issue out of present perplexities, then, in the generation next to come, Southerners there will be yielding allegiance to the Union, feeling all their interests bound up in it, and yet cherishing unrebuked that kind of feeling for the memory of the soldiers of the fallen Confederacy that <ref target="#EDnoteSupp4">Burns, Scott, and the Ettrick Shepherd</ref>
+<note xml:id="EDnoteSupp4">Robert Burns (1759-1796), Walter Scott (1771-1832), and James Hogg (1770-1835) were Scotland's principal poets and novelists in Melville's time, and whose sympathies for Scottish rebellion in their writings, Melville argues, tempered the passions of war with respect for the valor of the soldiers fighting it and did not undermine their loyalty to the British crown. The same, Melville projects, might pertain for future generations and writers of the American South. </note> felt for the memory of the
+<ref target="#EDnoteSupp5">gallant clansmen</ref>
+<note xml:id="EDnoteSupp5">These "clansmen" referred to belong to Scottish clans depicted, in particular, in the novels of Walter Scott. Though the American white supremacist "Ku Klux Klan" was officially founded in December 1865, its reign of terror did not emerge until after 1866.</note> ruined through their fidelity to the Stuarts—a feeling whose passion was tempered by the poetry imbuing it, and which in no wise affected their loyalty to the Georges, and which, it may be added, indirectly contributed excellent things to literature. But, setting
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0271.jpg"/>this view aside, dishonorable would it be in the South were she willing to abandon to shame the memory of brave men who with signal personal disinterestedness warred in her behalf, though from motives, as we believe, so deplorably astray.
 </p>
 
