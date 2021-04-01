@@ -18,7 +18,8 @@
    </teiHeader>
    <text>
       <body>
-         <p>Some text here.</p>
+         <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0007.jpg"/>
+         <p>[Erased note in Melville's hand. TBD]</p>
       </body>
    </text>
 </TEI>
