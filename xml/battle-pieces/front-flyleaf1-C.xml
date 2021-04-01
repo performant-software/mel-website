@@ -18,7 +18,7 @@
    </teiHeader>
    <text>
       <body>
-         <p>Some text here.</p>
+         <p>[<hi rend="italic">In Elizabeth Melville's hand:</hi>] "Revised" sheets - with <lb/> Herman's corrections -</p>
       </body>
    </text>
 </TEI>
