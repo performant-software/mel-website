@@ -18,7 +18,8 @@
   </teiHeader>
   <text>
       <body>
-          <head>CONTENTS.</head>
+          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
+          <head><hi rend="smallcaps">Contents</hi>.</head>
           <list type="contents">
              <item>The Portent</item>
           <item>Misgivings</item>
