@@ -19,7 +19,10 @@
    <text>
       <body>
          <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0007.jpg"/>
-         <p>[Erased note, in Elizabeth Melville's hand:] New Fly leaves may be put <lb/> on here - and two added at <lb/> the end - <lb/> Muslin or Buckram binding - <lb/> Edges to be trimmed</p>
+         <p>[<hi rend="italic">Erased note, in Elizabeth Melville's hand:</hi>] <lb/>
+            New Fly leaves may be put <lb/> on here - and two added at <lb/> the end - <lb/> Muslin or Buckram binding - <lb/> Edges to be trimmed</p>
+         
+         <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0007-alt.jpg"/>
       </body>
    </text>
 </TEI>
