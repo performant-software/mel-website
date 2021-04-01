@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>00 - Front matter</title>
+            <title>Title page</title>
          </titleStmt>
          <publicationStmt>
             
@@ -20,5 +20,5 @@
       <body>
          <p>Some text here.</p>
       </body>
-  </text>
+   </text>
 </TEI>
