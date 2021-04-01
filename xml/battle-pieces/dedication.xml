@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dedication</title>
+         </titleStmt>
+         <publicationStmt>
+            
+            <publisher/>
+            <pubPlace/>
+            <date/>
+            <authority/>
+            <availability><p/></availability>
+         </publicationStmt>
+         <sourceDesc><p/></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb facs="/images/battle-pieces-v1/battle-pieces-i-0011.jpg"/>
+         <p rend="center"><hi rend="smallcaps">the battle-pieces <lb/> in this volume are dedicated <lb/> to the memory of the <lb/> THREE HUNDRED THOUSAND <lb/> who in the war <lb/> for the maintenance of the union <lb/> fell devotedly <lb/> under the flag of their fathers.</hi></p>
+      </body>
+   </text>
+</TEI>
