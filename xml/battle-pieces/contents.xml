@@ -18,7 +18,83 @@
   </teiHeader>
   <text>
       <body>
-         <p>Some text here.</p>
+          <list type="contents">
+             <item>The Portent</item>
+          <item>Misgivings</item>
+          <item>The Conflict of Convictions</item>
+          <item>Apathy and Enthusiasm</item>
+          <item>The March into Virginia</item>
+          <item>Lyon</item>
+          <item>Ball's Bluff</item>
+          <item>Dupont's Round Fight</item>
+          <item>The Stone Fleet</item>
+          <item>Donelson</item>
+          <item>The Cumberland</item>
+          <item>In the Turret</item>
+          <item>The Temeraire</item>
+          <item>A Utilitarian View of the Monitor's Fight</item>
+          <item>Shiloh</item>
+          <item>The Battle for the Mississippi</item>
+         <item> Malvern Hill</item>
+          <item>The Victor of Antietam</item>
+          <item>Battle of Stone River, Tennessee</item>
+          <item>Running the Batteries</item>
+          <item>Stonewall Jackson</item>
+          <item>Stonewall Jackson. Ascribed to a Virginian</item>
+          <item>Gettysburg</item>
+          <item>The House-Top</item>
+          <item>Look-out Mountain</item>
+          <item>Chattanooga</item>
+          <item>The Armies of the Wilderness</item>
+          <item>On the Photograph of a Corps Commander</item>
+          <item>The Swamp Angel</item>
+          <item>The Battle for the Bay</item>
+          <item>Sheridan at Cedar Creek</item>
+          <item>In the Prison Pen</item>
+          <item>The College Colonel</item>
+          <item>The Eagle of the Blue</item>
+          <item>A Dirge for McPherson</item>
+          <item>At the Cannon's Mouth</item>
+          <item>The March to the Sea</item>
+          <item>The Frenzy in the Wake</item>
+          <item>The Fall of Richmond</item>
+          <item>The Surrender at Appomattox</item>
+          <item>A Canticle</item>
+          <item>The Martyr</item>
+          <item>"The Coming Storm"</item>
+          <item>Rebel Color-bearers at Shiloh</item>
+          <item>The Muster</item>
+          <item>Aurora-Borealis</item>
+          <item>The Released Rebel Prisoner</item>
+         <item>A Grave near Petersberg, Virginia</item>
+          <item>"Formerly a Slave"</item>
+          <item>The Apparition</item>
+          <item>Magnanimity Baffled</item>
+          <item>On the Slain Collegians</item>
+          <item>America</item>
+          <item>On the Home Guards</item>
+          <item>Inscription</item>
+          <item>The Fortitude of the North</item>
+          <item>On the Men of Maine</item>
+          <item>An Epitaph</item>
+          <item>Inscription for Marye's Heights</item>
+          <item>The Mound by the Lake</item>
+          <item>On the Slain at Chickamauga</item>
+          <item>An uninscribed Monument</item>
+          <item>On Sherman's Men</item>
+          <item>On the Grave</item>
+          <item>A Requiem</item>
+          <item>On a natural Monument</item>
+          <item>Commemorative of a Naval Victory</item>
+          <item>Presentation to the Authorities</item>
+          <item>The Returned Volunteer to his Rifle</item>
+          <item>The Scout toward Aldie</item>
+          <item>Lee in the Capitol</item>
+          <item>A Meditation</item>
+          <item>Supplement</item>
+         <item>Some text here.</item>
+          </list>
+         
       </body>
   </text>
 </TEI>
