@@ -19,9 +19,9 @@
    <text>
       <body>
          <div type="title">
-            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/>
-            <head>BATTLE-PIECES <lb/> <hi rend="smallcaps">and</hi> <lb/> ASPECTS of THE WAR.</head>
-            <head type="sub-head"><hi rend="smallcaps">by</hi> <lb/> HERMAN MELVILLE.</head>
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/><lb/>
+            <head>BATTLE-PIECES <lb/> <hi rend="smallcaps">and</hi> <lb/> ASPECTS <hi rend="smallcaps">of</hi> THE WAR.</head><lb/>
+            <head type="sub-head"><hi rend="smallcaps">by</hi> <lb/> HERMAN MELVILLE.</head><lb/>
          <p><hi rend="smallcaps">NEW YORK: <lb/> harper &amp; brothers, publishers. <lb/> franklin square. <lb/> 1866.</hi></p>
          </div>
       </body>
