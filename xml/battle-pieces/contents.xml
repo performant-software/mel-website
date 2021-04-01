@@ -19,7 +19,7 @@
   <text>
       <body>
           <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
-          <head><hi rend="smallcaps italic">Contents</hi>.</head>
+          <head><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</head>
           <list type="contents">
              <item>The Portent</item>
           <item>Misgivings</item>
@@ -94,7 +94,6 @@
           <item>Lee in the Capitol</item>
           <item>A Meditation</item>
           <item>Supplement</item>
-         <item>Some text here.</item>
           </list>
          
       </body>
