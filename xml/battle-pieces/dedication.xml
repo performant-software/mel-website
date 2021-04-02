@@ -6,7 +6,7 @@
             <title>Dedication</title>
          </titleStmt>
          <publicationStmt>
-            
+
             <publisher/>
             <pubPlace/>
             <date/>
@@ -19,7 +19,16 @@
    <text>
       <body>
          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0011.jpg"/>
-         <p rend="center"><hi rend="smallcaps">the battle-pieces <lb/><lb/> in this volume are dedicated <lb/><lb/> to the memory of the <lb/><lb/> THREE HUNDRED THOUSAND <lb/><lb/> who in the war <lb/><lb/> for the maintenance of the union <lb/><lb/> fell devotedly <lb/><lb/> under the flag of their fathers.</hi></p>
-      </body>
+<lg><hi rend="smallcaps">
+<l>the battle-pieces</l> <lb/><lb/>
+<l>in this volume are dedicated </l><lb/><lb/>
+<l>to the memory of the </l><lb/><lb/>
+<l>THREE HUNDRED THOUSAND </l><lb/><lb/>
+<l>who in the war </l><lb/><lb/>
+<l>for the maintenance of the union </l><lb/><lb/>
+<l>fell devotedly </l><lb/><lb/>
+<l>under the flag of their fathers.</l></hi>
+</lg>
+</body>
    </text>
 </TEI>
