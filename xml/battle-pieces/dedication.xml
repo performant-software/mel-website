@@ -20,14 +20,14 @@
       <body>
          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0011.jpg"/>
 <lg><hi rend="smallcaps">
-<l>the battle-pieces</l> <lb/><lb/>
-<l>in this volume are dedicated </l><lb/><lb/>
-<l>to the memory of the </l><lb/><lb/>
-<l>THREE HUNDRED THOUSAND </l><lb/><lb/>
-<l>who in the war </l><lb/><lb/>
-<l>for the maintenance of the union </l><lb/><lb/>
-<l>fell devotedly </l><lb/><lb/>
-<l>under the flag of their fathers.</l></hi>
+<l rend="10em">the battle-pieces</l> <lb/><lb/>
+<l rend="6em">in this volume are dedicated </l><lb/><lb/>
+<l rend="8em">to the memory of the </l><lb/><lb/>
+<l rend="2em"><hi rend="smallcaps">THREE HUNDRED THOUSAND</hi> </l><lb/><lb/>
+<l rend="10em">who in the war </l><lb/><lb/>
+<l rend="4em">for the maintenance of the union </l><lb/><lb/>
+<l rend="10em">fell devotedly </l><lb/><lb/>
+<l rend="6em">under the flag of their fathers.</l></hi>
 </lg>
 </body>
    </text>
