@@ -19,10 +19,19 @@
    <text>
       <body>
          <div type="title">
-            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/><lb/>
-            <head><hi rend="smallcaps">BATTLE-PIECES <lb/><lb/><lb/> and <lb/><lb/><lb/> ASPECTS of THE WAR.</hi></head><lb/><lb/><lb/>
-            <head type="sub-head"><hi rend="smallcaps">by</hi> <lb/><lb/><lb/> HERMAN MELVILLE.</head><lb/><lb/><lb/><lb/><lb/><lb/>
-         <p><hi rend="smallcaps">NEW YORK: <lb/> harper &amp; brothers, publishers. <lb/> franklin square. <lb/> 1866.</hi></p>
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/>
+          <head><l rend="4em">BATTLE-PIECES</l> <lb/><lb/><lb/>
+            <l rend="10em"><hi rend="smallcaps">and</hi></l> <lb/><lb/><lb/>
+            ASPECTS <hi rend="smallcaps">of</hi> THE WAR.
+          </head><lb/><lb/><lb/>
+            <head type="sub-head">
+              <l rend="10em"><hi rend="smallcaps">by</hi></l> <lb/><lb/><lb/>
+              <l rend="4em">HERMAN MELVILLE.></l></head><lb/><lb/><lb/><lb/><lb/><lb/>
+         <lg><l rend="6em"><hi rend="smallcaps">NEW YORK:</hi></l>
+         <l rend="4em"><hi rend="smallcaps">harper &amp; brothers, publishers.</hi></l>
+        <l rend="6em"><hi rend="smallcaps">franklin square.</hi></l>
+        <l rend="8em">1866.</l>
+      </lg>
          </div>
       </body>
    </text>
