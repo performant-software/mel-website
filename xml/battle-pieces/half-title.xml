@@ -19,7 +19,13 @@
    <text>
       <body>
          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0010.jpg"/>
-         <p>Entered, according to Act of Congress, in the year one thousand eight hundred <lb/> and sixty-six, by <lb/> HARPER &amp; BROTHERS, <lb/> In the Clerk's Office of the District Court of the Southern District of <lb/> New York.</p>
+<lg>
+<l>Entered, according to Act of Congress, in the year one thousand eight hundred </l>
+<l rend="10em">and sixty-six, by </l>
+<l rend="12em">HARPER &amp; BROTHERS, </l>
+<l rend="8em">In the Clerk's Office of the District Court of the Southern District of </l>
+<l rend="2em">New York.</l>
+</lg>
       </body>
    </text>
 </TEI>
