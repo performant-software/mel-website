@@ -20,10 +20,10 @@
       <body>
          <div type="title">
             <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/>
-          <head><l rend="4em">BATTLE-PIECES</l></head> <lb/><lb/><lb/>
+          <l rend="6em">BATTLE-PIECES</l> <lb/><lb/><lb/>
             <l rend="10em"><hi rend="smallcaps">and</hi></l> <lb/><lb/><lb/>
-          <head><l>ASPECTS <hi rend="smallcaps">of</hi> THE WAR.</l>
-          </head><lb/><lb/><lb/>
+          <l rend="2em">ASPECTS <hi rend="smallcaps">of</hi> THE WAR.</l>
+          <lb/><lb/><lb/>
             <head type="sub-head">
               <l rend="10em"><hi rend="smallcaps">by</hi></l> <lb/><lb/><lb/>
               <l rend="4em">HERMAN MELVILLE.</l></head><lb/><lb/><lb/><lb/><lb/><lb/>
