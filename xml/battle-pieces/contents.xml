@@ -19,7 +19,11 @@
   <text>
       <body>
           <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
-          <head><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</head>
+					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0016.jpg"/>
+					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0017.jpg"/>
+					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0018.jpg"/>
+          <head><ref target="#EDnoteRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref>
+					<note xml:id="EDnoteContentsRN1">REVISION NARRATIVE: In the table of contents of his personal copy of <hi rend="italic">Battle-Pieces</hi>, Melville put check marks next to three poems: "The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay."</note></l> </head>
           <list type="contents">
              <item>The Portent</item>
           <item>Misgivings</item>
@@ -95,7 +99,7 @@
           <item>A Meditation</item>
           <item>Supplement</item>
           </list>
-         
+
       </body>
   </text>
 </TEI>
