@@ -20,13 +20,13 @@
       <body>
          <div type="title">
             <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/>
-          <l rend="6em">BATTLE-PIECES</l> <lb/><lb/><lb/>
+        <head><l rend="8em">BATTLE-PIECES</l> <lb/><lb/><lb/>
             <l rend="10em"><hi rend="smallcaps">and</hi></l> <lb/><lb/><lb/>
-          <l rend="2em">ASPECTS <hi rend="smallcaps">of</hi> THE WAR.</l>
-          <lb/><lb/><lb/>
+          <l rend="6em">ASPECTS <hi rend="smallcaps">of</hi> THE WAR.</l>
+        </head><lb/><lb/><lb/>
             <head type="sub-head">
               <l rend="10em"><hi rend="smallcaps">by</hi></l> <lb/><lb/><lb/>
-              <l rend="4em">HERMAN MELVILLE.</l></head><lb/><lb/><lb/><lb/><lb/><lb/>
+              <l rend="6em">HERMAN MELVILLE.</l></head><lb/><lb/><lb/><lb/><lb/><lb/>
          <lg><l rend="8em"><hi rend="smallcaps">NEW YORK:</hi></l>
          <l rend="4em"><hi rend="smallcaps">harper &amp; brothers, publishers.</hi></l>
         <l rend="8em"><hi rend="smallcaps">franklin square.</hi></l>
