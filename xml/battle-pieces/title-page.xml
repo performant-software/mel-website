@@ -20,18 +20,16 @@
       <body>
          <div type="title">
             <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/>
-        <head><l rend="8em">BATTLE-PIECES</l> <lb/><lb/><lb/>
-            <l rend="10em"><hi rend="smallcaps">and</hi></l> <lb/><lb/><lb/>
-          <l rend="6em">ASPECTS <hi rend="smallcaps">of</hi> THE WAR.</l>
+        <head rend="center">BATTLE-PIECES <lb/><lb/><lb/>
+            <hi rend="smallcaps">and</hi> <lb/><lb/><lb/>
+          ASPECTS <hi rend="smallcaps">of</hi> THE WAR.
         </head><lb/><lb/><lb/>
-            <head type="sub-head">
-              <l rend="10em"><hi rend="smallcaps">by</hi></l> <lb/><lb/>
-              <l rend="6em">HERMAN MELVILLE.</l></head><lb/><lb/><lb/><lb/><lb/><lb/>
-         <lg><l rend="8em"><hi rend="smallcaps">N E W  Y O R K:</hi></l>
-         <l rend="4em"><hi rend="smallcaps">harper &amp; brothers, publishers.</hi></l>
-        <l rend="8em"><hi rend="smallcaps">franklin square.</hi></l>
-        <l rend="10em">1866.</l>
-      </lg>
+            <head type="sub-head" rend="center">
+              <hi rend="smallcaps">by</hi> <lb/><lb/>
+              HERMAN MELVILLE.</head><lb/><lb/><lb/><lb/><lb/><lb/>
+            <p rend="center"><hi rend="smallcaps">N E W  Y O R K:</hi><lb/>
+            <hi rend="smallcaps">harper &amp; brothers, publishers.</hi><lb/>
+               <hi rend="smallcaps">franklin square.</hi><lb/>1866.</p>
          </div>
       </body>
    </text>
