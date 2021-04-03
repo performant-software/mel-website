@@ -22,10 +22,7 @@
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0115.jpg"/>
 				<head type="main">
 				<hi rend="italic">The Swamp Angel.</hi>
-				<ref target="#BP_noteK"><hi rend="super">k</hi></ref> 
-				<note xml:id="BP_noteK"><hi rend="smallcaps">Note k</hi>, <hi rend="italic">page</hi> 146.
-				<p>The great Parrott gun, planted in the marshes of James Island, and employed in the prolonged, though at times intermitted bombardment of Charleston, was known among our soldiers as the Swamp Angel.</p><p>St. Michael's, characterized by its venerable tower, was the historic and aristocratic church of the town.</p>
-				</note>
+				<hi rend="super">k</hi>
 				</head>
 
 
@@ -91,6 +88,12 @@ Vainly she calls upon Michael</l>
 <l rend="2em">Christ, the Forgiver, convert his mind.</l>
 </lg>
 
-	</div></body>
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0258.jpg"/>
+<p xml:id="BP_noteK"><hi rend="smallcaps">Note k</hi>, <hi rend="italic">page</hi> 146.
+<p>The great Parrott gun, planted in the marshes of James Island, and employed in the prolonged, though at times intermitted bombardment of Charleston, was known among our soldiers as the Swamp Angel.</p><p>St. Michael's, characterized by its venerable tower, was the historic and aristocratic church of the town.</p>
+</p>
+</div>
+
+</div></body>
 		</text>
 	</TEI>
