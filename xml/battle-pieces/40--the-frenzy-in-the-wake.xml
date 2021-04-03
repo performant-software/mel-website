@@ -21,11 +21,7 @@
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0141.jpg"/>
 				<head type="main">
 				<hi rend="italic">The Frenzy in the Wake.</hi>
-				<ref target="#BP_noteN"><hi rend="super">n</hi></ref> 
-				<note xml:id="BP_noteN"><hi rend="smallcaps">Note n</hi>, <hi rend="italic">page</hi> 133.
-				<p>This piece was written while yet the reports were coming North of Sherman's homeward advance from Savannah. It is needless to point out its purely dramatic character.</p><p>Though the sentiment ascribed in the beginning of the second stanza must, in the present reading, suggest the historic tragedy of the 14th of April, nevertheless, as intimated, it was written prior to that event, and without any distinct application in the writer's mind. After consideration, it is allowed to remain.</p><p>Few need be reminded that, by the less intelligent classes of the South, Abraham Lincoln, by nature the most kindly of men, was regarded as a monster wantonly warring upon liberty. He stood for the personification of tyrannic power. Each Union soldier was called a Lincolnite.</p><p>Undoubtedly Sherman, in the desolation he inflicted after leaving Atlanta, acted not in contravention of orders; and all, in a military point of view, is by military judges deemed to have been expedient, and nothing can abate General Sherman's shining renown; his claims to it rest on no single cvampaign. Still, there are those who can not but contrast some of the scenes enacted in Georgia and the Carolinas, and also in the Shenandoah, with a circumstance in a great Civil War of heathen antiquity. Plutarch relates that in a military council held by Pompey and the chiefs of that party which stood for the Commonwealth, it was decided that under no plea should any city be sacked that was subject to the people of Rome. There was this difference, however, between the Roman civil conflict and the American one. The war of Pompey and Caesar divided the Roman people promiscuously; that of the North and South ran a frontier line between what for the time were distinct communities or nations. In this circumstance, possibly, and some others, may be found both the cause and the justification of some of the sweeping measures adopted.
-			</p>
-				</note>
+				<hi rend="super">n</hi> 
 				</head>
 				<head type="sub-head">
 				<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:138" type="person">Sherman</name>&apos;s advance through the Carolinas.</hi><lb/>
@@ -72,6 +68,14 @@
 <l rend="4em">Have we gamed and lost? but even despair</l>
 <l rend="6em">Shall never our hate rescind.</l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0259.jpg"/>
+<p xml:id="BP_noteN"><hi rend="smallcaps">Note n</hi>, <hi rend="italic">page</hi> 133.
+<p>This piece was written while yet the reports were coming North of Sherman's homeward advance from Savannah. It is needless to point out its purely dramatic character.</p><p>Though the sentiment ascribed in the beginning of the second stanza must, in the present reading, suggest the historic tragedy of the 14th of April, nevertheless, as intimated, it was written prior to that event, and without any distinct application in the writer's mind. After consideration, it is allowed to remain.</p><p>Few need be reminded that, by the less intelligent classes of the South, Abraham Lincoln, by nature the most kindly of men, was regarded as a monster wantonly warring upon liberty. He stood for the personification of tyrannic power. Each Union soldier was called a Lincolnite.</p><p>Undoubtedly Sherman, in the desolation he inflicted after leaving Atlanta, acted not in contravention of orders; and all, in a military point of view, is by military judges deemed to have been expedient, and nothing can abate General Sherman's shining renown; his claims to it rest on no single cvampaign. Still, there are those who can not but contrast some of the scenes enacted in Georgia and the Carolinas, and also in the Shenandoah, with a circumstance in a great Civil War of heathen antiquity. Plutarch relates that in a military council held by Pompey and the chiefs of that party which stood for the Commonwealth, it was decided that under no plea should any city be sacked that was subject to the people of Rome. There was this difference, however, between the Roman civil conflict and the American one. The war of Pompey and Caesar divided the Roman people promiscuously; that of the North and South ran a frontier line between what for the time were distinct communities or nations. In this circumstance, possibly, and some others, may be found both the cause and the justification of some of the sweeping measures adopted.
+</p>
+</p>
+</div>
+
 		</div></body>
 		</text>
 	</TEI>
