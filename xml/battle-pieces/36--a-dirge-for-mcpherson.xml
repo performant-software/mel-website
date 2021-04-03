@@ -21,12 +21,7 @@
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0132.jpg"/>
 				<head type="main">
 				<hi rend="italic">A Dirge for <name ref="https://mel-catalog.herokuapp.com/api/entries/person:171" type="person">McPherson</name>,</hi>
-				<ref target="#BP_noteM"><hi rend="super">m</hi></ref> 
-				<note xml:id="BP_noteM"><hi rend="smallcaps">Note m</hi>, <hi rend="italic">page</hi> 124.
-				<p>The late Major General McPherson, commanding the Army of the Tennessee, a native of Ohio and a West Pointer, was one of the foremost spirits of the war. Young, though a veteran; hardy, intrepid, sensitive in honor, full of engaging qualities, with manly beauty; possessed of genius, a favorite with the army, and with Grant and Sherman. Both Generals have generously acknowledged their professional obligations to the able engineer and admirable soldier, their subordinate and junior.
-				</p><p>In an informal account written by the Achilles to this Sarpedonm, he says:</p><p>"On that day we avenged his death. Near twenty-two hundred of the enemy's dead remained on the ground when night closed upon the scene of action."</p><p>It is significant of the scale on which the war was waged, that the engagement thus written of goes solely (so far as can be learned) under the vague designation of one of the battles before Atlanta.
-				</p>
-				</note>
+				<hi rend="super">m</hi> 
 				</head>
 				<head type="sub-head">
 				<hi rend="italic">Killed in front of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:486" type="place">Atlanta.</name></hi>
@@ -79,6 +74,16 @@ Lay him down within the nave,</l>
 <l rend="6em"><hi rend="italic">True fame is his, for life is o&apos;er—</hi></l>
 <l rend="6em"><hi rend="italic">Sarpedon of the mighty war.</hi></l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0258.jpg"/>
+<p xml:id="BP_noteM"><hi rend="smallcaps">Note m</hi>, <hi rend="italic">page</hi> 124.
+<p>The late Major General McPherson, commanding the Army of the Tennessee, a native of Ohio and a West Pointer, was one of the foremost spirits of the war. Young, though a veteran; hardy, intrepid, sensitive in honor, full of engaging qualities, with manly beauty; possessed of genius, a favorite with the army, and with Grant and Sherman. Both Generals have generously acknowledged their professional obligations to the able engineer and admirable soldier, their subordinate and junior.
+</p><p>In an informal account written by the Achilles to this Sarpedonm, he says:</p><pb facs="/images/battle-pieces-v1/battle-pieces-i-0259.jpg"/><p>"On that day we avenged his death. Near twenty-two hundred of the enemy's dead remained on the ground when night closed upon the scene of action."</p><p>It is significant of the scale on which the war was waged, that the engagement thus written of goes solely (so far as can be learned) under the vague designation of one of the battles before Atlanta.
+</p>
+</p>
+</div>
+
+
 </div></body>
 		</text>
 	</TEI>
