@@ -595,7 +595,6 @@ tei-handShift {
 }
 /* Need head with TEI parent to distinguish from HTML head */
 tei-TEI tei-head {
-  display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
   text-align: center;
