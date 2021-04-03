@@ -598,6 +598,7 @@ tei-TEI tei-head {
   display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+  text-align: center;
 }
 tei-head[type="sub-head"] {
   display: block;
