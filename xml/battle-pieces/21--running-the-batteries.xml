@@ -7,8 +7,6 @@
 				<author>Herman Melville</author>
 				<editor>R.D. Madison</editor>
 				<editor>Eric Meckley</editor>
-
-
 		</titleStmt>
 			<publicationStmt>
 
@@ -151,12 +149,14 @@ How dread to mark her near the glare</l>
 <l>So burst we through their barriers</l>
 				<l rend="2em">And menaces every one:</l>
 				<l n="75">So <name ref="https://mel-catalog.herokuapp.com/api/entries/person:176" type="person">Porter</name> proves himself a <ref target="#ref_20959">brave man&apos;s son</ref><note xml:id="ref_20959">Admiral David Dixon Porter was the son of Commodore David Porter, whose 1815 <hi rend="italic">Journal of a Cruise Made to the Pacific Ocean</hi> (see Bercaw  #563) is a source for <hi rend="italic">Typee</hi> and “The Encantadas.”</note>.
-				<ref target="#BP_noteG"><hi rend="super">g</hi></ref> 
-				<note xml:id="BP_noteG">[Melville's] <hi rend="smallcaps">Note g</hi>, <hi rend="italic">page</hi> 78.
-				<p>Admiral Porter is a son of the late Commodore Porter, commander of the frigate Essex on that Pacific cruise which ended in the desperate fight off Valparaiso with the English frigates Cherub and Phoebe, in the year 1814.</p>
-			</note>
-			</l>
+				<hi rend="super">g</hi></l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/>
+<p xml:id="BP_noteG">[Melville's] <hi rend="smallcaps">Note g</hi>, <hi rend="italic">page</hi> 78.
+<p>Admiral Porter is a son of the late Commodore Porter, commander of the frigate Essex on that Pacific cruise which ended in the desperate fight off Valparaiso with the English frigates Cherub and Phoebe, in the year 1814.</p>
+</p></div>
+
 </div></body>
 		</text>
 	</TEI>
