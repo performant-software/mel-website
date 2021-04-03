@@ -23,7 +23,7 @@
 <note xml:id="EDnoteDedicationRN1">REVISION NARRATIVE: At some point, someone scissored away the originally blank top third of the dedication page, presumably to remove text inscribed above the print dedication. One likelihood is that Melville had added an inscription in ink, perhaps signing and dating it, and it was removed for the autograph.</note> <lb/><lb/>
 <hi rend="smallcaps"><l rend="6em">in this volume are dedicated </l><lb/><lb/>
 to the memory of the <lb/><lb/>
-<hi rend="smallcaps">T H R E E&#032;&#032;H U N D R E D&#032;&#032;T H O U S A N D<!-- will need to input <choice> at some point for machine reading purposes; presently this will interpret extra spaces literally -->
+   <hi rend="smallcaps">T H R E E&#xA0;&#xA0;H U N D R E D&#xA0;&#xA0;T H O U S A N D<!-- will need to input <choice> at some point for machine reading purposes; presently this will interpret extra spaces literally -->
 </hi> <lb/><lb/>
 who in the war <lb/><lb/>
 for the maintenance of the union <lb/><lb/>
