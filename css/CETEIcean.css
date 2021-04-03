@@ -1143,7 +1143,10 @@ tei-p {
   font-size: 12pt;
   line-height: 1.42;
 }
-*[data-tei-rendition~="#center"] p {
+tei-p[rend="center"] {
+  text-align: center;
+}
+tei-head[rend="center"] {
   text-align: center;
 }
 tei-availability > p:first-child {
