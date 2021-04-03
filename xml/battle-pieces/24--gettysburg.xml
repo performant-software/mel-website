@@ -71,17 +71,20 @@ Surged, but were met, and back they set:</l>
 <l rend="2em">Our centre held that place of graves,</l>
 <l>And some still hold it in their swoon,</l>
 <l n="30" rend="2em">And over these a glory waves.</l>
-<l>The warrior-monument, crashed in fight,<ref target="#BP_noteH"><hi rend="super">h</hi></ref> 
-<note xml:id="BP_noteH"><hi rend="smallcaps">Note h</hi>, <hi rend="italic">page</hi> 85.
-<p>Among numerous head-stones or monuments on Cemetery Hill, marred or destroyed by the enemy's concentrated fire, was one, somewhat conspicuous, of a Federal officer killed before Richmond in 1862.</p>
-<p>On the 4th of July, 1865, the Gettysburg National Cemetery, on the same height with the original burial-ground, was consecrated, and the corner-stone laid of a commemorative pile.</p>
-</note></l>
+<l>The warrior-monument, crashed in fight,<hi rend="super">h</hi></l>
 <l>Shall soar transfigured in loftier light,</l>
 <l rend="4em">A meaning ampler bear;</l>
 <l>Soldier and priest with hymn and prayer</l>
 <l n="35" >Have laid the stone, and every bone</l>
 <l rend="4em">Shall rest in honor there.</l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/>
+<p xml:id="BP_noteH"><hi rend="smallcaps">Note h</hi>, <hi rend="italic">page</hi> 85.
+<p>Among numerous head-stones or monuments on Cemetery Hill, marred or destroyed by the enemy's concentrated fire, was one, somewhat conspicuous, of a Federal officer killed before Richmond in 1862.</p>
+<p>On the 4th of July, 1865, the Gettysburg National Cemetery, on the same height with the original burial-ground, was consecrated, and the corner-stone laid of a commemorative pile.</p>
+</p></div>
+
 </div></body>
 		</text>
 	</TEI>
