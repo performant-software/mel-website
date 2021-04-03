@@ -247,7 +247,7 @@
 <lg>
 <l>Rumor had come that a band was lodged</l>
 <l rend="2em">In green retreats of hills that peer</l>
-<l>By Aldie (famed for the <ref target="#BP_noteV">swordless charge<hi rend="super">v</hi></ref><note xml:id="BP_noteV"><hi rend="smallcaps">Note v</hi>, <hi rend="italic">page</hi> 192. In one of Kilpatrick's earlier cavalry fights near Aldie, a Colonel who, being under arrest, had been temporarily deprived of his sword, nevertheless, unarmed, insisted upon charging at the head of his men, which he did, and the onset proved victorious.</note>).</l>
+<l>By Aldie (famed for the swordless charge <hi rend="super">v</hi>).</l>
 <l>Much store they&apos;d heaped of captured arms</l>
 <l rend="2em">And, peradventure, pilfered cheer;</l>
 <l rend="4em">For Mosby&apos;s lads oft hearts enlarge</l>
@@ -1266,6 +1266,11 @@
 <l rend="4em">As hers that now no more shall spring:</l>
 <l rend="4em">To Mosby-land the dirges cling.</l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0262.jpg"/>
+<p xml:id="BP_noteV"><hi rend="smallcaps">Note v</hi>, <hi rend="italic">page</hi> 192. In one of Kilpatrick's earlier cavalry fights near Aldie, a Colonel who, being under arrest, had been temporarily deprived of his sword, nevertheless, unarmed, insisted upon charging at the head of his men, which he did, and the onset proved victorious.
+</p>)
+</div>
 
 </div>
 </body>
