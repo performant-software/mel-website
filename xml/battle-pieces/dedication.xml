@@ -19,17 +19,20 @@
    <text>
       <body>
          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0011.jpg"/>
-<lg>
-<l rend="10em"><ref target="#EDnoteDedicationRN1"><hi rend="smallcaps">the battle-pieces</hi></ref><lb/>
-<note xml:id="EDnoteDedicationRN1">REVISION NARRATIVE: At some point, someone scissored away the originally blank top third of the dedication page, presumably to remove text inscribed above the print dedication. One likelihood is that Melville had added an inscription in ink, perhaps signing and dating it, and it was removed for the autograph.</note></l> <lb/><lb/>
+
+<p rend="center"><ref target="#EDnoteDedicationRN1"><hi rend="smallcaps">the battle-pieces</hi></ref><lb/>
+<note xml:id="EDnoteDedicationRN1">REVISION NARRATIVE: At some point, someone scissored away the originally blank top third of the dedication page, presumably to remove text inscribed above the print dedication. One likelihood is that Melville had added an inscription in ink, perhaps signing and dating it, and it was removed for the autograph.</note> <lb/><lb/>
 <hi rend="smallcaps"><l rend="6em">in this volume are dedicated </l><lb/><lb/>
-<l rend="8em">to the memory of the </l><lb/><lb/>
-<l rend="4em"><hi rend="smallcaps">T H R E E  H U N D R E D  T H O U S A N D</hi> </l><lb/><lb/>
-<l rend="10em">who in the war </l><lb/><lb/>
-<l rend="6em">for the maintenance of the union </l><lb/><lb/>
-<l rend="10em">fell devotedly </l><lb/><lb/>
-<l rend="6em">under the flag of their fathers.</l></hi>
-</lg>
+to the memory of the <lb/><lb/>
+<hi rend="smallcaps"><choice>
+   <reg>T H R E E&#160;&#160;H U N D R E D&#160;&#160;T H O U S A N D</reg>
+   <orig>THREE HUNDRED THOUSAND</orig><!-- necessary for machine reading purposes, which will interpret extra spaces literally -->
+</choice></hi> <lb/><lb/>
+who in the war <lb/><lb/>
+for the maintenance of the union <lb/><lb/>
+fell devotedly <lb/><lb/>
+under the flag of their fathers.</hi></p>
+
 </body>
    </text>
 </TEI>
