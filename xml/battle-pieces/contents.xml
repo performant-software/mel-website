@@ -22,8 +22,8 @@
 					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0016.jpg"/>
 					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0017.jpg"/>
 					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0018.jpg"/>
-          <head><ref target="#EDnoteRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref>
-					<note xml:id="EDnoteContentsRN1">REVISION NARRATIVE: In the table of contents of his personal copy of <hi rend="italic">Battle-Pieces</hi>, Melville put check marks next to three poems: "The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay."</note></l> </head>
+          <head><ref target="#EDnoteRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref></head>
+					<note xml:id="EDnoteContentsRN1">REVISION NARRATIVE: In the table of contents of his personal copy of <hi rend="italic">Battle-Pieces</hi>, Melville put check marks next to three poems: "The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay."</note>
           <list type="contents">
              <item>The Portent</item>
           <item>Misgivings</item>
@@ -41,7 +41,7 @@
           <item>A Utilitarian View of the Monitor's Fight</item>
           <item>Shiloh</item>
           <item>The Battle for the Mississippi</item>
-         <item> Malvern Hill</item>
+         <item>Malvern Hill</item>
           <item>The Victor of Antietam</item>
           <item>Battle of Stone River, Tennessee</item>
           <item>Running the Batteries</item>
