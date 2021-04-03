@@ -25,7 +25,6 @@
 				</head>
 				<head type="sub-head">
 				<hi rend="italic">Indicative of the passion of the people on the 15th of<lb/> April, 1865.</hi>
-				(<hi rend="smallcaps">May</hi>, 1865.)
 				</head>
 
 	<lg>
@@ -52,11 +51,7 @@
 <lg><l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0150.jpg"/>He lieth in his blood—</l>
 <l rend="2em">The father in his face;</l>
 <l n="20">They have killed him, the Forgiver—</l>
-<l rend="2em">The Avenger takes his place,<ref target="#BP_noteO"><hi rend="super">o</hi></ref></l>
-	<note xml:id="BP_noteO"><hi rend="smallcaps">Note o</hi>, <hi rend="italic">page</hi> 142.
-	<p>At this period of excitement the thought was by some passionately welcomed that the Presidential successor had been raised up by heaven to wreak vengeance on the South. The idea originated in the remembrance that Andrew Johnson by birth belonged to that class of Southern whites who never cherished love for the dominant one; that he was a citizen of Tennessee, where the contest at times and in places had been close and bitter as a Middle-Age feud; that himself and family had been hardly treated by the Secessionists.</p><p>But the expectations built hereon (if, indeed, ever soberly entertained), happily for the country, have not been verified.</p><p>Likewise the feeling which would have held the entire South chargeable with the crime of one exceptional assassin, this too has died away with the natural excitement of the hour.
-	</p>
-</note>
+<l rend="2em">The Avenger takes his place,<hi rend="super">o</hi></l>
 <l>The Avenger wisely stern,</l>
 <l rend="4em">Who in righteousness shall do</l>
 <l rend="4em">What the heavens call him to,</l>
@@ -73,6 +68,14 @@
 <l rend="6em">Beware the People weeping</l>
 <l rend="8em">When they bare the iron hand.</l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0260.jpg"/>
+<p xml:id="BP_noteO"><hi rend="smallcaps">Note o</hi>, <hi rend="italic">page</hi> 142.
+<p>At this period of excitement the thought was by some passionately welcomed that the Presidential successor had been raised up by heaven to wreak vengeance on the South. The idea originated in the remembrance that Andrew Johnson by birth belonged to that class of Southern whites who never cherished love for the dominant one; that he was a citizen of Tennessee, where the contest at times and in places had been close and bitter as a Middle-Age feud; that himself and family had been hardly treated by the Secessionists.</p><p>But the expectations built hereon (if, indeed, ever soberly entertained), happily for the country, have not been verified.</p><p>Likewise the feeling which would have held the entire South chargeable with the crime of one exceptional assassin, this too has died away with the natural excitement of the hour.
+</p>
+</p>
+</div>
+
 				</div></body>
 		</text>
 	</TEI>
