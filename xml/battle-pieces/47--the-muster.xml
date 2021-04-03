@@ -21,11 +21,7 @@
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0154.jpg"/>
 				<head type="main">
 				<hi rend="italic">The Muster: </hi>
-				<ref target="#BP_noteQ"><hi rend="super">q</hi></ref> 
-				<note xml:id="BP_noteQ"><hi rend="smallcaps">Note q</hi>, <hi rend="italic">page</hi> 146.
-				<p>According to a report of the Secretary of War, there were on the first day of March, 1865, 965,000 men on the army payrolls. Of these, some 200,000—artillery, cavalry, and infantry—made up from the larger portion of the veterans of Grant and Sherman, marched by the President. The total number of Union troops enlisted during the war was 2,668,000.
-				</p>
-			</note>
+				<hi rend="super">q</hi> 
 			  </head>
 				<head type="sub-head">
 				<hi rend="italic">Suggested by the Two Days&apos; Review at Washington.</hi><lb/>
@@ -76,6 +72,14 @@
 <l rend="6em">And Europe&apos;s marge is evened</l>
 <l rend="8em">By rills from Kansas lone.</l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0260.jpg"/>
+<p xml:id="BP_noteQ"><hi rend="smallcaps">Note q</hi>, <hi rend="italic">page</hi> 146.
+<p>According to a report of the Secretary of War, there were on the first day of March, 1865, 965,000 men on the army payrolls. Of these, some 200,000— <pb facs="/images/battle-pieces-v1/battle-pieces-i-0261.jpg"/> artillery, cavalry, and infantry—made up from the larger portion of the veterans of Grant and Sherman, marched by the President. The total number of Union troops enlisted during the war was 2,668,000.
+</p>
+</p>
+</div>
+
 			</div></body>
 		</text>
 	</TEI>
