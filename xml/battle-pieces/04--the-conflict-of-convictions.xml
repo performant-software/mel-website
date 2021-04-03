@@ -165,6 +165,19 @@ app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app>
 					<l rend="4em"><hi rend="smallcaps">When he spread the sky;</hi></l>
 					<l n="90" rend="4em"><hi rend="smallcaps">Wisdom is vain, and prophesy.</hi></l>
 				</lg>
+
+				<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
+
+				<p xml:id="BP_noteA">[Melville's] <hi rend="smallcaps">Note a</hi>, <hi rend="italic">page</hi> 14.
+				<p>The gloomy lull of the early part of the winter of 1860-1, seeming big with final disaster to our institutions, affected some minds that believed them to constitute one of the great hopes of mankind, much as the eclipse which came over the promise of the first French Revolution affected kindred natures, throwing them for the time into doubts and misgivings universal.</p></p>
+
+					<p xml:id="hm_note14c">[Melville's] <hi rend="smallcaps">Note c</hi>, <hi rend="italic">page</hi> 58.
+<lb/>The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:443">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</p>
+
+					<p xml:id="hm_note14d">[Melville's] <hi rend="smallcaps">Note d</hi>, <hi rend="italic">page</hi> 59.
+					<lb/>Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shapes which <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:444">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them—field-pieces—captured in our earlier wars, are preserved in arsenals and navy-yards.</p>
+				</div>
+
 			</div></body>
 	</text>
 </TEI>
