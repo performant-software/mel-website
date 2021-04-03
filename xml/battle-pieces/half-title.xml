@@ -20,13 +20,12 @@
       <body>
          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0010.jpg"/>
 <lb/>
-<lg>
-<l>Entered, according to Act of Congress, in the year one thousand eight hundred</l>
-<l rend="10em">and sixty-six, by </l>
-<l rend="8em"><hi rend="smallcaps">HARPER&#032; &amp; &#032;BROTHERS,</hi></l>
-<l>In the Clerk's Office of the District Court of the Southern District of </l>
-<l rend="10em">New York.</l>
-</lg>
+<p rend="center">Entered, according to Act of Congress, in the year one thousand eight hundred
+<lb/>and sixty-six, by 
+<lb/><hi rend="smallcaps">HARPER&#032; &amp; &#032;BROTHERS,</hi>
+<lb/>In the Clerk's Office of the District Court of the Southern District of
+<lb/>New York.</p>
+<!-- these are not lines of poetry so reverting back to a <p> structure -->
       </body>
    </text>
 </TEI>
