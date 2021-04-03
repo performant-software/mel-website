@@ -27,7 +27,11 @@
             <head type="sub-head" rend="center">
               <hi rend="smallcaps">by</hi> <lb/><lb/>
               HERMAN MELVILLE.</head><lb/><lb/><lb/><lb/><lb/><lb/>
-            <p rend="center"><hi rend="smallcaps">N E W  Y O R K:</hi><lb/>
+            <p rend="center"><hi rend="smallcaps"><choice>
+               <reg>N E W&#160;&#160;Y O R K:</reg>
+               <orig>NEW YORK</orig>
+            </choice>
+            </hi><lb/>
             <hi rend="smallcaps">harper &amp; brothers, publishers.</hi><lb/>
                <hi rend="smallcaps">franklin square.</hi><lb/>1866.</p>
          </div>
