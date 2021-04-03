@@ -22,10 +22,7 @@
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0152.jpg"/>
 				<head type="main">
 				<hi rend="italic">Rebel Color-bearers at Shiloh: </hi>
-				<ref target="#BP_noteP"><hi rend="super">p</hi></ref> 
-				<note xml:id="BP_noteP"><hi rend="smallcaps">Note p</hi>, <hi rend="italic">page</hi> 144.
-				<p>The incident on which this piece is based is narrated in a newspaper account of the battle to be found in the "Rebellion Record." During the disaster to the national forces on the first day, a brigade on the extreme left found itself isolated. The perils it encountered are given in detail. Among others, the following sentences occur:</p><p>"Under cover of the fire from the bluffs, the rebels rushed down, crossed the ford, and in a moment were seen forming this side the creek in open fields, and within close musket-range. Their color-bearers stepped defiantly to the front as the engagement opened furiously; the rebels pouring in sharp, quick volleys of musketry, and their batteries above continuing to support them with a destructive fire. Our sharpshooters wanted to pick off the audacious rebel color-bearers, but Colonel Stuart interposed: [']No, no, they're too brave fellows to be killed.[']"</p>
-			</note>
+				<hi rend="super">p</hi> 
 			  </head>
 				<head type="sub-head">
 				<hi rend="italic">A plea against the vindictive cry raised by civilians shortly<lb/>
@@ -75,6 +72,13 @@
 <l rend="2em">Than in reverse? Spare Spleen her ire,</l>
 <l n="35" rend="4em">And think how Grant met Lee.</l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0260.jpg"/>
+<p xml:id="BP_noteP"><hi rend="smallcaps">Note p</hi>, <hi rend="italic">page</hi> 144.
+<p>The incident on which this piece is based is narrated in a newspaper account of the battle to be found in the "Rebellion Record." During the disaster to the national forces on the first day, a brigade on the extreme left found itself isolated. The perils it encountered are given in detail. Among others, the following sentences occur:</p><p>"Under cover of the fire from the bluffs, the rebels rushed down, crossed the ford, and in a moment were seen forming this side the creek in open fields, and within close musket-range. Their color-bearers stepped defiantly to the front as the engagement opened furiously; the rebels pouring in sharp, quick volleys of musketry, and their batteries above continuing to support them with a destructive fire. Our sharpshooters wanted to pick off the audacious rebel color-bearers, but Colonel Stuart interposed: [']No, no, they're too brave fellows to be killed.[']"</p>
+</p>
+</div>
+
 </div></body>
 		</text>
 	</TEI>
