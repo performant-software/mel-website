@@ -20,7 +20,7 @@
       <body>
          <div type="title">
             <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/>
-        <head rend="center">BATTLE-PIECES <lb/><lb/><lb/>
+        <head type="main" rend="center">BATTLE-PIECES <lb/><lb/><lb/>
             <hi rend="smallcaps">and</hi> <lb/><lb/><lb/>
           ASPECTS <hi rend="smallcaps">of</hi> THE WAR.</head>
         <lb/><lb/><lb/>
