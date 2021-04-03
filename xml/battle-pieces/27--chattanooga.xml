@@ -28,11 +28,7 @@
 				</head>
 <lg>
 <l><hi rend="smallcaps">A kindling</hi> impulse seized the host</l>
-<l rend="2em">Inspired by heaven&apos;s elastic air,<ref target="#BP_noteJ"><hi rend="super">j</hi></ref> 
-<note xml:id="BP_noteJ"><hi rend="smallcaps">Note j</hi>, <hi rend="italic">page</hi> 90.
-<p>Although the month was November, the day was in character an October one—cool, clear, bright, intoxicatingly invigorating; one of those days peculiar to the ripest hourw of our American autumn. This weather must have had much to do with the spontaneous enthusiasm which seized the troops—an enthusiasm aided, doubtless, by glad thoughts of the victory of Look-out Mountain won the day previous, and also by the elation attending the capture, after a fierce struggle, of the long ranges of rifle-pits at the mountain's base, where orders for the time should have stopped the advance. But there and then it was that the army took the bit between its teeth, and ran away with the generals to the victory commemorated. General Grant, at Culpepper, a few weeks prior to crossing the Rapidan for the Wilderness, expressed to a visitor his impression of the impulse and the spectacle: Said he, "I never saw any thing like it:" language which seems curiously undertoned, considering its application; but from the taciturn Commander it was equivalent to a superlative or hyperbole from the talkative.
-</p><p>The height of the Ridge, according to the account at hand, varies along its length from six to seven hundred feet above the plain; it slopes at an angle of about forty-five degrees.</p>
-</note></l>
+<l rend="2em">Inspired by heaven&apos;s elastic air,<hi rend="super">j</hi></l>
 <l>Their hearts outran their General&apos;s plan,</l>
 <l rend="2em">Though <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> commanded there—</l>
 <l n="5" rend="2em">Grant, who without reserve can dare;</l>
@@ -109,6 +105,14 @@ The summit-cannon plunge their flame</l>
 <l>Life was to these a dream fulfilled,</l>
 <l rend="2em"><ref target="#ref_21285">And death a starry night.</ref><note xml:id="ref_21285">Both Garner (1993: 284) and Cohen (Battle-Pieces, 244) suggest that the last stanza of “Chattanooga” was adapted from the “Inscription For the Dead at Fredericksburgh” (NN Published Poems, 646). (Christina Lee)</note></l>
 </lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/>
+<p xml:id="BP_noteJ"><hi rend="smallcaps">Note j</hi>, <hi rend="italic">page</hi> 90.
+<p>Although the month was November, the day was in character an October one—cool, clear, bright, intoxicatingly invigorating; one of those days peculiar to the ripest hourw of our American autumn. This weather must have had much to do with the spontaneous enthusiasm which seized the troops—an enthusiasm aided, doubtless, by glad thoughts of the victory of Look-out Mountain won the day previous, and also by the elation attending the capture, after a fierce struggle, of the long ranges of rifle-pits at the mountain's base, where orders for the time should have stopped the advance. But there and then it was that the army took the bit between its teeth, and ran away with the generals to the victory commemorated. General Grant, at Culpepper, a few weeks prior to crossing the Rapidan for the Wilderness, expressed to a visitor his impression of the impulse and the spectacle: Said he, "I never saw any thing like it:" language which seems curiously undertoned, considering its application; but from the taciturn Commander it was equivalent to a superlative or hyperbole from the talkative.
+</p><p>The height of the Ridge, according to the account at hand, varies along its length from six to seven hundred feet above the plain; it slopes at an angle of about forty-five degrees.</p>
+</p>
+</div>
+
 </div></body>
 		</text>
 	</TEI>
