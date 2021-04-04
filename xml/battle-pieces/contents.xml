@@ -18,19 +18,19 @@
   </teiHeader>
   <text>
       <body>
-
+<div>
 
 
 					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0017.jpg"/>
 					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0018.jpg"/>
           <head><ref target="#EDnoteContentsRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
-<note xml:id="EDnoteContentsRN1">The table of contents for the reading text of MEL's edition of <hi rend="italic">Battle-Pieces</hi> is not an exact simulation of the first edition: it assigns numbers to each of the 72 poems, provides shortened titles in some cases, and lacks original page numbers. The original Contents pages, transcribed here, varies in several instances from the titles appearing at the heads of poems.
- In addition, Melville put check marks next to three poems—"The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay"—next to these titles in the table of contents of his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A). The three checked poems do not show evidence of revisions.
+<note xml:id="EDnoteContentsRN1">The original Contents pages for <hi rend="italic">Battle-Pieces</hi>, transcribed here, varies (in minor instances of punctuation and capitalization) from the titles appearing at the heads of certain poems.  In addition, Melville put check marks next to the titles of three poems—"The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay"—in the table of contents of his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A). The three checked poems do not show evidence of revisions. As a set of links to the poems themselves, MEL's Reading Text table of contents for <hi rend="italic">Battle-Pieces</hi> is not an exact simulation of the first edition Contents page in that we assign numbers to each of the 72 poems, provide shortened titles in some cases, and remove the original page numbers.
 </note>
 </head>
+
 <lg>
-	<l><ref target="#EDnoteContentsRN2">[The Portent]</ref></l><note xml:id="EDnoteContentsRN2">REVISION NARRATIVE: "The Portent" does not appear in the <hi rend="italic">Battle-Pieces</hi> table of contents. One theory is that, given that the poem appears entirely in italic on the recto of the first page with a blank verso (unlike all other poems in the volume), Melville may have seen "The Portent" as a kind of prelude. The fact that the poem's prophetic content and focus on the pre-war events involving John Brown supports this view but does not explain why it is not listed. A more likely possibility is that Melville added "THe Portent" to his collection after the table of Contents had been set in type.
-	</note>
+	<l><ref target="#EDnoteContentsRN2">[The Portent]</ref><note xml:id="EDnoteContentsRN2">REVISION NARRATIVE: "The Portent" does not appear in the original <hi rend="italic">Battle-Pieces</hi> table of contents. One theory is that, since the poem (unlike all other "battle-pieces") appears entirely in italic on the recto of the first page of poetry with a blank verso, Melville may have seen "The Portent" as a kind of prelude to the volume. The fact that the poem's prophetic content and focus on the pre-war events involving John Brown supports this view but does not explain why it is not listed. A more likely possibility is that Melville added "THe Portent" to his collection after the table of Contents had been set in type.
+</note></l>
 <l>Misgivings [13]</l>
 <l>The Conflict of Convictions [14]</l>
 <l>Apathy and Enthusiasm [19]</l>
@@ -52,7 +52,7 @@
 </l>Running the Batteries [75] [HM Check]</l>
 </lg>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0016.jpg"/>
-
+</div>
 
 <!--
 					<list type="contents">
