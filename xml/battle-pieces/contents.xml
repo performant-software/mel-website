@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -68,7 +65,7 @@
 	<l>The Eagle of the Blue [122]</l>
 	<l>A Dirge for McPherson [124]</l>
 	<l>At the Cannon's Mouth [126]</l>
-	<l>The March to the Sea< [128]</l>
+	<l>The March to the Sea [128]</l>
 	<l>The Frenzy in the Wake [133]</l>
 	<l>The Fall of Richmond [135]</l>
 	<l>The Surrender at Appomattox [137]</l>
@@ -123,6 +120,8 @@
 </TEI>
 
 <!--
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 					<list type="contents">
              <item>The Portent</item>
           <item>Misgivings</item>
