@@ -27,6 +27,7 @@
 <lg>
 	<l><ref target="#EDnoteContentsRN2">[The Portent]</ref><note xml:id="EDnoteContentsRN2">REVISION NARRATIVE: "The Portent" does not appear in the original <hi rend="italic">Battle-Pieces</hi> table of contents. One theory is that, since the poem (unlike all other "battle-pieces") appears entirely in italic on the recto of the first page of poetry with a blank verso, Melville may have seen "The Portent" as a kind of prelude to the volume. The fact that the poem's prophetic content and focus on the pre-war events involving John Brown supports this view but does not explain why it is not listed. A more likely possibility is that Melville added "The Portent" to his collection after the table of Contents had been set in type.
 </note></l>
+<hi rend="italic">
 <l>Misgivings [13]</l>
 <l>The Conflict of Convictions [14]</l>
 <l>Apathy and Enthusiasm [19]</l>
@@ -41,38 +42,41 @@
 <l>The Temeraire [58]</l>
 <l>A utilitarian View of the Monitor's Fight [61]</l>
 <l>Shiloh [63]</l>
-<l>The Battle for the Mississippi [64] [HM Check]</l>
+<l>The Battle for the Mississippi <ref target="#EDnoteContentsRN3">[64]</ref><note xml:id="EDnoteContentsRN3">Melville placed a check mark next to this page number.</note></l>
 <l>Malvern Hill [67]</l>
 <l>The Victor of Antietam [69]</l>
 <l>Battle of Stone River [73]</l>
-<l>Running the Batteries [75] [HM Check]</l>
+<l>Running the Batteries <ref target="#EDnoteContentsRN4">[75]</ref><note xml:id="EDnoteContentsRN4">Melville placed a check mark next to this page number.</note></l>
+</hi>
 </lg>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0016.jpg"/>
 <lg>
-	<l>Stonewall Jackson</l>
-	<l>Stonewall Jackson. Ascribed to a Virginian</l>
-	<l>Gettysburg</l>
-	<l>The House-Top</l>
-	<l>Look-out Mountain</l>
-	<l>Chattanooga</l>
-	<l>The Armies of the Wilderness</l>
-	<l>On the Photograph of a Corps Commander</l>
-	<l>The Swamp Angel</l>
-	<l>The Battle for the Bay</l>
-	<l>Sheridan at Cedar Creek</l>
-	<l>In the Prison Pen</l>
-	<l>The College Colonel</l>
-	<l>The Eagle of the Blue</l>
-	<l>A Dirge for McPherson</l>
-	<l>At the Cannon's Mouth</l>
-	<l>The March to the Sea</l>
-	<l>The Frenzy in the Wake</l>
-	<l>The Fall of Richmond</l>
-	<l>The Surrender at Appomattox</l>
-	<l>A Canticle</l>
-	<l>The Martyr</l>
-	<l>"The Coming Storm"</l>
-	<l>Rebel Color-bearers at Shiloh</l>
+<hi rend="italic">
+	<l>Stonewall Jackson [79]</l>
+	<l>Stonewall Jackson (ascribed to a Virginian) [81]</l>
+	<l>Gettysburg [84]</l>
+	<l>The House-Top [86]</l>
+	<l>Look-out Mountain [88]</l>
+	<l>Chattanooga [90]</l>
+	<l>The Armies of the Wilderness [93]</l>
+	<l>On the Photograph of a Corps Commander [105]</l>
+	<l>The Swamp Angel [107]</l>
+	<l>The Battle for the Bay <ref target="#EDnoteContentsRN5">[110]</ref><note xml:id="EDnoteContentsRN5">Melville placed a check mark next to this page number.</note></l>
+	<l>Sheridan at Cedar Creek [116]</l>
+	<l>In the Prison Pen [118]</l>
+	<l>The College Colonel [120]</l>
+	<l>The Eagle of the Blue [122]</l>
+	<l>A Dirge for McPherson [124]</l>
+	<l>At the Cannon's Mouth [126]</l>
+	<l>The March to the Sea< [128]</l>
+	<l>The Frenzy in the Wake [133]</l>
+	<l>The Fall of Richmond [135]</l>
+	<l>The Surrender at Appomattox [137]</l>
+	<l>A Canticle [138]</l>
+	<l>The Martyr [141]</l>
+	<l>"The Coming Storm" [143]</l>
+	<l>Rebel Color-bearers at Shiloh [144]</l>
+</hi>
 </lg>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0017.jpg"/>
 <lg>
