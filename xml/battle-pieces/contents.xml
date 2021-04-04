@@ -18,12 +18,10 @@
   </teiHeader>
   <text>
       <body>
-<div>
-
-
-					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0017.jpg"/>
-					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0018.jpg"/>
-          <head><ref target="#EDnoteContentsRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
+<div xml:id="contents">
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0017.jpg"/>
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0018.jpg"/>
+<head><ref target="#EDnoteContentsRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
 <note xml:id="EDnoteContentsRN1">The original Contents pages for <hi rend="italic">Battle-Pieces</hi>, transcribed here, varies (in minor instances of punctuation and capitalization) from the titles appearing at the heads of certain poems.  In addition, Melville put check marks next to the titles of three poems—"The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay"—in the table of contents of his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A). The three checked poems do not show evidence of revisions. As a set of links to the poems themselves, MEL's Reading Text table of contents for <hi rend="italic">Battle-Pieces</hi> is not an exact simulation of the first edition Contents page in that we assign numbers to each of the 72 poems, provide shortened titles in some cases, and remove the original page numbers.
 </note>
 </head>
@@ -49,10 +47,13 @@
 <l>Malvern Hill [67]</l>
 <l>The Victor of Antietam [69]</l>
 <l>Battle of Stone River [73]</l>
-</l>Running the Batteries [75] [HM Check]</l>
+<l>Running the Batteries [75] [HM Check]</l>
 </lg>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0016.jpg"/>
 </div>
+</body>
+</text>
+</TEI>
 
 <!--
 					<list type="contents">
@@ -131,7 +132,3 @@
           <item>Supplement</item>
           </list>
 -->
-
-      </body>
-  </text>
-</TEI>
