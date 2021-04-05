@@ -17,7 +17,7 @@
       <body>
 <div xml:id="contents">
 <head><ref target="#EDnoteContentsRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
-<note xml:id="EDnoteContentsRN1">The original Contents pages for <hi rend="italic">Battle-Pieces</hi>, transcribed here, varies (in minor instances of punctuation and capitalization) from the titles appearing at the heads of certain poems.  In addition, Melville put check marks next to the titles of three poems—"The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay"—in the table of contents of his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A). The three checked poems do not show evidence of revisions. As a set of links to the poems themselves, MEL's Reading Text table of contents for <hi rend="italic">Battle-Pieces</hi> is not an exact simulation of the first edition Contents page in that we assign numbers to each of the 72 poems, provide shortened titles in some cases, and remove the original page numbers.
+<note xml:id="EDnoteContentsRN1">The original Contents pages for <hi rend="italic">Battle-Pieces</hi>, transcribed here, varies (in only minor instances of punctuation, capitalization, and the dropping of the word "Tennessee" in poem 9) from the titles appearing at the heads of eight poems. In revising his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A), probably after his revisions in his copy of bound sheets (Copy C), Melville put check marks next to three poems in the table of contents: "The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay."" The three checked poems themselves do not show evidence of revisions. For the table of contents in their edition of <hi rend="italic">Battle-Pieces</hi>, the NN editors emended the Contents titles to match those at the heads of poems. However, MEL transcribes the Contents titles as they appear in the original. Because MEL's digital table of contents is a set of links to the poems themselves, MEL's list of contents is not an exact simulation of the first edition Contents page: MEL assigns numbers to each of the 72 poems, provides shortened titles in some cases, and removes the original page numbers. MEL's treatment of Melville's "Notes" section is also different. Originally, Melville's annotations from endnotes were grouped together in a "Notes" section appearing just before his "Supplement." Instead of converting these discursive, often lengthy notes to "pop-ups" where they occur in their corresponding poems, we have converted them to footnotes appearing individually at the end of each relevant poem. Therefore, MEL's interctive Table of Contents does not include a link to a reproduction of the "Notes" section as a whole, although a page image of each note appears next to each note transcription.
 </note>
 </head>
 
@@ -112,18 +112,24 @@
 <hi rend="italic">
 	<l>An uninscribed Monument on one of the</l>
   <l rend="2em"> Battle-fields of the Wilderness [173]</l>
-	<l>On Sherman's Men [174]</l>
-	<l>On the Grave [175]</l>
-	<l>A Requiem [176]</l>
-	<l>On a natural Monument [178]</l>
+	<l>On Sherman's Men who fell in the Assault</l>
+		<l rend="2em">of Kenesaw Mountain, Georgia [174]</l>
+	<l>On the Grave of a young Cavalry Officer</l>
+	<l rend="2em">killed in the Valley of Virginia [175]</l>
+	<l>A Requiem for Soldiers lost in Ocean</l>
+	<l rend="2em">Transports [176]</l>
+	<l>On a natural Monument in a Field of</l>
+	<l rend="2em">Georgia [178]</l>
 	<l>Commemorative of a Naval Victory [180]</l>
-	<l>Presentation to the Authorities [182]</l>
-	<l>The Returned Volunteer to his Rifle [183]</l>
-	<l>The Scout toward Aldie [187]</l>
+	<l>Presentation to the Authorities by Privates</l>
+	<l rend="2em">of Colors captured in Battles ending in</l>
+	<l rend="2em">the Surrender of Lee [182]</l>
+	<l>The returned Volunteer to his Rifle [183]</l>
+	<l><hi rend="smallcaps">The Scout toward Aldie [187]</hi></l>
 	<l>Lee in the Capitol [217]</l>
 	<l>A Meditation [239]</l>
-	<l>Notes [245]</l>
-	<l>Supplement [259]</l>
+	<l><ref target="#EDnoteContentsRN6"><hi rend="smallcaps">Notes</hi></ref><note xml:id="EDnoteContentsRN6">Originally, Melville's annotations to his poems appeared as a group at the end of the volume. As explained above, MEL's transcriptions of Melville's 24 endnotes appear individually as footnotes in each relevant poem.</note> [245]</l>
+	<l><hi rend="smallcaps">Supplement</hi> [259]</l>
 </hi>
 </lg>
 </div>
