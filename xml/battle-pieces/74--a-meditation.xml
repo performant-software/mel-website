@@ -92,7 +92,7 @@
 <lg>
 <l>Mark the great Captains on both sides,</l>
 <l rend="2em">The soldiers with the broad renown—</l>
-<l>They all were <name ref="https://mel-catalog.herokuapp.com/api/entries/place:497" type="event">messmates on the Hudson&apos;s marge</name>,</l>
+<l>They all were <ref target="#ref_#EDnoteMeditation1">messmates on the Hudson&apos;s marge</ref><note xml:id="EDnoteMeditation1">Army generals leading both Union and Confederate forces were trained at the US Military Academy at West Point, NY, which overlooks the Hudson</note>,</l>
 <l rend="2em">Beneath one roof they laid them down;</l>
 <l>And, free from hate in many an after pass,</l>
 <l>Strove as in school-boy rivalry of the class.</l></lg>
@@ -110,7 +110,7 @@
 <l rend="2em">Mine be the manful soldier-view;</l>
 <l>By how much more they boldly warred,</l>
 <l rend="2em">By so much more is mercy due:</l>
-<l>When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg fell</name>, and the moody files marched out,</l>
+<l>When <name ref="https://mel-catalog.herokuapp.com/api/entries/event:30" type="event">Vicksburg</name> fell, and the moody files marched out,</l>
 <l n="60">Silent the victors stood, scorning to raise a shout.</l></lg>
 
 </div></body>
