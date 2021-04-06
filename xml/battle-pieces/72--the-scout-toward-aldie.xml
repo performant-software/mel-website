@@ -33,15 +33,13 @@
 <head><hi rend="italic">THE SCOUT TOWARD ALDIE.</hi></head>
 <lb/>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0195.jpg"/>
-<head type="main"><hi rend="italic">The Scout toward Aldie.</hi></head>
+<head type="main"><ref target="#ref_21113"><hi rend="italic">The Scout toward Aldie.</hi></ref><note xml:id="ref_21113">Melville’s long ballad relating the death of a newly married Union officer on a scouting expedition toward the town of Aldie, Virginia is based on the poet’s experience in enemy territory. On April 18-20, 1864, Melville visited the encampment of his cousin Colonel Henry Sanford Gansevoort, who arranged for Melville to accompany cavalryman Major William H. Forbes and infantryman Colonel Arthur H. Grimshaw leading 500 men on a mission to curtail the guerrilla activities of the cunning, near-mythic Confederate John Mosby. At this time, Melville also met Josephine Shaw Lowell, wife of Colonel Charles Russell Lowell (nephew of poet James Russell Lowell), who was later killed in action (at the Battle of Cedar Creek): The husband and wife are likely prototypes for the tragic couple in Melville’s ballad. (Stanton Garner, “Melville’s Scout toward Aldie,” Melville Society Extracts 51 and 52 (Sept and Nov 1982): 5-14 and 1-14.)
+</note>
+</head>
 
 <lg>
-<l><hi rend="smallcaps">The</hi> <ref target="#ref_21113">cavalry-camp</ref> lies on the slope
-<note xml:id="ref_21113">Stanton Garner notes that the real-life scout toward Aldie was composed of a rather large number of men: "[General] Tyler [sent] out a large scout of five hundred cavalry and infantry led by two brigade commanders" (1982 Melville Society piece, 14).  The group of infantry, Garner notes, was led by Colonel Arthur H. Grimshaw while Colonel Charles Russell Lowell was in charge of the group of cavalry.  [biography] [event] (Karah Mitchell)
-</note></l>
-<l rend="2em">Of what was late <ref target="#ref_21114">a vernal hill,</ref>
-<note xml:id="ref_21114">Stanton Garner notes that when Melville and his brother arrived in camp, "The once-lush hillside had been trampled bare of its grass carpet by the troopers and their horses, and many of the trees in the vicinity had been requisitioned the previous winter to provide wood for the troopers' fires" (10).  [biography] (Karah Mitchell)
-</note></l>
+<l><hi rend="smallcaps">The</hi> cavalry-camp lies on the slope</l>
+<l rend="2em">Of what was late a vernal hill,</l>
 <l>But now like a pavement bare—</l>
 <l>An outpost in the perilous wilds</l>
 <l rend="2em">Which ever are lone and still;</l>
