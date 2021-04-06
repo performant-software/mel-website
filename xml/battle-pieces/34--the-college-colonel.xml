@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>34 - The College Colonel</title>
-			
-			
-					
+			<title>33 - The College Colonel</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,47 +15,65 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="34--the-college-colonel"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000647026-vuvbg9k588vyrpb9-927fded6008b3555209b41cf0a88f158%2F130.jpg"/><ref target="#ref_19205"><ref target="#ref_19211">The College Colonel</ref><note xml:id="ref_19211">This poem was included in Edmund Clarence Stedman's An American Anthology, 1787-1900, Boston and New York: Houghton, Mifflin, 1900, 235.</note></ref><note xml:id="ref_19205">https://en.wikipedia.org/wiki/William_Francis_Bartlett</note>
+			<body><div id="34--the-college-colonel">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">He rides at their head;
-  A crutch by his saddle just slants in view,
-One slung arm is in splints, you see,
-  Yet he guides his strong steed—how coldly too.
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0128.jpg"/>
+				<head type="main">
+				<hi rend="italic">The College Colonel.</hi>
+				</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><ref target="#ref_19193">He brings his regiment home</ref><note xml:id="ref_19193">Bartlett and the soldiers of the Massachusetts 49th paraded in Pittsfield, Massachusetts on April 22, 1863 (Garner 266-269)</note>—
-  Not as they filed <ref target="#ref_19197">two years</ref><note xml:id="ref_19197">Stanton Garner notes how Melville fictionalized the Pittsfield parade of Bartlett and his soldiers by placing it later in time. The parade was a little over nine months before and not two years. (Garner 269)</note> before,
-But a remnant <ref target="#ref_19201">half-tattered</ref><note xml:id="ref_19201">"To have marched into Pittsfield in all our dirt and rags would have have been an affectation of heroism."  Henry T. Johns, Life with the Forty-ninth Massachusetts Volunteers [Rev. ed.] Washington, D.C.: Ramsey and Bisbee, 1890, 403  (Garner 269)</note>, and battered, and worn,
-Like castaway sailors, who—stunned
-    By the surf&apos;s loud roar,
-  Their mates dragged back and seen no more—
-Again and again breast the surge,
-  And at last crawl, spent, to shore.
+<lg>
+<l><hi rend="smallcaps">He</hi> rides at their head;</l>
+<l rend="2em">A crutch by his saddle just slants in view,</l>
+<l>One slung arm is in splints, you see,</l>
+<l rend="2em">Yet he guides his strong steed—how coldly too.</l>
+</lg>
+<lg>
+<l n="5">He brings his regiment home—</l>
+<l rend="2em">Not as they filed <ref target="#ref_19197">two years</ref><note xml:id="ref_19197">Bartlett and the soldiers of the Massachusetts 49th paraded in Pittsfield, Massachusetts on April 22, 1863. Stanton Garner notes how Melville fictionalized the Pittsfield parade of Bartlett and his soldiers by placing it later in time. The parade was a little over nine months before and not two years (Garner 266-269).</note> before,</l>
+<l>But a remnant half-tattered, and battered, and worn,</l>
+<l>Like castaway sailors, who—stunned</l>
+<l rend="4em">By the surf&apos;s loud roar,</l>
+<l n="10" rend="2em">Their mates dragged back and seen no more—</l>
+<l>Again and again breast the surge,</l>
+<l rend="2em">And at last crawl, spent, to shore.</l>
+</lg>
+<lg>
+<l>A still rigidity and pale—</l>
+<l rend="2em">An Indian aloofness lones his brow;</l>
+<l n="15">He has lived a thousand years</l>
+<l>Compressed in battle&apos;s pains and prayers,</l>
+<l rend="2em">Marches and watches slow.</l>
+</lg>
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0129.jpg"/>
+There are <ref target="#ref_19203">welcoming shouts, and flags</ref><note xml:id="ref_19203">"The residence of J. R. Morewood, Esq., was handsomely illuminated, and there was a fine display of fireworks on his grounds, on Saturday evening, in honor of the return of the 49th, and the Colonel of the Regiment."  The Melvilles decorated their home Arrowhead with "Flags and festoons." Pittsfield Sun (August 27, 1863) (Leyda, Log, 662; Cohen 253-4)</note>;</l>
+<l rend="2em">Old men off hat to the Boy,</l>
+<l n="20">Wreaths from gay balconies fall at his feet,</l>
+<l rend="2em">But to <hi rend="italic">him</hi>—there comes alloy.</l>
+</lg>
+<lg>
+<l>It is not that a leg is lost,</l>
+<l rend="2em">It is not that an arm is maimed.</l>
+<l>It is not that the fever has racked—</l>
+<l n="25" rend="2em">Self he has long disclaimed.</l>
+</lg>
+<lg>
+<l>But all through the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">Seven Days&apos; Fight</name>,</l>
+<l rend="2em">And deep in the Wilderness grim,</l>
+<l>And in the field-hospital tent,</l>
+<l rend="2em">And <ref target="#ref_19190"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:13" type="place">Petersburg</name> crater</ref><note xml:id="ref_19190">See "The Apparition."</note>, and dim</l>
+<l n="30">Lean brooding in <ref target="#ref_19192">Libby</ref><note xml:id="ref_19192">Libby Prison, a warehouse in Richmond, Virginia, held captured Union officers.
+https://en.wikipedia.org/wiki/Libby_Prison</note>, there came—</l>
+<l rend="2em">Ah heaven!—what <hi rend="italic">truth</hi> to him.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">A still rigidity and pale—
-  An Indian aloofness lones his brow;
-He has lived a thousand years
-Compressed in battle&apos;s pains and prayers,
-  Marches and watches slow.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000651014-7sd6vdyyplhrrudi-927fded6008b3555209b41cf0a88f158%2F131.jpg"/>There are <ref target="#ref_19203">welcoming shouts, and flags</ref><note xml:id="ref_19203">"The residence of J. R. Morewood, Esq., was handsomely illuminated, and there was a fine display of fireworks on his grounds, on Saturday evening, in honor of the return of the 49th, and the Colonel of the Regiment."  The Melville's decorated their home Arrowhead with "Flags and festoons." Pittsfield Sun (August 27, 1863) (Leyda, Log, 662; Cohen 253-4)</note>;
-  Old men off hat to the Boy,
-Wreaths from gay balconies fall at his feet,
-  But to him—there comes alloy.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">It is not that a leg is lost,
-  It is not that an arm is maimed.
-It is not that the fever has racked—
-  Self he has long disclaimed.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">But all through the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">Seven Day&apos;s Fight</name>,
-  And deep in the wilderness grim,
-And in the field-hospital tent,
-  And <ref target="#ref_19190"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:13" type="place">Petersburg</name> crater</ref><note xml:id="ref_19190">See "The Apparition."</note>, and dim
-Lean brooding in <ref target="#ref_19192">Libby</ref><note xml:id="ref_19192">Libby Prison in Richmond, Virginia, a warehouse where captured Union officers were held.
-https://en.wikipedia.org/wiki/Libby_Prison</note>, there came—
-  Ah heaven!—what <hi rend="italic"><ref target="#ref_19208">truth</ref><note xml:id="ref_19208">what meaning is added to the "truth" through Melville's italicization? [style]</note></hi> to him.
-</p></div></body>
+</div></body>
 		</text>
 	</TEI>
+<!--
+<ref target="#ref_19205"><ref target="#ref_19211"></ref><note xml:id="ref_19211">This poem was included in Edmund Clarence Stedman's An American Anthology, 1787-1900, Boston and New York: Houghton, Mifflin, 1900, 235.</note></ref><note xml:id="ref_19205">https://en.wikipedia.org/wiki/William_Francis_Bartlett</note>
+<ref target="#ref_19201">half-tattered</ref><note xml:id="ref_19201">"To have marched into Pittsfield in all our dirt and rags would have have been an affectation of heroism."  Henry T. Johns, Life with the Forty-ninth Massachusetts Volunteers [Rev. ed.] Washington, D.C.: Ramsey and Bisbee, 1890, 403  (Garner 269)</note>
+-->

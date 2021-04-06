@@ -3,13 +3,12 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>09 - Dupont's Round Fight</title>
-			
-			
-					
+			<title>8 - Dupont's Round Fight</title>
+				<author>Herman Melville</author>
+			<editor>Tim Marr</editor>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,27 +17,28 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="09--duponts-round-fight"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437780373967-5vwwe28la7adobt9-a3250b9de5a1a998d613d160641427f2%2F40.jpg"/>                   <hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:25" type="event"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:182" type="person">Dupont</name>&apos;s Round Fight</name>.</hi> 
-                     (November, 1861.)
-                  __________________
+			<body><div xml:id="duponts-round-fight"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0038.jpg"/>
+				<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:182" type="person">Dupont</name>&apos;s <ref target="#ref_20700"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:25" type="event">Round Fight</name></ref><note xml:id="ref_20700">As part of the Union blockade of southern ports, Samuel Francis Du Pont seized Port Royal Sound, protected by forts on opposing sides of an inlet. His gunboats followed an elliptical course within the inlet, repeatedly battering one fort going in and the other coming out.
+				A drawing from the <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/artwork:988"><hi rend="italic">Rebellion Record</hi></ref> illustrates the strategy. (See also Cohen 217, Shurr 15)</note>.</hi></head>
+				<lb/><head type="sub-head">(<hi rend="smallcaps">November</hi>, 1861.)</head><lb/>
+<lg><l><hi rend="smallcaps">In</hi> time and measure perfect moves</l>
+<l rend="2em">All Art whose aim is sure;</l>
+<l>Evolving rhyme and stars divine</l>
+<l rend="2em">Have rules, and they endure.</l></lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">In time and measure perfect moves
-    All Art whose aim is sure;
-Evolving rhyme and stars divine
-    Have rules, and they endure.
-                                                                                     
-Nor less the Fleet that warred for Right,
-    And, warring so, prevailed,
-<ref target="#ref_20700">In geometric beauty curved,
-    And in an orbit sailed</ref><note xml:id="ref_20700">[Criticism: Canonical] Cohen cites the following photograph from the  <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/artwork:988"><i>Rebellion Record</i></ref>  as a likely source for Melville's poem (217). 
-"The plan of attack was simple and effective, being for the ships to steam in a circle, or ellipse, running close to one shore as they came down(italicize) teh rive, drifting or steaming as slowly as possible past the batteries there, and paying their fiery respects, then making the turn to go back, and as the when up(italics) the river, favoring the other batteries with a similar compliment."  Rebellion Record, from Day's dissertation, Cohen 217, Shurr 15) [Source]</note>.
-                                                                                        
-<ref target="#ref_20702">The rebel at <ref target="#ref_20962"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:481" type="place">Port Royal</name></ref><note xml:id="ref_20962">"'Broad River' and 'Fort Walker' were equally available metrically, and geographically as precise. But only 'Port Royal' starts the series of associations linked with Blaise Pascal, whose genius encompassed both mathematics and the science of ethics, who mastered the elements of Euclid's geometry by himself as a child and whose life was so closely connected with the moral precisions of the Jansenists at Port-Royal." Shurr, 15 [allusion, historical] {Tim Marr)</note> felt
-    The <ref target="#ref_20961">Unity</ref><note xml:id="ref_20961">The poem's meter is in iambic with fourteen syllables per line. The word "Unity," with its extra syllable is the only variation.</note> overawe,</ref><note xml:id="ref_20702">[Ambiguity][Criticism: Canonical] Melville's theme of perfection extends itself beyond the mathematical; it is cosmological, a moment where the wishes of man and Providence of God are in perfect unison. As Stanton Garner writes, "The ships at Port Royal 'in an orbit sailed' as they fought for the right, the unity, and the law of the covenant of America with God" (124). </note>
-And rued the spell. A type was here,
-    And victory of Law.
-</p></div></body>
+<lg><l n="5">Nor less the Fleet that warred for Right,</l>
+<l rend="2em">And, warring so, prevailed,</l>
+	<l>In geometric beauty curved,</l>
+<l rend="2em">And in an orbit sailed.</l></lg>
+
+<lg>
+	<l n="10"><ref target="#ref_20702">The rebel at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:481" type="place">Port Royal</name></ref><note xml:id="ref_20702">Here, "The rebel" might also refer to 17th-century logician and mathematician Blaise Pascal, who was associated with the Jansenist movement centered at Port-Royal, France (Shurr, 15).</note> felt</l>
+	<l rend="2em">The Unity overawe,</l>
+<l>And rued the spell. A type was here,</l>
+<l rend="2em">And victory of <hi rend="smallcaps">Law</hi>.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>

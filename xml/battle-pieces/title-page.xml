@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title page</title>
+         </titleStmt>
+         <publicationStmt>
+
+            <publisher/>
+            <pubPlace/>
+            <date/>
+            <authority/>
+            <availability><p/></availability>
+         </publicationStmt>
+         <sourceDesc><p/></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="title">
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0009.jpg"/>
+        <head type="main" rend="center">BATTLE-PIECES <lb/><lb/><lb/>
+            <hi rend="smallcaps">and</hi> <lb/><lb/><lb/>
+          ASPECTS <hi rend="smallcaps">of</hi> THE WAR.</head>
+        <lb/><lb/><lb/>
+            <head type="sub-head" rend="center">
+              <hi rend="smallcaps">by</hi> <lb/><lb/>
+              HERMAN MELVILLE.</head><lb/><lb/><lb/><lb/><lb/><lb/>
+            <p rend="center"><hi rend="smallcaps">n e w&#xA0;&#xA0;y o r k:</hi><lb/>
+            <hi rend="smallcaps">harper &amp; brothers, publishers.</hi><lb/>
+               <hi rend="smallcaps">franklin square.</hi><lb/>1866.</p>
+         </div>
+      </body>
+   </text>
+</TEI>

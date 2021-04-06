@@ -3,13 +3,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>04 - The Conflict of Convictions</title>
-				
-				
-				
+				<title>3 - The Conflict of Convictions</title>
 			</titleStmt>
 			<publicationStmt>
-				
+
 				<publisher/>
 				<pubPlace/>
 				<date/>
@@ -18,135 +15,161 @@
 			</publicationStmt>
 			<sourceDesc>
 				<listWit>
-					<witness xml:id="bp1866">First American edition of <hi rend="italic">Battle-Pieces</hi>.<!-- put in Houghton call numbers <bibl></bibl>--> </witness>
-					
-					<witness xml:id="bp1866c">Melville's c copy of <hi rend="italic">Battle-Pieces</hi>, which includes post-publication revisions.</witness>
+					<witness xml:id="bp1866a">First American edition of <hi rend="italic">Battle-Pieces</hi>.<!-- put in Houghton call numbers <bibl></bibl>--> </witness>
+
+					<witness xml:id="bp1866c">Melville's c copy of <hi rend="italic">Battle-Pieces</hi>, which includes his post-publication revisions.</witness>
 				</listWit>
 			</sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 	<text>
 		<body>
-			<div type="poem" id="04--the-conflict-of-convictions"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777324904-d0lc3bmwdim2huxr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0024.jpg"/><head>The Conflict of Convictions.[a] <lb/>(1860–1)<lb/>________________</head>
+			<div type="poem" xml:id="the-conflict-of-convictions"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0022.jpg"/>
+			<head type="main"><hi rend="italic">The Conflict of Convictions</hi>.<hi rend="super">a</hi>
+			</head>
+			<head type="sub-head">(1860–1.)</head><lb/>
 				<lg>
-					<l>On starry heights</l>
+					<l><hi rend="smallcaps">On</hi> starry heights</l>
 					<l rend="2em">A bugle wails the long recall;</l>
 					<l>Derision stirs the deep abyss,</l>
 					<l rend="2em">Heaven&apos;s ominous silence over all.</l>
-					<l>Return, return, O eager Hope,</l>
+					<l n="5">Return, return, O eager Hope,</l>
 					<l rend="2em">And face man&apos;s latter fall.</l>
 					<l>Events, they make the dreamers quail;</l>
 					<l>Satan&apos;s old age is strong and hale,</l>
 					<l>A disciplined captain, gray in skill,</l>
-					<l>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
-					<l>Dashed aims, <app><lem><ref target="#ednote1">whereat</ref><note xml:id="ednote1">After publication, Melville added this revision in pencil, changing "at which" to "whereat."</note></lem> <rdg wit="#bp1866c">at which</rdg></app> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,</l>
-					<l>Shall <ref target="#ref_19267"><ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">from Late Latin mammona, from Greek mamonas, from Aramaic mamona, mamon "riches, gain"
-						[etymology]
-						https://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=mammon</note></ref><note xml:id="ref_19267">"No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon." Matthew 6:24 [reference, biblical]</note>&apos;s slaves fulfill?</l>
+					<l n="10">And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:230" type="person">Raphael</name> a white enthusiast still;</l>
+					<l>Dashed aims, <ref target="#RNnoteCC1">at which</ref><note xml:id="RNnoteCC1">REVISION NARRATIVE: In his copy of bound sheets for <hi rend="italic">Battle-Pieces</hi>, Melville deleted "at which" in pencil, inserted a caret in front of the words, and added "whereat" in the left margin. See corresponding thumbnail to view the revision site.</note> <name ref="https://mel-catalog.herokuapp.com/api/entries/person:130" type="person">Christ</name>&apos;s martyrs pale,
+					<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0024.jpg"/></l>
+					<l>Shall <ref target="#ref_19268">Mammon</ref><note xml:id="ref_19268">A loan word from Greek and Latin into Aramaic and the New Testament, meaning money or wealth. See also: "No man can serve two masters: ... Ye cannot serve God and mammon." Matthew 6:24</note>&apos;s slaves fulfill?</l>
 				</lg>
+<!--
+<app><lem><ref target="#RNnoteCC1">at which</ref><note xml:id="RNoteCC1">In his copy of bound sheets for Battle-Pieces, Melville deleted "at which" in pencil, inserted a caret in front of the words, and added "whereat" in the left margin. See corresponding thumbnail to view the revision site.</note></lem> <rdg wit="#bp1866a">at which</rdg><rdg wit="#bp1866c">whereat</rdg></app>
+-->
 				<lg>
 					<l rend="4em"><hi rend="italic">(Dismantle the fort,</hi></l>
 					<l rend="4em"><hi rend="italic">Cut down the fleet—</hi></l>
-					<l rend="4em"><hi rend="italic">Battle no more shall be!</hi></l>
+					<l n="15" rend="4em"><hi rend="italic">Battle no more shall be!</hi></l>
 					<l rend="4em"><hi rend="italic">While the fields for fight in æons to come</hi></l>
-					<l rend="4em"><hi rend="italic">Congeal beneath the sea.)</hi></l></lg>
-				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777331444-lt6i8o7r2nxhto6r-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0025.jpg"/>
+					<l rend="4em"><hi rend="italic">Congeal beneath the sea.)</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0023.jpg"/></l>
+				</lg>
+				<lb/>
 				<lg>
 					<l>The terrors of truth and dart of death</l>
 					<l rend="2em">To faith alike are vain;</l>
-					<l>Though <name ref="https://mel-catalog.herokuapp.com/api/entries/event:50" type="event">comets</name>, gone a thousand years,</l>
-					<l rend="2em">Return again,</l>
+					<l n="20">Though <name ref="https://mel-catalog.herokuapp.com/api/entries/event:50" type="event">comets</name>, gone a thousand years,</l>
+					<l rend="4em">Return again,</l>
 					<l>Patient she stands—she can no more—</l>
 					<l>And waits, nor heeds she waxes hoar.</l>
 				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(At a stony gate,</hi></l>
-					<l rend="4em"><hi rend="italic">A statue of stone,</hi></l>
+					<l n="25" rend="4em"><hi rend="italic">A statue of stone,</hi></l>
 					<l rend="4em"><hi rend="italic">Weed overgrown—</hi></l>
-					<l rend="4em"><hi rend="italic">Long &apos;twill wait.!)</hi></l>
+					<l rend="4em"><hi rend="italic">Long &apos;twill wait!)</hi></l>
 				</lg>
+				<lb/>
 				<lg>
-					<l>But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">God</name> his former mind retains,</l>
+					<l>But God his former mind retains,</l>
 					<l rend="2em">Confirms his old decree;</l>
-					<l>The generations are inured to pains,</l>
+					<l n="30">The generations are inured to pains,</l>
 					<l rend="2em">And strong Necessity</l>
 					<l>Surges, and heaps Time&apos;s strand with wrecks.</l>
 					<l rend="2em">The People spread like a weedy grass,</l>
 					<l rend="2em">The thing they will they bring to pass,</l>
-					<l>And prosper to the apoplex.</l>
+					<l n="35">And prosper to the apoplex.</l>
 					<l>The rout it herds around the heart,</l>
 					<l rend="2em">The ghost is yielded in the gloom;</l>
 					<l>Kings wag their heads—Now save thyself</l>
-					<l rend="2em">Who wouldst rebuild the world in bloom.</l></lg>
-				
-				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777337999-etrmiczwhy2xzuxr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0026.jpg"/>
+					<l rend="2em">Who wouldst rebuild the world in bloom. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0024.jpg"/></l>
+				</lg>
 				<lg>
-					<l rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
+					<l n="40" rend="4em"><hi rend="italic"> (Tide-mark</hi></l>
 					<l rend="4em"><hi rend="italic">And top of the ages&apos; strife,</hi></l>
 					<l rend="4em"><hi rend="italic">Verge where they called the world to come,</hi></l>
 					<l rend="4em"><hi rend="italic">The last advance of life—</hi></l>
-					<l rend="4em"><hi rend="italic">Ha ha, the rust on the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:918" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">Iron Dome</name></name>!)</hi></l>
+					<l rend="4em"><hi rend="italic">Ha ha, the rust on the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:918" type="artwork">Iron Dome</name>!)</hi></l>
 				</lg>
+				<lb/>
 				<lg>
-					<l>Nay, but revere the hid event;</l>
+					<l n="45">Nay, but revere the hid event;</l>
 					<l rend="2em">In the cloud a sword is girded on,</l>
 					<l>I mark a twinkling in the tent</l>
 					<l rend="2em">Of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name> the warrior one.</l>
 					<l>Senior wisdom suits not now,</l>
-					<l>The light is on the youthful brow.</l></lg>
+					<l n="50">The light is on the youthful brow.</l>
+				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ay, in caves the miner see:</hi></l>
-					<l rend="4em"><hi rend="italic">His forehead bears <app><lem wit="#bp1866c"><ref target="#ednote2">a tapor dim</ref><note xml:id="ednote2">Melville revised here to replace "a blinking light;".</note></lem><rdg wit="bp1866">a blinking light;</rdg></app></hi></l>
-					<l rend="4em"><hi rend="italic">Darkness so he feebly braves<app><lem wit="#bp1866c"> </lem><rdg wit="#bp1866">—</rdg></app></hi></l>
-					<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">which foldeth him!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!"</note></lem><rdg wit="#bp1866">A meagre wight!)</rdg></app></hi></l></lg>
+					<l rend="4em"><hi rend="italic">His forehead bears <ref target="#RNnoteCC2">a blinking light</ref>;</hi><note xml:id="RNnoteCC2">REVISION NARRATIVE: In his copy of bound sheets for <hi rend="italic">Battle-Pieces</hi>, Melville deleted "a blinking light" in pencil, inserted a caret before the deletion with a line connecting it to "a taper dim," inscribed in the right margin. See corresponding thumbnail to view this and related revision sites in this stanza. </note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0026.jpg"/></l>
+					<l rend="4em"><hi rend="italic">Darkness so he feebly braves—</hi></l>
+					<l rend="4em"><hi rend="italic"><ref target="#RNnoteCC3">A meagre wight!</ref><note xml:id="RNnoteCC3">REVISION NARRATIVE: At the same time he revised the second line of this stanza, Melville revised the fourth. He used pencil to delete the dash at the end of the third line and in one stroke deleted  "A meagre wight!"; he then inscribed "which foldeth him!" in the right margin, completing the rhyme with "a taper dim."</note></hi></l>
+				</lg>
+					<lb/>
+<!--
+<app><lem wit="#bp1866c"><ref target="#RNnoteCC2">a blinking light</ref><note xml:id="RNnoteCC2">REVISION NARRATIVE: In his copy of bound sheets for <hi rend="italic">Battle-Pieces</hi>, Melville revised here to replace "a blinking light" with "a tapor dim".</note></lem><rdg wit="bp1866a">a blinking light</rdg><rdg wit="#bp1866c">a tapor dim</rdg></app>
+<app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app></hi></l>
+app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app>
+<l rend="4em"><hi rend="italic"><app><lem wit="#bp1866c"><ref target="#ednote3">A meagre wight!</ref><note xml:id="ednote3">Melville revised here to replace "– / A meagre wight!" with "which foldeth him!"</note></lem><rdg wit="#bp1866a">A meagre wight!)</rdg><rdg wit="#bp1866c">which foldeth him!</rdg></app>
+-->
 				<lg>
-					<l>But He who rules is old—is old;</l>
+					<l n="55">But He who rules is old—is old;</l>
 					<l>Ah! faith is warm, but heaven with age is cold.</l>
 				</lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(Ho ho, ho ho,</hi></l>
 					<l rend="4em"><hi rend="italic">The cloistered doubt</hi></l>
 					<l rend="4em"><hi rend="italic">Of olden times</hi></l>
-					<l rend="4em"><hi rend="italic">Is blurted out!)</hi></l>
+					<l n="60" rend="4em"><hi rend="italic">Is blurted out!)</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0025.jpg"/></l>
 				</lg>
-				
-				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777343869-7rvd8hzacyirizfr-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0027.jpg"/>
+				<lb/>
 				<lg>
-					<l>The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person"><ref target="#ref_19276">Ancient of Days</ref><note xml:id="ref_19276">"I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire." Daniel 7:9 (Published Poems 626) [reference, biblical]</note></name> forever is young,</l>
+					<l>The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person"><ref target="#ref_19276">Ancient of Days</ref><note xml:id="ref_19276">In early Hebrew and Christian traditions, the Ancient of Days represents the eternity of God as well as the coming of the messiah. It is also associated with the Archangel St. Michael, who leads the battle against the forces of Satan, and with the biblical prophetic mode, as is evident in scripture: "I beheld till the thrones were cast down, and the Ancient of days did sit, whose garment was white as snow, and the hair of his head like the pure wool: his throne was like the fiery flame, and his wheels as burning fire" (Book of Daniel 7:9; see also NN <hi rend="italic">Published Poems</hi> 626). Melville opens his 1857 novel <hi rend="italic">The Confidence-Man</hi> with the appearance of a prophet-like man dressed in white, and would compose a poem titled "The New Ancient of Days" that was not published in his lifetime. <hi rend="italic">Battle-Pieces</hi> is also replete with references to the Archangel Michael.
+				  </note></name> forever is young,</l>
 					<l rend="2em">Forever the scheme of Nature thrives;</l>
 					<l>I know a wind in purpose strong—</l>
 					<l rend="2em">It spins against the way it drives.</l>
-					<l>What if the gulfs their slimed foundations bare?</l>
+					<l n="65">What if the gulfs their slimed foundations bare?</l>
 					<l>So deep must the stones be hurled</l>
 					<l>Whereon the throes of ages rear</l>
 					<l>The final empire and the happier world.</l></lg>
 				<lg>
 					<l rend="4em"><hi rend="italic">(The poor old Past,</hi></l>
-					<l rend="4em"><hi rend="italic">The Future&apos;s slave,</hi></l>
+					<l n="70" rend="4em"><hi rend="italic">The Future&apos;s slave,</hi></l>
 					<l rend="4em"><hi rend="italic">She drudged through pain and crime</hi></l>
 					<l rend="4em"><hi rend="italic">To bring about the blissful Prime,</hi></l>
-					<l rend="4em"><hi rend="italic">Then—perished. There&apos;s a grave!)</hi></l></lg>
+					<l rend="4em"><hi rend="italic">Then—perished. There&apos;s a grave!)</hi></l>
+				</lg>
+				<lb/>
 				<lg>
 					<l rend="2em">Power unanointed may come—</l>
-					<l>Dominion (unsought by the free)</l>
+					<l n="75">Dominion (unsought by the free)</l>
 					<l rend="2em">And the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:38" type="place">Iron Dome</name>,</l>
 					<l>Stronger for stress and strain,</l>
 					<l>Fling her huge shadow athwart the main;</l>
-					<l>But <ref target="#ref_21169">the Founders&apos;</ref><note xml:id="ref_21169">Melville is referring to the Founding Fathers of the United States who led the American Revolution against the British. (Eric Meckley)</note> dream shall flee.</l>
-					<l>Age after age shall be</l>
+					<l>But the Founders&apos; dream shall flee.</l>
+					<l n="80">Age after age shall be</l>
 					<l>As age after age has been,</l>
-					<l>(From man&apos;s changeless heart their way they win);</l><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437777354971-cs2wnwwqprrg4x6r-726b6aaa6750ca33f8e316b09c218062%2Fmodbm_ac85_m4977_866b_c_0028.jpg"/>
+					<l>(From man&apos;s changeless heart their way they win); <pb facs="/images/battle-pieces-v1/battle-pieces-i-0026.jpg"/></l>
 					<l>And death be busy with all who strive—</l>
 					<l>Death, with silent negative.</l>
 				</lg>
 				<lg>
-					<l rend="2em"><hi rend="smallcaps">Yea and Nay—</hi></l>
-					<l rend="2em"><hi rend="smallcaps">Each hath his say;</hi></l>
-					<l rend="2em"><hi rend="smallcaps">But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">God</name> He keeps the middle way.</hi></l>
-					<l rend="2em"><hi rend="smallcaps">None was by</hi></l>
-					<l rend="2em"><hi rend="smallcaps">When he spread the sky;</hi></l>
-					<l rend="2em"><hi rend="smallcaps">Wisdom is vain, and prophesy.</hi></l>
+					<l n="85" rend="4em"><hi rend="smallcaps">Yea and Nay—</hi></l>
+					<l rend="4em"><hi rend="smallcaps">Each hath his say;</hi></l>
+					<l rend="4em"><hi rend="smallcaps">But God He keeps the middle way.</hi></l>
+					<l rend="4em"><hi rend="smallcaps">None was by</hi></l>
+					<l rend="4em"><hi rend="smallcaps">When he spread the sky;</hi></l>
+					<l n="90" rend="4em"><hi rend="smallcaps">Wisdom is vain, and prophesy.</hi></l>
 				</lg>
+
+				<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
+
+				<p xml:id="BP_noteA">[Melville's] <hi rend="smallcaps">Note a</hi>, <hi rend="italic">page</hi> 14.
+				<p>The gloomy lull of the early part of the winter of 1860-1, seeming big with final disaster to our institutions, affected some minds that believed them to constitute one of the great hopes of mankind, much as the eclipse which came over the promise of the first French Revolution affected kindred natures, throwing them for the time into doubts and misgivings universal.</p></p>
+
+				</div>
+
 			</div></body>
 	</text>
 </TEI>

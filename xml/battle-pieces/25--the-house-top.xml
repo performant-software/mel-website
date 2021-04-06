@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>25 - The House-Top</title>
-			
-			
-					
+			<title>24 - The House-Top</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,48 +15,56 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="25--the-house-top"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437998951724-uhgs89j5iea02j4i-72807660b141ebbd831013e0b7767599%2F96.jpg"/><ref target="#ref_21008">The House-Top</ref><note xml:id="ref_21008">Refers to the New York Draft Riots on 11 July, 1863. [Allusion, Historical] </note>. 
+			<body><div id="25--the-house-top">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">A Night Piece. 
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0094.jpg"/>
+				<head type="main">
+				<hi rend="italic"><ref target="#ref_21008">The House-Top</ref><note xml:id="ref_21008">The poem recounts the New York Draft Riots on 11 July, 1863.</note>.</hi>
+				</head>
+				<head type="sub-head">
+				<hi rend="italic">A Night Piece.</hi>
+				(<hi rend="smallcaps">July</hi>, 1863.)
+				</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">(July, 1863.)
+<lg>
+<l><hi rend="smallcaps">No</hi> sleep. The sultriness pervades the air</l>
+<l>And binds the brain—a dense oppression, such</l>
+<l>As tawny <ref target="#ref_21009">tigers</ref><note xml:id="ref_21009">"And down the dunes a thousand guns lie couched/ Unseen beside the flood/ Like tigers in some Orient jungle crouched,/ That wait and watch for blood." Henry Timrod, "Charleston," Charlestown, Mercury (13 December 1862) [Intertextuality];
+"...beholding the tranquil beauty and brilliancy of the ocean's skin, one forgets the tiger heart that pants beneath" [Intratexuality, Moby-Dick]  (Cohen, 239)</note> feel in matted shades,</l>
+<l>Vexing their blood and making apt for ravage.</l>
+<l n="5">Beneath the stars the roofy desert spreads</l>
+<l>Vacant as <ref target="#ref_21010">Libya</ref><note xml:id="ref_21010">"As barren/ As banks [i.e. the desert] of Libya" (Shakespeare, Troilus and Cressida, I, iii, 327-8.)</note>. All is hushed near by.</l>
+<l>Yet fitfully from far breaks a mixed surf</l>
+<l>Of muffled sound, the Atheist roar of riot.</l>
+<l>Yonder, where parching <ref target="#ref_21011">Sirius</ref><note xml:id="ref_21011">Also known as The Dog Star, Sirius (from the Greek meaning hot) is the brightest star in the summer sky.</note> set in drought,</l>
+<l n="10">Balefully glares red Arson—there—and there.</l>
+<l>The Town is taken by its rats—ship-rats</l>
+<l>And rats of the wharves. All civil charms</l>
+<l>And priestly spells which late held hearts in awe—</l>
+<l>Fear-bound, subjected to a better sway</l>
+<l n="15">Than sway of self; these like a dream dissolve,</l>
+<l>And man rebounds whole æons back in nature.<hi rend="super">i</hi></l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0095.jpg"/>
+Hail to the low dull rumble, dull and dead,</l>
+<l>And ponderous drag that <ref target="#ref_21007">shakes</ref><note xml:id="ref_21007">In his bound copy (C) of the proof sheets for Batlle-Pieces, Melville underlines "shakes" in pencil and inscribes "jars" in the right margin.</note> the wall.</l>
+<l>Wise Draco comes, deep in the midnight roll</l>
+<l n="20">Of black artillery; he comes, though late;</l>
+<l>In code corroborating Calvin&apos;s creed</l>
+<l>And cynic tyrannies of honest kings;</l>
+<l>He comes, nor parlies; and the Town, redeemed,</l>
+<l>Gives thanks devout; nor, being thankful, heeds</l>
+<l n="25">The grimy slur on the Republic&apos;s faith implied,</l>
+<l>Which holds that Man is naturally good,</l>
+<l>And—more—is <ref target="#ref_21013">Nature&apos;s Roman, never to be scourged</ref><note xml:id="ref_21013">Acts 16:37-38 and 22:25-29 relate how Paul invoked his exemption as a Roman citizen from scourging. In White-Jacket, Ch. 34, Melville quotes Paul (Acts 22) to make his case against flogging: "'Is it lawful for you to scourge a man that is a Roman?' asks the intrepid Apostle, well knowing, as a Roman citizen, that it was not. And now, eighteen hundred years after, is it lawful for you, my countrymen, to scourge a man that is an American?" (See Cohen, 241) </note>.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">––––––––––––––
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/>
+<p xml:id="BP_noteI"><hi rend="smallcaps">Note i</hi>, <hi rend="italic">page</hi> 86.
+<p>"I dare not write the horrible and inconceivable atrocities committed," says Froissart, in alluding to the remarkable sedition in France during his time. The like may be hinted of some proceedings of the draft-rioters.</p>
+</p></div>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">No sleep. The sultriness pervades the air
-And binds the brain—a dense oppression, such
-As tawny <ref target="#ref_21009">tigers</ref><note xml:id="ref_21009">"And down the dunes a thousand guns lie couched/ Unseen beside the flood/ Like tigers in some Orient jungle crouched,/ That wait and watch for blood." Henry Timrod, "Charleston," Charlestown, Mercury (13 December 1862) [Intertextuality];
-"...beholding the tranquil beauty and brilliancy of the ocean's skin, one forgets the tiger heart that pants beneath" [Intratexuality, Moby-Dick]  (Cohen, 239) </note> feel in matted shades,
-Vexing their blood and making apt for ravage.
-Beneath the stars the roofy desert spreads
-Vacant as <ref target="#ref_21010">Libya</ref><note xml:id="ref_21010">Shakespeare, Troilus and Cressida, I, iii, 327-8 [Allusion/Source, Literary] (Cohen 239)</note>. All is hushed near by.
-Yet fitfully from far breaks a mixed surf
-Of muffled sound, the Atheist roar of riot.
-Yonder, where parching <ref target="#ref_21011">Sirius</ref><note xml:id="ref_21011">The Dog Star, or Canis Major, is the brightest star. [Allusion, Astronomical]; "From July 3 to August 11, according to tradition, Sirius rises with the sun, increasing its heat (known as 'Dog Days') (Cohen 240} from Greek word seiros "hot, scorching" [Etymology] </note> set in drought,
-Balefully glares red Arson—there—and there.
-The Town is taken by its rats—ship-rats
-And rats of the wharves. All civil charms
-And priestly spells which late held hearts in awe—
-Fear-bound, subjected to a better sway
-Than sway of self; these like a dream dissolve,
-And man rebounds whole æons back in nature.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437998956005-5m3fc6z3v1tnjyvi-72807660b141ebbd831013e0b7767599%2F97.jpg"/>Hail to the low dull rumble, dull and dead,
-And ponderous drag that <ref target="#ref_21007">shakes</ref><note xml:id="ref_21007">Melville changes his word to "jars" in Houghton Copy C, p. 87. [Variant] Shurr notes how the lines in this second part "become heavy with a plodding and jarring alliteration." (39) [Poetics]</note> the wall.
-Wise Draco comes, deep in the midnight roll
-Of black artillery; he comes, though late;
-<ref target="#ref_21012">In code corroborating Calvin&apos;s creed</ref><note xml:id="ref_21012">"The poem is alliterative to and extent unusual even for Melville. Alliteration is used to give the unity elsewhere provided by rhyme...in a section of the poem where alliteration is relatively sparse. (Cohen 241) [Poetics] </note>
-And cynic tyrannies of honest kings;
-He comes, nor parlies; and the Town, redeemed,
-Gives thanks devout; nor, being thankful, heeds
-The grimy slur on the Republic&apos;s faith implied,
-Which holds that Man is naturally good,
-And—more—is <ref target="#ref_21013">Nature&apos;s Roman, never to be scourged</ref><note xml:id="ref_21013">Acts 16:37-38 and 22:25-29 relate how Paul invoked his rht as a Roman citiczen to exemption from scourging. {Allusion, Biblical]; "Is ti lawful for you to scourge a man that is Roman? asks the intrepid Apostle, well knowing, as a Roman citizen, that it was not. And now, eighteen hundred years later, is it lawful to you, my countrymen, to scourge a man who is an American? [Intratextuality, Redburn, Chap. 34] (Cohen, 241) </note>.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-</p></div></body>
+</div></body>
 		</text>
 	</TEI>

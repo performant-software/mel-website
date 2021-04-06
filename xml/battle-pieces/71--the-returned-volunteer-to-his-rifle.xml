@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>71 - The Returned Volunteer to his Rifle</title>
-			
-			
-					
+			<title>69 - The Returned Volunteer to his Rifle</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,18 +15,23 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="71--the-returned-volunteer-to-his-rifle"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002642741-heesdsg6h2maemi-91340efd51cbb78e98e2c19875fa6617%2F193.jpg"/>The Returned Volunteer to his Rifle
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Over the hearth—my father&apos;s seat—
-  Repose, to patriot-memory dear,
-Thou tried companion, whom at last I greet
-  By steepy banks of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:352" type="place">Hudson</name> here.
-How oft I told thee of this scene—
-The <ref target="#ref_21002">Highlands</ref><note xml:id="ref_21002">[allusion] [place] The mountains on either side of the Hudson River in New York. (Eric Meckley)</note> blue—the river&apos;s narrowing sheen.
-Little at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:23" type="event"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:473" type="place">Gettysburg</name></name> we thought
-To find such haven; but <name ref="https://mel-catalog.herokuapp.com/api/entries/person:132" type="person">God</name> kept it green.
-Long rest! with belt, and bayonet, and canteen.</p></div></body>
+			<body>
+<div xml:id="the-returned-volunteer-to-his-rifle">
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0191.jpg"/>
+<head type="main"><hi rend="italic">The Returned Volunteer to his Rifle.</hi></head>
+<lg>
+<l><hi rend="smallcaps">Over</hi> this hearth—my father&apos;s seat—</l>
+<l rend="2em">Repose, to patriot-memory dear,</l>
+<l>Thou tried companion, whom at last I greet</l>
+<l rend="2em">By steepy banks of Hudson here.</l>
+<l n="5">How oft I told thee of this scene—</l>
+<l>The <ref target="#ref_21002">Highlands</ref><note xml:id="ref_21002">[allusion] [place] The mountains on either side of the Hudson River in New York. (Eric Meckley)</note> blue—the river&apos;s narrowing sheen.</l>
+<l>Little at Gettysburg we thought</l>
+<l>To find such haven; but God kept it green.</l>
+<l>Long rest! with belt, and bayonet, and canteen.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>

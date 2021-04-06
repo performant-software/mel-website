@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Front flyleaf - Copy A</title>
+         </titleStmt>
+         <publicationStmt>
+
+            <publisher/>
+            <pubPlace/>
+            <date/>
+            <authority/>
+            <availability><p/></availability>
+         </publicationStmt>
+         <sourceDesc><p/></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb facs="/images/battle-pieces-v1/battle-pieces-i-0005.jpg"/>
+         <p><ref target="#EDnoteFlyLeafCopyARN1">Mrs. Herman Melville <lb/> 105 East 18<hi rend="superscript">th</hi> St</ref>
+         <note xml:id="EDnoteFlyLeafCopyARN1">REVISION NARRATIVE: Herman Melville (1819-1891) and Elizabeth Shaw (1822-1906) courted as he was launching his professional writing career with the publications of <hi rend="italic">Typee</hi> and <hi rend="italic">Omoo</hi>; they married in 1847. After Herman's death, Lizzie (as she was called) facilitated Arthur Stedman's reprinting of Melville works and was therefore instrumental in revitalizing her husband's reputation in the 1890s. In 1892 she moved from their townhouse on East 26th Street in Manhattan to "The Florence," a luxury apartment building also just off of Fourth Avenue, at 105 East 18th Street. Her penciled autograph on the flyleaf of Melville's personal "Copy A" of <hi rend="italic">Battle-Pieces</hi> indicates her ownership of the book, which now resides at Houghton Library, Harvard College.</note></p>
+      </body>
+  </text>
+</TEI>

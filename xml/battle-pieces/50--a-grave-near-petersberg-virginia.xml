@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>50 - A Grave near Petersberg, Virginia</title>
-			
-			
-					
+			<title>48 - A Grave near Petersberg, Virginia</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,28 +15,47 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="50--a-grave-near-petersberg,-virginia"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001749658-77pe5uk26e0zfr-4813dcabfab59c5aea5a3aac505ae6bf%2F163.jpg"/>A Grave near <name ref="https://mel-catalog.herokuapp.com/api/entries/place:449" type="place">Petersberg, Virginia</name>
+			<body><div id="50--a-grave-near-petersberg,-virginia">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Head-board and foot-board duly placed—
-  Grassed in the mound between;
-Daniel Drouth is the slumberer&apos;s name—
-  Long may his grave be green!
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0161.jpg"/>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Quick was his way—a flash and a blow,
-  Full of his fire was he—
-A fire of hell—&apos;tis burnt out now—
-  Green may his grave long be!
+<head type="main">
+<hi rend="italic">A Grave near Petersberg, Virginia.</hi>
+<hi rend="super">s</hi>
+</head>
+<lg>
+<l><hi rend="smallcaps">Head-board</hi> and foot-board duly placed—</l>
+<l rend="2em">Grassed in the mound between;</l>
+<l>Daniel Drouth is the slumberer&apos;s name—</l>
+<l rend="2em">Long may his grave be green!</l>
+</lg>
+<lg>
+<l n="5">Quick was his way—a flash and a blow,</l>
+<l rend="2em">Full of his fire was he—</l>
+<l>A fire of hell—&apos;tis burnt out now—</l>
+<l rend="2em">Green may his grave long be!</l>
+</lg>
+<lg>
+<l>May his grave be green, though he</l>
+<l n="10" rend="2em">Was a rebel of iron mould;</l>
+<l>Many a true heart—true to the Cause,</l>
+<l rend="2em">Through the blaze of his wrath lies cold.</l>
+</lg>
+<lg>
+<l>May his grave be green—still green</l>
+<l rend="2em">While happy years shall run;</l>
+<l n="15">May none come nigh to disinter</l>
+<l rend="2em">The—<hi rend="italic">Buried Gun</hi>.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">May his grave be green, though he
-  Was a rebel of iron mould;
-Many a true heart—true to the Cause,
-  Through the blaze of his wrath lies cold.
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0261.jpg"/>
+<p xml:id="BP_noteS"><hi rend="smallcaps">Note s</hi>, <hi rend="italic">page</hi> 153.
+<p>Shortly prior to the evacuation of Petersburg, the enemy, with a view to ultimate repossession, interred some of his heavy guns in the same field with his dead, and with every circumstance calculated to deceive. Subsequently the negroes exposed the stratagem.
+</p></p>
+</div>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">May his grave be green—still green
-  While happy years shall run;
-May none come nigh to disinter
-  The—<hi rend="italic">Buried Gun</hi>.</p></div></body>
+</div></body>
 		</text>
 	</TEI>

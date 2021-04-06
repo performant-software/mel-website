@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Front flyleaf 1 - Copy C</title>
+         </titleStmt>
+         <publicationStmt>
+
+            <publisher/>
+            <pubPlace/>
+            <date/>
+            <authority/>
+            <availability><p/></availability>
+         </publicationStmt>
+         <sourceDesc><p/></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+        <lb/>
+         <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0005.jpg"/>
+        <lb/>
+         <p><ref target="#EDnoteFlyLeaf1CopyCRN1">"Revised" sheets - with <lb/> Herman's corrections -</ref>
+       <note xml:id="EDnoteFlyLeaf1CopyCRN1"><p>REVISION NARRATIVE: In a common practice in Melville's day, publishers would issue unbound "sheets" of a book, permitting purchasers to arrange for their own personal bindings. In addition, publishers would issue bound copies with their own bindings. Melville's publisher, Harper and Brothers, sent the author a set of unbound sheets, which he read thoroughly, adding penciled inscriptions throughout. This early interaction with his own post-publication text is known as "Copy C." Harpers also sent Melville their own bound copy of <hi rend="italic">Battle-Pieces</hi>, the volume known as "Copy A," which also contains Melville's penciled inscriptions. Both copies are located at Houghton Libray, Harvard College.</p>
+     <p>Here, Elizabeth Shaw Melville's undated pencil inscription on what MEL designates as flyleaf 1 in Copy C identifies Copy C as "'Revised' sheets" that include "Herman's corrections." According to G. Thomas Tanselle, the sheets are a regular print run and "revised" in the sense that Melville's proofreading changes had already been incodrporated (NN <hi rend="italic">Published Poems</hi>, 536n14). Nevertheless, because Copy contains 49 penciled inscriptions in Melville's hand (each a likely revision), ESM's wording, while probably not intended to do so, raises questions about the nature of these marginal inscriptions. "Revised" might also suggest the additional revisions added to the sheets that reflect changes of wording and mind; whereas "corrections" suggests that Melville found new typos to repair or landed upon new wording that more closely represents his originally intended meaning.</p>
+     <p>In this regard, ESM's wording on flyleaf 1 also resonates with the nature of revision and different approaches to revision in scholarly editing. Traditional textual editing focuses on achieving a reading text that represents the editors' conception of some single moment in the author's intentions. Following that principle, editors may decide to add revisions as if they were corrections bringing the text closer to the optimal moment of intentionality aimed for. In doing so, the editors are mixing texts from distinctly different physical versions of the work. However, MEL's fluid-text approach considers whether a change in wording is in effect a potential change of mind. In attempting to represent the versions of a writer's shifting, oscillating, and evolving intentions, this editorial approach develops protocols that sustain the integrity of each physical version's texts rather than mixing them together. Melville's pencilings help demonstrate the difference between traditional and fluid-text editorial approaches. On the one hand, the NN "eclectic" edition of <hi rend="italic">Battle-Pieces</hi> incorporates not all but selected revisions from Copies A and C into their reading text. However, in MEL's fluid-text digital edition, we reproduce the same print text found in both copies and provide (in the form of pop-up notes) "Revision Narratives" that explain Melville's penciled inscriptions in both copies A and C. In addition, MEL's side-by-side display of Copies A and C enables readers to view Melville's pencilings as they appear in the context of each copy. Pages with pencilings are indicated with asterisks in the "Jump to" selection boxes beneath each copy in the display.
+    </p> </note></p>
+      </body>
+   </text>
+</TEI>

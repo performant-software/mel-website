@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>31 - The Battle for the Bay</title>
-			
-			
-					
+			<title>30 - The Battle for the Bay</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,136 +15,163 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="31--the-battle-for-the-bay"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000286471-0rnniylegu7q4cxr-faa18c00ae948972af2632ac959d145b%2F120.jpg"/><name type="event">The Battle for the Bay</name>
-(August, 1864)
+			<body><div id="31--the-battle-for-the-bay">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">O mystery of noble hearts,
-  To whom mysterious seas have been
-In midnight watches, lonely calm and storm,
-    A stern, sad disciple,
-And rooted out the false and vain,
-  And chastened them to aptness for
-  Devotion and the deeds of war,
-And death which smiles and cheers in spite of pain.
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0118.jpg"/>
+				<head type="main">
+				<hi rend="italic"><name type="event">The Battle for the Bay</name>.</hi>
+				</head>
+				<head type="sub-head">
+				(<hi rend="smallcaps">August</hi>, 1864.)
+				</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Beyond the bar the land-wind dies,
-  The prows becharmed at anchor swim:
-A summer night; the stars withdrawn look down—
-    Fair eve of battle grim.
-The sentries pace, bonetas glide;
-  Below, the sleeping sailor swing,
-  And if their dreams to quarters spring,
-Or cheer their flag, or breast a stormy tide.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000313705-a8zpklno3nxw29-faa18c00ae948972af2632ac959d145b%2F125.jpg"/> But pale on the scarred fleet&apos;s decks there lay
-A silent man for every silenced gun.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">And quiet far below the wave,
-  Where never cheers shall move their sleep,
-Some who did boldly, nobly earn them, lie—
-    Charmed children of the deep.
-But decks that now are in the seed,
-  And cannon yet within the mine,
-  Shall thrill the deeper, gun and pine,
-Because of the Tecumseh&apos;s glorious deed.
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000308282-0nzu1mf4ztfn7b9-faa18c00ae948972af2632ac959d145b%2F124.jpg"/><hi rend="italic">Slip anchor, all! and at her, all!
-  Bear down withrushing beaks—and </hi>now!
-First the Monongahela struck—and reeled;
-    The Lackawana&apos;s prow
-Next crashed—crashed, but not crashing; then
-  The Admiral rammed, and rasping nigh
-  Sloped in a broadside, which glanced by:
-The Monitors battered at her adamant den.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The Chickasaw plunged beneath the stern
-  And pounded there; a huge wrought orb
-From the Manhattan pierced one wall, but dropped;
-    Others the seas absorb.
-Yet stormed on all sides, narrowed in,
-  Hampered and cramped, the bad one fought—
-  Spat ribald curses from the port
-Who shutters, jammed, locked up this <ref target="#ref_21003">Man-of-Sin</ref><note xml:id="ref_21003">"Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition."  2 Thessalonians 2:3 [Allusion, Biblical] (Shurr, 38)</note>.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">No pause or stay. They made a din
-  Like hammers round a boiler forged;
-Now straining strength tangled itself with strength,
-    Till Hate her will disgorged.
-The white flag showed, the fight was won—
-  Mad shouts went up that shook the Bay;
- <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000303687-gywqf82ctmdyrpb9-faa18c00ae948972af2632ac959d145b%2F123.jpg"/>And rapid broadsides of the speeding fleet,
-    And fierce denouncing flame.
-Yet shots from four dark hulls embayed
-  Come raking through the loyal crews,
-  Whom now each dying mate endues
-With his last look, anguished yet undismayed.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">A flowering time to guilt is given,
-  And traitors have their glorying hour;
-O late, but sure, the righteous Paramount comes—
-    Palsy is on their power!
-So proved it with the rebel keels,
-  The strong-holds past: assailed, they run;
-  The Selma strikes, and the work is done:
-The dropping anchor the achievement seals.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">But no, she turns—the Tennessee!
-  The solid Ram of iron and oak,
-Strong as Evil, and bold as Wrong, though lone—
-    A pestilence in her smoke.
-The flag-ship is her singled mark,
-  The wooden Hartford. Let her come;
-  She challenges the planet of Doom,
-And naught shall save her—not her iron bark.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000299205-88yzcx0c0md6ajor-faa18c00ae948972af2632ac959d145b%2F122.jpg"/> And set their flags in concert true,
-And On and in! is <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name>&apos;s command.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">But what delays? &apos;mid wounds above
-  Dim buoys give hint of death below—
-Sea-ambuscades, where evil art had aped
-    Hecla that hides in snow.
-The centre-van, entangled, trips;
-  The starboard leader holds straight on:
-  A cheer for the Tecumseh!—nay,
-Before their eyes the turreted ship goes down!
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The fire redoubles, While the fleet
-  Hangs dubious—ere the horror ran—
-The Admiral rushes to his rightful place—
-    Well met! apt hour and man!—
-Closes with peril, takes the lead,
-  His action is a stirring call;
-  He strikes his great heart through them all,
-And is the genius of their daring deed.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The forts are daunted, slack their fire,
-  Confounded by the deadlier aim
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438000292406-wfigua6p20cw61or-faa18c00ae948972af2632ac959d145b%2F121.jpg"/>But drums are beat: Up anchor all!
-  The triple lines steam slowly on;
-Day breaks, and through the sweep of decks each man
-    Stands coldly by his gun—
-As cold as it. But he shall warm—
-  Warm with the solemn metal there,
-  And all its ordered fury share,
-In attitude a gladiatorial form.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The Admiral—yielding the love
-  Which held his life and ship so dear—
-Sailed second in the long fleet&apos;s midmost line;
-    Yet thwarted all their care:
-He <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:996" type="artwork">lashed himself aloft</name>, and shone
-  Star of the fight, with influence sent
-  Throughout the dusk embattlement;
-And so they neared the strait and walls of stone.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">No sprintly fife as in the field,
-  The decks were hushed like fanes in prayer;
-Behind each man a holy angel stood—
-    He stood, though none was &apos;ware.
-Out spake the forts on either hand,
-  Back speak the ships when spoken to,
- </p></div></body>
+<lg>
+<l><hi rend="smallcaps">O mystery</hi> of noble hearts,</l>
+<l rend="2em">To whom mysterious seas have been</l>
+<l>In midnight watches, lonely calm and storm,</l>
+<l rend="4em">A stern, sad discipline,</l>
+<l n="5">And rooted out the false and vain,</l>
+<l rend="2em">And chastened them to aptness for</l>
+<l rend="2em">Devotion and the deeds of war,</l>
+<l>And death which smiles and cheers in spite of pain.</l>
+</lg>
+<lg>
+<l>Beyond the bar the land-wind dies,</l>
+<l n="10" rend="2em">The prows becharmed at anchor swim:</l>
+<l>A summer night; the stars withdrawn look down—</l>
+<l rend="4em">Fair eve of battle grim.</l>
+<l>The sentries pace, bonetas glide;</l>
+<l rend="2em">Below, the sleeping sailors swing,</l>
+<l n="15" rend="2em">And in their dreams to quarters spring,</l>
+<l>Or cheer their flag, or breast a stormy tide.</l>
+</lg>
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0119.jpg"/>
+But drums are beat: <hi rend="italic">Up anchor all!</hi></l>
+<l rend="2em">The triple lines steam slowly on;</l>
+<l>Day breaks, and through the sweep of decks each man</l>
+<l n="20" rend="4em">Stands coldly by his gun—</l>
+<l>As cold as it. But he shall warm—</l>
+<l rend="2em">Warm with the solemn metal there,</l>
+<l rend="2em">And all its ordered fury share,</l>
+<l>In attitude a gladiatorial form.</l>
+</lg>
+<lg>
+<l n="25">The Admiral—yielding to the love</l>
+<l rend="2em">Which held his life and ship so dear—</l>
+<l>Sailed second in the long fleet&apos;s midmost line;</l>
+<l rend="4em">Yet thwarted all their care:</l>
+<l>He <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:996" type="artwork">lashed himself aloft</name>, and shone</l>
+<l n="30" rend="2em">Star of the fight, with influence sent</l>
+<l rend="2em">Throughout the dusk embattlement;</l>
+<l>And so they neared the strait and walls of stone.</l>
+</lg>
+<lg>
+<l>No sprightly fife as in the field,</l>
+<l rend="2em">The decks were hushed like fanes in prayer;</l>
+<l n="35">Behind each man a holy angel stood—</l>
+<l rend="4em">He stood, though none was &apos;ware.</l>
+<l>Out spake the forts on either hand,</l>
+<l rend="2em">Back speak the ships when spoken to,</l>
+<l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0120.jpg"/>
+And set their flags in concert true,</l>
+<l n="40">And <hi rend="italic">On and in!</hi> is <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name>&apos;s command.</l>
+</lg>
+<lg>
+<l>But what delays? &apos;mid wounds above</l>
+<l rend="2em">Dim buoys give hint of death below—</l>
+<l>Sea-ambuscades, where evil art had aped</l>
+<l rend="4em">Hecla that hides in snow.</l>
+<l n="45">The centre-van, entangled, trips;</l>
+<l rend="2em">The starboard leader holds straight on:</l>
+<l rend="2em">A cheer for the Tecumseh!—nay,</l>
+<l>Before their eyes the turreted ship goes down!</l>
+</lg>
+<lg>
+<l>The fire redoubles, While the fleet</l>
+<l n="50" rend="2em">Hangs dubious—ere the horror ran—</l>
+<l>The Admiral rushes to his rightful place—</l>
+<l rend="4em">Well met! apt hour and man!—</l>
+<l>Closes with peril, takes the lead,</l>
+<l rend="2em">His action is a stirring call;</l>
+<l n="55" rend="2em">He strikes his great heart through them all,</l>
+<l>And is the genius of their daring deed.</l>
+</lg>
+<lg>
+<l>The forts are daunted, slack their fire,</l>
+<l rend="2em">Confounded by the deadlier aim</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0121.jpg"/>
+And rapid broadsides of the speeding fleet,</l>
+<l n="60" rend="4em">And fierce denouncing flame.</l>
+<l>Yet shots from four dark hulls embayed</l>
+<l rend="2em">Come raking through the loyal crews,</l>
+<l rend="2em">Whom now each dying mate endues</l>
+<l>With his last look, anguished yet undismayed.</l>
+</lg>
+<lg>
+<l n="65">A flowering time to guilt is given,</l>
+<l rend="2em">And traitors have their glorying hour;</l>
+<l>O late, but sure, the righteous Paramount comes—</l>
+<l rend="4em">Palsy is on their power!</l>
+<l>So proved it with the rebel keels,</l>
+<l n="70" rend="2em">The strong-holds past: assailed, they run;</l>
+<l rend="2em">The Selma strikes, and the work is done:</l>
+<l>The dropping anchor the achievement seals.</l>
+</lg>
+<lg>
+<l>But no, she turns—the Tennessee!</l>
+<l rend="2em">The solid Ram of iron and oak,</l>
+<l n="75">Strong as Evil, and bold as Wrong, though lone—</l>
+<l rend="4em">A pestilence in her smoke.</l>
+<l>The flag-ship is her singled mark,</l>
+<l rend="2em">The wooden Hartford. Let her come;</l>
+<l rend="2em"> She challenges the planet of Doom,</l>
+<l n="80">And naught shall save her—not her iron bark.</l>
+</lg>
+<lg>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0122.jpg"/>
+<hi rend="italic">Slip anchor, all! and at her, all!</hi></l>
+<l rend="2em"><hi rend="italic">Bear down with rushing beaks—and</hi> now!</l>
+<l>First the Monongahela struck—and reeled;</l>
+<l rend="4em">The Lackawana&apos;s prow</l>
+<l n="85">Next crashed—crashed, but not crashing; then</l>
+<l rend="2em">The Admiral rammed, and rasping nigh</l>
+<l rend="2em">Sloped in a broadside, which glanced by:</l>
+<l>The Monitors battered at her adamant den.</l>
+</lg>
+<lg>
+<l>The Chickasaw plunged beneath the stern</l>
+<l n="90" rend="2em">And pounded there; a huge wrought orb</l>
+<l>From the Manhattan pierced one wall, but dropped;</l>
+<l rend="4em">Others the seas absorb.</l>
+<l>Yet stormed on all sides, narrowed in,</l>
+<l rend="2em">Hampered and cramped, the bad one fought—</l>
+<l n="95" rend="2em">Spat ribald curses from the port</l>
+<l>Who shutters, jammed, locked up this <ref target="#ref_21003">Man-of-Sin</ref><note xml:id="ref_21003">"Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition."  2 Thessalonians 2:3 [Allusion, Biblical] (Shurr, 38)</note>.</l>
+</lg>
+<lg>
+<l>No pause or stay. They made a din</l>
+<l rend="2em">Like hammers round a boiler forged;</l>
+<l>Now straining strength tangled itself with strength,</l>
+<l n="100" rend="4em">Till Hate her will disgorged.</l>
+<l>The white flag showed, the fight was won—</l>
+<l rend="2em">Mad shouts went up that shook the Bay;</l>
+<l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0123.jpg"/>
+But pale on the scarred fleet&apos;s decks there lay</l>
+<l>A silent man for every silenced gun.</l>
+</lg>
+<lg>
+<l n="105">And quiet far below the wave,</l>
+<l rend="2em">Where never cheers shall move their sleep,</l>
+<l>Some who did boldly, nobly earn them, lie—</l>
+<l rend="4em">Charmed children of the deep.</l>
+<l>But decks that now are in the seed,</l>
+<l n="110" rend="2em">And cannon yet within the mine,</l>
+<l rend="2em">Shall thrill the deeper, gun and pine,</l>
+<l>Because of the Tecumseh&apos;s glorious deed.</l>
+</lg>
+ </div></body>
 		</text>
 	</TEI>

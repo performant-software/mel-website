@@ -3,13 +3,14 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>24 - Gettysburg</title>
-			
-			
-					
+			<title>23 - Gettysburg</title>
+				<author>Herman Melville</author>
+				<editor>Eric Meckley</editor>
+				<editor>John Bryant</editor>
+				<editor>Christopher Ohge</editor>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,74 +19,72 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="24--gettysburg"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437998800816-zsfzunvjrml07ldi-a2c0816118f767d6f89b3861de70a8a5%2F94.jpg"/><ref target="#ref_19230"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:23" type="event"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:473" type="place">Gettysburg</name></name></ref><note xml:id="ref_19230">This poem was published as “Gettysburg: July, 1863" in Harper’s New Monthly Magazine 33 (July 1866), 209, one of four other poems in Battle-Pieces to be previously published in that journal anonymously. [variation]</note>. 
+			<body><div xml:id="gettysburg">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The Check. 
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0092.jpg"/>
+				<head type="main">
+				<hi rend="italic"><ref target="#ref_19230"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:23" type="event">Gettysburg</name></ref>.</hi>
+					<note xml:id="ref_19230">First published in July, 1866, "Gettysburg" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi>.</note>
+				</head>
+				<head type="sub-head">
+				<hi rend="italic">The Check.</hi>
+				<lb/>(<hi rend="smallcaps">July</hi>, 1863.)
+				</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">(July, 1863.)
+<lg>
+<l><hi rend="smallcaps">O pride</hi> of the days in prime of the months</l>
+<l rend="2em">Now trebled in great renown,</l>
+<l>When before the ark of our holy cause</l>
+<l rend="4em">Fell <ref target="#ref_19136">Dagon</ref><note xml:id="ref_19136">The ancient Philistine fertility deity Dagon is often associated with fish and depicted as a merman. In 1 Samuel 5, an image of Dagon falls before the Ark of the Covenant.</note> down—</l>
+<l n="5">Dagon foredoomed, who, armed and <ref target="#ref_20971">targed</ref><note xml:id="ref_20971">Targe is an Old English word for a small round shield.</note>,</l>
+<l>Never his impious heart enlarged</l>
+<l>Beyond that hour; God walled his power,</l>
+<l>And <ref target="#ref_20974">there the last invader charged</ref><note xml:id="ref_20974">The Union victory at Gettysburg deflected the Confederacy's only invasion of Northern territory. </note>.</l>
+</lg>
+<lg>
+<l>He charged, and in that charge condensed</l>
+<l n="10" rend="2em">His all of hate and all of fire;</l>
+<l>He sought to blast us in his scorn,</l>
+<l rend="4em">And wither us in his ire.</l>
+<l>Before him went the shriek of shells—</l>
+<l>Aerial screamings, taunts and yells;</l>
+<l n="15">Then the three waves in flashed advance</l>
+<l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0093.jpg"/>
+Surged, but were met, and back they set:</l>
+<l>Pride was repelled by sterner pride,</l>
+<l rend="2em">And Right is <ref target="#ref_20976">a strong-hold yet.</ref><note xml:id="ref_20976">The failure of Pickett's Charge was the turning point of the battle for the North, and the war.</note></l>
+</lg>
+<lg>
+<l>Before our lines it seemed a beach</l>
+<l n="20" rend="2em">Which wild September gales have strown</l>
+<l>With havoc on wreck, and dashed therewith</l>
+<l rend="4em">Pale crews unknown—</l>
+<l>Men, arms, and steeds. The evening sun</l>
+<l>Died on the face of each lifeless one,</l>
+<l n="25">And died along the winding marge of fight</l>
+<l rend="2em">And searching-parties lone.</l>
+</lg>
+<lg>
+<l>Sloped on the hill the mounds were green,</l>
+<l rend="2em">Our centre held that place of graves,</l>
+<l>And some still hold it in their swoon,</l>
+<l n="30" rend="2em">And over these a glory waves.</l>
+<l>The warrior-monument, crashed in fight,<hi rend="super">h</hi></l>
+<l>Shall soar transfigured in loftier light,</l>
+<l rend="4em">A meaning ampler bear;</l>
+<l>Soldier and priest with hymn and prayer</l>
+<l n="35" >Have laid the stone, and every bone</l>
+<l rend="4em">Shall rest in honor there.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">––––––––––––––
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/>
+<p xml:id="BP_noteH"><hi rend="smallcaps">Note h</hi>, <hi rend="italic">page</hi> 85.
+<p>Among numerous head-stones or monuments on Cemetery Hill, marred or destroyed by the enemy's concentrated fire, was one, somewhat conspicuous, of a Federal officer killed before Richmond in 1862.</p>
+<p>On the 4th of July, 1865, the Gettysburg National Cemetery, on the same height with the original burial-ground, was consecrated, and the corner-stone laid of a commemorative pile.</p>
+</p></div>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">O pride of the days in <ref target="#ref_20960">prime of the months</ref><note xml:id="ref_20960">[allusion] July is the height of the summer. </note>
-  Now <ref target="#ref_20964">trebled</ref><note xml:id="ref_20964">[poetics] [double entendre] [allusion] Melville emphasizes the growing legacy of the battle, widely acknowledged as the turning point of the war, while alluding to the fact that the battle lasted three days. (Eric Meckley) </note> in great renown,
-When before <ref target="#ref_20968">the ark of our holy cause</ref><note xml:id="ref_20968">[allusion] [biblical] Melville alludes to the Ark of the Covenant (as William Shurr notes) particularly as it figures in the Israelite clash with the Philistines in 1 Samuel 5 and their idol Dagon referenced in the next line of the poem. [poetics] [double entendre] Ark is also the name of the boat that Noah builds according to God's directions in Genesis 6-9 to save the animals and humanity from the flood sent to destroy the world because of human wickedness. The poem utilizes watery, nautical imagery throughout, and so this line also creates an image of the Union keeping the fate of humanity afloat against the destructive flood of the Confederate attack on the North. (Eric Meckley)</note>
-    Fell <ref target="#ref_19136">Dagon</ref><note xml:id="ref_19136">Dagon was an ancient Philistine fertility deity often associated with fish and depicted as a merman. This is in keeping with Melville's water imagery in the poem. 
-
-Dagon's fall after an encounter with the Israelites' Ark of the Covenant is depicted in 1 Samuel 5.
-
-
-1 Samuel 5 King James Version (KJV)
-
-5 And the Philistines took the ark of God, and brought it from Ebenezer unto Ashdod.
-
-2 When the Philistines took the ark of God, they brought it into the house of Dagon, and set it by Dagon.
-
-3 And when they of Ashdod arose early on the morrow, behold, Dagon was fallen upon his face to the earth before the ark of the Lord. And they took Dagon, and set him in his place again.
-
-4 And when they arose early on the morrow morning, behold, Dagon was fallen upon his face to the ground before the ark of the Lord; and the head of Dagon and both the palms of his hands were cut off upon the threshold; only the stump of Dagon was left to him.
-
-5 Therefore neither the priests of Dagon, nor any that come into Dagon's house, tread on the threshold of Dagon in Ashdod unto this day.
-
-(Eric Meckley)</note> down—
-Dagon foredoomed, who, armed and <ref target="#ref_20971">targed</ref><note xml:id="ref_20971">[definition] [allusion] [military] [etymology] Targe is the Old English word for a small, round shield. Melville's coinage connotes Dagon carrying sword and shield. </note>,
-Never his impious heart enlarged
-Beyond that hour; God walled his power,
-And <ref target="#ref_20974">there the last invader charged</ref><note xml:id="ref_20974">[allusion] [historical] The Union victory at Gettysburg deflected the only Confederate invasion of Northern territory undertaken in the war. (Eric Meckley)</note>.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><ref target="#ref_20976">He charged, and in that charge condensed
-  His all of hate and all of fire</ref><note xml:id="ref_20976">[allusion] [historical] [military] Not only was the battle of Gettysburg the Confederacy's only major charge into the North, the turning point of the battle was Pickett's Charge, the failed attack focused on the Union center on July 3rd. (Eric Meckley)</note>;
-He sought to blast us in his scorn,
-    And wither us in his ire.
-Before him went the shriek of shells—
-Aerial screamings, taunts and yells;
-Then <ref target="#ref_20978">the three waves</ref><note xml:id="ref_20978">[allusion] [historical] The three days of battle are depicted as waves crashing against the Union position, continuing the water imagery of the poem. (Eric Meckley) </note> in flashed advance
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437998805262-c156g14zpx3nxw29-a2c0816118f767d6f89b3861de70a8a5%2F95.jpg"/>  Surged, but were met, and back they set:
-Pride was repelled by sterner pride,
-  And Right is a strong-hold yet.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Before our lines it seemed a beach
-  Which wild September gales have strown
-With havoc on wreck, and dashed therewith
-    Pale crews unknown—
-Men, arms, and steeds. The evening sun
-Died on the face of each lifeless one,
-And died along the winding marge of fight
-    And searching-parties lone.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Sloped on the hill the mounds were green,
-  <ref target="#ref_20980">Our centre held that place of graves</ref><note xml:id="ref_20980">[allusion] [historical] The Union center was positioned along Cemetery Hill. (Eric Meckley)</note>,
-And some still hold it in their swoon,
-  And over these a glory waves.
-<ref target="#ref_20982">The warrior-monument, crashed in fight,
-Shall soar transfigured in loftier light,</ref><note xml:id="ref_20982">In Melville's note "h" appended to the poem's title, describes a maker for a Federal officer killed in 1862 that was destroyed in the battle. The marker was restored during the consecration of the Gettysburg National Cemetery on July 4, 1865. (Eric Meckley)</note>
-    A meaning ampler bear;
-Soldier and priest with hymn and prayer
-Have laid the stone, and every bone
-    Shall rest in honor there.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-</p></div></body>
+</div></body>
 		</text>
 	</TEI>

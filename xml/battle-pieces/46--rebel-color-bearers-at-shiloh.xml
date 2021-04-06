@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>46 - Rebel Color-bearers at Shiloh</title>
-			
-			
-					
+			<title>44 - Rebel Color-bearers at Shiloh</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,49 +15,70 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="46--rebel-color-bearers-at-shiloh"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001554685-om8qu4utrjrwwmi-66fa8bd2bdc6e48238ad45d0e595b6d5%2F154.jpg"/>Rebel Color-bearers at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:463" type="place">Shiloh</name>:
-A plea against the vindictive cry raised by civilians shortly
-after the surrender at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:489" type="place">Appomattox</name>
+			<body><div id="46--rebel-color-bearers-at-shiloh">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The color-bearers facing death
-White in the whirling sulphurous wreath,
-  Stand boldly out before the line
-Right and left their glances go,
-Proud of each other, glorying in their show;
-Their battle-flags about them blow,
-  And fold them as in flame divine:
-Such living robes are only seen
-Round martyrs burning on the green—
-And martyrs for the Wrong have been.
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0152.jpg"/>
+				<head type="main">
+				<hi rend="italic">Rebel Color-bearers at Shiloh: </hi>
+				<hi rend="super">p</hi> 
+			  </head>
+				<head type="sub-head">
+				<hi rend="italic">A plea against the vindictive cry raised by civilians shortly<lb/>
+				after the surrender at Appomattox.</hi>
+				</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Perish their Cause! but mark the men—
-Mark the planted statues, then
-Draw trigger on them if you can.
+<lg>
+<l><hi rend="smallcaps">The</hi> color-bearers facing death</l>
+<l>White in the whirling sulphurous wreath,</l>
+<l rend="2em">Stand boldly out before the line;</l>
+<l>Right and left their glances go,</l>
+<l n="5">Proud of each other, glorying in their show;</l>
+<l>Their battle-flags about them blow,</l>
+<l rend="2em">And fold them as in flame divine:</l>
+<l>Such living robes are only seen</l>
+<l>Round martyrs burning on the green—</l>
+<l n="10">And martyrs for the Wrong have been.</l>
+</lg>
+<lg>
+<l>Perish their Cause! but mark the men—</l>
+<l>Mark the planted statues, then</l>
+<l>Draw trigger on them if you can.</l>
+</lg>
+<lg>
+<l>The leader of a patriot-band</l>
+<l n="15">Even so could view rebels who so could stand;</l>
+<l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0153.jpg"/>And this when peril pressed him sore,</l>
+<l>Left aidless in the shivered front of war—</l>
+<l rend="2em">Skulkers behind, defiant foes before,</l>
+<l>And fighting with a broken brand.</l>
+<l n="20">The challenge in that courage rare—</l>
+<l>Courage defenseless, proudly bare—</l>
+<l>Never could tempt him; he could dare</l>
+<l>Strike up the leveled rifle there.</l>
+</lg>
+<lg>
+<l>Sunday at Shiloh, and the day</l>
+<l n="25">When Stonewall charged—McClellan&apos;s crimson May,</l>
+<l>And Chickamauga&apos;s wave of death,</l>
+<l>And of the Wilderness the cypress wreath—</l>
+<l rend="4em">All these have passed away.</l>
+<l>The life in the veins of Treason lags,</l>
+<l n="30">Her daring color-bearers drop their flags,</l>
+<l rend="2em">And yield. <hi rend="italic">Now</hi> shall we fire?</l>
+<l rend="4em">Can poor spite be?</l>
+<l rend="2em">Shall nobleness in victory less aspire</l>
+<l rend="2em">Than in reverse? Spare Spleen her ire,</l>
+<l n="35" rend="4em">And think how Grant met Lee.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">The leader of a patriot-band
-Even so could view rebels who so could stand;
-  <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001558635-ek039ukm374rhpvi-66fa8bd2bdc6e48238ad45d0e595b6d5%2F155.jpg"/>And this when peril pressed him sore,
-Left aidless in the shivered front of war—
-  Skulkers behind, defiant foes before,
-And fighting with a broken brand.
-The challenge in that courage rare—
-Courage defenseless, proudly bare—
-Never could tempt him; he could dare
-Strike up the leveled rifle there.
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0260.jpg"/>
+<p xml:id="BP_noteP"><hi rend="smallcaps">Note p</hi>, <hi rend="italic">page</hi> 144.
+<p>The incident on which this piece is based is narrated in a newspaper account of the battle to be found in the "Rebellion Record." During the disaster to the national forces on the first day, a brigade on the extreme left found itself isolated. The perils it encountered are given in detail. Among others, the following sentences occur:</p><p>"Under cover of the fire from the bluffs, the rebels rushed down, crossed the ford, and in a moment were seen forming this side the creek in open fields, and within close musket-range. Their color-bearers stepped defiantly to the front as the engagement opened furiously; the rebels pouring in sharp, quick volleys of musketry, and their batteries above continuing to support them with a destructive fire. Our sharpshooters wanted to pick off the audacious rebel color-bearers, but Colonel Stuart interposed: [']No, no, they're too brave fellows to be killed.[']"</p>
+</p>
+</div>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Sunday at Shiloh, and the day
-When <name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name> charged—<name ref="https://mel-catalog.herokuapp.com/api/entries/person:178" type="person">McClellan</name>&apos;s crimson May,
-And <name ref="https://mel-catalog.herokuapp.com/api/entries/place:490" type="place">Chickamauga</name>&apos;s wave of death,
-And of the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name> the cypress wreath—
-    All these have passed away.
-The life in the veins of Treason lags,
-Her daring color-bearers drop their flags,
-  And yield. Now shall we fire?
-    Can poor spite be?
-Shall nobleness in victory less aspire
-Than in reverse? Spare Spleen her ire,
-  And think how <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> met <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>.</p></div></body>
+</div></body>
 		</text>
 	</TEI>

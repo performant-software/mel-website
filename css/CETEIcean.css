@@ -595,23 +595,29 @@ tei-handShift {
 }
 /* Need head with TEI parent to distinguish from HTML head */
 tei-TEI tei-head {
-  display: block;
   font-family: Arvo, sans-serif;
   font-weight: normal;
+  text-align: center;
+}
+tei-head[type="sub-head"] {
+  display: block;
+  font-size: 100%;
+}
+tei-head[type="main"] {
+  display: block;
+  font-size: 150%;
 }
 tei-body > tei-head {
-  font-size: 180%;
-  text-indent: -0.5em;
+  font-size: 150%;
 }
 tei-div.textpart {
   display: none;
 }
 tei-div > tei-head {
-  font-size: 170%;
-  text-indent: -0.5em;
+  font-size: 150%;
 }
 tei-div > tei-div > tei-head {
-  font-size: 155%;
+  font-size: 150%;
 }
 tei-div > tei-div > tei-div > tei-head {
   font-size: 140%;
@@ -669,6 +675,10 @@ tei-hi[rend="italic"] {
 }
 tei-hi[rend="bold"] {
   font-weight: bold;
+}
+tei-hi[rend="super"] {
+  vertical-align: super;
+  font-size: 70%;
 }
 tei-hi {
   /* GLS: do we want to bold this or change the background color? */
@@ -757,6 +767,7 @@ tei-kinesic {
 tei-l {
   display: block;
   width: 35em;
+  font-size: 12pt;
 }
 tei-l[rend="2em"] {
   display: block;
@@ -770,10 +781,22 @@ tei-l[rend="6em"] {
   display: block;
   text-indent: 6em;
 }
-tei-l[data-lineno]:before {
-  content: attr(data-lineno);
-  position: absolute;
-  left: 2em;
+tei-l[rend="8em"] {
+  display: block;
+  text-indent: 8em;
+}
+tei-l[rend="10em"] {
+  display: block;
+  text-indent: 10em;
+}
+tei-l[rend="12em"] {
+  display: block;
+  text-indent: 12em;
+}
+tei-l[n]:after {
+  font-weight: lighter;
+  content: attr(n);
+  float: right;
 }
 tei-lacunaEnd {
   /* Empty Rule Set */
@@ -1034,7 +1057,6 @@ tei-musicNotation:before {
   font-weight: bold;
   content: "Musical Notation: ";
 }
-/* n */
 tei-name {
   color: blue;
   cursor: pointer;
@@ -1117,11 +1139,14 @@ tei-p {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 13pt;
+  font-family: Georgia;
+  font-size: 12pt;
   line-height: 1.42;
 }
-*[data-tei-rendition~="#center"] p {
+tei-p[rend="center"] {
+  text-align: center;
+}
+tei-head[rend="center"] {
   text-align: center;
 }
 tei-availability > p:first-child {
@@ -1140,7 +1165,7 @@ tei-pause {
   /* Empty Rule Set*/
 }
 tei-pb {
- 
+
 }
 /*
 tei-pb:before {
@@ -1665,7 +1690,7 @@ tei-table > head {
   text-align: center;
 }
 tei-teiHeader {
-  display: block;
+  display: none;
   /*
 tei-border-radius: 15px;
 tei-border: 1px solid black;
@@ -1826,7 +1851,7 @@ html {
   margin: 0;
   padding: 0;
   margin-left: 2em;
-  margin-right: 4em;
+  margin-right: 2em;
   padding: 2.5em;
   font-family: "Lucida Grande", "Cardo", "Arial Unicode MS","Galilee Unicode Gk", "New Athena Unicode", "Athena Unicode", "Palatino Linotype", "Titus Cyberbit Basic", "Vusillus Old Face", "Alphabetum", "Galatia SIL", "Code 2000", "GentiumAlt", "Gentium", "Minion Pro", "GeorgiaGreek", "Vusillus Old Face Italic", "Everson Mono", "Aristarcoj", "Porson", "Legendum", "Aisa Unicode", "Hindsight Unicode", "Caslon", "Verdana", "Tahoma";
   font-size: 12pt;

@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>65 - On Sherman's Men</title>
-			
-			
-					
+			<title>63 - On Sherman's Men</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,19 +15,26 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="65--on-shermans-men"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002409842-hs5gaxntbqs0dx6r-a513c0b9fcb7687e45267293f3b801d2%2F184.jpg"/><hi rend="italic">On <name ref="https://mel-catalog.herokuapp.com/api/entries/person:138" type="person">Sherman</name>&apos;s Men
-who fell in <name ref="https://mel-catalog.herokuapp.com/api/entries/event:39" type="event">the Assault of Kenesaw Mountain, Georgia</name></hi>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">They said that <name ref="https://mel-catalog.herokuapp.com/api/entries/person:260" type="person">Fame</name> her clarion dropped
-  Because great deeds were done no more—
-That even Duty knew no shining ends,
-And Glory—&apos;twas a fallen star!
-  But battle can heroes and bards restore.
-    Nay, look at Kenesaw:
-Perils <name ref="https://mel-catalog.herokuapp.com/api/entries/person:312" type="person">the mailed ones</name> never knew
-Are lightly braved by <ref target="#ref_20238">the ragged coats of blue</ref><note xml:id="ref_20238">"The ragged coats of blue" is metonymy for Union troops. </note>,
-And gentler hearts are bared to deadlier war.</p></div></body>
+			<body><div id="65--on-shermans-men">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0182.jpg"/>
+				<head type="main">
+				<hi rend="italic">On Sherman&apos;s Men</hi>
+				</head>
+				<head type="sub-head"><hi rend="italic">who fell in the Assault of Kenesaw Mountain, Georgia.</hi>
+				</head>
+<lg>
+<l><hi rend="smallcaps">They</hi> said that Fame her clarion dropped</l>
+<l rend="2em">Because great deeds were done no more—</l>
+<l>That even Duty knew no shining ends,</l>
+<l>And Glory—&apos;twas a fallen star!</l>
+<l rend="2em">But battle can heroes and bards restore.</l>
+<l rend="6em">Nay, look at Kenesaw:</l>
+<l>Perils the mailed ones never knew</l>
+<l>Are lightly braved by the ragged coats of blue,</l>
+<l>And gentler hearts are bared to deadlier war.</l>
+</lg>
+</div></body>
 		</text>
 	</TEI>

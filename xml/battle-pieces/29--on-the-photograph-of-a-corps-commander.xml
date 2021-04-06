@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>29 - On the Photograph of a Corps Commander</title>
-			
-			
-					
+			<title>28 - On the Photograph of a Corps Commander</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,36 +15,49 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="29--on-the-photograph-of-a-corps-commander"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437767270166-8zewtejrm06kcsor-bcc86b03cba5d465714746582b1bf9ea%2Fmodbm_ac85_m4977_866b_c_0115.jpg"/><hi rend="italic">On <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:907" type="artwork">the Photograph of <name type="person">a Corps Commander</name></name></hi>
+			<body><div id="29--on-the-photograph-of-a-corps-commander">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Ay, man is manly. <name type="artwork">Here</name> you see
-  The warrior-carriage of the head,
-And brave dilation of the frame;
-  And lighting all, the soul that led
-In <name ref="https://mel-catalog.herokuapp.com/api/entries/event:12" type="event">Spottsylvania&apos;s charge</name> to victory,
-  Which justifies <name type="person">his fame</name>.
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0113.jpg"/>
+				<head type="main">
+				<hi rend="italic">On <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:907" type="artwork">the Photograph of <name type="person">a Corps Commander</name></name></hi>
+				</head>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><name type="artwork">A cheering picture</name>. It is good
-  To look upon a Chief like this,
-In whom the spirit moulds the form.
-  Here favoring Nature, oft remiss,
-With eagle mien expressive has endued
-  A man to kindle strains that warm.
+<lg>
+<l><hi rend="smallcaps">Ay,</hi> man is manly. <name type="artwork">Here</name> you see</l>
+<l rend="2em">The warrior-carriage of the head,</l>
+<l>And brave dilation of the frame;</l>
+<l rend="2em">And lighting all, the soul that led</l>
+<l n="5">In <name ref="https://mel-catalog.herokuapp.com/api/entries/event:12" type="event">Spottsylvania&apos;s charge</name> to victory,</l>
+<l rend="2em">Which justifies <name type="person">his fame</name>.</l>
+</lg>
+<lg>
+<l><name type="artwork">A cheering picture</name>. It is good</l>
+<l rend="2em">To look upon a Chief like this,</l>
+<l>In whom the spirit moulds the form.</l>
+<l n="10" rend="2em">Here favoring Nature, oft remiss,</l>
+<l>With eagle mien expressive has endued</l>
+<l rend="2em">A man to kindle strains that warm.</l>
+</lg>
+<lg>
+<l>Trace back his lineage, and his sires,</l>
+<l rend="2em">Yeoman or noble, you shall find</l>
+<l n="15">Enrolled with <name type="person">men of <name type="event">Agincourt</name></name>,</l>
+<l rend="2em">Heroes who shared <name ref="Henry" type="person">great Harry</name>&apos;s mind.</l>
+<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0114.jpg"/>
+Down to us come the <name type="person">knightly Norman</name> fires,</l>
+<l rend="2em">And front the <name type="person">Templars</name> bore.</l>
+</lg>
+<lg>
+<l>Nothing can lift the heart of man</l>
+<l n="20" rend="2em">Like manhood in a fellow-man.</l>
+<l>The thought of heaven&apos;s great King afar</l>
+<l rend="2em">But humbles us—too weak to scan;</l>
+<l>But manly greatness men can span,</l>
+<l rend="2em">And feel the bonds that draw.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Trace back his lineage, and his sires,
-  Yeoman or noble, you shall find
-Enrolled with <name type="person">men of <name type="event">Agincourt</name></name>,
-  Heroes who shared <name ref="Henry" type="person">great Harry</name>&apos;s mind.<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437767374640-pi0c576d79fi529-bcc86b03cba5d465714746582b1bf9ea%2Fmodbm_ac85_m4977_866b_c_0116.jpg"/>
-Down to us come the <name type="person">knightly Norman</name> fires,
-  And front the <name type="person">Templars</name> bore.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Nothing can lift the heart of man
-  Like manhood in a fellow-man.
-The thought of <name type="person">heaven&apos;s great King</name> afar
-  But humbles us—too weak to scan;
-But manly greatness men can span,
-  And feel the bonds that draw.</p></div></body>
+</div></body>
 		</text>
 	</TEI>

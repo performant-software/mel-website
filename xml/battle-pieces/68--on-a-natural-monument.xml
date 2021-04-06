@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>68 - On a natural Monument</title>
-			
-			
-					
+			<title>66 - On a natural Monument</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,57 +15,79 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="68--on-a-natural-monument"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002520445-4tuaux8ecequmcxr-969d35e8f0941fa01303ca205e737079%2F188.jpg"/><ref target="#ref_20953">On a natural Monument
-in <name ref="https://mel-catalog.herokuapp.com/api/entries/place:526" type="place">a field of Georgia</name></ref><note xml:id="ref_20953">[Title Note] As suggested by its placement in the section titled, “Verses Inscriptive and Memorial,” On a Natural Monument” is a commemorative poem to the Union prisoners of war at Andersonville Prison, where approximately 15,000 died (Garner, 368). 
-
-[Criticism—Canonical] Robert Penn Warren notes that this poem “completes the little cluster of three poems dealing with the death of the ‘nameless’” (Warren, 378).
-
-[Circulation] Ian Frederick Finseth’s 2006 book, The American Civil War: An Anthology of Essential Writings, lists “On a Natural Monument” in a section titled Remembrance and Forgetting, which also includes Battle-Pieces poems: “An Uninscribed Monument” and “A Requiem.”   
-
-(Leslie McAbee)</note>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">No trophy this—a <ref target="#ref_20950">Stone unhewn</ref><note xml:id="ref_20950">STONE UNHEWN [Allusion--literary] Editorial from New York Times, Aug 8, 1865, titled “The Andersonville Torturers: What was Meant by the Dead Line How Our Men Were Buried,” describes the make-shift, mass graves of Union POWS prior to the founding of the Andersonville National Cemetery. 
-
+			<body>
+				<div id="68--on-a-natural-monument">
+<pb facs="/images/battle-pieces-v1/battle-pieces-i-0186.jpg"/>
+<head type="main">
+<hi rend="italic">On a natural Monument</hi>
+</head>
+<head type="sub-head"><hi rend="italic">in a field of Georgia</hi>. <hi rend="super">u</hi> 
+</head>
+<lg>
+<l><hi rend="smallcaps">No</hi> trophy this—a Stone unhewn,</l>
+<!--
+<note xml:id="ref_20950">Editorial from New York Times, Aug 8, 1865, titled “The Andersonville Torturers: What was Meant by the Dead Line How Our Men Were Buried,” describes the make-shift, mass graves of Union POWS prior to the founding of the Andersonville National Cemetery.
 [Source] The author of the editorial cites the protruding bones of the dead as the “natural monuments of fiendish cruelty” ("The Andersonville Torturers." New York Times (1857-1922): 2. ProQuest Historical Newspapers: The New York Times (1851-2008). Aug 08 1865.)
-
-(Leslie McAbee)</note>,
-  And stands where here the field immures
-The nameless brave whose palms are won.
-Outcast they sleep; yet fame is nigh—
-  Pure fame of deeds, not doers;
-Nor <ref target="#ref_20929">deeds</ref><note xml:id="ref_20929">DEEDS [Denotation] In conjunction with “fame of deeds” in line 5, “deeds” in line 6 refers to “exploit[s]” and “illustrious act[s].” However, the term also references a legal “contract or agreement,” especially one “conveying real estate to a purchaser or donee” (An American Dictionary of the English Language, 1846). This latter definition may be relevant to the dead’s designation as “[o]utcast” (line 4) from their native or earthly real estate and anticipates the Miltonic simile (beginning with “As men in gales shun the lee shore”, line 16) in which the speaker describes the dead’s displacement from the  “homestead” on the “lee shore" (line 17).    
-
-(Leslie McAbee)</note> of men who bleeding die
-  In cheer of hymns that round them float:
-In happy dreams such close the eye.
-But withering famine slowly wore,
-  And slowly fell disease did gloat.
-Even Nature&apos;s self did aid deny;
-They choked in horror the pensive sigh.
-  Yea, off from home sad Memory bore
-<ref target="#ref_19281">(Though anguished Yearning heaved that way)</ref><note xml:id="ref_19281">THOUGH ANGUISHED YEARNING HEAVED THAT WAY [Reference—historical] [Source]: Augustus C. Hamlin, identified as “Late Medical Inspector U.S. Army, Antiquarian,” conveys a similar sentiment of soldiers’s anguish in remembering home in his 1866 book, Martyr; or Andersonville Prison“: Food was demanded, but it was wanting. Shelter and the pure air of heaven were prayed for by gasping men; even these, too, were wanting. Yet close by rose the gigantic pines, of the growth of centuries, standing in all the grandeur of the primeval forests, and offering to the disordered vision and senses of the dying wretches grateful shades, cool bowers, or the images of home, and the forms of the well-loved, as the faint and sinking traveller beholds them in the far-off mirage of the desert.” 
-
- (Leslie McAbee)</note>,
-Lest wreck of reason might befall.
- <ref target="#ref_19282"> As men in gales shun the <ref target="#ref_20947">lee shore</ref><note xml:id="ref_20947">[Denotation] A lee-shore is a shoreline toward which the wind blows, making it dangerous to sea craft, which can be blown to shore and run aground. 
-
-[Intratextuality] Refer to Chapter 23 “The Lee Shore” in Moby-Dick: “But as in landlessness alone resides highest truth, shoreless, indefinite as God—so better is it to perish in that howling infinite, than be ingloriously dashed upon the lee, even if that were safety!"
-
-(Leslie McAbee)</note>,
-Though there the homestead be, and call,
-And thitherward winds and waters sway—
-As such lorn mariners, so fared they.</ref><note xml:id="ref_19282">AS MEN...SO FARED THEY [Poetics—Simile] Lines 16-20 is an example of a Miltonic epic simile, which is defined by its restrained length that typically represents a concrete and particular experience and that often advances a brief fable that ennobles its subject. See James Whaler’s “The Miltonic Simile” (1931) and L. D. Lerner’s “The Miltonic Simile” (1954) for further discussion and definition of Milton’s similes.;
-
-[Intratextuality] [Reference—nautical] A similar nautically themed simile appears in the Battle-Pieces poem “Gettysburg: The Check”: “Before our lines it seemed a beach / Which wild September gales have strewn / With havoc on wreck, and dashed therewith / Pale Crews unknown— / Men, arms, and steeds” (lines 19-23).
-
+(Leslie McAbee)
+</note>
+-->
+<l rend="2em">And stands where here the field immures</l>
+<l>The nameless brave whose palms are won.</l>
+<l>Outcast they sleep; yet fame is nigh—</l>
+<l rend="2em">Pure fame of deeds, not doers;</l>
+<l>Nor deeds of men who bleeding die</l>
+<!--<note xml:id="ref_20929">[Denotation] In conjunction with “fame of deeds” in line 5, “deeds” in line 6 refers to “exploit[s]” and “illustrious act[s].” However, the term also references a legal “contract or agreement,” especially one “conveying real estate to a purchaser or donee” (An American Dictionary of the English Language, 1846). This latter definition may be relevant to the dead’s designation as “[o]utcast” (line 4) from their native or earthly real estate and anticipates the Miltonic simile (beginning with “As men in gales shun the lee shore”, line 16) in which the speaker describes the dead’s displacement from the  “homestead” on the “lee shore" (line 17).
 (Leslie McAbee)</note>
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438002524371-b34ks5u31vxfajor-969d35e8f0941fa01303ca205e737079%2F189.jpg"/><ref target="#ref_19283">But naught shall now their peace molest.</ref><note xml:id="ref_19283">Miltonic Epic simile from lines 16-19—a simile of restrained length that typically represents a concrete and particular experience and often advances a brief fable that ennobles its subject. Milton scholars assert that the Miltonic simile is not just a decorative or entertaining digression.  See James Whaler’s “The Miltonic Simile” (1931) and L.D. Lerner’s “The Miltonic Simile” (1954) for further discussion and definition of Milton’s epic similes.  (Leslie McAbee) [poetics]</note>
-  Their fame is this: they did endure—
-Endure, when fortitude was vain
-To kindle any approving strain
-Which they might hear. To these who rest,
-  This healing sleep alone was sure.</p></div></body>
+-->
+<l rend="2em">In cheer of hymns that round them float:</l>
+<l>In happy dreams such close the eye.</l>
+<l>But withering famine slowly wore,</l>
+<l n="10" rend="2em">And slowly fell disease did gloat.</l>
+<l>Even Nature&apos;s self did aid deny;</l>
+<l>They choked in horror the pensive sigh.</l>
+<l rend="2em">Yea, off from home sad Memory bore</l>
+<l>(Though anguished Yearning heaved that way),</l>
+<!--
+<note xml:id="ref_19281">[Reference—historical] [Source]: Augustus C. Hamlin, identified as “Late Medical Inspector U.S. Army, Antiquarian,” conveys a similar sentiment of soldiers’s anguish in remembering home in his 1866 book, Martyr; or Andersonville Prison“: Food was demanded, but it was wanting. Shelter and the pure air of heaven were prayed for by gasping men; even these, too, were wanting. Yet close by rose the gigantic pines, of the growth of centuries, standing in all the grandeur of the primeval forests, and offering to the disordered vision and senses of the dying wretches grateful shades, cool bowers, or the images of home, and the forms of the well-loved, as the faint and sinking traveller beholds them in the far-off mirage of the desert.”
+(Leslie McAbee)
+</note>
+-->
+<l>Lest wreck of reason might befall.</l>
+<l rend="2em">As men in gales shun the lee shore,</l>
+<!--
+<note xml:id="ref_20947">[Denotation] A lee-shore is a shoreline toward which the wind blows, making it dangerous to sea craft, which can be blown to shore and run aground.
+[Intratextuality] Refer to Chapter 23 “The Lee Shore” in Moby-Dick: “But as in landlessness alone resides highest truth, shoreless, indefinite as God—so better is it to perish in that howling infinite, than be ingloriously dashed upon the lee, even if that were safety!"
+(Leslie McAbee)
+</note>
+-->
+<l>Though there the homestead be, and call,</l>
+<l>And thitherward winds and waters sway—</l>
+<l>As such lorn mariners, so fared they.</l>
+<!--
+<note xml:id="ref_19282">[Poetics—Simile] Lines 16-20 are an example of a Miltonic epic simile, which is defined by its restrained length that typically represents a concrete and particular experience and that often advances a brief fable that ennobles its subject. See James Whaler’s “The Miltonic Simile” (1931) and L. D. Lerner’s “The Miltonic Simile” (1954) for further discussion and definition of Milton’s similes.;
+[Intratextuality] [Reference—nautical] A similar nautically themed simile appears in the Battle-Pieces poem “Gettysburg: The Check”: “Before our lines it seemed a beach / Which wild September gales have strewn / With havoc on wreck, and dashed therewith / Pale Crews unknown— / Men, arms, and steeds” (lines 19-23).
+(Leslie McAbee)
+</note>
+-->
+<l n="20"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0187.jpg"/>But naught shall now their peace molest.</l>
+<!--
+<note xml:id="ref_19283">Miltonic Epic simile from lines 16-19—a simile of restrained length that typically represents a concrete and particular experience and often advances a brief fable that ennobles its subject. Milton scholars assert that the Miltonic simile is not just a decorative or entertaining digression.  See James Whaler’s “The Miltonic Simile” (1931) and L.D. Lerner’s “The Miltonic Simile” (1954) for further discussion and definition of Milton’s epic similes.  (Leslie McAbee) [poetics]
+</note>
+-->
+<l rend="2em">Their fame is this: they did endure—</l>
+<l>Endure, when fortitude was vain</l>
+<l>To kindle any approving strain</l>
+<l>Which they might hear. To these who rest,</l>
+<l rend="2em">This healing sleep alone was sure.</l>
+</lg>
+
+<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0261.jpg"/>
+<p xml:id="BP_noteU"><hi rend="smallcaps">Note</hi> U, <hi rend="italic">page</hi> 178. Written prior to the founding of the National Cemetery at Andersonville, where 15,000 of the reinterred captives now sleep, each beneath his personal head-board, inscribed from records found in the prison-hospital. Some hundreds rest apart and without name. A glance at the published pamphlet containing <pb facs="/images/battle-pieces-v1/battle-pieces-i-0262.jpg"/> the list of the buried at Andersonville conveys a feeling mournfully impressive. Seventy-four large double-columned pages in fine print. Looking through them is like getting lost among the old turbaned head-stones and cypresses in the interminable Black Fkrest of Scutari, over against Constantinople.
+</p>
+</div>
+
+</div></body>
 		</text>
 	</TEI>

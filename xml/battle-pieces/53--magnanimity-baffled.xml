@@ -3,13 +3,10 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>53 - Magnanimity Baffled</title>
-			
-			
-					
+			<title>51 - Magnanimity Baffled</title>
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,26 +15,35 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="53--magnanimity-baffled"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438001838975-7ce1l10a8myujtt9-8ecd7a7b6a31bf20b93ba2d127000bf7%2F166.jpg"/>Magnanimity Baffled
+			<body><div id="53--magnanimity-baffled">
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">&quot;Sharp words we had before the fight;
-    But—now the fight is done—
-Look, here&apos;s my <ref target="#ref_21214">hand</ref><note xml:id="ref_21214">The first stanza offers the hand of the Victor.</note>,&quot; said <ref target="#ref_21213">the Victor bold</ref><note xml:id="ref_21213">The only external description of the narrator of the monologue that constitutes the entire poem other than this clause and its final line. </note>,
-    &quot;Take it—an honest one!
-What, holding back? I mean you well;
-  Though worsted, you strove stoutly, man;
-The odds were great; I honor you;
-    Man honors man.
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0164.jpg"/>
+				<head type="main">
+				<hi rend="italic">Magnanimity Baffled.</hi>
+				</head>
+<lg>
+<l>&quot;<hi rend="smallcaps">Sharp</hi> words we had before the fight;</l>
+<l rend="4em">But—now the fight is done—</l>
+<l>Look, here&apos;s my hand,&quot; said the Victor bold,</l>
+<l rend="4em">&quot;Take it—an honest one!</l>
+<l n="5">What, holding back? I mean you well;</l>
+<l rend="2em">Though worsted, you strove stoutly, man;</l>
+<l>The odds were great; I honor you;</l>
+<l rend="6em">Man honors man.</l>
+</lg>
+<lg>
+<l>&quot;Still silent, friend? can grudges be?</l>
+<l n="10" rend="4em">Yet am I held a foe?—</l>
+<l>Turned to the wall, on his cot he lies—</l>
+<l rend="4em">Never I&apos;ll leave him so!</l>
+<l>Brave one! I here implore your hand;</l>
+<l rend="2em">Dumb still? all fellowship fled?</l>
+<l n="15">Nay, then, I&apos;ll have this stubborn hand&quot;</l>
+<l rend="2em">He snatched it—it was dead.</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">&quot;Still silent, friend? can grudges be?
-    Yet am I held a foe?—
-Turned to the wall, on his cot he lies—
-    Never I&apos;ll leave him so!
-Brave one! I here implore your hand;
-  Dumb still? all fellowship fled?
-Nay, then, I&apos;ll have this stubborn hand&quot;
-  He snatched it—it was dead.</p></div></body>
+</div></body>
 		</text>
 	</TEI>
