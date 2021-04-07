@@ -114,8 +114,8 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0197.jpg"/>
 <lg>
-<l>A <ref target="#ref_21104">scout</ref> toward Aldie broke the spell.—
-<note xml:id="ref_21104">In Copy C (bound sheets) of <hi rend="italic">Battle-Pieces</hi>, Melville penciled the word "ride" above "scout" but did not delete "scout." This tentative revision modifies tone, reducing the tension of "scout" to the generality of "ride." That said, it must be seen in conjunction with similar tentative revisions to the poem's title. On the Copy C section title page for the poem and on the poem's first page title, Melville also inscribed "ride" above "scout" to give "The Ride toward Aldie." But in both cases, he crossed out and then erased "ride."
+<l>A <ref target="#EDnoteScoutRN1">scout</ref> toward Aldie broke the spell.—
+<note xml:id="EDnoteScoutRN1">In Copy C (bound sheets) of <hi rend="italic">Battle-Pieces</hi>, Melville penciled the word "ride" above "scout" but did not delete "scout." This tentative revision modifies tone, reducing the tension of "scout" to the generality of "ride." That said, it must be seen in conjunction with similar tentative revisions to the poem's title. On the Copy C section title page for the poem and on the poem's first page title, Melville also inscribed "ride" above "scout" to give "The Ride toward Aldie." But in both cases, he crossed out and then erased "ride."
 </note><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0199.jpg"/></l>
 <l rend="2em">The <ref target="#ref_21106">Leader</ref> lies before his tent
 <note xml:id="ref_21106">Colonel Charles Russell Lowell (1835-1864), brigade commander of the 13th New York Cavalry, did not in fact lead the scout.
@@ -226,11 +226,10 @@
 <l rend="4em">This cheery man in suit of price</l>
 <l rend="4em">Not even Mosby dared to slice.</l>
 </lg>
-
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0200.jpg"/>
 <lg>
 <l>They pass the picket by the pine</l>
-<l n="100" rend="2em">And hollow log—a lonesome place;</l>
+<l n="100" rend="2em">And hollow log—a <ref target="#EDnoteScoutRN2">lonesome</ref> place;<note xml:id="EDnoteScoutRN2">In Copy C (bound sheets) of <hi rend="italic">Battle-Pieces</hi>, Melville underlined "lonesome" in pencil and inscribed "dreary" in the left margin.</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0202.jpg"/></l>
 <l>His horse adroop, and pistol clean;</l>
 <l>&apos;Tis cocked—kept leveled toward the wood;</l>
 <l rend="2em">Strained vigilance ages his childish face.</l>
@@ -296,7 +295,7 @@
 <l>By cross-roads of some olden time,</l>
 <l>In which grew groves; by gate-stones down—</l>
 <l rend="2em">Grassed ruins of secluded pride:</l>
-<l rend="4em">A strange lone land, long past the prime,</l>
+<l rend="4em">A <ref target="#EDnoteScoutRN3">strange lone</ref> place;<note xml:id="EDnoteScoutRN3">In Copy C, Melville underlined "strange lone" in pencil and nscribed "spell-bound" in the left margin.</note> land, long past the prime,<pb facs="/images/battle-pieces-v1/battle-pieces-i-0202.jpg"/></l>
 <l rend="4em">Fit land for Mosby or for crime.</l>
 </lg>
 <lb/>
