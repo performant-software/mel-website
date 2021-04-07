@@ -144,20 +144,21 @@
 <note xml:id="ref_21133">Stanton Garner and Hershel Parker offer differing accounts about the Lowells' lodgings while in camp. Parker notes, "Lowell had his headquarters in a farmhouse, although he and his wife slept in a tent" (567).  Garner, on the other hand, claims that the Lowells "shared a small house" (11) and that this line is thus the result of "poetic license" (307).  According to Grant Shreve, this line "recalls the biblical tale of Jael and Sisera from the Book of Judges, wherein the fleeing foe of the Israelites, Sisera, enters the tent of Jael, who promises him protection, only to later drive a tent stake into his head once he has fallen asleep.  Stanton Garner notes that Colonel Lowell-–-whom Melville had followed while sojourning in the field-had stayed with his wife not in a tent but in a cottage.  Garner attributes this change to 'poetic license' (Garner 307), but the echoes of the tale of Jael and Sisera render Melville's transformation of the Colonel's residence more deliberate and weighty.  The allusiveness of the stanza not only ironizes the Colonel's final tryst but also establishes a figural shadow beneath the text that anticipates both the Colonel's death and Melville's prophetic vision of the fate of the Union" (17).  [biography] [critical] [allusion] (Karah Mitchell)
 <ref target="#ref_21134">And fame, be sure, refines the vow;</ref>
 <note xml:id="ref_21134">Shreve argues that these lines "direct us to [Milton's] Samson Agonistes (italics).  Milton reinterprets the story of Jael through Dalila's final speech, which Melville had heavily marked in his copy of Milton's poetic works. . . .  Melville's lines echo Dalila's valorization of the fame and honor she believes her betrayal will win her.  The 'fame' that 'refines the [marriage] vow' . . . points toward both the Colonel's fame and the kind of fame Dalila exalts.  In Milton, it 'refines the vow' by purification, and in Melville, it refines by a clarification that reveals a corruption in the vow itself" (17).  [critical] [allusion] (Karah Mitchell)
-
+<ref target="#ref_21138"><hi rend="italic">Tan-tara! tan-tara! tan-tara!</hi></ref>
+<note xml:id="ref_21138">From the OED (italics): "tantara, int[erjection] and n[oun]: A. int. Imitative of the sound of a flourish blown on a trumpet, or sometimes of a drum. B. n. A fanfare, or flourish of trumpets; hence, any similar sound."  [definition] (Karah Mitchell)
+</note>
+<ref target="#ref_21146">a clip, and grass is hay</ref>.
+<note xml:id="ref_21146">"Cf. Psalms 90: 5-6: 'In the morning they are like grass which groweth up. . . . in the evening it is cut down, and withereth'" (Cohen, 288).  [allusion] (Karah Mitchell)
+</note>
 -->
 
 <lb/>
 <lg>
-<l n="50" ><ref target="#ref_21138"><hi rend="italic">Tan-tara! tan-tara! tan-tara!</hi></ref>
-<note xml:id="ref_21138">From the OED (italics): "tantara, int[erjection] and n[oun]: A. int. Imitative of the sound of a flourish blown on a trumpet, or sometimes of a drum. B. n. A fanfare, or flourish of trumpets; hence, any similar sound."  [definition] (Karah Mitchell)
-</note></l>
+<l n="50"><hi rend="italic">Tan-tara! tan-tara! tan-tara!</hi></l>
 <l rend="2em">Mounted and armed he sits a king;</l>
 <l>For pride she smiles if now she peep—</l>
 <l>Elate he rides at the head of his men;</l>
-<l rend="2em">He is <ref target="#ref_21144">young</ref>, and command is a boyish thing:
-<note xml:id="ref_21144">Lowell was only 29 years old during the scouting expedition toward Aldie.
-</note></l>
+<l rend="2em">He is young, and command is a boyish thing:</l>
 <l rend="4em">They file out into the forest deep—</l>
 <l rend="4em">Do Mosby and his rangers sleep?</l>
 </lg>
@@ -167,10 +168,8 @@
 <l>The sun is gold, and the world is green,</l>
 <l rend="2em">Opal the vapors of morning roll;</l>
 <l>The champing horses lightly prance—</l>
-<l n="60" >Full of caprice, and the riders too</l>
-<l rend="2em">Curving in many a <ref target="#ref_21141">caricole</ref>.
-<note xml:id="ref_21141">A misspelling of the word "caracol," defined in Webster's 1846 dictionary as follows: "1. In the manege (italics) ['A school for teaching horsemanship, and for training horses.'], a semi-round, or half turn, which a horseman makes.--2. In architecture (italics), a staircase in a helix or spiral form." [definition] (Karah Mitchell)
-</note></l>
+<l n="60">Full of caprice, and the riders too</l>
+<l rend="2em">Curving in many a <ref target="#ref_21141">caricole</ref>.<note xml:id="ref_21141">In horsemanship, a semi-round, or half turn.</note></l>
 <l rend="4em">But marshaled soon, by fours advance—</l>
 <l rend="4em">Mosby had checked that airy dance.</l>
 </lg>
@@ -182,18 +181,14 @@
 <l>The froth of the cup is gone for them</l>
 <l rend="2em">(Caw! caw! the crows through the blueness wing):</l>
 <l rend="4em">Yet these were late as bold, as gay;</l>
-<l n="70" rend="4em">But Mosby—<ref target="#ref_21146">a clip, and grass is hay</ref>.
-<note xml:id="ref_21146">"Cf. Psalms 90: 5-6: 'In the morning they are like grass which groweth up. . . . in the evening it is cut down, and withereth'" (Cohen, 288).  [allusion] (Karah Mitchell)
-</note></l>
+<l n="70" rend="4em">But Mosby—a clip, and grass is hay.</l>
 </lg>
 <lb/>
 <lg>
 <l>How strong they feel on their horses free,</l>
 <l rend="2em">Tingles the tendoned thigh with life;</l>
 <l>Their cavalry-jackets make boys of all—</l>
-<l>With golden breasts like the <ref target="#ref_21195">oriole</ref>;
-<note xml:id="ref_21195">[note about the 43rd Virginia Cavalry uniforms vs the 13th NY Cavalry]
-</note></l>
+<l>With golden breasts like the oriole;</l>
 <l rend="2em">The chat, the jest, and laugh are rife.</l>
 <l rend="4em">But word is passed from the front—a call</l>
 <l rend="4em">For order; the wood is Mosby&apos;s hall.</l>
@@ -225,7 +220,7 @@
 <l rend="2em">(Sacred in person as a priest),</l>
 <l>And on his coat-sleeve broidered nice</l>
 <l>Wore the <ref target="#ref_21147">caduceus</ref>, black and green.
-<note xml:id="ref_21147">Webster's 1846 dictionary offers the following definition: "In ancient mythology (italicized), Mercury's rod, a wand entwisted by two serpents."  The current Merriam-Webster (italicize) dictionary notes, "The Greek god Hermes, who served as herald and messenger to the other gods, carried a winged staff entwined with two snakes. The staff of Aesculapius, the god of healing, had one snake and no wings. The word 'caduceus,' from Latin, is a modification of Greek karykeion, from karyx, meaning 'herald.' Strictly speaking, 'caduceus' should refer only to the staff of the herald-god Hermes (Mercury to the Romans), but in practice the word is often applied to the one-snake staff as well. You might logically expect the staff of Aesculapius to be the symbol of the medical profession-and indeed, that is the symbol used by the American Medical Association. But you will also quite frequently see the true caduceus used as a medical symbol." [definition] (Karah Mitchell)
+<note xml:id="ref_21147">A winged staff entwined with a snake and associated with Aesculapius, the Greek god of healing, is a symbol of the medical profession.
 </note></l>
 <l rend="2em">No wonder he sat so light on his beast;</l>
 <l rend="4em">This cheery man in suit of price</l>
