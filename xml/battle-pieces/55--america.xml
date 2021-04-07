@@ -4,9 +4,6 @@
 		<fileDesc>
 			<titleStmt>
 			<title>53 - America</title>
-
-
-
 		</titleStmt>
 			<publicationStmt>
 
@@ -26,7 +23,7 @@
 				<hi rend="italic">America.</hi>
 				</head>
 				<lb/>
-<head type="sub-head">I.</head>
+<head type="sub-head" rend="10em">I.</head>
 <lg>
 <l><hi rend="smallcaps">Where</hi> the wings of a sunny Dome expand</l>
 <l>I saw a Banner in gladsome air—</l>
