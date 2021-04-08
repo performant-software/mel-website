@@ -69,7 +69,7 @@
 <l rend="8em">No foeman knew the key;</l>
 <l rend="6em">But onward went the marching</l>
 <l rend="8em"><ref target="#BP_RNnote1">Unpausing</ref><note xml:id="BP_RNnote1">In Copy A of <hi rend="italic">Battle-Pieces</hi>, Melville used pencil to add a dash after "marching" at the end of the preceding line and deleted "Unpausing." In the left margin, he inscribed "Right onward," an incremental repetition of "But onward" in the preceding line.</note> to the sea:</l> 
-<l n="35" rend="10em">It was glorious glad marching,</l>
+<l rend="10em">It was glorious glad marching,</l>
 <l rend="10em">The swinging step was free.</l>
 </lg>
 <lg>
@@ -149,7 +149,7 @@
 		</text>
 	</TEI>
 
-<!--
+
 <ref target="#ref_21123">The columns streamed like rivers</ref><note xml:id="ref_21123">THE COLUMNS STREAMED LIKE RIVERS [Allusion—military] For the march from Atlanta to Savannah, Sherman split his infantry in two. Because cavalry protected each of the infantry lines, the Union soldiers formed four parallel columns (“Scorched Earth,” www.civilwar.org).
 Leslie McAbee</note>
 <ref target="#ref_21136">They brushed the foe before them
