@@ -21,7 +21,10 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0136.jpg"/>
 				<head type="main">
-				<hi rend="italic">The March to the Sea.</hi>
+				<ref target="#ref_19216"><hi rend="italic">The March to the Sea.</hi></ref>
+				<note xml:id="ref_19216">First published in February, 1866, "The March to the Sea" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic"></hi> (32: 366-7).
+				 Melville owned a copy of Major George Ward Nichols’s <hi rend="italic">The Story of the Great March</hi>, a possible source for the poem.
+				</note>
 				</head>
 				<head type="sub-head">
 				(<hi rend="smallcaps">December</hi>, 1864.)
@@ -45,9 +48,8 @@
 <l>They brushed the foe before them</l>
 <l rend="2em">(Shall gnats impede the bull?);</l>
 <l n="15">Their own good bridges bore them</l>
-<l rend="2em">Over swamps or torrents full,</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0137.jpg"/>
-And the grand pines waving o&apos;er them</l>
+<l rend="2em">Over swamps or torrents full, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0137.jpg"/></l>
+<l>And the grand pines waving o&apos;er them</l>
 <l rend="2em">Bowed to axes keen and cool.</l>
 <l rend="6em">The columns grooved their channels,</l>
 <l n="20" rend="8em">Enforced their own decree,</l>
@@ -72,9 +74,8 @@ And the grand pines waving o&apos;er them</l>
 </lg>
 <lg>
 <l>The flankers ranged like pigeons</l>
-<l rend="2em">In clouds through field or wood;</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0138.jpg"/>
-The flocks of all those regions,</l>
+<l rend="2em">In clouds through field or wood; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0138.jpg"/></l>
+<l>The flocks of all those regions,</l>
 <l n="40" rend="2em">The herds and horses good,</l>
 <l>Poured in and swelled the legions,</l>
 <l rend="2em">For they caught the marching mood.</l>
@@ -97,11 +98,11 @@ The flocks of all those regions,</l>
 <l rend="6em">Plumed fighters and campaigners</l>
 <l rend="8em">In that marching to the sea:</l>
 <l rend="10em">It was glorious glad marching,</l>
-<l n="60" rend="10em">For every man was free.</l>
+<l n="60" rend="10em">For every man was free. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0139.jpg"/>
+</l>
 </lg>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0139.jpg"/>
-The foragers through calm lands</l>
+<l>The foragers through calm lands</l>
 <l rend="2em">Swept in tempest gay,</l>
 <l>And they breathed the air of balm-lands</l>
 <l rend="2em">Where rolled savannas lay,</l>
@@ -126,11 +127,11 @@ The foragers through calm lands</l>
 <l rend="6em">Arrested in the forging,</l>
 <l rend="8em">Rued that marching to the sea:</l>
 <l rend="10em">It was glorious glad marching,</l>
-<l rend="10em">But ah, the stern decree!</l>
+<l rend="10em">But ah, the stern decree! <pb facs="/images/battle-pieces-v1/battle-pieces-i-0140.jpg"/>
+</l>
 </lg>
 <lg>
-<l n="85"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0140.jpg"/>
-For behind they left a wailing,</l>
+<l n="85">For behind they left a wailing,</l>
 <l rend="2em">A terror and a ban,</l>
 <l>And blazing cinders sailing,</l>
 <l rend="2em">And houseless households wan,</l>
@@ -147,9 +148,8 @@ For behind they left a wailing,</l>
 </div></body>
 		</text>
 	</TEI>
+
 <!--
-<ref target="#ref_19216">The March to the Sea</ref><note xml:id="ref_19216">"March to the Sea" was published in Harper’s New Monthly Magazine 32 (February 1866), 366-7, one of four other poems in Battle-Pieces to be previously published in that journal anonymously." [Intratextuality] “The March to the Sea” was one of five Battle-Pieces poems published in Harper’s New Monthly Magazine. The other Battle-Pieces poems featured in Harper’s included “The Cumberland,” “Phillip,” “Chattanooga,” and “Gettysburg” (Robertson-Lorant 486).[variation][Critical] [Intertextuality] Hennig Cohen notes that Melville owned a copy of Major George Ward Nichols’ The Story of the Great March, which saw 20 printings before Melville published “The March to the Sea” in Harper’s Weekly.[Critical] Frank L. Day argues that Melville drew details for the poem from Brevet Major George Ward Nichols’s The Story of the Great March. One piece of evidence for his theory is the poem’s title, as “The March to the Sea” is the title of the first of three sections in Nichols’s book.(Leslie McAbee)
-</note>
 <ref target="#ref_21123">The columns streamed like rivers</ref><note xml:id="ref_21123">THE COLUMNS STREAMED LIKE RIVERS [Allusion—military] For the march from Atlanta to Savannah, Sherman split his infantry in two. Because cavalry protected each of the infantry lines, the Union soldiers formed four parallel columns (“Scorched Earth,” www.civilwar.org).
 Leslie McAbee</note>
 <ref target="#ref_21136">They brushed the foe before them
