@@ -29,7 +29,7 @@
 			</head>
 <lb/>
 <lg>
-<l><hi rend="smallcaps">So</hi> strong to suffer, shall we be</l>
+<l><hi rend="smallcaps">So</hi> strong to suffer, <ref target="#EDnoteFrenzy1">shall we be</ref><note xml:id="EDnoteFrenzy1">In this poem, Melville's second-person plural "we" represents the voice of defeated Southerners.</note></l>
 <l rend="2em">Weak to contend, and break</l>
 <l>The sinews of the Oppressor&apos;s knee</l>
 <l rend="2em">That grinds upon the neck?</l>
@@ -41,7 +41,7 @@
 <lg>
 <l>Shall Time, avenging every woe,</l>
 <l n="10" rend="2em">To us that joy allot</l>
-<l>Which Israel thrilled when <name ref="https://mel-catalog.herokuapp.com/api/entries/person:201" type="person">Sisera</name>&apos;s brow</l>
+<l>Which Israel thrilled when <ref target="#EDnoteFrenzy2"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:201" type="person">Sisera&apos;s brow</name></ref><note xml:id="EDnoteFrenzy2">According to the book of Judges, the Canaanite commander Sisera, defeated in battle against the oppressed Israelites, escapes and is given a hiding place by Jael, the wife of the Kenite Heber. While the refugee sleeps in her tent, Jael drives a tent peg into Sisera's temple.</note></l>
 <l rend="2em">Showed gaunt and showed the clot?</l>
 <l rend="4em">Curse on their foreheads, cheeks, and eyes—</l>
 <l rend="6em">The Northern faces—true</l>
