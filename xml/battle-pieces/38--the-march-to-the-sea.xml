@@ -37,7 +37,7 @@
 <l rend="2em">Stayed <name ref="https://mel-catalog.herokuapp.com/api/entries/person:138" type="person">Sherman</name>&apos;s miles of men;</l>
 <l n="5">From charred <name ref="https://mel-catalog.herokuapp.com/api/entries/place:486" type="place">Atlanta</name> marching</l>
 <l rend="2em">They launched the sword again.</l>
-<l rend="6em">The columns streamed like rivers</l>
+<l rend="6em">The <ref target="#ref_21123">columns</ref><note xml:id="ref_21123">Sherman split his infantry and cavalry four parallel columns (“Scorched Earth,” www.civilwar.org).</note> streamed like rivers</l>
 <l rend="8em">Which in their course agree,</l>
 <l rend="6em">And they streamed until their flashing</l>
 <l n="10" rend="8em">Met the flashing of the sea:</l>
@@ -68,8 +68,8 @@
 <l rend="6em">To Sherman&apos;s shifting problem</l>
 <l rend="8em">No foeman knew the key;</l>
 <l rend="6em">But onward went the marching</l>
-<l rend="8em"><ref target="#BP_RNnote1">Unpausing</ref><note xml:id="BP_RNnote1">In Copy A of <hi rend="italic">Battle-Pieces</hi>, Melville used pencil to add a dash after "marching" at the end of the preceding line and deleted "Unpausing." In the left margin, he inscribed "Right onward," an incremental repetition of "But onward" in the preceding line.</note> to the sea:</l> 
-<l rend="10em">It was glorious glad marching,</l>
+<l rend="8em"><ref target="#BP_RNnote1">Unpausing</ref> to the sea:<note xml:id="BP_RNnote1">In Copy A of <hi rend="italic">Battle-Pieces</hi>, Melville used pencil to add a dash after "marching" at the end of the preceding line and deleted "Unpausing." In the left margin, he inscribed "Right onward," an incremental repetition of "But onward" in the preceding line.</note></l> 
+<l n="35" rend="10em">It was glorious glad marching,</l>
 <l rend="10em">The swinging step was free.</l>
 </lg>
 <lg>
@@ -149,9 +149,8 @@
 		</text>
 	</TEI>
 
+
 <!--
-<ref target="#ref_21123">The columns streamed like rivers</ref><note xml:id="ref_21123">THE COLUMNS STREAMED LIKE RIVERS [Allusion—military] For the march from Atlanta to Savannah, Sherman split his infantry in two. Because cavalry protected each of the infantry lines, the Union soldiers formed four parallel columns (“Scorched Earth,” www.civilwar.org).
-Leslie McAbee</note>
 <ref target="#ref_21136">They brushed the foe before them
   (Shall gnats impede the bull?)</ref><note xml:id="ref_21136">THEY BRUSHED THE FOE...IMPEDE THE BULL [Allusion—historical—military] Sherman’s troops were in greater numbers and better supply than Confederate forces that attempted to rout the Federals on the march. Even the substantive Confederate force, Joseph Wheeler’s cavalry, hardly posed a threat to Sherman’s men. One small Confederate militia under the command of Brig. General Pleasant J. Phillips engaged Sherman’s rear guard near Griswoldville, GA on November 22. The Confederates were decimated in the skirmish; Union soldiers discovered afterward that Phillips’s troops were primarily young boys and elderly men (“Scorched Earth,” www.civilwar.org).
 (Leslie McAbee)</note>;
