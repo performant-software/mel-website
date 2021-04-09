@@ -21,16 +21,16 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0126.jpg"/>
 				<head type="main">
-				<hi rend="italic">In the Prison Pen.</hi>
+				<hi rend="italic"><ref target="#EDnotePrisonPen1">In the Prison Pen.</ref><note xml:id="EDnotePrisonPen1">Melville drew upon documents in <hi rend="italic">The Rebellion Record</hi> (vol. 8) reporting on conditions in prisoner of war camps holding Union captives.</note></hi>
 				</head>
 				<head type="sub-head">
 				(1864.)
 				</head>
-
+<lb/>
 <lg>
 <l><hi rend="smallcaps">Listless</hi> he eyes the palisades</l>
 <l rend="2em">And sentries in the glare;</l>
-<l>&apos;Tis barren as a pelican-beach—</l>
+<l>&apos;Tis barren as a <ref target="#ref_19248">pelican-beach</ref><note xml:id="ref_19248">For Melville's odd reference, see Psalm 102: "I am like a pelican of the wilderness: I am like an owl of the desert." Melville marked the verse that follows in his Bible: "I watch, and am as a sparrow alone upon the house top." (NN <hi rend="italic">Published Poems</hi> 653). The marked line resonates with "lonely watcher" in "Aurora-Borealis" and, of course, "The House-top."</note>—</l>
 <l rend="2em">But his world is ended there.</l>
 </lg>
 <lg>
@@ -62,7 +62,6 @@
 		</text>
 	</TEI>
 <!--
-<ref target="#ref_19248">pelican-beach</ref><note xml:id="ref_19248">For Melville's odd reference, see Psalm 102: "I am like a pelican of the wilderness: I am like an owl of the desert." Melville marked the lines that follow in his Bible: "I watch, and am as a sparrow alone upon the house top." (NN Published Poems 653). The marked line resonates with "lonely watcher" in "Aurora-Borealis" and, of course, "The House-top."</note>
 Around him swarm <ref target="#ref_19251">the plaining ghosts
   Like those on <name ref="https://mel-catalog.herokuapp.com/api/entries/person:203" type="person">Virgil</name>&apos;s shore</ref><note xml:id="ref_19251">See the Aeneid, 6, 297-316 and its reference to "the unsanctified dead who plead with Charon to be carried across the River Styx." (Cohen 253) [reference, literary]</note>
 A <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:914" type="artwork"><ref target="#ref_19279">den</ref><note xml:id="ref_19279">Augustus C. Hamlin describes these earthen dens at length in his 1866 book Martyria; or, Andersonville Prison: “Sometimes the heavy rains washed away the roofs of mud, inundating the occupants beneath. Some of the poor wretches had not the strength to lift up the incumbent mass of earth, and perished miserably in their dens” (56). (Leslie McAbee)</note> that sick hands dug in earth</name>
