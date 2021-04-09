@@ -20,7 +20,8 @@
 			<body><div id="36--a-dirge-for-mcpherson">
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0132.jpg"/>
 				<head type="main">
-				<hi rend="italic">A Dirge for <name ref="https://mel-catalog.herokuapp.com/api/entries/person:171" type="person">McPherson</name>,</hi>
+				<hi rend="italic">A Dirge for <ref target="#EDnoteMcPherson1"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:171" type="person">McPherson</name></ref>,<note xml:id="EDnoteMcPherson1">General James Birdsall McPherson, the Union's second-h9ghest ranking officer, had distinguished himself under Grant at Shiloh and was serving under Sherman in Georgia, when, on the morning of the Battle of Atlanta, he was surprised by Confederate skirmishers and killed while attempting to escape.
+			</note></hi>
 				<hi rend="super">m</hi> 
 				</head>
 				<head type="sub-head">
@@ -71,13 +72,14 @@
 </lg>
 <lg>
 <l rend="6em"><hi rend="italic">True fame is his, for life is o&apos;er—</hi></l>
-<l rend="6em"><hi rend="italic">Sarpedon of the mighty war.</hi></l>
+<l rend="6em"><hi rend="italic"><ref target="#ref_20997"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:225" type="person">Sarpedon</name></ref><note xml:id="ref_20997">Human son of Zeus, the Thracian king Sarpedon fought for Troy in the Trojan War and was killed in combat with Patroclus, who wore Achilles armor, as described in the Iliad. Sarpedon's ascension to heaven is depicted in a painting by Fuseli. Melville's choice of Sarpedon may have been influenced by his reading of Pope's treatment of Sarpendon and fame in his translation of the <hi rend="italic">Iliad</hi>: "The life which others pay, let us bestow, / And give to fame what we to nature owe." Melville owned Pope's <hi rend="italic">Iliad</hi> (Sealts #147). He could have found the couplet as well in his copy of an 1865 edition of Matthew Arnold's <hi rend="italic">Essays in Criticism</hi> (Sealts #17; see NN
+<hi rend="italic">Published Poems</hi>, 655).</note> of the mighty war.</hi></l>
 </lg>
-
+<lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0258.jpg"/>
 <p xml:id="BP_noteM"><hi rend="smallcaps">Note m</hi>, <hi rend="italic">page</hi> 124.
 <p>The late Major General McPherson, commanding the Army of the Tennessee, a native of Ohio and a West Pointer, was one of the foremost spirits of the war. Young, though a veteran; hardy, intrepid, sensitive in honor, full of engaging qualities, with manly beauty; possessed of genius, a favorite with the army, and with Grant and Sherman. Both Generals have generously acknowledged their professional obligations to the able engineer and admirable soldier, their subordinate and junior.
-</p><p>In an informal account written by the Achilles to this Sarpedon, he says:<pb facs="/images/battle-pieces-v1/battle-pieces-i-0259.jpg"/></p><p>"On that day we avenged his death. Near twenty-two hundred of the enemy's dead remained on the ground when night closed upon the scene of action."</p><p>It is significant of the scale on which the war was waged, that the engagement thus written of goes solely (so far as can be learned) under the vague designation of one of the battles before Atlanta.
+</p><p>In an informal account written by the <ref target="#EDnoteMcPherson2">Achilles to this Sarpedon</ref><note xml:id="EDnoteMcPherson2">Melville is confused in assigning the role of Sarpedon's avenger to Achilles, who was the friend of Patroclus and Sarpedon's rival. Sarpedon's Trojan ally Hector is the more likely figure to play the role. The passage Melville quotes is from General Sherman's "The Late Major General J.B. McPherson" in the magazine <hi rend="italic">Hours at Home</hi> 2.6 (April 1866): 485-93 (See Scott Norsworthy, "If 6 was 9," https://melvilliana.blogspot.com)</note>, he says:<pb facs="/images/battle-pieces-v1/battle-pieces-i-0259.jpg"/></p><p>"On that day we avenged his death. Near twenty-two hundred of the enemy's dead remained on the ground when night closed upon the scene of action."</p><p>It is significant of the scale on which the war was waged, that the engagement thus written of goes solely (so far as can be learned) under the vague designation of one of the battles before Atlanta.
 </p>
 </p>
 </div>
@@ -93,5 +95,4 @@ Muffled <name ref="https://mel-catalog.herokuapp.com/api/entries/event:37" type=
 McPherson comes.
 <ref target="#ref_20994">There&apos;s a <name ref="https://mel-catalog.herokuapp.com/api/entries/event:36" type="event">trumpet</name> that shall rend
     This Soldier&apos;s sleep.</ref><note xml:id="ref_20994">[Allusion] [Biblical] An allusion to Matthew 24:31 where Christ describes the return of the son of man. "And he shall send his angels with a great sound of a trumpet, and they shall gather together his elect from the four winds, from one end of heaven to the other." (KJV) (Eric Meckley)</note>
-<ref target="#ref_20997"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:225" type="person">Sarpedon</name></ref><note xml:id="ref_20997">[allusion] [literary] Melville is likely alluding to Sarpedon, son of Zeus and  Laodamia, who was killed in the Trojan war. His death and burial is described in the Iliad, a copy of which Melville received as a gift from George Duyckinck in 1858 (Sealts 277). (Eric Meckley)</note>
 -->
