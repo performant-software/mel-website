@@ -21,9 +21,11 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0128.jpg"/>
 				<head type="main">
-				<hi rend="italic">The College Colonel.</hi>
-				</head>
+				<hi rend="italic">The College Colonel.</hi><ref target="#ref_19205"><ref target="#ref_19211"></ref><note xml:id="ref_19211">Edmund Clarence Stedman included Melville's poem in his 1900 <hi rend="italic">An American Anthology, 1787-1900</hi>, 235.</note></ref><note xml:id="ref_19205">William Francis Bartlett (1840-1876) left Harvard in his junior year to enlist as a private in the Union army at the start of the war, was later commissioned as a captain in the 20th Massachusetts Infantry (aka “The Harvard Regiment”), distinguished himself at Ball’s Bluff, lost a leg in the Peninsular Campaign, and in fall 1862 organized the 49th Massachusetts Infantry (stationed in Pittsfield), Melville’s hometown. Wounded again, he returned to Pittsfield, his arm in a sling, to lead his regiment—reduced by a third—in a parade on August 22, 1863, around the time Melville and his family relocated to New York City. Returning to battle, Bartlett was wounded again (in the Battle of the Wilderness), and again (in the Battle of the Crater), where he was captured and spent two months in Libby Prison. At war’s end, he was 25 and returned to Pittsfield where he married and raised a family of six children.
+			</note>
 
+				</head>
+<lb/>
 <lg>
 <l><hi rend="smallcaps">He</hi> rides at their head;</l>
 <l rend="2em">A crutch by his saddle just slants in view,</l>
@@ -32,7 +34,7 @@
 </lg>
 <lg>
 <l n="5">He brings his regiment home—</l>
-<l rend="2em">Not as they filed <ref target="#ref_19197">two years</ref><note xml:id="ref_19197">Bartlett and the soldiers of the Massachusetts 49th paraded in Pittsfield, Massachusetts on April 22, 1863. Stanton Garner notes how Melville fictionalized the Pittsfield parade of Bartlett and his soldiers by placing it later in time. The parade was a little over nine months before and not two years (Garner 266-269).</note> before,</l>
+<l rend="2em">Not as they filed <ref target="#ref_19197">two years</ref><note xml:id="ref_19197">The regiment was formed nine months, not two years, before the parade (Garner 266-69).</note> before,</l>
 <l>But a remnant half-tattered, and battered, and worn,</l>
 <l>Like castaway sailors, who—stunned</l>
 <l rend="4em">By the surf&apos;s loud roar,</l>
@@ -45,11 +47,10 @@
 <l rend="2em">An Indian aloofness lones his brow;</l>
 <l n="15">He has lived a thousand years</l>
 <l>Compressed in battle&apos;s pains and prayers,</l>
-<l rend="2em">Marches and watches slow.</l>
+<l rend="2em">Marches and watches slow. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0129.jpg"/></l>
 </lg>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0129.jpg"/>
-There are <ref target="#ref_19203">welcoming shouts, and flags</ref><note xml:id="ref_19203">"The residence of J. R. Morewood, Esq., was handsomely illuminated, and there was a fine display of fireworks on his grounds, on Saturday evening, in honor of the return of the 49th, and the Colonel of the Regiment."  The Melvilles decorated their home Arrowhead with "Flags and festoons." Pittsfield Sun (August 27, 1863) (Leyda, Log, 662; Cohen 253-4)</note>;</l>
+<l>There are <ref target="#ref_19203">welcoming shouts, and flags</ref><note xml:id="ref_19203">About the time that the 49th Infantry had arrived in Pittsfield, in November 1862, the Melville family had moved out of their Arrowhead farmhouse and took up residence in town. For the April 22, 1863 parade, the Melvilles decorated their South Street home with "Flags and festoons," as reported on August 27, 1863 in the <hi rend="italic">Berkshire County Eagle</hi> (Melville Log 2.662)</note>;</l>
 <l rend="2em">Old men off hat to the Boy,</l>
 <l n="20">Wreaths from gay balconies fall at his feet,</l>
 <l rend="2em">But to <hi rend="italic">him</hi>—there comes alloy.</l>
@@ -61,7 +62,7 @@ There are <ref target="#ref_19203">welcoming shouts, and flags</ref><note xml:id
 <l n="25" rend="2em">Self he has long disclaimed.</l>
 </lg>
 <lg>
-<l>But all through the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">Seven Days&apos; Fight</name>,</l>
+<l>But all through the <ref target="#EDnoteCollege1"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">Seven Days&apos; Fight</name></ref><note xml:id="EDnoteCollege1">Bartlett was back at Harvard during the Seven Days Battles.</note>,</l>
 <l rend="2em">And deep in the Wilderness grim,</l>
 <l>And in the field-hospital tent,</l>
 <l rend="2em">And <ref target="#ref_19190"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:13" type="place">Petersburg</name> crater</ref><note xml:id="ref_19190">See "The Apparition."</note>, and dim</l>
@@ -74,6 +75,5 @@ https://en.wikipedia.org/wiki/Libby_Prison</note>, there came—</l>
 		</text>
 	</TEI>
 <!--
-<ref target="#ref_19205"><ref target="#ref_19211"></ref><note xml:id="ref_19211">This poem was included in Edmund Clarence Stedman's An American Anthology, 1787-1900, Boston and New York: Houghton, Mifflin, 1900, 235.</note></ref><note xml:id="ref_19205">https://en.wikipedia.org/wiki/William_Francis_Bartlett</note>
 <ref target="#ref_19201">half-tattered</ref><note xml:id="ref_19201">"To have marched into Pittsfield in all our dirt and rags would have have been an affectation of heroism."  Henry T. Johns, Life with the Forty-ninth Massachusetts Volunteers [Rev. ed.] Washington, D.C.: Ramsey and Bisbee, 1890, 403  (Garner 269)</note>
 -->
