@@ -24,7 +24,7 @@
 				<hi rend="italic">The Eagle of the Blue.</hi>
 				<hi rend="super">l</hi> 
 			  </head>
-
+<lb/>
 <lg>
 <l><hi rend="smallcaps">Aloft</hi> he guards the starry folds</l>
 <l rend="2em">Who is the brother of the star;</l>
@@ -48,10 +48,10 @@ https://en.wikipedia.org/wiki/Sibyl</note>&apos;s hour.</l>
 <l>Amid the scream of shells, his scream</l>
 <l rend="2em">Runs shrilling; and the glare</l>
 <l n="15">Of eyes that brave the blinding sun</l>
-<l rend="2em">The vollied flame can bear.</l>
+<l rend="2em">The vollied flame can bear. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0131.jpg"/></l>
 </lg>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0131.jpg"/>
+<l>
 The pride of quenchless strength is his—</l>
 <l rend="2em">Strength which, though chained, avails;</l>
 <l>The very rebel looks and thrills—</l>
@@ -70,7 +70,7 @@ The pride of quenchless strength is his—</l>
 </p>
 </p>
 </div>
-
+<lb/>
 </div></body>
 		</text>
 	</TEI>
