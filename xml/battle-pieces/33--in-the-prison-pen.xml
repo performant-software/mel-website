@@ -41,14 +41,14 @@
 </lg>
 <lg>
 <l>Around him swarm the plaining ghosts</l>
-<l n="10" rend="2em">Like those on <name ref="https://mel-catalog.herokuapp.com/api/entries/person:203" type="person">Virgil</name>&apos;s shore—</l>
+<l n="10" rend="2em">Like those on <ref target="#ref_19251"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:203" type="person">Virgil</name>&apos;s shore</ref><note xml:id="ref_19251">In the Aeneid, Virgil describes "the unsanctified dead who plead with Charon to be carried across the River Styx" (6.297-316; Cohen 253)</note>—</l>
 <l>A wilderness of faces dim,</l>
 <l rend="2em">And pale ones gashed and hoar.</l>
 </lg>
 <lg>
 <l>A smiting sun. No shed, no tree;</l>
 <l rend="2em">He totters to his lair—</l>
-<l n="15">A den that sick hands dug in earth</l>
+<l n="15">A <ref target="#ref_19279">den</ref><note xml:id="ref_19279">Augustus C. Hamlin describes the earthen dens of Georgia's Andersonville prison in his 1866 Martyria (56).</note> that sick hands dug in earth</l>
 <l rend="2em">Ere famine wasted there, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0127.jpg"/>
 </l>
 </lg>
@@ -62,7 +62,5 @@
 		</text>
 	</TEI>
 <!--
-Around him swarm <ref target="#ref_19251">the plaining ghosts
-  Like those on <name ref="https://mel-catalog.herokuapp.com/api/entries/person:203" type="person">Virgil</name>&apos;s shore</ref><note xml:id="ref_19251">See the Aeneid, 6, 297-316 and its reference to "the unsanctified dead who plead with Charon to be carried across the River Styx." (Cohen 253) [reference, literary]</note>
-A <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:914" type="artwork"><ref target="#ref_19279">den</ref><note xml:id="ref_19279">Augustus C. Hamlin describes these earthen dens at length in his 1866 book Martyria; or, Andersonville Prison: “Sometimes the heavy rains washed away the roofs of mud, inundating the occupants beneath. Some of the poor wretches had not the strength to lift up the incumbent mass of earth, and perished miserably in their dens” (56). (Leslie McAbee)</note> that sick hands dug in earth</name>
+A <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:914" type="artwork"><ref target="#ref_19279">den</ref><note xml:id="ref_19279">Augustus C. Hamlin describes these earthen dens Georgia's Andersonville prison in his 1866 Martyria (56).</note> that sick hands dug in earth</name>
 -->
