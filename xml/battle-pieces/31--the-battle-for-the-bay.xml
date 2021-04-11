@@ -21,7 +21,8 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0118.jpg"/>
 				<head type="main">
-				<hi rend="italic"><name type="event">The Battle for the Bay</name>.</hi>
+				<ref target="#EDnoteBattleBay1"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:996" type="artwork"><hi rend="italic">The Battle for the Bay.</hi></name></ref>
+				<note xml:id="EDnoteBattleBay1">Mobile (Alabama) Bay was the last Confederate port east of the Mississippi River to be taken, and on August 5, 1864, rear Admiral David G. Farragut, commanding a Union fleet of 14 conventional warships and four Monitor-like turreted ironclads, including the Tecumseh, seized the bay enabling the eventual capture of the forts guarding the bay. The smaller confederate fleet consisted of three warships and the Merrimack-style ironclad Tennessee. The bay's entrance was also heavily mined, and the greatest loss of Union sailors in the battle was to 93 of Tecumseh's crew of 114 when the ship struck a mine (torpedo). Nevertheless, Farragut ordered his ships into the bay; his famous (unlikely) command of "Damn the topedoes; full speed ahead" was not reported until some years after the end of the war. To get a better view of the conflict from his flagship Hartford, Farragut had himself lashed to an upper mast.</note>
 				</head>
 				<head type="sub-head">
 				(<hi rend="smallcaps">August</hi>, 1864.)
@@ -50,7 +51,7 @@
 <lg>
 <l>But drums are beat: <hi rend="italic">Up anchor all!</hi></l>
 <l rend="2em">The triple lines steam slowly on;</l>
-<l>Day breaks, and through the sweep of decks each man</l>
+<l>Day breaks, <ref target="#EDnoteBattleBayRN1">and through</ref><note xml:id="EDnoteBattleBayRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to underline "and through" and inscribed "; along" in the right margin, with the idea of replacing the comma preceding the underlined phrase with a semicolon.</note> the sweep of decks each man <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0121.jpg"/></l>
 <l n="20" rend="4em">Stands coldly by his gun—</l>
 <l>As cold as it. But he shall warm—</l>
 <l rend="2em">Warm with the solemn metal there,</l>
@@ -58,11 +59,11 @@
 <l>In attitude a gladiatorial form.</l>
 </lg>
 <lg>
-<l n="25">The Admiral—yielding to the love</l>
+<l n="25">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Admiral</name>—yielding to the love</l>
 <l rend="2em">Which held his life and ship so dear—</l>
 <l>Sailed second in the long fleet&apos;s midmost line;</l>
 <l rend="4em">Yet thwarted all their care:</l>
-<l>He <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:996" type="artwork">lashed himself aloft</name>, and shone</l>
+<l>He lashed himself aloft, and shone</l>
 <l n="30" rend="2em">Star of the fight, with influence sent</l>
 <l rend="2em">Throughout the dusk embattlement;</l>
 <l>And so they neared the strait and walls of stone.</l>
@@ -75,13 +76,13 @@
 <l>Out spake the forts on either hand,</l>
 <l rend="2em">Back speak the ships when spoken to, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0120.jpg"/></l>
 <l rend="2em">And set their flags in concert true,</l>
-<l n="40">And <hi rend="italic">On and in!</hi> is <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name>&apos;s command.</l>
+<l n="40">And <hi rend="italic">On and in!</hi> is Farragut&apos;s command.</l>
 </lg>
 <lg>
 <l>But what delays? &apos;mid wounds above</l>
 <l rend="2em">Dim buoys give hint of death below—</l>
 <l>Sea-ambuscades, where evil art had aped</l>
-<l rend="4em">Hecla that hides in snow.</l>
+<l rend="4em"><ref target="#EDnoteBattleBay2">Hecla</ref><note xml:id="EDnoteBattleBay2">Iceland's snow-capped Hecla is an active volcano that erupted from fall 1845 to spring 1846 as Melville was writing <hi rend="italic">Typee</hi></note> that hides in snow.</l>
 <l n="45">The centre-van, entangled, trips;</l>
 <l rend="2em">The starboard leader holds straight on:</l>
 <l rend="2em">A cheer for the Tecumseh!—nay,</l>
@@ -146,13 +147,13 @@
 <l>Yet stormed on all sides, narrowed in,</l>
 <l rend="2em">Hampered and cramped, the bad one fought—</l>
 <l n="95" rend="2em">Spat ribald curses from the port</l>
-<l>Who shutters, jammed, locked up this <ref target="#ref_21003">Man-of-Sin</ref><note xml:id="ref_21003">"Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition."  2 Thessalonians 2:3 [Allusion, Biblical] (Shurr, 38)</note>.</l>
+<l>Who shutters, jammed, locked up this <ref target="#ref_21003">Man-of-Sin</ref><note xml:id="ref_21003">"Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition."  2 Thessalonians 2:3 (Cohen 251; Shurr 38)</note>.</l>
 </lg>
 <lg>
 <l>No pause or stay. They made a din</l>
 <l rend="2em">Like hammers round a boiler forged;</l>
 <l>Now straining strength tangled itself with strength,</l>
-<l n="100" rend="4em">Till Hate her will disgorged.</l>
+<l n="100" rend="4em"><ref target="#EDnoteBattleBay3">Till</ref><note xml:id="EDnoteBattleBay3">In every 8-line stanza, Melville deeply indents the fourth trimeter line, giving visual impact to his three-beat line. However, line 100 is given only a shallow indentation. The Editors of the NN <hi rend="italic">Published Poems</hi> emend the line by giving it its proper indentation, as does MEL.</note> Hate her will disgorged. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0124.jpg"/></l>
 <l>The white flag showed, the fight was won—</l>
 <l rend="2em">Mad shouts went up that shook the Bay; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0123.jpg"/></l>
 <l rend="2em">But pale on the scarred fleet&apos;s decks there lay</l>
