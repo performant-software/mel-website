@@ -21,7 +21,7 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0124.jpg"/>
 				<head type="main">
-				<ref target="#EDnoteSheridan1"><hi rend="italic"><ref target="#ref_19226"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name>.</ref></hi></ref><note xml:id="EDnoteSheridan1">First published as “Philip” in April 1866, "Sheridan at Cedar Creek" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32: 640). The Harper's version varies substantially in only one couplet noted below; other variants include 22 changes in punctuation, 2 typos, and 4 sets of lines regarding indentation. Sheridan's victory at Cedar Creek, a dramatic upset, was a turning point in the final stages of the war. Confederate general Jubal Early had put Union forces in disarray with troops running off in an unauthorized retreat. Some miles south of the battle, in Winchester, VA, Sheridan got wind of the retreat, mounted his horse Rienzi, and rode twenty miles in 90 minutes, first with three aides then with 300 cavalry, to the front and inspired his retreating men to return to battle, thus defeating the Confederates. Sheridan became a popular hero, and he renamed his horse "Winchester." Lost in battle was Melville's acquaintance Colonel Charles Russell Lowell, featured as the newly-wed officer in "The Scout toward Aldie." Melville's "Sheridan at Cedar Creek" is a likely response to artist Thomas Buchanan Read's patriotic poem, "Sheridan's Ride," which appeared on Election Day, 1864, in Horace Greeley's New York Tribune. Melville's poem was also reprinted in Richard Henry Stoddard's 1873 edition of Rufus Griswold's <hi rend="italic">Poets and Poetry of America</hi>.
+				<ref target="#EDnoteSheridan1"><hi rend="italic"><ref target="#ref_19226"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name>.</ref></hi></ref><note xml:id="EDnoteSheridan1">First published as “Philip” in April 1866, "Sheridan at Cedar Creek" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32: 640). The Harper's version varies substantially in only one couplet noted below; other variants include 22 changes in punctuation, 2 typos, and 4 sets of lines regarding indentation. Sheridan's victory at Cedar Creek, a dramatic upset, was a turning point in the final stages of the war. Confederate general Jubal Early had put Union forces in disarray with troops running off in an unauthorized retreat. Some miles south of the battle, in Winchester, VA, Sheridan got wind of the retreat, mounted his horse Rienzi, and rode twenty miles in 90 minutes, first with three aides then with 300 cavalry, to the front and inspired his retreating men to return to battle, thus defeating the Confederates. Sheridan became a popular hero, and he renamed his horse "Winchester." Lost in battle was Melville's acquaintance Colonel Charles Russell Lowell, featured as the newly-wed officer in "The Scout toward Aldie." Melville's "Sheridan at Cedar Creek" is a likely response to artist Thomas Buchanan Read's patriotic poem, "Sheridan's Ride," which appeared on Election Day, 1864, in Horace Greeley's <hi rend="italic">New York Tribune</hi>. Melville's poem was also reprinted in Richard Henry Stoddard's 1873 edition of Rufus Griswold's <hi rend="italic">Poets and Poetry of America</hi>.
 			</note>
 				</head>
 				<head type="sub-head">
@@ -31,8 +31,7 @@
 <lg>
 <l><hi rend="smallcaps">Shoe</hi> the steed with silver</l>
 <l rend="2em">That bore him to the fray,</l>
-<l><ref target="#ref_20924">When he heard the guns at dawning</ref><note xml:id="ref_20924"> an early account written after the battle and published throughout the North. Read's first stanza also describes Sheridan hearing the guns and realizing the battle had begun anew.
-(Eric Meckley) </note>—</l>
+<l>When he heard the guns at dawning—</l>
 <l rend="8em">Miles away;</l>
 <l n="5" >When he heard them calling, calling—</l>
 <l rend="6em">Mount! nor stay:</l>
@@ -47,8 +46,8 @@
 <l>White through the red October;</l>
 <l rend="2em">He thundered into view;</l>
 <l n="15">They cheered him in the looming,</l>
-<l rend="2em">Horseman and horse they knew.</l>
-<l rend="8em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0125.jpg"/>
+<l rend="2em">Horseman and horse they knew. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0125.jpg"/></l>
+<l rend="8em">
 The turn of the tide began,</l>
 <l rend="8em">The rally of bugles ran,</l>
 <l rend="8em">He swung his hat in the van;</l>
