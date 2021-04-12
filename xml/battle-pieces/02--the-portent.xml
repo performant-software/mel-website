@@ -18,8 +18,9 @@
 		<body>
 			<div xml:id="the-portent">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0019.jpg"/>
-				<head type="main"><hi rend="italic">The Portent.</hi></head>
-				<head type="sub-head">(1859.)</head><lb/>
+				<head type="main"><ref target="#EDnotePortent1"><hi rend="italic">The Portent.</hi></ref><note xml:id="EDnotePortent1">In mid-October 1859, radical abolitionist John Brown (1800-1859) led a raid on the US arsenal at Harpers Ferry, VA, in order to instigate a slave insurrection; he was captured, tried, and convicted of treason, and hanged a month later on December 2.</note></head>
+				<head type="sub-head">(1859.)</head>
+				<lb/>
 
 				<lg type="stanza" n="1">
 					<l><hi rend="italic">Hanging from the beam,</hi></l>
@@ -27,7 +28,7 @@
 					<l><hi rend="italic">Gaunt the shadow on your green,</hi></l>
 					<l rend="2em"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:515" type="place">Shenandoah</name>!</hi></l>
 					<l n="5"><hi rend="italic"><ref target="#ref_20374">The cut is on the crown</ref></hi><note xml:id="ref_20374">In his attack on Harpers Ferry, Brown received a cut on his head from the sword of one of his own men. See also a Shakespearean echo: "It is no English treason to cut French crowns" (<hi rend="italic">Henry V</hi>, 4.i. 245).</note></l>
-					<l><hi rend="italic">(Lo, <ref target="#EDnotePortent1"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:119" type="person">John Brown</name></ref>),</hi><note xml:id="EDnotePortent1">In mid-October 1859, radical abolitionist John Brown (1800-1859) led a raid on the US arsenal at Harpers Ferry, VA, in order to instigate a slave insurrection; he was captured, tried, and convicted of treason, and hanged a month later on December 2.</note></l>
+					<l><hi rend="italic">(Lo, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:119" type="person">John Brown</name>),</hi></l>
 					<l><hi rend="italic">And the stabs shall heal no more.</hi></l>
 				</lg>
 
