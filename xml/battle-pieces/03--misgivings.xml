@@ -23,7 +23,9 @@
 		<text>
 			<body><div xml:id="misgivings">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0021.jpg"/>
-				<head type="main"><hi rend="italic">Misgivings.</hi></head> <lb/> <head type="sub-head">(1860.)</head> <lb/>
+				<head type="main"><hi rend="italic">Misgivings.</hi></head>
+				<head type="sub-head">(1860.)</head>
+				<lb/>
 				<lg type="stanza" n="1">
 					<l rend="2em"><hi rend="smallcaps">When</hi> ocean-clouds over inland hills</l>
 					<l rend="4em">Sweep storming in late autumn brown,</l>
@@ -31,7 +33,7 @@
 					<l rend="4em">And the spire falls crashing in the town,</l>
 					<l n="5" rend="2em">I muse upon my country&apos;s ills—</l>
 					<l rend="2em">The tempest bursting from the waste of Time</l>
-					<l>On the world&apos;s fairest hope linked with man&apos;s foulest crime.</l>
+					<l>On the world&apos;s fairest hope linked with <ref target="#EDnotePhotograph1">man&apos;s foulest crime</ref><note xml:id="EDnotePhotograph1">Melville’s “foulest crime” echoes “indignant sentiments” by popular hymnist and poet William Cowper, identifying slavery “As human nature’s broadest, foulest blot.” Cowper’s sentiments were anthologized in Lindsay Murray’s <hi rend="italic">English Reader</hi>, one of Melville’s school books. In <hi rend="italic">Mardi</hi> (1849), Melville calls slavery “a sin it is, no less; —a blot, foul as the crater-pool of hell” (534). See John Bryant, <hi rend="italic">Herman Melville: A Half Known Life</hi> 1.105-106.</note>.</l>
 				</lg>
 				<lg>
 					<l rend="2em">Nature&apos;s dark side is heeded now—</l>
