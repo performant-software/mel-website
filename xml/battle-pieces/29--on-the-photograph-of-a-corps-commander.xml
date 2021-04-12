@@ -21,7 +21,7 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0113.jpg"/>
 				<head type="main">
-				<ref target="#EDnotePhotographl1"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:907" type="artwork">On the Photograph of a Corps Commander.</name></hi></ref>
+				<ref target="#EDnotePhotograph1"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:907" type="artwork">On the Photograph of a Corps Commander.</name></hi></ref>
 				<note xml:id="EDnotePhotograph1">A likely source for the corps commander is General Winfield Scott Hancock. Wounded in the Union repulse of Pickett’s Charge at Gettysburg, he was told that as a commander he should not have risked his life, and replied: "There are times when a corps commander's life does not count." Hancock led a decisive charge during the Battle of Spotsylvania over a year later.</note>
 				</head>
 <lb/>
