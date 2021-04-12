@@ -21,9 +21,9 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0113.jpg"/>
 				<head type="main">
-				<hi rend="italic">On <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:907" type="artwork">the Photograph of <name type="person">a Corps Commander</name></name></hi>
+				<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:907" type="artwork">On the Photograph of a Corps Commander.</name></hi>
 				</head>
-
+<lb/>
 <lg>
 <l><hi rend="smallcaps">Ay,</hi> man is manly. <name type="artwork">Here</name> you see</l>
 <l rend="2em">The warrior-carriage of the head,</l>
@@ -44,9 +44,8 @@
 <l>Trace back his lineage, and his sires,</l>
 <l rend="2em">Yeoman or noble, you shall find</l>
 <l n="15">Enrolled with <name type="person">men of <name type="event">Agincourt</name></name>,</l>
-<l rend="2em">Heroes who shared <name ref="Henry" type="person">great Harry</name>&apos;s mind.</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0114.jpg"/>
-Down to us come the <name type="person">knightly Norman</name> fires,</l>
+<l rend="2em">Heroes who shared <name ref="Henry" type="person">great Harry</name>&apos;s mind. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0114.jpg"/></l>
+<l>Down to us come the <name type="person">knightly Norman</name> fires,</l>
 <l rend="2em">And front the <name type="person">Templars</name> bore.</l>
 </lg>
 <lg>
