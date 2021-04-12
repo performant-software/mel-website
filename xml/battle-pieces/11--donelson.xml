@@ -20,10 +20,11 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-		    <body><div xml:id="donelson"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0041.jpg"/>
-				<head><hi rend="italic"><ref target="#ref_21098">Donelson</ref></hi><note xml:id="ref_21098">Melville's probable sources are the various newspaper accounts collected in <hi rend="italic">The Rebellion Record</hi> (see Cohen, 16–19). The battle at Fort Donelson, near Dover, Tennessee, on 12-16 February 1862, ended with Confederate forces surrendering to Grant and abandoning its positions in Kentucky and northern Tennessee.</note>.</head><lb/>
+		    <body><div xml:id="donelson">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0041.jpg"/><lb/>
+				<head><ref target="#ref_21098"><hi rend="italic">Donelson</hi></ref><note xml:id="ref_21098">Melville's probable sources are the various newspaper accounts collected in <hi rend="italic">The Rebellion Record</hi> (see Cohen, 16–19). The battle at Fort Donelson, near Dover, Tennessee, on 12-16 February 1862, ended with Confederate forces surrendering to Grant and abandoning its positions in Kentucky and northern Tennessee.</note>.</head>
 				<head type="sub-head">(<hi rend="smallcaps">February</hi>, 1862.)</head>
-
+<lb/>
 <lg>
     <l rend="2em"><hi rend="smallcaps">The</hi> bitter cup</l>
     <l rend="4em">Of that hard countermand</l>
@@ -42,13 +43,13 @@
 <ref target="#ref_21129">“No seeing here,”</ref><note xml:id="ref_21129">Megan Williams argues that Battle-Pieces, published in the same year as George Barnard’s Photographic Views and Alexander Gardner’s Photographic Sketch-Book of the Civil War, “weighs the power of the written word against the act of representing this historical moment photographically” (142). The phrase “no seeing here” “…underscores the obvious fact that the telegraph and the written word do not offer the immediate visual images of the photograph” (154).</note>
 -->
 <lg>
-    <l><hi rend="smallcaps">Important</hi>.</l>
-                      <l rend="6em"><hi rend="italic"> We learn that General <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name>,</hi></l>
-                   <l n="15" rend="4em"><hi rend="italic">Marching from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:458" type="place">Henry</name> overland,</hi></l>
-               <l rend="2em"><hi rend="italic">And joined by a force up the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:459" type="place">Cumberland</name> sent</hi></l>
-                   <l rend="4em"><hi rend="italic">(Some thirty thousand the command),</hi></l>
-    <l rend="2em"><hi rend="italic"> On <ref target="#ref_19085">Wednesday</ref><note xml:id="ref_19085">February 12, 1862.</note> a good position won—</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0042.jpg"/></l>
-    <l rend="2em"><hi rend="italic">Began the siege of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Donelson</name>.</hi></l>
+<l><hi rend="smallcaps">Important</hi>.</l>
+<l rend="6em"><hi rend="italic"> We learn that General <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name>,</hi></l>
+<l n="15" rend="4em"><hi rend="italic">Marching from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:458" type="place">Henry</name> overland,</hi></l>
+<l rend="2em"><hi rend="italic">And joined by a force up the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:459" type="place">Cumberland</name> sent</hi></l>
+<l rend="4em"><hi rend="italic">(Some thirty thousand the command),</hi></l>
+<l rend="2em"><hi rend="italic"> On <ref target="#ref_19085">Wednesday</ref><note xml:id="ref_19085">February 12, 1862.</note> a good position won—</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0042.jpg"/></l>
+<l rend="2em"><hi rend="italic">Began the siege of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:14" type="event">Donelson</name>.</hi></l>
 	</lg>
 
                   <lg>
@@ -81,7 +82,7 @@
                    <l rend="4em"><hi rend="italic">But, full of</hi> <ref target="#ref_21100">vim</ref><note xml:id="ref_21100">Strength, energy. The "roman" font for "vim" (an "un-italicizing" in the midst of the prevailing italics) gives the word special emphasis, suggesting that it might have been a new slang expression that Melville picked up from his reading of <hi rend="italic">The Rebellion Record</hi> (Cohen 220).</note> <hi rend="italic">from Western prairies won,</hi></l>
                    <l n="40" rend="4em"><hi rend="italic">They&apos;ll make, ere long, a dash at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
 									 <lb/>
-<l>Washed by the storm till the paper grew><pb facs="/images/battle-pieces-v1/battle-pieces-i-0043.jpg"/></l>
+<l>Washed by the storm till the paper grew <pb facs="/images/battle-pieces-v1/battle-pieces-i-0043.jpg"/></l>
 <l>Every shade of a streaky blue,</l>
 <l>That bulletin stood. The next day brought</l>
 <l>A second.</l>
@@ -113,7 +114,7 @@
 		        <l rend="4em"><hi rend="italic">In <ref target="#ref_21127">sortie</ref>, which was quelled; and then</hi><note xml:id="ref_21127"> According to the OED, a sortie is “A dash or sally by a besieged garrison upon an investing force.”</note></l>
 		        <l rend="2em"><hi rend="italic">We stormed them on their left.</hi></l>
 		        <l rend="2em"><hi rend="italic">A chilly change in the afternoon;</hi></l>
-<l n="60" rend="2em"><hi rend="italic">The sky, late clear, is now bereft</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0044.jpg"/></l>
+<l n="60" rend="2em"><hi rend="italic">The sky, late clear, is now bereft</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0044.jpg"/></l>
 <l rend="2em"><hi rend="italic">Of sun. Last night the ground froze hard—</hi></l>
 <l rend="2em"><hi rend="italic">Rings to the enemy as they run</hi></l>
 <l rend="2em"><hi rend="italic">Within their works. A ramrod bites</hi></l>
@@ -141,7 +142,7 @@
 		        <l rend="4em"><hi rend="italic">Like Indians that waylay the deer</hi></l>
 		        <l rend="2em"><hi rend="italic">By the wild salt-spring.—The sky is dun,</hi></l>
 		            <l rend="2em"><hi rend="italic">Foredooming the fall of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
-		        <l n="85" rend="2em"><hi rend="italic">Stern weather is all unwonted here.</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0045.jpg"/></l>
+		        <l n="85" rend="2em"><hi rend="italic">Stern weather is all unwonted here.</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0045.jpg"/></l>
 		        <l rend="4em"><hi rend="italic">The people of the country own</hi></l>
 		            <l rend="2em"><hi rend="italic">We brought it. Yea, the earnest North</hi></l>
 		            <l rend="2em"><hi rend="italic">Has elementally issued forth</hi></l>
@@ -170,7 +171,7 @@
 		            <l rend="2em"><hi rend="italic">Up a steep ridge-side, toward its crown,</hi></l>
 		            <l rend="4em"><hi rend="italic">A strong redoubt. But they who first</hi></l>
 		            <l n="110" rend="2em">
-		            <hi rend="italic">Gained the fort&apos;s base, and marked the trees</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0046.jpg"/></l>
+		            <hi rend="italic">Gained the fort&apos;s base, and marked the trees</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0046.jpg"/></l>
 		            <l rend="2em"><hi rend="italic">Felled, heaped in horned perplexities,</hi></l>
 		            <l rend="4em"><hi rend="italic">And shagged with brush; and swarming there</hi></l>
 		            <l rend="2em"><hi rend="italic">Fierce wasps whose sting was present death—</hi></l>
@@ -196,8 +197,7 @@
 		            <l rend="2em"><hi rend="italic">A night not soon to be forgot,</hi></l>
 		            <l rend="4em"><hi rend="italic">Reviving old rheumatic pains</hi></l>
 		            <l n="135" rend="2em"><hi rend="italic">And longings for a cot.</hi></l>
-		            <l rend="4em"><hi rend="italic">
-		            No blankets, overcoats, or tents.</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0047.jpg"/></l>
+		            <l rend="4em"><hi rend="italic">No blankets, overcoats, or tents.</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0047.jpg"/></l>
 		            <l rend="2em"><hi rend="italic">Coats thrown aside on the warm march here—</hi></l>
 		            <l rend="2em"><hi rend="italic">We looked not then for changeful cheer;</hi></l>
 		            <l rend="2em"><hi rend="italic">Tents, coats, and blankets too much care.</hi></l>
@@ -256,7 +256,7 @@
                                <lb/>
                                <l rend="4em"><hi rend="smallcaps">The enemy's water-batteries beat!</hi></l>
                                <lb/>
-                               <l rend="4em"><hi rend="smallcaps">We silenced every gun!</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/></l>
+                               <l rend="4em"><hi rend="smallcaps">We silenced every gun!</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0049.jpg"/></l>
                                <lb/>
                                <l rend="4em"><hi rend="smallcaps">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:183" type="person">old Commodore</name>&apos;s compliments sent</hi></l>
                                <l rend="4em"><hi rend="smallcaps">Plump into <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>!</hi></l>
@@ -291,7 +291,7 @@
                        <l rend="4em"><hi rend="italic">Snow-clad, and through the drear defiles</hi></l>
                    </lg>
 		        <lg>
-		        <l n="200" rend="2em"><hi rend="italic">And over the desolate ridges blew</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0050.jpg"/></l>
+		        <l n="200" rend="2em"><hi rend="italic">And over the desolate ridges blew</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0050.jpg"/></l>
 		        <l rend="2em"><hi rend="italic">A Lapland wind.</hi></l>
 </lg>
 <lb/>
@@ -324,7 +324,7 @@
                        <l rend="4em"><hi rend="italic">Except the field artillery in line</hi></l>
                        <l rend="2em"><hi rend="italic">Would now and then—for love, they say—</hi></l>
                        <l rend="6em"><hi rend="italic">Exchange a valentine.</hi></l>
-                       <l rend="2em"><hi rend="italic">The old sharpshooting going on.</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0051.jpg"/></l>
+                       <l rend="2em"><hi rend="italic">The old sharpshooting going on.</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0051.jpg"/></l>
                        <l n="225" rend="2em"><hi rend="italic">Some plan afoot as yet unknown;</hi></l>
                        <l rend="2em"><hi rend="italic">So Friday closed round <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
                    </lg>
@@ -356,7 +356,7 @@
 		            <l rend="2em"><hi rend="italic">A flag, deemed black, flying from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
 		        </lg>
 		        <lg>
-		            <l rend="2em"><hi rend="italic">Some of the wounded in the wood</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0052.jpg"/></l>
+		            <l rend="2em"><hi rend="italic">Some of the wounded in the wood</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0052.jpg"/></l>
 		            <l n="250" rend="4em"><hi rend="italic">Were cared for by the foe last night,</hi></l>
 		            <l rend="2em"><hi rend="italic">Though he could do them little needed good,</hi></l>
 		            <l rend="4em"><hi rend="italic">Himself being all in shivering plight.</hi></l>
@@ -392,7 +392,7 @@
                        <l rend="4em"><hi rend="italic">Some plot these early birds had laid.</hi></l>
                    </lg>
 		        <lg>
-						<l rend="2em"><hi rend="italic">But a lancing sleet cut him who stared</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0053.jpg"/></l>
+						<l rend="2em"><hi rend="italic">But a lancing sleet cut him who stared</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0053.jpg"/></l>
 		        <l n="275" rend="2em"><hi rend="italic">Into the storm. After some vague alarms,</hi></l>
 		        <l rend="2em"><hi rend="italic">Which left our lads unscared,</hi></l>
 		        <l rend="2em"><hi rend="italic">Out sallied the enemy at dim of dawn,</hi></l>
@@ -418,7 +418,7 @@
 		        <l rend="2em"><hi rend="italic">Yet not without spontaneous plan</hi></l>
 		        <l rend="4em"><hi rend="italic">However tangled showed the plight:</hi></l>
 		        <l rend="2em"><hi rend="italic">Duels all over &apos;tween man and man,</hi></l>
-		        <l n="300" rend="2em"><hi rend="italic">Duels on cliff-side, and down in ravine,</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0054.jpg"/></l>
+		        <l n="300" rend="2em"><hi rend="italic">Duels on cliff-side, and down in ravine,</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0054.jpg"/></l>
 		        <l rend="4em"><hi rend="italic">Duels at long range, and bone to bone;</hi></l>
 		        <l rend="2em"><hi rend="italic">Duels every where flitting and half unseen.</hi></l>
 		        <l rend="4em"><hi rend="italic">Only by courage good as their own,</hi></l>
@@ -448,7 +448,7 @@
                    <l rend="8em">As <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</l>
 </lg>
 		        <lg>
-		           <l n="325">That night the board stood barren there,<pb facs="/images/battle-pieces-v1/battle-pieces-i-0055.jpg"/></l>
+		           <l n="325">That night the board stood barren there, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0055.jpg"/></l>
 		           <l rend="2em">Oft eyed by wistful people passing,</l>
 		           <l rend="2em">Who nothing saw but the rain-beads chasing</l>
                    <l>Each other down the wafered square,</l>
@@ -480,7 +480,7 @@
                        </lg>
 
 		        <lg>
-		        <l rend="2em">1 <hi rend="italic">P.M.</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0056.jpg"/></l>
+		        <l rend="2em">1 <hi rend="italic">P.M.</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0056.jpg"/></l>
 		        <l rend="8em"><hi rend="italic">An order given</hi></l>
 		        <l rend="4em"><hi rend="italic">Requires withdrawal from the front</hi></l>
 		        <l n="350" rend="4em"><hi rend="italic">Of regiments that bore the brunt</hi></l>
@@ -509,7 +509,7 @@
 
 
 		        <lg>
-		            <l rend="2em">3 <hi rend="italic">P.M.</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0057.jpg"/></l>
+		            <l rend="2em">3 <hi rend="italic">P.M.</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0057.jpg"/></l>
 		            <l rend="8em"><hi rend="italic">The work begins.</hi></l>
 		                <l rend="2em"><hi rend="italic">Light drifts of men thrown forward, fade</hi></l>
 		            <l n="375" rend="4em"><hi rend="italic">In skirmish-line along the slope,</hi></l>
@@ -542,7 +542,7 @@
                        <l rend="2em"><hi rend="italic">Bayonets for <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>!</hi></l>
                    </lg>
 		        <lg>
-		            <l rend="2em"><hi rend="italic">Over the ground that morning lost</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0058.jpg"/></l>
+		            <l rend="2em"><hi rend="italic">Over the ground that morning lost</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0058.jpg"/></l>
 		            <l n="395" rend="2em"><hi rend="italic">Rolled the blue billows, tempest-tossed,</hi></l>
 		            <l rend="4em"><hi rend="italic">Following a hat on the point of a sword.</hi></l>
 		            <l rend="2em"><hi rend="italic">Spite shell and round-shot, grape and canister,</hi></l>
@@ -575,7 +575,7 @@
                            <l rend="2em"><hi rend="italic">From the crammed court-house pinnacle.</hi></l>
                        </lg>
 	        <lg>
-		            <l rend="2em"><hi rend="italic">Great boat-loads of our wounded go</hi><pb facs="/images/battle-pieces-v1/battle-pieces-i-0059.jpg"/></l>
+		            <l rend="2em"><hi rend="italic">Great boat-loads of our wounded go</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0059.jpg"/></l>
 		            <l rend="2em"><hi rend="italic">To-day to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:462" type="place">Nashville</name>. The sleet-minds blow;</hi></l>
 		            <l n="420" rend="2em"><hi rend="italic">But all is right: the fight is won,</hi></l>
 		            <l rend="2em"><hi rend="italic">The winter-fight for <name ref="https://mel-catalog.herokuapp.com/api/entries/place:456" type="place">Donelson</name>.</hi></l>
@@ -604,7 +604,7 @@
                <l>And from the deep street came the frequent shout;</l>
                <l>While some in prayer, as these in glee,</l>
                <l n="440">Blessed heaven for the winter-victory.</l>
-		           <l>But others were who wakeful laid<pb facs="/images/battle-pieces-v1/battle-pieces-i-0060.jpg"/></l>
+		           <l>But others were who wakeful laid <pb facs="/images/battle-pieces-v1/battle-pieces-i-0060.jpg"/></l>
 		           <l rend="2em">In midnight beds, and early rose,</l>
 		                <l rend="2em">And, feverish in the foggy snows,</l>
                <l>Snatched the damp paper—wife and maid.</l>
