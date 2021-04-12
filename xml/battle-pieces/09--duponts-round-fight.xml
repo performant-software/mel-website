@@ -19,23 +19,28 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="duponts-round-fight"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0038.jpg"/>
-				<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:182" type="person">Dupont</name>&apos;s <ref target="#ref_20700"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:25" type="event">Round Fight</name></ref><note xml:id="ref_20700">As part of the Union blockade of southern ports, Samuel Francis Du Pont seized Port Royal Sound, protected by forts on opposing sides of an inlet. His gunboats followed an elliptical course within the inlet, repeatedly battering one fort going in and the other coming out.
-				A drawing from the <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/artwork:988"><hi rend="italic">Rebellion Record</hi></ref> illustrates the strategy. (See also Cohen 217, Shurr 15)</note>.</hi></head>
-				<lb/><head type="sub-head">(<hi rend="smallcaps">November</hi>, 1861.)</head><lb/>
-<lg><l><hi rend="smallcaps">In</hi> time and measure perfect moves</l>
+			<body><div xml:id="duponts-round-fight">
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0038.jpg"/><lb/>
+				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:182" type="person">Dupont</name>&apos;s <ref target="#ref_20700"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:25" type="event">Round Fight</name></ref><note xml:id="ref_20700">As part of the Union blockade of southern ports, Samuel Francis Du Pont seized Port Royal Sound, protected by forts on opposing sides of an inlet. His gunboats followed an elliptical course within the inlet, repeatedly battering one fort going in and the other coming out.
+				A drawing from the <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/artwork:988"><hi rend="italic">Rebellion Record</hi></ref> illustrates the strategy. (See also Cohen 217, Shurr 15)</note>.</hi>
+			</head><lb/>
+			<head type="sub-head">(<hi rend="smallcaps">November</hi>, 1861.)</head>
+			<lb/>
+<lg>
+<l><hi rend="smallcaps">In</hi> time and measure perfect moves</l>
 <l rend="2em">All Art whose aim is sure;</l>
 <l>Evolving rhyme and stars divine</l>
 <l rend="2em">Have rules, and they endure.</l></lg>
 
-<lg><l n="5">Nor less the Fleet that warred for Right,</l>
+<lg>
+<l n="5">Nor less the Fleet that warred for Right,</l>
 <l rend="2em">And, warring so, prevailed,</l>
-	<l>In geometric beauty curved,</l>
+<l>In geometric beauty curved,</l>
 <l rend="2em">And in an orbit sailed.</l></lg>
 
 <lg>
-	<l n="10"><ref target="#ref_20702">The rebel at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:481" type="place">Port Royal</name></ref><note xml:id="ref_20702">Here, "The rebel" might also refer to 17th-century logician and mathematician Blaise Pascal, who was associated with the Jansenist movement centered at Port-Royal, France (Shurr, 15).</note> felt</l>
-	<l rend="2em">The Unity overawe,</l>
+<l n="10"><ref target="#ref_20702">The rebel at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:481" type="place">Port Royal</name></ref><note xml:id="ref_20702">Here, "The rebel" might also refer to 17th-century logician and mathematician Blaise Pascal, who was associated with the Jansenist movement centered at Port-Royal, France (Shurr, 15).</note> felt</l>
+<l rend="2em">The Unity overawe,</l>
 <l>And rued the spell. A type was here,</l>
 <l rend="2em">And victory of <hi rend="smallcaps">Law</hi>.</l>
 </lg>
