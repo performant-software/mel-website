@@ -19,15 +19,14 @@
 	</teiHeader>
 	<text>
 		<body><div xml:id="the-stone-fleet">
-			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/>
+			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/><lb/>
 			<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet:</hi></name>
 
 			<hi rend="super">b</hi>
 			  </head>
 				<head type="sub-head"><hi rend="italic">An Old Sailor&apos;s Lament.</hi><lb/>
 				(<hi rend="smallcaps">December, 1861.</hi>)</head>
-
-
+<lb/>
 			<lg type="stanza"  n="1"><l><hi rend="smallcaps">I have</hi> a feeling for those ships,</l>
 				<l rend="2em">Each worn and ancient one,</l>
 				<l>With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">A broad and rounded rather than pointed bow, more suited for warfare though not speed. Melville's usage here echoes an entry in the <hi rend="italic">Rebellion Record</hi>, a reprint of an account of the event in the New York <hi rend="italic">Tribune</hi>:  "her bluff bows nod to us rather gracefully" (Cohen 219).</note>, and broad in the beam:</l>
@@ -46,7 +45,7 @@
 
 			<lg type="stanza" n="3"><l>An India ship of fame was she,</l>
 				<l rend="2em">Spices and shawls and fans she bore;</l>
-				<l n="15">A whaler when her wrinkles came—<pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/></l>
+				<l n="15">A whaler when her wrinkles came— <pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/></l>
 				<l rend="2em">Turned off! till, spent and poor,</l>
 				<l rend="8em">Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705">In probate law, the government's right to take ownership of unclaimed estate assets and properties unassigned in a will. In this case, the sea claims final ownership of the decommissioned and scuttled ships (Cohen 219).</note>)!</l>
 				<l rend="8em">Ah! Stone Fleet.</l></lg>
@@ -72,7 +71,7 @@
 				<l rend="2em"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:516" type="place">The harbor</name> is bettered—will stay.</l>
 				<l n="35" rend="8em">A failure, and complete,</l>
 				<l rend="8em">Was your Old Stone Fleet.</l></lg>
-
+<lb/>
 				<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
 
 				<p xml:id="BP_noteB">[Melville's] <hi rend="smallcaps">Note b</hi>, <hi rend="italic">page</hi> 31.
