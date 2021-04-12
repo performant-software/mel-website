@@ -19,7 +19,7 @@
 	<text>
 		<body><div xml:id="balls-bluff">
 			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0036.jpg"/><lb/>
-			<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:42" type="event">Ball&apos;s Bluff</name>.</hi></head><lb/>
+			<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:42" type="event">Ball&apos;s Bluff</name>.</hi></head>
 				<head type="sub-head"><hi rend="italic">A Reverie.</hi><lb/>
 				(<hi rend="smallcaps">October</hi>, 1861.)<lb/>
 			</head>
