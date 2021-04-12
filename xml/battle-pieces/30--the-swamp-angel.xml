@@ -21,7 +21,8 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0115.jpg"/>
 				<head type="main">
-				<hi rend="italic">The Swamp Angel.</hi>
+				<ref target="#EDnoteSwampAngel1"><hi rend="italic">The Swamp Angel.</hi></ref>
+				<note xml:id="EDnoteSwampAngel1">Melville’s likely source is the anonymous poem “The Swamp Angel” by “T.N.J.” printed in <hi rend="italic">The Rebellion Record</hi>, vol. 8 (NN <hi rend="italic">Published Poems</hi> 650).</note>
 				<hi rend="super">k</hi>
 				</head>
 
@@ -71,7 +72,7 @@
 <l>And weed follows weed through the Town.</l>
 </lg>
 <lg>
-<l>Is this the proud City? the scorner</l>
+<l>Is this the <ref target="#EDnoteSwampAngel2">proud City</ref><note xml:id="EDnoteSwampAngel2">Melville draws upon Milton to compare the conflict between North and South, white and black, Charleston and Babylon. In the prophetic mode of Book 12 of <hi rend="italic">Paradise Lost</hi>, the warrior Archangel Michael is situated “Betwixt the world destroyed and world restored” (line 3), and Satan’s crumbling “proud city” (l. 342) is figured as the fall of Babylon. In his Note K for the poem, Melville flatly observes the irony that Charleston’s main church is named for St. Michael.</note>? the scorner</l>
 <l rend="2em">Which never would yield the ground?</l>
 <l>Which mocked at the coal-black Angel?</l>
 <l rend="2em">The cup of despair goes round. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0117.jpg"/></l>
