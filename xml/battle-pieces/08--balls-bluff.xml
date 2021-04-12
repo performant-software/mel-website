@@ -17,11 +17,13 @@
 		</fileDesc>
 	</teiHeader>
 	<text>
-		<body><div xml:id="balls-bluff"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0036.jpg"/>
-			<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:42" type="event">Ball&apos;s Bluff</name>.</hi></head><lb/>
+		<body><div xml:id="balls-bluff">
+			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0036.jpg"/><lb/>
+			<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:42" type="event">Ball&apos;s Bluff</name>.</hi></head><lb/>
 				<head type="sub-head"><hi rend="italic">A Reverie.</hi><lb/>
 				(<hi rend="smallcaps">October</hi>, 1861.)<lb/>
 			</head>
+			<lb/>
 			<lg>
 				<l><hi rend="smallcaps">One</hi> noonday, at my window in the town,</l>
 				<l rend="2em">I saw a sight—saddest that eyes can see—</l>
@@ -38,7 +40,7 @@
 				<l rend="6em">Life throbbed so strong,</l>
 				<l>How should they dream that Death in a rosy clime</l>
 				<l rend="4em">Would come to thin their shining throng?</l>
-				<l>Youth feels immortal, like the gods sublime.<pb facs="/images/battle-pieces-v1/battle-pieces-i-0037.jpg"/></l>
+				<l>Youth feels immortal, like the gods sublime. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0037.jpg"/></l>
 			</lg>
 
 			<lg>
