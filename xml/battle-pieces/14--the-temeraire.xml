@@ -19,10 +19,11 @@
 		<text>
 			<body><div xml:id="the-temeraire">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0066.jpg"/>
+				<lb/>
 				<head><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:910" type="artwork">The Temeraire</name>.</hi><hi rend="super">c</hi></head>
 <head type="sub-head"><hi rend="italic">(Supposed to have been suggested to an Englishman of the old<lb/>
              order by the fight of the Monitor and Merrimac.)</hi> </head>
-
+<lb/>
 <lg type="quatrain">
 <l><hi rend="smallcaps">The</hi> gloomy hulls, in armor grim,</l>
 <l rend="2em">Like clouds o&apos;er moors have met,</l>
@@ -40,12 +41,11 @@
 <lg type="quatrain"><l>Towering afar in parting light,</l>
 <l n="10" rend="2em">The fleets like <name ref="https://mel-catalog.herokuapp.com/api/entries/place:382" type="place">Albion</name>&apos;s forelands shine—</l>
 <l>The full-sailed fleets, the shrouded show</l>
-<l rend="2em">Of Ships-of-the-Line.</l>
+<l rend="2em">Of Ships-of-the-Line. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0067.jpg"/></l>
 </lg>
 
 <lg>
-<l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0067.jpg"/>
-The fighting Temeraire,</l>
+<l rend="6em">The fighting Temeraire,</l>
 <l rend="8em">Built of a thousand trees,</l>
 <l n="15" rend="6em">Lunging out her lightnings,</l>
 <l rend="8em">And beetling o&apos;er the seas—</l>
@@ -70,9 +70,8 @@ The fighting Temeraire,</l>
 <l rend="6em">The Victory, whose Admiral,</l>
 <l rend="8em">With orders nobly won,</l>
 <l n="35" rend="6em">Shone in the globe of the battle glow—</l>
-<l rend="8em">The angel in that sun.</l>
-<l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0068.jpg"/>
-Parallel in story,</l>
+<l rend="8em">The angel in that sun. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0068.jpg"/></l>
+<l rend="6em">Parallel in story,</l>
 <l rend="8em">Lo, the stately pair,</l>
 <l rend="6em">As late in grapple ranging,</l>
 <l n="40" rend="8em">The foe between them there—</l>
@@ -103,7 +102,7 @@ But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="eve
 <l rend="6em">O, the navies old and oaken,</l>
 <l rend="8em">O, the Temeraire no more!</l>
 </lg>
-
+<lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/>
 	<p xml:id="hm_note14c">[Melville's] <hi rend="smallcaps">Note c</hi>, <hi rend="italic">page</hi> 58.
 	<lb/>The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:443">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</p>
