@@ -25,17 +25,18 @@
 			<body><div xml:id="the-victor-of-antietam">
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0077.jpg"/>
-				<head type="main"><ref target="#ref_20966"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:45" type="event">The Victor of Antietam</name></ref>.<note xml:id="ref_20966">Reprinted in R. H. Stoddard's edition of Rufus M. Griswold's <hi rend="italic">Poets and Poetry of America</hi> (New York: James Miller, 1873), 631.</note>
+				<head type="main"><ref target="#ref_20966"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:45" type="event">The Victor of Antietam</name></ref>.<note xml:id="ref_20966">The Battle of Antietam, in September 17, 1862, near Sharpsburg, Maryland, was a standstill—and the bloodiest encounter of the war—that nevertheless impeded Lee’s invasion of the border state and a turning point for the North in the war, but the too-cautious McClellan failed to pursue Lee; soon after, Lincoln relieved him of his command. This was not General George B. McClellan's first dismissal.  He had been appointed commander of the Army of the Potomac after General Irvin McDowell lost the first battle of Manassas in July 1861. Once General Winfield Scott retired in November 1861, McClellan was then promoted to General-in-Chief of the Federal armies. McClellan was admired by his Union troops, “instilling in them a remarkable (esprit de corps)”; however, he frequently quarreled with Lincoln and, after  was relieved of his command in March 1862. Even so, Lincoln reinstated him after General John Pope led Union forces in defeat at the second battle of Manassas in August 1862. Although after Antietam Lincoln felt empowered to issue his Emancipation Proclamation on September 22 (enacted January 1, 1863), he saw no future in McClellan's command and removed him on November 5, 1862. Melville alludes to McClellan's career throughout his poem, which was later anthologized in R. H. Stoddard's 1873 edition of Rufus M. Griswold's
+				<hi rend="italic">Poets and Poetry of America</hi>, 631.</note>
 				<hi rend="super">e</hi>
 				</head>
 <head type="sub-head">(1862.)</head>
-
+<lb/>
 <lg type="sestet">
 <l><hi rend="smallcaps">When</hi> tempest winnowed grain from bran,</l>
 <l>And men were looking for a man,</l>
-<l><ref target="#ref_21074">Authority called you</ref><note xml:id="ref_21074">McClellan was appointed commander of the Army of the Potomac after General Irvin McDowell faced defeat at the battle of the First Bull Run. Once General Winfield Scott retired in November 1861, McClellan then became the General-in-Chief of the Federal armies (https://www.civilwar.org/learn/biographies/george-b-mcclellan).</note> to the van,</l>
+<l>Authority called you to the van,</l>
 <l rend="8em"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:178" type="person">McClellan</name>:</l>
-<l n="5"><ref target="#ref_21073">Along the line the plaudit ran</ref><note xml:id="ref_21073">As a new commander, McClellan gained the respect and admiration of Union troops, “instilling in them a remarkable (esprit de corps),” despite his near constant quarreling with Lincoln (https://www.civilwar.org/learn/biographies/george-b-mcclellan).</note>,</l>
+<l n="5">Along the line the plaudit ran,</l>
 <l>As later when <name ref="https://mel-catalog.herokuapp.com/api/entries/place:457" type="place">Antietam</name>&apos;s cheers began.</l>
 </lg>
 
@@ -48,23 +49,22 @@
 <l>A pall-cloth on <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">the Seven Days</name> fell,</l>
 <l rend="8em">McClellan—</l>
 <l>Unprosperously heroical!</l>
-<l n="15">Who could Antietam&apos;s wreath foretell?</l>
+<l n="15">Who could Antietam&apos;s wreath foretell? <pb facs="/images/battle-pieces-v1/battle-pieces-i-0078.jpg"/>
+</l>
 </lg>
 
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0078.jpg"/>
-Authority called you; then, in mist</l>
-	<l>And loom of jeopardy—<ref target="#ref_21072">dismissed</ref>.<note xml:id="ref_21072">Due to Lincoln’s eagerness to mount an offensive against Lee’s army and McClellan’s hesitancy, the latter was removed as General-in-Chief in the spring of 1862, though he still retained command of the Potomac Army. Soon after, McClellan led the army in the Peninsula Campaign to take Richmond. After the bloody Seven Days' battles that ended the Peninsula Campaign without the capture of Richmond, Lincoln relieved McClellan of his command, appointing Henry Halleck as General-in-Chief of the army and General John Pope as commander of the Army of the Potomac (https://www.civilwar.org/learn/biographies/george-b-mcclellan).
-		Leslie McAbee</note></l>
+<l>Authority called you; then, in mist</l>
+<l>And loom of jeopardy—dismissed.</l>
 <l>But staring peril soon appalled;</l>
 <l>You, the Discarded, she recalled—</l>
-<l n="20">Recalled you, nor <ref target="#ref_21077">endured delay</ref><note xml:id="ref_21077">Lincoln reinstated McClellan as commander after John Pope failed to take Richmond in the battle of Second Manassas. McClellan moved the Union army to rout Lee’s march on Maryland in 1862.</note>;</l>
+<l n="20">Recalled you, nor endured delay;</l>
 <l>And forth you rode upon a blasted way,</l>
 <l>Arrayed <name ref="https://mel-catalog.herokuapp.com/api/entries/person:193" type="person">Pope</name>&apos;s rout, and routed <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>&apos;s array,</l>
 <l rend="8em">McClellan:</l>
-<l>Your tent was choked with<ref target="#ref_21196"> captured flags </ref>that day,<note xml:id="ref_21196"> Although Melville emphasizes the flags captured and brought to McClellan, the Union and Confederate forces suffered equal losses in the battle.</note></l>
+<l>Your tent was choked with captured flags</l>
 <l n="25" rend="8em">McClellan.</l>
-<l>Antietam was a <ref target="#ref_21078">telling fray</ref><note xml:id="ref_21078">McClellan’s maneuvers at Antietam, on September 17, 1862, to rebuff Lee’s advance in Maryland—also known as the Battle of Sharpsburg—was the single bloodiest day of the war.</note>.</l>
+<l>Antietam was a telling fray.</l>
 </lg>
 
 <lg type="sestet">
