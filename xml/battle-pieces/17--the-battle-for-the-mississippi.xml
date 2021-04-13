@@ -22,9 +22,9 @@
 			<head type="main"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:43" type="event"><hi rend="italic">The Battle for the Mississippi.</hi></name></head>
 
 			<head type="sub-head">(<hi rend="smallcaps">April</hi>, 1862.)</head>
-
+<lb/>
 			<lg type="octet">
-				<l><hi rend="smallcaps">When</hi> Israel camped by <ref target="#ref_19110">Migdol hoar</ref><note xml:id="ref_19110">See Exodus 14:2.</note>,</l>
+				<l><hi rend="smallcaps">When</hi> Israel camped by <ref target="#ref_19110">Migdol</ref><note xml:id="ref_19110">Melville’s opening stanza draws upon Exodus 14-15. While camped between the “hoar” (i.e. ancient) fortress Migdol and the Red Sea, Moses receives instructions from the Lord: He will part the Red Sea and lead the Israelites safely to freedom, then drown Pharaoh’s pursuing charioteers. In the aftermath, the prophetess Miriam dances with timbrels (tambourine) while Moses begins his triumphal song with: “The LORD is a man of war” (Ex. 15.2), as quoted in line 6. A shawm (line 2) is a medieval precursor of the modern double-reed oboe and does not appear in the KJV of the Bible; however, the word appears once in the Geneva Bible (a mainstay of Melville’s mother’s Dutch Reformed Church) in Jeremiah 48.36: "Therefore mine heart shall sound for Moab like a shawm, and mine heart shall sound like a shawm for the men of Kir Heres, because the riches that he hath gotten is perished."</note> hoar,</l>
 				<l rend="2em">Down at her feet her shawm she threw,</l>
 				<l>But <name ref="https://mel-catalog.herokuapp.com/api/entries/person:190" type="person">Moses</name> sung and timbrels rung</l>
 				<l rend="2em">For <name ref="https://mel-catalog.herokuapp.com/api/entries/person:191" type="person">Pharaoh</name>&apos;s stranded crew.</l>
@@ -33,7 +33,7 @@
 				<l>So the strong wing to the muse is given</l>
 				<l rend="6em">In victory&apos;s roar.</l>
 			</lg>
-<!--Add note for shawm-->
+
 			<lg type="octet">
 				<l>Deep be the ode that hymns the fleet—</l>
 				<l n="10" rend="2em">The fight by night—the fray</l>
@@ -42,12 +42,12 @@
 				<l>Dully through din of larger strife</l>
 				<l rend="2em">Shall bay that warring gun;</l>
 				<l n="15">But none the less to us who live</l>
-				<l rend="2em">It peals—an echoing one.</l>
+				<l rend="2em">It peals—an echoing one. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0073.jpg"/>
+			</l>
 			</lg>
 
 			<lg type="octet">
-				<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0073.jpg"/>
-			The shock of ships, the jar of walls,</l>
+				<l>The shock of ships, the jar of walls,</l>
 				<l rend="2em">The rush through thick and thin—</l>
 				<l>The flaring fire-rafts, glare and gloom—</l>
 				<l n="20" rend="2em">Eddies, and shells that spin—</l>
@@ -65,17 +65,17 @@
 				<l>While foundering, gloomed in grimy flame,</l>
 				<l n="30" rend="2em">The Ram Manassas—hark the yell!—</l>
 				<l>Plunged, and was gone; in joy or fright,</l>
-				<l rend="2em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/place:243" type="place">River</name> gave a startled swell.</l></lg>
+				<l rend="2em">The River gave a startled swell.</l></lg>
 			<lg type="octet">
 				<l>They fought through lurid dark till dawn;</l>
 				<l rend="2em">The war-smoke rolled away</l>
 				<l n="35">With clouds of night, and showed the fleet</l>
 				<l rend="2em">In scarred yet firm array,</l>
 				<l>Above the forts, above the drift</l>
-				<l rend="2em">Of wrecks which strife had made;</l>
-				<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0074.jpg"/>
-				And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name> sailed up to the town</l>
-				<l n="40" rend="2em">And anchored—sheathed the blade.</l></lg>
+				<l rend="2em">Of wrecks which strife had made; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0074.jpg"/></l>
+				<l>And <name ref="https://mel-catalog.herokuapp.com/api/entries/person:192" type="person">Farragut</name> sailed up to the town</l>
+				<l n="40" rend="2em">And anchored—sheathed the blade.</l>
+			</lg>
 			<lg type="octet">
 				<l>The moody broadsides, brooding deep,</l>
 				<l rend="2em">Hold the lewd mob at bay,</l>
