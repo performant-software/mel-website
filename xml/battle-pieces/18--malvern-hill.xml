@@ -45,9 +45,9 @@
 <l>Were closed from view in clouds of dust</l>
 <l rend="4em">On leaf-walled ways,</l>
 <l n="15">Where streamed our wagons in caravan;</l>
-<l rend="2em">And the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">Seven Nights and Days</name></l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0076.jpg"/>
-Of march and fast, retreat and fight,</l>
+<l rend="2em">And the <name ref="https://mel-catalog.herokuapp.com/api/entries/event:22" type="event">Seven Nights and Days</name> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0076.jpg"/>
+</l>
+<l>Of march and fast, retreat and fight,</l>
 <l>Pinched our grimed faces to ghastly plight—</l>
 <l rend="6em">Does the elm wood</l>
 <l n="20">Recall the haggard beards of blood?</l>
@@ -70,10 +70,12 @@ Of march and fast, retreat and fight,</l>
 <l rend="6em"><hi rend="italic">We elms of Malvern Hill</hi></l>
 	<l rend="8em"><hi rend="italic">Remember every thing;</hi></l>
 	<l rend="6em"><hi rend="italic">But sap the twig will fill:</hi></l>
-	<l rend="6em"><ref target="#ref_21019"><hi rend="italic">Wag the world how it will,</hi></ref><note xml:id="ref_21019">See Shakespeare, As You Like It (2.7.23): "'Thus we may see,’ quoth he, ‘how the world wags.’”</note>,</l>
-<l n="35" rend="8em"><hi rend="italic">Leaves must be green in Spring.</hi>
-<!--  <note xml:id="ref_21020">Ronald Giles reads the final stanza, in which the elms speak, as the trees' “rebuke” of human kind “for attempting to coerce an unnatural compassion,” of which the elms are not capable ("Malvern Hill," Explicator, 1987). Aaron Kramer places “Malvern Hill” in a constellation with other Battle-Pieces that address the theme of “nature’s uninterested continuity after a human catastrophe. He cites “Shiloh,” “The Stone Fleet,” “A Requiem for Soldiers Lost in Ocean Transports,” and “On a Natural Monument in a Field of Georgia” (Kramer, Melville’s Poetry: Toward the Enlarged Heart, 28).</note> --></l>
+	<l rend="6em"><ref target="#ref_21019"><hi rend="italic">Wag the world how it will,</hi></ref><note xml:id="ref_21019">"'Thus we may see,’ quoth he, ‘how the world wags’” (<hi rend="italic">As You Like It</hi> 2.7.23).</note>,</l>
+<l n="35" rend="8em"><hi rend="italic">Leaves must be green in Spring.</hi></l>
 </lg>
 </div></body>
 		</text>
 	</TEI>
+
+	<!--
+	 <note xml:id="ref_21020">Ronald Giles reads the final stanza, in which the elms speak, as the trees' “rebuke” of human kind “for attempting to coerce an unnatural compassion,” of which the elms are not capable ("Malvern Hill," Explicator, 1987). Aaron Kramer places “Malvern Hill” in a constellation with other Battle-Pieces that address the theme of “nature’s uninterested continuity after a human catastrophe. He cites “Shiloh,” “The Stone Fleet,” “A Requiem for Soldiers Lost in Ocean Transports,” and “On a Natural Monument in a Field of Georgia” (Kramer, Melville’s Poetry: Toward the Enlarged Heart, 28).</note> -->
