@@ -23,19 +23,18 @@
 		<text>
 			<body><div xml:id="malvern-hill">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0075.jpg"/>
-				<head type="main"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:18" type="event"><ref target="#ref_21057">Malvern Hill</ref><note xml:id="ref_21057">According to Hennig Cohen, Melville visited Virginia battlefields in April 1864, including Malvern Hill, where he purchased “a souvenir brick made from the clay of Malvern Hill” (Cohen 232).</note></name>.</head>
+				<head type="main"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:18" type="event"><ref target="#ref_21057">Malvern Hill</ref><note xml:id="ref_21057">One of the oldest plantations in Virginia and probably named after England's Malvern hills, Malvern Hill had been a patriot campsite during the Revolutionary War, hosting at one point the Marquis de Lafayette, and again during the war of 1812 (Marc Matrana, Lost Plantations of the South, 2009). Melville visited the Malvern Hill battlefield during his trip to Virginia in April 1864, where he purchased “a souvenir brick made from the clay of Malvern Hill” (Cohen 232). The opening reference to the elms at Malvern Hill may be sourced in <hi rend="italic">The Rebellion Record</hi> 5.266 (Cohen 231).</note></name>.</head>
 <head type="sub-head">(<hi rend="smallcaps">July</hi>, 1862.)</head>
-
+<lb/>
 <lg>
-<l><hi rend="smallcaps">Ye</hi> <ref target="#ref_21023">elms</ref><note xml:id="ref_21023">A reference to the elms at Malvern Hill appears in the <hi rend="italic">Rebellion Record</hi> (V, 266), a likely source for Melville’s poem (see Cohen 231).</note> that wave on <ref target="#ref_21022"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:471" type="place">Malvern Hill</name></ref><note xml:id="ref_21022">One of the oldest plantations in Virginia and probably named after the England's Malvern hills, Malvern Hill had been a patriot campsite during the Revolutionary War, hosting at one point the Marquis de Lafayette, and again during the war of 1812 (Matrana, Marc, Lost Plantations of the South, 2009).
-</note></l>
+<l><hi rend="smallcaps">Ye</hi> elms that wave on <name ref="https://mel-catalog.herokuapp.com/api/entries/place:471" type="place">Malvern Hill</name></l>
 <l rend="2em">In prime of morn and May,</l>
 <l>Recall ye how <name ref="https://mel-catalog.herokuapp.com/api/entries/person:178" type="person">McClellan</name>&apos;s men</l>
 <l rend="4em">Here stood at bay?</l>
 <l n="5">While deep within yon forest dim</l>
 <l rend="2em">Our rigid comrades lay—</l>
-<l>Some with <ref target="#ref_21058">the cartridge in their mouth</ref><note xml:id="ref_21058">“A paper cartridge containing powder and a lead ball was used for some muzzle-loading rifles. The paper was bitten open, the powder emptied into the bore, and the paper rammed in as wadding” (Cohen 233).</note>,</l>
-<l>Others with <ref target="#ref_21059">fixed arms</ref><note xml:id="ref_21059">Melville may have drawn this graphic image of the dead lying with "arms stretched upward at length” from <hi rend="italic">Rebellion Record</hi>, 5:268, doc. 78. (See NN <hi rend="italic">Published Poems</hi>, 639).</note> lifted South—</l>
+<l>Some with the <ref target="#ref_21058">cartridge in their mouth</ref><note xml:id="ref_21058">“A paper cartridge containing powder and a lead ball was used for some muzzle-loading rifles. The paper was bitten open, the powder emptied into the bore, and the paper rammed in as wadding” (Cohen 233). In line 8, Melville may have drawn the graphic image of the dead lying with "fixed arms" from reports of men lying with "arms stretched upward at length” in <hi rend="italic">The Rebellion Record</hi> 5.268 (See NN <hi rend="italic">Published Poems</hi>, 639).</note>,</l>
+<l>Others with fixed arms lifted South—</l>
 <l rend="6em">Invoking so</l>
 <l n="10">The <ref target="#ref_21025">cypress</ref><note xml:id="ref_21025">Cypress is associated with mourning.</note> glades? Ah wilds of woe!</l>
 </lg>
