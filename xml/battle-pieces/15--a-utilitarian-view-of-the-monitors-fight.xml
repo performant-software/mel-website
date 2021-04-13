@@ -20,18 +20,18 @@
 			<body><div xml:id="a-utilitarian-view-of-the-monitors-fight">
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0069.jpg"/>
 				<head type="main"><hi rend="italic">A Utilitarian View of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:26" type="event">the Monitor&apos;s Fight</name>.</hi></head>
-
+<lb/>
 <lg type="sestet">
 <l><hi rend="smallcaps">Plain</hi> be the phrase, yet apt the verse,</l>
 <l rend="2em">More ponderous than nimble;</l>
 <l>For since grimed War here laid aside</l>
-<l>His <ref target="#ed-note1">Orient</ref> pomp, &apos;twould ill befit<note xml:id="ed-note1">In his bound copy of sheets from Battle-Pieces (copy C), Melivlle underlined "Orient" in pencil and inscribed "painted" in the left margin, indicating a possible revision.</note></l>
+<l>His <ref target="#ed-note1">Orient</ref> pomp, &apos;twould ill befit<note xml:id="ed-note1">In his bound copy of sheets from Battle-Pieces (copy C), Melivlle underlined "Orient" in pencil and inscribed "painted" in the left margin, indicating a possible revision.</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0071.jpg"/></l>
 <l n="5" rend="4em">Overmuch to ply</l>
 <l rend="2em">The rhyme&apos;s barbaric cymbal.</l>
 </lg>
 
-				<lg type="sestet">
-					<l>Hail to victory without the gaud</l>
+<lg type="sestet">
+<l>Hail to victory without the gaud</l>
 <l rend="2em">Of glory; zeal that needs no fans</l>
 <l>Of banners; plain mechanic power</l>
 <l n="10">Plied cogently in War now placed—</l>
@@ -39,7 +39,7 @@
 <l rend="2em">Among the trades and artisans.</l>
 </lg>
 
-			<lg type="sestet">
+<lg type="sestet">
 <l>Yet this was battle, and intense—</l>
 <l rend="2em">Beyond the strife of fleets heroic;</l>
 <l n="15">Deadlier, closer, calm &apos;mid storm;</l>
@@ -47,16 +47,16 @@
 No passion; all went on by crank,</l>
 <l rend="4em">Pivot, and screw,</l>
 <l rend="2em">And calculations of caloric.</l>
-			</lg>
+</lg>
 
-				<lg type="sestet">
+<lg type="sestet">
 <l>Needless to dwell; the story&apos;s known.</l>
 <l n="20" rend="2em">The ringing of those plates on plates</l>
 <l>Still ringeth round the world—</l>
 <l>The clangor of that blacksmiths&apos; fray.</l>
 	<l rend="4em">The anvil-din</l>
 	<l rend="2em">Resounds this message from the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:172" type="person">Fates</name>:</l>
-				</lg>
+</lg>
 
 <lg type="sestet">
 <l n="25">War shall yet be, and to the end;</l>
@@ -64,7 +64,7 @@ No passion; all went on by crank,</l>
 <l>War yet shall be, but warriors</l>
 <l>Are now but operatives; War&apos;s made</l>
 <l rend="4em">Less grand than Peace,</l>
-<l n="30" rend="2em">And a singe runs through <ref target="#ref_20616">lace and feather</ref><note xml:id="ref_20616">The "lace and feather" are symbolic of the cavalier tradition, and, outside of the South, of honor. Melville may have visited West Point in the spring of 1850. During West Point parades, women in lace would cheer on cadets marching in feathered "tarbuckets," or formal headgear. Feathers are also symbolic of Native American warriors, a favored figure in the book. See, for example, line 45 in "Apathy and Enthusiasm."</note>.</l>
+<l n="30" rend="2em">And a singe runs through <ref target="#ref_20616">lace and feather</ref><note xml:id="ref_20616">"Lace and feather" evoke the Cavalier tradition, recalling the "pomp" of honor in line 4. Melville may have visited West Point in the spring of 1850 and witnessed military parades during which women in lace would observe cadets marching in "tarbuckets," their formal feathered headgear. Feathers also resonate with the "war-paint" of Native American warriors figured in line 26; see also line 45 in "Apathy and Enthusiasm."</note>.</l>
 </lg>
 
 </div></body>
