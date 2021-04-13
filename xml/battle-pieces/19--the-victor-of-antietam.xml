@@ -81,10 +81,9 @@
 <l rend="8em">McClellan—</l>
 <l n="35">Your veterans sent from you, and thrown</l>
 <l>To fields and fortunes all unknown—</l>
-<l>What thoughts were yours, revealed to none,</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0079.jpg"/>
-While faithful still you labored on—</l>
-<l><ref target="#ref_21081">Hearing the far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:450" type="place">Manassas</name> gun!</ref><note xml:id="ref_21081">After Pope's defeat at the Battle of Second Manassas in August 1862, McClellan was reinstated as commander of the Army of the Potomac.</note></l>
+<l>What thoughts were yours, revealed to none, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0079.jpg"/></l>
+<l>While faithful still you labored on—</l>
+<l>Hearing the far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:450" type="place">Manassas</name> gun!</l>
 <l n="40" rend="8em">McClellan,</l>
 <l>Only Antietam could atone.</l>
 </lg>
@@ -106,19 +105,16 @@ While faithful still you labored on—</l>
 <l>Your medalled soldiers love you well,</l>
 <l rend="8em">McClellan:</l>
 <l>Name your name, their true hearts swell;</l>
-<l n="55"><ref target="#ref_21079">With you they shook dread <name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name>&apos;s spell</ref><note xml:id="ref_21079">Before the Battle of Malvern Hill, the final clash of the Seven Days' battles and the Peninsula Campaign, McClellan seized a strategic position at Glendale, where the Federal army needed to advance to the James River. Lee sent several divisions, including Major General Thomas “Stonewall” Jackson to attack the Union’s Glendale position, which was located between Malvern Hill and White Oak Swamp. Federal artillery prevented Jackson’s advance through White Oak Swamp (“The Seven Days Battles,” https://www.civilwar.org/learn/articles/seven-days-battles).</note>,
-<hi rend="super">f</hi>
-></l>
+<l n="55">With you they shook dread <ref target="#ref_21079"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="person">Stonewall</name>&apos;s spell</ref><note xml:id="ref_21079">Before the Battle of Malvern Hill, the final clash of the Seven Days' battles and the Peninsula Campaign, McClellan seized a strategic position at Glendale, where the Federal army needed to advance to the James River. Lee sent several divisions, including Major General Thomas “Stonewall” Jackson to attack the Union’s Glendale position, which was located between Malvern Hill and White Oak Swamp. Federal artillery prevented Jackson’s advance through White Oak Swamp (“The Seven Days Battles,” https://www.civilwar.org/learn/articles/seven-days-battles).</note>, <hi rend="super">f</hi></l>
 <l>With you they braved the blended yell</l>
 <l>Of rebel and maligner fell;</l>
 <l>With you in shame or fame they dwell,</l>
 <l rend="8em">McClellan:</l>
-<l n="60">Antietam-braves a brave can tell.</l>
+<l n="60">Antietam-braves a brave can tell. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0080.jpg"/></l>
 </lg>
 
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0080.jpg"/>
-And when your comrades (now so few,</l>
+<l>And when your comrades (now so few,</l>
 <l rend="8em">McClellan—</l>
 <l>Such ravage in deep files they rue)</l>
 <l>Meet round the board, and sadly view</l>
@@ -129,7 +125,7 @@ And when your comrades (now so few,</l>
 <l rend="8em">McClellan,</l>
 <l n="70">And great Antietam&apos;s cheers renew.</l>
 </lg>
-
+<lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/>
 <p xml:id="BP_noteE">[Melville's] <hi rend="smallcaps">Note e</hi>, <hi rend="italic">page</hi> 69.
 <p>Whatever just military criticism, favorable or otherwise, has at any time been made upon General McClellan's campaigns, will stand. But if, during the excitement of the conflict, aught was spread abroad tending to unmerited disparagement of the man, it must necessarily die out, though not perhaps witout leaving some traces, which may or may not prove enduring. Some there are whose votes aided in the re-election of Abraham Lincoln, who yet believed, and retain the belief, that General McClellan, to say the least, always proved himself a patriotic and honorable soldier. The feeling which surviving comrades entertain for their late commander is one which, from its passion, is susceptible of versified representation, and such it receives.</p>
