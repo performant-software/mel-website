@@ -21,7 +21,7 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0098.jpg"/>
 				<head type="main">
-				<ref target="#ref_19229"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:474" type="place"><hi rend="italic">Chattanooga.</hi></name></ref><note xml:id="ref_19229">First appearing in June, 1866, "Chattanooga" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi>(33:44). The poem's last stanza (which does not appear in the Harper version) was derived from "Inscription for the Slain at Fredericksburgh"; see Revision Narrative below for a fuller account. The poem itself treats the Chattanooga Campaign of October/November, 1863, in which, after significant losses on both sides, Grant's Union forces seized control of the Tennessee River by taking the central transportation hub of the rivertown Chattanooga. Union victory was achieved when Grant deployed regiments to against Confederate artillery strongholds on the surrounding heights of the city, first taking Lookout Mountain and then Missionary Ridge, on November 24 and 25th, respectively. A likely source for reports of Union cheering and the dead is from <hi rend="italic">The Rebellion Record</hi> 8: 235 (NN <hi rend="italic">Published Poems</hi> 645-46).
+				<ref target="#ref_19229"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:474" type="place"><hi rend="italic">Chattanooga.</hi></name></ref><note xml:id="ref_19229">First appearing in June, 1866, "Chattanooga" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (33:44). The poem's last stanza (which does not appear in the <hi rend="italics">Harper’s</hi> version) was derived from "Inscription for the Slain at Fredericksburgh"; see Revision Narrative below for a fuller account. The poem itself treats the Chattanooga Campaign of October/November, 1863, in which, after significant losses on both sides, Grant's Union forces seized control of the Tennessee River by taking the central transportation hub of the rivertown Chattanooga. Union victory was achieved when Grant deployed regiments against Confederate artillery strongholds on the surrounding heights of the city, first taking Lookout Mountain and then Missionary Ridge, on November 24 and 25th, respectively. A likely source for reports of Union cheering and the dead is from <hi rend="italic">The Rebellion Record</hi> 8: 235 (NN <hi rend="italic">Published Poems</hi> 645-46).
 			  </note>
 				</head>
 				<head type="sub-head">
@@ -30,12 +30,12 @@
 <lb/>
 <lg>
 <l><hi rend="smallcaps">A kindling</hi> impulse seized the host</l>
-<l rend="2em">Inspired by heaven&apos;s elastic air, <hi rend="super">j</hi></l>
+<l rend="2em">Inspired by heaven&apos;s <ref target="#EDnoteChattanoogaRN1">elastic air</ref><note xml:id="EDnoteChattanoogaRN1">Originally, for the <hi rend="italics">Harper’s</hi> version, Melville had written "October air," which sets the taking of Missionary Ridge a month too early. Melville's "Note J" in the <hi rend="italics">Battle-Pieces</hi> version of the poem seems to justify the mis-timing of "October," but Melville removed "October" when he revised to "elastic air," thus obviating the weather concerns in Note J.</note>, <hi rend="super">j</hi></l>
 <l>Their hearts outran their General&apos;s plan,</l>
 <l rend="2em">Though <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> commanded there—</l>
 <l n="5" rend="2em">Grant, who without reserve can dare;</l>
 <l>And, “Well, go on and do your will,”</l>
-<l rend="2em">He said, and measured the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:476" type="place">mountain</name> then:</l>
+<l rend="2em">He said, and measured the <ref target="#EDnoteChattanooga1">mountain</ref><note xml:id="EDnoteChattanooga1">Possibily Lookout Mountain but more likely the series of hills making up nearby Missionary Ridge.</note> then:</l>
 <l>So master-riders fling the rein—</l>
 <l rend="2em">But you must know your men.</l>
 </lg>
@@ -43,7 +43,7 @@
 <l n="10">On yester-morn in grayish mist,</l>
 <l rend="2em">Armies like ghosts on hills had fought,</l>
 <l>And rolled from the cloud their thunders loud</l>
-<l rend="2em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/place:477" type="place">Cumberlands</name> far had caught:</l>
+<l rend="2em">The Cumberlands far had caught:</l>
 <l rend="2em">To-day the sunlit steeps are sought.</l>
 <l n="15">Grant stood on cliffs whence all was plain,</l>
 <l rend="2em">And smoked as one who feels no cares;</l>
@@ -59,7 +59,7 @@
 <l>The foe, though brave. He, from the brink,</l>
 <l n="25" rend="2em">Looks far along the breadth of slope,</l>
 <l>And sees two miles of dark dots creep,</l>
-<l rend="2em">And knows they mean the cope.</l>
+<l rend="2em">And knows they mean the <ref target="#EDnoteChattanooga2">cope</ref><note xml:id="EDnoteChattanooga2">Vault of the skies.</note>.</l>
 </lg>
 <lg>
 <l>He sees them creep. Yet here and there</l>
@@ -95,7 +95,7 @@
 <l rend="2em">And swarms of rebels fled.</l>
 </lg>
 <lg>
-<l n="55">But some who gained the envied <name ref="https://mel-catalog.herokuapp.com/api/entries/place:129" type="place">Alp</name>,</l>
+<l n="55">But some who gained the envied <ref target="#EDnoteChattanooga3">Alp</ref><note xml:id="EDnoteChattanooga3">Any mountain, and in this case, the heights of Missionary Ridge.</note>,</l>
 <l rend="2em">And—eager, ardent, earnest there—</l>
 <l>Dropped into Death&apos;s wide-open arms,</l>
 <l rend="2em">Quelled on the wing like eagles struck in air—</l>
@@ -143,7 +143,7 @@
  (4) The 1866 battle-piece “Chattanooga,” which focuses on the Union victory in the Chattanooga Campaign of late fall 1863, is linked to Melville’s 1864 “Inscription For the Slain/Dead” because the last stanza of the later poem draws wording directly from the earlier poem, especially the moving image of death as “a starry night.” “Chattanooga” first appeared in the June 1866 issue of <hi rend="italics">Harper’s New Monthly Magazine</hi> (33: 44) but, curiously, the “starry night” stanza does not appear. Either it was omitted for reasons of space, or Melville added it before its reappearance in  <hi rend="italics">Battle-Pieces</hi>.
 </p>
 <p>
-(5) Apart from the addition of the “starry night” final stanza, the only other substantive changes in the Battle-Pieces print version of “Chattanooga” are the addition of the sub-title’s dateline of “(<hi rend="smallcaps">November,</hi> 1863),” which does not appear in the Harper’s version and the revision of the Harper’s phrase “October air” to the <hi rend="italics">Battle-Pieces</hi>  phrase “elastic air” in line 2. The magazine and book versions also differ in 25 places regarding punctuation and capitalization.
+(5) Apart from the addition of the “starry night” final stanza, the only other substantive changes in the <hi rend="italics">Battle-Pieces</hi> print version of “Chattanooga” are the addition of the sub-title’s dateline of “(<hi rend="smallcaps">November,</hi> 1863),” which does not appear in the <hi rend="italics">Harper’s</hi> version and the revision of the <hi rend="italics">Harper’s</hi> phrasing “October air” to the <hi rend="italics">Battle-Pieces</hi> phrase “elastic air” in line 2. The magazine and book versions also differ in 25 places regarding punctuation and capitalization.
 </p>
 <p>
 (6) In the left margin next to line 54 of his Copy C of  <hi rend="italics">Battle-Pieces</hi>, Melville inscribed “foemen” in pencil as a possible alternate wording for “rebels.” <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0102.jpg"/>
