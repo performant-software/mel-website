@@ -21,7 +21,7 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0098.jpg"/>
 				<head type="main">
-				<ref target="#ref_19229"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:474" type="place"><hi rend="italic">Chattanooga.</hi></name></ref><note xml:id="ref_19229">First appearing in June, 1866, "Chattanooga" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (33:44). The poem's last stanza (which does not appear in the <hi rend="italic">Harper’s</hi> version) was derived from "Inscription for the Slain at Fredericksburgh"; see Revision Narrative below for a fuller account. The poem itself treats the Chattanooga Campaign of October/November, 1863, in which, after significant losses on both sides, Grant's Union forces seized control of the Tennessee River by taking the central transportation hub of the rivertown Chattanooga. Union victory was achieved when Grant deployed regiments against Confederate artillery strongholds on the surrounding heights of the city, first taking Lookout Mountain and then Missionary Ridge, on November 24 and 25th, respectively. A likely source for reports of Union cheering and the dead is from <hi rend="italic">The Rebellion Record</hi> 8: 235 (NN <hi rend="italic">Published Poems</hi> 645-46).
+				<ref target="#ref_19229"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:474" type="place"><hi rend="italic">Chattanooga.</hi></name></ref><note xml:id="ref_19229">First appearing in June, 1866, "Chattanooga" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (33:44) <pb facs="/images/battle-pieces-v1/battle-pieces-i-ChattanoogaHarpers1.jpg"/>. The poem's last stanza (which does not appear in the <hi rend="italic">Harper’s</hi> version) was derived from "Inscription for the Slain at Fredericksburgh"; see Revision Narrative below for a fuller account. The poem itself treats the Chattanooga Campaign of October/November, 1863, in which, after significant losses on both sides, Grant's Union forces seized control of the Tennessee River by taking the central transportation hub of the rivertown Chattanooga. Union victory was achieved when Grant deployed regiments against Confederate artillery strongholds on the surrounding heights of the city, first taking Lookout Mountain and then Missionary Ridge, on November 24 and 25th, respectively. A likely source for reports of Union cheering and the dead is from <hi rend="italic">The Rebellion Record</hi> 8: 235 (NN <hi rend="italic">Published Poems</hi> 645-46).
 			  </note>
 				</head>
 				<head type="sub-head">
@@ -92,7 +92,7 @@
 <l>The staff is caught, and next the rush,</l>
 <l rend="2em">And then the leap where death has led;</l>
 <l>Flag answered flag along the crest,</l>
-<l rend="2em">And swarms of rebels fled.</l>
+<l rend="2em">And swarms of <ref target="#EDnoteChattanoogaRN2">rebels</ref><note xml:id="EDnoteChattanoogaRN2">See step six in the Revision Narrative below.</note> fled.</l>
 </lg>
 <lg>
 <l n="55">But some who gained the envied <ref target="#EDnoteChattanooga3">Alp</ref><note xml:id="EDnoteChattanooga3">Any mountain, and in this case, the heights of Missionary Ridge.</note>,</l>
