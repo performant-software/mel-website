@@ -21,7 +21,8 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0098.jpg"/>
 				<head type="main">
-				<hi rend="italic"><ref target="#ref_19229"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:474" type="place">Chattanooga</name></ref><note xml:id="ref_19229">First appearing in June, 1866, "Chattanooga" is one of five Battle-Pieces poems to appear anonymously in Harper’s New Monthly Magazine.</note>.</hi>
+				<ref target="#ref_19229"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:474" type="place"><hi rend="italic">Chattanooga.</hi></name></ref><note xml:id="ref_19229">First appearing in June, 1866, "Chattanooga" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi>(33:44). The poem's last stanza (which does not appear in the Harper version) was derived from "Inscription for the Slain at Fredericksburgh"; see Revision Narrative below for a fuller account. The poem itself treats the Chattanooga Campaign of October/November, 1863, in which, after significant losses on both sides, Grant's Union forces seized control of the Tennessee River by taking the central transportation hub of the rivertown Chattanooga. Union victory was achieved when Grant deployed regiments to against Confederate artillery strongholds on the surrounding heights of the city, first taking Lookout Mountain and then Missionary Ridge, on November 24 and 25th, respectively. A likely source for reports of Union cheering and the dead is from <hi rend="italic">The Rebellion Record</hi> 8: 235 (NN <hi rend="italic">Published Poems</hi> 645-46).
+			  </note>
 				</head>
 				<head type="sub-head">
 				(<hi rend="smallcaps">November</hi>, 1863.)
@@ -102,7 +103,7 @@
 <l n="60">The smile upon them as they died;</l>
 <l rend="2em">Their end attained, that end a height:</l>
 <l>Life was to these a dream fulfilled,</l>
-<l rend="2em"><ref target="#ref_21285">And death a starry night.</ref><note xml:id="ref_21285">Both Garner (1993: 284) and Cohen (Battle-Pieces, 244) suggest that the last stanza of “Chattanooga” was adapted from the “Inscription For the Dead at Fredericksburgh” (NN Published Poems, 646). (Christina Lee)</note></l>
+<l rend="2em">And death a <ref target="#ref_21285">starry night.</ref><note xml:id="ref_21285">See Revision Narrative below, especially steps 4 and 5, for discussion of earlier versions of the last stanza and its final image of death as "a starry night."</note></l>
 </lg>
 <lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/>
@@ -123,7 +124,7 @@
 <l rend="4em"><hi rend="italic">Inscription</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0000.jpg"/></l>
 <l rend="4em"><hi rend="italic">For the Slain</hi></l>
 <l rend="2em"><hi rend="italic">At Fredericksburgh</hi>.</l>
-<l rend="4em">——— * ———</l>
+<l rend="4em">——— * ——</l>
 <l>A glory lights an earnest end; </l>
 <l>In jubilee the patriot ghosts ascend.</l>
 <l>Transfigured at the rapturous height</l>
@@ -139,13 +140,13 @@
  (3) However, the original manuscript (as displayed and transcribed above) was already in production, and the original (not the revised version) appeared in Bliss and Kennedy’s <hi rend="italics">Our Country’s Authors</hi>. Neither version of “Inscription For the Slain/Dead at Fredericksburgh” would appear in <hi rend="italics">Battle-Pieces</hi>. (Instead, Melville included the seven-line “Inscription for Marye’s Heights, Fredericksburg,” which memorializes the battle’s bloodiest encounter.)
 </p>
 <p>
- (4) The 1866 battle-piece “Chattanooga,” which focuses on the Union victory in the Chattanooga (Tennessee) Campaign of late fall 1863, is linked to Melville’s 1864 “Inscription For the Slain/Dead” because the last stanza of the later poem draws wording directly from the earlier poem, especially the moving image of death as “a starry night.” “Chattanooga” first appeared in the June 1866 issue of <hi rend="italics">Harper’s New Monthly Magazine</hi> (33: 44) but, curiously, the “starry night” stanza does not appear. Either it was omitted for reasons of space, or Melville added it before its reappearance in  <hi rend="italics">Battle-Pieces</hi>.
+ (4) The 1866 battle-piece “Chattanooga,” which focuses on the Union victory in the Chattanooga Campaign of late fall 1863, is linked to Melville’s 1864 “Inscription For the Slain/Dead” because the last stanza of the later poem draws wording directly from the earlier poem, especially the moving image of death as “a starry night.” “Chattanooga” first appeared in the June 1866 issue of <hi rend="italics">Harper’s New Monthly Magazine</hi> (33: 44) but, curiously, the “starry night” stanza does not appear. Either it was omitted for reasons of space, or Melville added it before its reappearance in  <hi rend="italics">Battle-Pieces</hi>.
 </p>
 <p>
-(5) Apart from the addition of the “starry night” final stanza, the only other substantive changes in the Battle-Pieces print version of “Chattanooga” are the addition of the sub-title’s date stamp of “(<hi rend="smallcaps">November,</hi> 1863),” which does not appear in the Harper’s version and the revision of the Harper’s phrase “October air” to the <hi rend="italics">Battle-Pieces</hi>  phrase “elastic air” in line 2. The magazine and book versions also differ in 25 places regarding punctuation and capitalization.
+(5) Apart from the addition of the “starry night” final stanza, the only other substantive changes in the Battle-Pieces print version of “Chattanooga” are the addition of the sub-title’s dateline of “(<hi rend="smallcaps">November,</hi> 1863),” which does not appear in the Harper’s version and the revision of the Harper’s phrase “October air” to the <hi rend="italics">Battle-Pieces</hi>  phrase “elastic air” in line 2. The magazine and book versions also differ in 25 places regarding punctuation and capitalization.
 </p>
 <p>
-(6) In the left margin next to line 54 of his Copy C of  <hi rend="italics">Battle-Pieces</hi>, Melville inscribed “foemen” in pencil as a possible alternate wording for “rebels.”
+(6) In the left margin next to line 54 of his Copy C of  <hi rend="italics">Battle-Pieces</hi>, Melville inscribed “foemen” in pencil as a possible alternate wording for “rebels.” <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0102.jpg"/>
 </p>
 
 </div>
