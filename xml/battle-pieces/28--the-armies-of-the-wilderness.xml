@@ -21,7 +21,7 @@
 
 	<pb facs="/images/battle-pieces-v1/battle-pieces-i-0101.jpg"/>
 	<head type="main">
-	<hi rend="italic">The Armies of the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name>.</hi>
+	<hi rend="italic">The Armies of the Wilderness.</hi>
 	</head>
 	<head type="sub-head">
 	(1863-4.)
@@ -48,9 +48,8 @@
 <lb/>
 <lg>
 <l>Through the pointed glass our soldiers saw</l>
-<l rend="2em">The base-ball bounding sent;</l>
-<l n="15"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0102.jpg"/>
-They could have joined them in their sport</l>
+<l rend="2em">The base-ball bounding sent; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0102.jpg"/></l>
+<l n="15">They could have joined them in their sport</l>
 <l rend="2em">But for the vale&apos;s deep rent.</l>
 <l>And others turned the reddish soil,</l>
 <l rend="2em">Like diggers of graves they bent:</l>
@@ -78,12 +77,11 @@ They could have joined them in their sport</l>
 <hi rend="italic"><l rend="6em">Such brave ones, foully snared</l>
 <l rend="8em">By Belial&apos;s wily plea,</l>
 <l n="35" rend="6em">Were faithful unto the evil end—</l>
-<l rend="10em">Feudal fidelity.</l></hi>
+<l rend="10em">Feudal fidelity. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0103.jpg"/></l></hi>
 </lg>
 <lb/>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0103.jpg"/>
-&quot;Well, then, your camps—come, tell the names!&quot;</l>
+<l>&quot;Well, then, your camps—come, tell the names!&quot;</l>
 <l rend="2em">Freely he leveled his finger then:</l>
 <l>&quot;Yonder—see—are our Georgians; on the crest,</l>
 <l n="40" rend="2em">The Carolinians; lower, past the glen,</l>
@@ -109,11 +107,10 @@ They could have joined them in their sport</l>
 <l n="55">But ours in perilous places bide</l>
 <l rend="2em">With rifles ready and eyes that strain</l>
 <l>Deep through the dim suspected wood</l>
-<l rend="2em">Where the Rapidan rolls amain.</l>
+<l rend="2em">Where the Rapidan rolls amain. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0104.jpg"/></l>
 </lg>
 <lg>
-<hi rend="italic"><l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0104.jpg"/>
-The Indian has passed away,</l>
+<hi rend="italic"><l rend="6em">The Indian has passed away,</l>
 <l n="60" rend="8em">But creeping comes another—</l>
 <l rend="6em">Deadlier far. Picket,</l>
 <l rend="8em">Take heed—take heed of thy brother!</l></hi>
@@ -140,9 +137,8 @@ The Indian has passed away,</l>
 <l n="75">A path down the mountain winds to the glade</l>
 <l rend="2em">Where the dead of the Moonlight Fight lie low;</l>
 <l>A hand reaches out of the thin-laid mould</l>
-<l rend="2em">As begging help which none can bestow.</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0105.jpg"/>
-But the field-mouse small and busy ant</l>
+<l rend="2em">As begging help which none can bestow. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0105.jpg"/></l>
+<l>But the field-mouse small and busy ant</l>
 <l n="80" rend="2em">Heap their hillocks, to hide if they may the woe:</l>
 <l>By the bubbling spring lies the rusted canteen,</l>
 <l rend="2em">And the drum which the drummer-boy dying let go.</l>
@@ -168,12 +164,11 @@ But the field-mouse small and busy ant</l>
 <hi rend="italic"><l n="95" rend="6em">Where are the birds and boys?</l>
 <l rend="8em">Who shall go chestnutting when</l>
 <l rend="6em">October returns? The nuts—</l>
-<l rend="8em">O, long ere they grow again.</l></hi>
+<l rend="8em">O, long ere they grow again. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0106.jpg"/></l></hi>
 </lg>
 <lb/>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0106.jpg"/>
-They snug their huts with the chapel-pews,</l>
+<l>They snug their huts with the chapel-pews,</l>
 <l n="100" rend="2em">In court-houses stable their steeds—</l>
 <l>Kindle their fires with indentures and bonds,</l>
 <l rend="2em">And old <name ref="https://mel-catalog.herokuapp.com/api/entries/person:196" type="person">Lord Fairfax</name>&apos;s parchment deeds;</l>
@@ -201,15 +196,14 @@ They snug their huts with the chapel-pews,</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Is life but a dream? and so,</l>
-<l n="120" rend="8em">In the dream do men laugh aloud?</l>
-<l rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0107.jpg"/>So strange seems mirth in a camp,</l>
+<l n="120" rend="8em">In the dream do men laugh aloud? <pb facs="/images/battle-pieces-v1/battle-pieces-i-0107.jpg"/></l>
+<l rend="6em">So strange seems mirth in a camp,</l>
 <l rend="8em">So like a white tent to a shroud.</l></hi>
 </lg>
 <lb/>
 	<lg>
 	<head type="sub-head"><l rend="12em">II.</l></head>
 </lg>
-	<lb/>
 <lg>
 <l>The May-weed springs; and comes a Man</l>
 <l rend="2em">And mounts our Signal Hill;</l>
@@ -233,11 +227,8 @@ They snug their huts with the chapel-pews,</l>
 <l>Among the streets of beechen huts</l>
 <l rend="2em">No more to know the drum.</l>
 <l>The weed shall choke the lowly door,</l>
-<l n="140" rend="2em">And foxes peer within the gloom,</l>
-</lg>
-<lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0108.jpg"/>
-Till scared perchance by <name ref="https://mel-catalog.herokuapp.com/api/entries/person:123" type="person">Mosby</name>&apos;s prowling men,</l>
+<l n="140" rend="2em">And foxes peer within the gloom, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0108.jpg"/></l>
+<l>Till scared perchance by <name ref="https://mel-catalog.herokuapp.com/api/entries/person:123" type="person">Mosby</name>&apos;s prowling men,</l>
 <l rend="2em">Who ride in the rear of doom.</l>
 </lg>
 <lg>
@@ -266,8 +257,8 @@ Till scared perchance by <name ref="https://mel-catalog.herokuapp.com/api/entrie
 <lb/>
 <lg>
 <l>The foe that held his guarded hills</l>
-<l n="160" rend="2em">Must speed to woods afar;</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0109.jpg"/>For the scheme that was nursed by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:483" type="place">Culpepper</name> hearth</l>
+<l n="160" rend="2em">Must speed to woods afar; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0109.jpg"/></l>
+<l>For the scheme that was nursed by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:483" type="place">Culpepper</name> hearth</l>
 <l rend="2em">With the slowly-smoked cigar—</l>
 <l>The scheme that smouldered through winter long</l>
 <l rend="2em">Now bursts into act—into war—</l>
@@ -295,11 +286,11 @@ Till scared perchance by <name ref="https://mel-catalog.herokuapp.com/api/entrie
 <hi rend="italic"><l rend="6em">At the height of their madness</l>
 <l n="180" rend="8em">The night winds pause,</l>
 <l rend="6em">Recollecting themselves;</l>
-<l rend="8em">But no lull in these wars.</l></hi>
+<l rend="8em">But no lull in these wars. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0110.jpg"/></l></hi>
 </lg>
+<lb/>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0110.jpg"/>
-A gleam!—a volley! And who shall go</l>
+<l>A gleam!—a volley! And who shall go</l>
 <l rend="2em">Storming the swarmers in jungles dread?</l>
 <l n="185">No cannon-ball answers, no proxies are sent—</l>
 <l rend="2em">They rush in the shrapnel&apos;s stead.</l>
@@ -327,9 +318,8 @@ A gleam!—a volley! And who shall go</l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">Few burial rites shall be;</l>
-<l rend="8em">No priest with book and band</l>
-<l n="205" rend="6em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0111.jpg"/>
-Shall come to the secret place</l>
+<l rend="8em">No priest with book and band <pb facs="/images/battle-pieces-v1/battle-pieces-i-0111.jpg"/></l>
+<l n="205" rend="6em">Shall come to the secret place</l>
 <l rend="8em">Of the corpse in the foeman&apos;s land.</l></hi>
 </lg>
 <lb/>
@@ -358,9 +348,8 @@ Shall come to the secret place</l>
 <l>Vivid glimpses or livid through peopled gloom,</l>
 <l rend="2em">And fires which creep and char—</l>
 <l n="225">A riddle of death, of which the slain</l>
-<l rend="6em">Sole solvers are.</l>
+<l rend="6em">Sole solvers are. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0112.jpg"/></l>
 </lg>
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0112.jpg"/>
 <lg>
 <hi rend="italic"><l rend="6em">Long they withhold the roll</l>
 <l rend="8em">Of the shroudless dead. It is right;</l>
