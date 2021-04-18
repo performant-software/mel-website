@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>24 - The House-Top</title>
+			<title>24 - The House-top*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -21,24 +21,23 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0094.jpg"/>
 				<head type="main">
-				<hi rend="italic"><ref target="#ref_21008">The House-Top</ref><note xml:id="ref_21008">The poem recounts the New York Draft Riots on 11 July, 1863.</note>.</hi>
+				<hi rend="italic"><ref target="#ref_21008">The House-top</ref><note xml:id="ref_21008">The poem recounts the New York Draft Riots on 11 July, 1863.</note>.</hi>
 				</head>
 				<head type="sub-head">
-				<hi rend="italic">A Night Piece.</hi>
+				<hi rend="italic">A Night Piece.</hi><lb/>
 				(<hi rend="smallcaps">July</hi>, 1863.)
 				</head>
 <lb/>
 <lg>
 <l><hi rend="smallcaps">No</hi> sleep. The sultriness pervades the air</l>
 <l>And binds the brain—a dense oppression, such</l>
-<l>As tawny <ref target="#ref_21009">tigers</ref><note xml:id="ref_21009">"And down the dunes a thousand guns lie couched/ Unseen beside the flood/ Like tigers in some Orient jungle crouched,/ That wait and watch for blood." Henry Timrod, "Charleston," Charlestown, Mercury (13 December 1862) [Intertextuality];
-"...beholding the tranquil beauty and brilliancy of the ocean's skin, one forgets the tiger heart that pants beneath" [Intratexuality, Moby-Dick]  (Cohen, 239)</note> feel in matted shades,</l>
+<l>As tawny tigers feel in matted shades,</l>
 <l>Vexing their blood and making apt for ravage.</l>
 <l n="5">Beneath the stars the roofy desert spreads</l>
-<l>Vacant as <ref target="#ref_21010">Libya</ref><note xml:id="ref_21010">"As barren/ As banks [i.e. the desert] of Libya" (Shakespeare, Troilus and Cressida, I, iii, 327-8.)</note>. All is hushed near by.</l>
+<l>Vacant as <ref target="#ref_21010">Libya</ref><note xml:id="ref_21010">"As barren / As banks [i.e. the desert] of Libya" (Shakespeare, <hi rend="italic">Troilus and Cressida</hi> I.3.327-8.)</note>. All is hushed near by.</l>
 <l>Yet fitfully from far breaks a mixed surf</l>
 <l>Of muffled sound, the Atheist roar of riot.</l>
-<l>Yonder, where parching <ref target="#ref_21011">Sirius</ref><note xml:id="ref_21011">Also known as The Dog Star, Sirius (from the Greek meaning hot) is the brightest star in the summer sky.</note> set in drought,</l>
+<l>Yonder, where parching <ref target="#ref_21011">Sirius</ref><note xml:id="ref_21011">Also known as The Dog Star, Sirius (from the Greek meaning hot) is the brightest summer star in the northern hemisphere.</note> set in drought,</l>
 <l n="10">Balefully glares red Arson—there—and there.</l>
 <l>The Town is taken by its rats—ship-rats</l>
 <l>And rats of the wharves. All civil charms</l>
@@ -47,7 +46,7 @@
 <l n="15">Than sway of self; these like a dream dissolve,</l>
 <l>And man rebounds whole æons back in nature.<hi rend="super">i</hi> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0095.jpg"/></l>
 <l>Hail to the low dull rumble, dull and dead,</l>
-<l>And ponderous drag that <ref target="#ref_21007">shakes</ref><note xml:id="ref_21007">In his bound copy (C) of the proof sheets for Batlle-Pieces, Melville underlines "shakes" in pencil and inscribes "jars" in the right margin.</note> the wall.</l>
+<l>And ponderous drag that <ref target="#ref_21007">shakes</ref><note xml:id="ref_21007">In his bound sheets of <hi rend="italic">Batlle-Pieces</hi> (Copy C), Melville underlined "shakes" in pencil and inscribed "jars" in the right margin.</note> the wall. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0097.jpg"/></l>
 <l>Wise Draco comes, deep in the midnight roll</l>
 <l n="20">Of black artillery; he comes, though late;</l>
 <l>In code corroborating Calvin&apos;s creed</l>
@@ -56,7 +55,7 @@
 <l>Gives thanks devout; nor, being thankful, heeds</l>
 <l n="25">The grimy slur on the Republic&apos;s faith implied,</l>
 <l>Which holds that Man is naturally good,</l>
-<l>And—more—is <ref target="#ref_21013">Nature&apos;s Roman, never to be scourged</ref><note xml:id="ref_21013">Acts 16:37-38 and 22:25-29 relate how Paul invoked his exemption as a Roman citizen from scourging. In White-Jacket, Ch. 34, Melville quotes Paul (Acts 22) to make his case against flogging: "'Is it lawful for you to scourge a man that is a Roman?' asks the intrepid Apostle, well knowing, as a Roman citizen, that it was not. And now, eighteen hundred years after, is it lawful for you, my countrymen, to scourge a man that is an American?" (See Cohen, 241) </note>.</l>
+<l>And—more—is <ref target="#ref_21013">Nature&apos;s Roman, never to be scourged</ref><note xml:id="ref_21013">Acts 16:37-38 and 22:25-29 relate how Paul invoked his exemption as a Roman citizen from scourging. In <hi rend="italic">White-Jacket</hi>, Ch. 34, Melville quotes Acts 22 to make his case against flogging: "'Is it lawful for you to scourge a man that is a Roman?' asks the intrepid Apostle, well knowing, as a Roman citizen, that it was not. And now, eighteen hundred years after, is it lawful for you, my countrymen, to scourge a man that is an American?" (See Cohen, 241)</note>.</l>
 </lg>
 <lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/>
@@ -67,3 +66,7 @@
 </div></body>
 		</text>
 	</TEI>
+<!--
+<ref target="#ref_21009">tigers</ref><note xml:id="ref_21009">"And down the dunes a thousand guns lie couched / Unseen beside the flood / Like tigers in some Orient jungle crouched, / That wait and watch for blood." Henry Timrod, "Charleston," Charlestown, Mercury (13 December 1862);
+"...beholding the tranquil beauty and brilliancy of the ocean's skin, one forgets the tiger heart that pants beneath" [Intratexuality, Moby-Dick]  (Cohen, 239)</note> feel in matted shades,</l>
+-->
