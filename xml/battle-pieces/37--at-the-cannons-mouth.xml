@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>36 - At the Cannon's Mouth</title>
+			<title>36 - At the Cannon's Mouth*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -45,7 +45,7 @@
 <l n="10">But that mad dash at death, how name?</l>
 </lg>
 <lg>
-<l>Had Earth no charm to stay <ref target="#ref_20991">the Boy</ref><note xml:id="ref_20991">Cushing was 21 at the time.</note></l>
+<l>Had Earth no charm to <ref target="#EDnoteCannonsMouthRN1">stay</ref><note xml:id="EDnoteCannonsMouthRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to add a caret after "stay" and inscribed "in" and a vertical line in the right margin to give "stay in". In the same revision event, he then deleted "From" in the next line. The revised question would then be "Had Earth no charm to stay in the Boy / [T]he martyr-passion?"</note> <ref target="#ref_20991">the Boy</ref><note xml:id="ref_20991">Cushing was 21 at the time.</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0136.jpg"/></l>
 <l rend="2em">From the martyr-passion? Could he dare</l>
 <l>Disdain the Paradise of opening joy</l>
 <l rend="2em">Which beckons the fresh heart every where?</l>
