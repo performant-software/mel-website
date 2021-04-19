@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>27 - The Armies of the Wilderness</title>
+			<title>27 - The Armies of the Wilderness*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -37,7 +37,7 @@
 <l n="5">On fronting slopes gleamed other camps</l>
 <l rend="2em">Where faith as firmly clung:</l>
 <l>Ah, froward kin! so brave amiss—</l>
-<l rend="2em">The zealots of the Wrong.</l>
+<l rend="2em">The <ref target="#EDnoteArmiesWildernessRN1">zealots</ref><note xml:id="EDnoteArmiesWildernessRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville underlined "zealots" in pencil and inscribed "bravos" in the right margin.</note> of the Wrong. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0103.jpg"/></l>
 </lg>
 <lg>
 <hi rend="italic"><l rend="6em">In this strife of brothers</l>
@@ -48,7 +48,7 @@
 <lb/>
 <lg>
 <l>Through the pointed glass our soldiers saw</l>
-<l rend="2em">The base-ball bounding sent; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0102.jpg"/></l>
+<l rend="2em">The <ref target="#EDnoteArmiesWildernessRN2">base</ref><note xml:id="EDnoteArmiesWildernessRN2">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville underlined "base" in "base-ball" in pencil and inscribed "foot" in the left margin, suggesting a revision from "base-ball" to "foot-ball".</note>-ball bounding sent; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0102.jpg"/></l>
 <l n="15">They could have joined them in their sport</l>
 <l rend="2em">But for the vale&apos;s deep rent.</l>
 <l>And others turned the reddish soil,</l>
