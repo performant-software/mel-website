@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>30* - The Battle for the Bay</title>
+			<title>30 - The Battle for the Bay*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -51,7 +51,7 @@
 <lg>
 <l>But drums are beat: <hi rend="italic">Up anchor all!</hi></l>
 <l rend="2em">The triple lines steam slowly on;</l>
-<l>Day breaks, <ref target="#EDnoteBattleBayRN1">and through</ref><note xml:id="EDnoteBattleBayRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to underline "and through" and inscribed "; along" in the right margin, with the idea of replacing the comma preceding the underlined phrase with a semicolon.</note> the sweep of decks each man <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0121.jpg"/></l>
+<l>Day breaks, <ref target="#EDnoteBattleBayRN1">and through</ref><note xml:id="EDnoteBattleBayRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to underline "and through" and inscribed "; along" in the right margin, with the idea of revising to "along" and replacing the comma preceding the underlined phrase with a semicolon.</note> the sweep of decks each man <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0121.jpg"/></l>
 <l n="20" rend="4em">Stands coldly by his gun—</l>
 <l>As cold as it. But he shall warm—</l>
 <l rend="2em">Warm with the solemn metal there,</l>
