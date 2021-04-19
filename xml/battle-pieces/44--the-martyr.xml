@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>42 - The Martyr</title>
+			<title>42 - The Martyr*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -21,8 +21,7 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0149.jpg"/>
 				<head type="main">
-				<hi rend="italic">The Martyr.</hi>
-				</head>
+				<ref target="#EDnoteMartyrRN1"><hi rend="italic">The Martyr</hi></ref><note xml:id="EDnoteMartyrRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to delete the title, leaving no alternative wording. One likely scenario is that he intended the sub-title to serve as the poem's title.</note>. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0151.jpg"/></head>
 				<head type="sub-head">
 				<hi rend="italic">Indicative of the passion of the people on the 15th of<lb/> April, 1865.</hi>
 				</head>
