@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>46 - Aurora-Borealis</title>
+			<title>46 - Aurora-Borealis*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -30,7 +30,7 @@
 <lg>
 <l><hi rend="smallcaps">What</hi> power disbands the Northern Lights</l>
 <l rend="2em">After their steely play?</l>
-<l>The lonely watcher feels an awe</l>
+<l>The <ref target="#EDnoteAuroraBorealisRN1">lonely watcher feels an awe</ref><note xml:id="EDnoteAuroraBorealisRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville underlined this line in pencil and inscribed a vertical slash to the left of it in the margin and another, smaller slash after "awe". Next to a corresponding slash in the top margin, he then inscribed "The watcher feels a creeping awe". The implied revision reduces the loneliness of the watcgher while increasing his growing consciousness of the natural wonder.</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0158.jpg"/></l>
 <l rend="2em">Of Nature&apos;s sway,</l>
 <l n="5" rend="4em">As when appearing,</l>
 <l rend="4em">He marked their flashed uprearing</l>
