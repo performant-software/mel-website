@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>37 - The March to the Sea</title>
+			<title>37 - The March to the Sea*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -21,12 +21,15 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0136.jpg"/>
 				<head type="main">
-				<hi rend="italic">The March to the Sea.</hi>
+				<ref target="#ref_19216"><hi rend="italic">The March to the Sea.</hi></ref>
+				<note xml:id="ref_19216">First published in February, 1866, "The March to the Sea" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32:366-7).
+				 Melville owned a copy of Major George Ward Nichols’s <hi rend="italic">The Story of the Great March</hi>, a possible source for the poem.
+				</note>
 				</head>
 				<head type="sub-head">
 				(<hi rend="smallcaps">December</hi>, 1864.)
 				</head>
-
+<lb/>
 <lg>
 <l><hi rend="smallcaps">Not</hi> <name ref="https://mel-catalog.herokuapp.com/api/entries/place:484" type="place">Kenesaw</name> high-arching,</l>
 <l rend="2em">Nor <name ref="https://mel-catalog.herokuapp.com/api/entries/place:485" type="place">Allatoona</name>&apos;s glen—</l>
@@ -34,7 +37,7 @@
 <l rend="2em">Stayed <name ref="https://mel-catalog.herokuapp.com/api/entries/person:138" type="person">Sherman</name>&apos;s miles of men;</l>
 <l n="5">From charred <name ref="https://mel-catalog.herokuapp.com/api/entries/place:486" type="place">Atlanta</name> marching</l>
 <l rend="2em">They launched the sword again.</l>
-<l rend="6em">The columns streamed like rivers</l>
+<l rend="6em">The <ref target="#ref_21123">columns</ref><note xml:id="ref_21123">Sherman split his infantry and cavalry into four parallel columns (“Scorched Earth,” www.civilwar.org).</note> streamed like rivers</l>
 <l rend="8em">Which in their course agree,</l>
 <l rend="6em">And they streamed until their flashing</l>
 <l n="10" rend="8em">Met the flashing of the sea:</l>
@@ -44,10 +47,9 @@
 <lg>
 <l>They brushed the foe before them</l>
 <l rend="2em">(Shall gnats impede the bull?);</l>
-<l n="15">Their own good bridges bore them</l>
-<l rend="2em">Over swamps or torrents full,</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0137.jpg"/>
-And the grand pines waving o&apos;er them</l>
+<l n="15">Their own good <ref target="#ref_21124">bridges</ref> bore them<note xml:id="ref_21124">Flotating or pontoon bridges could be built to bear trains as well as troops.</note></l>
+<l rend="2em">Over swamps or torrents full, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0137.jpg"/></l>
+<l>And the grand pines waving o&apos;er them</l>
 <l rend="2em">Bowed to axes keen and cool.</l>
 <l rend="6em">The columns grooved their channels,</l>
 <l n="20" rend="8em">Enforced their own decree,</l>
@@ -57,7 +59,7 @@ And the grand pines waving o&apos;er them</l>
 <l rend="10em">A marching glad and free.</l>
 </lg>
 <lg>
-<l n="25">Kilpatrick&apos;s snare of riders</l>
+<l n="25"><ref target="#ref_21148">Kilpatrick</ref>&apos;s snare of riders<note xml:id="ref_21148">Union General Hugh Judson Kilpatrick repelled a Confederate attack at Milledgeville, then the capital of Georgia (“Scorched Earth,” www.civilwar.org).</note></l>
 <l rend="2em">In zigzags mazed the land,</l>
 <l>Perplexed the pale Southsiders</l>
 <l rend="2em">With feints on every hand;</l>
@@ -66,15 +68,14 @@ And the grand pines waving o&apos;er them</l>
 <l rend="6em">To Sherman&apos;s shifting problem</l>
 <l rend="8em">No foeman knew the key;</l>
 <l rend="6em">But onward went the marching</l>
-<l rend="8em"><ref target="#BP_RNnote1">Unpausing</ref><note xml:id="BP_RNnote1">In his copy of BP, HM revised in pencil: He added a dash after "marching" at the end of the preceding line and deleted "Unpausing." To the left of the deleted word, he inscribed, also in pencil, "Right onward," an incremental repetition of "But onward" in the preceding line.</note> to the sea:</l> 
+<l rend="8em"><ref target="#BP_RNnote1">Unpausing</ref> to the sea:<note xml:id="BP_RNnote1">In Copy A of <hi rend="italic">Battle-Pieces</hi>, Melville used pencil to add a dash after "marching" at the end of the preceding line and deleted "Unpausing." In the left margin, he inscribed "Right onward," an incremental repetition of "But onward" in the preceding line.</note></l>
 <l n="35" rend="10em">It was glorious glad marching,</l>
 <l rend="10em">The swinging step was free.</l>
 </lg>
 <lg>
 <l>The flankers ranged like pigeons</l>
-<l rend="2em">In clouds through field or wood;</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0138.jpg"/>
-The flocks of all those regions,</l>
+<l rend="2em">In clouds through field or wood; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0138.jpg"/></l>
+<l>The flocks of all those regions,</l>
 <l n="40" rend="2em">The herds and horses good,</l>
 <l>Poured in and swelled the legions,</l>
 <l rend="2em">For they caught the marching mood.</l>
@@ -89,24 +90,25 @@ The flocks of all those regions,</l>
 <l>All nature felt their coming,</l>
 <l n="50" rend="2em">The birds like couriers flew,</l>
 <l>And the banners brightly blooming</l>
-<l rend="2em">The slaves by thousands drew,</l>
+<l rend="2em">The <ref target="#ref_21150">slaves</ref><note xml:id="ref_21150">Around 19,000 slaves joined Sherman’s march (Edmund Drago, “How Sherman’s March Through Georgia Affected the Slaves,”  <hi rend="italic">Georgia Historical Quarterly</hi>, 363.).</note> by thousands drew,</l>
 <l>And they marched beside the drumming,</l>
 <l rend="2em">And they joined the armies blue.</l>
 <l n="55"  rend="6em">The cocks crowed from the cannon</l>
-<l rend="8em">(Pets named from <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>),</l>
+<l rend="8em">(<ref target="#ref_21157">Pets</ref> named from <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>),<note xml:id="ref_21157">According to George W. Nichols’s <hi rend="italic">The Story of the Great March</hi> (a volume Melville owned), soldiers kept gamecocks as pets and gave them "such names as ‘Bill Sherman,’ ... ‘Jeff Davis,’ ‘Beauregard,’ or ‘Bob Lee’” (Nichols 46).</note></l>
 <l rend="6em">Plumed fighters and campaigners</l>
 <l rend="8em">In that marching to the sea:</l>
 <l rend="10em">It was glorious glad marching,</l>
-<l n="60" rend="10em">For every man was free.</l>
+<l n="60" rend="10em">For every man was free. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0139.jpg"/>
+</l>
 </lg>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0139.jpg"/>
-The foragers through calm lands</l>
+<l>The foragers through calm lands</l>
 <l rend="2em">Swept in tempest gay,</l>
 <l>And they breathed the air of balm-lands</l>
 <l rend="2em">Where rolled savannas lay,</l>
 <l n="65">And they helped themselves from farm-lands</l>
-<l rend="2em">As who should say them nay?</l>
+<l rend="2em">As who should <ref target="#ref_21135">say them nay</ref>?<note xml:id="ref_21135">Sherman explicitly ordered foraging: “The army will forage liberally on the country during the march” (Special Field Orders, No. 120, In <hi rend="italic">The War of the Rebellion</hi> (Series 1, vol. 39.713).
+</note></l>
 <l rend="6em">The regiments uproarious</l>
 <l rend="8em">Laughed in Plenty&apos;s glee;</l>
 <l rend="6em">And they marched till their broad laughter</l>
@@ -119,25 +121,28 @@ The foragers through calm lands</l>
 <l rend="2em">Was threshed (as in the East)</l>
 <l n="75">By the trampling of the Takers,</l>
 <l rend="2em">Strong march of man and beast;</l>
-<l>The flails of those earth-</l>
+<l>The flails of those earth-shakers</l>
 <l rend="2em">Left a famine where they ceased.</l>
 <l rend="6em">The arsenals were yielded;</l>
 <l n="80" rend="8em">The sword (that was to be),</l>
 <l rend="6em">Arrested in the forging,</l>
 <l rend="8em">Rued that marching to the sea:</l>
 <l rend="10em">It was glorious glad marching,</l>
-<l rend="10em">But ah, the stern decree!</l>
+<l rend="10em">But ah, the stern decree! <pb facs="/images/battle-pieces-v1/battle-pieces-i-0140.jpg"/>
+</l>
 </lg>
 <lg>
-<l n="85"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0140.jpg"/>
-For behind they left a wailing,</l>
+<l n="85">For behind they left a wailing,</l>
 <l rend="2em">A terror and a ban,</l>
 <l>And blazing cinders sailing,</l>
 <l rend="2em">And houseless households wan,</l>
 <l>Wide zones of counties paling,</l>
 <l n="90" rend="2em">And towns where maniacs ran.</l>
-<l rend="6em">Was it Treason&apos;s retribution—</l>
-<l rend="8em">Necessity the plea?</l>
+<l rend="6em"><ref target="#ref_21156">Was it Treason&apos;s retribution—</ref>
+<note xml:id="ref_21156">REVISION NARRATIVE: Melville revised lines 91-92 in several stages, before and after the version seen here. In all versions, Melville's wording addresses the necessity and severity of Sherman's still-questioned "scorched earth" policy.  In the <hi rend="italic">Harper's New Monthly Magazine</hi> version, Melville presents line 91 as a flat, matter-of-fact statement and puts line 92 in parentheses as a kind of laconic aside: “It was Treason’s retribution / (Necessity the plea);”. The implication is that the "terror" of "retribution" can be justified. In the <hi rend="italic">Battle-Pieces</hi> version, Melville converts the two lines into a single question: "Was it Treason's retribution— / Necessity the plea?", thereby implying some kind of negative judgment. However, in his Copy C, Melville penciled a thorough revision.  First, in light pencil he inscribed two new lines in the blank bottom half of the page, circled the lines, and drew an insertion line up the left margin to an "x" inscribed next to line 92; he also deleted both printed lines in light pencil. Then, at some later time, Melville's wife, Elizabeth Shaw Melville, erased the new lines (beyond legibility), the circle, and insertion line (though not the "x") and, in darker pencil, deleted again print lines 91-92. She then reinscribed over the erased lines two new lines (presumably the same as those erased), and retraced the insertion line adding an arrow point. The two reinscribed revision lines are "Was the havoc, retribution? / But howsoe'er it be," with the second line no longer being part of the first line's question but rather serving now as an introduction to the stanza's final lines and the end of the poem.
+<p>As noted below, Melville's "necessity" line (sacrificed in his third revision) echoes Satan's excuse making in Milton's <hi rend="italic">Paradise Lost</hi>. However, Melville's use of "havoc" in the first new line has a compensating Shakespearean echo. Today, we take "havoc" to mean a general condition of chaos and destruction, but, according to the OED, "havoc" was originally a battle order giving combatants license to pillage and take spoils. Thus, in <hi rend="italic">Julius Caesar</hi>, Marc Antony imagines Caesar's ghost seeking vengeance with "Cry havoc and let slip the dogs of war." While Melville's use of "havoc" (followed by a rhetorical comma urging the reader to pause) seems a harsh judgment of Sherman's military decision to unleash his "dogs of war" on the populace, Melville's following line "Howso'er it be,"—in addition to removing the submerged association with Milton's Satan—directs the reader away from the implied judgment in "havoc."
+</p></note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0142.jpg"/></l>
+<l rend="8em"><ref target="#ref_21159">Necessity the plea?</ref><note xml:id="ref_21159">In <hi rend="italic">Paradise Lost</hi>, Satan uses "necessity" as an excuse for his "devilish deeds" (4.393-94; see Cohen 260).</note></l>
 <l rend="6em">They will long remember Sherman</l>
 <l rend="8em">And his streaming columns free—</l>
 <l n="95" rend="10em">They will long remember Sherman</l>
@@ -147,25 +152,19 @@ For behind they left a wailing,</l>
 </div></body>
 		</text>
 	</TEI>
+
+
 <!--
-<ref target="#ref_19216">The March to the Sea</ref><note xml:id="ref_19216">"March to the Sea" was published in Harper’s New Monthly Magazine 32 (February 1866), 366-7, one of four other poems in Battle-Pieces to be previously published in that journal anonymously." [Intratextuality] “The March to the Sea” was one of five Battle-Pieces poems published in Harper’s New Monthly Magazine. The other Battle-Pieces poems featured in Harper’s included “The Cumberland,” “Phillip,” “Chattanooga,” and “Gettysburg” (Robertson-Lorant 486).[variation][Critical] [Intertextuality] Hennig Cohen notes that Melville owned a copy of Major George Ward Nichols’ The Story of the Great March, which saw 20 printings before Melville published “The March to the Sea” in Harper’s Weekly.[Critical] Frank L. Day argues that Melville drew details for the poem from Brevet Major George Ward Nichols’s The Story of the Great March. One piece of evidence for his theory is the poem’s title, as “The March to the Sea” is the title of the first of three sections in Nichols’s book.(Leslie McAbee)
-</note>
-<ref target="#ref_21123">The columns streamed like rivers</ref><note xml:id="ref_21123">THE COLUMNS STREAMED LIKE RIVERS [Allusion—military] For the march from Atlanta to Savannah, Sherman split his infantry in two. Because cavalry protected each of the infantry lines, the Union soldiers formed four parallel columns (“Scorched Earth,” www.civilwar.org).
-Leslie McAbee</note>
 <ref target="#ref_21136">They brushed the foe before them
   (Shall gnats impede the bull?)</ref><note xml:id="ref_21136">THEY BRUSHED THE FOE...IMPEDE THE BULL [Allusion—historical—military] Sherman’s troops were in greater numbers and better supply than Confederate forces that attempted to rout the Federals on the march. Even the substantive Confederate force, Joseph Wheeler’s cavalry, hardly posed a threat to Sherman’s men. One small Confederate militia under the command of Brig. General Pleasant J. Phillips engaged Sherman’s rear guard near Griswoldville, GA on November 22. The Confederates were decimated in the skirmish; Union soldiers discovered afterward that Phillips’s troops were primarily young boys and elderly men (“Scorched Earth,” www.civilwar.org).
-(Leslie McAbee)</note>;
-<ref target="#ref_21124">Their own good bridges bore them</ref><note xml:id="ref_21124">[Allusion—military] Sherman’s troops carried pontoon trains for the many river crossings between Atlanta and Savannah (Rhodes, James. “Sherman’s March to the Sea.” The American Historical Review. 6:3, 1901, pp. 466-474).
 (Leslie McAbee)</note>
 note xml:id="ref_21155">FOR BEHIND...MANIACS RAN [Allusion—military] William T. Sherman’s Special Field Orders, No. 120, indicates: “In districts and neighborhoods where the army is unmolested, no destruction of such property should be permitted; but should guerrillas or bushwhackers molest our march, or should the inhabitants burn bridges, obstruct roads, or other-wise manifest local hostility, then army commanders should order and enforce a devastation more or less relentless, according to the measure of such hostility” (The War of the Rebellion, 713).
 (Leslie McAbee)</note>
-<ref target="#ref_21156">Was it Treason&apos;s retribution—
-	<ref target="#ref_21159">Necessity the plea</ref><note xml:id="ref_21159">NECESSITY THE PLEA [Critical] [Intertextuality] Hennig Cohen cites this line as reference to Paradise Lost, IV, 393-94: “So spake the Fiend, and with necessity, / The Tyrant’s plea, excused his devilish deeds.” Cohen reads this Miltonic allusion as evidence that Melville was skeptical of claims of “military necessity” for William T. Sherman’s scorched earth campaign in Georgia, South Carolina, and North Carolina (260).
-(Leslie McAbee)</note>?</ref><note xml:id="ref_21156">
-[Critical] [Variant] Hennig Cohen notes that the Harper’s publication of “The March to the Sea” reads: “It was Treason’s retribution / (Necessity the plea),” but Melville’s personal copy rewrites the lines as “Was the havoc, retribution? / But howsoever it be, . . .” Cohen interprets Melville’s editing of these lines as evidence of “a progressive softening in Melville’s attitude toward the South” (260). [Allusion—military] Sherman defends in his report what has been labeled his “total warfare” tactics: "This may be a hard species of warfare, but it brings the sad realities of war home to those to who have been directly or indirectly instrumental in involving us in its attendant calamities” (qtd. in appendix to Nichols’s The Story of the Great March, 235).
+<ref target="#ref_21158">The flails of those earth-shakers
+  Left a famine where they ceased.</ref><note xml:id="ref_21158">THE FLAILS...FAMINE WHERE THEY CEASED [Critical] [Allusion—biblical] Hennig Cohen cites these two lines as a possible reference to Matthew 24:7: “For nation shall rise against nation, and kingdom against kingdom: and there shall be famines and pestilences, and earthquakes, in divers places” (KJV).
 (Leslie McAbee)</note>
-<ref target="#ref_21135">The foragers</ref><note xml:id="ref_21135">THE FORAGERS [Allusion—military] In his Special Field Orders, No. 120, Sherman determined “[t]he army will forage liberally on the country during the march” (The War of the Rebellion: A Compilation of the Official Records of the Union and Confederate Armies, Series 1-Vol 39, 713). A selection of soldiers were organized as foragers to search out food and goods from plantations, modest homesteads, and slave cabins alike. These foragers earned the name “bummers” (“Scorched Earth,” www.civilwar.org).
-Leslie McAbee</note>
+A selection of soldiers were organized as foragers to search out food and goods from plantations, modest homesteads, and slave cabins alike. These foragers earned the name “bummers” (“Scorched Earth,” www.civilwar.org).
+Leslie McAbee
 <ref target="#ref_21152">Where rolled savannas lay</ref><note xml:id="ref_21152">SAVANNAS [Allusion—geographical] A reference to Savannah, GA, where Sherman ended his march.
 [Denotation] Melville’s 1846 copy of Webster’s dictionary defines “savanna” as “[a]n extensive, open plain or meadow, or a plain destitute of trees.”
 [Intratextuality] In “The Armies of the Wilderness,” Melville refers to the Pampas grasslands of South America, which include the Uruguayan Savanna east of the Parana River: “(Turned adrift into war / Man runs wild on the plain, / Like the jennets let loose / On the Pampas—zebras again.).
@@ -175,9 +174,7 @@ Leslie McAbee</note>
 <ref target="#ref_21171">The regiments uproarious
 	Laughed in Plenty&apos;s glee</ref><note xml:id="ref_21171">THE REGIMENTS...PLENTY'S GLEE [Critical] [Allusion—historical] Vincent notes that Melville’s depiction of the Union soldiers’ enthusiasm for the march could be a reference to William T. Sherman’s observation that “‘[t]here was a 'devil-may-care’ feeling pervading officers and men’” (454).
 (Leslie McAbee)</note>;
-<ref target="#ref_21158">The flails of those earth-shakers
-  Left a famine where they ceased.</ref><note xml:id="ref_21158">THE FLAILS...FAMINE WHERE THEY CEASED [Critical] [Allusion—biblical] Hennig Cohen cites these two lines as a possible reference to Matthew 24:7: “For nation shall rise against nation, and kingdom against kingdom: and there shall be famines and pestilences, and earthquakes, in divers places” (KJV).
-(Leslie McAbee)</note>
+
 <ref target="#ref_21154">The arsenals were yielded;
 	The sword (that was to be),
 Arrested in the forging,
@@ -186,13 +183,4 @@ Arrested in the forging,
 Poured in and swelled the legions,</ref><note xml:id="ref_21151">THE HERDS AND HORSES…THE LEGIONS [Allusion—military] William T. Sherman’s Special Field Orders, No. 120: “6. As for horses, mules, wagons, etc., belonging to the inhabitants, the cavalry and artillery may appropriate freely and without limit; discriminating, however, between the rich, who are usually hostile and the poor and industrious, usually neutral or friendly. Foraging-parties may also take mules or horses, to replace the jaded animals of their trains, or to serve as pack-mules for the regiments or brigades” (652).
 Also, in Sherman’s Report of the Georgia Campaign, published in the appendix of George Nichols’s The Story of the Great March, Sherman notes: “We have also consumed the corn and fodder in the region of country thirty miles on either side of a line from Atlanta to Savannah, as also the sweet potatoes, cattle, hogs, sheep, and poultry, and have carried away more than ten thousand horses and mules, as well as a countless number of their slaves” (235).
 (Leslie McAbee)</note>
-<ref target="#ref_21157">The cocks crowed from the cannon
-	(Pets named from <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/person:139" type="person">Lee</name>),
-Plumed fighters and campaigners</ref><note xml:id="ref_21157">[Critical] [Intertextuality] Hennig Cohen cites George W. Nichols’s The Story of the Great March as a likely source for Melville’s depiction of roosters as pets. Nichols writes: “The favorite pet of the camp, however, is the hero of the barn-yard. There is not a regiment nor a company, not a teamster nor a negro at headquarters, nor an orderly, but has a ‘rooster’ of one kind or another. When the column is moving, these haughty game-cocks are seen mounted upon the breech of a cannon, tied to the pack-saddle of a mule, among pots and pans, or carried lovingly in the arms of a mounted orderly; crowing with all his might from the interior of a wagon, or making the woods re-echo from his triumphant notes . . . The game-cocks which have come out of repeated conflicts victorious are honored with such names as ‘Bill Sherman,’ ‘Johnny Logan,’ etc.; while the defeated and bepecked victim is saluted with derisive appellations, such as ‘Jeff Davis,’ ‘Beauregard,’ or ‘Bob Lee’” (46).
-<ref target="#ref_21150">The slaves by thousands drew,
-And they marched beside the drumming,
-And they joined the armies blue.</ref><note xml:id="ref_21150">THE SLAVES ... ARMIES BLUE [Allusion historical] According to (The War of the Rebellion: A Compilation of the Official Records of the Union and Confederate Armies), around 19,000 slaves abandoned plantations to join Sherman’s march (qtd in Edmund Drago’s “How Sherman’s March Through Georgia Affected the Slaves,” The Georgia Historical Quarterly, 363).
-(Leslie McAbee)</note>
-	<ref target="#ref_21148">Kilpatrick</ref><note xml:id="ref_21148">[Allusion—historical—military] When Joseph Wheeler’s Confederate cavalry attempted to block Sherman’s march into Milledgeville, then the capital of Georgia, Brig. General Hugh Judson Kilpatrick’s Union cavalry repelled the Confederates’ attack (“Scorched Earth,” www.civilwar.org).
-	(Leslie McAbee)</note>
 -->

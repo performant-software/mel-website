@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>22 - Stonewall Jackson. Ascribed to a Virginian</title>
+			<title>22 - Stonewall Jackson. Ascribed to a Virginian*</title>
 				<author>Herman Melville</author>
 <editor>Christopher Ohge</editor>
 <editor>John Bryant</editor>
@@ -26,8 +26,7 @@
 				<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:137" type="place">Stonewall Jackson</name>.</hi></head>
 
 <head type="sub-head"><hi rend="italic">(Ascribed to a Virginian.)</hi></head>
-
-
+<lb/>
 <lg>
 <l><hi rend="smallcaps">One</hi> man we claim of wrought renown</l>
 <l rend="2em">Which not the North shall care to slur;</l>
@@ -40,19 +39,17 @@
 
 <lg>
 <l>But who shall hymn the Roman heart?</l>
-	<l rend="2em">A <ref target="#ed_note2">stoic</ref>, he, but even more:<note xml:id="ed_note2">Referring to the Stoic school of philosophy, which HM would call a "severe philosophy of wisdom, virtue and self-control"; see also <hi rend="italic">Clarel</hi> Book 3, canto 21 (NN <hi rend="italic">Clarel</hi>, p. 811).</note>
-	</l>
+<l rend="2em">A <ref target="#ed_note2">stoic</ref>, he, but even more:<note xml:id="ed_note2">Referring to the Stoic school of philosophy, which HM would call a "severe philosophy of wisdom, virtue and self-control"; see also <hi rend="italic">Clarel</hi> Book 3, canto 21 (NN <hi rend="italic">Clarel</hi>, p. 811).</note></l>
 <l n="10">The iron will and lion thew</l>
 <l rend="2em">Were strong to inflict as to endure:</l>
 <l rend="4em">Who like him could stand, or pursue?</l>
 <l rend="4em">His fate the fatalist followed through;</l>
 <l rend="4em">In all his great soul found to do</l>
-<l n="15" rend="6em">Stonewall followed his star.</l>
+<l n="15" rend="6em">Stonewall followed his star. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0090.jpg"/></l>
 </lg>
 
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0090.jpg"/>
-He followed his star on the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:461" type="place">Romney</name> march</l>
+<l>He followed his star on the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:461" type="place">Romney</name> march</l>
 <l rend="2em">Through the sleet to the wintry war;</l>
 <l>And he followed it on when he bowed the grain—</l>
 <l rend="2em">The Wind of the Shenandoah;</l>
@@ -61,6 +58,7 @@ He followed his star on the <name ref="https://mel-catalog.herokuapp.com/api/ent
 <l rend="4em">Where his sword with thunder was clothed again,</l>
 <l rend="6em">Stonewall followed his star.</l>
 </lg>
+
 <lg>
 <l>His star he followed athwart the flood</l>
 <l n="25" rend="2em">To <name ref="https://mel-catalog.herokuapp.com/api/entries/place:451" type="place">Potomac</name>&apos;s Northern shore,</l>
@@ -81,11 +79,11 @@ https://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/lyricsco.html</note>
 <l rend="4em">To the laurel glade by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name> grim,</l>
 <l rend="4em">Through climaxed victory naught shall dim,</l>
 <l rend="4em">Even unto death it piloted him—</l>
-<l rend="6em">Stonewall followed his star.</l>
-				</lg>
-				<lg>
-<l n="40"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0091.jpg"/>
-	Its lead he followed in gentle ways</l>
+<l rend="6em">Stonewall followed his star. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0091.jpg"/></l>
+</lg>
+
+<lg>
+<l n="40">Its lead he followed in gentle ways</l>
 <l rend="2em">Which never the valiant mar;</l>
 <l rend="2em">A cap we sent him, bestarred, to replace</l>
 <l>The sun-scorched helm of war:</l>
@@ -100,7 +98,7 @@ https://msa.maryland.gov/msa/mdmanual/01glance/html/symbols/lyricsco.html</note>
 <l n="50" rend="2em">Puzzled by Stonewall&apos;s star:</l>
 <l rend="4em">“Fortune went with the North elate,”</l>
 <l rend="4em">“Ay, but the South had Stonewall&apos;s weight,</l>
-<l rend="6em">And he fell in the South&apos;s <ref target="#ed_note1">vain</ref><note xml:id="ed_note1">In HM's Copy C, he substituted "great" for "vain" without deleting the latter. NN PP (p. 642) notes that the Southern speaker in the poem would be unlikely to characterize the war as "vain."</note> war.”</l>
+<l rend="6em">And he fell in the South&apos;s <ref target="#ed_note1">vain</ref><note xml:id="ed_note1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to delete "vain," inserted a caret in front of the deletion, and inscribed "great" directly below.</note> war.” <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0093.jpg"/></l>
 </lg>
 </div></body>
 		</text>

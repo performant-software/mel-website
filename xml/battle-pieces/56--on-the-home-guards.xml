@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>54 - On the Home Guards</title>
+			<title>&#xA0;&#xA0;&#xA0;<hi rend="smallcaps">Verses Inscriptive and Memorial</hi>&#xA0;&#xA0;&#xA0; 54 - On the Home Guards</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -20,9 +20,9 @@
 			<body><div id="56--on-the-home-guards">
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0171.jpg"/>
-				<head>
-				<hi rend="italic">VERSES</hi>
-				</head>
+				<lb/>
+				<l rend="8em"><head type="main"><hi rend="italic">VERSES</hi></head></l>
+
 				<head type="main"><hi rend="italic">INSCRIPTIVE AND MEMORIAL.</hi>
 				</head>
 				<lb/>
@@ -32,7 +32,7 @@
 				</head>
 				<head type="sub-head"><hi rend="italic">who perished in the Defense of Lexington, Missouri.</hi>
 				</head>
-
+<lb/>
 <lg>
 <l><hi rend="smallcaps">The</hi> men who here in harness died</l>
 <l rend="2em">Fell not in vain, though in defeat.</l>

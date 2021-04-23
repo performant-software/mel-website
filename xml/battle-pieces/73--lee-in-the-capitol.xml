@@ -29,15 +29,17 @@
 <head type="main"><hi rend="italic">Lee in the Capitol.</hi> <hi rend="super">x</hi>
 </head>
 <head type="sub-head">(April, 1866.)</head>
+<lb/>
 <!--
 <note xml:id="ref_21090">Robert E. Lee testimony before the Reconstruction Committee in Congress was on 17 February 1866. Parker suggests that the April date is "most likely, the month Melville completed the poem" (Parker 2.612). [Allusion, Historical; Biographical, Composition] (Marr)</note>)</l>
 </head>
 -->
-<lg><l><hi rend="smallcaps">Hard</hi> pressed by numbers in his strait,</l>
+<lg>
+<l><hi rend="smallcaps">Hard</hi> pressed by numbers in his strait,</l>
 <l rend="2em">Rebellion&apos;s soldier-chief no more contends—</l>
 <l>Feels that the hour is come of Fate,</l>
 <l rend="2em">Lays down one sword, and widened warfare ends.</l>
-<l>The captain who fierce armies led</l>
+<l n="5">The captain who fierce armies led</l>
 <l>Becomes a quiet seminary&apos;s head—</l>
 <l>Poor as his privates, earns his bread.</l>
 <l>In studious cares and aims engrossed,</l>
@@ -47,7 +49,7 @@
 <l>No word he breathes of vain lament,</l>
 <l rend="2em">Mute to reproach, nor hears applause—</l>
 <l>His doom accepts, perforce content,</l>
-<l rend="2em">And acquiesces in asserted laws;</l>
+<l n="15" rend="2em">And acquiesces in asserted laws;</l>
 <l>Secluded now would pass his life,</l>
 <l>And leave to time the sequel of the strife. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0238.jpg"/></l>
 <l rend="2em">But missives from the Senators ran;</l>
@@ -57,7 +59,7 @@
 <l>Demurring not, promptly he comes</l>
 <l>By ways which show the blackened homes,</l>
 <l rend="2em">And—last—the seat no more his own,</l>
-<l>But Honor&apos;s; patriot grave-yards fill</l>
+<l n="25">But Honor&apos;s; patriot grave-yards fill</l>
 <l>The forfeit slopes of that patrician hill,</l>
 <l rend="2em">And fling a shroud on Arlington.</l>
 <l>The oaks ancestral all are low;</l>
@@ -67,7 +69,7 @@
 <l>One look he gives, then turns aside,</l>
 <l>Solace he summons from his pride:</l>
 <l>&quot;So be it! They await me now</l>
-<l>Who wrought this stinging overthrow;</l>
+<l n="35">Who wrought this stinging overthrow;</l>
 <l>They wait me; not as on the day</l>
 <l>Of Pope&apos;s impelled retreat in disarray—</l>
 <l>By me impelled—when toward yon Dome</l>
@@ -78,7 +80,7 @@
 <lb/>
 <l rend="8em">In nearness now</l>
 <l rend="2em">He marks the Capitol—a show</l>
-<l>Lifted in amplitude, and set</l>
+<l n="45">Lifted in amplitude, and set</l>
 <l>With standards flushed with the glow of Richmond yet;</l>
 <l rend="2em">Trees and green terraces sleep below.</l>
 <l>Through the clear air, in sunny light,</l>
@@ -90,7 +92,7 @@
 <l>Bid to the Senate-house had he gone,</l>
 <l>But freely, and in pageant borne,</l>
 <l>As when brave numbers without number, massed,</l>
-<l>Plumed the broad way, and pouring passed—</l>
+<l n="55">Plumed the broad way, and pouring passed—</l>
 <l>Bannered, beflowered—between the shores</l>
 <l>Of faces, and the dinn&apos;d huzzas,</l>
 <l>And balconies kindling at the sabre-flash,</l>
@@ -102,7 +104,7 @@
 <l>Yet pride at hand still aidful swelled,</l>
 <l>And up the hard ascent he held.</l>
 <l>The meeting follows. In his mien</l>
-<l>The victor and the vanquished both are seen—</l>
+<l n="65">The victor and the vanquished both are seen—</l>
 <l>All that he is, and what he late had been. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0240.jpg"/></l>
 <l>Awhile, with curious eyes they scan</l>
 <l>The Chief who led invasion&apos;s van—</l>
@@ -114,7 +116,7 @@
 </lg>
 <lg>
 <l>Secession in her soldier shows</l>
-<l>Silent and patient; and they feel</l>
+<l n="75">Silent and patient; and they feel</l>
 <l rend="2em">(Developed even in just success)</l>
 <l>Dim inklings of a hazy future steal;</l>
 <l rend="2em">Their thoughts their questions well express:</l>
@@ -124,7 +126,7 @@
 <l>Would that betray them? some distrust your law.</l>
 <l>And how if foreign fleets should come—</l>
 <l>Would the South then drive her wedges home?&quot;</l>
-<l>And more hereof. The Virginian sees—</l>
+<l n="85">And more hereof. The Virginian sees—</l>
 <l>Replies to such anxieties.</l>
 <l>Discreet his answers run—appear</l>
 <l>Briefly straightforward, coldly clear.</l>
@@ -144,7 +146,7 @@
 <l>Strove strongly then; prompted a worthier part</l>
 <l>Than coldly to endure his doom.</l>
 <l>Speak out? Ay, speak, and for the brave,</l>
-<l>Who else no voice or proxy have;</l>
+<l n="95">Who else no voice or proxy have;</l>
 <l>Frankly their spokesman here become,</l>
 <l>And the flushed North from her own victory save.</l>
 <l>That inspiration overrode—</l>
@@ -154,7 +156,7 @@
 <l>They waiting. In his troubled eye</l>
 <l>Shadows from clouds unseen they spy;</l>
 <l>They could not mark within his breast</l>
-<l>The pang which pleading thought oppressed:</l>
+<l n="105">The pang which pleading thought oppressed:</l>
 <l>He spoke, nor felt the bitterness die.</l>
 </lg>
 <lg>
@@ -166,7 +168,7 @@
 <l>All&apos;s over now, and now I follow Fate.</l>
 <l>But this is naught. A People call—</l>
 <l>A desolated land, and all <pb facs="/images/battle-pieces-v1/battle-pieces-i-0242.jpg"/></l>
-<l>The brood of ills that press so sore,</l>
+<l n="115">The brood of ills that press so sore,</l>
 <l>The natural offspring of this civil war,</l>
 <l>Which ending not in fame, such as might rear</l>
 <l>Fitly its sculptured trophy here,</l>
@@ -176,7 +178,7 @@
 <l>Thoughts knot with thoughts, and utterance check.</l>
 <l>Before my eyes there swims a haze,</l>
 <l>Through mists departed comrades gaze—</l>
-<l>First to encourage, last that shall upbraid!</l>
+<l n="125">First to encourage, last that shall upbraid!</l>
 <l>How shall I speak? The South would fain</l>
 <l>Feel peace, have quiet law again—</l>
 <l>Replant the trees for homestead-shade.</l>
@@ -186,7 +188,7 @@
 <l>Bewailed alike by us and you.</l>
 <l rend="2em">A voice comes out from these charnel-fields,</l>
 <l>A plaintive yet unheeded one:</l>
-<l>&apos;<hi rend="italic">Died all in vain? both sides undone?</hi>  &apos;</l>
+<l n="135">&apos;<hi rend="italic">Died all in vain? both sides undone?</hi>  &apos;</l>
 <l>Push not your triumph; do not urge</l>
 <l>Submissiveness beyond the verge.</l>
 <l>Intestine rancor would you bide,</l>
@@ -196,7 +198,7 @@
 <l>Where various hazards meet the eyes,</l>
 <l>To elect in magnanimity is wise.</l>
 <l>Reap victory&apos;s fruit while sound the core;</l>
-<l>What sounder fruit than re-established law?</l>
+<l n="145">What sounder fruit than re-established law?</l>
 <l>I know your partial thoughts do press</l>
 <l>Solely on us for war&apos;s unhappy stress;</l>
 <l>But weigh—consider—look at all,</l>
@@ -206,7 +208,7 @@
 <l>Vain intermeddlers and malign,</l>
 <l>Both of the palm and of the pine;</l>
 <l>I waive the thought—which never can be rife—</l>
-<l>Common&apos;s the crime in every civil strife:</l>
+<l n="155">Common&apos;s the crime in every civil strife:</l>
 <l>But this I feel, that North and South were driven</l>
 <l>By Fate to arms. For <hi rend="italic">our</hi> unshriven,</l>
 <l>What thousands, truest souls, were tried—</l>
@@ -216,17 +218,17 @@
 <l rend="2em">Into the chasm. I know their pain.</l>
 <l>A story here may be applied:</l>
 <l>&apos;In Moorish lands there lived a maid</l>
-<l rend="2em">Brought to confess by vow the creed <pb facs="/images/battle-pieces-v1/battle-pieces-i-0244.jpg"/></l>
+<l n="165" rend="2em">Brought to confess by vow the creed <pb facs="/images/battle-pieces-v1/battle-pieces-i-0244.jpg"/></l>
 <l rend="2em">Of Christians. Fain would priests persuade</l>
 <l>That now she must approve by deed</l>
 <l rend="2em">The faith she kept. &quot;What deed?&quot; she asked.</l>
 <l>&quot;Your old sire leave, nor deem it sin,</l>
-<l n="170"  rend="2em">And come with us.&quot; Still more they tasked</l>
+<l n="170" rend="2em">And come with us.&quot; Still more they tasked</l>
 <l>The sad one: &quot;If heaven you&apos;d win—</l>
 <l rend="2em">Far from the burning pit withdraw,</l>
 <l>Then must you learn to hate your kin,</l>
 <l rend="2em">Yea, side against them—such the law,</l>
-<l>For Moor and Christian are at war.&quot;</l>
+<l n="175">For Moor and Christian are at war.&quot;</l>
 <l>&quot;Then will I never quit my sire,</l>
 <l>But here with him through every trial go,</l>
 <l>Nor leave him though in flames below—</l>
@@ -236,7 +238,7 @@
 <l rend="2em">True to the home and to the heart,</l>
 <l>Throngs cast their lot with kith and kin,</l>
 <l rend="2em">Foreboding, cleaved to the natural part—</l>
-<l>Was this the unforgivable sin?</l>
+<l n="185">Was this the unforgivable sin?</l>
 <l>These noble spirits are yet yours to win.</l>
 <l>Shall the great North go Sylla&apos;s way?</l>
 <l>Proscribe? prolong the evil day?</l>
@@ -246,7 +248,7 @@
 <l>Freemen conquerors of the free?</l>
 <l>When blood returns to the shrunken vein,</l>
 <l>Shall the wound of the Nation bleed again?</l>
-<l>Well may the wars wan thought supply,</l>
+<l n="195">Well may the wars wan thought supply,</l>
 <l>And kill the kindling of the hopeful eye,</l>
 <l>Unless you do what even kings have done</l>
 <l>In leniency—unless you shun</l>
@@ -258,7 +260,7 @@
 <l>Moved, but not swayed their former mien;</l>
 <l rend="2em">And they dismissed him. Forth he went</l>
 <l>Through vaulted walks in lengthened line</l>
-<l>Like porches erst upon the Palatine:</l>
+<l n="205">Like porches erst upon the Palatine:</l>
 <l rend="2em">Historic reveries their lesson lent,</l>
 <l rend="2em">The Past her shadow through the Future sent.</l>
 </lg>
@@ -270,9 +272,9 @@
 <l>Heaven shall the end ordained fulfill,</l>
 <l>We march with Providence cheery still.</l>
 </lg>
-
+<lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0263.jpg"/>
-<p xml:id="BP_noteX"><hi rend="smallcaps">Note x</hi>, <hi rend="italic">page</hi> 229.
+<p xml:id="BP_noteX">[Melville's] <hi rend="smallcaps">Note x</hi>, <hi rend="italic">page</hi> 229.
 <p>Among those summoned during the spring just passed to appear before the Reconstruction Committee of Congress was Robert E. Lee. His testimony is deeply interesting, both in itself and as coming from him. After various questions had been put and briefly answered, these words were addressed to him:
 </p>
 <p>&quot;If there be any other matter about which you wish to speak on this occasion, do so freely.&quot; Waiving this invitation, he responded by a short personal explanation of some point in a previous answer, and, after a few more brief questions and replies, the interview closed.

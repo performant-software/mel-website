@@ -26,6 +26,7 @@
 				<head type="sub-head">
 				(<hi rend="smallcaps">April</hi>, 1865.)
 				</head>
+<lb/>
 <lg>
 <l><hi rend="smallcaps">As</hi> billows upon billows roll,</l>
 <l rend="2em">On victory victory breaks;</l>
@@ -40,8 +41,7 @@
 <l>The warring eagles fold the wing,</l>
 <l n="10" rend="2em">But not in Cæsar&apos;s sway;</l>
 <l>Not <name ref="https://mel-catalog.herokuapp.com/api/entries/place:8" type="place">Rome</name> o&apos;ercome by Roman arms we sing,</l>
-<l rend="2em">As on <ref target="#ref_19231">Pharsalia</ref><note xml:id="ref_19231">Roman epic poem by Lucan.
-[reference, literary]</note>&apos;s day,</l>
+<l rend="2em">As on <ref target="#ref_19231">Pharsalia</ref><note xml:id="ref_19231">The Roman epic poem by Lucan (39-65 CE), also known as <hi rend="italic">De Bello Civili</hi> (On the Civil War), recounts Julius Caesar's defeat of Pompey resulting in the end of the Roman Republic.</note>&apos;s day,</l>
 <l>But Treason thrown, though a giant grown,</l>
 <l rend="2em">And Freedom&apos;s larger play.</l>
 <l n="15" rend="4em">All human tribes glad token see</l>

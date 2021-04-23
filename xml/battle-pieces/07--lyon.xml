@@ -3,7 +3,7 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>6 - Lyon</title>
+				<title>6 - Lyon*</title>
 				<author>Herman Melville</author>
 			</titleStmt>
 			<publicationStmt>
@@ -44,7 +44,7 @@
 					<l rend="2em">Retreat or fight:</l>
 					<l>Retreat the foe would take for flight,</l>
 					<l rend="2em">And each proud scion</l>
-					<l n="15">Feel more elate; the end must come,&quot; said.<pb facs="/images/battle-pieces-v1/battle-pieces-i-0033.jpg"/></l>
+					<l n="15">Feel more elate; the end must come,&quot; said. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0033.jpg"/></l>
 				</lg>
 
 				<lg>
@@ -76,7 +76,7 @@
 					<l rend="2em">By a swift sharp sword—</l>
 					<l>A rush of the sound; and the sleek chest broad</l>
 					<l rend="2em">Of black Orion</l>
-					<l n="35">Heaved, and was fixed; the dead mane waved toward Lyon.<pb facs="/images/battle-pieces-v1/battle-pieces-i-0034.jpg"/></l>
+					<l n="35">Heaved, and was fixed; the dead mane waved toward Lyon. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0034.jpg"/></l>
 				</lg>
 
 				<lg>
@@ -92,7 +92,8 @@
 					<l rend="2em">In the heart of the fight;</l>
 					<l>The tree-tops nod, the slain sleep light;</l>
 					<l rend="2em">Warm noon-winds sigh on,</l>
-					<l n="45">And thoughts which he never spake had Lyon.</l></lg>
+					<l n="45">And thoughts which he never spake had Lyon.</l>
+				</lg>
 
 				<lg>
 					<l>Texans and Indians trim for a charge:</l>
@@ -107,7 +108,7 @@
 					<l rend="2em">Half drilled, were new</l>
 					<l>To battle: “Some one lead us, then we&apos;ll do,”</l>
 					<l rend="2em">Said Corporal Tryon:</l>
-					<l n="55">“Men! <hi rend="italic">I</hi> will lead,” and a light glared in Lyon.<pb facs="/images/battle-pieces-v1/battle-pieces-i-0035.jpg"/></l>
+					<l n="55">“Men! <hi rend="italic">I</hi> will lead,” and a light glared in Lyon. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0035.jpg"/></l>
 				</lg>
 
 				<lg>
@@ -122,8 +123,11 @@
 					<l rend="2em">Yet willed the fight.</l>
 					<l>He never turned; his only flight</l>
 					<l rend="2em">Was up to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:503" type="place">Zion</name>,</l>
-					<l n="65">Where prophets now and armies greet <app><lem><ref target="#ednote1">brave</ref><note xml:id="ednote1">In both his personal published copy of <hi rend="italic">Battle-Pieces</hi> and his bound copy of sheets from <hi rend="italic">Battle-Pieces</hi> (copies A and C, respectively), Melville revised "brave" to "pale."  In Copy A, he struck through "brave" in pencil and inscribed "pale" in the right margin; in Copy C, he deleted "brave," added a caret before it, and inserted "pale" above.</note></lem><rdg>pale</rdg></app> Lyon.</l>
+					<l n="65">Where prophets now and armies greet <ref target="#EDnoteLyonRN1">brave</ref><note xml:id="EDnoteLyonRN1">In both his personal published copy of <hi rend="italic">Battle-Pieces</hi> and his bound copy of sheets from <hi rend="italic">Battle-Pieces</hi> (Copy A and C, respectively), Melville revised "brave" to "pale."  In Copy A, he struck through "brave" in pencil and inscribed "pale" in the right margin; in Copy C, he deleted "brave," added a caret before it, and inserted "pale" above.</note> Lyon. <pb facs="/images/battle-pieces-v2/battle-pieces-iI-0037.jpg"/></l>
 				</lg>
 			</div></body>
 	</text>
 </TEI>
+<!--
+<app><lem><ref target="#ednote1">brave</ref><note xml:id="ednote1">In both his personal published copy of <hi rend="italic">Battle-Pieces</hi> and his bound copy of sheets from <hi rend="italic">Battle-Pieces</hi> (copies A and C, respectively), Melville revised "brave" to "pale."  In Copy A, he struck through "brave" in pencil and inscribed "pale" in the right margin; in Copy C, he deleted "brave," added a caret before it, and inserted "pale" above.</note></lem><rdg>pale</rdg></app>
+-->

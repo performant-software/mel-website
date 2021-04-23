@@ -4,9 +4,6 @@
 		<fileDesc>
 			<titleStmt>
 			<title>53 - America</title>
-
-
-
 		</titleStmt>
 			<publicationStmt>
 
@@ -26,15 +23,12 @@
 				<hi rend="italic">America.</hi>
 				</head>
 				<lb/>
-<head type="sub-head">I.</head>
+<l rend="8em">I.</l>
 <lg>
 <l><hi rend="smallcaps">Where</hi> the wings of a sunny Dome expand</l>
 <l>I saw a Banner in gladsome air—</l>
-<l>Starry, like Berenice&apos;s Hair—</l>
-<!--
-<note>Coma Berenices is the only modern constellation named  for a historical figure: Queen Berenice II of Egypt, wife of King Ptolemy Eugeretes (c. 248 B.C.E.) who sacrificed her long hair as a votive offering to Venus. [Allusion, astronomical]
-</note>
--->
+<l>Starry, like <ref target="#EDnoteAmerica1">Berenice&apos;s Hair</ref><note xml:id="EDnoteAmerica1">Melville compares a star-spangled American flag on one of the architectural wings on either side of the iron, white-painted "sunny Dome" of the US Capitol building to the modern asterism Coma Berenices. Commonly known as Berenice's Hair, the constellation is named for Queen Berenice II of Egypt, wife of King Ptolemy III (c. 248 B.C.E.). Distraught over her new husband's departure for war, Berenice sacrificed her long hair to ensure Ptolemy's safe return from battle. The star cluster, situated between Leo and Ursa Major, is faint but visible in both hemispheres, and Melville could have witnessed it on one of his three Atlantic (i.e. "Brazilian") transits of the equator ("the Line").
+</note>—</l>
 <l>Afloat in broadened bravery there;</l>
 <l>With undulating long-drawn flow,</l>
 <l>As rolled Brazilian billows go</l>
@@ -45,19 +39,19 @@
 <l rend="2em">Of young Maternity.</l>
 </lg>
 <lb/>
-<head type="sub-head">II.</head>
+<l rend="8em">II.</l>
 <lg>
 <l>Later, and it streamed in fight</l>
 <l rend="2em">When tempest mingled with the fray,</l>
 <l>And over the spear-point of the shaft</l>
 <l rend="2em">I saw the ambiguous lightning play.</l>
 <l>Valor with Valor strove, and died:</l>
-<l>Fierce was Despair, and cruel was Pride;</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0169.jpg"/>And the lorn Mother speechless stood,</l>
+<l>Fierce was Despair, and cruel was Pride; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0169.jpg"/></l>
+<l>And the lorn <ref target="#EDnoteAmerica2">Mother</ref><note xml:id="EDnoteAmerica2">Melville seems to refer to "The Statue of Freedom," which stands atop the Capitol Dome. An allegorical female figure also known as "Freedom Triumphant in War and Peace," she carries in her hands a sheathed sword and laurel wreath and wears a tiara of stars, which resonates with Melville's flag imagery.</note> speechless stood,</l>
 <l>Pale at the fury of her brood.</l>
 </lg>
 <lb/>
-<head type="sub-head">III.</head>
+<l rend="8em">III.</l>
 <lg>
 <l>Yet later, and the silk did wind</l>
 <l rend="4em">Her fair cold form;</l>
@@ -69,26 +63,21 @@
 <l>The terror of the vision there—</l>
 <l rend="2em">A silent vision unavowed,</l>
 <l>Revealing earth&apos;s foundation bare,</l>
-<l rend="2em">And Gorgon in her hidden place.</l>
-<!--
-<note>A female creature from Greek mythology, such as Medusa, sometimes with hair made of snakes, and with a face so horrible it turned those who looked at her to stone. [Allusion, mythologocal] [Source, Hesiod's Theogony]
-In the Aeneid, Gorgons lived in the entrance to the Underworld. [Source: Homer's The Aeneid];
-</note>
--->
+<l rend="2em">And <ref target="#EDnoteAmerica3">Gorgon</ref><note xml:id="EDnoteAmerica3">Female creature, such as Medusa, in Greek mythology, who turned to stone those who looked at her face.
+</note> in her hidden place.</l>
 <l>It was a thing of fear to see</l>
 <l rend="2em">So foul a dream upon so fair a face,</l>
 <l>And the dreamer lying in that starry shroud.</l>
 </lg>
 <lb/>
-<head type="sub-head">IV.</head>
+<l rend="8em">IV.</l>
 <lg>
 <l>But from the trance she sudden broke—</l>
 <l rend="2em">The trance, or death into promoted life;</l>
 <l>At her feet a shivered yoke,</l>
 <l>And in her aspect turned to heaven</l>
-<l rend="2em">No trace of passion or of strife—</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0170.jpg"/>
-A clear calm look. It spake of pain,</l>
+<l rend="2em">No trace of passion or of strife— <pb facs="/images/battle-pieces-v1/battle-pieces-i-0170.jpg"/></l>
+<l>A clear calm look. It spake of pain,</l>
 <l>But such as purifies from stain—</l>
 <l>Sharp pangs that never come again—</l>
 <l rend="2em">And triumph repressed by knowledge meet,</l>

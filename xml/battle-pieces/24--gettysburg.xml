@@ -32,7 +32,7 @@
 				<hi rend="italic">The Check.</hi>
 				<lb/>(<hi rend="smallcaps">July</hi>, 1863.)
 				</head>
-
+<lb/>
 <lg>
 <l><hi rend="smallcaps">O pride</hi> of the days in prime of the months</l>
 <l rend="2em">Now trebled in great renown,</l>
@@ -43,6 +43,7 @@
 <l>Beyond that hour; God walled his power,</l>
 <l>And <ref target="#ref_20974">there the last invader charged</ref><note xml:id="ref_20974">The Union victory at Gettysburg deflected the Confederacy's only invasion of Northern territory. </note>.</l>
 </lg>
+
 <lg>
 <l>He charged, and in that charge condensed</l>
 <l n="10" rend="2em">His all of hate and all of fire;</l>
@@ -50,12 +51,12 @@
 <l rend="4em">And wither us in his ire.</l>
 <l>Before him went the shriek of shells—</l>
 <l>Aerial screamings, taunts and yells;</l>
-<l n="15">Then the three waves in flashed advance</l>
-<l rend="2em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0093.jpg"/>
-Surged, but were met, and back they set:</l>
+<l n="15">Then the three waves in flashed advance <pb facs="/images/battle-pieces-v1/battle-pieces-i-0093.jpg"/></l>
+<l rend="2em">Surged, but were met, and back they set:</l>
 <l>Pride was repelled by sterner pride,</l>
 <l rend="2em">And Right is <ref target="#ref_20976">a strong-hold yet.</ref><note xml:id="ref_20976">The failure of Pickett's Charge was the turning point of the battle for the North, and the war.</note></l>
 </lg>
+
 <lg>
 <l>Before our lines it seemed a beach</l>
 <l n="20" rend="2em">Which wild September gales have strown</l>
@@ -66,6 +67,7 @@ Surged, but were met, and back they set:</l>
 <l n="25">And died along the winding marge of fight</l>
 <l rend="2em">And searching-parties lone.</l>
 </lg>
+
 <lg>
 <l>Sloped on the hill the mounds were green,</l>
 <l rend="2em">Our centre held that place of graves,</l>
@@ -78,9 +80,10 @@ Surged, but were met, and back they set:</l>
 <l n="35" >Have laid the stone, and every bone</l>
 <l rend="4em">Shall rest in honor there.</l>
 </lg>
+<lb/>
 
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/>
-<p xml:id="BP_noteH"><hi rend="smallcaps">Note h</hi>, <hi rend="italic">page</hi> 85.
+<p xml:id="BP_noteH">[Melville's] <hi rend="smallcaps">Note h</hi>, <hi rend="italic">page</hi> 85.
 <p>Among numerous head-stones or monuments on Cemetery Hill, marred or destroyed by the enemy's concentrated fire, was one, somewhat conspicuous, of a Federal officer killed before Richmond in 1862.</p>
 <p>On the 4th of July, 1865, the Gettysburg National Cemetery, on the same height with the original burial-ground, was consecrated, and the corner-stone laid of a commemorative pile.</p>
 </p></div>

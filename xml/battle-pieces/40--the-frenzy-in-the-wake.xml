@@ -27,9 +27,9 @@
 				<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:138" type="person">Sherman</name>&apos;s advance through the Carolinas.</hi><lb/>
 				(<hi rend="smallcaps">February</hi>, 1865.)
 			</head>
-
+<lb/>
 <lg>
-<l><hi rend="smallcaps">So</hi> strong to suffer, shall we be</l>
+<l><hi rend="smallcaps">So</hi> strong to suffer, <ref target="#EDnoteFrenzy1">shall we be</ref><note xml:id="EDnoteFrenzy1">In this poem, Melville's second-person plural "we" represents the voice of defeated Southerners.</note></l>
 <l rend="2em">Weak to contend, and break</l>
 <l>The sinews of the Oppressor&apos;s knee</l>
 <l rend="2em">That grinds upon the neck?</l>
@@ -41,15 +41,15 @@
 <lg>
 <l>Shall Time, avenging every woe,</l>
 <l n="10" rend="2em">To us that joy allot</l>
-<l>Which Israel thrilled when <name ref="https://mel-catalog.herokuapp.com/api/entries/person:201" type="person">Sisera</name>&apos;s brow</l>
+<l>Which Israel thrilled when <ref target="#EDnoteFrenzy2"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:201" type="person">Sisera&apos;s brow</name></ref><note xml:id="EDnoteFrenzy2">According to the book of Judges, the Canaanite commander Sisera, defeated in battle against the oppressed Israelites, escapes and is given a hiding place by Jael, the wife of the Kenite Heber. While the refugee sleeps in her tent, Jael drives a tent peg into Sisera's temple.</note></l>
 <l rend="2em">Showed gaunt and showed the clot?</l>
 <l rend="4em">Curse on their foreheads, cheeks, and eyes—</l>
 <l rend="6em">The Northern faces—true</l>
 <l n="15" rend="4em">To the flag we hate, the flag whose stars</l>
-<l rend="6em">Like planets strike us through.</l>
+<l rend="6em">Like planets strike us through. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0142.jpg"/></l>
 </lg>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0142.jpg"/>From frozen <name ref="https://mel-catalog.herokuapp.com/api/entries/place:487" type="place">Maine</name> they come,</l>
+<l>From frozen <name ref="https://mel-catalog.herokuapp.com/api/entries/place:487" type="place">Maine</name> they come,</l>
 <l rend="2em">Far <name ref="https://mel-catalog.herokuapp.com/api/entries/place:488" type="place">Minnesota</name> too;</l>
 <l>They come to a sun whose rays disown—</l>
 <l n="20" rend="2em">May it wither them as the dew!</l>
@@ -68,9 +68,9 @@
 <l rend="4em">Have we gamed and lost? but even despair</l>
 <l rend="6em">Shall never our hate rescind.</l>
 </lg>
-
+<lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0259.jpg"/>
-<p xml:id="BP_noteN"><hi rend="smallcaps">Note n</hi>, <hi rend="italic">page</hi> 133.
+<p xml:id="BP_noteN">[Melville's] <hi rend="smallcaps">Note n</hi>, <hi rend="italic">page</hi> 133.
 <p>This piece was written while yet the reports were coming North of Sherman's homeward advance from Savannah. It is needless to point out its purely dramatic character.</p><p>Though the sentiment ascribed in the beginning of the second stanza must, in the present reading, suggest the historic tragedy of the 14th of April, nevertheless, as intimated, it was written prior to that event, and without any distinct application in the writer's mind. After consideration, it is allowed to remain.</p><p>Few need be reminded that, by the less intelligent classes of the South, Abraham Lincoln, by nature the most kindly of men, was regarded as a monster wantonly warring upon liberty. He stood for the personification of tyrannic power. Each Union soldier was called a Lincolnite.</p><p>Undoubtedly Sherman, in the desolation he inflicted after leaving Atlanta, acted not in contravention of orders; and all, in a military point of view, is by military judges deemed to have been expedient, and nothing can abate General Sherman's shining renown; his claims to it rest on no single cvampaign. Still, there are those who can not but contrast some of the scenes enacted in Georgia and the Carolinas, and also in the Shenandoah, with a circumstance in a great Civil War of heathen antiquity. Plutarch relates that in a military council held by Pompey and the chiefs of that party which stood for the Commonwealth, it was decided that under no plea should any city be sacked that was subject to the people of Rome. There was this difference, however, between the Roman civil conflict and the American one. The war of Pompey and Caesar divided the Roman people promiscuously; that of the North and South ran a frontier line between what for the time were distinct communities or nations. In this circumstance, possibly, and some others, may be found both the cause and the justification of some of the sweeping measures adopted.
 </p>
 </p>

@@ -22,7 +22,7 @@
 				<head type="main"><hi rend="italic">Battle of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:464" type="place">Stone River</name>, Tennessee.</hi></head>
 				<head type="sub-head"><hi rend="italic">A View from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:468" type="place">Oxford</name> Cloisters.</hi><lb/>
 (<hi rend="smallcaps">January</hi>, 1863.)</head>
-
+<lb/>
 <lg>
 <l><hi rend="smallcaps">With</hi> <name ref="https://mel-catalog.herokuapp.com/api/entries/place:467" type="place">Tewksbury</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:465" type="place">Barnet</name> heath</l>
 <l rend="2em">In days to come the field shall blend,</l>
@@ -42,8 +42,8 @@
 <l>And Passion, scorning pain and death,</l>
 <l rend="2em">Lent sacred fervor to the fight.</l>
 <l n="15">Each lifted up a broidered cross,</l>
-<l rend="2em">While crossing blades profaned the sign;</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0081.jpg"/>Monks blessed the fratricidal lance,</l>
+<l rend="2em">While crossing blades profaned the sign; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0082.jpg"/></l>
+<l>Monks blessed the fratricidal lance,</l>
 <l rend="2em">And sisters scarfs could twine.</l>
 <l rend="6em">Do North and South the sin retain</l>
 <l n="20" rend="6em">Of Yorkist and Lancastrian?</l>

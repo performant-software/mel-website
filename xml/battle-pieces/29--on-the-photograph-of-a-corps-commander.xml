@@ -21,19 +21,20 @@
 
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0113.jpg"/>
 				<head type="main">
-				<hi rend="italic">On <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:907" type="artwork">the Photograph of <name type="person">a Corps Commander</name></name></hi>
+				<ref target="#EDnotePhotograph1"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:907" type="artwork">On the Photograph of a Corps Commander.</name></hi></ref>
+				<note xml:id="EDnotePhotograph1">A likely source for the corps commander is General Winfield Scott Hancock. Wounded in the Union repulse of Pickett’s Charge at Gettysburg, he was told that as a commander he should not have risked his life, and replied: "There are times when a corps commander's life does not count." Hancock led a decisive charge during the Battle of Spotsylvania over a year later.</note>
 				</head>
-
+<lb/>
 <lg>
-<l><hi rend="smallcaps">Ay,</hi> man is manly. <name type="artwork">Here</name> you see</l>
+<l><hi rend="smallcaps">Ay,</hi> man is manly. Here you see</l>
 <l rend="2em">The warrior-carriage of the head,</l>
 <l>And brave dilation of the frame;</l>
 <l rend="2em">And lighting all, the soul that led</l>
-<l n="5">In <name ref="https://mel-catalog.herokuapp.com/api/entries/event:12" type="event">Spottsylvania&apos;s charge</name> to victory,</l>
-<l rend="2em">Which justifies <name type="person">his fame</name>.</l>
+<l n="5">In Spottsylvania&apos;s charge to victory,</l>
+<l rend="2em">Which justifies his fame.</l>
 </lg>
 <lg>
-<l><name type="artwork">A cheering picture</name>. It is good</l>
+<l>A cheering picture. It is good</l>
 <l rend="2em">To look upon a Chief like this,</l>
 <l>In whom the spirit moulds the form.</l>
 <l n="10" rend="2em">Here favoring Nature, oft remiss,</l>
@@ -43,11 +44,10 @@
 <lg>
 <l>Trace back his lineage, and his sires,</l>
 <l rend="2em">Yeoman or noble, you shall find</l>
-<l n="15">Enrolled with <name type="person">men of <name type="event">Agincourt</name></name>,</l>
-<l rend="2em">Heroes who shared <name ref="Henry" type="person">great Harry</name>&apos;s mind.</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0114.jpg"/>
-Down to us come the <name type="person">knightly Norman</name> fires,</l>
-<l rend="2em">And front the <name type="person">Templars</name> bore.</l>
+<l n="15">Enrolled with men of <ref target="#EDnotePhotograph2">Agincourt</ref><note xml:id="EDnotePhotograph2">Melville links the corps commander’s bravery to those who fought with English King Henry V at the Battle of Agincourt (October 15, 1415), featured in Shakespeare’s Henry V, and (in line 18) the Knights Templar, the 12th – 14th-century Catholic military order that participated in various crusades.</note>,</l>
+<l rend="2em">Heroes who shared great Harry&apos;s mind. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0114.jpg"/></l>
+<l>Down to us come the knightly Norman fires,</l>
+<l rend="2em">And front the Templars bore.</l>
 </lg>
 <lg>
 <l>Nothing can lift the heart of man</l>

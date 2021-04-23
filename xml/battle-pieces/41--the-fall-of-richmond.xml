@@ -27,6 +27,7 @@
 				<hi rend="italic">The tidings received in the Northern Metropolis.</hi><lb/>
 				(<hi rend="smallcaps">April</hi>, 1865.)
 				</head>
+<lb/>
 <lg>
 <l><hi rend="smallcaps">What</hi> mean these peals from every tower,</l>
 <l rend="2em">And crowds like seas that sway?</l>
@@ -42,13 +43,12 @@
 <l n="10">But hearts unquelled at last deter</l>
 <l>The helmed dilated <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Lucifer</name>—</l>
 <l rend="2em">Honor to <name ref="https://mel-catalog.herokuapp.com/api/entries/person:149" type="person">Grant</name> the brave,</l>
-<l>Whose three stars now like <ref target="#ref_19217">Orion</ref><note xml:id="ref_19217">Constellation with three stars forming Orion's belt.
-[reference, astronomy]</note>&apos;s rise</l>
+<l>Whose three stars now like <ref target="#ref_19217">Orion&apos;s rise</ref><note xml:id="ref_19217">When Lincoln promoted Grant, in March 1864, to commander in chief of the Army, he gave him the rank of three-star (lieutenant) general. Not even two-star McClellan had achieved that distinction, previously held only by Washington. Melville compares Grant's three stars to the three-star "belt" in Orion, though this winter constellation, in the Northern hemisphere, was not rising in April but setting.</note></l>
 <l rend="2em">When wreck is on the wave—</l>
-<l n="15" rend="8em"><hi rend="italic">Bless his glaive.</hi></l>
+<l n="15" rend="8em"><hi rend="italic">Bless his <ref target="#EDnoteRichmond1">glaive</ref>.</hi><note xml:id="EDnoteRichmond1">Generally a bladed pole or spear but also used in poetry to mean sword.</note> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0144.jpg"/></l>
 </lg>
 <lg>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0144.jpg"/>Well that the faith we firmly kept,</l>
+<l>Well that the faith we firmly kept,</l>
 <l rend="2em">And never our aim forswore</l>
 <l>For the Terrors that trooped from each recess</l>
 <l>When fainting we fought in the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:454" type="place">Wilderness</name>,</l>

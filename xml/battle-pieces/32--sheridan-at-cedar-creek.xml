@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>31 - Sheridan at Cedar Creek</title>
+			<title>31 - Sheridan at Cedar Creek*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -19,26 +19,27 @@
 		<text>
 			<body><div id="32--sheridan-at-cedar-creek">
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0124.jpg"/>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0124.jpg"/>
+				<lb/>
 				<head type="main">
-				<hi rend="italic">Sheridan at Cedar Creek.</hi>
+				<ref target="#EDnoteSheridan1"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name>.</hi></ref>
+				<note xml:id="EDnoteSheridan1">First published as “Philip” in April 1866, "Sheridan at Cedar Creek" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32: 640). The Harper's version varies substantially in only one couplet (lines 17-18) noted below; other variants include 22 minor modifications in punctuation, 2 typos, and 4 sets of lines regarding indentation. Sheridan's victory at Cedar Creek, a dramatic upset, was a turning point in the final stages of the war. Confederate general Jubal Early had put Union forces in disarray with troops running off in an unauthorized retreat. Some miles south of the battle, in Winchester, VA, Sheridan got wind of the retreat, mounted his horse Rienzi, and rode twenty miles in 90 minutes, first with three aides then with 300 cavalry, to the front and inspired his retreating men to return to battle, thus defeating the Confederates. Sheridan became a popular hero, and he renamed his horse "Winchester." Lost in battle was Melville's acquaintance Colonel Charles Russell Lowell, featured as the newly-wed officer in "The Scout toward Aldie." Melville's "Sheridan at Cedar Creek" is a likely response to artist Thomas Buchanan Read's patriotic poem, "Sheridan's Ride," which appeared on Election Day, 1864, in Horace Greeley's <hi rend="italic">New York Tribune</hi>. Melville's poem was also reprinted in Richard Henry Stoddard's 1873 edition of Rufus Griswold's <hi rend="italic">Poets and Poetry of America</hi>.
+				</note>
 				</head>
 				<head type="sub-head">
 				(<hi rend="smallcaps">October</hi>, 1864.)
 				</head>
-
+<lb/>
 <lg>
-<l><hi rend="smallcaps">Shoe</hi> <ref target="#ref_19009">the steed</ref><note xml:id="ref_19009">Sheridan renamed Rienzi, his celebrated horse, Winchester after the ride to Cedar Creek described in the poem.
-(Eric Meckley) </note> with silver</l>
+<l><hi rend="smallcaps">Shoe</hi> the steed with silver</l>
 <l rend="2em">That bore him to the fray,</l>
-<l><ref target="#ref_20924">When he heard the guns at dawning</ref><note xml:id="ref_20924">[Allusion] [Literary] Melville's poem was inspired by (and perhaps a response to) Thomas Buchanan Read's "Sheridan's Ride" an early account written after the battle and published throughout the North. Read's first stanza also describes Sheridan hearing the guns and realizing the battle had begun anew.
-(Eric Meckley) </note>—</l>
-<l rend="8em">Miles away;</l>
+<l>When he heard the guns at dawning—</l>
+<l rend="6em">Miles away;</l>
 <l n="5" >When he heard them calling, calling—</l>
-<l rend="6em">Mount! nor stay:</l>
-<l rend="8em">Quick, or all is lost;</l>
-<l rend="8em">They&apos;ve surprised and stormed the post,</l>
-<l rend="8em">They push your routed host—</l>
+<l rend="4em">Mount! nor stay:</l>
+<l rend="6em">Quick, or all is lost;</l>
+<l rend="6em">They&apos;ve surprised and stormed the post,</l>
+<l rend="6em">They push your routed host—</l>
 <l n="10" rend="2em">Gallop! retrieve the day.</l>
 </lg>
 <lg>
@@ -47,11 +48,10 @@
 <l>White through the red October;</l>
 <l rend="2em">He thundered into view;</l>
 <l n="15">They cheered him in the looming,</l>
-<l rend="2em">Horseman and horse they knew.</l>
-<l rend="8em"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0125.jpg"/>
-The turn of the tide began,</l>
-<l rend="8em">The rally of bugles ran,</l>
-<l rend="8em">He swung his hat in the van;</l>
+<l rend="2em">Horseman and horse they knew. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0125.jpg"/></l>
+<l rend="6em"><ref target="#EDnoteSheridanRN1">The turn of the tide began,</ref><note xml:id="EDnoteSheridanRN1">In the <hi rend="italic">Harper's New Monthly Magazine</hi> version, lines 17-18 read: "They faced about, each man; / Faint hearts were strong again;". The revision in <hi rend="italic">Battle-Pieces</hi> may have to do with the removal of the near rhyme in "again." Melville seemed satisfied with this revision as he did not restore these lines in the 1873 <hi rend="italic">Poets and Poetry of America</hi> anthology version.</note></l>
+<l rend="6em">The rally of bugles ran,</l>
+<l rend="6em">He swung his hat in the van;</l>
 <l n="20" rend="2em">The electric hoof-spark flew.</l>
 </lg>
 <lg>
@@ -61,9 +61,9 @@ The turn of the tide began,</l>
 <l rend="2em">Into amaranths for the head</l>
 <l n="25">Of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:115" type="person">Philip</name>, king of riders,</l>
 <l rend="2em">Who raised them from the dead.</l>
-<l rend="8em">The camp (at dawning lost),</l>
-<l rend="8em">By eve, recovered—forced,</l>
-<l rend="8em">Rang with laughter of the host</l>
+<l rend="6em">The camp (at dawning lost),</l>
+<l rend="6em">By eve, recovered—forced,</l>
+<l rend="6em">Rang with laughter of the host</l>
 <l n="30" rend="2em">At belated <name ref="https://mel-catalog.herokuapp.com/api/entries/person:175" type="person">Early</name> fled.</l>
 </lg>
 <lg>
@@ -73,20 +73,12 @@ The turn of the tide began,</l>
 <l rend="2em">And yet no strife they keep;</l>
 <l n="35">It is the parting volley,</l>
 <l rend="2em">It is the pathos deep.</l>
-<l rend="8em">There is glory for the brave</l>
-<l rend="8em">Who lead, and nobly save,</l>
-<l rend="8em">But no knowledge in the grave</l>
+<l rend="6em">There is glory for the brave</l>
+<l rend="6em">Who lead, and nobly save,</l>
+<l rend="6em">But no knowledge in the grave</l>
 <l n="40" rend="2em">Where the nameless followers sleep.</l>
 </lg>
 
 </div></body>
 		</text>
 	</TEI>
-
-<!--
-<hi rend="italic"><ref target="#ref_19226"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name></ref>.</hi>
-<ref target="#ref_19226"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name></ref><note xml:id="ref_19226">A version of "Sheridan at Cedar Creek" was published as “Philip” in Harper’s New Monthly Magazine 32 (April 1866), 640, one of four other poems in Battle-Pieces to be previously published in that journal anonymously." (variation)</note>
-<ref target="#ref_19009">the steed</ref><note xml:id="ref_19009">Rienzi, Sheridan's celebrated horse. Renamed Winchester after the ride to Cedar Creek described in the poem.
-(Eric Meckley) </note>
-
--->

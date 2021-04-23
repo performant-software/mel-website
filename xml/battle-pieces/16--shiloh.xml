@@ -19,10 +19,12 @@
 	<text>
 		<body><div xml:id="shiloh">
 			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0071.jpg"/>
-			<head type="main"><hi rend="italic">Shiloh.</hi></head>
+			<head type="main"><ref target="#ref_20984"><hi rend="italic">Shiloh</hi></ref>.
+			<note xml:id="ref_20984">Ancient Israelite worship center, generally translated as Tranquil Place, and therefore an emblem of peace, but also a version of the messiah; hence: "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be" (Genesis 49:10).  Melville also referred to Hawthorne as "the literary Shiloh of America" in "Hawthorne and his Mosses" (NN <hi rend="italic">Piazza Tales</hi>, 181). See also "The Bell Tower": "A silence, as of the expectation of some Shiloh, pervaded the swarming plain" (NN <hi rend="italic">Piazza Tales</hi>, 252).</note>
+		  </head>
 			<head type="sub-head"><hi rend="italic">A Requiem.</hi><lb/>
 				(<hi rend="smallcaps">April</hi>, 1862.)</head>
-
+<lb/>
 			<lg>
 				<l><hi rend="smallcaps">Skimming</hi> lightly, wheeling still,</l>
 				<l rend="2em">The swallows fly low</l>
@@ -44,7 +46,7 @@
 https://en.wikipedia.org/wiki/Memento_%28film%29).</note> I don't think this is a worthy note, but it does signal something about adaptation.--></l>
 				<l rend="2em">But now they lie low,</l>
 				<l>While over them the swallows skim,</l>
-				<l rend="2em">And <ref target="#ref_20984">all is hushed at Shiloh</ref><note xml:id="ref_20984">Ancient Israelite worship center, generally translated as Tranquil Place, and therefore an emblem of peace, but also a version of the messiah; hence: "The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be" (Genesis 49:10).  Melville also referred to Hawthorne as "the literary Shiloh of America" in "Hawthorne and his Mosses" (NN <hi rend="italic">Piazza Tales</hi>, 181). See also "The Bell Tower": "A silence, as of the expectation of some Shiloh, pervaded the swarming plain" (NN <hi rend="italic">Piazza Tales</hi>, 252).</note>.</l>
+				<l rend="2em">And all is hushed at Shiloh.</l>
 			</lg>
 			</div></body>
 	</text>
