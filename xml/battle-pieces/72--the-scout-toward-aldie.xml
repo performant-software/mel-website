@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>70* - <hi rend="smallcaps"><hi rend="italic">The Scout toward Aldie</hi></hi></title>
+			<title>70 - <hi rend="smallcaps"><hi rend="italic">The Scout toward Aldie</hi></hi>*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -48,9 +48,13 @@
 <lb/>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0193.jpg"/>
 <lb/>
+<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0195.jpg"/>
+<lb/>
 <head><hi rend="italic">THE SCOUT TOWARD ALDIE.</hi></head>
 <lb/>
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0195.jpg"/>
+<lb/>
+<pb facs="/images/battle-pieces-v2/battle-pieces-ii-0197.jpg"/>
 <head type="main"><ref target="#ref_21113"><hi rend="italic">The Scout toward Aldie.</hi></ref><note xml:id="ref_21113">Melville’s long ballad relating the death of a newly married Union officer on a scouting expedition toward the town of Aldie, Virginia is based on the poet’s experience in enemy territory. On April 18, 1864, Melville visited the encampment of his cousin Colonel Henry Sanford Gansevoort in Vienna, VA, 14 miles west of Washington DC. The following day, Melville accompanied cavalryman Major William H. Forbes and infantryman Colonel Arthur H. Grimshaw, leading 500 men first to Leesburg and then to Aldie, on a mission to curtail the guerrilla activities of the cunning, near-mythic Confederate John Mosby. After one encounter involving casualties, they returned to Vienna on April 20. At this time, Melville also met Josephine Shaw Lowell, sister of Robert Gould Shaw and wife of Colonel Charles Russell Lowell (nephew of poet James Russell Lowell), who was later killed in action (at the Battle of Cedar Creek). The husband and wife are likely prototypes for the tragic couple in Melville’s ballad. (Stanton Garner, “Melville’s Scout toward Aldie,” Melville Society Extracts 51 and 52 (Sept and Nov 1982): 5-14 and 1-14.)
 </note>
 </head>
@@ -116,7 +120,7 @@
 <lg>
 <l>A <ref target="#EDnoteScoutRN1">scout</ref> toward Aldie broke the spell.—
 <note xml:id="EDnoteScoutRN1">In Copy C (bound sheets) of <hi rend="italic">Battle-Pieces</hi>, Melville penciled the word "ride" above "scout" but did not delete "scout." This tentative revision modifies tone, reducing the tension of "scout" to the generality of "ride." That said, it must be seen in conjunction with similar tentative revisions to the poem's title. On the Copy C section title page for the poem and on the poem's first page title, Melville also inscribed "ride" above "scout" to give "The Ride toward Aldie." But in both cases, he crossed out and then erased "ride."
-</note><pb facs="/images/battle-pieces-v2/battle-pieces-ii-0199.jpg"/></l>
+</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0199.jpg"/></l>
 <l rend="2em">The <ref target="#ref_21106">Leader</ref> lies before his tent
 <note xml:id="ref_21106">Colonel Charles Russell Lowell (1835-1864), brigade commander of the 13th New York Cavalry, did not in fact lead the scout.
 </note></l>
