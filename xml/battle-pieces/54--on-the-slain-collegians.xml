@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>52 - On the Slain Collegians</title>
+			<title>52 - On the Slain Collegians*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -83,9 +83,9 @@
 <l>What could they else—North or South?</l>
 <l>Each went forth with blessings given <pb facs="/images/battle-pieces-v1/battle-pieces-i-0167.jpg"/></l>
 <l>By priests and mothers in the name of Heaven;</l>
-<l rend="4em">And honor in both was chief.</l>
+<l rend="4em">And honor in <ref target="#EDnoteCollegiansRN1">both</ref><note xml:id="EDnoteCollegiansRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville underlined "both" in pencil and inscribed the mnore inclusive "all" and a slash in the right margin, as a possible revision.</note>  was chief. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0169.jpg"/></l>
 <l n="45">Warred one for Right, and one for Wrong?</l>
-<l>So be it; but they both were young—</l>
+<l>So <ref target="#EDnoteCollegiansRN2">be</ref><note xml:id="EDnoteCollegiansRN2">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville double-deleted "be" in pencil, inserted a caret in front of the deletion, and inscribed "put" in the left margin, indicating a revision to "So put it". The shift in meaning is from the acquiescent tone acceptance of a labeling of Right and Wrong in "so be it" to an understanding in "so put it" that these labels are rhetorical tropes worth rising above.</note> it; but they both were young—</l>
 <l>Each grape to his cluster clung,</l>
 <l>All their elegies are sung.</l>
 </lg>
