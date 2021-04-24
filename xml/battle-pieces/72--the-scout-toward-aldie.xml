@@ -134,8 +134,8 @@
 <lb/>
 <lg>
 <l>The trumpet calls; he goes within;</l>
-<l n="45" rend="2em">But none the prayer and sob may know:</l>
-<l>Her hero he, but bridegroom too.</l>
+<l rend="2em">But none the prayer and sob may know:</l>
+<l n="45">Her hero he, but bridegroom too.</l>
 <l>Ah, love in a tent is a queenly thing,</l>
 <l rend="2em">And fame, be sure, refines the vow;</l>
 <l rend="4em">But fame fond wives have lived to rue,</l>
@@ -304,21 +304,21 @@
 <lg>
 <l>The brook in the dell they pass. One peers</l>
 <l rend="2em">Between the leaves: &quot;Ay, there&apos;s the place—</l>
-<l>There, on the oozy ledge—&apos;twas there</l>
-<l n="150">We found the body (Blake&apos;s you know);</l>
+<l n="150">There, on the oozy ledge—&apos;twas there</l>
+<l>We found the body (Blake&apos;s you know);</l>
 <l rend="2em">Such whirlings, gurglings round the face—</l>
 <l rend="4em">Shot drinking! Well, in war all&apos;s fair—</l>
 <l rend="4em">So Mosby says. The bough—take care!&quot;</l>
 </lg>
 <lb/>
 <lg>
-<l>Hard by, a chapel. Flower-pot mould</l>
-<l n="155" rend="2em">Danked and decayed the shaded roof;</l>
+<l n="155">Hard by, a chapel. Flower-pot mould</l>
+<l rend="2em">Danked and decayed the shaded roof;</l>
 <l>The porch was punk; the clapboards spanned</l>
 <l>With ruffled lichens gray or green;</l>
 <l rend="2em">Red coral-moss was not aloof;</l>
-<l rend="4em">And mid dry leaves green dead-man&apos;s-hand</l>
-<l n="160" rend="4em">Groped toward that chapel in Mosby-land.</l>
+<l n="160" rend="4em">And mid dry leaves green dead-man&apos;s-hand</l>
+<l rend="4em">Groped toward that chapel in Mosby-land.</l>
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0203.jpg"/>
@@ -326,29 +326,29 @@
 <l><ref target="#EDnoteScoutRN4">They leave the road </ref> place;<note xml:id="EDnoteScoutRN4">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to create a wavy line around and between "They leave" and "the road" to indicate a transposition to give "The road they leave." The editors of the NN <hi rend="italic">Published Poems</hi> emend their reading text by enacting this transposition on Melville's behalf. (A similar transposition occurs with "They skirt the pool" below; see also transpositions in "The Fortitude of the North" and "On a natural Monument.") However, in keeping with our protocol of not mixing versions of a work, MEL does not emend, but notes Melville's changes through revision annotation.</note> and take the wood, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0205.jpg"/></l>
 <l rend="2em">And mark the trace of ridges there—</l>
 <l>A wood where once had slept the farm—</l>
-<l>A wood where once tobacco grew</l>
-<l n="165" rend="2em">Drowsily in the hazy air,</l>
+<l n="165">A wood where once tobacco grew</l>
+<l rend="2em">Drowsily in the hazy air,</l>
 <l rend="4em">And wrought in all kind things a calm—</l>
 <l rend="4em">Such influence, Mosby! bids disarm.</l>
 </lg>
 <lb/>
 <lg>
 <l>To ease even yet the place did woo—</l>
-<l rend="2em">To ease which pines unstirring share,</l>
-<l n="170">For ease the weary horses sighed:</l>
+<l n="170" rend="2em">To ease which pines unstirring share,</l>
+<l>For ease the weary horses sighed:</l>
 <l>Halting, and slackening girths, they feed,</l>
 <l rend="2em">Their pipes they light, they loiter there;</l>
 <l rend="4em">Then up, and urging still the Guide,</l>
-<l rend="4em">On, and after Mosby ride.</l>
+<l n="175" rend="4em">On, and after Mosby ride.</l>
 </lg>
 <lb/>
 <lg>
-<l n="175">This Guide in frowzy coat of brown,</l>
+<l>This Guide in frowzy coat of brown,</l>
 <l rend="2em">And beard of ancient growth and mould,</l>
 <l>Bestrode a bony steed and strong,</l>
 <l>As suited well with bulk he bore—</l>
-<l rend="2em">A wheezy man with depth of hold</l>
-<l n="180" rend="4em">Who jouncing went. A staff he swung—</l>
+<l n="180" rend="2em">A wheezy man with depth of hold</l>
+<l rend="4em">Who jouncing went. A staff he swung—</l>
 <l rend="4em">A wight whom Mosby&apos;s wasp had stung.</l>
 </lg>
 
@@ -356,29 +356,29 @@
 <lg>
 <l>Burnt out and homeless—hunted long!</l>
 <l rend="2em">That wheeze he caught in autumn-wood</l>
-<l>Crouching (a fat man) for his life,</l>
-<l n="185">And spied his lean son &apos;mong the crew</l>
+<l n="185">Crouching (a fat man) for his life,</l>
+<l>And spied his lean son &apos;mong the crew</l>
 <l rend="2em">That probed the covert. Ah! black blood</l>
 <l rend="4em">Was his &apos;gainst even child and wife—</l>
 <l rend="4em">Fast friends to Mosby. Such the strife.</l>
 </lg>
 <lb/>
 <lg>
-<l>A lad, unhorsed by sliding girths,</l>
-<l n="190" rend="2em">Strains hard to readjust his seat</l>
+<l n="190">A lad, unhorsed by sliding girths,</l>
+<l rend="2em">Strains hard to readjust his seat</l>
 <l>Ere the main body show the gap</l>
 <l>&apos;Twixt them and the rear-guard; scrub-oaks near</l>
 <l rend="2em">He sidelong eyes, while hands move fleet;</l>
-<l rend="4em">Then mounts and spurs. One drops his cap—</l>
-<l n="195" rend="4em">&quot;Let Mosby fine!&quot; nor heeds mishap.</l>
+<l n="195" rend="4em">Then mounts and spurs. One drops his cap—</l>
+<l rend="4em">&quot;Let Mosby fine!&quot; nor heeds mishap.</l>
 </lg>
 <lb/>
 <lg>
 <l>A gable time-stained peeps through trees:</l>
 <l rend="2em">&quot;You mind the fight in the haunted house?</l>
 <l>That&apos;s it; we clenched them in the room—</l>
-<l>An ambuscade of ghosts, we <ref target="#EDnoteScoutRN5">thought</ref><note xml:id="EDnoteScoutRN5">In Copy C, Melville deleted "thought" in pencil and inscribed "deemed" in the right margin.</note>, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0206.jpg"/></l>
-<l n="200" rend="2em">But proved sly rebels on a bouse!</l>
+<l n="200">An ambuscade of ghosts, we <ref target="#EDnoteScoutRN5">thought</ref><note xml:id="EDnoteScoutRN5">In Copy C, Melville deleted "thought" in pencil and inscribed "deemed" in the right margin.</note>, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0206.jpg"/></l>
+<l rend="2em">But proved sly rebels on a bouse!</l>
 <l rend="4em">Luke lies in the yard.&quot; The chimneys loom:</l>
 <l rend="4em">Some muse on Mosby—some on doom.</l>
 </lg>
@@ -386,29 +386,29 @@
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0205.jpg"/>
 <lg>
 <l>Less nimbly now through brakes they wind,</l>
-<l rend="2em">And ford wild creeks where men have drowned;</l>
-<l n="205"><ref target="#EDnoteScoutRN6">They skirt the pool</ref>, avoid the fen,<note xml:id="EDnoteScoutRN6"> In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to create a wavy line around and between ""They skirt"  " and "the pool" to indicate a transposition to give "The pool they skirt." The editors of the NN <hi rend="italic">Published Poems</hi> emend their reading text by enacting this transposition on Melville's behalf. (A similar transposition occurs with "They leave the road" above; see also transpositions in "The Fortitude of the North" and "On a natural Monument.") However, in keeping with our protocol of not mixing versions of a work, MEL does not emend, but notes Melville's changes through revision annotation.</note> and take the wood, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0207.jpg"/></l>
+<l n="205" rend="2em">And ford wild creeks where men have drowned;</l>
+<l><ref target="#EDnoteScoutRN6">They skirt the pool</ref>, avoid the fen,<note xml:id="EDnoteScoutRN6"> In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to create a wavy line around and between ""They skirt"  " and "the pool" to indicate a transposition to give "The pool they skirt." The editors of the NN <hi rend="italic">Published Poems</hi> emend their reading text by enacting this transposition on Melville's behalf. (A similar transposition occurs with "They leave the road" above; see also transpositions in "The Fortitude of the North" and "On a natural Monument.") However, in keeping with our protocol of not mixing versions of a work, MEL does not emend, but notes Melville's changes through revision annotation.</note> and take the wood, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0207.jpg"/></l>
 <l>And so till night, when down they lie,</l>
 <l rend="2em">Their steeds still saddled, in wooded ground:</l>
 <l rend="4em">Rein in hand they slumber then,</l>
-<l rend="4em">Dreaming of Mosby&apos;s cedarn den.</l>
+<l n="210" rend="4em">Dreaming of Mosby&apos;s cedarn den.</l>
 </lg>
 <lb/>
 <lg>
-<l n="210">But Colonel and Major friendly sat</l>
+<l>But Colonel and Major friendly sat</l>
 <l rend="2em">Where boughs deformed low made a seat.</l>
 <l>The Young Man talked (all sworded and spurred)</l>
 <l>Of the partisan&apos;s blade he longed to win,</l>
-<l rend="2em">And frays in which he meant to beat.</l>
-<l n="215" rend="4em">The grizzled Major smoked, and heard:</l>
+<l n="215" rend="2em">And frays in which he meant to beat.</l>
+<l>rend="4em">The grizzled Major smoked, and heard:</l>
 <l rend="4em">&quot;But what&apos;s that—Mosby?&quot; &quot;No, a bird.&quot;</l>
 </lg>
 <lb/>
 <lg>
 <l>A contrast here like sire and son,</l>
 <l rend="2em">Hope and Experience sage did meet;</l>
-<l>The Youth was brave, the Senior too;</l>
-<l n="220">But through the Seven Days one had served,</l>
+<l n="220">The Youth was brave, the Senior too;</l>
+<l>But through the Seven Days one had served,</l>
 <l rend="2em">And gasped with the rear-guard in retreat:</l>
 <l rend="4em">So he smoked and smoked, and the wreath he blew—</l>
 <l rend="4em">&quot;Any <hi rend="italic">sure</hi> news of Mosby&apos;s crew?&quot;</l>
@@ -416,64 +416,64 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0206.jpg"/>
 <lg>
-<l>He smoked and smoked, eying the while</l>
-<l n="225" rend="2em">A huge tree hydra-like in growth—</l>
+<l n="225">He smoked and smoked, eying the while</l>
+<l rend="2em">A huge tree hydra-like in growth—</l>
 <l>Moon-tinged—with crook&apos;d boughs rent or lopped—</l>
 <l>Itself a haggard forest. &quot;Come!&quot;</l>
 <l rend="2em">The Colonel cried, &quot;to talk you&apos;re loath;</l>
-<l rend="4em">D&apos;ye hear? I say he must be stopped,</l>
-<l n="230" rend="4em">This Mosby—caged, and hair close cropped.&quot;</l>
+<l n="230" rend="4em">D&apos;ye hear? I say he must be stopped,</l>
+<l rend="4em">This Mosby—caged, and hair close cropped.&quot;</l>
 </lg>
 <lb/>
 <lg>
 <l>&quot;Of course; but what&apos;s that dangling there?&quot;</l>
 <l rend="2em">&quot;Where?&quot; &quot;From the tree—that gallows-bough;</l>
 <l>&quot;A bit of frayed bark, is it not?&quot;</l>
-<l>&quot;Ay—or a rope; did <hi rend="italic">we</hi> hang last?—</l>
-<l n="235" rend="2em">Don&apos;t like my neckerchief any how;&quot;</l>
+<l n="235">&quot;Ay—or a rope; did <hi rend="italic">we</hi> hang last?—</l>
+<l rend="2em">Don&apos;t like my neckerchief any how;&quot;</l>
 <l rend="4em">He loosened it: &quot;O ay, we&apos;ll stop</l>
 <l rend="4em">This Mosby—but that vile jerk and drop! <hi rend="super">W</hi></l>
 </lg>
 <lb/>
 <lg>
 <l>By peep of light they feed and ride,</l>
-<l rend="2em">Gaining a grove&apos;s green edge at morn,</l>
-<l n="240">And mark the Aldie hills uprear</l>
+<l n="240" rend="2em">Gaining a grove&apos;s green edge at morn,</l>
+<l>And mark the Aldie hills uprear</l>
 <l>And five gigantic horsemen carved</l>
 <l rend="2em">Clear-cut against the sky withdrawn;</l>
 <l rend="4em">Are more behind? an open snare?</l>
-<l rend="4em">Or Mosby&apos;s men but watchmen there?</l>
+<l n="245" rend="4em">Or Mosby&apos;s men but watchmen there?</l>
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0207.jpg"/>
 <lg>
-<l n="245">The ravaged land was miles behind,</l>
+<l >The ravaged land was miles behind,</l>
 <l rend="2em">And Loudon spread her landscape rare;</l>
 <l>Orchards in pleasant lowlands stood,</l>
 <l>Cows were feeding, a cock loud crew,</l>
-<l rend="2em">But not a friend at need was there;</l>
-<l n="250" rend="4em">The valley-folk were only good</l>
+<l n="250" rend="2em">But not a friend at need was there;</l>
+<l rend="4em">The valley-folk were only good</l>
 <l rend="4em">To Mosby and his wandering brood.</l>
 </lg>
 <lb/>
 <lg>
 <l>What best to do? what mean yon men?</l>
 <l rend="2em">Colonel and Guide their minds compare;</l>
-<l>Be sure some looked their Leader through;</l>
-<l n="255">Dismsounted, on his sword he leaned</l>
+<l n="255">Be sure some looked their Leader through;</l>
+<l>Dismsounted, on his sword he leaned</l>
 <l rend="2em">As one who feigns an easy air;</l>
 <l rend="4em">And yet perplexed he was they knew—</l>
 <l rend="4em">Perplexed by Mosby&apos;s mountain-crew.</l>
 </lg>
 <lb/>
 <lg>
-<l>The Major hemmed as he would speak,</l>
-<l n="260" rend="2em">But checked himself, and left the ring</l>
+<l n="260">The Major hemmed as he would speak,</l>
+<l rend="2em">But checked himself, and left the ring</l>
 <l>Of cavalrymen about their Chief—</l>
 <l>Young courtiers mute who paid their court</l>
 <l rend="2em">By looking with confidence on their king;</l>
-<l rend="4em">They knew him brave, foresaw no grief—</l>
-<l n="265" rend="4em">But Mosby—the time <ref target="#EDnoteScoutRN7">to think</ref> <note xml:id="EDnoteScoutRN7">In Copy C, Melville deleted "to think" in pencil, inserted a caret, and inscribed "for thought" in the right margin.</note> is brief. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0209.jpg"/></l>
+<l n="265" rend="4em">They knew him brave, foresaw no grief—</l>
+<l rend="4em">But Mosby—the time <ref target="#EDnoteScoutRN7">to think</ref> <note xml:id="EDnoteScoutRN7">In Copy C, Melville deleted "to think" in pencil, inserted a caret, and inscribed "for thought" in the right margin.</note> is brief. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0209.jpg"/></l>
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0208.jpg"/>
@@ -481,29 +481,29 @@
 <l>The Surgeon (sashed in sacred green)</l>
 <l rend="2em">Was glad &apos;twas not for <hi rend="italic">him</hi> to say</l>
 <l>What next should be; if a trooper bleeds,</l>
-<l>Why he will do his best, as wont,</l>
-<l n="270" rend="2em">And his partner in black will aid and pray;</l>
+<l n="270">Why he will do his best, as wont,</l>
+<l rend="2em">And his partner in black will aid and pray;</l>
 <l rend="4em">But judgment bides with him who leads,</l>
 <l rend="4em">And Mosby many a problem breeds.</l>
 </lg>
 <lb/>
 <lg>
 <l>This Surgeon was the kindliest man</l>
-<l rend="2em">That ever a callous trade professed;</l>
-<l n="275">He felt for him, that Leader young,</l>
+<l n="275" rend="2em">That ever a callous trade professed;</l>
+<l>He felt for him, that Leader young,</l>
 <l>And offered medicine from his flask:</l>
 <l rend="2em">The Colonel took it with marvelous zest.</l>
 <l rend="4em">For such fine medicine good and strong,</l>
-<l rend="4em">Oft Mosby and his foresters long.</l>
+<l n="280" rend="4em">Oft Mosby and his foresters long.</l>
 </lg>
 <lb/>
 <lg>
-<l n="280">A charm of proof. &quot;Ho, Major, come—</l>
+<l>A charm of proof. &quot;Ho, Major, come—</l>
 <l rend="2em">Pounce on yon men! Take half your troop</l>
 <l>Through the thickets wind—pray speedy be—</l>
 <l>And gain their rear. And, Captain Morn</l>
-<l rend="2em">Picket these roads—all travelers stop;</l>
-<l n="285" rend="4em">The rest to the edge of this crest with me,</l>
+<l n="285" rend="2em">Picket these roads—all travelers stop;</l>
+<l rend="4em">The rest to the edge of this crest with me,</l>
 <l rend="4em">That Mosby and his scouts may see.&quot;</l>
 </lg>
 
@@ -519,21 +519,21 @@
 </lg>
 <lb/>
 <lg>
-<l>&quot;Colonel,&quot; said the Major, touching his cap,</l>
-<l n="295" rend="2em">&quot;We&apos;ve had our ride, and here they are.&quot;</l>
+<l n="295">&quot;Colonel,&quot; said the Major, touching his cap,</l>
+<l rend="2em">&quot;We&apos;ve had our ride, and here they are.&quot;</l>
 <l>&quot;Well done! how many found you there?&quot;</l>
 <l>&quot;As many as I bring you here.&quot;</l>
 <l rend="2em">&quot;And no one hurt?&quot; &quot;There&apos;ll be no scar—</l>
-<l rend="4em">One fool was battered.&quot; &quot;Find their lair?&quot;</l>
-<l n="300" rend="4em">&quot;Why, Mosby&apos;s brood camp every where.&quot;</l>
+<l n="300" rend="4em">One fool was battered.&quot; &quot;Find their lair?&quot;</l>
+<l rend="4em">&quot;Why, Mosby&apos;s brood camp every where.&quot;</l>
 </lg>
 <lb/>
 <lg>
 <l>He sighed, and slid down from his horse,</l>
 <l rend="2em">And limping went to a spring-head nigh.</l>
 <l>&quot;Why, bless me, Major, not hurt, I hope?&quot;</l>
-<l>&quot;Battered my knee against a bar</l>
-<l n="305" rend="2em">When the rush was made; all right by-and-by.—</l>
+<l n="305">&quot;Battered my knee against a bar</l>
+<l rend="2em">When the rush was made; all right by-and-by.—</l>
 <l rend="4em">Halloa! they gave you too much rope—</l>
 <l rend="4em">Go back to Mosby, eh? elope?&quot;</l>
 </lg>
@@ -541,29 +541,29 @@
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0210.jpg"/>
 <lg>
 <l>Just by the low-hanging skirt of wood</l>
-<l rend="2em">The guard, remiss, had given a chance</l>
-<l n="310">For a sudden sally into the cover—</l>
+<l n="310" rend="2em">The guard, remiss, had given a chance</l>
+<l>For a sudden sally into the cover—</l>
 <l>But foiled the intent, nor fired a shot,</l>
 <l rend="2em">Though the issue was a deadly trance;</l>
 <l rend="4em">For, hurled &apos;gainst an oak that humped low over,</l>
-<l rend="4em">Mosby&apos;s man fell, pale as a lover.</l>
+<l n="315" rend="4em">Mosby&apos;s man fell, pale as a lover.</l>
 </lg>
 <lb/>
 <lg>
-<l n="315" >They pulled some grass his head to ease</l>
+<l>They pulled some grass his head to ease</l>
 <l rend="2em">(Lined with blue shreds a ground-nest stirred).</l>
 <l>The Surgeon came—&quot;Here&apos;s a to-do!&quot;</l>
 <l>&quot;Ah!&quot; cried the Major, darting a glance,</l>
-<l rend="2em">&quot;This fellow&apos;s the one that fired and spurred</l>
-<l n="320" rend="4em">Down hill, but met reserves below—</l>
+<l n="320" rend="2em">&quot;This fellow&apos;s the one that fired and spurred</l>
+<l rend="4em">Down hill, but met reserves below—</l>
 <l rend="4em">My boys, not Mosby&apos;s—so we go!&quot;</l>
 </lg>
 <lb/>
 <lg>
 <l>The Surgeon—bluff, red, goodly man—</l>
 <l rend="2em">Kneeled by the hurt one; like a bee</l>
-<l>He toiled. The pale young Chaplain too—</l>
-<l n="325">(Who went to the wars for cure of souls,</l>
+<l n="325">He toiled. The pale young Chaplain too—</l>
+<l>(Who went to the wars for cure of souls,</l>
 <l rend="2em">And his own student-ailments)—he</l>
 <l rend="4em">Bent over likewise; spite the two,</l>
 <l rend="4em">Mosby&apos;s poor man more pallid grew.</l>
@@ -571,65 +571,65 @@
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0211.jpg"/>
 <lg>
-<l>Meanwhile the mounted captives near</l>
-<l n="330" rend="2em">Jested; and yet they anxious showed;</l>
+<l n="330">Meanwhile the mounted captives near</l>
+<l rend="2em">Jested; and yet they anxious showed;</l>
 <l>Virginians; some of family-pride,</l>
 <l>And young, and full of fire, and fine</l>
 <l rend="2em">In open feature and cheek that glowed;</l>
-<l rend="4em">And here thralled vagabonds now they ride—</l>
-<l n="335" rend="4em">But list! one speaks for Mosby&apos;s side.</l>
+<l n="335" rend="4em">And here thralled vagabonds now they ride—</l>
+<l rend="4em">But list! one speaks for Mosby&apos;s side.</l>
 </lg>
 <lb/>
 <lg>
 <l>&quot;Why, three to one—your horses strong—</l>
 <l rend="2em">Revolvers, rifles, and a surprise—</l>
 <l>Surrender we account no shame!</l>
-<l>We live, are gay, and life is hope;</l>
-<l n="340" rend="2em">We&apos;ll fight again when fight is wise.</l>
+<l n="340">We live, are gay, and life is hope;</l>
+<l rend="2em">We&apos;ll fight again when fight is wise.</l>
 <l rend="4em">There are plenty more from where we came;</l>
 <l rend="4em">But go find Mosby—start the game!&quot;</l>
 </lg>
 <lb/>
 <lg>
 <l>Yet one there was who looked but glum;</l>
-<l rend="2em">In middle-age, a father he,</l>
-<l n="345">And this his first experience too:</l>
+<l n="345" rend="2em">In middle-age, a father he,</l>
+<l>And this his first experience too:</l>
 <l>&quot;They shot at my heart when my hands were up—</l>
 <l rend="2em">This fighting&apos;s crazy work, I see!&quot;</l>
 <l rend="4em">But noon is high; what next to do?</l>
-<l rend="4em">The woods are mute, and Mosby is the foe.</l>
+<l n="350" rend="4em">The woods are mute, and Mosby is the foe.</l>
 </lg>
 <lb/>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0212.jpg"/>
 <lg>
-<l n="350">&quot;Save what we&apos;ve got,&quot; the Major said;</l>
+<l>&quot;Save what we&apos;ve got,&quot; the Major said;</l>
 <l rend="2em">&quot;Bad plan to make a scout too long;</l>
 <l>The tide may turn, and drag them back,</l>
 <l>And more beside. These rides I&apos;ve been,</l>
-<l rend="2em">And every time a mine was sprung.</l>
-<l n="355" rend="4em">To rescue, mind, they won&apos;t be slack—</l>
+<l n="355" rend="2em">And every time a mine was sprung.</l>
+<l rend="4em">To rescue, mind, they won&apos;t be slack—</l>
 <l rend="4em">Look out for Mosby&apos;s rifle-crack.&quot;</l>
 </lg>
 <lb/>
 <lg>
 <l>&quot;We&apos;ll welcome it! give crack for crack!</l>
 <l rend="2em">Peril, old lad, is what I seek.&quot;</l>
-<l>&quot;O then, there&apos;s plenty to be had—</l>
-<l n="360">By all means on, and have our fill!&quot;</l>
+<l n="360">&quot;O then, there&apos;s plenty to be had—</l>
+<l>By all means on, and have our fill!&quot;</l>
 <l rend="2em">With that, grotesque, he writhed his neck,</l>
 <l rend="4em">Showing a scar by buck-shot made—</l>
 <l rend="4em">Kind Mosby&apos;s Christmas gift, he said.</l>
 </lg>
 <lb/>
 <lg>
-<l>But, Colonel, my prisoners—let a guard</l>
-<l n="365" rend="2em">Make sure of them, and lead to camp.</l>
+<l n="365">But, Colonel, my prisoners—let a guard</l>
+<l rend="2em">Make sure of them, and lead to camp.</l>
 <l>That done, we&apos;re free for a dark-room fight</l>
 <l>If so you say.&quot; The other laughed;</l>
 <l rend="2em">&quot;Trust me, Major, nor throw a damp.</l>
-<l rend="4em">But first to try a little sleight—</l>
-<l n="370" rend="4em">Sure news of Mosby would suit me quite.&quot;</l>
+<l n="370" rend="4em">But first to try a little sleight—</l>
+<l rend="4em">Sure news of Mosby would suit me quite.&quot;</l>
 </lg>
 
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0213.jpg"/>
@@ -637,16 +637,16 @@
 <l>Herewith he turned—&quot;Reb, have a dram?&quot;</l>
 <l rend="2em">Holding the Surgeon&apos;s flask with a smile</l>
 <l>To a young scapegrace from the glen.</l>
-<l>&quot;O yes!&quot; he eagerly replied,</l>
-<l n="375" rend="2em">&quot;And thank you, Colonel, but—any guile?</l>
+<l n="375">&quot;O yes!&quot; he eagerly replied,</l>
+<l rend="2em">&quot;And thank you, Colonel, but—any guile?</l>
 <l rend="4em">For if you think we&apos;ll blab—why, then</l>
 <l rend="4em">You don&apos;t know Mosby or his men.&quot;</l>
 </lg>
 <lb/>
 <lg>
 <l>The Leader&apos;s genial air relaxed.</l>
-<l rend="2em">&quot;Best give it up,&quot; a whisperer said.</l>
-<l n="380">&quot;By heaven, I&apos;ll range their rebel den!&quot;</l>
+<l n="380" rend="2em">&quot;Best give it up,&quot; a whisperer said.</l>
+<l>&quot;By heaven, I&apos;ll range their rebel den!&quot;</l>
 <l>&quot;They&apos;ll treat you well,&quot; the captive cried;</l>
 <l rend="2em">&quot;They&apos;re all like us—handsome—well bred:</l>
 <l rend="4em">In wood or town, with sword or pen,</l>
