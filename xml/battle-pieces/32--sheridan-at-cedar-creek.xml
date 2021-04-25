@@ -22,13 +22,15 @@
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0124.jpg"/>
 				<lb/>
 				<head type="main">
-				<ref target="#EDnoteSheridan1"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/people" type="person">Sheridan</name> at <name ref="https://mel-catalog.herokuapp.com/api/entries/event:11" type="place">Cedar Creek</name>.</hi></ref>
-				<note xml:id="EDnoteSheridan1">First published as “Philip” in April 1866, "Sheridan at Cedar Creek" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear anonymously in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32: 640). The Harper's version varies substantially in only one couplet (lines 17-18) noted below; other variants include 22 minor modifications in punctuation, 2 typos, and 4 sets of lines regarding indentation. Sheridan's victory at Cedar Creek, a dramatic upset, was a turning point in the final stages of the war. Confederate general Jubal Early had put Union forces in disarray with troops running off in an unauthorized retreat. Some miles south of the battle, in Winchester, VA, Sheridan got wind of the retreat, mounted his horse Rienzi, and rode twenty miles in 90 minutes, first with three aides then with 300 cavalry, to the front and inspired his retreating men to return to battle, thus defeating the Confederates. Sheridan became a popular hero, and he renamed his horse "Winchester." Lost in battle was Melville's acquaintance Colonel Charles Russell Lowell, featured as the newly-wed officer in "The Scout toward Aldie." Melville's "Sheridan at Cedar Creek" is a likely response to artist Thomas Buchanan Read's patriotic poem, "Sheridan's Ride," which appeared on Election Day, 1864, in Horace Greeley's <hi rend="italic">New York Tribune</hi>. Melville's poem was also reprinted in Richard Henry Stoddard's 1873 edition of Rufus Griswold's <hi rend="italic">Poets and Poetry of America</hi>.
+				<ref target="#EDnoteSheridan1"><hi rend="italic">Sheridan at Cedar Creek.</hi></ref>
+				<note xml:id="EDnoteSheridan1">First published as “Philip” in April 1866, "Sheridan at Cedar Creek" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32: 640). The Harper's version varies substantially in only one couplet (lines 17-18) noted below; other variants include 22 minor modifications in punctuation, 2 typos, and 4 sets of lines regarding indentation. Sheridan's victory at Cedar Creek, a dramatic upset, was a turning point in the final stages of the war. Confederate general Jubal Early had put Union forces in disarray with troops running off in an unauthorized retreat. Some miles south of the battle, in Winchester, VA, Sheridan got wind of the retreat, mounted his horse Rienzi, and rode twenty miles in 90 minutes, first with three aides then with 300 cavalry, to the front and inspired his retreating men to return to battle, thus defeating the Confederates. Sheridan became a popular hero, and he renamed his horse "Winchester." Lost in battle was Melville's acquaintance Colonel Charles Russell Lowell, featured as the newly-wed officer in "The Scout toward Aldie." Melville's "Sheridan at Cedar Creek" is a likely response to artist Thomas Buchanan Read's patriotic poem, "Sheridan's Ride," which appeared on Election Day, 1864, in Horace Greeley's <hi rend="italic">New York Tribune</hi>. Melville's poem was also reprinted in Richard Henry Stoddard's 1873 edition of Rufus Griswold's <hi rend="italic">Poets and Poetry of America</hi>.
 				</note>
 				</head>
 				<head type="sub-head">
 				(<hi rend="smallcaps">October</hi>, 1864.)
 				</head>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-SheridanCedarPhilipHarpers1.jpg"/>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-SheridanCedarPhilipHarpers2.jpg"/>
 <lb/>
 <lg>
 <l><hi rend="smallcaps">Shoe</hi> the steed with silver</l>
@@ -50,7 +52,7 @@
 <l n="15">They cheered him in the looming,</l>
 <l rend="2em">Horseman and horse they knew. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0125.jpg"/></l>
 <l rend="6em"><ref target="#EDnoteSheridanRN1">The turn of the tide began,</ref><note xml:id="EDnoteSheridanRN1">In the <hi rend="italic">Harper's New Monthly Magazine</hi> version, lines 17-18 read: "They faced about, each man; / Faint hearts were strong again;". The revision in <hi rend="italic">Battle-Pieces</hi> may have to do with the removal of the near rhyme in "again." Melville seemed satisfied with this revision as he did not restore these lines in the 1873 <hi rend="italic">Poets and Poetry of America</hi> anthology version.</note></l>
-<l rend="6em">The rally of bugles ran,</l>
+<l rend="6em">The rally of bugles ran, <pb facs="/images/battle-pieces-v1/battle-pieces-i-SheridanCedarPhilipHarpers2.jpg"/></l>
 <l rend="6em">He swung his hat in the van;</l>
 <l n="20" rend="2em">The electric hoof-spark flew.</l>
 </lg>
