@@ -19,17 +19,18 @@
 		<text>
 			<body><div id="38--the-march-to-the-sea">
 
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-MarchSeaHarpers1A.jpg"/>
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-MarchSeaHarpers1B.jpg"/>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0136.jpg"/>
 				<head type="main">
 				<ref target="#ref_19216"><hi rend="italic">The March to the Sea.</hi></ref>
 				<note xml:id="ref_19216">First published in February, 1866, "The March to the Sea" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32:366-67).
 				 Melville owned a copy of Major George Ward Nichols’s <hi rend="italic">The Story of the Great March</hi>, a possible source for the poem.
-				</note> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0136.jpg"/>
+				</note>
 				</head>
 				<head type="sub-head">
 				(<hi rend="smallcaps">December</hi>, 1864.)
 				</head>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-MarchSeaHarpers1A.jpg"/>
+				<pb facs="/images/battle-pieces-v1/battle-pieces-i-MarchSeaHarpers1B.jpg"/>
 <lb/>
 <lg>
 <l><hi rend="smallcaps">Not</hi> <name ref="https://mel-catalog.herokuapp.com/api/entries/place:484" type="place">Kenesaw</name> high-arching,</l>
@@ -45,6 +46,7 @@
 <l rend="10em">It was glorious glad marching,</l>
 <l rend="10em">That marching to the sea.</l>
 </lg>
+<lb/>
 <lg>
 <l>They brushed the foe before them</l>
 <l rend="2em">(Shall gnats impede the bull?);</l>
@@ -59,6 +61,7 @@
 <l rend="10em">It was glorious glad marching,</l>
 <l rend="10em">A marching glad and free.</l>
 </lg>
+<lb/>
 <lg>
 <l n="25"><ref target="#ref_21148">Kilpatrick</ref>&apos;s snare of riders<note xml:id="ref_21148">Union General Hugh Judson Kilpatrick repelled a Confederate attack at Milledgeville, then the capital of Georgia (“Scorched Earth,” www.civilwar.org).</note></l>
 <l rend="2em">In zigzags mazed the land,</l>
@@ -70,10 +73,11 @@
 <l rend="8em">No foeman knew the key;</l>
 <l rend="6em">But onward went the marching</l>
 <l rend="8em"><ref target="#BP_RNnote1">Unpausing</ref> to the sea:<note xml:id="BP_RNnote1">In Copy A of <hi rend="italic">Battle-Pieces</hi>, Melville used pencil to add a dash after "marching" at the end of the preceding line and deleted "Unpausing." In the left margin, he inscribed "Right onward," an incremental repetition of "But onward" in the preceding line. In addition, Melville inscribed only three tentative revisions in Copy A: this one (on page 129) and one each in "The March into Virginia" (p. 23) and "Lyon" (p. 27). On the verso of the front flyleaf of Copy A, Melville also listed two numbers (27 and 129), which correspond to two of the three pages with revisions. The tentative revision of "Unpausing" to "Right onward" appears on page 129. See "Lyon" for the second listed revision on page 27. The tentative revision in "The March into Virginia" on page 23 is omitted from the list. The editors of the NN <hi rend="italic">Published Poems</hi> argue that the appearance of the two page numbers on the front flyleaf indicates Melville's final intention to approve the revisions on pages 27 and 129. See "shame" in "The March into Virginia" for an alternative theory regarding the non-appearance of "23" in the list.
-</note> <pb facs="/images/battle-pieces-v1/battle-pieces-i-004.jpg"/></l>
+</note> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0004.jpg"/></l>
 <l n="35" rend="10em">It was glorious glad marching,</l>
 <l rend="10em">The swinging step was free.</l>
 </lg>
+<lb/>
 <lg>
 <l>The flankers ranged like pigeons</l>
 <l rend="2em">In clouds through field or wood; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0138.jpg"/></l>
@@ -88,6 +92,7 @@
 <l rend="10em">It was glorious glad marching,</l>
 <l rend="10em">A marching bold and free.</l>
 </lg>
+<lb/>
 <lg>
 <l>All nature felt their coming,</l>
 <l n="50" rend="2em">The birds like couriers flew,</l>
@@ -100,9 +105,9 @@
 <l rend="6em">Plumed fighters and campaigners</l>
 <l rend="8em">In that marching to the sea:</l>
 <l rend="10em">It was glorious glad marching,</l>
-<l n="60" rend="10em">For every man was free. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0139.jpg"/>
-</l>
+<l n="60" rend="10em">For every man was free. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0139.jpg"/></l>
 </lg>
+<lb/>
 <lg>
 <l>The foragers through calm lands</l>
 <l rend="2em">Swept in tempest gay,</l>
@@ -118,6 +123,7 @@
 <l rend="10em">It was glorious glad marching,</l>
 <l rend="10em">That marching to the sea.</l>
 </lg>
+<lb/>
 <lg>
 <l>The grain of endless acres</l>
 <l rend="2em">Was threshed (as in the East)</l>
@@ -133,6 +139,7 @@
 <l rend="10em">But ah, the stern decree! <pb facs="/images/battle-pieces-v1/battle-pieces-i-0140.jpg"/>
 </l>
 </lg>
+<lb/>
 <lg>
 <l n="85">For behind they left a wailing,</l>
 <l rend="2em">A terror and a ban,</l>
