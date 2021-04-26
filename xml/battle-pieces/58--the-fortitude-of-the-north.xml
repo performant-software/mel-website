@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>56 - The Fortitude of the North</title>
+			<title>56 - The Fortitude of the North*</title>
     	</titleStmt>
 			<publicationStmt>
 
@@ -31,7 +31,7 @@
 -->
 <lb/>
 <lg>
-<l><hi rend="smallcaps">They</hi> take no shame for dark defeat</l>
+<l><ref target="#EDnoteFortitudeRN1"><hi rend="smallcaps">They</hi> take no shame</ref><note xml:id="EDnoteFortitudeRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to create a wavy line around and between "They take" and "no shame" to indicate a transposition of these words to give "No shame they take," a syntactical inversion typical in traditional balladic verse and common in Melville's style. Melville makes a similar transposition in "On a natural Monument," in which "They choked in horror" is revised to "In horror they choked." Another example is found in "The Scout toward Aldie," with "They leave the road" becoming "The road they leave." The editors of the NN <hi rend="italic">Published Poems</hi> emend their reading text by enacting these transpositions on behalf of Melville. However, in keeping with our protocol of not mixing versions of a work, MEL does not emend, but notes Melville's changes through revision annotation.</note> for dark defeat <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0177.jpg"/></l>
 <l rend="2em">While prizing yet each victory won,</l>
 <l>Who fight for the Right through all retreat,</l>
 <!--

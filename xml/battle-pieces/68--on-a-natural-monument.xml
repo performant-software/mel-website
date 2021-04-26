@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>66 - On a natural Monument</title>
+			<title>66 - On a natural Monument*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -47,7 +47,7 @@
 <l>But withering famine slowly wore,</l>
 <l n="10" rend="2em">And slowly fell disease did gloat.</l>
 <l>Even Nature&apos;s self did aid deny;</l>
-<l>They choked in horror the pensive sigh.</l>
+<l><ref target="#EDnoteNaturalMonumentRN1">They choked in horror</ref><note xml:id="EDnoteNaturalMonumentRN1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville used pencil to create a wavy line around and between "They choked" and "in horror" to indicate a transposition of these words to give "In horror they choked," a typical inversion in Melville's style. The editors of the NN <hi rend="italic">Published Poems</hi> emend their reading text by enacting this transposition on behalf of Melville. (See also a similar emendation in "The Fortitude of the North" and two instances in "The Scout toward Aldie.") However, in keeping with our protocol of not mixing versions of a work, MEL does not emend, but notes Melville's changes through revision annotation.</note> the pensive sigh. <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0188.jpg"/></l>
 <l rend="2em">Yea, off from home sad Memory bore</l>
 <l>(Though anguished Yearning heaved that way),</l>
 <!--
@@ -83,7 +83,7 @@
 <l>Which they might hear. To these who rest,</l>
 <l rend="2em">This healing sleep alone was sure.</l>
 </lg>
-
+<lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0261.jpg"/>
 <p xml:id="BP_noteU">[Melville's] <hi rend="smallcaps">Note</hi> U, <hi rend="italic">page</hi> 178.<lb/> Written prior to the founding of the National Cemetery at Andersonville, where 15,000 of the reinterred captives now sleep, each beneath his personal head-board, inscribed from records found in the prison-hospital. Some hundreds rest apart and without name. A glance at the published pamphlet containing <pb facs="/images/battle-pieces-v1/battle-pieces-i-0262.jpg"/> the list of the buried at Andersonville conveys a feeling mournfully impressive. Seventy-four large double-columned pages in fine print. Looking through them is like getting lost among the old turbaned head-stones and cypresses in the interminable Black Forest of Scutari, over against Constantinople.
 </p>

@@ -3,7 +3,7 @@
 		<teiHeader>
 		<fileDesc>
 			<titleStmt>
-			<title>71 - Lee in the Capitol</title>
+			<title>71 - Lee in the Capitol*</title>
 		</titleStmt>
 			<publicationStmt>
 
@@ -186,7 +186,7 @@
 <l n="130">Nay, and would more; would blend anew,</l>
 <l>As the bones of the slain in her forests do,</l>
 <l>Bewailed alike by us and you.</l>
-<l rend="2em">A voice comes out from these charnel-fields,</l>
+<l rend="2em">A voice comes out from <ref target="#EDnoteLeeCapitolRN1">these</ref><note xml:id="EDnoteLeeCapitolRN1">In Copy C, Melville used pencil to strike through the "e" in "these" and inscribed a slash and the letter "o" in the left margin to indicate a change to "those charnel-fields." The effect is put distance between the "now" of Lee's speech and his image of the mingling bones of the dead in the "then" of the past war. The editors of the NN <hi rend="italic">Published Poems</hi> emend their reading text to reflect the change, assuming perhaps that it is a correction. MEL, however, considers the option that the change is the result of Melville's second thinking, hence, a revision. Given MEL's protocol of not mixing versions, we do not emend the reading text but register the change through revision annotation.</note> charnel-fields, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0244.jpg"/></l>
 <l>A plaintive yet unheeded one:</l>
 <l n="135">&apos;<hi rend="italic">Died all in vain? both sides undone?</hi>  &apos;</l>
 <l>Push not your triumph; do not urge</l>
@@ -205,7 +205,7 @@
 <l>And broad anathema you&apos;ll recall.</l>
 <l n="150">The censor&apos;s charge I&apos;ll not repeat,</l>
 <l>That meddlers kindled the war&apos;s white heat—</l>
-<l>Vain intermeddlers and malign,</l>
+<l>Vain intermeddlers <ref target="#EDnoteLeeCapitolRN2">and</ref><note xml:id="EDnoteLeeCapitolRN2">In Copy C, Melville underlined "and" in pencil and inscribed "or" and a slash in the right margin to indicate a revision to "or malign." The effect of the revision would be to distinguish rather than lump together "vain intermeddlers" (who meddle without good reason) and "malign" sorts (whose meddling is intentional and negative).</note> malign, <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0245.jpg"/></l>
 <l>Both of the palm and of the pine;</l>
 <l>I waive the thought—which never can be rife—</l>
 <l n="155">Common&apos;s the crime in every civil strife:</l>
@@ -253,7 +253,7 @@
 <l>Unless you do what even kings have done</l>
 <l>In leniency—unless you shun</l>
 <l>To copy Europe in her worst estate—</l>
-<l n="200">Avoid the tyranny you reprobate.&quot;</l>
+<l n="200"><ref target="#EDnoteLeeCapitolRN3">Avoid the tyranny you reprobate</ref><note xml:id="EDnoteLeeCapitolRN3">In Copy C, Melville used pencil to place a slash to the right of this line and in the top margin inscribed "Forbear to wreak the ill you reprobate." In doing so, Melville moderates his characterization of Lee's argument concerning Federal punishment of the South. Rather than implying that the government would be verging on the kind of tyrannic behavior that they would otherwise "reprobate" (consider reprehensible), he cautions against a more generalized (though no less reprehensible) wreaking of "ill."</note>.&quot; <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0247.jpg"/></l>
 </lg>
 <lg>
 <l>He ceased. His earnestness unforeseen</l>
