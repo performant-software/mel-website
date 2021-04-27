@@ -17,14 +17,15 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="Notes">
+			<body>
+				<div xml:id="Notes">
 
 <p>[Editors' Note: In <hi rend="italic">Battle-Pieces</hi>, Melville assigned letters rather than numbers as references for each of his 24 annotations and grouped them together as endnotes in a "Notes" section appearing at the end of the book, just before his "Supplement." For convenience, MEL has converted Melville's notes to footnotes and placed them at the ends of the relevant poems. Rather than duplicating the endnotes in the link to Notes in MEL's interactive Table of Contents, we have  provided here instead a list of the lettered note references, page images representing the Notes section, and the titles of the poems to which they are linked, where readers can find full transcriptions of the endnotes themselves.]
 </p>
 <p>
 <div type="hm_notes">
 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
-<p xml:id="BP_noteA">[Melville's] <hi rend="smallcaps">Note a</hi>, "The Conflict of Convictions" 
+<p xml:id="BP_noteA"><hi rend="smallcaps">Note a</hi>, "The Conflict of Convictions" 
 </p>
 </div>
 			</div></body>
