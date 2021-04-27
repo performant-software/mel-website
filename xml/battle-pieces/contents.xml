@@ -143,7 +143,9 @@
   <p xml:id="BP_noteA">
   <hi rend="smallcaps">Note a</hi>, "The Conflict of Convictions" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
   </p>
-  <p xml:id="BP_noteB"><hi rend="smallcaps">Note b</hi> "The Stone Fleet" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/> </p>
+  <p xml:id="BP_noteB"><hi rend="smallcaps">Note b</hi>, "The Stone Fleet"</p>
+  <p xml:id="hm_note14c"><hi rend="smallcaps">Note c</hi>, "The Temeraire" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/></p>
+  <p xml:id="hm_note14d"><hi rend="smallcaps">Note d</hi>, "The Temeraire"</p>
 </div>
 
 </div>
