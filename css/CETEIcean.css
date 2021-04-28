@@ -764,6 +764,11 @@ tei-kinesic {
   /* Empty Rule Set */
 }
 /* l */
+tei-item {
+    display: block;
+    width: 35em;
+    font-style: italic;
+}
 tei-l {
   display: block;
   width: 35em;

@@ -23,11 +23,38 @@
 <p>[Editors' Note: In <hi rend="italic">Battle-Pieces</hi>, Melville assigned letters rather than numbers as references for each of his 24 annotations and grouped them together as endnotes in a "Notes" section appearing at the end of the book, just before his "Supplement." For convenience, MEL has converted Melville's notes to footnotes and placed them at the ends of the relevant poems. Rather than duplicating the endnotes in the link to Notes in MEL's interactive Table of Contents, we have  provided here instead a list of the lettered note references, page images representing the Notes section, and the titles of the poems to which they are linked, where readers can find full transcriptions of the endnotes themselves.]
 </p>
 
-<div type="hm_notes">
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
-<p xml:id="BP_noteA"><hi rend="smallcaps">Note a</hi>, "The Conflict of Convictions" 
-</p>
-</div>
+					<div type="hm_notes">
+						
+						<p xml:id="BP_notes">[Editors' Note: In <hi rend="italic">Battle-Pieces</hi>, Melville assigned letters rather than numbers as references for each of his 24 annotations and grouped them together as endnotes in a "Notes" section appearing at the end of the book, just before his "Supplement." For convenience, MEL has converted Melville's notes to footnotes and placed them at the ends of their corresponding poems. Rather than duplicating the endnotes in the link to Notes in MEL's interactive Table of Contents, we have  provided here instead a list of the lettered note references, page images representing the Notes section, and the titles of the poems to which they are linked, where readers can find full transcriptions of the endnotes themselves.]
+						</p>
+						<p xml:id="BP_noteA">
+							<hi rend="smallcaps">Note a</hi>, "The Conflict of Convictions" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
+						</p>
+						<p xml:id="BP_noteB"><hi rend="smallcaps">Note b</hi>, "The Stone Fleet"</p>
+						<p xml:id="hm_note14c"><hi rend="smallcaps">Note c</hi>, "The Temeraire" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/></p>
+						<p xml:id="hm_note14d"><hi rend="smallcaps">Note d</hi>, "The Temeraire"</p>
+						<p xml:id="BP_noteE"><hi rend="smallcaps">Note e</hi>, "The Victor of Antietam"</p>
+						<p xml:id="BP_noteF"><hi rend="smallcaps">Note f</hi>, "The Victor of Antietam"</p>
+						<p xml:id="BP_noteG"><hi rend="smallcaps">Note g</hi>, "Running the Batteries" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0257.jpg"/></p>
+						<p xml:id="BP_noteH"><hi rend="smallcaps">Note h</hi>, "Gettysburg"</p>
+						<p xml:id="BP_noteI"><hi rend="smallcaps">Note i</hi>, "The House-top"</p>
+						<p xml:id="BP_noteJ"><hi rend="smallcaps">Note j</hi>, "Chattanooga" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0258.jpg"/></p>
+						<p xml:id="BP_noteK"><hi rend="smallcaps">Note k</hi>, "The Swamp Angel"</p>
+						<p xml:id="BP_noteL"><hi rend="smallcaps">Note l</hi>, "The Eagle of the Blue"</p>
+						<p xml:id="BP_noteM"><hi rend="smallcaps">Note m</hi>, "A Dirge for MacPherson"</p>
+						<p xml:id="BP_noteN"><hi rend="smallcaps">Note n</hi>, "The Frenzy in the Wake" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0259.jpg"/></p>
+						<p xml:id="BP_noteO"><hi rend="smallcaps">Note o</hi>, "The Martyr" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0260.jpg"/></p>
+						<p xml:id="BP_noteP"><hi rend="smallcaps">Note p</hi>, "Rebel Color-bearers at Shiloh"</p>
+						<p xml:id="BP_noteQ"><hi rend="smallcaps">Note q</hi>, "The Muster"</p>
+						<p xml:id="BP_noteR"><hi rend="smallcaps">Note r</hi>, "The Released Rebel Prisoner" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0261.jpg"/></p>
+						<p xml:id="BP_noteS"><hi rend="smallcaps">Note s</hi>, "A Grave near Petersberg, Virginia"</p>
+						<p xml:id="BP_noteT"><hi rend="smallcaps">Note t</hi>, "On the Slain Collegians"</p>
+						<p xml:id="BP_noteU"><hi rend="smallcaps">Note u</hi>, "On a natural Monument"</p>
+						<p xml:id="BP_noteV"><hi rend="smallcaps">Note v</hi>, "The Scout toward Aldie" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0262.jpg"/></p>
+						<p xml:id="BP_noteW"><hi rend="smallcaps">Note w</hi>, "The Scout toward Aldie"</p>
+						<p xml:id="BP_noteX"><hi rend="smallcaps">Note x</hi>, "Lee in the Capitol" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0263.jpg"/></p>
+						
+					</div>
 			</div></body>
 		</text>
 	</TEI>
