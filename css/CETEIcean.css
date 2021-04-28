@@ -766,7 +766,6 @@ tei-kinesic {
 /* l */
 tei-item {
     display: block;
-    width: 2em;
     font-style: italic;
 }
 tei-item[rend="2em"] {
