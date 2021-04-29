@@ -1,249 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Contents</title>
-         </titleStmt>
-         <publicationStmt>
-            <p>Publication Information</p>
-         </publicationStmt>
-         <sourceDesc>
-            <p>Information about the source</p>
-         </sourceDesc>
-      </fileDesc>
+    <fileDesc>
+      <titleStmt>
+        <title>Contents</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
   </teiHeader>
   <text>
-      <body>
-<div xml:id="contents">
-  <lb/>
-  <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
-  <lb/>
-<head type="main" rend="center"><ref target="#EDnoteContentsRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref>
-<note xml:id="EDnoteContentsRN1">The original Contents pages for <hi rend="italic">Battle-Pieces</hi>, transcribed here, varies (in only minor instances of punctuation, capitalization, and the dropping of the word "Tennessee" in poem 9) from the titles appearing at the heads of eight poems. In revising his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A), and probably after his revisions in his copy of bound sheets (Copy C), Melville put check marks next to three poems in the table of contents: "The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay."" The three checked poems themselves do not show evidence of revisions. For the table of contents in their edition of <hi rend="italic">Battle-Pieces</hi>, the NN editors emended the Contents titles to match those at the heads of poems. However, MEL transcribes the Contents titles as they appear in the original. Because MEL's digital table of contents is a set of links to the poems themselves, MEL's list of contents is not an exact simulation of the first edition Contents page found here: MEL assigns numbers to each of the 72 poems, provides shortened titles in some cases, and removes the original page numbers. In MEL's TOC, the treatment of Melville's "Notes" section is also different. Originally, Melville grouped his 24 annotations together as endnotes in a "Notes" section appearing just before his "Supplement." MEL has converted Melville's notes to footnotes appearing individually at the end of each relevant poem. While MEL's interactive Table of Contents includes "Notes," that link offers page images of the Notes and references to the poems each note is attached to, where readers will find full transcriptions of the notes (as well as page images).
-</note>
-</head>
-<lb/>
-<list>
-	<item><ref target="#EDnoteContentsRN2">[The Portent]</ref><note xml:id="EDnoteContentsRN2">REVISION NARRATIVE: "The Portent" does not appear in the original <hi rend="italic">Battle-Pieces</hi> table of contents. One theory is that, since the poem (unlike all other "battle-pieces") appears entirely in italic on the recto of the first page of poetry with a blank verso, Melville may have seen "The Portent" as a kind of prelude to the volume. The fact that the poem's prophetic content and focus on the pre-war events involving John Brown supports this view but does not explain why it is not listed. A more likely possibility is that Melville added "The Portent" to his collection after the table of Contents had been set in type.
-</note></item>
-<item>Misgivings [13]</item>
-<item>The Conflict of Convictions [14]</item>
-<item>Apathy and Enthusiasm [19]</item>
-<item>The March into Virginia [22]</item>
-<item>Lyon [24]</item>
-<item>Ball's Bluff [28]</item>
-<item>Dupont's Round Fight [30]</item>
-<item>The Stone Fleet [31]</item>
-<item>Donelson [33]</item>
-<item>The Cumberland [53]</item>
-<item>In the Turret [55]</item>
-<item>The Temeraire [58]</item>
-<item>A utilitarian View of the Monitor's Fight [61]</item>
-<item>Shiloh [63]</item>
-<item>The Battle for the Mississippi <ref target="#EDnoteContentsRN3">[64]</ref><note xml:id="EDnoteContentsRN3">Melville placed a check mark next to this page number.</note></item>
-<item>Malvern Hill [67]</item>
-<item>The Victor of Antietam [69]</item>
-<item>Battle of Stone River [73]</item>
-<item>Running the Batteries <ref target="#EDnoteContentsRN4">[75]</ref><note xml:id="EDnoteContentsRN4">Melville placed a check mark next to this page number.</note></item>
+    <body>
+      <div xml:id="contents">
+        <lb/>
+        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
+        <lb/>
+        <head type="main" rend="center"><ref target="#EDnoteContentsRN1"><hi rend="smallcaps"><hi rend="italic">Contents</hi></hi>.</ref>
+          <note xml:id="EDnoteContentsRN1">The original Contents pages for <hi rend="italic">Battle-Pieces</hi>, transcribed here, varies (in only minor instances of punctuation, capitalization, and the dropping of the word "Tennessee" in poem 9) from the titles appearing at the heads of eight poems. In revising his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A), and probably after his revisions in his copy of bound sheets (Copy C), Melville put check marks next to three poems in the table of contents: "The Battle for the Mississippi," "Running the Batteries," and "The Battle for the Bay."" The three checked poems themselves do not show evidence of revisions. For the table of contents in their edition of <hi rend="italic">Battle-Pieces</hi>, the NN editors emended the Contents titles to match those at the heads of poems. However, MEL transcribes the Contents titles as they appear in the original. Because MEL's digital table of contents is a set of links to the poems themselves, MEL's list of contents is not an exact simulation of the first edition Contents page found here: MEL assigns numbers to each of the 72 poems, provides shortened titles in some cases, and removes the original page numbers. In MEL's TOC, the treatment of Melville's "Notes" section is also different. Originally, Melville grouped his 24 annotations together as endnotes in a "Notes" section appearing just before his "Supplement." MEL has converted Melville's notes to footnotes appearing individually at the end of each relevant poem. While MEL's interactive Table of Contents includes "Notes," that link offers page images of the Notes and references to the poems each note is attached to, where readers will find full transcriptions of the notes (as well as page images).
+          </note>
+        </head>
+        <lb/>
+        <list>
+          <item><ref target="#EDnoteContentsRN2">[The Portent]</ref><note xml:id="EDnoteContentsRN2">REVISION NARRATIVE: "The Portent" does not appear in the original <hi rend="italic">Battle-Pieces</hi> table of contents. One theory is that, since the poem (unlike all other "battle-pieces") appears entirely in italic on the recto of the first page of poetry with a blank verso, Melville may have seen "The Portent" as a kind of prelude to the volume. The fact that the poem's prophetic content and focus on the pre-war events involving John Brown supports this view but does not explain why it is not listed. A more likely possibility is that Melville added "The Portent" to his collection after the table of Contents had been set in type.
+          </note></item>
+          <item>Misgivings [13]</item>
+          <item>The Conflict of Convictions [14]</item>
+          <item>Apathy and Enthusiasm [19]</item>
+          <item>The March into Virginia [22]</item>
+          <item>Lyon [24]</item>
+          <item>Ball's Bluff [28]</item>
+          <item>Dupont's Round Fight [30]</item>
+          <item>The Stone Fleet [31]</item>
+          <item>Donelson [33]</item>
+          <item>The Cumberland [53]</item>
+          <item>In the Turret [55]</item>
+          <item>The Temeraire [58]</item>
+          <item>A utilitarian View of the Monitor's Fight [61]</item>
+          <item>Shiloh [63]</item>
+          <item>The Battle for the Mississippi <ref target="#EDnoteContentsRN3">[64]</ref><note xml:id="EDnoteContentsRN3">Melville placed a check mark next to this page number.</note></item>
+          <item>Malvern Hill [67]</item>
+          <item>The Victor of Antietam [69]</item>
+          <item>Battle of Stone River [73]</item>
+          <item>Running the Batteries <ref target="#EDnoteContentsRN4">[75]</ref><note xml:id="EDnoteContentsRN4">Melville placed a check mark next to this page number.</note></item>
 
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0016.jpg"/>
-<<<<<<< HEAD
-<lg>
-<hi rend="italic">
-	<l>Stonewall Jackson [79]</l>
-	<l>Stonewall Jackson (ascribed to a Virginian) [81]</l>
-	<l>Gettysburg [84]</l>
-	<l>The House-top [86]</l>
-	<l>Look-out Mountain [88]</l>
-	<l>Chattanooga [90]</l>
-	<l>The Armies of the Wilderness [93]</l>
-	<l>On the Photograph of a Corps Commander [105]</l>
-	<l>The Swamp Angel [107]</l>
-	<l>The Battle for the Bay <ref target="#EDnoteContentsRN5">[110]</ref><note xml:id="EDnoteContentsRN5">Melville placed a check mark next to this page number.</note></l>
-	<l>Sheridan at Cedar Creek [116]</l>
-	<l>In the Prison Pen [118]</l>
-	<l>The College Colonel [120]</l>
-	<l>The Eagle of the Blue [122]</l>
-	<l>A Dirge for McPherson [124]</l>
-	<l>At the Cannon's Mouth [126]</l>
-	<l>The March to the Sea [128]</l>
-	<l>The Frenzy in the Wake [133]</l>
-	<l>The Fall of Richmond [135]</l>
-	<l>The Surrender at Appomattox [137]</l>
-	<l>A Canticle [138]</l>
-	<l>The Martyr [141]</l>
-	<l>"The Coming Storm" [143]</l>
-	<l>Rebel Color-bearers at Shiloh [144]</l>
-</hi>
-</lg>
-=======
+          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0016.jpg"/>
 
-	<item>Stonewall Jackson [79]</item>
-	<item>Stonewall Jackson (ascribed to a Virginian) [81]</item>
-	<item>Gettysburg [84]</item>
-	<item>The House-Top [86]</item>
-	<item>Look-out Mountain [88]</item>
-	<item>Chattanooga [90]</item>
-	<item>The Armies of the Wilderness [93]</item>
-	<item>On the Photograph of a Corps Commander [105]</item>
-	<item>The Swamp Angel [107]</item>
-	<item>The Battle for the Bay <ref target="#EDnoteContentsRN5">[110]</ref><note xml:id="EDnoteContentsRN5">Melville placed a check mark next to this page number.</note></item>
-	<item>Sheridan at Cedar Creek [116]</item>
-	<item>In the Prison Pen [118]</item>
-	<item>The College Colonel [120]</item>
-	<item>The Eagle of the Blue [122]</item>
-	<item>A Dirge for McPherson [124]</item>
-	<item>At the Cannon's Mouth [126]</item>
-	<item>The March to the Sea [128]</item>
-	<item>The Frenzy in the Wake [133]</item>
-	<item>The Fall of Richmond [135]</item>
-	<item>The Surrender at Appomattox [137]</item>
-	<item>A Canticle [138]</item>
-	<item>The Martyr [141]</item>
-	<item>"The Coming Storm" [143]</item>
-	<item>Rebel Color-bearers at Shiloh [144]</item>
+          <item>Stonewall Jackson [79]</item>
+          <item>Stonewall Jackson (ascribed to a Virginian) [81]</item>
+          <item>Gettysburg [84]</item>
+          <item>The House-Top [86]</item>
+          <item>Look-out Mountain [88]</item>
+          <item>Chattanooga [90]</item>
+          <item>The Armies of the Wilderness [93]</item>
+          <item>On the Photograph of a Corps Commander [105]</item>
+          <item>The Swamp Angel [107]</item>
+          <item>The Battle for the Bay <ref target="#EDnoteContentsRN5">[110]</ref><note xml:id="EDnoteContentsRN5">Melville placed a check mark next to this page number.</note></item>
+          <item>Sheridan at Cedar Creek [116]</item>
+          <item>In the Prison Pen [118]</item>
+          <item>The College Colonel [120]</item>
+          <item>The Eagle of the Blue [122]</item>
+          <item>A Dirge for McPherson [124]</item>
+          <item>At the Cannon's Mouth [126]</item>
+          <item>The March to the Sea [128]</item>
+          <item>The Frenzy in the Wake [133]</item>
+          <item>The Fall of Richmond [135]</item>
+          <item>The Surrender at Appomattox [137]</item>
+          <item>A Canticle [138]</item>
+          <item>The Martyr [141]</item>
+          <item>"The Coming Storm" [143]</item>
+          <item>Rebel Color-bearers at Shiloh [144]</item>
 
 
->>>>>>> 0a5889d2ec511c78fca6f087fe87ab8226287021
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0017.jpg"/>
+          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0017.jpg"/>
 
-	<item>The Muster [146]</item>
-	<item>Aurora Borealis [148]</item>
-	<item>The released Rebel Prisoner [150]</item>
-  <item>A Grave near Petersberg, Virginia [153]</item>
-	<item>"Formerly a Slave" [154]</item>
-	<item>The Apparition [155]</item>
-	<item>Magnanimity Baffled [156]</item>
-	<item>On the Slain Collegians [157]</item>
-	<item>America [160]</item>
-
-
-		<item rend="2em">VERSES INSCRIPTIVE AND MEMORIAL.</item><lb/>
-	<item>On the Home Guards who perished in the</item>
-		<item rend="2em">Defense of Lexington, Missouri [165]</item>
-	<item>Inscription for Graves at Pea Ridge,</item>
-	<item rend="2em">Arkansas [166]</item>
-	<item>The Fortitude of the North under the</item>
-		<item rend="2em">Disaster of the Second Manassas [167]</item>
-	<item>On the Men of Maine killed in the Vic-</item>
-	<item rend="2em">tory of Baton Rouge, Louisiana [168]</item>
-	<item>An Epitaph [169]</item>
-	<item>Inscription for Marye's Heights, Freder-</item>
-	<item rend="2em">icksberg [170]</item>
-	<item>The Mound by the Lake [171]</item>
-	<item>On the Slain at Chickamauga [172]</item>
+          <item>The Muster [146]</item>
+          <item>Aurora Borealis [148]</item>
+          <item>The released Rebel Prisoner [150]</item>
+          <item>A Grave near Petersberg, Virginia [153]</item>
+          <item>"Formerly a Slave" [154]</item>
+          <item>The Apparition [155]</item>
+          <item>Magnanimity Baffled [156]</item>
+          <item>On the Slain Collegians [157]</item>
+          <item>America [160]</item>
 
 
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-0018.jpg"/>
+          <item rend="2em">VERSES INSCRIPTIVE AND MEMORIAL.</item><lb/>
+          <item>On the Home Guards who perished in the</item>
+          <item rend="2em">Defense of Lexington, Missouri [165]</item>
+          <item>Inscription for Graves at Pea Ridge,</item>
+          <item rend="2em">Arkansas [166]</item>
+          <item>The Fortitude of the North under the</item>
+          <item rend="2em">Disaster of the Second Manassas [167]</item>
+          <item>On the Men of Maine killed in the Vic-</item>
+          <item rend="2em">tory of Baton Rouge, Louisiana [168]</item>
+          <item>An Epitaph [169]</item>
+          <item>Inscription for Marye's Heights, Freder-</item>
+          <item rend="2em">icksberg [170]</item>
+          <item>The Mound by the Lake [171]</item>
+          <item>On the Slain at Chickamauga [172]</item>
 
-	<item>An uninscribed Monument on one of the</item>
-  <item rend="2em"> Battle-fields of the Wilderness [173]</item>
-	<item>On Sherman's Men who fell in the Assault</item>
-		<item rend="2em">of Kenesaw Mountain, Georgia [174]</item>
-	<item>On the Grave of a young Cavalry Officer</item>
-	<item rend="2em">killed in the Valley of Virginia [175]</item>
-	<item>A Requiem for Soldiers lost in Ocean</item>
-	<item rend="2em">Transports [176]</item>
-	<item>On a natural Monument in a Field of</item>
-	<item rend="2em">Georgia [178]</item>
-	<item>Commemorative of a Naval Victory [180]</item>
-	<item>Presentation to the Authorities by Privates</item>
-	<item rend="2em">of Colors captured in Battles ending in</item>
-	<item rend="2em">the Surrender of Lee [182]</item>
-	<item>The returned Volunteer to his Rifle [183]</item>
-	<item><hi rend="smallcaps">The Scout toward Aldie [187]</hi></item>
-	<item>Lee in the Capitol [217]</item>
-	<item>A Meditation [239]</item>
-	<item><ref target="#EDnoteContentsRN6"><hi rend="smallcaps">Notes</hi></ref><note xml:id="EDnoteContentsRN6">MEL's treatment of Melville's endnotes is explained in the Contents note above.</note> [245]</item>
-	<item><hi rend="smallcaps">Supplement</hi> [259]</item>
 
-</list>
+          <pb facs="/images/battle-pieces-v1/battle-pieces-i-0018.jpg"/>
+
+          <item>An uninscribed Monument on one of the</item>
+          <item rend="2em"> Battle-fields of the Wilderness [173]</item>
+          <item>On Sherman's Men who fell in the Assault</item>
+          <item rend="2em">of Kenesaw Mountain, Georgia [174]</item>
+          <item>On the Grave of a young Cavalry Officer</item>
+          <item rend="2em">killed in the Valley of Virginia [175]</item>
+          <item>A Requiem for Soldiers lost in Ocean</item>
+          <item rend="2em">Transports [176]</item>
+          <item>On a natural Monument in a Field of</item>
+          <item rend="2em">Georgia [178]</item>
+          <item>Commemorative of a Naval Victory [180]</item>
+          <item>Presentation to the Authorities by Privates</item>
+          <item rend="2em">of Colors captured in Battles ending in</item>
+          <item rend="2em">the Surrender of Lee [182]</item>
+          <item>The returned Volunteer to his Rifle [183]</item>
+          <item><hi rend="smallcaps">The Scout toward Aldie [187]</hi></item>
+          <item>Lee in the Capitol [217]</item>
+          <item>A Meditation [239]</item>
+          <item><ref target="#EDnoteContentsRN6"><hi rend="smallcaps">Notes</hi></ref><note xml:id="EDnoteContentsRN6">MEL's treatment of Melville's endnotes is explained in the Contents note above.</note> [245]</item>
+          <item><hi rend="smallcaps">Supplement</hi> [259]</item>
+
+        </list>
 
 
 
-</div>
-</body>
-</text>
+      </div>
+    </body>
+  </text>
 </TEI>
-
-<!--
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-					<list type="contents">
-             <item>The Portent</item>
-          <item>Misgivings</item>
-          <item>The Conflict of Convictions</item>
-          <item>Apathy and Enthusiasm</item>
-          <item>The March into Virginia</item>
-          <item>Lyon</item>
-          <item>Ball's Bluff</item>
-          <item>Dupont's Round Fight</item>
-          <item>The Stone Fleet</item>
-          <item>Donelson</item>
-          <item>The Cumberland</item>
-          <item>In the Turret</item>
-          <item>The Temeraire</item>
-          <item>A Utilitarian View of the Monitor's Fight</item>
-          <item>Shiloh</item>
-          <item>The Battle for the Mississippi</item>
-         <item>Malvern Hill</item>
-          <item>The Victor of Antietam</item>
-          <item>Battle of Stone River, Tennessee</item>
-          <item>Running the Batteries</item>
-          <item>Stonewall Jackson</item>
-          <item>Stonewall Jackson. Ascribed to a Virginian</item>
-          <item>Gettysburg</item>
-          <item>The House-Top</item>
-          <item>Look-out Mountain</item>
-          <item>Chattanooga</item>
-          <item>The Armies of the Wilderness</item>
-          <item>On the Photograph of a Corps Commander</item>
-          <item>The Swamp Angel</item>
-          <item>The Battle for the Bay</item>
-          <item>Sheridan at Cedar Creek</item>
-          <item>In the Prison Pen</item>
-          <item>The College Colonel</item>
-          <item>The Eagle of the Blue</item>
-          <item>A Dirge for McPherson</item>
-          <item>At the Cannon's Mouth</item>
-          <item>The March to the Sea</item>
-          <item>The Frenzy in the Wake</item>
-          <item>The Fall of Richmond</item>
-          <item>The Surrender at Appomattox</item>
-          <item>A Canticle</item>
-          <item>The Martyr</item>
-          <item>"The Coming Storm"</item>
-          <item>Rebel Color-bearers at Shiloh</item>
-          <item>The Muster</item>
-          <item>Aurora-Borealis</item>
-          <item>The Released Rebel Prisoner</item>
-         <item>A Grave near Petersberg, Virginia</item>
-          <item>"Formerly a Slave"</item>
-          <item>The Apparition</item>
-          <item>Magnanimity Baffled</item>
-          <item>On the Slain Collegians</item>
-          <item>America</item>
-          <item>On the Home Guards</item>
-          <item>Inscription</item>
-          <item>The Fortitude of the North</item>
-          <item>On the Men of Maine</item>
-          <item>An Epitaph</item>
-          <item>Inscription for Marye's Heights</item>
-          <item>The Mound by the Lake</item>
-          <item>On the Slain at Chickamauga</item>
-          <item>An uninscribed Monument</item>
-          <item>On Sherman's Men</item>
-          <item>On the Grave</item>
-          <item>A Requiem</item>
-          <item>On a natural Monument</item>
-          <item>Commemorative of a Naval Victory</item>
-          <item>Presentation to the Authorities</item>
-          <item>The Returned Volunteer to his Rifle</item>
-          <item>The Scout toward Aldie</item>
-          <item>Lee in the Capitol</item>
-          <item>A Meditation</item>
-          <item>Supplement</item>
-          </list>
--->
