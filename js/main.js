@@ -37,6 +37,7 @@ function initNotes() {
                     return note.innerHTML
                 },
                 allowHTML: true,
+                maxWidth: 500,
                 interactive: true,
                 theme: 'light-border'
             })
