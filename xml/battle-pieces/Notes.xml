@@ -49,6 +49,7 @@
 					<p xml:id="BP_noteV"><hi rend="smallcaps">Note v</hi>, "The Scout toward Aldie" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0262.jpg"/></p>
 					<p xml:id="BP_noteW"><hi rend="smallcaps">Note w</hi>, "The Scout toward Aldie"</p>
 					<p xml:id="BP_noteX"><hi rend="smallcaps">Note x</hi>, "Lee in the Capitol" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0263.jpg"/></p>
+<<<<<<< HEAD
 
 
 					<div type="hm_notes">
@@ -84,6 +85,8 @@
 
 					</div>
 
+=======
+>>>>>>> 2b092717fdc30d4b4961372b2ee2119a01fe7207
 			</div></body>
 		</text>
 	</TEI>
