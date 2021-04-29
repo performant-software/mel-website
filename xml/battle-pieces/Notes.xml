@@ -24,12 +24,13 @@
 	        <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
 	        <lb/>
 	        <head type="main" rend="center"><ref target="#EDnoteNotes1"><hi rend="smallcaps"><hi rend="italic">Notes</hi></hi>.</ref>
-	          <note xml:id="EDnoteNotesRN1">In <hi rend="italic">Battle-Pieces</hi>, Melville assigned letters rather than numbers as references for each of his 24 endnotes and grouped the annotations together in a "Notes" section appearing at the end of the book, just before his "Supplement." For convenience, MEL has converted Melville's endnotes to footnotes and placed them at the ends of their corresponding poems. Rather than duplicating the endnotes here in the link to Notes in MEL's interactive Table of Contents, we have  provided instead a list of the lettered note references, page images representing the Notes section, and the titles of the 21 poems to which they are linked, where readers can find full transcriptions of the endnotes themselves.
+	          <note xml:id="EDnoteNotes1">In <hi rend="italic">Battle-Pieces</hi>, Melville assigned letters rather than numbers as references for each of his 24 endnotes and grouped the annotations together in a "Notes" section appearing at the end of the book, just before his "Supplement." For convenience, MEL has converted Melville's endnotes to footnotes and placed them at the ends of their corresponding poems. Rather than duplicating the endnotes here in the link to Notes in MEL's interactive Table of Contents, we have  provided instead a list of the lettered note references, page images representing the Notes section, and the titles of the 21 poems to which they are linked, where readers can find full transcriptions of the endnotes themselves.
 	          </note>
 	        </head>
 	        <lb/>
 <div type="hm_notes">
-
+					<p xml:id="BP_notes">
+					</p>
 					<p xml:id="BP_noteA"><hi rend="smallcaps">Note a</hi>, "The Conflict of Convictions" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/></p>
 					<p xml:id="BP_noteB"><hi rend="smallcaps">Note b</hi>, "The Stone Fleet"</p>
 					<p xml:id="hm_note14c"><hi rend="smallcaps">Note c</hi>, "The Temeraire" <pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/></p>
