@@ -15,6 +15,7 @@
   </teiHeader>
   <text>
     <body>
+
       <div xml:id="contents">
         <lb/>
         <pb facs="/images/battle-pieces-v1/battle-pieces-i-0015.jpg"/>
@@ -53,7 +54,7 @@
           <item>Stonewall Jackson [79]</item>
           <item>Stonewall Jackson (ascribed to a Virginian) [81]</item>
           <item>Gettysburg [84]</item>
-          <item>The House-Top [86]</item>
+          <item>The House-top [86]</item>
           <item>Look-out Mountain [88]</item>
           <item>Chattanooga [90]</item>
           <item>The Armies of the Wilderness [93]</item>
@@ -81,15 +82,15 @@
           <item>The Muster [146]</item>
           <item>Aurora Borealis [148]</item>
           <item>The released Rebel Prisoner [150]</item>
-          <item>A Grave near Petersberg, Virginia [153]</item>
+          <item>A Grave near Petersburg, Virginia [153]</item>
           <item>"Formerly a Slave" [154]</item>
           <item>The Apparition [155]</item>
           <item>Magnanimity Baffled [156]</item>
           <item>On the Slain Collegians [157]</item>
           <item>America [160]</item>
 
-
-          <item rend="2em">VERSES INSCRIPTIVE AND MEMORIAL.</item><lb/>
+<lb/>
+          <item rend="2em">VERSES INSCRIPTIVE AND MEMORIAL.</item>
           <item>On the Home Guards who perished in the</item>
           <item rend="2em">Defense of Lexington, Missouri [165]</item>
           <item>Inscription for Graves at Pea Ridge,</item>
@@ -100,7 +101,7 @@
           <item rend="2em">tory of Baton Rouge, Louisiana [168]</item>
           <item>An Epitaph [169]</item>
           <item>Inscription for Marye's Heights, Freder-</item>
-          <item rend="2em">icksberg [170]</item>
+          <item rend="2em">icksburg [170]</item>
           <item>The Mound by the Lake [171]</item>
           <item>On the Slain at Chickamauga [172]</item>
 
