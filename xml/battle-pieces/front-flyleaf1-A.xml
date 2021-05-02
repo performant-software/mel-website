@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Front flyleaf 1 - Copy A</title>
+         </titleStmt>
+         <publicationStmt>
+
+            <publisher/>
+            <pubPlace/>
+            <date/>
+            <authority/>
+            <availability><p/></availability>
+         </publicationStmt>
+         <sourceDesc><p/></sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb facs="/images/battle-pieces-v1/battle-pieces-i-0004.jpg"/>
+         <p><ref target="#EDnoteFlyLeaf1CopyARN1">27 <lb/> 1129</ref>
+         <note xml:id="EDnoteFlyLeaf1CopyARN1">In his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A), Melville inscribed only three tentative revisions, all in pencil; they are found in "The March into Virginia" (p. 23), "Lyon" (page 27), and "The March to the Sea" (p. 129). On the verso of the front flyleaf of Copy A, Melville listed two numbers (27 and 129), which correspond to two of the three revisions. The editors of the NN <hi rend="italic">Published Poems</hi> argue that the appearance of these page numbers indicates Melville's final intention to approve these two listed tentative revisions only, and they emend their texts of these two poems to replace Melville's original wording with its revision and do not emend the wording on page 23 because that number is not listed on the flyleaf. For an alternative theory regarding the non-appearance of "23" in the list, see MEL's annotation of "Shame" in line 34 of "The March into Virginia." MEL protocol, based on principles of fluid-text editing discussed in John Bryant's <hi rend="italic">The Fluid Text</hi>, is to emend only to correct obvious typographical errors. To prevent the mixing of versions, MEL avoids emending in order to replace Melville's original wording with his revisions, which are, instead, highlighted and annotated through revision narratives.</note></p>
+      </body>
+  </text>
+</TEI>
