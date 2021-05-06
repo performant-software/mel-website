@@ -59,10 +59,10 @@ Melville’s British editor cut two sentences and revised a third, effectively r
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">
 
-<ref target="#ref_20846"><hi rend="italic">“]Grand Contested Election for the Presidency of the United States.</hi></ref>
+<ref target="#ref_20846"><hi rend="italic">“Grand Contested Election for the Presidency of the United States.</hi></ref>
 <note xml:id="ref_20846">Grand Contested Election for the Presidency . . . Bloody Battle in <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:58">Affghanistan</ref>: Ishmael imagines a theatrical performance in which his whaling voyage, a  minor occasion, is sandwiched between the staged re-enactment of two momentous historical events.  In 1848, Whig candidate Zachary Taylor lost the popular vote but won the presidency in the Electoral College because of a split between anti-slavery Free Soilers and the largely pro-slavery Democratic party. A revolt in 1841–42 against British colonial rule in Kabul, Afghanistan led to the destruction of a retreating British battalion; only one man survived.</note>
 <lb/>
-“WHALING VOYAGE BY ONE ISHMAEL.
+“<hi rend="smallcaps">whaling voyage by one ishmael.</hi>
 <lb/>
 “BLOODY  BATTLE  IN  <name ref="https://mel-catalog.herokuapp.com/api/entries/place:58" type="place">AFFGHANISTAN</name>.”
 
