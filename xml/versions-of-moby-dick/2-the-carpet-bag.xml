@@ -22,7 +22,9 @@
 	<text>
 		<body>
 			<div>
-				<p>CHAPTER 2 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/zoom_data7447987a-4e0e-4ff6-92fa-cae542a455ffMD_Amer_0044-4.jpg"/>
+				<p>CHAPTER 2
+					<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/zoom_data7447987a-4e0e-4ff6-92fa-cae542a455ffMD_Amer_0044-4.jpg"/>
+					<pb facs="/images/md-american/MD_Amer_0044.jpg"/>
 				<lb/>
 				THE CARPET-BAG</p>
 				<p>I STUFFED a shirt or two into my old carpet-bag, tucked it under my arm, and started for <ref target="#ref_15362"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:60" type="place">Cape Horn</name></ref><note xml:id="ref_15362"><ref target="https://mel-catalog.herokuapp.com/api/entries/place:60" type="reference">Cape Horn</ref>: southern tip of South America.</note> and the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:351" type="place">Pacific</name>. Quitting the good <name ref="https://mel-catalog.herokuapp.com/api/entries/place:43" type="place">city of old Manhatto</name>, I duly arrived in <ref target="#ref_15376">New Bedford</ref><note xml:id="ref_15376">New Bedford: Located on the Acushnet River in Massachusetts and founded by Nantucket Quakers in the whaling trade, <ref target="https://mel-catalog.herokuapp.com/api/entries/place:61" type="reference">New Bedford</ref>, was the world’s foremost whaling port in the early 19th century.</note>. It was on a Saturday night in December. Much was I disappointed upon learning that the little <ref target="#ref_15363">packet</ref><note xml:id="ref_15363">packet: mail and passenger vessel making scheduled trips between the same ports.</note> for <ref target="#ref_19397">Nantucket</ref>
