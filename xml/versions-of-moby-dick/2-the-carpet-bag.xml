@@ -10,9 +10,7 @@
 				<pubPlace/>
 				<date/>
 				<authority/>
-				<availability>
-					<p/>
-				</availability>
+				<availability><p/></availability>
 			</publicationStmt>
 			<sourceDesc>
 				<p/>
@@ -21,7 +19,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div>
+			<div id="2-the-carpet-bag"><p xmlns="http://www.tei-c.org/ns/1.0">
 				<p>CHAPTER 2
 					<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/zoom_data7447987a-4e0e-4ff6-92fa-cae542a455ffMD_Amer_0044-4.jpg"/>
 					<pb facs="/images/md-american/MD_Amer_0044.jpg"/>
