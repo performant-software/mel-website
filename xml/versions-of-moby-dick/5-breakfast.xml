@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>5 Breakfast</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,9 +18,11 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="5-breakfast"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1440605650011-t2yer6aurb-c1e0cc0520375d73342a4a78a2f600e4%2FMD_Amer_0069.jpg"/>CHAPTER 5
+			<body><div id="5-breakfast"><p xmlns="http://www.tei-c.org/ns/1.0">
+CHAPTER 5 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1440605650011-t2yer6aurb-c1e0cc0520375d73342a4a78a2f600e4%2FMD_Amer_0069.jpg"/>
+<lb/>
 BREAKFAST
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">I QUICKLY followed suit, and descending into the bar-room accosted the grinning landlord very pleasantly. I cherished no malice towards him, though he had been skylarking with me not a little in the matter of my bedfellow.
