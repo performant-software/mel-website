@@ -43,6 +43,7 @@ Oh, boys, don’t be sentimental; it’s bad for the digestion! Take a tonic, fo
 </p>
 <p xmlns="http://www.tei-c.org/ns/1.0" rend="center">
 (<hi rend="italic">Sings, and all follow.</hi>)
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
 <lg>
 <l rend="10em"><ref target="#ref_21271">Our captain</ref>
 <note xml:id="ref_21271">Our captain stood upon the deck . . . : Melville found this sailor song in J. Ross Browne, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:115">Etchings of a Whaling Cruise</ref>, where it is called “Captain Bunker.” See Stuart M. Frank, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:214"/> "King of the Southern Sea."</note> stood upon the deck,</l>
@@ -58,7 +59,8 @@ Oh, boys, don’t be sentimental; it’s bad for the digestion! Take a tonic, fo
 </lg>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0" rend="center">MATE’S VOICE FROM THE QUARTER-DECK.
-<l><ref target="#ref_16599">Eight bells</ref><note xml:id="ref_16599">Eight bells: midnight.</note> there, forward!</l>
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
+<ref target="#ref_16599">Eight bells</ref><note xml:id="ref_16599">Eight bells: midnight.</note> there, forward!
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0" rend="center">2D NANTUCKET SAILOR.
 Avast the chorus! Eight bells there! d’ye hear, bell-boy? Strike the bell eight, thou Pip! thou blackling! and let me call the watch. I’ve the sort of mouth for that—the <ref target="#ref_16600">hogshead</ref><note xml:id="ref_16600">hogshead: Large cask. A "barrel" in the 19th century was a unit of measurement equal to 31-1/2 gallons of whale oil; a "hogshead" equaled two barrels or 63 gallons of whale oil.</note> mouth. So, so, (<hi rend="italic">thrusts his head down the scuttle,</hi>) <ref target="#ref_21272">Star</ref><note xml:id="ref_21272">Star—bo-l-e-e-n-s, a-h-o-y! : The men in the starboard watch (“starbowlines” or “starboleens” in sailor speech) are being called to the deck from their off-duty sleep to relieve the larboard (port) watch, but they are slow to appear. In the following speeches, the Dutch sailor compares their reluctance to leave their beds to the difficulty of hauling up the lowest level of oil barrels in the hold, and he facetiously advises using the copper pump (meant for pumping whale oil from one barrel to another) as a megaphone. As their shipmates appear from below, the French sailor calls for a dance before he and his mates in the larboard watch go to sleep.</note>—bo-l-e-e-n-s, a-h-o-y! Eight bells there below! Tumble up!
