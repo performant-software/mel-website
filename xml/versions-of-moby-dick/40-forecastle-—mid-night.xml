@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>40 Forecastle.—Mid-night</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,34 +18,48 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div xmlns="" id="40-forecastle-—mid-night"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1512707000470-z6yizti4jwq-bb00bb78654926c046d5ffcb8ce8fd2f%2FMD_Amer_0226.jpg"/>CHAPTER 40
+			<body><div id="40-forecastle-—mid-night"><p xmlns="http://www.tei-c.org/ns/1.0">
+CHAPTER 40 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1512707000470-z6yizti4jwq-bb00bb78654926c046d5ffcb8ce8fd2f%2FMD_Amer_0226.jpg"/>
+<lb/>
 MIDNIGHT, FORECASTLE.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">HARPOONEERS AND SAILORS.
-(<hi rend="italic"><ref target="#ref_21269">Foresail</ref><note xml:id="ref_21269">(Foresail rises . . . all singing in chorus.): In Melville’s forecastle drama, the rising sail is a curtain that “discovers” (reveals) the on-duty crewmen.</note> rises and discovers the watch standing, lounging, leaning, and lying in various attitudes, all singing in chorus.</hi>) 
+<hi rend="bold"><hi rend="italic"><hi rend="smallcaps"></hi></hi></hi>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><ref target="#ref_21270">Farewell</ref><note xml:id="ref_21270">Farewell and adieu to you, Spanish ladies!: From the popular nautical song, “Spanish Ladies.” Most versions read, “For we’ve received orders” to sail homeward, rather than Melville’s “Our captain’s commanded—”. See also Making Moby-Dick.</note> and adieu to you, Spanish ladies! 
-Farewell and adieu to you, ladies of Spain!
-Our captain’s commanded—
+</p><p xmlns="http://www.tei-c.org/ns/1.0" rend="center"><hi rend="smallcaps">HARPOONEERS AND SAILORS.</hi>
+(<hi rend="italic"><ref target="#ref_21269">Foresail rises and discovers the watch</ref> standing, lounging, leaning, and lying in various attitudes, all singing in chorus.</hi>)<note xml:id="ref_21269">(Foresail rises . . . all singing in chorus.): In Melville’s forecastle drama, the rising sail is a curtain that “discovers” (reveals) the on-duty crewmen.</note>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><speaker who="1st Nantucket Sailor">1ST NANTUCKET SAILOR</speaker>.
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
+<lg>
+<l rend="6em"><ref target="#ref_21270">Farewell</ref><note xml:id="ref_21270">Farewell and adieu to you, Spanish ladies!: From the popular nautical song “Spanish Ladies.” Most versions read, “For we’ve received orders” to sail homeward, rather than Melville’s “Our captain’s commanded.” The American edition places a period and dash after "commanded," which gives the impression of sentence completion when, in fact, the singers are being interrupted in mid-line.  The British edition corrects the error (probably at Melville's request) by removing the period, a change that both MEL and NN editions adopt.</note> and adieu to you, Spanish ladies!</l>
+<l rend="6em">Farewell and adieu to you, ladies of Spain!</l>
+<l rend="8em">Our captain’s commanded—</l>
+</lg>
+</p><p xmlns="http://www.tei-c.org/ns/1.0" rend="center">
+<speaker who="1st Nantucket Sailor">1ST NANTUCKET SAILOR</speaker>.</p>
+<p xmlns="http://www.tei-c.org/ns/1.0">
 <sp who="1st Nantucket Sailor">Oh, boys, don’t be sentimental; it’s bad for the digestion! Take a tonic, follow me!</sp>
+</p>
+<p xmlns="http://www.tei-c.org/ns/1.0" rend="center">
 (<hi rend="italic">Sings, and all follow.</hi>)
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><ref target="#ref_21271">Our captain</ref><note xml:id="ref_21271">Our captain stood upon the deck . . . : Melville found this sailor song in J. Ross Browne, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:115">Etchings of a Whaling Cruise: With Notes of a Sojourn on the Island of Zanzibar, To Which is Appended a Brief History of the Whale Fishery, Its Past and Present Condition </ref>, where it is called “Captain Bunker.” See Stuart M. Frank, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:214"/> "King of the Southern Sea." </note> stood upon the deck, 
-A spy-glass in his hand,
-A viewing of those gallant whales
-That blew at every <ref target="#ref_16598">strand</ref><note xml:id="ref_16598">strand: wave.</note>.
-Oh, your tubs in your boats, my boys,
-And by your braces stand,
-And we’ll have one of those fine whales,
-Hand, boys, over hand!
-So, be cheery, my lads! may your hearts never fail!
-While the bold harpooneer is striking the whale!
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
+<lg>
+<l rend="10em"><ref target="#ref_21271">Our captain</ref>
+<note xml:id="ref_21271">Our captain stood upon the deck . . . : Melville found this sailor song in J. Ross Browne, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:115">Etchings of a Whaling Cruise</ref>, where it is called “Captain Bunker.” See Stuart M. Frank, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:214"/> "King of the Southern Sea."</note> stood upon the deck,</l>
+<l rend="12em">A spy-glass in his hand,</l>
+<l rend="10em">A viewing of those gallant whales</l>
+<l rend="12em">That blew at every <ref target="#ref_16598">strand</ref><note xml:id="ref_16598">strand: wave.</note>.</l>
+<l rend="10em">Oh, your tubs in your boats, my boys,</l>
+<l rend="12em">And by your braces stand,</l>
+<l rend="10em">And we’ll have one of those fine whales,</l>
+<l rend="12em">Hand, boys, over hand!</l>
+<l rend="6em">So, be cheery, my lads! may your hearts never fail!</l>
+<l rend="6em">While the bold harpooneer is striking the whale!</l>
+</lg>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">MATE’S VOICE FROM THE QUARTER-DECK.
+</p><p xmlns="http://www.tei-c.org/ns/1.0" rend="center">MATE’S VOICE FROM THE QUARTER-DECK.
 <ref target="#ref_16599">Eight bells</ref><note xml:id="ref_16599">Eight bells: midnight.</note> there, forward!
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">2D NANTUCKET SAILOR.
@@ -137,7 +151,7 @@ Blood! but that old man’s a grand old <ref target="#ref_16612">cove</ref><note
 Aye! aye!
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">OLD MANX SAILOR.
-How the three <ref target="#ref_16613">pines</ref><note xml:id="ref_16613">pines: ship’s masts. Ship's masts were often built of pine; later, once it became easier to ship goods from the West coast of the United States to the East coast, douglas fir became the preferred wood for ship's masts.</note> shake! Pines are the hardest sort of 
+How the three <ref target="#ref_16613">pines</ref><note xml:id="ref_16613">pines: ship’s masts. Ship's masts were often built of pine; later, once it became easier to ship goods from the West coast of the United States to the East coast, douglas fir became the preferred wood for ship's masts.</note> shake! Pines are the hardest sort of
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1512707134445-5xff2bnbg6g-bb00bb78654926c046d5ffcb8ce8fd2f%2FMD_Amer_0231.jpg"/>tree to live when shifted to any other soil, and here there’s none but the crew’s cursed clay. Steady, helmsman! steady. This is the sort of weather when brave hearts snap ashore, and keeled hulls split at sea. Our captain has his birth-mark; look yonder, boys, there’s another in the sky—lurid-like, ye see, all else pitch black.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">DAGGOO.
@@ -180,7 +194,7 @@ Fair play! Snatch the Spaniard’s knife! A ring, a ring!
 Ready formed. There! the ringed horizon. In that ring Cain struck Abel. Sweet work, right work! No? Why then, God, mad’st thou the ring?
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">MATE’S VOICE FROM THE QUARTER DECK.
-<ref target="#ref_21282">Hands</ref><note xml:id="ref_21282">Hands by the halyards! in top-gallant sails! Stand by to reef topsails!: The mate orders the men to reduce the ship’s sail area, first by mustering them to lower the sails with the halyards, then by ordering them aloft to furl the top-gallant sails, which are the sails that are set above the topsails, and finally to reef, or reduce the size of, the topsails. The topsails are usually the first sails set and the last taken down; the fact that they have to be reefed indicates that the storm is quite strong.</note> by the halyards! in top-gallant sails! Stand by to reef topsails! 
+<ref target="#ref_21282">Hands</ref><note xml:id="ref_21282">Hands by the halyards! in top-gallant sails! Stand by to reef topsails!: The mate orders the men to reduce the ship’s sail area, first by mustering them to lower the sails with the halyards, then by ordering them aloft to furl the top-gallant sails, which are the sails that are set above the topsails, and finally to reef, or reduce the size of, the topsails. The topsails are usually the first sails set and the last taken down; the fact that they have to be reefed indicates that the storm is quite strong.</note> by the halyards! in top-gallant sails! Stand by to reef topsails!
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">ALL.
 The squall! the squall! jump, my jollies! (They scatter.)
