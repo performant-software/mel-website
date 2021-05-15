@@ -4,10 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 			<title>Front Matter</title>
-			
-			
-					
-		</titleStmt>
+			</titleStmt>
 			<publicationStmt>
 		
 			<publisher/>
@@ -19,223 +16,174 @@
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
 	</teiHeader>			
-		<text>
-			<front><p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227963673-oymdc8uqz2l-579233b5c053191025a2b5052370a578%2F000005737_0014.jpg"/>MOBY-DICK;
-OR,
-THE WHALE.
-by
-Herman Melville
-Author of
-“TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET”
-NEW YORK:
-HARPER &amp; BROTHERS, PUBLISHERS.
-LONDON: RICHARD BENTLEY.
-1851
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227990793-uwpamk3gosh-579233b5c053191025a2b5052370a578%2F000005737_0015.jpg"/>Entered, according to Act of Congress, in the year 1851, by
+			<text>
+				<front>
+				<div type="title-page"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227963673-oymdc8uqz2l-579233b5c053191025a2b5052370a578%2F000005737_0014.jpg"/>
+<p rend="center">MOBY-DICK;
+<lb/>OR,
+<lb/>THE WHALE.
+					<lb/>by
+					<lb/>Herman Melville
+					<lb/>Author of
+					<lb/>“TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET”
+					<lb/>NEW YORK:
+					<lb/>HARPER &amp; BROTHERS, PUBLISHERS.
+					<lb/>LONDON: RICHARD BENTLEY.
+					<lb/>1851</p></div>
+<div type="copyright"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227990793-uwpamk3gosh-579233b5c053191025a2b5052370a578%2F000005737_0015.jpg"/>
+	<p>Entered, according to Act of Congress, in the year 1851, by
 HERMAN MELVILLE,
-in the Clerk&apos;s Office of the District Court for the Southern District of New York.
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228012505-fqm0ouvbzbu-579233b5c053191025a2b5052370a578%2F000005737_0016.jpg"/>IN TOKEN
+in the Clerk&apos;s Office of the District Court for the Southern District of New York.</p></div>
+<div type="dedication"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228012505-fqm0ouvbzbu-579233b5c053191025a2b5052370a578%2F000005737_0016.jpg"/><p>IN TOKEN
 OF MY ADMIRATION FOR HIS GENIUS,
 This Book is Inscribed
 TO
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:250" type="person">NATHANIEL HAWTHORNE</name>.
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228027763-sxizpa3ily-579233b5c053191025a2b5052370a578%2F000005737_0018.jpg"/>CONTENTS
-	1.	— Loomings	21
-	2.	— The Carpet Bag	26
-	3.	— The Spouter-Inn	30
-	4.	— The Counterpane	41
-	5.	— Breakfast	45
-	6.	— The Street	47
-	7.	— The Chapel	49
-	8.	— The Pulpit	52
-	9.	— The Sermon	54
-	10.	— A Bosom Friend	61
-	11.	— Nightgown	65
-	12.	— Biographical	67
-	13.	— Wheelbarrow	69
-	14.	— Nantucket	73
-	15.	— Chowder	75
-	16.	— The Ship	78
-	17.	— The Ramadan	89
-	18.	— His Mark	94
-	19.	— The Prophet	98
-	20.	— All Astir	101
-	21.	— Going Aboard	103
-	22.	— Merry Christmas	106
-	23.	— The Lee Shore	110
-	24.	— The Advocate	111
-	25.	— Postscript	115
-	26.	— Knights and Squires	117
-	27.	— Knights and Squires	120
-	28.	— Ahab	124
-	29.	— Enter Ahab; to him, Stubb	127
-	30.	— The Pipe	130
-	31.	— Queen Mab	131
-	32.	— Cetology	133
-	33.	— The Specksynder	143
-	34.	— The Cabin Table	146
-	35.	— The Mast-Head	150
-	36.	— The Quarter-Deck. Ahab and all	156
-	37.	— Sunset	162
-	38.	— Dusk	164
-	39.	— First Night-Watch	165
-	40.	— Forecastle.— Mid-night	166
-	41.	— Moby Dick	172
-	42.	— The Whiteness of the Whale	179
-	43.	— Hark!	186
-	44.	— The Chart	187
-	45.	— The Affidavit	192
-	46.	— Surmises	198
-	47.	— The Mat-Maker	200
-	48.	— The First Lowering	202
-	49.	— The Hyena	209
-	50.	— Ahab’s Boat and Crew—Fedallah	211
-	51.	— The Spirit-Spout	214
-	52.	— The Pequod meets the Albatross	217
-	53.	— The Gam	219
-	54.	— The Town Ho’s Story	222
-	55.	— Monstrous Pictures of Whales	237
-	56.	— Less Erroneous Pictures of Whales	241
-	57.	— Of Whales in Paint, in Teeth, &amp;c.	244
-	58.	— Brit	247
-	59.	— Squid	249
-	60.	— The Line	251
-	61.	— Stubb kills a Whale	254
-	62.	— The Dart	258
-	63.	— The Crotch	260
-	64.	— Stubb’s Supper	262
-	65.	— The Whale as a Dish	269
-	66.	— The Shark Massacre	272
-	67.	— Cutting In	274
-	68.	— The Blanket	276
-	69.	— The Funeral	279
-	70.	— The Sphynx	281
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228037976-v2cqmjjj7l-579233b5c053191025a2b5052370a578%2F000005737_0019.jpg"/>71.	— The Pequod meets the Jeroboam. Her Story	283
-	72.	— The Monkey-rope	288
-	73.	— Stubb &amp; Flask kill a Right Whale	292
-	74.	— The Sperm Whale’s Head	297
-	75.	— The Right Whale’s Head	300
-	76.	— The Battering Ram	303
-	77.	— The Great Heidelburgh Tun	305
-	78.	— Cistern and Buckets	307
-	79.	— The Prairie	311
-	80.	— The Nut	313
-	81.	— The Pequod meets the Virgin	315
-	82.	— The Honor and Glory of Whaling	324
-	83.	— Jonah Historically Regarded	327
-	84.	— Pitchpoling	329
-	85.	— The Fountain	321
-	86.	— The Tail	335
-	87.	— The Grand Armada	339
-	88.	— Schools &amp; Schoolmasters	348
-	89.	— Fast Fish and Loose Fish	352
-	90.	— Heads or Tails	355
-	91.	— The Pequod meets the Rose Bud	358
-	92.	— Ambergris	363
-	93.	— The Castaway	365
-	94.	— A Squeeze of the Hand	368
-	95.	— The Cassock	371
-	96.	— The Try-Works	373
-	97.	— The Lamp	377
-	98.	— Stowing Down &amp; Clearing Up	378
-	99.	— The Doubloon	381
-	100.	— The Pequod meets the Samuel Enderby of London	386
-	101.	— The Decanter	391
-	102.	— A Bower in the Arsacides	395
-	103.	— Measurement of the Whale’s Skeleton	398
-	104.	— The Fossil Whale	400
-	105.	— Does the Whale Diminish?	403
-	106.	— Ahab’s Leg	406
-	107.	— The Carpenter	408
-	108.	— The Deck. Ahab and the Carpenter	411
-	109.	— The Cabin. Ahab and Starbuck	415
-	110.	— Queequeg in his Coffin	417
-	111.	— The Pacific	422
-	112.	— The Blacksmith	424
-	113.	— The Forge	426
-	114.	— The Gilder	429
-	115.	— The Pequod meets the Bachelor	432
-	116.	— The Dying Whale	434
-	117.	— The Whale-Watch	436
-	118.	— The Quadrant	438
-	119.	— The Candles	440
-	120.	— The Deck	445
-	121.	— Midnight, on the Forecastle	446
-	122.	— Midnight, Aloft	448
-	123.	— The Musket	449
-	124.	— The Needle	452
-	125.	— The Log and Line	455
-	126.	— The Life-Buoy	458
-	127.	— Ahab and the Carpenter	461
-	128.	— The Pequod meets the Rachel	463
-	129.	— The Cabin. Ahab and Pip	466
-	130.	— The Hat	468
-	131.	— The Pequod meets the Delight	472
-	132.	— The Symphony	474
-	133.	— The Chase. First Day	478
-	134.	— The Chase. Second Day	485
-	135.	— The Chase. Third Day	492
-	Epilogue	500
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228074499-uc6yy493qn8-579233b5c053191025a2b5052370a578%2F000005737_0020.jpg"/>MOBY-DICK;
-
-</p><p>or
-
-</p><p>THE WHALE.</p></front><body><div xmlns="" id="front-matter"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517883610666-yo3sxora8kd-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0001.jpg"/><hi rend="bold">[Book Spine]</hi>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-
-
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517884255968-f6gvmkp6se-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0020.jpg"/>
-<hi rend="bold">[Half Title Page]</hi>
-MOBY-DICK;
-or
-THE WHALE.
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517884245145-eyahyqkylq-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0019.jpg"/><hi rend="bold">[Table of Contents]</hi>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517884223618-n1s050d6e1h-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0018.jpg"/><hi rend="bold">[Table of Contents]</hi>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517884181368-pwmyiwpkxsq-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0016.jpg"/>
-<hi rend="bold">[Dedication Page]</hi>
-IN TOKEN
-OF MY ADMIRATION FOR HIS GENIUS,
-This Book is Inscribed
-TO
-NATHANIEL HAWTHORNE.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517884158774-33lezzz0l2h-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0015.jpg"/>
-<hi rend="bold">[Copyright Page]</hi>
-Entered, according to Act of Congress, in the year 1851, by
-HERMAN MELVILLE,
-in the Clerk&apos;s Office of the District Court 
-for the Southern District of New York.
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517884140814-8y3a9n385ms-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0012.jpg"/><hi rend="bold">[Inscription Page]</hi>
-Dr. Robert Tomes
-from H Melville
-Jan: 5th 1852
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517884120749-mtu0a8wifmj-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0002.jpg"/><hi rend="bold">[Front Cover]</hi>
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517884428576-5rympwku1ip-6d866b9a2e90d7778adbaab28affb9ba%2FMD_Amer_0014.jpg"/><hi rend="bold">[Full Title Page]</hi>
-MOBY-DICK;
-or,
-The Whale.
-by
-Herman Melville
-Author of
-TYPEE, OMOO, REDBURN, MARDI, WHITE-JACKET
-
-</p><p xmlns="http://www.tei-c.org/ns/1.0">NEW YORK:
-HARPER &amp; BROTHERS, PUBLISHERS.
-LONDON: RICHARD BENTLEY.
-1851
-</p></div></body>
-		</text>
+<name ref="https://mel-catalog.herokuapp.com/api/entries/person:250" type="person">NATHANIEL HAWTHORNE</name>.</p></div>
+<div type="contents"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228027763-sxizpa3ily-579233b5c053191025a2b5052370a578%2F000005737_0018.jpg"/>
+	<head>CONTENTS</head>
+	<list>
+		<item>1.	— Loomings	21</item>
+		<item>2.	— The Carpet Bag	26</item>
+	<item>3.	— The Spouter-Inn	30</item>
+	<item>4.	— The Counterpane	41</item>
+	<item>5.	— Breakfast	45</item>
+	<item>6.	— The Street	47</item>
+	<item>7.	— The Chapel	49</item>
+	<item>8.	— The Pulpit	52</item>
+	<item>9.	— The Sermon	54</item>
+	<item>10.	— A Bosom Friend	61</item>
+	<item>11.	— Nightgown	65</item>
+	<item>12.	— Biographical	67</item>
+	<item>13.	— Wheelbarrow	69</item>
+	<item>14.	— Nantucket	73</item>
+	<item>15.	— Chowder	75</item>
+	<item>16.	— The Ship	78</item>
+	<item>17.	— The Ramadan	89</item>
+	<item>18.	— His Mark	94</item>
+	<item>19.	— The Prophet	98</item>
+	<item>20.	— All Astir	101</item>
+	<item>21.	— Going Aboard	103</item>
+	<item>22.	— Merry Christmas	106</item>
+	<item>23.	— The Lee Shore	110</item>
+	<item>24.	— The Advocate	111</item>
+	<item>25.	— Postscript	115</item>
+	<item>26.	— Knights and Squires	117</item>
+	<item>27.	— Knights and Squires	120</item>
+	<item>28.	— Ahab	124</item>
+	<item>29.	— Enter Ahab; to him, Stubb	127</item>
+	<item>30.	— The Pipe	130</item>
+	<item>31.	— Queen Mab	131</item>
+	<item>32.	— Cetology	133</item>
+	<item>33.	— The Specksynder	143</item>
+	<item>34.	— The Cabin Table	146</item>
+	<item>35.	— The Mast-Head	150</item>
+	<item>36.	— The Quarter-Deck. Ahab and all	156</item>
+	<item>37.	— Sunset	162</item>
+	<item>38.	— Dusk	164</item>
+	<item>39.	— First Night-Watch	165</item>
+<item>40.	— Forecastle.— Mid-night	166</item>
+	<item>41.	— Moby Dick	172</item>
+	<item>42.	— The Whiteness of the Whale	179</item>
+	<item>43.	— Hark!	186</item>
+	<item>44.	— The Chart	187</item>
+	<item>45.	— The Affidavit	192</item>
+	<item>46.	— Surmises	198</item>
+	<item>47.	— The Mat-Maker	200</item>
+	<item>48.	— The First Lowering	202</item>
+	<item>49.	— The Hyena	209</item>
+	<item>50.	— Ahab’s Boat and Crew—Fedallah	211</item>
+	<item>51.	— The Spirit-Spout	214</item>
+	<item>52.	— The Pequod meets the Albatross	217</item>
+	<item>53.	— The Gam	219</item>
+	<item>54.	— The Town Ho’s Story	222</item>
+	<item>55.	— Monstrous Pictures of Whales	237</item>
+	<item>56.	— Less Erroneous Pictures of Whales	241</item>
+	<item>57.	— Of Whales in Paint, in Teeth, &amp;c.	244</item>
+	<item>58.	— Brit	247</item>
+	<item>59.	— Squid	249</item>
+	<item>60.	— The Line	251</item>
+	<item>61.	— Stubb kills a Whale	254</item>
+	<item>62.	— The Dart	258</item>
+	<item>63.	— The Crotch	260</item>
+	<item>64.	— Stubb’s Supper	262</item>
+	<item>65.	— The Whale as a Dish	269</item>
+	<item>66.	— The Shark Massacre	272</item>
+	<item>67.	— Cutting In	274</item>
+	<item>68.	— The Blanket	276</item>
+	<item>69.	— The Funeral	279</item>
+	<item>70.	— The Sphynx	281</item>
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228037976-v2cqmjjj7l-579233b5c053191025a2b5052370a578%2F000005737_0019.jpg"/>
+		<item>71.	— The Pequod meets the Jeroboam. Her Story	283</item>
+	<item>72.	— The Monkey-rope	288</item>
+	<item>73.	— Stubb &amp; Flask kill a Right Whale	292</item>
+	<item>74.	— The Sperm Whale’s Head	297</item>
+	<item>75.	— The Right Whale’s Head	300</item>
+	<item>76.	— The Battering Ram	303</item>
+	<item>77.	— The Great Heidelburgh Tun	305</item>
+	<item>78.	— Cistern and Buckets	307</item>
+	<item>79.	— The Prairie	311</item>
+	<item>80.	— The Nut	313</item>
+	<item>81.	— The Pequod meets the Virgin	315</item>
+	<item>82.	— The Honor and Glory of Whaling	324</item>
+	<item>83.	— Jonah Historically Regarded	327</item>
+	<item>84.	— Pitchpoling	329</item>
+	<item>85.	— The Fountain	321</item>
+	<item>86.	— The Tail	335</item>
+	<item>87.	— The Grand Armada	339</item>
+	<item>88.	— Schools &amp; Schoolmasters	348</item>
+	<item>89.	— Fast Fish and Loose Fish	352</item>
+	<item>90.	— Heads or Tails	355</item>
+	<item>91.	— The Pequod meets the Rose Bud	358</item>
+	<item>92.	— Ambergris	363</item>
+	<item>93.	— The Castaway	365</item>
+	<item>94.	— A Squeeze of the Hand	368</item>
+	<item>95.	— The Cassock	371</item>
+	<item>96.	— The Try-Works	373</item>
+	<item>97.	— The Lamp	377</item>
+	<item>98.	— Stowing Down &amp; Clearing Up	378</item>
+	<item>99.	— The Doubloon	381</item>
+	<item>100.	— The Pequod meets the Samuel Enderby of London	386</item>
+	<item>101.	— The Decanter	391</item>
+	<item>102.	— A Bower in the Arsacides	395</item>
+	<item>103.	— Measurement of the Whale’s Skeleton	398</item>
+	<item>104.	— The Fossil Whale	400</item>
+	<item>105.	— Does the Whale Diminish?	403</item>
+	<item>106.	— Ahab’s Leg	406</item>
+<item>107.	— The Carpenter	408</item>
+	<item>108.	— The Deck. Ahab and the Carpenter	411</item>
+	<item>109.	— The Cabin. Ahab and Starbuck	415</item>
+	<item>110.	— Queequeg in his Coffin	417</item>
+	<item>111.	— The Pacific	422</item>
+	<item>112.	— The Blacksmith	424</item>
+	<item>113.	— The Forge	426</item>
+	<item>114.	— The Gilder	429</item>
+	<item>115.	— The Pequod meets the Bachelor	432</item>
+	<item>116.	— The Dying Whale	434</item>
+	<item>117.	— The Whale-Watch	436</item>
+	<item>118.	— The Quadrant	438</item>
+	<item>119.	— The Candles	440</item>
+	<item>120.	— The Deck	445</item>
+	<item>121.	— Midnight, on the Forecastle	446</item>
+	<item>122.	— Midnight, Aloft	448</item>
+	<item>123.	— The Musket	449</item>
+	<item>124.	— The Needle	452</item>
+	<item>125.	— The Log and Line	455</item>
+	<item>126.	— The Life-Buoy	458</item>
+	<item>127.	— Ahab and the Carpenter	461</item>
+	<item>128.	— The Pequod meets the Rachel	463</item>
+	<item>129.	— The Cabin. Ahab and Pip	466</item>
+	<item>130.	— The Hat	468</item>
+	<item>131.	— The Pequod meets the Delight	472</item>
+	<item>132.	— The Symphony	474</item>
+	<item>133.	— The Chase. First Day	478</item>
+	<item>134.	— The Chase. Second Day	485</item>
+	<item>135.	— The Chase. Third Day	492</item>
+	<item>Epilogue	500</item>
+	</list>
+</div>
+</front>
+				<body>
+					<ab/>
+				</body>
+			</text>
 	</TEI>
