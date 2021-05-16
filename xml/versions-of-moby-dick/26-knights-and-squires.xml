@@ -20,7 +20,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div id="26-knights-and-squires"><p xmlns="http://www.tei-c.org/ns/1.0">
+			<body><div xml:id="26-knights-and-squires"><p xmlns="http://www.tei-c.org/ns/1.0">
 CHAPTER 26 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471298593069-89e3dnab8ud-e572416c1c2f52fcdedf099912a28c8b%2FMD_Amer_0162.jpg"/>
 <lb/>
 KNIGHTS AND SQUIRES

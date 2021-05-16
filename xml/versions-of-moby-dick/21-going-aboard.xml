@@ -20,7 +20,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xmlns="" id="21-going-aboard"><p xmlns="http://www.tei-c.org/ns/1.0">
+			<body><div xmlns="" xml:id="21-going-aboard"><p xmlns="http://www.tei-c.org/ns/1.0">
 CHAPTER 21 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517806150997-1mkuptcufzb-817a988b1c616e87fcd5da46892eadce%2FMD_Amer_0145.jpg"/>
 <lb/>
 GOING ABOARD

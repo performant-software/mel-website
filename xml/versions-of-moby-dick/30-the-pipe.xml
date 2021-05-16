@@ -20,7 +20,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div id="30-the-pipe"><p xmlns="http://www.tei-c.org/ns/1.0">
+			<body><div xml:id="30-the-pipe"><p xmlns="http://www.tei-c.org/ns/1.0">
 CHAPTER 30 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517975080169-ueift7k0ab-227bd93d49b0988f52746559a7b63165%2FMD_Amer_0178.jpg"/>
 <lb/>
 THE PIPE
