@@ -20,7 +20,7 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="90-heads-or-tails"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518823516315-obqqznwmjyb-8a4f4e54570f41cbc7083719bb2fc1f2%2FMD_Amer_0481.jpg"/>CHAPTER 90
+			<body><div xmlns="" xml:id="90-heads-or-tails"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518823516315-obqqznwmjyb-8a4f4e54570f41cbc7083719bb2fc1f2%2FMD_Amer_0481.jpg"/>CHAPTER 90
 HEADS OR TAILS
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0"> “De balena vero sufficit, si rex habeat caput, et regina caudam.”

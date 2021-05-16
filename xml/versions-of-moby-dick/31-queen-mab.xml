@@ -20,7 +20,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xmlns="" id="31-queen-mab"><p xmlns="http://www.tei-c.org/ns/1.0">
+			<body><div xmlns="" xml:id="31-queen-mab"><p xmlns="http://www.tei-c.org/ns/1.0">
 CHAPTER 31 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517975269478-ypobjgyf3xb-3fe2803caa0359ed51bf1856c11b9c2a%2FMD_Amer_0179.jpg"/>
 <lb/>
 <ref target="#ref_16392">QUEEN MAB</ref><note xml:id="ref_16392">Queen Mab: in Romeo and Juliet I.4, the fairy midwife who brings dreams.</note>

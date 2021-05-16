@@ -20,7 +20,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xmlns="" id="28-ahab"><p xmlns="http://www.tei-c.org/ns/1.0">
+			<body><div xmlns="" xml:id="28-ahab"><p xmlns="http://www.tei-c.org/ns/1.0">
 CHAPTER 28 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471130240266-efspclc3h3r-2b3bf6be19fef189644d904a7136edac%2FMD_Amer_0170.jpg"/>
 <lb/>
 AHAB
