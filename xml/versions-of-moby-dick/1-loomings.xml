@@ -19,7 +19,7 @@
 			<body>
 				<div xml:id="ch1-loomings">
 <p xmlns="http://www.tei-c.org/ns/1.0" rend="center">
-<head>CHAPTER 1</head>
+<head type="main">CHAPTER 1</head>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431211093618-2hok0p7khjl-553240d15603782944e175648cbaa3f3%2F000005737_0038.jpg"/>
 <lb/>
 <head type="sub-head">LOOMINGS</head>
