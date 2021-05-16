@@ -20,7 +20,7 @@
 	<text>
 		<body>
 			<div xml:id="ch2-the-carpet-bag">
-				<head rend="center">CHAPTER 2</head>
+				<head type="main" rend="center">CHAPTER 2</head>
 					<pb facs="/images/md-american/MD_Amer_0044.jpg"/>
 				<lb/>
 				<head type="sub-head" rend="center">THE CARPET-BAG</head>
