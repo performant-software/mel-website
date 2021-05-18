@@ -40,7 +40,7 @@ This Book is Inscribed
 TO
 <name ref="https://mel-catalog.herokuapp.com/api/entries/person:250" type="person">NATHANIEL HAWTHORNE</name>.</p></div>
 <div type="contents"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228027763-sxizpa3ily-579233b5c053191025a2b5052370a578%2F000005737_0018.jpg"/>
-	<head>CONTENTS</head>
+	<head type="main" rend="center">CONTENTS</head>
 	<list>
 		<item>1.	— Loomings	21</item>
 		<item>2.	— The Carpet Bag	26</item>

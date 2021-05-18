@@ -21,7 +21,7 @@
 	</teiHeader>
 		<text>
 			<body><div xml:id="ch3-the-spouter-inn">
-				<head rend="center">CHAPTER 3</head>
+				<head type="main" rend="center">CHAPTER 3</head>
 				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1437768287847-5zri724h114-9017822620c67745ca144e0d1f6858eb%2FMD_Amer_0048.jpg"/>
 <lb/>
 				<head type="sub-head" rend="center">THE SPOUTER-INN</head>
