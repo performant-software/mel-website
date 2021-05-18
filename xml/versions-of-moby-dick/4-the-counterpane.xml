@@ -21,7 +21,7 @@
 	</teiHeader>
 		<text>
 			<body><div xml:id="ch4-the-counterpane">
-				<head rend="center">CHAPTER 4</head>
+				<head type="main" rend="center">CHAPTER 4</head>
 				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1438314254176-0e8srtsslmxg-2bc4cd190deaf808f69efe675864ba26%2FMD_Amer_0065.jpg"/>
 <lb/>
 				<head type="sub-head" rend="center">THE COUNTERPANE</head>
