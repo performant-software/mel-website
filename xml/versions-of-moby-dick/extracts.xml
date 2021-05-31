@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>Extracts</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,12 +18,14 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body>
-			<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431212165223-4ni9kaqxt4n-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0023.jpg"/><head type="main" rend="center">EXTRACTS</head>
-<head type="subhead">(SUPPLIED BY A SUB-SUB-LIBRARIAN.)</head>
-				
+			<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431212165223-4ni9kaqxt4n-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0023.jpg"/>
+			<head type="main" rend="center">EXTRACTS</head>
+			<lb>
+<head type="subhead" rend="center">(Supplied by a Sub-Sub-Librarian.)</head>
+
 <p>It will be seen that this mere painstaking burrower and grub-worm of a poor devil of a Sub-Sub appears to have gone through the long <ref target="#ref_19454">Vaticans</ref><note xml:id="ref_19454">Vaticans: great libraries, such as the Vatican's in <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:14">Vatican City</ref></note> and street-stalls of the earth, picking up whatever random allusions to whales he could anyways find in any book whatsoever, sacred or profane. Therefore you must not, in every case at least, take the higgledy-piggledy whale statements, however authentic, in these extracts, for veritable gospel cetology. Far from it. As touching the ancient authors generally, as well as the poets here appearing, these extracts are solely valuable or entertaining, as affording a glancing bird’s eye view of what has been <ref target="#ref_19455">promiscuously</ref><note xml:id="ref_19455">promiscuously: diversely; unsystematically. </note> said, thought, fancied, and sung of <ref target="#ref_19456">Leviathan</ref><note xml:id="ref_19456">Leviathan: biblical sea creature, not necessarily a whale.</note>, by many nations and generations, including our own.</p>
 <p>So fare thee well, poor devil of a Sub-Sub, whose commentator I am. Thou belongest to that hopeless, sallow tribe which no wine of this world will ever warm; and for whom even Pale Sherry would be too rosy-strong; but with whom one sometimes loves to sit, and feel poor-devilish, too; and grow convivial upon tears; and say to them bluntly, with full eyes and empty glasses, and in not altogether unpleasant sadness—Give it up, Sub-Subs! For by how much the more pains ye take to please the world, by so much the more shall ye for ever go thankless! Would that I could clear out <ref target="#ref_19457"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1008" type="artwork">Hampton Court</name> and the Tuileries</ref><note xml:id="ref_19457">Hampton Court and the Tuileries: royal residences in London and Paris.
  <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:16">Hampton Court Palace, London, England</ref>  <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:17">Tuileries Palace, Paris, France</ref></note> for ye! But gulp down your tears and hie aloft to the <ref target="#ref_19458">royal-mast</ref><note xml:id="ref_19458">royal-mast: highest part of the mast.</note> with your hearts; for your friends who have gone before are clearing out the <ref target="#ref_19459">seven-storied heavens</ref><note xml:id="ref_19459">seven-storied heavens: in Jewish and Islamic traditions, Heaven has seven levels.</note>, and making refugees of long-pampered <ref target="#ref_20840">Gabriel, Michael, and Raphael</ref><note xml:id="ref_20840">Gabriel, Michael, and Raphael, against your coming: archangels; here, against means preparing for.  <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:145">Archangel Gabriel</ref> <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:143">Michael (Archangel)</ref> <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:230"> </ref>Raphael (Archangel)</note>, against your coming. Here ye strike but splintered hearts together—there, ye shall strike unsplinterable glasses!</p>
@@ -117,7 +119,7 @@ Some say the whale can’t open his mouth, but that is a fable.   *   *   *
 They frequently climb up the masts to see whether they can see a whale, for the first discoverer has a ducat for his pains.   *   *   *
 I was told of a whale taken near Shetland, that had above a barrel of herrings in his belly.   *   *   *
 One of our harpooneers told me that he caught once a whale in Spitzbergen that was white all over.”</p>
-<p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:139" type="text"><ref target="#ref_19538">A Voyage to Greenland, A.D.1671</ref><note xml:id="ref_19538">A Voyage to Greenland: The author of this text was <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:264">Martens, Friedrich, 1635-1699</ref>.</note></name>.</p> 
+<p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:139" type="text"><ref target="#ref_19538">A Voyage to Greenland, A.D.1671</ref><note xml:id="ref_19538">A Voyage to Greenland: The author of this text was <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:264">Martens, Friedrich, 1635-1699</ref>.</note></name>.</p>
 				<p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:138" type="text">Harris Coll</name>.</p>
 <p>“Several whales have come in upon this coast (Fife). Anno 1652, one eighty feet in length of the whale-bone kind came in, which, (as I was informed) besides a vast quantity of oil, did afford 500 weight of baleen. The jaws of it stand for a gate in the garden of Pitfirren.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:265" type="person">Sibbald</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:140" type="text">Fife and Kinross</name>.</p>
@@ -226,7 +228,7 @@ of a whale. (A small sized one.)</p>
 <p>“Sometimes the whale shakes its tremendous tail in the air, which, cracking like a whip, resounds to the distance of three or four miles.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:303" type="person"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:966" type="artwork">Scoresby</name></name>.</p>
 <p>“Mad with the agonies he endures from these fresh attacks, the infuriated Sperm Whale rolls over and over; he rears his enormous head, and with wide expanded jaws snaps at everything around him; he rushes at the boats with his head; they are propelled before him with vast swiftness, and sometimes utterly destroyed.</p>
-<p>*   *   *   It is a matter of great astonishment that the consideration of the habits of so interesting, and, in a commercial 
+<p>*   *   *   It is a matter of great astonishment that the consideration of the habits of so interesting, and, in a commercial
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431213000609-gyi6njhico5-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0033.jpg"/>point of view, of so important an animal (as the Sperm Whale) should have been so entirely neglected, or should have excited so little curiosity among the numerous, and many of them competent observers, that of late years must have possessed the most abundant and the most convenient opportunities of witnessing their habitudes.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:955" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:304" type="person">Thomas Beale</name></name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:176" type="text">History of the Sperm Whale</name>, 1839.</p>
 <p>“The Cachalot” (Sperm Whale) “is not only better armed than the True Whale” (Greenland or Right Whale) “in possessing a formidable weapon at either extremity of its body, but also more frequently displays a disposition to employ these weapons offensively, and in a manner at once so artful, bold, and mischievous, as to lead to its being regarded as the most dangerous to attack of all the known species of the whale tribe.”</p>
