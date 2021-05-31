@@ -6,7 +6,7 @@
 			<title>Front Matter</title>
 			</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -15,30 +15,32 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 			<text>
 				<front>
 				<div type="title-page"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227963673-oymdc8uqz2l-579233b5c053191025a2b5052370a578%2F000005737_0014.jpg"/>
-<p rend="center">MOBY-DICK;
-<lb/>OR,
-<lb/>THE WHALE.
-					<lb/>by
-					<lb/>Herman Melville
-					<lb/>Author of
-					<lb/>“TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET”
-					<lb/>NEW YORK:
-					<lb/>HARPER &amp; BROTHERS, PUBLISHERS.
-					<lb/>LONDON: RICHARD BENTLEY.
+<p rend="center">M O B Y - D I C K;
+<lb/><lb/><hi rend="smallcaps">or,</hi>
+<lb/><lb/>THE WHALE.
+<lb/><lb/><hi rend="smallcaps">by</hi>
+<lb/><lb/>HERMAN MELVILLE
+<lb/><hi rend="smallcaps">author of</hi>
+<lb/><hi rend="smallcaps">“TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET”</hi>
+<lb/><lb/><lb/><lb/>N E W &#xA0;&#xA0; Y O R K:
+					<lb/>H A R P E R &#xA0;&#xA0;&amp;&#xA0;&#xA0; B R O T H E R S, P U B L I S H E R S.
+					<lb/>L O N D O N: &#xA0;&#xA0; R I C H A R D &#xA0;&#xA0; B E N T L E Y.
 					<lb/>1851</p></div>
 <div type="copyright"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227990793-uwpamk3gosh-579233b5c053191025a2b5052370a578%2F000005737_0015.jpg"/>
-	<p>Entered, according to Act of Congress, in the year 1851, by
-HERMAN MELVILLE,
-in the Clerk&apos;s Office of the District Court for the Southern District of New York.</p></div>
-<div type="dedication"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228012505-fqm0ouvbzbu-579233b5c053191025a2b5052370a578%2F000005737_0016.jpg"/><p>IN TOKEN
-OF MY ADMIRATION FOR HIS GENIUS,
-This Book is Inscribed
-TO
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:250" type="person">NATHANIEL HAWTHORNE</name>.</p></div>
+	<p rend="center">Entered, according to Act of Congress, in the year 1851, by
+<lb/>HERMAN MELVILLE,
+<lb/>in the Clerk&apos;s Office of the District Court for the Southern District of New York.</p></div>
+<div type="dedication"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228012505-fqm0ouvbzbu-579233b5c053191025a2b5052370a578%2F000005737_0016.jpg"/>
+<p rend="center">
+<lb/><hi rend="smallcaps">in token</hi>
+<lb/><hi rend="smallcaps">of my admiration for his genius,</hi>
+<lb/><hi rend="bold">THIS BOOK IS INSCRIBED</hi>
+<lb/><hi rend="smallcaps">to</hi>
+<lb/><name ref="https://mel-catalog.herokuapp.com/api/entries/person:250" type="person">N A T H A N I E L &#xA0;&#xA0; H A W T H O R N E.</name>.</p></div>
 <div type="contents"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228027763-sxizpa3ily-579233b5c053191025a2b5052370a578%2F000005737_0018.jpg"/>
 	<head type="main" rend="center">CONTENTS</head>
 	<list>
