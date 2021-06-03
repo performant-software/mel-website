@@ -26,25 +26,26 @@
 				<head type="main"><hi rend="italic">Misgivings.</hi></head>
 				<head type="sub-head">(1860.)</head>
 				<lb/>
-				<lg type="sonnet" n="1">
-					<lg type="quatrain">
+				<lg type="sonnet">
+				<lg type="septet" rhyme="ababacc">
 					<l rend="2em"><hi rend="smallcaps">When</hi> ocean-clouds over inland <rhyme label="a">hills</rhyme></l>
 					<l rend="4em">Sweep storming in late autumn <rhyme label="b">brown</rhyme>,</l>
 					<l rend="2em">And horror the sodden valley <rhyme label="a">fills</rhyme>,</l>
-					<l rend="4em">And the <rs>spire</rs> falls crashing in the <rhyme label="b">town</rhyme>,</l></lg>
-					<lg type="quatrain">
+					<l rend="4em">And the <rs>spire</rs> falls crashing in the <rhyme label="b">town</rhyme>,</l>
 					<l n="5" rend="2em">I muse upon my country&apos;s <rhyme label="a">ills</rhyme>—</l>
-					<l rend="2em">The tempest bursting from the waste of Time</l>
-					<l>On the world&apos;s fairest hope linked with <ref target="#EDnotePhotograph1">man&apos;s foulest crime</ref><note xml:id="EDnotePhotograph1">Melville’s “foulest crime” echoes “indignant sentiments” by popular hymnist and poet William Cowper, identifying slavery “As human nature’s broadest, foulest blot.” Cowper’s sentiments were anthologized in Lindsay Murray’s <hi rend="italic">English Reader</hi>, one of Melville’s school books. In <hi rend="italic">Mardi</hi> (1849), Melville calls slavery “a sin it is, no less; —a blot, foul as the crater-pool of hell” (534). See John Bryant, <hi rend="italic">Herman Melville: A Half Known Life</hi> 1.105-106.</note>.</l>
-					<l rend="2em">Nature&apos;s dark side is heeded now—</l></lg>
-					<lg type="quatrain"><l rend="4em">(Ah! optimist-cheer disheartened flown)—</l>
-					<l n="10" rend="2em">A child may read the moody brow</l>
-					<l rend="4em">Of yon black mountain lone.</l>
-					<l rend="2em">With shouts the torrents down the gorges go,</l></lg>
-					<lg type="couplet">
-					<l rend="2em">And storms are formed behind the storm we feel:</l>
-					<l>The hemlock shakes in the rafter, the oak in the driving keel.</l>
-					</lg>
+					<l rend="2em">The tempest bursting from the waste of <rhyme label="c">Time</rhyme></l>
+					<l>On the world&apos;s fairest hope linked with <ref target="#EDnotePhotograph1">man&apos;s foulest <rhyme label="c">crime</rhyme></ref><note xml:id="EDnotePhotograph1">Melville’s “foulest crime” echoes “indignant sentiments” by popular hymnist and poet William Cowper, identifying slavery “As human nature’s broadest, foulest blot.” Cowper’s sentiments were anthologized in Lindsay Murray’s <hi rend="italic">English Reader</hi>, one of Melville’s school books. In <hi rend="italic">Mardi</hi> (1849), Melville calls slavery “a sin it is, no less; —a blot, foul as the crater-pool of hell” (534). See John Bryant, <hi rend="italic">Herman Melville: A Half Known Life</hi> 1.105-106.</note>.</l>					
+				</lg>
+					
+				<lg type="septet" rhyme="dbdbdee">
+					<l rend="2em">Nature&apos;s dark side is heeded <rhyme label="d">now</rhyme>—</l>
+					<l rend="4em">(Ah! optimist-cheer disheartened <rhyme label="b">flown</rhyme>)—</l>
+					<l n="10" rend="2em">A child may read the moody <rhyme label="d">brow</rhyme></l>
+					<l rend="4em">Of yon black mountain <rhyme label="b">lone</rhyme>.</l>
+					<l rend="2em">With shouts the torrents down the gorges <rhyme label="d">go</rhyme>,</l>
+					<l rend="2em">And storms are formed behind the storm we <rhyme label="e">feel</rhyme>:</l>
+					<l>The hemlock shakes in the rafter, the oak in the driving <rhyme label="e">keel</rhyme>.</l>
+				</lg>
 				</lg>
 </div></body>
 		</text>
