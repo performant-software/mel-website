@@ -81,18 +81,22 @@ Ohthere or Ottar was included in a 9th-century volume containing a translation o
 				<p>“<name ref="https://mel-catalog.herokuapp.com/api/entries/text:120" type="text">History of Life and Death</name>.”</p>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431212298194-mvlh3z265xg-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0026.jpg"/><p>“The sovereignest thing on earth is parmacetti for an inward bruise.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:122" type="text">King Henry</name>.</p>
+<lb/>
 <p>“Very like a whale.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:123" type="text">Hamlet</name>.</p>
+<lb/>
 <lg>
-	<l>“Which to secure, no skill of leach’s art</l>
-<l>Mote him availle, but to returne againe</l>
-<l>To his wound’s worker, that with lowly dart,</l>
-<l>Dinting his breast, had bred his restless paine,</l>
-<l>Like as the wounded whale to shore flies thro’ the maine.”</l>
+<l rend="4em">“Which to secure, no skill of leach’s art</l>
+<l rend="4em">Mote him availle, but to returne againe</l>
+<l rend="4em">To his wound’s worker, that with lowly dart,</l>
+<l rend="4em">Dinting his breast, had bred his restless paine,</l>
+<l rend="4em">Like as the wounded whale to shore flies thro’ the maine.”</l>
 </lg>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:124" type="text">The Fairie Queen</name>.</p>
+<lb/>
 <p>“Immense as whales, the motion of whose vast bodies can in a peaceful calm trouble the ocean till it boil.”</p>
 <p>Sir <name ref="https://mel-catalog.herokuapp.com/api/entries/person:247" type="person">William Davenant</name>. Preface to <name ref="https://mel-catalog.herokuapp.com/api/entries/text:125" type="text">Gondibert</name>.</p>
+<lb/>
 <p>“What spermacetti is, men might justly doubt, since the learned Hofmannus in his work of thirty years, saith plainly, Nescio quid sit.”</p>
 				<p>Sir T. <name ref="https://mel-catalog.herokuapp.com/api/entries/person:112" type="person">Browne</name>. Of Sperma Ceti and the Sperma Ceti Whale. Vide his <name ref="https://mel-catalog.herokuapp.com/api/entries/text:126" type="text">V. E.</name></p>
 
@@ -100,15 +104,17 @@ Ohthere or Ottar was included in a 9th-century volume containing a translation o
 <lg>
 <l rend="4em">“Like Spencer’s Talus with his modern flail</l>
 <l rend="4em">He threatens ruin with his ponderous tail.</l>
-<l rend="4em">*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*</l>
+<l rend="4em">*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*</l>
 <l rend="4em">Their fixed jav’lins in his side he wears,</l>
 <l rend="4em">And on his back a grove of pikes appears.”</l>
 </lg>
 </p>
 <p><ref target="#MDextractsNote4"><hi rend="bold"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:253" type="person">Waller</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:129" type="text">Battle of the Summer Islands</name></hi></ref><note xml:id="MDextractsNote4">In his poem, Edmund Waller has “iron flail” not “modern flail.” Taking this as an error in transcription, the editors of the NN Moby-Dick emend the text to “iron”; however, MEL retains “modern” as a possibly intentional revision of the source. In quoting, Melville also brought two widely separated couplets together and altered “her” twice in the second couplet to “his” to make the pronouns agree in gender with those in the first couplet.</note>.</p>
-<p>“By art is created that great Leviathan, called a Commonwealth or State—(in Latin, Civitas) which is but an artificial man.”
-Opening sentence of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:254" type="person">Hobbes</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:130" type="text">Leviathan</name>.</p>
-<p>“Silly Mansoul swallowed it without chewing, as if it had been a sprat in the mouth of a whale.”	<ref target="#ref_19461">Pilgrim’s Progress</ref><note xml:id="ref_19461"><ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:131">Pilgrim's Progress</ref>: the source is actually <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:255">Bunyan, John, 1628-1688</ref>'s <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:132">The Holy War</ref>.</note>.</p>
+<lb/>
+<p>“By art is created that great Leviathan, called a Commonwealth or State—(in Latin, Civitas) which is but an artificial man.”</p>
+<p>Opening sentence of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:254" type="person">Hobbes</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:130" type="text">Leviathan</name>.</p>
+<lb/>
+<p>“Silly Mansoul swallowed it without chewing, as if it had been a sprat in the mouth of a whale.”	<ref target="#ref_19461">Pilgrim’s Progress</ref><note xml:id="ref_19461"><ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:131">Pilgrim's Progress</ref>: <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:255">John Bunyan</ref>'s 1678 Christian allegory; however, the source of Melville's passage is actually Bunyan's <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:132">The Holy War</ref> (1682).</note>.</p>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431212353470-hm13lzp9cor-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0027.jpg"/><lg>
 	<l>“That sea beast</l>
 <l>Leviathan, which God of all his works</l>
