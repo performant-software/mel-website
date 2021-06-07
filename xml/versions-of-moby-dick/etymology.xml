@@ -39,14 +39,14 @@
 <p>CETUS,	Latin.</p>
 <p>WHÆL,	<ref target="#MDetymologyNote4">Anglo-Saxon</ref><note xml:id="MDetymologyNote4">Both the NN and MEL editions correct the American and British typo of “WHŒL,” appearing as the Anglo-Saxon entry, to “WHÆL.” </note>.</p>
 <p>HVALT,	<ref target="#MDetymologyNote5">Danish</ref><note xml:id="MDetymologyNote5">Generally speaking, MEL’s policy is not to correct Melville’s errors of fact, but to record them in textual annotations. For instance, MEL does not correct “Hvalt” (Danish for “arched”) to “Hval” (“whale”), nor Melville’s confusion of Dutch for German, nor the presumed cognate of “Whale” for the actual Icelandic word for whale, “Hvalur.” All of these errors are corrected in the NN edition of Moby-Dick.</note>.</p>
-<p>WAL,	Dutch.</p>
+<p>WAL,	<ref target="#MDetymologyNote5">Dutch</ref>.</p>
 <p>HWAL,	Swedish.</p>
-<p>WHALE,	Icelandic.</p>
+<p>WHALE,	<ref target="#MDetymologyNote5">Icelandic</ref>.</p>
 <p>WHALE,	English.</p>
 <p>BALEINE,	French.</p>
 <p>BALLENA,	Spanish.</p>
-<p>PEKEE-NUEE-NUEE,	<ref target="#MDetymologyNote6">Fegee</ref><note xml:id="MDetymologyNote6">The Fegee and Erromangoan words that conclude the list are either sailor talk or Melville’s invention; the Polynesian for whale is actually “pahua” or “palaoa.”</note>.</p>
-<p>PEHEE-NUEE-NUEE,	Erromangoan.</p>
+<p>PEKEE-NUEE-NUEE,	<ref target="#MDetymologyNote6">Fegee</ref><note xml:id="MDetymologyNote6">The Fegee and Erromangoan words that conclude the list—roughly meaning "very very big fish"—are either sailor talk or Melville’s invention; the Polynesian for whale is actually “pahua” or “palaoa.”</note>.</p>
+<p>PEHEE-NUEE-NUEE,	<ref target="#MDetymologyNote6">Erromangoan</ref>.</p>
 </body>
 		</text>
 	</TEI>
