@@ -96,15 +96,15 @@ Ohthere or Ottar was included in a 9th-century volume containing a translation o
 <lb/>
 <p>“Immense as whales, the motion of whose vast bodies can in a peaceful calm trouble the ocean till it boil.”</p>
 <p>Sir <name ref="https://mel-catalog.herokuapp.com/api/entries/person:247" type="person">William Davenant</name>. Preface to <name ref="https://mel-catalog.herokuapp.com/api/entries/text:125" type="text">Gondibert</name>.</p>
-<lb/>
-<p>“What spermacetti is, men might justly doubt, since the learned Hofmannus in his work of thirty years, saith plainly, Nescio quid sit.”</p>
-				<p>Sir T. <name ref="https://mel-catalog.herokuapp.com/api/entries/person:112" type="person">Browne</name>. Of Sperma Ceti and the Sperma Ceti Whale. Vide his <name ref="https://mel-catalog.herokuapp.com/api/entries/text:126" type="text">V. E.</name></p>
 
+<p>“What spermacetti is, men might justly doubt, since the learned Hofmannus in his work of thirty years, saith plainly, Nescio quid sit.”</p>
+<p>Sir T. <name ref="https://mel-catalog.herokuapp.com/api/entries/person:112" type="person">Browne</name>. Of Sperma Ceti and the Sperma Ceti Whale. Vide his <name ref="https://mel-catalog.herokuapp.com/api/entries/text:126" type="text">V. E.</name></p>
+<lb/>
 <p>
 <lg>
 <l rend="4em">“Like Spencer’s Talus with his modern flail</l>
 <l rend="4em">He threatens ruin with his ponderous tail.</l>
-<l rend="4em">*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*</l>
+<l rend="4em">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;*</l>
 <l rend="4em">Their fixed jav’lins in his side he wears,</l>
 <l rend="4em">And on his back a grove of pikes appears.”</l>
 </lg>
@@ -116,26 +116,27 @@ Ohthere or Ottar was included in a 9th-century volume containing a translation o
 <lb/>
 <p>“Silly Mansoul swallowed it without chewing, as if it had been a sprat in the mouth of a whale.”	<ref target="#ref_19461">Pilgrim’s Progress</ref><note xml:id="ref_19461"><ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:131">Pilgrim's Progress</ref>: <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:255">John Bunyan</ref>'s 1678 Christian allegory; however, the source of Melville's passage is actually Bunyan's <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:132">The Holy War</ref> (1682).</note>.</p>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431212353470-hm13lzp9cor-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0027.jpg"/><lg>
-	<l>“That sea beast</l>
-<l>Leviathan, which God of all his works</l>
-<l>Created hugest that swim the ocean stream.”</l>
+<l rend="4em">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;“That sea beast</l>
+<l rend="4em">Leviathan, which God of all his works</l>
+<l rend="4em">Created hugest that swim the ocean stream.”</l>
 </lg>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:133" type="text">Paradise Lost</name>.</p>
-	<lg>
-		<l>—— “There Leviathan,</l>
-<l>Hugest of living creatures, in the deep</l>
-<l>Stretched like a promontory sleeps or swims,</l>
-<l>And seems a moving land; and at his gills</l>
-<l>Draws in, and at his breath spouts out a sea.”</l>
+<lb/>
+<lg>
+<l rend="4em">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;—— “There Leviathan,</l>
+<l rend="4em">Hugest of living creatures, in the deep</l>
+<l rend="4em">Stretched like a promontory sleeps or swims,</l>
+<l rend="4em">And seems a moving land; and at his gills</l>
+<l rend="4em">Draws in, and at his breath spouts out a sea.”</l>
 	</lg>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:140" type="person">Ibid</name>.</p>
 <p>“The mighty whales which swim in a sea of water, and have a sea of oil swimming in them.”
 <name ref="https://mel-catalog.herokuapp.com/api/entries/person:257" type="person">Fuller</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:135" type="text">Profane and Holy State</name>.</p>
 <lg>
-	<l>“So close behind some promontory lie</l>
-<l>The huge Leviathans to attend their prey,</l>
-<l>And give no chace, but swallow in the fry,</l>
-<l>Which through their gaping jaws mistake the way.”</l>
+<l rend="2em">“So close behind some promontory lie</l>
+<l rend="4em">The huge Leviathans to attend their prey,</l>
+<l rend="2em">And give no chace, but swallow in the fry,</l>
+<l rend="4em">Which through their gaping jaws mistake the way.”</l>
 </lg>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:256" type="person">Dryden</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:134" type="text">Annus Mirabilis</name>.</p>
 <p>“While the whale is floating at the stern of the ship, they cut off his head, and tow it with a boat as near the shore as it will come; but it will be aground in twelve or thirteen foot water.”
