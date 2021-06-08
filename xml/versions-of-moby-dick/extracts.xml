@@ -362,7 +362,7 @@ of a whale. (A small sized one.)</p>
 <p>“The Whale is harpooned to be sure; but bethink you, how you would manage a powerful unbroken colt, with the mere appliance of a rope tied to the root of his tail.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:181" type="text">A Chapter on Whaling in Ribs and Trucks</name>.</p>
 <lb/>
-<p>“On one occasion I saw two of these monsters (whales) probably male and female, slowly swimming, one after the other, within less than a stone’s throw of the shore” (Tierra Del Fuego), “over which the beech tree extended its branches.”</p>
+<p>“On one occasion I saw two of these monsters (whales) probably male and female, slowly swimming, one after the other, within less than a stone’s throw of the shore” (<ref target="#MDextractsNote13">Tierra</ref><note xml:id="MDextractsNote13">Tierra: In the American and British editions, Melville’s parenthetical insertion of “(Terra Del Fuego)” gives the Portuguese “Terra” instead of the proper Spanish, “Tierra.” Since Melville’s 1846 edition of Darwin’s classic voyage of the Beagle spells the word properly, the word “Terra” is probably a typo, and MEL corrects to “Tierra.”</note> Del Fuego), “over which the beech tree extended its branches.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:305" type="person">Darwin</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:193" type="text">Voyage of a Naturalist</name>.</p>
 <lb/>
 <p>“‘Stern all!’ exclaimed the mate, as upon turning his head, he saw the distended jaws of a large Sperm Whale close to the
@@ -373,7 +373,7 @@ of a whale. (A small sized one.)</p>
 <l rend="4em">“So be cheery, my lads, let your hearts never fail,</l>
 <l rend="4em">While the bold harpooneer is striking the whale!”</l>
 </lg>
-<p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:195" type="text">Nantucket Song</name>.</p>
+<p><ref target="#MDextractsNote14"><name ref="https://mel-catalog.herokuapp.com/api/entries/text:195" type="text">Nantucket Song</name></ref><note xml:id="MDextractsNote14">These lines seem to be a conflation of two renderings of a song quoted twice in different versions in Browne’s Etchings. (See Frank, “Two Songs,” MSEx 63: 4-7.)</note>.</p>
 <lb/>
 <lg>
 <l rend="4em">“Oh, the rare old Whale, mid storm and gale</l>
