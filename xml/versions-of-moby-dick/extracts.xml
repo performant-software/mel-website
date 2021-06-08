@@ -247,40 +247,48 @@ of a whale. (A small sized one.)</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:935" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:290" type="person">Colnett</name></name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:162" type="text">Voyage for the Purpose of Extending the Spermacetti Whale Fishery</name>.</p>
 <lb/>
 <lg>
-	<l>“In the free element beneath me swam,</l>
-<l>Floundered and dived, in play, in chace, in battle,</l>
-<l>Fishes of every color, form, and kind;</l>
-<l>Which language cannot paint, and mariner</l>
-<l>Had never seen; from dread Leviathan</l>
-<l>To insect millions peopling every wave:</l>
-<l>Gather’d in shoals immense, like floating islands,</l>
-<l>Led by mysterious instincts through that waste</l>
-<l>And trackless region, though on every side</l>
-<l>Assaulted by voracious enemies,</l>
-<l>Whales, sharks, and monsters, arm’d in front or jaw,</l>
-<l>With swords, saws, spiral horns, or hooked fangs.”</l>
+<l rend="4em">“In the free element beneath me swam,</l>
+<l rend="4em">Floundered and dived, in play, in chace, in battle,</l>
+<l rend="4em">Fishes of every color, form, and kind;</l>
+<l rend="4em">Which language cannot paint, and mariner</l>
+<l rend="4em">Had never seen; from dread Leviathan</l>
+<l rend="4em">To insect millions peopling every wave:</l>
+<l rend="4em">Gather’d in shoals immense, like floating islands,</l>
+<l rend="4em">Led by mysterious instincts through that waste</l>
+<l rend="4em">And trackless region, though on every side</l>
+<l rend="4em">Assaulted by voracious enemies,</l>
+<l rend="4em">Whales, sharks, and monsters, arm’d in front or jaw,</l>
+<l rend="4em">With swords, saws, spiral horns, or hooked fangs.”</l>
 </lg>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:291" type="person">Montgomery</name>’s <ref target="#ref_19462">World before the Flood</ref><note xml:id="ref_19462"><ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:163">The World Before the Flood</ref>: the source is actually <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:291">Montgomery, James, 1771-1854</ref>'s "<ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:164">The Pelican Island</ref>."</note>.</p>
-<lg><l>“Io! Pæan! Io! sing,</l>
-<l>To the finny people’s king.</l>
-<l>Not a mightier whale than this</l>
-<l>In the vast <name ref="https://mel-catalog.herokuapp.com/api/entries/place:33" type="place">Atlantic</name> is;</l>
-<l>Not a fatter fish than he,</l>
-<l>Flounders round the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:386" type="place">Polar Sea</name>."</l>
+<lb/>
+<lg>
+<l rend="6em">“Io! Pæan! Io! sing,</l>
+<l rend="6em">To the finny people’s king.</l>
+<l rend="6em">Not a mightier whale than this</l>
+<l rend="6em">In the vast <name ref="https://mel-catalog.herokuapp.com/api/entries/place:33" type="place">Atlantic</name> is;</l>
+<l rend="6em">Not a fatter fish than he,</l>
+<l rend="6em">Flounders round the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:386" type="place">Polar Sea</name>."</l>
 </lg>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:292" type="person">Charles Lamb</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:166" type="text">Triumph of the Whale</name>.</p>
+<lb/>
 <p>“In the year 1690 some persons were on a high hill observing the whales spouting and sporting with each other, when one observed; there—pointing to the sea—is a green pasture where our children’s grand-children will go for bread.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:293" type="person">Obed Macy</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:167" type="text">History of Nantucket</name>.</p>
+<lb/>
 <p>“I built a cottage for Susan and myself and made a gateway in the form of a Gothic Arch, by setting up a whale’s jaw bones.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1010" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:250" type="person">Hawthorne</name></name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:168" type="text">Twice Told Tales</name>.</p>
+<lb/>
 <p>“She came to bespeak a monument for her first love, who had been killed by a whale in the Pacific ocean, no less than forty years ago.”</p>
 <p>Ibid.</p>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431212982802-zl18jabz7op-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0032.jpg"/><p>“No, Sir, ’tis a Right Whale,” answered Tom; “I saw his spout; he threw up a pair of as pretty rainbows as a Christian would wish to look at. He’s a raal oil-butt, that fellow!”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:294" type="person">Cooper</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:169" type="text">Pilot</name>.</p>
+<lb/>
 <p>“The papers were brought in, and we saw in the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:36" type="place">Berlin</name> Gazette that whales had been introduced on the stage there.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:295" type="person">Eckermann</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:170" type="text">Conversations with Goethe</name>.</p>
+<lb/>
 <p>“My God! Mr. Chace, what is the matter?” I answered, “we have been stove by a whale.”</p>
 <p>“<name ref="https://mel-catalog.herokuapp.com/api/entries/text:171" type="text">Narrative of the Shipwreck of the Whale Ship Essex </name>of Nantucket, which was attacked and finally destroyed by a large Sperm Whale in the Pacific Ocean.” By <name ref="https://mel-catalog.herokuapp.com/api/entries/person:296" type="person">Owen Chace</name> of Nantucket, first mate of said vessel. New York. 1821.</p>
+<lb/>
 <lg>
 	<l>“A <name ref="https://mel-catalog.herokuapp.com/api/entries/text:172" type="text">mariner</name> sat in the shrouds one night,</l>
 <l>The wind was piping free;</l>
