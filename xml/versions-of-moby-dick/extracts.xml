@@ -180,21 +180,27 @@ Phil. Trans. A. D.1668</name>.</p>
 <p>“We saw also abundance of large whales, there being more in those southern seas, as I may say, by a hundred to one; than we have to the northward of us.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:266" type="person">Captain Cowley</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:143" type="text">Voyage round the Globe</name>. A. D. 1729.</p>
 <lb/>
-<p>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; *   *   *   *   * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; “and the breath of the whale is frequently attended with such an insupportable smell, as to bring on a disorder of the brain.”</p>
+<p>&#xA0;&#xA0; * &#xA0;&#xA0; * &#xA0;&#xA0; * &#xA0;&#xA0; * &#xA0;&#xA0; * &#xA0;&#xA0; “and the breath of the whale is frequently attended with such an insupportable smell, as to bring on a disorder of the brain.”</p>
 <p><ref target="#MDextractsNote6"><hi rend="bold"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:267" type="person">Ulloa</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:144" type="text">South America</name></hi></ref><note xml:id="MDextractsNote6">REVISION NARRATIVE: The original source speaks of the “insupportable smell” of a fish. Melville essentially adapts the observation, applying it to whales, to create an “extract” of his own.</note>.</p>
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431182144603-k5tqa81z1nb-70e1a0d5897d5bd0a0feac2a628413ef%2F000005737_0029.jpg"/><lg>
-<l>“To fifty chosen sylphs of special note,</l>
-<l>We trust the important charge, the petticoat.</l>
-<l>Oft have we known that seven-fold fence to fail,</l>
-<l>Tho’ stuffed with hoops and armed with ribs of whale.”</l>
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431182144603-k5tqa81z1nb-70e1a0d5897d5bd0a0feac2a628413ef%2F000005737_0029.jpg"/>
+<lg>
+<l rend="4em">“To fifty chosen sylphs of special note,</l>
+<l rend="4em">We trust the important charge, the petticoat.</l>
+<l rend="4em">Oft have we known that seven-fold fence to fail,</l>
+<l rend="4em">Tho’ stuffed with hoops and armed with ribs of whale.”</l>
 </lg>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:149" type="text">Rape of the Lock</name>.</p>
+<lb/>
 <p>“If we compare land animals in respect to magnitude, with those that take up their abode in the deep, we shall find they will appear contemptible in the comparison. The whale is doubtless the largest animal in creation.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:936" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:275" type="person">Goldsmith</name></name>, <name ref="https://mel-catalog.herokuapp.com/api/entries/text:150" type="text"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:936" type="artwork">Nat. His</name>.</name></p>
+<lb/>
 <p>“If you should write a fable for little fishes, you would make them speak like great whales.”</p>
-<p><ref target="#ref_19569">Goldsmith to Johnson</ref><note xml:id="ref_19569">Goldsmith to Johnson: This line appears in the <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:151">Life of Samuel Johnson</ref> by <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:277">Boswell, James, 1740-1795</ref>. He is paraphrasing a remark by <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:275">Goldsmith, Oliver, 1730?-1774</ref> to <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:276">Johnson, Samuel, 1709-1784</ref>.</note>.</p>
-<p>“In the afternoon we saw what was supposed to be a rock, but it was found to be a dead whale, which some Asiatics had killed, and were then towing ashore. They seemed to endeavor to conceal themselves behind the whale, in order to avoid being seen by us.”</p>	<p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:222" type="person">Cook</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:152" type="text">Voyage</name>s.</p>
-<p>“The larger whales, they seldom venture to attack. They stand in so great dread of some of them, that when out at sea they are afraid to mention even their names, and carry dung, lime-stone, juniper-wood, and some other articles of the same nature in their boats, in order to terrify and prevent their too near approach.”</p>
+<p><ref target="#ref_19569">Goldsmith to Johnson</ref><note xml:id="ref_19569">Goldsmith to Johnson: This line appears in the <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:151">Life of Samuel Johnson</ref> by <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:277">James Boswell</ref>, who is paraphrasing a remark by <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:275">Oliver Goldsmith</ref> to <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:276">Johnson</ref>.</note>.</p>
+<lb/>
+<p>“In the afternoon we saw what was supposed to be a rock, but it was found to be a dead whale, which some Asiatics had killed, and were then towing ashore. They seemed to endeavor to conceal themselves behind the whale, in order to avoid being seen by us.”</p>
+<p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:222" type="person">Cook</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:152" type="text">Voyage</name>s.</p>
+<lb/>
+<p>“The larger whales, they seldom venture to attack. They stand in so great dread of some of them, that when out at sea they are afraid to mention even their names, and carry dung, <ref target="#MDextractsNote7">lime-stone</ref><note xml:id="MDextractsNote7">lime-stone: Melville’s word “lime-stone,” appearing in both American and British editions, is “brim-stone” in the original Von Troil source and may be a mis-transcription on Melville’s part. The editors of the NN Moby-Dick emend “lime-stone” to “brim-stone,” but in keeping with its principle of not correcting Melville’s errors, MEL makes no change but records the difference through annotation.</note>, juniper-wood, and some other articles of the same nature in their boats, in order to terrify and prevent their too near approach.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:153" type="text">Uno Von Troil’s Letters on Banks’s and Solander’s Voyage to Iceland in 1772</name>.</p>
 <p>“The Spermacetti Whale found by the Nantuckois, is an active, fierce animal, and requires vast address and boldness in the fishermen.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:278" type="person">Thomas Jefferson</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:154" type="text">Whale Memorial to the French minister in 1778</name>.</p>
