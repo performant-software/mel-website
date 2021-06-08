@@ -260,7 +260,7 @@ of a whale. (A small sized one.)</p>
 <l rend="4em">Whales, sharks, and monsters, arm’d in front or jaw,</l>
 <l rend="4em">With swords, saws, spiral horns, or hooked fangs.”</l>
 </lg>
-<p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:291" type="person">Montgomery</name>’s <ref target="#ref_19462">World before the Flood</ref><note xml:id="ref_19462"><ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:163">The World Before the Flood</ref>: the source is actually <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:291">Montgomery, James, 1771-1854</ref>'s "<ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:164">The Pelican Island</ref>."</note>.</p>
+<p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:291" type="person">Montgomery</name>’s <ref target="#ref_19462">World before the Flood</ref><note xml:id="ref_19462"><ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:163">The World Before the Flood</ref>: the source is actually "<ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:164">The Pelican Island</ref>" by <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:291">James Montgomery</ref></note>.</p>
 <lb/>
 <lg>
 <l rend="6em">“Io! Pæan! Io! sing,</l>
@@ -287,25 +287,29 @@ of a whale. (A small sized one.)</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:295" type="person">Eckermann</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:170" type="text">Conversations with Goethe</name>.</p>
 <lb/>
 <p>“My God! Mr. Chace, what is the matter?” I answered, “we have been stove by a whale.”</p>
-<p>“<name ref="https://mel-catalog.herokuapp.com/api/entries/text:171" type="text">Narrative of the Shipwreck of the Whale Ship Essex </name>of Nantucket, which was attacked and finally destroyed by a large Sperm Whale in the Pacific Ocean.” By <name ref="https://mel-catalog.herokuapp.com/api/entries/person:296" type="person">Owen Chace</name> of Nantucket, first mate of said vessel. New York. 1821.</p>
+<p>“<ref target="#MDextractsNote8"><name ref="https://mel-catalog.herokuapp.com/api/entries/text:171" type="text">Narrative of the Shipwreck of the Whale Ship Essex </name>of Nantucket, which was attacked and finally destroyed by a large Sperm Whale in the Pacific Ocean.” By <name ref="https://mel-catalog.herokuapp.com/api/entries/person:296" type="person">Owen Chace</name> of Nantucket, first mate of said vessel. New York. 1821</ref><note xml:id="MDextractsNote8">Owen Chace: The editors of the NN Moby-Dick correct the spelling of “Chace” to “Chase,” as it appears in Chase’s book; MEL retains the American edition’s spelling since it is a variant of the name and one Melville himself used in annotating his copy of Chase’s narrative. In the title cited for this extract, Melville has dropped “Most Extraordinary and Distressing” as adjectives for “Shipwreck” and reduced the original “Spermaceti-Whale” to “Sperm Whale.”</note></p>
 <lb/>
 <lg>
-	<l>“A <name ref="https://mel-catalog.herokuapp.com/api/entries/text:172" type="text">mariner</name> sat in the shrouds one night,</l>
-<l>The wind was piping free;</l>
-<l>Now bright, now dimmed, was the moonlight pale,</l>
-<l>And the phospher gleamed in the wake of the whale,</l>
-<l>As it floundered in the sea.”</l>
+<l rend="4em">“A <name ref="https://mel-catalog.herokuapp.com/api/entries/text:172" type="text">mariner</name> sat in the shrouds one night,</l>
+<l rend="6em">The wind was piping free;</l>
+<l rend="4em">Now bright, now dimmed, was the moonlight pale,</l>
+<l rend="4em">And the phospher gleamed in the wake of the whale,</l>
+<l rend="6em">As it floundered in the sea.”</l>
 </lg>
-<p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:297" type="person">Elizabeth Oakes Smith</name>.
-“The quantity of line withdrawn from the different boats engaged in the capture of this one whale, amounted altogether to 10,440 yards or nearly six English miles.”  *  *  *</p>
+<p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:297" type="person">Elizabeth Oakes Smith</name>.</p>
+<lb/>
+<p>“The quantity of line withdrawn from the different boats engaged in the capture of this one whale, amounted altogether to 10,440 yards or nearly six English miles.”  *  *  *</p>
 <p>“Sometimes the whale shakes its tremendous tail in the air, which, cracking like a whip, resounds to the distance of three or four miles.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:303" type="person"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:966" type="artwork">Scoresby</name></name>.</p>
+<lb/>
 <p>“Mad with the agonies he endures from these fresh attacks, the infuriated Sperm Whale rolls over and over; he rears his enormous head, and with wide expanded jaws snaps at everything around him; he rushes at the boats with his head; they are propelled before him with vast swiftness, and sometimes utterly destroyed.</p>
-<p>*   *   *   It is a matter of great astonishment that the consideration of the habits of so interesting, and, in a commercial
+<p>&#xA0;&#xA0; * &#xA0;&#xA0; * &#xA0;&#xA0; * &#xA0;&#xA0; It is a matter of great astonishment that the consideration of the habits of so interesting, and, in a commercial
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431213000609-gyi6njhico5-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0033.jpg"/>point of view, of so important an animal (as the Sperm Whale) should have been so entirely neglected, or should have excited so little curiosity among the numerous, and many of them competent observers, that of late years must have possessed the most abundant and the most convenient opportunities of witnessing their habitudes.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:955" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:304" type="person">Thomas Beale</name></name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:176" type="text">History of the Sperm Whale</name>, 1839.</p>
+<lb/>
 <p>“The Cachalot” (Sperm Whale) “is not only better armed than the True Whale” (Greenland or Right Whale) “in possessing a formidable weapon at either extremity of its body, but also more frequently displays a disposition to employ these weapons offensively, and in a manner at once so artful, bold, and mischievous, as to lead to its being regarded as the most dangerous to attack of all the known species of the whale tribe.”</p>
-				<p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:184" type="text">Frederick Debell Bennett’s Whaling Voyage Round the Globe</name>. 1840.</p>
+<p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:184" type="text">Frederick Debell Bennett’s Whaling Voyage Round the Globe</name>. 1840.</p>
+<lb/>
 <p>October 13. “There she blows,” was sung out from the mast-head.</p>
 <p>“Where away?” demanded the captain.</p>
 <p>“Three points off the lee bow, sir.”</p>
@@ -319,6 +323,7 @@ of a whale. (A small sized one.)</p>
 <p>“Two miles and a half.”</p>
 <p>“Thunder and lightning! so near! Call all hands!”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:239" type="person"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:958" type="artwork">J. Ross Browne</name></name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:115" type="text">Etchings of a Whaling Cruize</name>. 1846.</p>
+<lb/>
 <p>“The Whale-ship Globe, on board of which vessel occurred the horrid transactions we are about to relate, belonged to the island of Nantucket.”</p>
 <p>“<name ref="https://mel-catalog.herokuapp.com/api/entries/text:185" type="text">Narrative of the Globe Mutiny</name>,” by Lay and Hussey survivors. A. D. 1828.</p>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431213023618-35d415uv3xt-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0034.jpg"/><p>“Being once pursued by a whale which he had wounded, he parried the assault for some time with a lance; but the furious monster at length rushed on the boat; himself and comrades only being preserved by leaping into the water when they saw the onset was inevitable.”</p>
