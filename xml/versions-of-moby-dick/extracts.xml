@@ -135,6 +135,7 @@ Ohthere or Ottar was included in a 9th-century volume containing a translation o
 <lb/>
 <p>“The mighty whales which swim in a sea of water, and have a sea of oil swimming in them.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:257" type="person">Fuller</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:135" type="text">Profane and Holy State</name>.</p>
+<lb/>
 <lg>
 <l rend="2em">“So close behind some promontory lie</l>
 <l rend="4em">The huge Leviathans to attend their prey,</l>
@@ -163,18 +164,26 @@ Ohthere or Ottar was included in a 9th-century volume containing a translation o
 <lb/>
 <p>“Several whales have come in upon this coast (Fife). Anno 1652, one eighty feet in length of the whale-bone kind came in, which, (as I was informed) besides a vast quantity of oil, did afford 500 weight of baleen. The jaws of it stand for a gate in the garden of Pitfirren.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:265" type="person">Sibbald</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:140" type="text">Fife and Kinross</name>.</p>
+<lb/>
 <p>“Myself have agreed to try whether I can master and kill this Sperma-ceti whale, for I could never hear of any of that sort that was killed by any man, such is his fierceness and swiftness.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:141" type="text">Richard Stafford’s Letter from the Bermudas.
 Phil. Trans. A. D.1668</name>.</p>
-<p>“Whales in the sea <lb/>
-God’s voice obey.”</p>
+<lb/>
+<p>
+<lg>
+<l rend="4em"> “Whales in the sea</l>
+<l rend="4em">God’s voice obey.”</l>
+</lg>
+</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:931" type="artwork"><name ref="https://mel-catalog.herokuapp.com/api/entries/text:142" type="text">N. E. Primer</name></name>.</p>
+<lb/>
 <p>“We saw also abundance of large whales, there being more in those southern seas, as I may say, by a hundred to one; than we have to the northward of us.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:266" type="person">Captain Cowley</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:143" type="text">Voyage round the Globe</name>. A. D. 1729.</p>
-<p>*   *   *   *   *   “and the breath of the whale is frequently attended with such an insupportable smell, as to bring on a disorder of the brain.”</p>
-<p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:267" type="person">Ulloa</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:144" type="text">South America</name>.</p>
+<lb/>
+<p>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; *   *   *   *   * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; “and the breath of the whale is frequently attended with such an insupportable smell, as to bring on a disorder of the brain.”</p>
+<p><ref target="#MDextractsNote6"><hi rend="bold"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:267" type="person">Ulloa</name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:144" type="text">South America</name></hi></ref><note xml:id="MDextractsNote6">REVISION NARRATIVE: The original source speaks of the “insupportable smell” of a fish. Melville essentially adapts the observation, applying it to whales, to create an “extract” of his own.</note>.</p>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431182144603-k5tqa81z1nb-70e1a0d5897d5bd0a0feac2a628413ef%2F000005737_0029.jpg"/><lg>
-	<l>“To fifty chosen sylphs of special note,</l>
+<l>“To fifty chosen sylphs of special note,</l>
 <l>We trust the important charge, the petticoat.</l>
 <l>Oft have we known that seven-fold fence to fail,</l>
 <l>Tho’ stuffed with hoops and armed with ribs of whale.”</l>
