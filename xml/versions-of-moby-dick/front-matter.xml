@@ -6,7 +6,7 @@
 			<title>Front Matter</title>
 			</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -15,32 +15,42 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 			<text>
 				<front>
 				<div type="title-page"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227963673-oymdc8uqz2l-579233b5c053191025a2b5052370a578%2F000005737_0014.jpg"/>
-<p rend="center">MOBY-DICK;
-<lb/>OR,
-<lb/>THE WHALE.
-					<lb/>by
-					<lb/>Herman Melville
-					<lb/>Author of
-					<lb/>“TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET”
-					<lb/>NEW YORK:
-					<lb/>HARPER &amp; BROTHERS, PUBLISHERS.
-					<lb/>LONDON: RICHARD BENTLEY.
+<head type="main" rend="center"><ref target="#MDtitleNote1">M O B Y - D I C K</ref><note xml:id="MDtitleNote1">REVISION NARRATIVE: Title // The reason for the differing book titles for the American and British versions is not known but a matter for informed speculation. The most compelling argument is that Melville originally titled his novel <hi rend="bold">The Whale; or, Moby Dick</hi>, which is the version he sent to England. However, in the meantime, he reversed title and subtitle, thus giving us <hi rend="bold">Moby-Dick; or, The Whale</hi>, which he was able to change for the American version, but, it has been suggested, that shift came too late to register in the British version; hence, the differing titles. The hyphenated American title, retained in the NN and MEL editions of Moby-Dick, follows a common practice among publishers of the day, and the hyphenation has now become a convenient way of distinguishing Moby-Dick, the book, from Moby Dick, the whale. To compare American and British pages, click the thumbnails in the right margin. The British "half title" page featured here gives both title and sub-title. The British full-title page—full because it gives publication information—includes an epigraph from Milton's Paradise Lost, not present in the American full-title page. The Miltonic passage does appear in Extracts and is discussed there.</note>;</head> <pb facs="/images/md-british-v1/MD_Brit_v1_0010.jpg"/>
+<p rend="center"><lb/><lb/><hi rend="smallcaps">or,</hi></p>
+<lb/><lb/><head type="main" rend="center">T H E &#xA0;&#xA0; W H A L E.</head>
+<p rend="center"><lb/><lb/><hi rend="smallcaps">by</hi>
+<lb/><lb/>HERMAN MELVILLE
+<lb/><hi rend="smallcaps">author of</hi>
+<lb/><hi rend="smallcaps">“TYPEE,” “OMOO,” “REDBURN,” “MARDI,” “WHITE-JACKET”</hi>
+<lb/><lb/><lb/><lb/>N E W &#xA0;&#xA0; Y O R K:
+					<lb/>H A R P E R &#xA0;&#xA0;&amp;&#xA0;&#xA0; B R O T H E R S, P U B L I S H E R S.
+					<lb/>L O N D O N: &#xA0;&#xA0; R I C H A R D &#xA0;&#xA0; B E N T L E Y.
 					<lb/>1851</p></div>
 <div type="copyright"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227990793-uwpamk3gosh-579233b5c053191025a2b5052370a578%2F000005737_0015.jpg"/>
-	<p>Entered, according to Act of Congress, in the year 1851, by
-HERMAN MELVILLE,
-in the Clerk&apos;s Office of the District Court for the Southern District of New York.</p></div>
-<div type="dedication"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228012505-fqm0ouvbzbu-579233b5c053191025a2b5052370a578%2F000005737_0016.jpg"/><p>IN TOKEN
-OF MY ADMIRATION FOR HIS GENIUS,
-This Book is Inscribed
-TO
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:250" type="person">NATHANIEL HAWTHORNE</name>.</p></div>
+<lb/>
+<lb/>
+<p rend="center">Entered, according to Act of Congress, in the year 1851, by
+<lb/>HERMAN MELVILLE,
+<lb/>in the Clerk&apos;s Office of the District Court for the Southern District of New York.</p></div>
+<div type="dedication"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228012505-fqm0ouvbzbu-579233b5c053191025a2b5052370a578%2F000005737_0016.jpg"/>
+<p rend="center">
+	<lb/>
+	<lb/>
+<lb/><hi rend="smallcaps">in token</hi>
+<lb/><lb/><hi rend="smallcaps">of my admiration for his genius,</hi>
+<lb/><lb/><hi rend="bold">THIS BOOK IS INSCRIBED</hi>
+<lb/><lb/><hi rend="smallcaps">to</hi>
+<lb/><lb/><name ref="https://mel-catalog.herokuapp.com/api/entries/person:250" type="person">N A T H A N I E L &#xA0;&#xA0; H A W T H O R N E.</name>.</p></div>
 <div type="contents"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431228027763-sxizpa3ily-579233b5c053191025a2b5052370a578%2F000005737_0018.jpg"/>
-	<head type="main" rend="center">CONTENTS</head>
+<lb/>
+<lb/>
+<lb/>
+<lb/>
+<head type="main" rend="center">CONTENTS</head>
 	<list>
 		<item>1.	— Loomings	21</item>
 		<item>2.	— The Carpet Bag	26</item>
