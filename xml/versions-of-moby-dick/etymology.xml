@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>Etymology</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,33 +18,35 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227481825-qx23wi0k81-bb4b1b673c87fe661ebcec7e43132023%2F000005737_0021.jpg"/>
-				<head type="main" rend="center">ETYMOLOGY</head>
-<head type="sub-head" rend="center">(SUPPLIED BY A LATE <ref target="#ref_19450">CONSUMPTIVE USHER</ref><note xml:id="ref_19450">Consumptive Usher: assistant teacher with consumption (tuberculosis). </note> TO A GRAMMAR SCHOOL.)</head>
+				<head type="main" rend="center">E T Y M O L O G Y.</head>
+				<lb/>
+<head type="sub-head" rend="center">(SUPPLIED BY A LATE <ref target="#ref_19450">CONSUMPTIVE USHER</ref><note xml:id="ref_19450">Consumptive Usher: assistant teacher with consumption (tuberculosis).</note>
+<lb/>TO A GRAMMAR SCHOOL.)</head>
 <p>The pale Usher—threadbare in coat, heart, body, and brain; I see him now. He was ever dusting his old lexicons and grammars, with a queer handkerchief, mockingly embellished with all the gay flags of all the known nations of the world. He loved to dust his old grammars; it somehow mildly reminded him of his mortality.
 </p><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431227528354-1lt3ihrlf2p-bb4b1b673c87fe661ebcec7e43132023%2F000005737_0022.jpg"/>
-			<p rend="center">ETYMOLOGY.</p>
+			<p rend="center"><ref target="#MDetymologyNote1">ETYMOLOGY.</ref><note xml:id="MDetymologyNote1">Etymology and Extracts: These two introductory sections appear before Melville’s more famous opener “Call me Ishmael” to establish in a somewhat eccentric way Ishmael’s scholastic side. Both sections were repositioned in the British edition, either accidentally or intentionally, at the end of the third and final volume of The Whale. In Etymology, Melville’s list of non-English language words for “whale” range from the incorrect to the comically inventive.</note></p>
 <p>“While you take in hand to school others, and to teach them by what name a whale-fish is to be called in our tongue, leaving out, through ignorance, the letter H, which almost alone maketh up the signification of the word, you deliver that which is not true.”
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:226" type="person">Hackluyt</name>.</p>
+<name ref="https://mel-catalog.herokuapp.com/api/entries/person:226" type="person"><hi rend="italic">Hackluyt</hi></name>.</p>
 <p>“WHALE.  *  *  *  Sw. and Dan. hval. This animal is named from roundness or rolling; for in Dan. hvalt is arched or vaulted.”
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:228" type="person">Webster</name>’s Dictionary.</p>
+<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:228" type="person">Webster</name>’s Dictionary.</hi></p>
 <p>“WHALE.  *  *  *  It is more immediately from the Dut. and Ger. Wallen; A.S. Walw-ian, to roll, to wallow.”
-<name ref="https://mel-catalog.herokuapp.com/api/entries/person:227" type="person">Richardson</name>’s Dictionary.</p>
-				<p>חו,	Hebrew.</p>
-				<p>ϰητος,	Greek.</p>
-<p>CETUS,	Latin.</p>
-				<p>WHŒL,	Anglo-Saxon.</p>
-<p>HVALT,	Danish.</p>
-<p>WAL,	Dutch.</p>
-<p>HWAL,	Swedish.</p>
-<p>WHALE,	Icelandic.</p>
-<p>WHALE,	English.</p>
-<p>BALEINE,	French.</p>
-<p>BALLENA,	Spanish.</p>
-<p>PEKEE-NUEE-NUEE,	Fegee.</p>
-<p>PEHEE-NUEE-NUEE,	Erromangoan.</p>
+<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:227" type="person">Richardson</name>’s Dictionary.</hi></p>
+				<p>חו, <ref target="#MDetymologyNote2"><hi rend="italic">Hebrew</hi></ref><note xml:id="MDetymologyNote2">The Hebrew word is particularly garbled. Both American and British editions print the letters vh (he and nun, as read from right to left), pronounced “hen,” which has a number of meanings, none of which is “whale” or “leviathan.” Melville’s source was no doubt Kitto’s Cyclopaedia of Biblical Literature, which gives the letters vu (tav and nun, again read right to left), or “tan,” as “whale,” even though the Hebrew word for whale is “tanin” or “tanim.” Chances are Melville intended Kitto’s erroneous word “tan,” but his printer gave him “hen.” The editors of the NN Moby-Dick correct the text to the incorrect “tan”; however, MEL retains the original. (See also Dorothee Metlitzki, “The Letter ‘H’ in Melville’s Whale,” MSEx 47: 8; Neal Schleifer, “Melville as Lexicographer,” MSEx 98:1-6, and Batsheva Dreisinger, “Behold the Hope in Him is in Vain,” MSEx 114: 1-4.)</note>.</p>
+				<p>ϰητος,	<ref target="#MDetymologyNote3"><hi rend="italic">Greek</hi></ref><note xml:id="MDetymologyNote3">The Greek in both American and British versions is rendered in a non-standard typeface and seems to begin with the letter chi; however, it should be, in fact, a kappa. MEL emulates Melville’s original transcription. </note>.</p>
+<p>CETUS,	<hi rend="italic">Latin</hi>.</p>
+<p>WHÆL,	<ref target="#MDetymologyNote4"><hi rend="italic">Anglo-Saxon</hi></ref><note xml:id="MDetymologyNote4">Both the NN and MEL editions correct the American and British typo of “WHŒL,” appearing as the Anglo-Saxon entry, to “WHÆL.” </note>.</p>
+<p>HVALT,	<ref target="#MDetymologyNote5"><hi rend="italic">Danish</hi></ref><note xml:id="MDetymologyNote5">Generally speaking, MEL’s policy is not to correct Melville’s errors of fact, but to record them in textual annotations. For instance, MEL does not correct “Hvalt” (Danish for “arched”) to “Hval” (“whale”), nor Melville’s confusion of Dutch for German, nor the presumed cognate of “Whale” for the actual Icelandic word for whale, “Hvalur.” All of these errors are corrected in the NN edition of Moby-Dick.</note>.</p>
+<p>WAL,	<ref target="#MDetymologyNote5"><hi rend="italic">Dutch</hi></ref>.</p>
+<p>HWAL, <hi rend="italic">Swedish.</hi></p>
+<p>WHALE,	<ref target="#MDetymologyNote5"><hi rend="italic">Icelandic</hi></ref>.</p>
+<p>WHALE,	<hi rend="italic">English</hi>.</p>
+<p>BALEINE,	<hi rend="italic">French</hi>.</p>
+<p>BALLENA,	<hi rend="italic">Spanish</hi>.</p>
+<p>PEKEE-NUEE-NUEE,	<ref target="#MDetymologyNote6"><hi rend="italic">Fegee</hi></ref><note xml:id="MDetymologyNote6">The Fegee and Erromangoan words that conclude the list—roughly meaning "very very big fish"—are either sailor talk or Melville’s invention; the Polynesian for whale is actually “pahua” or “palaoa.”</note>.</p>
+<p>PEHEE-NUEE-NUEE,	<ref target="#MDetymologyNote6"><hi rend="italic">Erromangoan</hi></ref>.</p>
 </body>
 		</text>
 	</TEI>
