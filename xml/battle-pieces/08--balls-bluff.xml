@@ -4,6 +4,7 @@
 		<fileDesc>
 			<titleStmt>
 				<title>7 - Ball's Bluff</title>
+				<editor>Tianyu Ji</editor>
 			</titleStmt>
 			<publicationStmt>
 
@@ -24,34 +25,37 @@
 				(<hi rend="smallcaps">October</hi>, 1861.)<lb/>
 			</head>
 			<lb/>
-			<lg>
-				<l><hi rend="smallcaps">One</hi> noonday, at my window in the town,</l>
-				<l rend="2em">I saw a sight—saddest that eyes can see—</l>
-				<l rend="2em">Young soldiers marching lustily</l>
-				<l rend="6em">Unto the wars,</l>
-				<l n="5">With fifes, and flags in mottoed pageantry;</l>
-				<l rend="4em">While all the porches, walks, and doors</l>
-				<l>Were rich with ladies cheering royally.</l>
+		<lg>
+			<lg n="1" type="septet" rhyme="abbcbcb">
+				<l met="?10"><hi rend="smallcaps">One</hi> noonday, at my window in the <rhyme label="a">town</rhyme>,</l>
+				<l rend="2em" met="?10">I saw a sight—saddest that eyes can <rhyme label="b">see</rhyme>—</l>
+				<l rend="2em" met="tetrameter">Young soldiers marching <rhyme label="b">lustily</rhyme></l>
+				<l rend="6em" met="?4">Unto the <rhyme label="c">wars</rhyme>,</l>
+				<l n="5" met="?11">With fifes, and flags in mottoed <rhyme label="b">pageantry</rhyme>;</l>
+				<l rend="4em" met="tetrameter">While all the porches, walks, and <rhyme label="c">doors</rhyme></l>
+				<l met="?10">Were rich with ladies cheering <rhyme label="b">royally</rhyme>.</l>
 			</lg>
 
-			<lg><l>They moved like Juny morning on the wave,</l>
-				<l rend="2em">Their hearts were fresh as clover in its prime</l>
-				<l n="10" rend="2em">(It was the breezy summer time),</l>
-				<l rend="6em">Life throbbed so strong,</l>
-				<l>How should they dream that Death in a rosy clime</l>
-				<l rend="4em">Would come to thin their shining throng?</l>
-				<l>Youth feels immortal, like the gods sublime. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0037.jpg"/></l>
+			<lg n="2" type="septet" rhyme="deefefe">
+				<l met="?10">They moved like Juny morning on the <rhyme label="d">wave</rhyme>,</l>
+				<l rend="2em" met="?10">Their hearts were fresh as clover in its <rhyme label="e">prime</rhyme></l>
+				<l n="10" rend="2em" met="tetrameter">(It was the breezy summer <rhyme label="e">time</rhyme>),</l>
+				<l rend="6em" met="?4">Life throbbed so <rhyme label="f">strong</rhyme>,</l>
+				<l met="11">How should they dream that Death in a rosy <rhyme label="e">clime</rhyme></l>
+				<l rend="4em" met="tetrameter">Would come to thin their shining <rhyme label="f">throng</rhyme>?</l>
+				<l met="?10">Youth feels immortal, like the gods <rhyme label="e">sublime</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0037.jpg"/></l>
 			</lg>
 
-			<lg>
-				<l n="15">Weeks passed; and at my window, leaving bed,</l>
-				<l rend="2em">By night I mused, of easeful sleep bereft,</l>
-				<l rend="2em">On those brave boys (Ah War! thy theft);</l>
-				<l rend="6em">Some marching feet</l>
-				<l>Found pause at last by cliffs Potomac cleft;</l>
-				<l n="20" rend="4em">Wakeful I mused, while in the street</l>
-				<l>Far footfalls died away till none were left.</l>
+			<lg n="3" type="septet" rhyme="ghhihih">
+				<l n="15" met="?10">Weeks passed; and at my window, leaving <rhyme label="g">bed</rhyme>,</l>
+				<l rend="2em" met="?10">By night I mused, of easeful sleep <rhyme label="h">bereft</rhyme>,</l>
+				<l rend="2em" met="tetrameter">On those brave boys (Ah War! thy <rhyme label="h">theft</rhyme>);</l>
+				<l rend="6em" met="?4">Some marching <rhyme label="i">feet</rhyme></l>
+				<l met="?10">Found pause at last by cliffs Potomac <rhyme label="h">cleft</rhyme>;</l>
+				<l n="20" rend="4em" met="tetrameter">Wakeful I mused, while in the <rhyme label="i">street</rhyme></l>
+				<l met="?10">Far footfalls died away till none were <rhyme label="h">left</rhyme>.</l>
 			</lg>
+		</lg>
 		</div></body>
 	</text>
 </TEI>
