@@ -5,6 +5,7 @@
 			<titleStmt>
 				<title>1 - The Portent</title>
 				<author>Herman Melville</author>
+				<editor>Equis Wang</editor>
 			</titleStmt>
 			<publicationStmt>
 				<p>Melville Electronic Library</p>
@@ -21,26 +22,27 @@
 				<head type="main"><ref target="#EDnotePortent1"><hi rend="italic">The Portent.</hi></ref><note xml:id="EDnotePortent1">In mid-October 1859, radical abolitionist John Brown (1800-1859) led a raid on the US arsenal at Harpers Ferry, VA, in order to instigate a slave insurrection; he was captured, tried, and convicted of treason, and hanged a month later on December 2.</note></head>
 				<head type="sub-head">(1859.)</head>
 				<lb/>
-
-				<lg type="stanza" n="1">
-					<l><hi rend="italic">Hanging from the beam,</hi></l>
-					<l rend="2em"><hi rend="italic">Slowly swaying (such the law),</hi></l>
-					<l><hi rend="italic">Gaunt the shadow on your green,</hi></l>
-					<l rend="2em"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:515" type="place">Shenandoah</name>!</hi></l>
-					<l n="5"><hi rend="italic"><ref target="#ref_20374">The cut is on the crown</ref></hi><note xml:id="ref_20374">In his attack on Harpers Ferry, Brown received a cut on his head from the sword of one of his own men. See also a Shakespearean echo: "It is no English treason to cut French crowns" (<hi rend="italic">Henry V</hi>, 4.i. 245).</note></l>
-					<l><hi rend="italic">(Lo, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:119" type="person">John Brown</name>),</hi></l>
-					<l><hi rend="italic">And the stabs shall heal no more.</hi></l>
+                <lg type="sonnet">
+				<lg type="septet" rhyme="abacdde">
+					<l met="pentameter"><hi rend="italic">Hanging from the <rhyme label="a">beam</rhyme>,</hi></l>
+					<l rend="2em" met="heptameter"><hi rend="italic">Slowly swaying (such the <rhyme label="b">law</rhyme>),</hi></l>
+					<l met="heptameter"><hi rend="italic">Gaunt the shadow on your <rhyme label="a">green</rhyme>,</hi></l>
+					<l rend="2em" met="tetrameter"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:515" type="place"><rhyme label="c">Shenandoah</rhyme></name>!</hi></l>
+					<l n="5" met="hexameter"><hi rend="italic"><ref target="#ref_20374">The cut is on the <rhyme label="d">crown</rhyme></ref></hi><note xml:id="ref_20374">In his attack on Harpers Ferry, Brown received a cut on his head from the sword of one of his own men. See also a Shakespearean echo: "It is no English treason to cut French crowns" (<hi rend="italic">Henry V</hi>, 4.i. 245).</note></l>
+					<l met="trimeter"><hi rend="italic">(Lo, <name ref="https://mel-catalog.herokuapp.com/api/entries/person:119" type="person">John <rhyme label="d">Brown</rhyme></name>),</hi></l>
+					<l met="heptameter"><hi rend="italic">And the stabs shall heal no <rhyme label="e">more</rhyme>.</hi></l>
 				</lg>
 
-				<lg type="stanza" n="2">
-					<l><hi rend="italic">Hidden in the <ref target="#ref_20372">cap</ref></hi><note xml:id="ref_20372">The cap is a covering to conceal Brown's head during execution. He wore a long beard at the time, and images of him on the gallows featured his beard showing out from beneath the cap covering his head, also alluded to by Melville in "streaming beard" below.</note></l>
-					<l rend="2em"><hi rend="italic">Is the anguish none can draw;</hi></l>
-					<l n="10"><hi rend="italic">So your future veils its face,</hi></l>
-					<l rend="2em"><hi rend="italic">Shenandoah!</hi></l>
-					<l><hi rend="italic">But the streaming beard is shown</hi></l>
-					<l><hi rend="italic">(<ref target="#EDnotePortent2">Weird</ref> John Brown),</hi><note xml:id="EDnotePortent2">Not weird as in "strange" or "uncanny" so much as "prophetic" and suggestive of control over human destiny (OED). Also echoed are Shakespeare's "weird sisters" or witches who predict Macbeth's demise.</note></l>
-					<l><hi rend="italic">The <ref target="#EDnotePortent3"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:48" type="event">meteor</name><ref target="https://en.wikipedia.org/wiki/1860_Great_Meteor" type="reference"></ref></ref> of the war.</hi><note xml:id="EDnotePortent3">The "Great Meteor" of 20 July 1860—now called an "Earth-grazing meteor procession"—was witnessed across several states, as were other massive meteors that summer. Frederic Church depicted the event in his painting "Meteor of 1860." Whitman, who witnessed Brown's execution, included him and other momentous events and luminaries in his poem "Year of Meteors. (1859-60.); see https://whitmanarchive.org/published/LG/1867/poems/187"</note></l>
+				<lg type="septet" n="fgfcdde">
+					<l met="pentameter"><hi rend="italic">Hidden in the <ref target="#ref_20372"><rhyme label="f">cap</rhyme></ref></hi><note xml:id="ref_20372">The cap is a covering to conceal Brown's head during execution. He wore a long beard at the time, and images of him on the gallows featured his beard showing out from beneath the cap covering his head, also alluded to by Melville in "streaming beard" below.</note></l>
+					<l rend="2em" met="heptameter"><hi rend="italic">Is the anguish none can <rhyme label="g">draw</rhyme>;</hi></l>
+					<l n="10" met="heptameter"><hi rend="italic">So your future veils its <rhyme label="f">face</rhyme>,</hi></l>
+					<l rend="2em" met="tetrameter"><hi rend="italic"><rhyme label="c">Shenandoah</rhyme>!</hi></l>
+					<l met="heptameter"><hi rend="italic">But the streaming beard is <rhyme label="d">shown</rhyme></hi></l>
+					<l met="trimeter"><hi rend="italic">(<ref target="#EDnotePortent2">Weird</ref> John <rhyme label="d">Brown</rhyme>),</hi><note xml:id="EDnotePortent2">Not weird as in "strange" or "uncanny" so much as "prophetic" and suggestive of control over human destiny (OED). Also echoed are Shakespeare's "weird sisters" or witches who predict Macbeth's demise.</note></l>
+					<l met="heptameter"><hi rend="italic">The <ref target="#EDnotePortent3"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:48" type="event">meteor</name><ref target="https://en.wikipedia.org/wiki/1860_Great_Meteor" type="reference"></ref></ref> of the <rhyme label="e">war</rhyme>.</hi><note xml:id="EDnotePortent3">The "Great Meteor" of 20 July 1860—now called an "Earth-grazing meteor procession"—was witnessed across several states, as were other massive meteors that summer. Frederic Church depicted the event in his painting "Meteor of 1860." Whitman, who witnessed Brown's execution, included him and other momentous events and luminaries in his poem "Year of Meteors. (1859-60.); see https://whitmanarchive.org/published/LG/1867/poems/187"</note></l>
 				</lg>
+                </lg>
 			</div>
 		</body>
 	</text>
