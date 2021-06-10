@@ -27,21 +27,21 @@
 					(<hi rend="smallcaps">August</hi>, 1861.)</head><lb/>
 
 			<lg>
-				<lg n="1" rhyme="abbcc">
+				<lg n="1" type="quintain" rhyme="abbcc">
 					<l met="tetrameter"><hi rend="smallcaps">Some</hi> hearts there are of deeper <rhyme label="a">sort</rhyme>,</l>
 					<l rend="2em" met="?4">Prophetic, <rhyme label="b">sad</rhyme>,</l>
 					<l met="tetrameter">Which yet for cause are trebly <rhyme label="b">clad</rhyme>;</l>
 					<l rend="2em" met="pentameter">Known death they fly <rhyme label="c">on</rhyme>:</l>
 					<l n="5" met="?11">This wizard-heart and heart-of-oak had <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
-				<lg n="2" rhyme="deecc">
+				<lg n="2" type="quintain" rhyme="deecc">
 					<l met="?9">"They are more than twenty thousand <rhyme label="d">strong</rhyme>,</l>
 					<l rend="2em" met="?4">We less than <rhyme label="e">five</rhyme>,</l>
 					<l met="tetrameter">Too few with such a host to <rhyme label="e">strive</rhyme>.”</l>
 					<l rend="2em" met="pentameter">“Such counsel, fie <rhyme label="c">on</rhyme>!</l>
 					<l n="10" met="?11">&apos;Tis battle, or &apos;tis shame;” and firm stood <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
-				<lg n="3" rhyme="fggcc">
+				<lg n="3" type="quintain" rhyme="fggcc">
 					<l met="tetrameter">&quot;For help at need in vain we <rhyme label="f">wait</rhyme>—</l>
 					<l rend="2em" met="?4">Retreat or <rhyme label="g">fight</rhyme>:</l>
 					<l met="tetrameter">Retreat the foe would take for <rhyme label="g">flight</rhyme>,</l>
@@ -49,7 +49,7 @@
 					<l n="15" met="?11">Feel more elate; the end must come,&quot; said <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0033.jpg"/></l>
 				</lg>
 
-				<lg n="4" rhyme="hiicc">
+				<lg n="4" type="quintain" rhyme="hiicc">
 					<l met="tetrameter">By candlelight he wrote the <rhyme label="h">will</rhyme>,</l>
 					<l rend="2em" met="?4">And left his <rhyme label="i">all</rhyme></l>
 					<l met="?10">To <ref target="#ref_20245">Her</ref><note xml:id="ref_20245">Lyon was reported to have willed his estate to the United States.</note> for whom &apos;twas not enough to <rhyme label="i">fall</rhyme>;</l>
@@ -57,7 +57,7 @@
 					<l n="20" met="?11">Without the tent; drums beat; we marched with <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
-				<lg n="5" rhyme="jkkcc">
+				<lg n="5" type="quintain" rhyme="jkkcc">
 					<l met="tetrameter">The night-tramp done, we spied the <rhyme label="j">Vale</rhyme></l>
 					<l rend="2em" met="?4">With guard-fires <rhyme label="k">lit</rhyme>;</l>
 					<l met="?10">Day broke, but trooping clouds made gloom of <rhyme label="k">it</rhyme>:</l>
@@ -65,7 +65,7 @@
 					<l n="25" met="?12">Presaged in his unfaltering heart, brave <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
-				<lg n="6" rhyme="lmmcc">
+				<lg n="6" type="quintain" rhyme="lmmcc">
 					<l met="?10">We fought on the grass, we bled in the <rhyme label="l">corn</rhyme>—</l>
 					<l rend="2em" met="?4">Fate seemed <rhyme label="m">malign</rhyme>;</l>
 					<l met="?10">His horse the Leader led along the <rhyme label="m">line</rhyme>—</l>
@@ -73,7 +73,7 @@
 					<l n="30" met="?12">Bitterly fearless, he rallied us there, brave <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
-				<lg n="7" rhyme="noocc">
+				<lg n="7" type="quintain" rhyme="noocc">
 					<l met="?10">There came a sound like the slitting of <rhyme label="n">air</rhyme></l>
 					<l rend="2em" met="pentameter">By a swift sharp <rhyme label="o">sword</rhyme>—</l>
 					<l met="?10">A rush of the sound; and the sleek chest <rhyme label="o">broad</rhyme></l>
@@ -81,7 +81,7 @@
 					<l n="35" met="?12">Heaved, and was fixed; the dead mane waved toward <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0034.jpg"/></l>
 				</lg>
 
-				<lg n="8" rhyme="pqqcc">
+				<lg n="8" type="quintain" rhyme="pqqcc">
 					<l met="?10">“General, you&apos;re hurt—this sleet of <rhyme label="p">balls</rhyme>!”</l>
 					<l rend="2em" met="?4">He seemed half <rhyme label="q">spent</rhyme>;</l>
 					<l met="11?">With moody and bloody brow, he lowly <rhyme label="q">bent</rhyme>:</l>
@@ -89,7 +89,7 @@
 					<l n="40" met="?11">But not—not yet; the day is long,” breathed <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
-				<lg n="9" rhyme="rggcc">
+				<lg n="9" type="quintain" rhyme="rggcc">
 					<l met="?9">For a time becharmed there fell a <rhyme label="r">lull</rhyme></l>
 					<l rend="2em" met="hexameter">In the heart of the <rhyme label="g">fight</rhyme>;</l>
 					<l met="tetrameter">The tree-tops nod, the slain sleep <rhyme label="g">light</rhyme>;</l>
@@ -97,7 +97,7 @@
 					<l n="45" met="?10">And thoughts which he never spake had <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
-				<lg n="10" rhyme="sttcc">
+				<lg n="10" type="quintain" rhyme="sttcc">
 					<l met="?9">Texans and Indians trim for a <rhyme label="s">charge</rhyme>:</l>
 					<l rend="2em" met="?4">“Stand ready, <rhyme label="t">men</rhyme>!</l>
 					<l met="tetrameter">Let them come close, right up, and <rhyme label="t">then</rhyme></l>
@@ -105,7 +105,7 @@
 					<l n="50" met="?11">Fire, and charge back!” So strength returned to <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
-				<lg n="11" rhyme="uvvcc">
+				<lg n="11" type="quintain" rhyme="uvvcc">
 					<l met="?9"><name type="person"><ref target="#context-note1">The Iowa men</ref><note xml:id="context-note1">The 1st Iowa Infantry were part of Lyon's army.</note></name> who held the <rhyme label="u">van</rhyme>,</l>
 					<l rend="2em" met="?4">Half drilled, were <rhyme label="v">new</rhyme></l>
 					<l met="?10">To battle: “Some one lead us, then we&apos;ll <rhyme label="v">do</rhyme>,”</l>
@@ -113,7 +113,7 @@
 					<l n="55" met="?11">“Men! <hi rend="italic">I</hi> will lead,” and a light glared in <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0035.jpg"/></l>
 				</lg>
 
-				<lg n="12" rhyme="wxxcc">
+				<lg n="12" type="quintain" rhyme="wxxcc">
 					<l met="heptameter">On they came: they yelped, and <rhyme label="w">fired</rhyme>;</l>
 					<l rend="2em" met="?4">His spirit <rhyme label="x">sped</rhyme>;</l>
 					<l met="?10">We leveled right in, and the half-breeds <rhyme label="x">fled</rhyme>,</l>
@@ -121,7 +121,7 @@
 					<l n="60" met="?10">Nor captured the crimson corse of <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
-				<lg n="13" rhyme="yggcc">
+				<lg n="13" type="quintain" rhyme="yggcc">
 					<l met="?9">This seer foresaw his <rhyme label="y">soldier-doom</rhyme>,</l>
 					<l rend="2em" met="?4">Yet willed the <rhyme label="g">fight</rhyme>.</l>
 					<l met="heptameter">He never turned; his only <rhyme label="g">flight</rhyme></l>
