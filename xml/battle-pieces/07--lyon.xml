@@ -29,104 +29,104 @@
 			<lg>
 				<lg n="1" type="quintain" rhyme="abbcc">
 					<l met="tetrameter"><hi rend="smallcaps">Some</hi> hearts there are of deeper <rhyme label="a">sort</rhyme>,</l>
-					<l rend="2em" met="?4">Prophetic, <rhyme label="b">sad</rhyme>,</l>
+					<l rend="2em" met="dimeter">Prophetic, <rhyme label="b">sad</rhyme>,</l>
 					<l met="tetrameter">Which yet for cause are trebly <rhyme label="b">clad</rhyme>;</l>
-					<l rend="2em" met="pentameter">Known death they fly <rhyme label="c">on</rhyme>:</l>
-					<l n="5" met="?11">This wizard-heart and heart-of-oak had <rhyme label="c">Lyon</rhyme>.</l>
+					<l rend="2em" met="dimeter+1">Known death they fly <rhyme label="c">on</rhyme>:</l>
+					<l n="5" met="pentameter+1">This wizard-heart and heart-of-oak had <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 				<lg n="2" type="quintain" rhyme="deecc">
-					<l met="?9">"They are more than twenty thousand <rhyme label="d">strong</rhyme>,</l>
-					<l rend="2em" met="?4">We less than <rhyme label="e">five</rhyme>,</l>
+					<l met="tetrameter+1">"They are more than twenty thousand <rhyme label="d">strong</rhyme>,</l>
+					<l rend="2em" met="dimeter">We less than <rhyme label="e">five</rhyme>,</l>
 					<l met="tetrameter">Too few with such a host to <rhyme label="e">strive</rhyme>.”</l>
-					<l rend="2em" met="pentameter">“Such counsel, fie <rhyme label="c">on</rhyme>!</l>
-					<l n="10" met="?11">&apos;Tis battle, or &apos;tis shame;” and firm stood <rhyme label="c">Lyon</rhyme>.</l>
+					<l rend="2em" met="dimeter+1">“Such counsel, fie <rhyme label="c">on</rhyme>!</l>
+					<l n="10" met="pentameter+1">&apos;Tis battle, or &apos;tis shame;” and firm stood <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 				<lg n="3" type="quintain" rhyme="fggcc">
 					<l met="tetrameter">&quot;For help at need in vain we <rhyme label="f">wait</rhyme>—</l>
-					<l rend="2em" met="?4">Retreat or <rhyme label="g">fight</rhyme>:</l>
+					<l rend="2em" met="dimeter">Retreat or <rhyme label="g">fight</rhyme>:</l>
 					<l met="tetrameter">Retreat the foe would take for <rhyme label="g">flight</rhyme>,</l>
-					<l rend="2em" met="pentameter">And each proud <rhyme label="c">scion</rhyme></l>
-					<l n="15" met="?11">Feel more elate; the end must come,&quot; said <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0033.jpg"/></l>
+					<l rend="2em" met="dimeter+1">And each proud <rhyme label="c">scion</rhyme></l>
+					<l n="15" met="pentameter+1">Feel more elate; the end must come,&quot; said <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0033.jpg"/></l>
 				</lg>
 
 				<lg n="4" type="quintain" rhyme="hiicc">
 					<l met="tetrameter">By candlelight he wrote the <rhyme label="h">will</rhyme>,</l>
-					<l rend="2em" met="?4">And left his <rhyme label="i">all</rhyme></l>
+					<l rend="2em" met="dimeter">And left his <rhyme label="i">all</rhyme></l>
 					<l met="?10">To <ref target="#ref_20245">Her</ref><note xml:id="ref_20245">Lyon was reported to have willed his estate to the United States.</note> for whom &apos;twas not enough to <rhyme label="i">fall</rhyme>;</l>
-					<l rend="2em" met="pentameter">Loud neighed <rhyme label="c">Orion</rhyme></l>
-					<l n="20" met="?11">Without the tent; drums beat; we marched with <rhyme label="c">Lyon</rhyme>.</l>
+					<l rend="2em" met="dimeter+1">Loud neighed <rhyme label="c"><name type="person">Orion</name></rhyme></l>
+					<l n="20" met="pentameter+1">Without the tent; drums beat; we marched with <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
 				<lg n="5" type="quintain" rhyme="jkkcc">
 					<l met="tetrameter">The night-tramp done, we spied the <rhyme label="j">Vale</rhyme></l>
-					<l rend="2em" met="?4">With guard-fires <rhyme label="k">lit</rhyme>;</l>
+					<l rend="2em" met="dimeter">With guard-fires <rhyme label="k">lit</rhyme>;</l>
 					<l met="?10">Day broke, but trooping clouds made gloom of <rhyme label="k">it</rhyme>:</l>
-					<l rend="2em" met="pentameter">“A field to die <rhyme label="c">on</rhyme>,”</l>
+					<l rend="2em" met="dimeter+1">“A field to die <rhyme label="c">on</rhyme>,”</l>
 					<l n="25" met="?12">Presaged in his unfaltering heart, brave <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
 				<lg n="6" type="quintain" rhyme="lmmcc">
 					<l met="?10">We fought on the grass, we bled in the <rhyme label="l">corn</rhyme>—</l>
-					<l rend="2em" met="?4">Fate seemed <rhyme label="m">malign</rhyme>;</l>
+					<l rend="2em" met="dimeter">Fate seemed <rhyme label="m">malign</rhyme>;</l>
 					<l met="?10">His horse the Leader led along the <rhyme label="m">line</rhyme>—</l>
-					<l rend="2em" met="pentameter">Star-browed <rhyme label="c">Orion</rhyme>;</l>
+					<l rend="2em" met="dimeter+1">Star-browed <rhyme label="c"><name type="person">Orion</name></rhyme>;</l>
 					<l n="30" met="?12">Bitterly fearless, he rallied us there, brave <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
 				<lg n="7" type="quintain" rhyme="noocc">
 					<l met="?10">There came a sound like the slitting of <rhyme label="n">air</rhyme></l>
-					<l rend="2em" met="pentameter">By a swift sharp <rhyme label="o">sword</rhyme>—</l>
+					<l rend="2em" met="dimeter+1">By a swift sharp <rhyme label="o">sword</rhyme>—</l>
 					<l met="?10">A rush of the sound; and the sleek chest <rhyme label="o">broad</rhyme></l>
-					<l rend="2em" met="pentameter">Of black <rhyme label="c">Orion</rhyme></l>
+					<l rend="2em" met="dimeter+1">Of black <rhyme label="c"><name type="person">Orion</name></rhyme></l>
 					<l n="35" met="?12">Heaved, and was fixed; the dead mane waved toward <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0034.jpg"/></l>
 				</lg>
 
 				<lg n="8" type="quintain" rhyme="pqqcc">
 					<l met="?10">“General, you&apos;re hurt—this sleet of <rhyme label="p">balls</rhyme>!”</l>
-					<l rend="2em" met="?4">He seemed half <rhyme label="q">spent</rhyme>;</l>
+					<l rend="2em" met="dimeter">He seemed half <rhyme label="q">spent</rhyme>;</l>
 					<l met="11?">With moody and bloody brow, he lowly <rhyme label="q">bent</rhyme>:</l>
-					<l rend="2em" met="pentameter">“The field to die <rhyme label="c">on</rhyme>;</l>
-					<l n="40" met="?11">But not—not yet; the day is long,” breathed <rhyme label="c">Lyon</rhyme>.</l>
+					<l rend="2em" met="dimeter+1">“The field to die <rhyme label="c">on</rhyme>;</l>
+					<l n="40" met="pentameter+1">But not—not yet; the day is long,” breathed <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
 				<lg n="9" type="quintain" rhyme="rggcc">
-					<l met="?9">For a time becharmed there fell a <rhyme label="r">lull</rhyme></l>
+					<l met="tetrameter+1">For a time becharmed there fell a <rhyme label="r">lull</rhyme></l>
 					<l rend="2em" met="hexameter">In the heart of the <rhyme label="g">fight</rhyme>;</l>
 					<l met="tetrameter">The tree-tops nod, the slain sleep <rhyme label="g">light</rhyme>;</l>
-					<l rend="2em" met="pentameter">Warm noon-winds sigh <rhyme label="c">on</rhyme>,</l>
+					<l rend="2em" met="dimeter+1">Warm noon-winds sigh <rhyme label="c">on</rhyme>,</l>
 					<l n="45" met="?10">And thoughts which he never spake had <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
 				<lg n="10" type="quintain" rhyme="sttcc">
-					<l met="?9">Texans and Indians trim for a <rhyme label="s">charge</rhyme>:</l>
-					<l rend="2em" met="?4">“Stand ready, <rhyme label="t">men</rhyme>!</l>
+					<l met="tetrameter+1">Texans and Indians trim for a <rhyme label="s">charge</rhyme>:</l>
+					<l rend="2em" met="dimeter">“Stand ready, <rhyme label="t">men</rhyme>!</l>
 					<l met="tetrameter">Let them come close, right up, and <rhyme label="t">then</rhyme></l>
-					<l rend="2em" met="heptameter">After the lead, the <rhyme label="c">iron</rhyme>;</l>
-					<l n="50" met="?11">Fire, and charge back!” So strength returned to <rhyme label="c">Lyon</rhyme>.</l>
+					<l rend="2em" met="trimeter+1">After the lead, the <rhyme label="c">iron</rhyme>;</l>
+					<l n="50" met="pentameter+1">Fire, and charge back!” So strength returned to <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
 				<lg n="11" type="quintain" rhyme="uvvcc">
-					<l met="?9"><name type="person"><ref target="#context-note1">The Iowa men</ref><note xml:id="context-note1">The 1st Iowa Infantry were part of Lyon's army.</note></name> who held the <rhyme label="u">van</rhyme>,</l>
-					<l rend="2em" met="?4">Half drilled, were <rhyme label="v">new</rhyme></l>
+					<l met="tetrameter+1"><name type="person"><ref target="#context-note1">The Iowa men</ref><note xml:id="context-note1">The 1st Iowa Infantry were part of Lyon's army.</note></name> who held the <rhyme label="u">van</rhyme>,</l>
+					<l rend="2em" met="dimeter">Half drilled, were <rhyme label="v">new</rhyme></l>
 					<l met="?10">To battle: “Some one lead us, then we&apos;ll <rhyme label="v">do</rhyme>,”</l>
-					<l rend="2em" met="hexameter">Said Corporal <rhyme label="c">Tryon</rhyme>:</l>
-					<l n="55" met="?11">“Men! <hi rend="italic">I</hi> will lead,” and a light glared in <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0035.jpg"/></l>
+					<l rend="2em" met="hexameter">Said Corporal <rhyme label="c"><name type="person">Tryon</name></rhyme>:</l>
+					<l n="55" met="pentameter+1">“Men! <hi rend="italic">I</hi> will lead,” and a light glared in <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0035.jpg"/></l>
 				</lg>
 
 				<lg n="12" type="quintain" rhyme="wxxcc">
-					<l met="heptameter">On they came: they yelped, and <rhyme label="w">fired</rhyme>;</l>
-					<l rend="2em" met="?4">His spirit <rhyme label="x">sped</rhyme>;</l>
+					<l met="trimeter+1">On they came: they yelped, and <rhyme label="w">fired</rhyme>;</l>
+					<l rend="2em" met="dimeter">His spirit <rhyme label="x">sped</rhyme>;</l>
 					<l met="?10">We leveled right in, and the half-breeds <rhyme label="x">fled</rhyme>,</l>
-					<l rend="2em" met="pentameter">Nor stayed the <rhyme label="c">iron</rhyme>,</l>
+					<l rend="2em" met="dimeter+1">Nor stayed the <rhyme label="c">iron</rhyme>,</l>
 					<l n="60" met="?10">Nor captured the crimson corse of <rhyme label="c">Lyon</rhyme>.</l>
 				</lg>
 
 				<lg n="13" type="quintain" rhyme="yggcc">
-					<l met="?9">This seer foresaw his <rhyme label="y">soldier-doom</rhyme>,</l>
-					<l rend="2em" met="?4">Yet willed the <rhyme label="g">fight</rhyme>.</l>
-					<l met="heptameter">He never turned; his only <rhyme label="g">flight</rhyme></l>
-					<l rend="2em" met="pentameter">Was up to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:503" type="place"><rhyme label="c">Zion</rhyme></name>, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0004.jpg"/></l>
-					<l n="65" met="?11">Where prophets now and armies greet <ref target="#EDnoteLyonRN1">brave</ref><note xml:id="EDnoteLyonRN1">In both his personal published copy of <hi rend="italic">Battle-Pieces</hi> and his bound copy of sheets from <hi rend="italic">Battle-Pieces</hi> (Copy A and C, respectively), Melville revised "brave" to "pale."  In Copy A, he struck through "brave" in pencil and inscribed "pale" in the right margin; in Copy C, he deleted "brave," added a caret before it, and inserted "pale" above.  In addition, Melville inscribed only three tentative revisions in Copy A: this one (on page 27) and one each in "The March into Virginia" (p. 23) and "The March to the Sea" (p. 129). On the verso of the front flyleaf of Copy A, Melville also listed two numbers (27 and 129), which correspond to two of the three pages with revisions. The tentative revision of "brave" to "pale" appears on page 27. See "The March to the Sea" for the second listed revision on page 129. The tentative revision in "The March into Virginia" on page 23 does not appear on the list. The editors of the NN <hi rend="italic">Published Poems</hi> argue that the appearance of these page numbers indicates Melville's final intention to approve the listed tentative revisions. See "shame" in line 34 of "The March into Virginia" for an alternative theory regarding the non-appearance of "23" in the list.</note> <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v2/battle-pieces-iI-0037.jpg"/></l>
+					<l met="tetrameter+1">This seer foresaw his <rhyme label="y">soldier-doom</rhyme>,</l>
+					<l rend="2em" met="dimeter">Yet willed the <rhyme label="g">fight</rhyme>.</l>
+					<l met="trimeter+1">He never turned; his only <rhyme label="g">flight</rhyme></l>
+					<l rend="2em" met="dimeter+1">Was up to <name ref="https://mel-catalog.herokuapp.com/api/entries/place:503" type="place"><rhyme label="c">Zion</rhyme></name>, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0004.jpg"/></l>
+					<l n="65" met="pentameter+1">Where prophets now and armies greet <ref target="#EDnoteLyonRN1">brave</ref><note xml:id="EDnoteLyonRN1">In both his personal published copy of <hi rend="italic">Battle-Pieces</hi> and his bound copy of sheets from <hi rend="italic">Battle-Pieces</hi> (Copy A and C, respectively), Melville revised "brave" to "pale."  In Copy A, he struck through "brave" in pencil and inscribed "pale" in the right margin; in Copy C, he deleted "brave," added a caret before it, and inserted "pale" above.  In addition, Melville inscribed only three tentative revisions in Copy A: this one (on page 27) and one each in "The March into Virginia" (p. 23) and "The March to the Sea" (p. 129). On the verso of the front flyleaf of Copy A, Melville also listed two numbers (27 and 129), which correspond to two of the three pages with revisions. The tentative revision of "brave" to "pale" appears on page 27. See "The March to the Sea" for the second listed revision on page 129. The tentative revision in "The March into Virginia" on page 23 does not appear on the list. The editors of the NN <hi rend="italic">Published Poems</hi> argue that the appearance of these page numbers indicates Melville's final intention to approve the listed tentative revisions. See "shame" in line 34 of "The March into Virginia" for an alternative theory regarding the non-appearance of "23" in the list.</note> <rhyme label="c">Lyon</rhyme>. <pb facs="/images/battle-pieces-v2/battle-pieces-iI-0037.jpg"/></l>
 				</lg>
 			</lg>
 			</div></body>
