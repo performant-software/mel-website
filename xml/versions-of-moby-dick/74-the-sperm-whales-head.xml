@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>74 The Sperm Whale's Head</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="74-the-sperm-whales-head"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471315703622-rkdbfv40uon-cce587286c4da27aeb71d81a637ab878%2FMD_Amer_0403.jpg"/>CHAPTER 74
-THE SPERM WHALE’S HEAD—CONTRASTED VIEW
+			<body><div xml:id="74-the-sperm-whales-head"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471315703622-rkdbfv40uon-cce587286c4da27aeb71d81a637ab878%2FMD_Amer_0403.jpg"/>
+			<head type="main" rend="center">Chapter 74</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE SPERM WHALE’S HEAD—CONTRASTED VIEW.</head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">HERE, now, are two great whales, laying their heads together; let us join them, and lay together our own.
 
