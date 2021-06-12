@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>72 The Monkey-rope</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="72-the-monkey-rope"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471300762890-sc2n6tnmful-90783bc53b211b9d7e95449f4eb6318a%2FMD_Amer_0392.jpg"/>CHAPTER 72
-THE MONKEY-ROPE
+			<body><div xml:id="72-the-monkey-rope"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471300762890-sc2n6tnmful-90783bc53b211b9d7e95449f4eb6318a%2FMD_Amer_0392.jpg"/>
+			<head type="main" rend="center">Chapter 72</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE MONKEY-ROPE.</head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">IN THE tumultuous business of cutting-in and attending to a whale, there is much running backwards and forwards among the crew. Now hands are wanted here, and then again hands are wanted there. There is no staying in any one place; for at one and the same time everything has to be done everywhere. It is much the same with him who endeavors the <ref target="#ref_22027">description</ref><note xml:id="ref_22027">description of the scene: Luther S. Mansfield and Howard P. Vincent in their edition of <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:218">Moby-Dick</ref> (764) trace the following description to Francis Allyn Olmsted, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:203">Incidents of a Whaling Voyage, To Which Are Added Observations on the Scenery, Manners and Customs, and Missionary Stations of the Sandwich Islands</ref>.</note> of the scene. We must now retrace our way a little. It was mentioned that upon first breaking ground in the whale’s back, the blubber-hook was inserted into the original hole there cut by the spades of the mates. But how did so clumsy and weighty a mass as that same hook get fixed in that hole? It was inserted there by my particular friend Queequeg, whose duty it was, as harpooneer, to descend upon the monster’s back for the special purpose referred to. But in very many cases, circumstances require that the harpooneer shall remain on the whale till the whole flensing or stripping operation is concluded. The whale, be it observed, lies almost entirely submerged, excepting the immediate parts operated upon. So down there, some ten feet below the level of the deck, the poor harpooneer flounders about, half on the whale and half in the water, as the vast mass revolves like a tread-mill beneath him. On the occasion in question, Queequeg figured in the <ref target="#ref_20765">Highland costume</ref><note xml:id="ref_20765">Highland costume: Ishmael refers to Queequeg's wearing of only a shirt and socks, which might suggest the wearing of kilts by Scottish Highlanders and therefore the exposure on occasion of their private parts. Cf. Ch. 4, "The Counterpane," in which Ishmael describes "the indecorous figure that Queequeg made, staving about with little else but his hat and boots on."</note>—a shirt and socks—in which to my eyes, at least, he appeared to uncommon advantage; and no one had a better chance to observe him, as will presently be seen.
 
@@ -35,11 +38,12 @@ THE MONKEY-ROPE
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">And right in among those sharks was Queequeg; who often pushed them aside with his floundering feet. A thing altogether incredible were it not that attracted by such prey as a dead whale, the otherwise miscellaneously carnivorous shark will seldom touch a man.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Nevertheless, it may well be believed that since they have such a ravenous finger in the pie, it is deemed but wise to look sharp to them. Accordingly, besides the monkey-rope, with which I now and then jerked the poor fellow from too close a vicinity to the maw of what seemed a peculiarly ferocious shark—he was provided with still another protection. Suspended over the side in one of the stages, Tashtego and Daggoo continually flourished over his head a couple of keen 
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Nevertheless, it may well be believed that since they have such a ravenous finger in the pie, it is deemed but wise to look sharp to them. Accordingly, besides the monkey-rope, with which I now and then jerked the poor fellow from too close a vicinity to the maw of what seemed a peculiarly ferocious shark—he was provided with still another protection. Suspended over the side in one of the stages, Tashtego and Daggoo continually flourished over his head a couple of keen
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">_____________________________________________________
-* The monkey-rope is found in all whalers; but it was only in the Pequod that the monkey and his holder were ever tied together. This improvement upon the original usage was introduced by no less a man than Stubb, in order to afford to the imperilled harpooneer the strongest possible guarantee for the faithfulness and vigilance of his monkey-rope holder.
-_______________________________________
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
+<l>_____________________________________________________</l>
+* [Melville's Note] The monkey-rope is found in all whalers; but it was only in the Pequod that the monkey and his holder were ever tied together. This improvement upon the original usage was introduced by no less a man than Stubb, in order to afford to the imperilled harpooneer the strongest possible guarantee for the faithfulness and vigilance of his monkey-rope holder.
+<l>_______________________________________</l>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471300813522-hfe3jhidimw-90783bc53b211b9d7e95449f4eb6318a%2FMD_Amer_0395.jpg"/><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1064" type="artwork">whale-spades</name>, wherewith they slaughtered as many sharks as they could reach. This procedure of theirs, to be sure, was very disinterested and benevolent of them. They meant Queequeg’s best happiness, I admit; but in their hasty zeal to befriend him, and from the circumstance that both he and the sharks were at times half hidden by the blood-mudded water, those indiscreet spades of theirs would come nearer amputating a leg than a tail. But poor Queequeg, I suppose, straining and gasping there with that great iron hook—poor Queequeg, I suppose, only prayed to his Yojo, and gave up his life into the hands of his gods.
 
