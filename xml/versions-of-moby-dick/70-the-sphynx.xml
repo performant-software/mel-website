@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>70 The Sphynx</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="70-the-sphynx"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514504413567-nnbemjvj2h-959877ebdabb609459b56ae0737c70d8%2FMD_Amer_0382.jpg"/>CHAPTER 70
-THE SPHYNX
+			<body><div xml:id="70-the-sphynx"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514504413567-nnbemjvj2h-959877ebdabb609459b56ae0737c70d8%2FMD_Amer_0382.jpg"/>
+			<head type="main" rend="center">Chapter 70</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE SPHYNX.</head>
+ 
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">IT should not have been omitted that previous to completely stripping the body of the leviathan, he was beheaded. Now, the beheading of the Sperm Whale is a scientific anatomical feat, upon which experienced whale surgeons very much pride themselves: and not without reason.
 
