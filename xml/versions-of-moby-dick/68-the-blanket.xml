@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>68 The Blanket</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,14 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="68-the-blanket"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514503830809-qdu5nv66y8-f45ec457681ad6c52214297ecead17c7%2FMD_Amer_0377.jpg"/>CHAPTER 68
-THE BLANKET
+			<body><div xml:id="68-the-blanket"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514503830809-qdu5nv66y8-f45ec457681ad6c52214297ecead17c7%2FMD_Amer_0377.jpg"/>
+
+			<head type="main" rend="center">Chapter 68</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE BLANKET.</head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">I HAVE given no small attention to that not unvexed subject, the skin of the whale. I have had controversies about it with experienced whalemen afloat, and learned naturalists ashore. My original opinion remains unchanged; but it is only an opinion.
 
