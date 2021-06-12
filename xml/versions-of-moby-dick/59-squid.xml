@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>59 Squid</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,11 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="59-squid"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514498744007-t4n77ow0zo-6da9336497a4ddb1b7fd67466b205da5%2FMD_Amer_0345.jpg"/>CHAPTER 59
-SQUID
-
+			<body><div xml:id="59-squid"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514498744007-t4n77ow0zo-6da9336497a4ddb1b7fd67466b205da5%2FMD_Amer_0345.jpg"/>
+			<head type="main" rend="center">Chapter 59</head>
+			<lb/>
+			<head type="sub-head" rend="center">SQUID.</head>
+			
 </p><p xmlns="http://www.tei-c.org/ns/1.0">SLOWLY wading through the meadows of <ref target="#ref_20710">brit</ref><note xml:id="ref_20710">brit: The group of small marine animals that form the food of whalebone whales; see Ch. 58</note>, the Pequod still held on her way north-eastward towards the island of <name type="place"><ref target="#ref_17323">Java</ref><note xml:id="ref_17323"><ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:344">Java, Indonesia</ref>: Most populous island in Indonesia, containing its capital, Jakarta.</note></name>; a gentle air impelling her keel, so that in the surrounding serenity her three tall tapering masts mildly waved to that languid breeze, as three mild palms on a plain. And still, at wide intervals in the silvery night, the lonely, alluring jet would be seen.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">But one transparent blue morning, when a stillness almost preternatural spread over the sea, however unattended with any stagnant calm; when the long burnished sun-glade on the waters seemed a golden finger laid across them, enjoining some secresy; when the slippered waves whispered together as they softly ran on; in this profound hush of the visible sphere a strange spectre was seen by Daggoo from the <ref target="#ref_20711">main-mast-head</ref><note xml:id="ref_20711">main-mast-head: The top of the mainmast, the tallest mast on the ship.</note>.
