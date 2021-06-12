@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>60 The Line</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,14 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="60-the-line"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514498870753-wfmdkye1nlb-98d9925639a5c9e959396b8baf186b61%2FMD_Amer_0348.jpg"/>CHAPTER 60
-THE LINE
+			<body><div xml:id="60-the-line"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514498870753-wfmdkye1nlb-98d9925639a5c9e959396b8baf186b61%2FMD_Amer_0348.jpg"/>
+
+			<head type="main" rend="center">Chapter 60</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE LINE.</head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">WITH reference to the whaling scene shortly to be described, as well as for the better understanding of all similar scenes elsewhere presented, I have here to speak of the magical, sometimes horrible whale-line.
 The line originally used in the fishery was of the best <ref target="#ref_21927"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1082" type="artwork">hemp</name></ref><note xml:id="ref_21927">hemp: Rope made from the Cannabis sativa plant, which is native to Asia but naturalized or cultivated in many parts of the world in <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/artwork:1082">Hemp fields</ref>; rope is made from the <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/artwork:1083">Hemp stalks</ref> of the plant.</note>, slightly vapored with <ref target="#ref_21928">tar</ref><note xml:id="ref_21928">slightly vapored with tar: Hemp fibers are strong but not very durable; rope made from hemp fibers must be soaked in tar in order to last, especially when exposed to the sun and salt air of a sea voyage.</note>, not impregnated with it, as in the case of ordinary ropes; for while tar, as ordinarily used, makes the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1083" type="artwork">hemp</name> more pliable to the rope-maker, and also renders the rope itself more convenient to the sailor for common ship use; yet, not only would the ordinary quantity too much stiffen the whale-line for the close coiling to which it must be subjected; but as most seamen are beginning to learn, tar in general by no means adds to the rope’s durability or strength, however much it may give it compactness and gloss.
