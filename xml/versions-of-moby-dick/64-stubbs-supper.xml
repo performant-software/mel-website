@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>64 Stubb's Supper</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="64-stubbs-supper"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518214862563-ft8ranjk1bg-4163556d076c4e967e36e47cb5fc340d%2FMD_Amer_0361.jpg"/>CHAPTER 64
-STUBB’S SUPPER
+			<body><div xml:id="64-stubbs-supper"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518214862563-ft8ranjk1bg-4163556d076c4e967e36e47cb5fc340d%2FMD_Amer_0361.jpg"/>
+
+			<head type="main" rend="center">Chapter 64</head>
+			<lb/>
+			<head type="sub-head" rend="center">STUBB’S SUPPER.</head>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">STUBB’S whale had been killed some distance from the ship. It was a calm; so, forming a tandem of three boats, we commenced the slow business of towing the trophy to the Pequod. And now, as we eighteen men with our thirty-six arms, and one hundred and eighty thumbs and fingers, slowly toiled hour after hour upon that inert, sluggish corpse in the sea; and it seemed hardly to budge at all, except at long intervals; good evidence was hereby furnished of the enormousness of the mass we moved. For, upon the great <ref target="#ref_17399">canal of Hang-Ho</ref><note xml:id="ref_17399">canal of Hang-Ho: Huang-ho is the <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:298">Yellow River, China</ref>. Yun-ho or Chah-ho, the Grand Canal, follows in part the river’s former bed.</note>, or whatever they call it, in China, four or five laborers on the foot-path will draw a bulky freighted <ref target="#ref_20739">junk</ref><note xml:id="ref_20739">junk: Defined by the Oxford English Dictionary as "A name for the common type of native sailing vessel in the Chinese seas. It is flat-bottomed, has a square prow, prominent stem, full stern, the rudder suspended, and carries lug-sails."</note> at the rate of a mile an hour; but this grand <ref target="#ref_17405">argosy</ref><note xml:id="ref_17405">argosy: large merchant vessel.</note> we towed heavily forged along, as if laden with <ref target="#ref_17406">pig-lead</ref><note xml:id="ref_17406">pig-lead: small cast-lead bars often used for ballast.</note> in bulk.
 
@@ -31,9 +34,10 @@ STUBB’S SUPPER
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">If moody Ahab was now all quiescence, at least so far as could be known on deck, Stubb, his second mate, flushed with
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">________________________________________________
-* A little item may as well be related here. The strongest and most reliable hold which the ship has upon the whale when moored alongside, is by the flukes or tail; and as from its greater density that part is relatively heavier than any other (excepting the side-fins), its flexibility even in death, causes it to sink low beneath the surface; so that with the hand you cannot get at it from the boat, in order to put the chain round it. But this difficulty is ingeniously overcome: a small, strong line is prepared with a wooden float at its outer end, and a weight in its middle, while the other end is secured to the ship. By adroit management the wooden float is made to rise on the other side of the mass, so that now having girdled the whale, the chain is readily made to follow suit; and being slipped along the body, is at last locked fast round the smallest part of the tail, at the point of junction with its broad flukes or lobes.
-______________________________________
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
+<l>________________________________________________</l>
+* [Melville's Note] A little item may as well be related here. The strongest and most reliable hold which the ship has upon the whale when moored alongside, is by the flukes or tail; and as from its greater density that part is relatively heavier than any other (excepting the side-fins), its flexibility even in death, causes it to sink low beneath the surface; so that with the hand you cannot get at it from the boat, in order to put the chain round it. But this difficulty is ingeniously overcome: a small, strong line is prepared with a wooden float at its outer end, and a weight in its middle, while the other end is secured to the ship. By adroit management the wooden float is made to rise on the other side of the mass, so that now having girdled the whale, the chain is readily made to follow suit; and being slipped along the body, is at last locked fast round the smallest part of the tail, at the point of junction with its broad flukes or lobes.
+<l>______________________________________</l>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518214901039-a1vmamahtiv-4163556d076c4e967e36e47cb5fc340d%2FMD_Amer_0363.jpg"/>conquest, betrayed an unusual but still good-natured excitement. Such an unwonted bustle was he in that the staid Starbuck, his official superior, quietly resigned to him for the time the sole management of affairs. One small, helping cause of all this liveliness in Stubb, was soon made strangely manifest. Stubb was a high liver; he was somewhat intemperately fond of the whale as a flavorish thing to his palate.
 
