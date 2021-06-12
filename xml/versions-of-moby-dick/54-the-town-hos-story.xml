@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>54 The Town Ho's Story</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,18 +18,24 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="54-the-town-hos-story"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210189673-tqdt53zcmh-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0306.jpg"/>Chapter 54
-<ref target="#ref_20000">THE TOWN-HO’S STORY</ref><note xml:id="ref_20000">The Town Ho’s Story: To promote Melville’s forthcoming novel, this chapter was published separately in Harper’s New Monthly Magazine (October 1851), just as the novel was reaching readers in England and six weeks before Harper &amp; Brothers published Moby-Dick in America. See also Making Moby-Dick.</note>.
-(<hi rend="italic">As told at the Golden Inn.</hi>)
+			<body>
+				<div xml:id="54-the-town-hos-story"> <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210189673-tqdt53zcmh-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0306.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 54</head>
+			<lb/>
+			<head type="sub-head" rend="center"><ref target="#ref_20000">THE TOWN-HO’S STORY</ref>.</head>
+			<note xml:id="ref_20000">The Town Ho’s Story: To promote Melville’s forthcoming novel, this chapter was published separately in Harper’s New Monthly Magazine (October 1851), just as the novel was reaching readers in England and six weeks before Harper &amp; Brothers published Moby-Dick in America. See also Making Moby-Dick.</note>
+<lb/><p rend="center">(<hi rend="italic">As told at the Golden Inn.</hi>)
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">The <name ref="https://mel-catalog.herokuapp.com/api/entries/place:142" type="place">Cape of Good Hope</name>, and all the watery region round about there, is much like some noted four corners of a great highway, where you meet more travellers than in any other part.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">It was not very long after speaking the Goney that another homeward-bound whaleman, the Town-Ho,* was encountered. She was manned almost wholly by Polynesians. In the short gam that ensued she gave us strong news of Moby Dick. To some the general interest in the White Whale was now wildly height-
-_____________________________________________________
-* The ancient <ref target="#ref_21780">whale-cry</ref><note xml:id="ref_21780">*The ancient whale-cry: “Town-ho” derives from the Wampanoag Indian whaling cry, “townor,” indicating, despite Ishmael’s note, the second, not the first, sighting of a whale.</note> upon first sighting a whale from the mast-head, still used by whalemen in hunting the famous <ref target="#ref_20003">Gallipagos terrapin</ref><note xml:id="ref_20003">Gallipagos terrapin: The Galápagos Islands (<ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:258">Galapagos Islands, Ecuador</ref>), 600 miles west of Ecuador in the Pacific Ocean, home of the giant tortoise (terrapin), site of the early researches of <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:305">Darwin, Charles, 1809-1882</ref> in biological evolution (1835), and the setting for Melville’s sketches, “The Encantadas.”</note>.
-__________________________________
+<l>_____________________________________________________</l>
+* [Melville's Note] The ancient <ref target="#ref_21780">whale-cry</ref><note xml:id="ref_21780">*The ancient whale-cry: “Town-ho” derives from the Wampanoag Indian whaling cry, “townor,” indicating, despite Ishmael’s note, the second, not the first, sighting of a whale.</note> upon first sighting a whale from the mast-head, still used by whalemen in hunting the famous <ref target="#ref_20003">Gallipagos terrapin</ref><note xml:id="ref_20003">Gallipagos terrapin: The Galápagos Islands (<ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:258">Galapagos Islands, Ecuador</ref>), 600 miles west of Ecuador in the Pacific Ocean, home of the giant tortoise (terrapin), site of the early researches of <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:305">Darwin, Charles, 1809-1882</ref> in biological evolution (1835), and the setting for Melville’s sketches, “The Encantadas.”</note>.
+<l>__________________________________</l>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210228698-a36a2z1mtuw-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0307.jpg"/>ened by a circumstance of the Town-Ho’s story, which seemed obscurely to involve with the whale a certain wondrous, inverted visitation of one of those so called judgments of God which at times are said to overtake some men. This latter circumstance, with its own particular accompaniments, forming what may be called the secret part of the tragedy about to be narrated, never reached the ears of Captain Ahab or his mates. For that secret part of the story was unknown to the captain of the Town-Ho himself. It was the private property of three confederate white seamen of that ship, one of whom, it seems, communicated it to Tashtego with <ref target="#ref_19825">Romish</ref><note xml:id="ref_19825">Romish: Roman Catholic.</note> injunctions of secresy, but the following night Tashtego rambled in his sleep, and revealed so much of it in that way, that when he was wakened he could not well withhold the rest. Nevertheless, so potent an influence did this thing have on those seamen in the Pequod who came to the full knowledge of it, and by such a strange delicacy, to call it so, were they governed in this matter, that they kept the secret among themselves so that it never transpired <ref target="#ref_21781">abaft</ref><note xml:id="ref_21781">never transpired abaft the Pequod’s main-mast: that is, the secret never reached the officers, whose quarters are at the rear of the ship.</note> the Pequod’s main-mast. Interweaving in its proper place this darker thread with the story as publicly narrated on the ship, the whole of this strange affair I now proceed to put on lasting record.
 
@@ -62,7 +68,7 @@ __________________________________
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Now, gentlemen, sweeping a ship’s deck at sea is a piece of household work which in all times but raging gales is regularly attended to every evening; it has been known to be done in the case of ships actually foundering at the time. Such, gentlemen, is the inflexibility of sea-usages and the instinctive love of neat-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210331286-vnm0xhr8hfp-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0313.jpg"/>ness in seamen; some of whom would not willingly drown without first washing their faces. But in all vessels this broom business is the prescriptive province of the boys, if boys there be aboard. Besides, it was the stronger men in the Town-Ho that had been divided into gangs, taking turns at the pumps; and being the most athletic seaman of them all, Steelkilt had been regularly assigned captain of one of the gangs; consequently he should have been freed from any trivial business not connected with truly nautical duties, such being the case with his comrades. I mention all these particulars so that you may understand exactly how this affair stood between the two men.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“But there was more than this: the order about the shovel was almost as plainly meant to sting and insult Steelkilt, as though Radney had spat in his face. Any man who has gone sailor in a whale-ship will understand this; and all this and doubtless much more, the Lakeman fully comprehended when the mate uttered his command. But as he sat still for a moment, and as he steadfastly looked into the mate’s malignant eye and perceived the stacks of powder-casks heaped up in him and the <ref target="#ref_19836">slow-match</ref><note xml:id="ref_19836">slow-match: fuse. </note>° silently burning along towards them; as he instinctively saw all this, that strange forbearance and unwillingness to stir up the deeper passionateness in any already ireful being—a repugnance most felt, when felt at all, by really valiant men even when aggrieved—this nameless phantom feeling, gentlemen, stole over Steelkilt.
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“But there was more than this: the order about the shovel was almost as plainly meant to sting and insult Steelkilt, as though Radney had spat in his face. Any man who has gone sailor in a whale-ship will understand this; and all this and doubtless much more, the Lakeman fully comprehended when the mate uttered his command. But as he sat still for a moment, and as he steadfastly looked into the mate’s malignant eye and perceived the stacks of powder-casks heaped up in him and the <ref target="#ref_19836">slow-match</ref><note xml:id="ref_19836">slow-match: fuse.</note> silently burning along towards them; as he instinctively saw all this, that strange forbearance and unwillingness to stir up the deeper passionateness in any already ireful being—a repugnance most felt, when felt at all, by really valiant men even when aggrieved—this nameless phantom feeling, gentlemen, stole over Steelkilt.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Therefore, in his ordinary tone, only a little broken by the bodily exhaustion he was temporarily in, he answered him saying that sweeping the deck was not his business, and he would not do it. And then, without at all alluding to the shovel, he pointed to three lads as the customary sweepers; who, not being <ref target="#ref_19837">billeted at</ref><note xml:id="ref_19837">billeted at: assigned to. </note> the pumps, had done little or nothing all day. To this, Radney replied with an oath, in a most domineering and outrageous manner unconditionally reiterating his command; meanwhile advancing upon the still seated Lakeman, with an <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210341891-6tiihu1mqff-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0314.jpg"/>uplifted <ref target="#ref_19838">cooper’s club hammer</ref><note xml:id="ref_19838">cooper’s club hammer: barrel-maker’s axe-like hammer.</note> which he had snatched from a cask near by.
 
@@ -72,7 +78,7 @@ __________________________________
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“‘Mr. Radney, I will not obey you. Take that hammer away, or look to yourself.’ But the predestinated mate coming still closer to him, where the Lakeman stood fixed, now shook the heavy hammer within an inch of his teeth; meanwhile repeating a string of insufferable maledictions. Retreating not the thousandth part of an inch; stabbing him in the eye with the unflinching poniard of his glance, Steelkilt, clenching his right hand behind him and creepingly drawing it back, told his persecutor that if the hammer but grazed his cheek he (Steelkilt) would murder him. But, gentlemen, the fool had been branded for the slaughter by the gods. Immediately the hammer touched the cheek; the next instant the lower jaw of the mate was stove in his head; he fell on the hatch spouting blood like a whale.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“Ere the cry could go aft Steelkilt was shaking one of the <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210355334-5uphc4yu59s-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0315.jpg"/><ref target="#ref_19839">backstays</ref><note xml:id="ref_19839">backstays: ropes that supporting a mast to the rear and are connected to the hull of the vessel. </note>° leading far aloft to where two of his comrades were standing their mast-heads. They were both Canallers.”
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“Ere the cry could go aft Steelkilt was shaking one of the <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210355334-5uphc4yu59s-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0315.jpg"/><ref target="#ref_19839">backstays</ref><note xml:id="ref_19839">backstays: ropes that supporting a mast to the rear and are connected to the hull of the vessel. </note> leading far aloft to where two of his comrades were standing their mast-heads. They were both Canallers.”
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“‘Canallers!’ cried Don Pedro. ‘We have seen many whale-ships in our harbors, but never heard of your Canallers. Pardon: who and what are they?’
 
@@ -122,7 +128,7 @@ __________________________________
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“As the Lakeman’s bare head was just level with the planks, the Captain and his posse leaped the barricade, and rapidly drawing over the slide of the scuttle, planted their group of hands upon it, and loudly called for the steward to bring the heavy brass padlock belonging to the companion-way. Then opening the slide a little, the Captain whispered something down the crack, closed it, and turned the key upon them—ten in number—leaving on deck some twenty or more, who thus far had remained neutral.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“All night a wide-awake watch was kept by all the officers, forward and aft, especially about the forecastle scuttle and <ref target="#ref_19845">fore hatchway</ref><note xml:id="ref_19845">fore hatchway: opening in the deck to the forward hold.</note>; at which last place it was feared the insurgents might emerge, after breaking through the <ref target="#ref_19846">bulkhead</ref><note xml:id="ref_19846">bulkhead: partition wall below deck.</note>° below. But the hours of darkness passed in peace; the men who still remained at their duty toiling hard at the pumps, whose clinking and clanking at intervals through the dreary night dismally resounded through the ship.
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“All night a wide-awake watch was kept by all the officers, forward and aft, especially about the forecastle scuttle and <ref target="#ref_19845">fore hatchway</ref><note xml:id="ref_19845">fore hatchway: opening in the deck to the forward hold.</note>; at which last place it was feared the insurgents might emerge, after breaking through the <ref target="#ref_19846">bulkhead</ref><note xml:id="ref_19846">bulkhead: partition wall below deck.</note> below. But the hours of darkness passed in peace; the men who still remained at their duty toiling hard at the pumps, whose clinking and clanking at intervals through the dreary night dismally resounded through the ship.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“At sunrise the Captain went forward, and knocking on the deck, summoned the prisoners to work; but with a yell they refused. Water was then lowered down to them, and a couple of handfuls of biscuit were tossed after it; when again turning the key upon them and pocketing it, the Captain returned to the quarter-deck. Twice every day for three days this was repeated; but on the fourth morning a confused wrangling, and then a scuffling was heard, as the customary summons was delivered; and suddenly four men burst up from the forecastle, saying they were ready to turn to. The fetid closeness of the air, and a famishing diet, united perhaps to some fears of ultimate retribu-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210426501-9net0iq5e26-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0320.jpg"/>tion, had constrained them to surrender at discretion. Emboldened by this, the Captain reiterated his demand to the rest, but Steelkilt shouted up to him a terrific hint to stop his babbling and betake himself where he belonged. On the fifth morning three others of the mutineers bolted up into the air from the desperate arms below that sought to restrain them. Only three were left.
 
@@ -221,7 +227,7 @@ __________________________________
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Some ten days after the French ships sailed, the whale-boat arrived, and the captain was forced to enlist some of the more civilized Tahitians, who had been somewhat used to the sea. Chartering a small native schooner, he returned with them to his vessel; and finding all right there, again resumed his cruisings.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“Where Steelkilt now is, gentlemen, none know; but upon the island of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:30" type="place">Nantucket</name>, the widow of Radney still turns to the sea which refuses to give up its dead; still in dreams sees the awful white whale that destroyed him.”  *  *  *   *
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“Where Steelkilt now is, gentlemen, none know; but upon the island of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:30" type="place">Nantucket</name>, the widow of Radney still turns to the sea which refuses to give up its dead; still in dreams sees the awful white whale that destroyed him.” &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; *
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“‘Are you through?’ said Don Sebastian, quietly.
 
@@ -237,20 +243,22 @@ __________________________________
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“‘Will you be so good as to bring the priest also, Don?’
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“‘Though there are no <ref target="#ref_20028">Auto-da-Fés</ref><note xml:id="ref_20028">Auto-da-Fés: Literally, “acts of the faith,” but actually, formal pronouncements of heresy by the Inquisition, followed by burnings of heretics at the stake.</note> in Lima now,’ said one of the company 
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“‘Though there are no <ref target="#ref_20028">Auto-da-Fés</ref><note xml:id="ref_20028">Auto-da-Fés: Literally, “acts of the faith,” but actually, formal pronouncements of heresy by the Inquisition, followed by burnings of heretics at the stake.</note> in Lima now,’ said one of the company
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">to another; ‘I fear our sailor friend runs risk of the archiepiscopacy. Let us withdraw more out of the moonlight. I see no need of this.’
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="bold"><ref target="#ref_27520">“‘Excuse me for running after you, Don Sebastian; but may I also beg that you will be particular in procuring the largest sized Evangelists you can.’”</ref><note xml:id="ref_27520">Revision Narrative:
-Procuring the Evangelists // 
+</p><p xmlns="http://www.tei-c.org/ns/1.0"><ref target="#ref_27520"><hi rend="bold">“‘Excuse me for running after you, Don Sebastian; but may I also beg that you will be particular in procuring the largest sized Evangelists you can.’”</hi></ref><note xml:id="ref_27520">REVISION NARRATIVE:
+Procuring the Evangelists //
 The reason for the removal of this sentence from the British edition is not entirely clear. The evangelists are Matthew, Mark, Luke, and John, the disciples of Jesus who wrote the four Gospels; and the book called The Evangelists that Ishmael is requesting is a New Testament containing these four scriptures and perhaps some other New Testament writings. (Such short-version Bibles are commonly found in English.) Ishmael is proposing to swear on such a Bible that he is telling the truth, and since there is no blasphemy in doing so, it is unlikely that an editor would cut the line for that reason. However, in this sentence, Ishmael insists upon procuring the largest Bible available, thus comically suggesting that the truth of his tale and his sincerity in telling it will be sanctioned by the size of the book he swears by. An editor might have found Ishmael’s flippancy to be irreverent, if not blasphemous, and therefore removed the line. On the other hand, the line’s humor also undercuts the serious tone of the swearing scene to come, and its implications of insincerity undercut Ishmael’s credibility. With these problems in mind, we can argue that Melville is just as likely to have removed the line as an editor.</note></hi>
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">*         *         *         *         *         *
+</p><p xmlns="http://www.tei-c.org/ns/1.0">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; *
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“‘This is the priest, he brings you the Evangelists,’ said Don Sebastian, gravely, returning with a tall and solemn figure.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“‘Let me remove my hat. Now, venerable priest, further into the light, and hold the Holy Book before me that I may touch it.’
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“‘So help me Heaven, and on my honor, the story I have told ye, gentlemen, is in substance and its great items, true. I know it to be true; it happened on this ball; I trod the ship; I knew the crew; I have seen and talked with Steelkilt since the death of Radney.’”</p></div></body>
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“‘So help me Heaven, and on my honor, the story I have told ye, gentlemen, is in substance and its great items, true. I know it to be true; it happened on this ball; I trod the ship; I knew the crew; I have seen and talked with Steelkilt since the death of Radney.’”</p>
+</div>
+</body>
 		</text>
 	</TEI>
