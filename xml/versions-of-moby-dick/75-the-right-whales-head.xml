@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>75 The Right Whale's Head</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="75-the-right-whales-head"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471315928396-r9etmrdvg48-9364619e7f70cf0353345147598f2b7b%2FMD_Amer_0408.jpg"/>CHAPTER 75
-THE RIGHT WHALE’S HEAD—CONTRASTED VIEW
+			<body><div xml:id="75-the-right-whales-head"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471315928396-r9etmrdvg48-9364619e7f70cf0353345147598f2b7b%2FMD_Amer_0408.jpg"/>
+			<head type="main" rend="center">Chapter 75</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE RIGHT WHALE’S HEAD—CONTRASTED VIEW.</head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">CROSSING the deck, let us now have a good long look at the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1110" type="artwork">Right Whale</name>’s head.
 
@@ -36,9 +39,9 @@ THE RIGHT WHALE’S HEAD—CONTRASTED VIEW
 </p><p xmlns="http://www.tei-c.org/ns/1.0">As every one knows, these same “hogs’ bristles,” “fins,” “whiskers,” “blinds,” or whatever you please, furnish to the ladies their <ref target="#ref_17546">busks</ref><note xml:id="ref_17546">busks: corset stays.</note> and other stiffening contrivances. But in this particular, the demand has long been on the decline. It was in Queen <name ref="https://mel-catalog.herokuapp.com/api/entries/person:358" type="person">Anne</name>’s time that the bone was in its glory, the <ref target="#ref_20103">farthingale</ref><note xml:id="ref_20103">farthingale: a frame for a hoop skirt popular during the 1702-1714 reign of Great Britain's  <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:358">Anne, Queen of Great Britain, 1665-1714</ref>. </note> being then all the fashion. And as those ancient dames moved about gaily, though in the jaws of the whale, as you may say; even so, in a shower, with the like thoughtlessness, do we nowadays fly under the same jaws for protection; the umbrella being a tent spread over thes same bone.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">But now forget all about blinds and whiskers for a moment, and, standing in the Right Whale’s mouth, look around you afresh. Seeing all these colonnades of bone so methodically ranged about, would you not think you were inside of the great <ref target="#ref_22256">Haarlem organ</ref><note xml:id="ref_22256">the great Haarlem organ: Built in the mid-eighteenth century in <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:316">Haarlem, Netherlands</ref>, it actually has five thousand pipes.</note>, and gazing upon its thousand pipes? For a carpet to the organ we have a rug of the <ref target="#ref_22257">softest Turkey</ref><note xml:id="ref_22257">rug of the softest Turkey: Turkish rug; carpet-weaving is one of the most ancient crafts in <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:168">Turkey</ref>.</note> —the tongue, which is glued, as it were, to the floor of the mouth. It is very fat and tender, and apt to tear in pieces in hoisting it on deck. This particular tongue now before us; at a passing glance I should say it was a six-barreler; that is, it will yield you about that amount of oil.
-________________________________________________________
-* This reminds us that the Right Whale really has a sort of whisker, or rather a moustache, consisting of a few scattered white hairs on the upper part of the outer end of the lower jaw. Sometimes these tufts impart a rather brigandish expression to his otherwise solemn countenance.
-______________________________________
+<l>________________________________________________________</l>
+* [Melville's Note] This reminds us that the Right Whale really has a sort of whisker, or rather a moustache, consisting of a few scattered white hairs on the upper part of the outer end of the lower jaw. Sometimes these tufts impart a rather brigandish expression to his otherwise solemn countenance.
+<l>______________________________________</l>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514505049151-obj203224g-424f65dac567f6a0ca0619dd44c272d9%2FMD_Amer_0411.jpg"/>Ere this, you must have plainly seen the truth of what I started with—that the Sperm Whale and the Right Whale have almost entirely different heads. To sum up, then: in the Right Whale’s there is no great well of sperm; no ivory teeth at all; no long, slender mandible of a lower jaw, like the Sperm Whale’s. Nor in the Sperm Whale are there any of those blinds of bone; no huge lower lip; and scarcely anything of a tongue. Again, the Right Whale has two external spout-holes, the Sperm Whale only one.
 
