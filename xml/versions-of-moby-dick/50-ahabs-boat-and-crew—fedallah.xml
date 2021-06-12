@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>50 Ahab's Boat and Crew—Fedallah</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="50-ahabs-boat-and-crew—fedallah"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514413282445-nunn1otshh-d1ddfca5ef54e2a995c67a929347746f%2FMD_Amer_0292.jpg"/>CHAPTER 50
-AHAB’S BOAT AND CREW. FEDALLAH
+			<body><div   xml:id="50-ahabs-boat-and-crew—fedallah"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514413282445-nunn1otshh-d1ddfca5ef54e2a995c67a929347746f%2FMD_Amer_0292.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 50</head>
+			<lb/>
+			<head type="sub-head" rend="center">AHAB’S BOAT AND CREW. FEDALLAH.</head>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“WHO would have thought it, Flask!” cried Stubb; “if I had but one leg you would not catch me in a boat, unless maybe to stop the <ref target="#ref_17058">plug-hole</ref><note xml:id="ref_17058">plug-hole: drain hole in the bottom of a boat.</note> with my timber toe. Oh! he’s a wonderful old man!”
 
@@ -29,7 +32,9 @@ AHAB’S BOAT AND CREW. FEDALLAH
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“I don’t know that, my little man; I never yet saw him kneel.”
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">*         *         *         *         *         *
+</p><p xmlns="http://www.tei-c.org/ns/1.0" rend="center">
+&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; * &#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0; *
+<lb/>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">Among whale-wise people it has often been argued whether, considering the paramount importance of his life to the success of the voyage, it is right for a whaling captain to jeopardize that life in the active perils of the chase. So <ref target="#ref_21497">Tamerlane</ref><note xml:id="ref_21497">Tamerlane’s soldiers often argued with tears in their eyes: Tamerlane is the English name of the Great Khan Timur-i-Leng (Timur the Lame, 1336–1405), Mongol conqueror and subject of "Tamburlaine the Great" by William Shakespeare’s contemporary, Christopher Marlowe. (In Ch. 30, lame Ahab is a “Khan of the plank.”) Melville purchased <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:204">The Dramatic Works . . . with Prefatory Remarks, Notes, Critical and Explanatory. By W. Oxberry.</ref> of Christopher Marlowe just before writing Moby-Dick; however, the reference to tearful soldiers, which may be folk legend, does not appear in Tamburlaine nor is it found in Poe’s poem “Tamerlane” (1827, 1845): see <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:237">The Works of the Late Edgar Allan Poe</ref>.</note>’s soldiers often argued with tears in their eyes, whether that invaluable life of his ought to be carried into the thickest of the fight.
 

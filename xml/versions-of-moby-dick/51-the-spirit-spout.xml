@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>51 The Spirit-Spout</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,15 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="51-the-spirit-spout"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514413445652-m17t6apuhp-4865c9d9ad62a8c9f2ed597c1e07759e%2FMD_Amer_0295.jpg"/>CHAPTER 51
-THE SPIRIT-<ref target="#ref_17075">SPOUT</ref><note xml:id="ref_17075">The Spirit Spout: In his January 8, 1852, letter to Nathaniel Hawthorne’s wife, Sophia, Melville responds to her earlier letter praising Moby-Dick and offering, among other insights, her interpretation of the spirit spout. The interpretation is not known because Sophia’s letter is lost, but Melville acknowledges her finding “a subtile significance” in the spirit spout, although he “did not, in that case, mean it.” For Melville’s further ruminations on the “allegoricalness of the whole” of Moby-Dick, see NN <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:239">Correspondence</ref> 219.</note> 
+			<body><div xml:id="51-the-spirit-spout"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514413445652-m17t6apuhp-4865c9d9ad62a8c9f2ed597c1e07759e%2FMD_Amer_0295.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 51</head>
+			<lb/>
+			<head type="sub-head" rend="center"><ref target="#ref_17075">THE SPIRIT-SPOUT</ref>.</head>
+
+<note xml:id="ref_17075">The Spirit Spout: In his January 8, 1852, letter to Nathaniel Hawthorne’s wife, Sophia, Melville responds to her earlier letter praising Moby-Dick and offering, among other insights, her interpretation of the spirit spout. The interpretation is not known because Sophia’s letter is lost, but Melville acknowledges her finding “a subtile significance” in the spirit spout, although he “did not, in that case, mean it.” For Melville’s further ruminations on the “allegoricalness of the whole” of Moby-Dick, see NN <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:239">Correspondence</ref> 219.</note>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">DAYS, weeks passed, and under easy sail, the ivory Pequod had slowly swept across four several cruising-grounds; that off the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:155" type="place">Azores</name>; off the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:244" type="place"><ref target="#ref_21747">Cape de Verdes</ref><note xml:id="ref_21747">Cape de Verdes; on the Plate . . . Carroll . . . St. Helena: Now a country, but at the time Portuguese, the Cabo Verde islands (<ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:244">Cape Verde</ref> in English), are located off the west coast of present-day Senegal; the Plate, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:245">Rio de la Plata</ref> (silver in Spanish), flows into the Atlantic between Argentina and Uruguay; the <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:246">Carroll Ground</ref> is actually off the coast of Angola, not south, but east and north of <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:247">St. Helena</ref>, the British island colony famous for <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:335">Napoleon Bonaparte (1769-1821)</ref>’s final exile, situated 1,200 miles west of Africa’s South Atlantic coast.</note></name>; on the Plate (so called), being off the mouth of the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:245" type="place">Rio de la Plata</name>; and the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:246" type="place">Carrol Ground</name>, an unstaked, watery locality, southerly from <name ref="https://mel-catalog.herokuapp.com/api/entries/place:247" type="place">St. Helena</name>.
 
@@ -45,8 +50,10 @@ THE SPIRIT-<ref target="#ref_17075">SPOUT</ref><note xml:id="ref_17075">The Spir
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">Terrible old man! thought Starbuck with a shudder, sleeping in this gale, still thou steadfastly eyest thy purpose.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">____________________________________________________________
-* The cabin-compass is called the <ref target="#ref_21754">tell-tale</ref><note xml:id="ref_21754">tell-tale: A compass installed in the cabin so that the captain or other officer may check the course of a ship without going to the deck; tell-tale compasses are often upturned and suspended from the ceiling.</note>, because without going to the compass at the helm, the Captain, while below, can inform himself of the course of the ship.
-_________________________________</p></div></body>
+</p><p xmlns="http://www.tei-c.org/ns/1.0">
+<l>____________________________________________________________</l>
+* [Melville's Note] The cabin-compass is called the <ref target="#ref_21754">tell-tale</ref><note xml:id="ref_21754">tell-tale: A compass installed in the cabin so that the captain or other officer may check the course of a ship without going to the deck; tell-tale compasses are often upturned and suspended from the ceiling.</note>, because without going to the compass at the helm, the Captain, while below, can inform himself of the course of the ship.
+<l>________________________________</l>
+</p></div></body>
 		</text>
 	</TEI>
