@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>77 The Great Heidelburgh Tun</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,17 +18,20 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="77-the-great-heidelburgh-tun"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514571702640-gedw5823m7c-f266808706244bcbd6c3fb530dd86f45%2FMD_Amer_0414.jpg"/>CHAPTER 77
-THE GREAT <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1113" type="artwork">HEIDELBURGH TUN</name>
+			<body><div xml:id="77-the-great-heidelburgh-tun"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514571702640-gedw5823m7c-f266808706244bcbd6c3fb530dd86f45%2FMD_Amer_0414.jpg"/>
+			<head type="main" rend="center">Chapter 77</head>
+			<lb/>
+			<head type="sub-head" rend="center"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1113" type="artwork">THE GREAT HEIDELBURGH TUN</name>.</head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">NOW comes the Baling of <ref target="#ref_22290">the Case</ref><note xml:id="ref_22290">the Case: According to Luther S. Mansfield and Howard P. Vincent in their edition of <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:218">Moby-Dick</ref> (772), Melville’s description in this chapter echoes Thomas Beale, <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:176">The Natural History of the Sperm Whale</ref>.</note>. But to comprehend it aright, you must know something of the curious internal structure of the thing operated upon.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">Regarding the Sperm Whale’s head as a solid oblong, you may, on an inclined plane, sideways divide it into two quoins,* whereof the lower is the bony structure, forming the cranium and jaws, and the upper an unctuous mass wholly free from bones; its broad forward end forming the expanded vertical apparent forehead of the whale. At the middle of the forehead horizontally subdivide this upper quoin, and then you have two
-__________________________________________________
-* Quoin is not a <ref target="#ref_20795">Euclidean term</ref><note xml:id="ref_20795">Euclidean term: a term that comes from the Greek mathematician <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:357">Euclid</ref> in his textbook on geometry, Elements. In other words, it is not an accepted mathematical term but one that Melville has invented as "pure nautical mathematics." Melville's note here is humorous.</note>. It belongs to the pure nautical mathematics. I know not that it has been defined before. A quoin is a solid which differs from a wedge in having its sharp end formed by the steep inclination of one side, instead of the mutual tapering of both sides.
-_______________________________________
+<l>__________________________________________________</l>
+* [Melville's Note] Quoin is not a <ref target="#ref_20795">Euclidean term</ref><note xml:id="ref_20795">Euclidean term: a term that comes from the Greek mathematician <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:357">Euclid</ref> in his textbook on geometry, Elements. In other words, it is not an accepted mathematical term but one that Melville has invented as "pure nautical mathematics." Melville's note here is humorous.</note>. It belongs to the pure nautical mathematics. I know not that it has been defined before. A quoin is a solid which differs from a wedge in having its sharp end formed by the steep inclination of one side, instead of the mutual tapering of both sides.
+<l>_______________________________________</l>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1514571747448-5ywj7bgr5d9-f266808706244bcbd6c3fb530dd86f45%2FMD_Amer_0415.jpg"/>almost equal parts, which before were naturally divided by an internal wall of a thick tendinous substance.
 
