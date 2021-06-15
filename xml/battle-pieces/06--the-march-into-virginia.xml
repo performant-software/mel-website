@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-		<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			<title>5 - The March into Virginia*</title>
-				<editor>Tianyu Ji</editor>
-		</titleStmt>
-			<publicationStmt>
-
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
-	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
-		</fileDesc>
-	</teiHeader>
-		<text>
-			<body>
-				<div xml:id="the-march-into-virginia">
-					<pb facs="/images/battle-pieces-v1/battle-pieces-i-0030.jpg"/>
-					<head type="main"><hi rend="italic">The March into Virginia,</hi></head>
-					 <head type="sub-head"><hi rend="italic">Ending in the First Manassas.</hi></head>
-					 <head type="sub-head">(<hi rend="smallcaps">July</hi>, 1861.)</head><lb/>
-<lg>
-	<lg type="stanza" n="1" rhyme="ababacdcded">
-		<l met="tetrameter"><hi rend="smallcaps">Did</hi> all the lets and bars <rhyme label="a">appear</rhyme></l>
-		<l rend="2em" met="tetrameter">To every just or larger <rhyme label="b">end</rhyme>,</l>
-		<l met="heptameter">Whence should come the trust and <rhyme label="a">cheer</rhyme>?</l>
-		<l rend="2em" met="?9">Youth must its ignorant impulse <rhyme label="b">lend</rhyme>—</l>
-		<l n="5" met="hexameter">Age finds place in the <rhyme label="a">rear</rhyme>.</l>
-		<l rend="2em" met="?10">All wars are boyish, and are fought by <rhyme label="c">boys</rhyme>,</l>
-		<l met="?11">The champions and enthusiasts of the <rhyme label="d">state</rhyme>:</l>
-		<l rend="2em" met="heptameter">Turbid ardors and vain <rhyme label="c">joys</rhyme></l>
-		<l rend="4em" met="hexameter">Not barrenly <rhyme label="d">abate</rhyme>—</l>
-		<l n="10" rend="2em" met="?9">Stimulants to the power <rhyme label="e">mature</rhyme>,</l>
-		<l rend="4em" met="hexameter">Preparatives of <rhyme label="d">fate</rhyme>.</l>
-	</lg>
-	<lg type="stanza" n="2" rhyme="ffgghhijjiddggkkkll">
-		<l met="tetrameter">Who here forecasteth the <rhyme label="f">event</rhyme>?</l>
-		<l met="tetrameter">What heart but spurns at <rhyme label="f">precedent</rhyme></l>
-		<l met="hexameter">And warnings of the <rhyme label="g">wise</rhyme>,</l>
-		<l n="15" met="tetrameter">Contemned foreclosures of <rhyme label="g">surprise</rhyme>? <pb facs="/images/battle-pieces-v1/battle-pieces-i-0031.jpg"/></l>
-		<l met="tetrameter">The banners play, the bugles <rhyme label="h">call</rhyme>,</l>
-		<l met="tetrameter">The air is blue and <rhyme label="h">prodigal</rhyme>.</l>
-		<l rend="2em" met="tetrameter">No berrying party, <rhyme label="i">pleasure-wooed</rhyme>,</l>
-		<l met="tetrameter">No picnic party in the <rhyme label="j">May</rhyme>,</l>
-		<l n="20" met="heptameter">Ever went less loth than <rhyme label="j">they</rhyme></l>
-		<l rend="2em" met="tetrameter">Into that leafy <rhyme label="i">neighborhood</rhyme>.</l>
-		<l met="?9">In <name ref="https://mel-catalog.herokuapp.com/api/entries/event:40" type="event">Bacchic</name> glee they file toward <rhyme label="d">Fate</rhyme>,</l>
-		<l met="tetrameter"><ref target="#ref_20560"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:310" type="person">Moloch</name>&apos;s <rhyme label="d">uninitiate</rhyme></ref><note xml:id="ref_20560">Traditionally, Moloch is a Canaanite god whose worshipers engaged in child sacrifice. In Milton's <hi rend="italic">Paradise Lost</hi>, he rules in Pandemonium: "First Moloch, horrid King besmear'd with blood / Of human sacrifice, and parents' tears" (as quoted in Cohen 213).</note>;</l>
-		<l met="tetrameter">Expectancy, and glad <rhyme label="g">surmise</rhyme></l>
-		<l met="tetrameter">Of battle&apos;s unknown <rhyme label="g">mysteries</rhyme>.</l>
-		<l n="25" met="heptameter">All they feel is this: &apos;tis <rhyme label="k">glory</rhyme>,</l>
-		<l met="tetrameter">A rapture sharp, though <rhyme label="k">transitory</rhyme>,</l>
-		<l met="?9">Yet lasting in belaureled <rhyme label="k">story</rhyme>.</l>
-		<l met="heptameter">So they gayly go to <rhyme label="l">fight</rhyme>,</l>
-		<l met="heptameter">Chatting left and laughing <rhyme label="f">right</rhyme>.</l>
-	</lg>
-	<lg type="sestet" n="3" rhyme="fmfmnm">
-		<l n="30" met="tetrameter">But some who this blithe mood <rhyme label="f">present</rhyme>,</l>
-		<l rend="2em" met="tetrameter">As on in lightsome files they <rhyme label="m">fare</rhyme>,</l>
-		<l met="?11">Shall die experienced ere three days <ref target="#ref_20685">are</ref><note xml:id="ref_20685">REVISION NARRATIVE: In revisions to this stanza in the bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville wrote "be for 'are'" in pencil in the right margin as a possible revision of "are spent" to "be spent"; however, he made no clearer determination by actually deleting "are." The NN edition of <hi rend="italic">Battle-Pieces</hi> does not emend (NN <hi rend="italic">Published Poems</hi> 627), and MEL makes note of the possible revision here and in its side-by-side display of copies A and C. To see Melville's revisions, click on the corresponding thumbnail page image from Copy C in the right margin.</note> <rhyme label="f">spent</rhyme>—
-		</l>
-		<l rend="2em" met="?10">Perish, enlightened by the vollied <rhyme label="m">glare</rhyme>;</l>
-		<l met="?10">Or <ref target="#BP_RNnote1">shame</ref><note xml:id="BP_RNnote1">REVISION NARRATIVE: In his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A), Melville made two revisions to "shame." In pencil, he seems to have inscribed "a" in the left margin presumably to give "Or a shame survive," thereby particularizing the shame of defeat, applying it to the feelings of those fresh recruits who died at the first battle of Manassas and not referring to a generalized shame for the entire army or nation. Then, without deleting "a," Melville underlined "shame" and inscribed directly under "a" the word "some," implying a revision that gives instead "Or some survive." Here, "some" reiterates "some" in the stanza's first line, which refers to those who die. On the one hand, since the revision to "some" refers to survivors who go on to meet a worse defeat in the second battle of Manassas, the word "shame" might have been a previously undetected typo that Melville is correcting to the originally intended "some." In this scenario, the revision restores an otherwise bungled parallelism in the stanza between some who die and some who survive. On the other hand, Melville may have discovered the potential for a previously unimagined parallelism, in the process of revision as he tinkered with "shame."  In addition, Melville made only three revisions in Copy A—this one (on page 23), and one each in "Lyon" (p. 27) and "The March to the Sea" (p. 129)—and on the verso of the front flyleaf in Copy A, Melville had also inscribed a list of two numbers ("27 and "129"). The editors of the NN <hi rend="italic">Published Poems</hi> argue that the omission of "23" indicates that Melville did not make a final acceptance of the revision on this page. However, an alternative theory is that because he inscribed two words at this revision site, yielding two or more readings, the omission might indicate that Melville had not made a final decision but was oscillating between choices.
-		</note> survive, and, like to <rhyme label="n">adamant</rhyme>, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0004.jpg"/></l>
-		<l n="35" rend="2em" met="?9"><ref target="#ref_20684">The throe of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:41" type="event">Second Manassas</name> <rhyme label="m">share</rhyme>.</ref><note xml:id="ref_20684">REVISION NARRATIVE:
-In the bound sheets copy of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville made several revisions to the last line of "The March into Virginia," oscillating between options. The editors of the NN <hi rend="italic">Published Poems</hi> offer a revision sequence that begins with Melville's underlining of the last line in pencil and inscribing a question mark in the right margin, with the author presumably indicating a problem area to be resolved. The editors go on to narrate the site's further revisions. MEL offers another revision scenario arguing that the underlining and marginal question mark may have come later, as the indication of a restoration of the original line and of Melville's indecision about which final reading he wanted. In the other revision steps at this revision site, MEL's and NN's revisions sequencings generally agree. The MEL sequencing is that Melville would have first struck through the original, printed line and inscribed beneath it a new line "Manassas' second throe and deadlier share". The line presents metrical problems because it adds a fifth beat to the original tetrameter, and even a sixth depending on how the possessive "Manassas'" is pronounced. At this time, Melville might have thought better of the possessive, struck through the entire penciled line, and underlined the original print line to indicate its restoration. Later, in darker pencil, Melville landed upon a third option: "Thy second shock, Manassas, share." Tinkering, he then struck out "second" and inscribed "after" above it to give "Thy after shock, Manassas, share." Though "after shock" (as in an earthquake) is a new and vibrant image, the deletion of "second" diminishes the irony of the troops enduring the more disastrous second battle of Manassas to come. Having to weigh the losses and gains of his revisions, Melville might have added the marginal question mark to indicate his indecision about this optional line. To see Melville's revisions, click on the corresponding thumbnail page image from Copy C in the right margin.
-</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0033.jpg"/></l>
-	</lg>
-</lg>
-				</div></body>
-		</text>
-	</TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>5 - The March into Virginia*</title>
+                <editor>Tianyu Ji</editor>
+            </titleStmt>
+            <publicationStmt>
+                
+                <publisher/>
+                <pubPlace/>
+                <date/>
+                <authority/>
+                <availability><p/></availability>
+            </publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="the-march-into-virginia">
+                <pb facs="/images/battle-pieces-v1/battle-pieces-i-0030.jpg"/>
+                <head type="main"><hi rend="italic">The March into Virginia,</hi></head>
+                <head type="sub-head"><hi rend="italic">Ending in the First Manassas.</hi></head>
+                <head type="sub-head">(<hi rend="smallcaps">July</hi>, 1861.)</head><lb/>
+                <lg>
+                    <lg type="stanza" n="1" rhyme="ababacdcded">
+                        <l met="tetrameter"><hi rend="smallcaps">Did</hi> all the lets and bars <rhyme label="a">appear</rhyme></l>
+                        <l rend="2em" met="tetrameter">To every just or larger <rhyme label="b">end</rhyme>,</l>
+                        <l met="trimeter+1">Whence should come the trust and <rhyme label="a">cheer</rhyme>?</l>
+                        <l rend="2em" met="tetrameter+1">Youth must its ignorant impulse <rhyme label="b">lend</rhyme>—</l>
+                        <l n="5" met="trimeter">Age finds place in the <rhyme label="a">rear</rhyme>.</l>
+                        <l rend="2em" met="pentameter">All wars are boyish, and are fought by <rhyme label="c">boys</rhyme>,</l>
+                        <l met="pentameter+1">The champions and enthusiasts of the <rhyme label="d">state</rhyme>:</l>
+                        <l rend="2em" met="trimeter+1">Turbid ardors and vain <rhyme label="c">joys</rhyme></l>
+                        <l rend="4em" met="hexameter">Not barrenly <rhyme label="d">abate</rhyme>—</l>
+                        <l n="10" rend="2em" met="tetrameter+1">Stimulants to the power <rhyme label="e">mature</rhyme>,</l>
+                        <l rend="4em" met="hexameter">Preparatives of <rhyme label="d">fate</rhyme>.</l>
+                    </lg>
+                    <lg type="stanza" n="2" rhyme="ffgghhijjiddggkkkll">
+                        <l met="tetrameter">Who here forecasteth the <rhyme label="f">event</rhyme>?</l>
+                        <l met="tetrameter">What heart but spurns at <rhyme label="f">precedent</rhyme></l>
+                        <l met="hexameter">And warnings of the <rhyme label="g">wise</rhyme>,</l>
+                        <l n="15" met="tetrameter">Contemned foreclosures of <rhyme label="g">surprise</rhyme>? <pb facs="/images/battle-pieces-v1/battle-pieces-i-0031.jpg"/></l>
+                        <l met="tetrameter">The banners play, the bugles <rhyme label="h">call</rhyme>,</l>
+                        <l met="tetrameter">The air is blue and <rhyme label="h">prodigal</rhyme>.</l>
+                        <l rend="2em" met="tetrameter">No berrying party, <rhyme label="i">pleasure-wooed</rhyme>,</l>
+                        <l met="tetrameter">No picnic party in the <rhyme label="j">May</rhyme>,</l>
+                        <l n="20" met="trimeter+1">Ever went less loth than <rhyme label="j">they</rhyme></l>
+                        <l rend="2em" met="tetrameter">Into that leafy <rhyme label="i">neighborhood</rhyme>.</l>
+                        <l met="tetrameter+1">In <name ref="https://mel-catalog.herokuapp.com/api/entries/event:40" type="event">Bacchic</name> glee they file toward <rhyme label="d">Fate</rhyme>,</l>
+                        <l met="tetrameter"><ref target="#ref_20560"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:310" type="person">Moloch</name>&apos;s <rhyme label="d">uninitiate</rhyme></ref><note xml:id="ref_20560">Traditionally, Moloch is a Canaanite god whose worshipers engaged in child sacrifice. In Milton's <hi rend="italic">Paradise Lost</hi>, he rules in Pandemonium: "First Moloch, horrid King besmear'd with blood / Of human sacrifice, and parents' tears" (as quoted in Cohen 213).</note>;</l>
+                        <l met="tetrameter">Expectancy, and glad <rhyme label="g">surmise</rhyme></l>
+                        <l met="tetrameter">Of battle&apos;s unknown <rhyme label="g">mysteries</rhyme>.</l>
+                        <l n="25" met="trimeter+1">All they feel is this: &apos;tis <rhyme label="k">glory</rhyme>,</l>
+                        <l met="tetrameter">A rapture sharp, though <rhyme label="k">transitory</rhyme>,</l>
+                        <l met="tetrameter+1">Yet lasting in belaureled <rhyme label="k">story</rhyme>.</l>
+                        <l met="trimeter+1">So they gayly go to <rhyme label="l">fight</rhyme>,</l>
+                        <l met="trimeter+1">Chatting left and laughing <rhyme label="l">right</rhyme>.</l>
+                    </lg>
+                    <lg type="sestet" n="3" rhyme="fmfmfm">
+                        <l n="30" met="tetrameter">But some who this blithe mood <rhyme label="f">present</rhyme>,</l>
+                        <l rend="2em" met="tetrameter">As on in lightsome files they <rhyme label="m">fare</rhyme>,</l>
+                        <l met="pentameter+1">Shall die experienced ere three days <ref target="#ref_20685">are</ref><note xml:id="ref_20685">REVISION NARRATIVE: In revisions to this stanza in the bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville wrote "be for 'are'" in pencil in the right margin as a possible revision of "are spent" to "be spent"; however, he made no clearer determination by actually deleting "are." The NN edition of <hi rend="italic">Battle-Pieces</hi> does not emend (NN <hi rend="italic">Published Poems</hi> 627), and MEL makes note of the possible revision here and in its side-by-side display of copies A and C. To see Melville's revisions, click on the corresponding thumbnail page image from Copy C in the right margin.</note> <rhyme label="f">spent</rhyme>—
+                        </l>
+                        <l rend="2em" met="pentameter">Perish, enlightened by the vollied <rhyme label="m">glare</rhyme>;</l>
+                        <l met="pentameter">Or <ref target="#BP_RNnote1">shame</ref><note xml:id="BP_RNnote1">REVISION NARRATIVE: In his personal copy of <hi rend="italic">Battle-Pieces</hi> (Copy A), Melville made two revisions to "shame." In pencil, he seems to have inscribed "a" in the left margin presumably to give "Or a shame survive," thereby particularizing the shame of defeat, applying it to the feelings of those fresh recruits who died at the first battle of Manassas and not referring to a generalized shame for the entire army or nation. Then, without deleting "a," Melville underlined "shame" and inscribed directly under "a" the word "some," implying a revision that gives instead "Or some survive." Here, "some" reiterates "some" in the stanza's first line, which refers to those who die. On the one hand, since the revision to "some" refers to survivors who go on to meet a worse defeat in the second battle of Manassas, the word "shame" might have been a previously undetected typo that Melville is correcting to the originally intended "some." In this scenario, the revision restores an otherwise bungled parallelism in the stanza between some who die and some who survive. On the other hand, Melville may have discovered the potential for a previously unimagined parallelism, in the process of revision as he tinkered with "shame."  In addition, Melville made only three revisions in Copy A—this one (on page 23), and one each in "Lyon" (p. 27) and "The March to the Sea" (p. 129)—and on the verso of the front flyleaf in Copy A, Melville had also inscribed a list of two numbers ("27 and "129"). The editors of the NN <hi rend="italic">Published Poems</hi> argue that the omission of "23" indicates that Melville did not make a final acceptance of the revision on this page. However, an alternative theory is that because he inscribed two words at this revision site, yielding two or more readings, the omission might indicate that Melville had not made a final decision but was oscillating between choices.
+                        </note> survive, and, like to <rhyme label="f">adamant</rhyme>, <pb facs="/images/battle-pieces-v1/battle-pieces-i-0004.jpg"/></l>
+                        <l n="35" rend="2em" met="tetrameter+1"><ref target="#ref_20684">The throe of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:41" type="event">Second Manassas</name> <rhyme label="m">share</rhyme>.</ref><note xml:id="ref_20684">REVISION NARRATIVE:
+                            In the bound sheets copy of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville made several revisions to the last line of "The March into Virginia," oscillating between options. The editors of the NN <hi rend="italic">Published Poems</hi> offer a revision sequence that begins with Melville's underlining of the last line in pencil and inscribing a question mark in the right margin, with the author presumably indicating a problem area to be resolved. The editors go on to narrate the site's further revisions. MEL offers another revision scenario arguing that the underlining and marginal question mark may have come later, as the indication of a restoration of the original line and of Melville's indecision about which final reading he wanted. In the other revision steps at this revision site, MEL's and NN's revisions sequencings generally agree. The MEL sequencing is that Melville would have first struck through the original, printed line and inscribed beneath it a new line "Manassas' second throe and deadlier share". The line presents metrical problems because it adds a fifth beat to the original tetrameter, and even a sixth depending on how the possessive "Manassas'" is pronounced. At this time, Melville might have thought better of the possessive, struck through the entire penciled line, and underlined the original print line to indicate its restoration. Later, in darker pencil, Melville landed upon a third option: "Thy second shock, Manassas, share." Tinkering, he then struck out "second" and inscribed "after" above it to give "Thy after shock, Manassas, share." Though "after shock" (as in an earthquake) is a new and vibrant image, the deletion of "second" diminishes the irony of the troops enduring the more disastrous second battle of Manassas to come. Having to weigh the losses and gains of his revisions, Melville might have added the marginal question mark to indicate his indecision about this optional line. To see Melville's revisions, click on the corresponding thumbnail page image from Copy C in the right margin.
+                        </note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0033.jpg"/></l>
+                    </lg>
+                </lg>
+            </div></body>
+    </text>
+</TEI>
 
 <!--
 NN Rev Narrative: "Then he explicitly lined through the printed line and penciled, then lined through, 'Manassas' second throe and deadlier share'; then he penciled, below, 'Thy second shock, Manassas, share', and finally he substituted 'after' for 'second'.(627)"

@@ -1,63 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>7 - Ball's Bluff</title>
-				<editor>Tianyu Ji</editor>
-			</titleStmt>
-			<publicationStmt>
-
-				<publisher/>
-				<pubPlace/>
-				<date/>
-				<authority/>
-				<availability><p/></availability>
-			</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
-		</fileDesc>
-	</teiHeader>
-	<text>
-		<body><div xml:id="balls-bluff">
-			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0036.jpg"/><lb/>
-			<head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:42" type="event">Ball&apos;s Bluff</name>.</hi></head>
-				<head type="sub-head"><hi rend="italic">A Reverie.</hi><lb/>
-				(<hi rend="smallcaps">October</hi>, 1861.)<lb/>
-			</head>
-			<lb/>
-		<lg>
-			<lg n="1" type="septet" rhyme="abbcbcb">
-				<l met="?10"><hi rend="smallcaps">One</hi> noonday, at my window in the <rhyme label="a">town</rhyme>,</l>
-				<l rend="2em" met="?10">I saw a sight—saddest that eyes can <rhyme label="b">see</rhyme>—</l>
-				<l rend="2em" met="tetrameter">Young soldiers marching <rhyme label="b">lustily</rhyme></l>
-				<l rend="6em" met="?4">Unto the <rhyme label="c">wars</rhyme>,</l>
-				<l n="5" met="?11">With fifes, and flags in mottoed <rhyme label="b">pageantry</rhyme>;</l>
-				<l rend="4em" met="tetrameter">While all the porches, walks, and <rhyme label="c">doors</rhyme></l>
-				<l met="?10">Were rich with ladies cheering <rhyme label="b">royally</rhyme>.</l>
-			</lg>
-
-			<lg n="2" type="septet" rhyme="deefefe">
-				<l met="?10">They moved like Juny morning on the <rhyme label="d">wave</rhyme>,</l>
-				<l rend="2em" met="?10">Their hearts were fresh as clover in its <rhyme label="e">prime</rhyme></l>
-				<l n="10" rend="2em" met="tetrameter">(It was the breezy summer <rhyme label="e">time</rhyme>),</l>
-				<l rend="6em" met="?4">Life throbbed so <rhyme label="f">strong</rhyme>,</l>
-				<l met="11">How should they dream that Death in a rosy <rhyme label="e">clime</rhyme></l>
-				<l rend="4em" met="tetrameter">Would come to thin their shining <rhyme label="f">throng</rhyme>?</l>
-				<l met="?10">Youth feels immortal, like the gods <rhyme label="e">sublime</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0037.jpg"/></l>
-			</lg>
-
-			<lg n="3" type="septet" rhyme="ghhihih">
-				<l n="15" met="?10">Weeks passed; and at my window, leaving <rhyme label="g">bed</rhyme>,</l>
-				<l rend="2em" met="?10">By night I mused, of easeful sleep <rhyme label="h">bereft</rhyme>,</l>
-				<l rend="2em" met="tetrameter">On those brave boys (Ah War! thy <rhyme label="h">theft</rhyme>);</l>
-				<l rend="6em" met="?4">Some marching <rhyme label="i">feet</rhyme></l>
-				<l met="?10">Found pause at last by cliffs Potomac <rhyme label="h">cleft</rhyme>;</l>
-				<l n="20" rend="4em" met="tetrameter">Wakeful I mused, while in the <rhyme label="i">street</rhyme></l>
-				<l met="?10">Far footfalls died away till none were <rhyme label="h">left</rhyme>.</l>
-			</lg>
-		</lg>
-		</div></body>
-	</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>7 - Ball's Bluff</title>
+                <editor>Tianyu Ji</editor>
+            </titleStmt>
+            <publicationStmt>
+                
+                <publisher/>
+                <pubPlace/>
+                <date/>
+                <authority/>
+                <availability><p/></availability>
+            </publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div xml:id="balls-bluff">
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0036.jpg"/><lb/>
+            <head type="main"><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/event:42" type="event">Ball&apos;s Bluff</name>.</hi></head>
+            <head type="sub-head"><hi rend="italic">A Reverie.</hi><lb/>
+                (<hi rend="smallcaps">October</hi>, 1861.)<lb/>
+            </head>
+            <lb/>
+            <lg>
+                <lg n="1" type="septet" rhyme="abbcbcb">
+                    <l met="pentameter"><hi rend="smallcaps">One</hi> noonday, at my window in the <rhyme label="a">town</rhyme>,</l>
+                    <l rend="2em" met="pentameter">I saw a sight—saddest that eyes can <rhyme label="b">see</rhyme>—</l>
+                    <l rend="2em" met="tetrameter">Young soldiers marching <rhyme label="b">lustily</rhyme></l>
+                    <l rend="6em" met="dimeter">Unto the <rhyme label="c">wars</rhyme>,</l>
+                    <l n="5" met="pentameter+1">With fifes, and flags in mottoed <rhyme label="b">pageantry</rhyme>;</l>
+                    <l rend="4em" met="tetrameter">While all the porches, walks, and <rhyme label="c">doors</rhyme></l>
+                    <l met="pentameter">Were rich with ladies cheering <rhyme label="b">royally</rhyme>.</l>
+                </lg>
+                
+                <lg n="2" type="septet" rhyme="deefefe">
+                    <l met="pentameter">They moved like Juny morning on the <rhyme label="d">wave</rhyme>,</l>
+                    <l rend="2em" met="pentameter">Their hearts were fresh as clover in its <rhyme label="e">prime</rhyme></l>
+                    <l n="10" rend="2em" met="tetrameter">(It was the breezy summer <rhyme label="e">time</rhyme>),</l>
+                    <l rend="6em" met="dimeter">Life throbbed so <rhyme label="f">strong</rhyme>,</l>
+                    <l met="pentameter+1">How should they dream that Death in a rosy <rhyme label="e">clime</rhyme></l>
+                    <l rend="4em" met="tetrameter">Would come to thin their shining <rhyme label="f">throng</rhyme>?</l>
+                    <l met="pentameter">Youth feels immortal, like the gods <rhyme label="e">sublime</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0037.jpg"/></l>
+                </lg>
+                
+                <lg n="3" type="septet" rhyme="ghhihih">
+                    <l n="15" met="pentameter">Weeks passed; and at my window, leaving <rhyme label="g">bed</rhyme>,</l>
+                    <l rend="2em" met="pentameter">By night I mused, of easeful sleep <rhyme label="h">bereft</rhyme>,</l>
+                    <l rend="2em" met="tetrameter">On those brave boys (Ah War! thy <rhyme label="h">theft</rhyme>);</l>
+                    <l rend="6em" met="dimeter">Some marching <rhyme label="i">feet</rhyme></l>
+                    <l met="pentameter">Found pause at last by cliffs <name ref="https://mel-catalog.herokuapp.com/api/entries/place:451" type="place">Potomac</name> <rhyme label="h">cleft</rhyme>;</l>
+                    <l n="20" rend="4em" met="tetrameter">Wakeful I mused, while in the <rhyme label="i">street</rhyme></l>
+                    <l met="pentameter">Far footfalls died away till none were <rhyme label="h">left</rhyme>.</l>
+                </lg>
+            </lg>
+        </div></body>
+    </text>
 </TEI>
 
 <!--
