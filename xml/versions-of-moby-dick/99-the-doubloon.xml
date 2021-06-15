@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>99 The Doubloon</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,7 +18,7 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div   xml:id="99-the-doubloon"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518929680851-mih4hzj3mxg-e99be5e75e2242f1fbdc5111873b033c%2FMD_Amer_0515.jpg"/>CHAPTER 99
 THE DOUBLOON
@@ -51,7 +51,7 @@ THE DOUBLOON
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“I look, you look, he looks; we look, ye look, they look.”
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“Upon my soul, he’s been studying Murray’s Grammar! 
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“Upon my soul, he’s been studying Murray’s Grammar<ref target="#MDch99Note1">luffs up</ref><note xml:id="MDch99Note1">Murray’s Grammar!: Lindley Murray (1745–1826) wrote English Grammar (1795), widely used in England and the United States.</note>! 
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518930132465-ww9kqjr881g-e99be5e75e2242f1fbdc5111873b033c%2FMD_Amer_0521.jpg"/>
 </p><p xmlns="http://www.tei-c.org/ns/1.0">Improving his mind, poor fellow! But what’s that he says now—hist!”
 
@@ -68,9 +68,9 @@ THE DOUBLOON
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Wonder if he means me?—complimentary!—poor lad!—I could go hang myself. Any way, for the present, I’ll quit Pip’s vicinity. I can stand the rest, for they have plain wits; but he’s too crazy-witty for my sanity. So, so, I leave him muttering.”
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Here’s the ship’s navel, this doubloon here, and they are all on fire to unscrew it. <ref target="#ref_18323">But, unscrew your navel, and what’s the consequence</ref><note xml:id="ref_18323">But, unscrew your navel, and what’s the consequence?: Though the doubloon is central to the ship’s symbolism, analogous to other metaphorical “navels” such as the Kaaba in Mecca for Islam, and the Omphalos of early Greek religion in Delphi, Melville is alluding to a very old joke: unscrew your navel and your buttocks fall off.</note>? Then again, if it stays here, that is ugly, too, for when aught’s <ref target="#ref_18322">nailed to the mast it’s a sign that things grow desperate</ref><note xml:id="ref_18322">nailed to the mast . . . things grow desperate: In naval battle under desperate conditions, the colors (flag) were sometimes nailed to the mast so no one aboard could lower them in surrender. Compare Ahab’s order to nail a replacement flag to the mast of the Pequod in Ch. 135.</note>. Ha, ha! old Ahab! the White Whale; he’ll nail ye! This is a pine tree. My father, in old Tolland county, cut down a pine tree once, and found a silver ring grown over in it; some old darkey’s wedding ring. How did it get there? And so they’ll say <hi rend="bold"><ref target="#ref_27608">in the resurrection</ref><note xml:id="ref_27608">REVISION NARRATIVE:
-Hushing Pip // 
+Hushing Pip //
 Some of Pip’s mutterings were taken to be mildly irreverent. His phrase, “in the resurrection,” referring to the so-called Last Day or Judgment Day, when all souls are sent either to heaven or hell (see Revelation 20), was revised by British editors to simply “one day.” See also "Hish! Hish! etc.," below.</note></hi>, when they come to fish up this old mast, and find a doubloon lodged in it, with bedded oysters for the shaggy bark. Oh, the gold! the precious, precious gold!—the <ref target="#ref_18348">green miser</ref><note xml:id="ref_18348">green miser: Davy Jones, also mentioned in Chs. 18 and 81.</note> ’ll hoard ye soon! <hi rend="bold"><ref target="#ref_27609">Hish! hish! God goes ’mong the worlds <ref target="#ref_18321">blackberrying. Cook! ho, cook! and cook us! Jenny! hey, hey, hey, hey, hey, Jenny, Jenny! and get your hoe-cake done</ref><note xml:id="ref_18321">blackberrying . . . Jenny! and get your hoe-cake done!”: Feidelson (557) suggests that this may be Pip’s variant of “blackbirding,” kidnapping black people into slavery. A blackface minstrel song with African roots, “Jenny Get Your Hoe Cake Done” was popularized by Joel Walker Sweeney and sung by him in New York City in 1840. See also Making Moby-Dick.</note>!</ref><note xml:id="ref_27609">REVISION NARRATIVE:
-Hushing Pip // 
+Hushing Pip //
 Pip’s last lines—when he hushes himself, sees God picking blackberries, greets the cook, and breaks into song—were cut entirely, even though only the image of God going berry picking might have been taken as objectionable. Perhaps Melville made this cut to end on Pip’s more ominous prediction: “the green miser’ll hoard ye soon!” (See also "in the resurrection," above.</note><ref target="#ref_18321">blackberrying. Cook! ho, cook! and cook us! Jenny! hey, hey, hey, hey, hey, Jenny, Jenny! and get your hoe-cake done</ref><note xml:id="ref_18321">blackberrying . . . Jenny! and get your hoe-cake done!”: Feidelson (557) suggests that this may be Pip’s variant of “blackbirding,” kidnapping black people into slavery. A blackface minstrel song with African roots, “Jenny Get Your Hoe Cake Done” was popularized by Joel Walker Sweeney and sung by him in New York City in 1840. See also Making Moby-Dick.</note>!</hi>” </p></div></body>
 		</text>
 	</TEI>
