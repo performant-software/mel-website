@@ -157,12 +157,12 @@ app><lem wit="#bp1866c">––</lem><rdg wit="#bp1866a">[not in]</rdg></app>
 					<l met="trimeter+1">Death, with silent <rhyme label="h">negative</rhyme>.</l>
 				</lg>
 				<lg type="sestet" rhyme="aaabbc">
-					<l n="85" rend="4em"><hi rend="smallcaps">Yea and <rhyme label="a">Nay</rhyme>—</hi></l>
-					<l rend="4em"><hi rend="smallcaps">Each hath his <rhyme label="a">say</rhyme>;</hi></l>
-					<l rend="4em"><hi rend="smallcaps">But God He keeps the middle <rhyme label="a">way</rhyme>.</hi></l>
-					<l rend="4em"><hi rend="smallcaps">None was <rhyme label="b">by</rhyme></hi></l>
-					<l rend="4em"><hi rend="smallcaps">When he spread the <rhyme label="b">sky</rhyme>;</hi></l>
-					<l n="90" rend="4em"><hi rend="smallcaps">Wisdom is vain, and <rhyme label="c">prophesy</rhyme>.</hi></l>
+					<l n="85" rend="4em" met="monometer+1"><hi rend="smallcaps">Yea and <rhyme label="a">Nay</rhyme>—</hi></l>
+					<l rend="4em" met="dimeter"><hi rend="smallcaps">Each hath his <rhyme label="a">say</rhyme>;</hi></l>
+					<l rend="4em" met="tetrameter"><hi rend="smallcaps">But God He keeps the middle <rhyme label="a">way</rhyme>.</hi></l>
+					<l rend="4em" met="monometer+1"><hi rend="smallcaps">None was <rhyme label="b">by</rhyme></hi></l>
+					<l rend="4em" met="dimeter+1"><hi rend="smallcaps">When he spread the <rhyme label="b">sky</rhyme>;</hi></l>
+					<l n="90" rend="4em" met="tetrameter"><hi rend="smallcaps">Wisdom is vain, and <rhyme label="c">prophesy</rhyme>.</hi></l>
 				</lg>
 
 				<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
