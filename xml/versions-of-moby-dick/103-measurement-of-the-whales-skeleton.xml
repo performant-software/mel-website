@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>103 Measurement of the Whale's Skeleton</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,11 +18,14 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="103-measurement-of-the-whales-skeleton"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518930605486-6dbpxijtv8n-95a8730d05451ab31517d584f11aaade%2FMD_Amer_0540.jpg"/>CHAPTER 103
-MEASUREMENT OF THE WHALE’S SKELETON
+			<body><div xml:id="103-measurement-of-the-whales-skeleton"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518930605486-6dbpxijtv8n-95a8730d05451ab31517d584f11aaade%2FMD_Amer_0540.jpg"/>
 
+			<head type="main" rend="center">CHAPTER 103</head>
+			<lb/>
+			<head type="sub-head" rend="center">MEASUREMENT OF THE WHALE’S SKELETON.</head>
+			
 </p><p xmlns="http://www.tei-c.org/ns/1.0">IN the first place, I wish to lay before you a particular, plain statement, touching the <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1074" type="artwork">living bulk of this leviathan</name>, whose skeleton we are briefly to exhibit. Such a statement may prove useful here.
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">According to a careful calculation I have made, and which I partly base upon Captain Scoresby’s estimate, of seventy tons for the largest sized Greenland whale of sixty feet in length; according to my careful calculation, I say, a Sperm Whale of the largest magnitude, between eighty-five and ninety feet in length, and something less than forty feet in its fullest circumference, such a whale will weigh at least ninety tons; so that, reckoning thirteen men to a ton, he would considerably outweigh the combined population of a whole village of one thousand one hundred inhabitants.
