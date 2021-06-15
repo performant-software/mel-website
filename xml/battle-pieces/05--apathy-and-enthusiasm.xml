@@ -28,61 +28,60 @@
 				</head>
 				<head type="sub-head">(1860-1.)</head>
 <lb/>
-			    <lg type="free_verse">
 				<l rend="8em">I.</l>
-				<lg type="free_verse" rhyme="ababcdedfgghiffhijkjlkl">
-					<l met="octameter"><hi rend="smallcaps">O the</hi> clammy cold <rhyme label="a">November</rhyme>,</l>
-					<l rend="2em" met="heptameter">And the winter white and <rhyme label="b">dead</rhyme>,</l>
-					<l met="octameter">And the terror dumb with <rhyme label="a">stupor</rhyme>,</l>
-					<l rend="2em" met="heptameter">And the sky a sheet of <rhyme label="b">lead</rhyme>;</l>
-					<l n="5" met="octameter">And events that came <rhyme label="c">resounding</rhyme></l>
-					<l rend="2em" met="heptameter">With the cry that <hi rend="italic">All was <rhyme label="d">lost</rhyme></hi>,</l>
-					<l>Like the thunder-cracks of massy <rhyme label="e">ice</rhyme></l>
-					<l rend="2em" met="heptameter">In intensity of <rhyme label="d">frost</rhyme>—</l>
-					<l met="octameter">Bursting one upon <rhyme label="f">another</rhyme></l>
-					<l n="10" rend="2em" met="septameter">Through the horror of the <rhyme label="g">calm</rhyme>.</l>
-					<l rend="2em" met="heptameter">The paralysis of <rhyme label="g">arm</rhyme></l>
-					<l met="heptameter">In the anguish of the <rhyme label="h">heart</rhyme>;</l>
-					<l met="heptameter">And the hollowness and <rhyme label="i">dearth</rhyme>.</l>
-					<l rend="2em" met="octameter">The appealings of the <rhyme label="f">mother</rhyme></l>
-					<l n="15" rend="2em" met="heptameter">To brother and to <rhyme label="f">brother</rhyme></l>
-					<l met="heptameter">Not in hatred so to <rhyme label="h">part</rhyme>—</l>
-					<l met="heptameter">And the fissure in the <rhyme label="i">hearth</rhyme> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0028.jpg"/></l>
-					<l rend="2em" met="heptameter">Growing momently more <rhyme label="j">wide</rhyme>.</l>
-					<l met="heptameter">Then the glances &apos;tween the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:172" type="person"><rhyme label="k">Fates</rhyme></name>,</l>
-					<l n="20" rend="2em" met="heptameter">And the doubt on every <rhyme label="j">side</rhyme>,</l>
-					<l met="heptameter">And the patience under <rhyme label="l">gloom</rhyme></l>
-					<l met="heptameter">In the stoniness that <rhyme label="k">waits</rhyme></l>
-					<l met="heptameter">The finality of <rhyme label="l">doom</rhyme>.</l>
+				<lg rhyme="abcbdefeghijkggljmnmono">
+					<l met="tetrameter"><hi rend="smallcaps">O the</hi> clammy cold <rhyme label="a">November</rhyme>,</l>
+					<l rend="2em" met="trimeter+1">And the winter white and <rhyme label="b">dead</rhyme>,</l>
+					<l met="tetrameter">And the terror dumb with <rhyme label="c">stupor</rhyme>,</l>
+					<l rend="2em" met="trimeter+1">And the sky a sheet of <rhyme label="b">lead</rhyme>;</l>
+					<l n="5" met="tetrameter">And events that came <rhyme label="d">resounding</rhyme></l>
+					<l rend="2em" met="trimeter+1">With the cry that <hi rend="italic">All was <rhyme label="e">lost</rhyme></hi>,</l>
+					<l met="tetrameter+1">Like the thunder-cracks of massy <rhyme label="f">ice</rhyme></l>
+					<l rend="2em" met="trimeter+1">In intensity of <rhyme label="e">frost</rhyme>—</l>
+					<l met="tetrameter">Bursting one upon <rhyme label="g">another</rhyme></l>
+					<l n="10" rend="2em" met="trimeter+1">Through the horror of the <rhyme label="h">calm</rhyme>.</l>
+					<l rend="2em" met="trimeter+1">The paralysis of <rhyme label="i">arm</rhyme></l>
+					<l met="trimeter+1">In the anguish of the <rhyme label="j">heart</rhyme>;</l>
+					<l met="trimeter+1">And the hollowness and <rhyme label="k">dearth</rhyme>.</l>
+					<l rend="2em" met="tetrameter">The appealings of the <rhyme label="g">mother</rhyme></l>
+					<l n="15" rend="2em" met="trimeter+1">To brother and to <rhyme label="g">brother</rhyme></l>
+					<l met="trimeter+1">Not in hatred so to <rhyme label="l">part</rhyme>—</l>
+					<l met="trimeter+1">And the fissure in the <rhyme label="j">hearth</rhyme> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0028.jpg"/></l>
+					<l rend="2em" met="trimeter+1">Growing momently more <rhyme label="m">wide</rhyme>.</l>
+					<l met="trimeter+1">Then the glances &apos;tween the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:172" type="person"><rhyme label="n">Fates</rhyme></name>,</l>
+					<l n="20" rend="2em" met="trimeter+1">And the doubt on every <rhyme label="m">side</rhyme>,</l>
+					<l met="trimeter+1">And the patience under <rhyme label="o">gloom</rhyme></l>
+					<l met="trimeter+1">In the stoniness that <rhyme label="n">waits</rhyme></l>
+					<l met="trimeter+1">The finality of <rhyme label="o">doom</rhyme>.</l>
 				</lg>
 				<lb/>
 
 				<l rend="8em">II.</l>
-				<lg type="free_verse" rhyme="mnonpqrqrsrstuqucvwsxs">
-					<l met="octameter">So the winter died <rhyme label="m">despairing</rhyme>,</l>
-					<l n="25" rend="2em" met="heptameter">And the weary weeks of <rhyme label="n">Lent</rhyme>;</l>
-					<l met="octameter">And the ice-bound rivers <rhyme label="o">melted</rhyme>,</l>
-					<l rend="2em" met="heptameter">And the tomb of Faith was <rhyme label="n">rent</rhyme>.</l>
-					<l met="octameter">O, the rising of the <rhyme label="p">People</rhyme></l>
-					<l rend="2em" met="heptameter">Came with springing of the <rhyme label="q">grass</rhyme>,</l>
-					<l n="30" met="octameter">They rebounded from <rhyme label="r">dejection</rhyme></l>
-					<l rend="2em" met="heptameter">After Easter came to <rhyme label="q">pass</rhyme>.</l>
-					<l met="octameter">And the young were all <rhyme label="r">elation</rhyme></l>
-					<l rend="2em" met="heptameter">Hearing <name ref="https://mel-catalog.herokuapp.com/api/entries/place:507" type="place">Sumter</name>&apos;s cannon <rhyme label="s">roar</rhyme>,</l>
-					<l met="octameter">And they thought how tame the <rhyme label="r">Nation</rhyme></l>
-					<l n="35" rend="2em" met="heptameter">In the age that went <rhyme label="s">before</rhyme>.</l>
-					<l met="octameter">And <ref target="#ref_20530"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name></ref><note xml:id="ref_20530">Melville alludes to the war in heaven between St. Michael and the "Arch-fiend" Satan in Milton's <hi rend="italic">Paradise Lost</hi>.</note> seemed <rhyme label="t">gigantical</rhyme>,</l>
-					<l rend="2em" met="hexameter">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Arch-fiend</name> but a <rhyme label="u">dwarf</rhyme>;</l>
-					<l met="octameter">And at the towers of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:322" type="person"><rhyme label="q">Erebus</rhyme></name></l>
-					<l rend="2em" met="hexameter">Our striplings flung the <rhyme label="u">scoff</rhyme>.</l>
-					<l n="40" met="octameter">But the elders with <rhyme label="c">foreboding</rhyme></l>
-					<l rend="2em" met="heptameter">Mourned the days forever o&apos;<rhyme label="v">er</rhyme>,<pb facs="/images/battle-pieces-v1/battle-pieces-i-0029.jpg"/></l>
-					<l met="octameter">And recalled the forest <rhyme label="w">proverb</rhyme>,</l>
-					<l rend="2em" met="pentameter">The Iroquois&apos; <ref target="#ref_20533">old <rhyme label="s">saw</rhyme>:</ref><note xml:id="ref_20533">In "The Source of Melville's Iroquois Proverb," Peter Unseth finds no proverb tradition among the Iroquois nations and no source for this proverb in general; Melville seems to have made it up. <bibl><hi rend="italic">ANQ A Quarterly Journal of Short Articles Notes and Reviews</hi> 28.3-4 (October 2015): 182-85. DOI: 10.1080/0895769X.2016.1172954</bibl>.</note></l>
-					<l met="hexameter"><hi rend="italic">Grief to every <rhyme label="x">graybeard</rhyme></hi></l>
-					<l n="45" rend="2em" met="heptameter"><hi rend="italic">When young Indians lead the <rhyme label="s">war</rhyme></hi>.</l>
+				<lg rhyme="abcbdefefgffghijklmnop">
+					<l met="tetrameter">So the winter died <rhyme label="a">despairing</rhyme>,</l>
+					<l n="25" rend="2em" met="trimeter+1">And the weary weeks of <rhyme label="b">Lent</rhyme>;</l>
+					<l met="tetrameter">And the ice-bound rivers <rhyme label="c">melted</rhyme>,</l>
+					<l rend="2em" met="trimeter+1">And the tomb of Faith was <rhyme label="b">rent</rhyme>.</l>
+					<l met="tetrameter">O, the rising of the <rhyme label="d">People</rhyme></l>
+					<l rend="2em" met="trimeter+1">Came with springing of the <rhyme label="e">grass</rhyme>,</l>
+					<l n="30" met="tetrameter">They rebounded from <rhyme label="f">dejection</rhyme></l>
+					<l rend="2em" met="trimeter+1">After Easter came to <rhyme label="e">pass</rhyme>.</l>
+					<l met="tetrameter">And the young were all <rhyme label="f">elation</rhyme></l>
+					<l rend="2em" met="trimeter+1">Hearing <name ref="https://mel-catalog.herokuapp.com/api/entries/place:507" type="place">Sumter</name>&apos;s cannon <rhyme label="g">roar</rhyme>,</l>
+					<l met="tetrameter">And they thought how tame the <rhyme label="f">Nation</rhyme></l>
+					<l n="35" rend="2em" met="trimeter+1">In the age that went <rhyme label="f">before</rhyme>.</l>
+					<l met="tetrameter">And <ref target="#ref_20530"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:143" type="person">Michael</name></ref><note xml:id="ref_20530">Melville alludes to the war in heaven between St. Michael and the "Arch-fiend" Satan in Milton's <hi rend="italic">Paradise Lost</hi>.</note> seemed <rhyme label="g">gigantical</rhyme>,</l>
+					<l rend="2em" met="trimeter">The <name ref="https://mel-catalog.herokuapp.com/api/entries/person:127" type="person">Arch-fiend</name> but a <rhyme label="h">dwarf</rhyme>;</l>
+					<l met="tetrameter+1">And at the towers of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:322" type="person"><rhyme label="i">Erebus</rhyme></name></l>
+					<l rend="2em" met="trimeter">Our striplings flung the <rhyme label="j">scoff</rhyme>.</l>
+					<l n="40" met="tetrameter">But the elders with <rhyme label="k">foreboding</rhyme></l>
+					<l rend="2em" met="trimeter+1">Mourned the days forever o&apos;<rhyme label="l">er</rhyme>,<pb facs="/images/battle-pieces-v1/battle-pieces-i-0029.jpg"/></l>
+					<l met="tetrameter">And recalled the forest <rhyme label="m">proverb</rhyme>,</l>
+					<l rend="2em" met="trimeter">The Iroquois&apos; <ref target="#ref_20533">old <rhyme label="n">saw</rhyme>:</ref><note xml:id="ref_20533">In "The Source of Melville's Iroquois Proverb," Peter Unseth finds no proverb tradition among the Iroquois nations and no source for this proverb in general; Melville seems to have made it up. <bibl><hi rend="italic">ANQ A Quarterly Journal of Short Articles Notes and Reviews</hi> 28.3-4 (October 2015): 182-85. DOI: 10.1080/0895769X.2016.1172954</bibl>.</note></l>
+					<l met="trimeter"><hi rend="italic">Grief to every <rhyme label="o">graybeard</rhyme></hi></l>
+					<l n="45" rend="2em" met="trimeter+1"><hi rend="italic">When young Indians lead the <rhyme label="p">war</rhyme></hi>.</l>
 				</lg>
-			    </lg>
+			    
 			</div></body>
 	</text>
 </TEI>
