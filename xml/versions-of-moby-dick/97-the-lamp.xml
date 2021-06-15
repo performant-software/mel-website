@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>97 The Lamp</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,15 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="97-the-lamp"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518929472657-ijeuojz69q-502b00182bde751b5c6f033b20fc07f9%2FMD_Amer_0511.jpg"/>CHAPTER 97
-THE LAMP
+			<body><div xml:id="97-the-lamp"><p xmlns="http://www.tei-c.org/ns/1.0">
+				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518929472657-ijeuojz69q-502b00182bde751b5c6f033b20fc07f9%2FMD_Amer_0511.jpg"/>
+
+				<head type="main" rend="center">CHAPTER 97</head>
+				<lb/>
+				<head type="sub-head" rend="center">THE LAMP.</head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">HAD you descended from the Pequod’s try-works to the Pequod’s forecastle, where the off duty watch were sleeping, for one single moment you would have almost thought you were standing in some illuminated shrine of canonized <ref target="#ref_18303">kings and counsellors</ref><note xml:id="ref_18303">kings and counsellors: Job 14; Melville used the phrase again in his 1853 tale “Bartleby, the Scrivener.”</note>. There they lay in their triangular oaken vaults, each mariner a chiselled muteness; a score of lamps flashing upon his hooded eyes.
 
