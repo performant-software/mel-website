@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>113 The Forge</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="113-the-forge"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519773861667-fbcpay1lziw-11a02e71e45e20040bffd6e0eede45a7%2FMD_Amer_0577.jpg"/>CHAPTER 113
-THE FORGE
+			<body><div xml:id="113-the-forge"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519773861667-fbcpay1lziw-11a02e71e45e20040bffd6e0eede45a7%2FMD_Amer_0577.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 113</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE FORGE.</head>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">WITH matted beard, and swathed in a bristling shark-skin apron, about mid-day, Perth was standing between his forge and anvil, the latter placed upon an iron-wood log, with one hand holding a pike-head in the coals, and with the other at his forge’s lungs, when Captain Ahab came along, carrying in his hand a small rusty-looking leathern bag. While yet a little distance from the forge, moody Ahab paused; till at last, Perth, withdrawing his iron from the fire, began hammering it upon the anvil—the red mass sending off the sparks in thick hovering flights, some of which flew close to Ahab.
 
@@ -63,7 +66,7 @@ THE FORGE
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Pray God, not that; yet I fear something, Captain Ahab. Is not this harpoon for the White Whale?”
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“For the white fiend! But now for the barbs; thou must make them thyself, man. Here are my razors—the best of steel; here, and make the barbs sharp as the needle-sleet of the <ref target="#ref_18574">Icy Sea</ref><note xml:id="ref_18574">Icy Sea: Body of water on Russia’s western Arctic coast.</note>.” 
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“For the white fiend! But now for the barbs; thou must make them thyself, man. Here are my razors—the best of steel; here, and make the barbs sharp as the needle-sleet of the <ref target="#ref_18574">Icy Sea</ref><note xml:id="ref_18574">Icy Sea: Body of water on Russia’s western Arctic coast.</note>.”
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">For a moment, the old blacksmith eyed the razors as though he would fain not use them.
 
