@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>105 Does the Whale Diminish?</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,15 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="105-does-the-whale-diminish?"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518933117833-l6uev0loh1c-b9e2048ecfd6c1b99206ff0eeeb315d6%2FMD_Amer_0547.jpg"/>CHAPTER 105
-DOES THE WHALE’S MAGNITUDE DIMINISH?—WILL HE PERISH?
+			<body><div xml:id="105-does-the-whale-diminish?"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518933117833-l6uev0loh1c-b9e2048ecfd6c1b99206ff0eeeb315d6%2FMD_Amer_0547.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 105</head>
+			<lb/>
+			<head type="sub-head" rend="center"><ref target="#ref_20000">DOES THE WHALE’S MAGNITUDE DIMINISH?—WILL HE PERISH?</ref></head>
+
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">INASMUCH, then, as this Leviathan comes floundering down upon us from the head-waters of the Eternities, it may be fitly inquired, whether, in the long course of his generations, he has not degenerated from the original <ref target="#ref_18463">bulk of his sires</ref><note xml:id="ref_18463">bulk of his sires: <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:303">Scoresby</ref> and <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:370">Wilkes</ref> had both considered whether the size of whales and their numbers had diminished over time. (See Mansfield and Vincent, 811.)</note>.
 
