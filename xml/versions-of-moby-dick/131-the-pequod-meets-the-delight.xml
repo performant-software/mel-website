@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>131 The Pequod meets the Delight</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="131-the-pequod-meets-the-delight"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1520307199519-m04b7aeuu6-9775b414114564fd719361393553c994%2FMD_Amer_0631.jpg"/>CHAPTER 131
-THE PEQUOD MEETS THE DELIGHT
+			<body><div   xml:id="131-the-pequod-meets-the-delight"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1520307199519-m04b7aeuu6-9775b414114564fd719361393553c994%2FMD_Amer_0631.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 131</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE PEQUOD MEETS THE DELIGHT.</head>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">THE intense Pequod sailed on; the rolling waves and days went by; the life-buoy-coffin still lightly swung; and another ship, most miserably misnamed the Delight, was descried. As she drew nigh, all eyes were fixed upon her broad beams, called shears, which, in some whaling-ships, cross the quarter-deck at the height of eight or nine feet; serving to carry the spare, unrigged, or disabled boats.
 Upon the stranger’s shears were beheld the shattered, white ribs, and some few splintered planks, of what had once been a whale-boat; but you now saw through this wreck, as plainly as you see through the peeled, half-unhinged, and bleaching skeleton of a horse.
