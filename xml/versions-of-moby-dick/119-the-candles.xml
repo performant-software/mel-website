@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>119 The Candles</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,9 +18,9 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="119-the-candles"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519947956276-xrvlgll5jzg-9e6ce94cc4775906942888648ee2af51%2FMD_Amer_0592.jpg"/>CHAPTER 119
+			<body><div xml:id="119-the-candles"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519947956276-xrvlgll5jzg-9e6ce94cc4775906942888648ee2af51%2FMD_Amer_0592.jpg"/>CHAPTER 119
 THE CANDLES
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">WARMEST climes but nurse the cruellest fangs: the tiger of Bengal crouches in spiced groves of ceaseless verdure. Skies the most effulgent but basket the deadliest thunders: gorgeous <name ref="https://mel-catalog.herokuapp.com/api/entries/place:128" type="place">Cuba</name> knows tornadoes that never swept tame northern lands. So, too, it is, that in these resplendent Japanese seas the mariner encounters the direst of all storms, the Typhoon. It will sometimes burst from out that cloudless sky, like an exploding bomb upon a dazed and sleepy town.
@@ -30,11 +30,14 @@ THE CANDLES
 </p><p xmlns="http://www.tei-c.org/ns/1.0">Holding by a shroud, Starbuck was standing on the quarter-deck; at every flash of the lightning glancing aloft, to see what additional disaster might have befallen the intricate <ref target="#ref_18653">hamper</ref><note xml:id="ref_18653">hamper: spars and rigging.</note> there; while Stubb and Flask were directing the men in the higher hoisting and firmer lashing of the boats. But all their pains seemed naught. Though lifted to the very top of the cranes, the windward quarter boat (Ahab’s) did not escape. A great rolling sea, dashing high up against the reeling ship’s high tetering side, stove in the boat’s bottom at the stern, and left it again, all dripping through like a sieve.
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519947979553-9951ysya975-9e6ce94cc4775906942888648ee2af51%2FMD_Amer_0593.jpg"/>
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Bad work, bad work! Mr. Starbuck,” said Stubb, regarding the wreck, “but the sea will have its way. Stubb, for one, can’t fight it. You see, Mr. Starbuck, a wave has such a great long start before it leaps, all round the world it runs, and then comes the spring! But as for me, all the start I have to meet it, is just across the deck here. But never mind; it’s all in fun: so the old song says;”—(sings.)
-	
-	<ref target="#ref_18639">Oh! jolly is the gale</ref><note xml:id="ref_18639">Oh! jolly is the gale . . .: Song probably written by Melville.</note>, 
-	And a joker is the whale,
-	A’ flourishin’ his tail,—
-Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is the Ocean, oh!
+
+<lg>
+	<l rend="6em"><ref target="#ref_18639">Oh! jolly is the gale</ref><note xml:id="ref_18639">Oh! jolly is the gale . . .: Song probably written by Melville.</note>,</l>
+	<l rend="6em">And a joker is the whale,</l>
+	<l rend="6em">A’ flourishin’ his tail,—</l>
+<l>Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is the Ocean, oh!</l>
+</lg>
+<lb/>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">	The <ref target="#ref_18651">scud</ref><note xml:id="ref_18651">scud: mist or low, broken clouds.</note> all a flyin’,
 	That’s his flip only foamin’;
@@ -96,7 +99,7 @@ Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is the Ocean, oh!
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">Then turning—the last link held fast in his left hand, he put his foot upon the Parsee; and with fixed upward eye, and high-flung right arm, he stood erect before the lofty tri-pointed trinity of flames.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">“Oh! thou clear spirit of clear fire, whom on these seas <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1121" type="artwork"><ref target="#ref_18628">I as Persian once did worship, till in the sacramental act so burned by thee, that to this hour I bear the scar</ref><note xml:id="ref_18628">I as Persian once did worship . . . I bear the scar: Ahab projects an earlier life as a Zoroastrian, who in worshiping the principle of light was burned. Compare Ch. 42, “by the Persian fire worshippers, the white forked flame being held the holiest on the altar”; and for scar, compare the white mark on Ahab’s body described in Ch. 28.</note>; I now know thee, thou clear spirit</name>, and I now know that thy right worship is defiance. To neither love nor reverence wilt thou be kind; and e’en for hate thou canst but kill; and all are killed. No fearless fool now fronts thee. I <ref target="#ref_18645">own</ref><note xml:id="ref_18645">own: admit.</note> thy speechless, placeless power; but to the last gasp of my earthquake life will dispute its unconditional, unintegral mastery in me. In the midst of the personified impersonal, a personality stands here. Though but a point at best; whencesoe’er I came; wheresoe’er I go; yet while I earthly live, the <ref target="#ref_18625">queenly personality</ref><note xml:id="ref_18625">queenly personality: Compare the “queen” who is the “dark Hindoo half of nature” (see Ch. 116, note 4), and Ahab’s defining himself as darkness in the two following paragraphs.</note> lives in me, and feels her royal rights. But war is pain, and hate is woe. Come in thy lowest form of love, and I will kneel and kiss thee; but at thy highest, come as mere supernal power; and though thou launchest navies of full-freighted worlds, there’s that in here that still remains indifferent. Oh, thou clear spirit, of thy fire thou madest me, and like a true child of fire, I breathe it back to thee.”
+</p><p xmlns="http://www.tei-c.org/ns/1.0">“Oh! thou clear spirit of clear fire, whom on these seas <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:1121" type="artwork"><ref target="#ref_18628">I as Persian once did worship, till in the sacramental act so burned by thee, that to this hour I bear the scar</ref><note xml:id="ref_18628">I as Persian once did worship . . . I bear the scar: Ahab projects an earlier life as a Zoroastrian, who in worshiping the principle of light was burned. Compare Ch. 42, “by the Persian fire worshippers, the white forked flame being held the holiest on the altar”; and for scar, compare the white mark on Ahab’s body described in Ch. 28.</note>; I now know thee, thou clear spirit</name>, and I now know that thy right worship is defiance. To neither love nor reverence wilt thou be kind; and e’en for hate thou canst but kill; and all are killed. No fearless fool now fronts thee. I <ref target="#ref_18645">own</ref><note xml:id="ref_18645">own: admit.</note> thy speechless, placeless power; but to the last gasp of my earthquake life will dispute its unconditional, unintegral mastery in me. In the midst of the personified impersonal, a personality stands here. Though but a point at best; whencesoe’er I came; wheresoe’er I go; yet while I earthly live, the <ref target="#ref_18625">queenly personality</ref><note xml:id="ref_18625">queenly personality: Compare the “queen” who is the “dark Hindoo half of nature” in Ch. 116, and Ahab’s defining himself as darkness in the two following paragraphs.</note> lives in me, and feels her royal rights. But war is pain, and hate is woe. Come in thy lowest form of love, and I will kneel and kiss thee; but at thy highest, come as mere supernal power; and though thou launchest navies of full-freighted worlds, there’s that in here that still remains indifferent. Oh, thou clear spirit, of thy fire thou madest me, and like a true child of fire, I breathe it back to thee.”
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">[<hi rend="italic">Sudden, repeated flashes of lightning; the nine flames leap lengthwise to thrice their previous height; Ahab, with the rest, closes his eyes, his right hand pressed hard upon them.</hi>]
 
