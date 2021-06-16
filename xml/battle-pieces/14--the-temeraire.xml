@@ -4,6 +4,8 @@
 		<fileDesc>
 			<titleStmt>
 			<title>13 - The Temeraire*</title>
+				<author>Herman Melville</author>
+				<editor>Equis Wang</editor>
 		</titleStmt>
 			<publicationStmt>
 
@@ -24,87 +26,87 @@
 <head type="sub-head"><hi rend="italic">(Supposed to have been suggested to an Englishman of the old<lb/>
              order by the fight of the Monitor and Merrimac.)</hi> </head>
 <lb/>
-<lg type="quatrain">
-<l><hi rend="smallcaps">The</hi> gloomy hulls, in armor grim,</l>
-<l rend="2em">Like clouds o&apos;er moors have met,</l>
-<l>And prove that oak, and iron, and man</l>
-<l rend="2em">Are tough in fibre yet.</l>
+<lg type="quatrain" rhyme="abcb">
+<l met="tetrameter"><hi rend="smallcaps">The</hi> gloomy hulls, in armor <rhyme label="a">grim</rhyme>,</l>
+<l rend="2em" met="trimeter">Like clouds o&apos;er moors have <rhyme label="b">met</rhyme>,</l>
+<l met="tetrameter+1">And prove that oak, and iron, and <rhyme label="c">man</rhyme></l>
+<l rend="2em" met="trimeter">Are tough in fibre <rhyme label="b">yet</rhyme>.</l>
 </lg>
 
-<lg type="quatrain">
-<l n="5">But Splendors wane. The sea-fight yields</l>
-<l rend="2em">No front of old display;</l>
-<l>The garniture, emblazonment,</l>
-<l rend="2em">And heraldry all decay.</l>
+<lg type="quatrain" rhyme="abcb">
+<l n="5" met="tetrameter">But Splendors wane. The sea-fight <rhyme label="a">yields</rhyme></l>
+<l rend="2em" met="trimeter">No front of old <rhyme label="b">display</rhyme>;</l>
+<l met="tetrameter">The garniture, <rhyme label="c">emblazonment</rhyme>,</l>
+<l rend="2em" met="trimeter+1">And heraldry all <rhyme label="b">decay</rhyme>.</l>
 </lg>
 
-<lg type="quatrain"><l>Towering afar in parting light,</l>
-<l n="10" rend="2em">The fleets like <name ref="https://mel-catalog.herokuapp.com/api/entries/place:382" type="place">Albion</name>&apos;s forelands shine—</l>
-<l>The full-sailed fleets, the shrouded show</l>
-<l rend="2em">Of Ships-of-the-Line. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0067.jpg"/></l>
+<lg type="quatrain" rhyme="abcb">
+<l met="tetrameter+1">Towering afar in parting <rhyme label="a">light</rhyme>,</l>
+<l n="10" rend="2em" met="tetrameter+1">The fleets like <name ref="https://mel-catalog.herokuapp.com/api/entries/place:382" type="place">Albion</name>&apos;s forelands <rhyme label="b">shine</rhyme>—</l>
+<l met="tetrameter">The full-sailed fleets, the shrouded <rhyme label="c">show</rhyme></l>
+<l rend="2em" met="dimeter+1">Of Ships-of-the-<rhyme label="b">Line</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0067.jpg"/></l>
 </lg>
 
-<lg>
-<l rend="6em">The fighting Temeraire,</l>
-<l rend="8em">Built of a thousand trees,</l>
-<l n="15" rend="6em">Lunging out her lightnings,</l>
-<l rend="8em">And beetling o&apos;er the seas—</l>
-<l rend="6em">O Ship, how brave and <ref target="#ed-note1">fair</ref>,<note xml:id="ed-note1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville underlined "fair" in pencil and inscribed "rare" in the right margin, indicating a possible revision.</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0069.jpg"/></l>
-<l rend="8em">That fought so oft and well,</l>
-<l rend="6em">On open decks you manned the gun</l>
-<l n="20" rend="10em">Armorial.<hi rend="super">d</hi></l>
-<l  rend="6em">What cheerings did you share,</l>
-<l rend="8em">Impulsive in the van,</l>
-<l rend="6em">When down upon leagued <name ref="https://mel-catalog.herokuapp.com/api/entries/place:10" type="place">France</name> and <name ref="https://mel-catalog.herokuapp.com/api/entries/place:11" type="place">Spain</name></l>
-<l rend="8em">We English ran—</l>
-<l n="25" rend="6em">The freshet at your bowsprit</l>
-<l rend="8em">Like the foam upon the can.</l>
-<l rend="6em">Bickering, your colors</l>
-<l rend="8em">Licked up the Spanish air,</l>
-<l rend="6em">You flapped with flames of battle-flags—</l>
-<l n="30" rend="8em">Your challenge, Temeraire!</l>
-<l rend="6em">The rear ones of our fleet</l>
-<l rend="8em">They yearned to share your place,</l>
-<l rend="6em">Still vying with the Victory</l>
-<l rend="8em">Throughout that earnest race—</l>
-<l rend="6em">The Victory, whose Admiral,</l>
-<l rend="8em">With orders nobly won,</l>
-<l n="35" rend="6em">Shone in the globe of the battle glow—</l>
-<l rend="8em">The angel in that sun. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0068.jpg"/></l>
-<l rend="6em">Parallel in story,</l>
-<l rend="8em">Lo, the stately pair,</l>
-<l rend="6em">As late in grapple ranging,</l>
-<l n="40" rend="8em">The foe between them there—</l>
-<l rend="6em">When four great hulls lay tiered,</l>
-<l rend="6em">And the fiery tempest cleared,</l>
-<l rend="6em">And your prizes twain appeared,</l>
-<l rend="10em">Temeraire!</l>
+<lg rhyme="abcbdefghijikildmanopoffqfpdchrrra">
+<l rend="6em" met="trimeter">The fighting <rhyme label="a">Temeraire</rhyme>,</l>
+<l rend="8em" met="trimeter">Built of a thousand <rhyme label="b">trees</rhyme>,</l>
+<l n="15" rend="6em" met="trimeter">Lunging out her <rhyme label="c">lightnings</rhyme>,</l>
+<l rend="8em" met="trimeter">And beetling o&apos;er the <rhyme label="b">seas</rhyme>—</l>
+<l rend="6em" met="trimeter">O Ship, how brave and <ref target="#ed-note1"><rhyme label="d">fair</rhyme></ref>,<note xml:id="ed-note1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville underlined "fair" in pencil and inscribed "rare" in the right margin, indicating a possible revision.</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0069.jpg"/></l>
+<l rend="8em" met="trimeter">That fought so oft and <rhyme label="e">well</rhyme>,</l>
+<l rend="6em" met="tetrameter">On open decks you manned the <rhyme label="f">gun</rhyme></l>
+<l n="20" rend="10em" met="dimeter"><rhyme label="g">Armorial</rhyme>.<hi rend="super">d</hi></l>
+<l rend="6em" met="trimeter">What cheerings did you <rhyme label="h">share</rhyme>,</l>
+<l rend="8em" met="trimeter">Impulsive in the <rhyme label="i">van</rhyme>,</l>
+<l rend="6em" met="tetrameter">When down upon leagued <name ref="https://mel-catalog.herokuapp.com/api/entries/place:10" type="place">France</name> <rhyme label="j">and</rhyme> <name ref="https://mel-catalog.herokuapp.com/api/entries/place:11" type="place">Spain</name></l>
+<l rend="8em" met="dimeter">We English <rhyme label="i">ran</rhyme>—</l>
+<l n="25" rend="6em" met="trimeter+1">The freshet at your <rhyme label="k">bowsprit</rhyme></l>
+<l rend="8em" met="trimeter+1">Like the foam upon the <rhyme label="i">can</rhyme>.</l>
+<l rend="6em" met="trimeter">Bickering, your <rhyme label="l">colors</rhyme></l>
+<l rend="8em" met="trimeter">Licked up the Spanish <rhyme label="d">air</rhyme>,</l>
+<l rend="6em" met="tetrameter">You flapped with flames of battle-<rhyme label="m">flags</rhyme>—</l>
+<l n="30" rend="8em" met="trimeter">Your challenge, <rhyme label="a">Temeraire</rhyme>!</l>
+<l rend="6em" met="trimeter">The rear ones of our <rhyme label="n">fleet</rhyme></l>
+<l rend="8em" met="trimeter">They yearned to share your <rhyme label="o">place</rhyme>,</l>
+<l rend="6em" met="tetrameter">Still vying with the <rhyme label="p">Victory</rhyme></l>
+<l rend="8em" met="trimeter">Throughout that earnest <rhyme label="o">race</rhyme>—</l>
+<l rend="6em" met="tetrameter">The Victory, whose <rhyme label="f">Admiral</rhyme>,</l>
+<l rend="8em" met="trimeter">With orders nobly <rhyme label="f">won</rhyme>,</l>
+<l n="35" rend="6em" met="tetrameter+1">Shone in the globe of the battle <rhyme label="q">glow</rhyme>—</l>
+<l rend="8em" met="trimeter">The angel in that <rhyme label="f">sun</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0068.jpg"/></l>
+<l rend="6em" met="trimeter">Parallel in <rhyme label="p">story</rhyme>,</l>
+<l rend="8em" met="dimeter+1">Lo, the stately <rhyme label="d">pair</rhyme>,</l>
+<l rend="6em" met="trimeter+1">As late in grapple <rhyme label="c">ranging</rhyme>,</l>
+<l n="40" rend="8em" met="trimeter">The foe between them <rhyme label="h">there</rhyme>—</l>
+<l rend="6em" met="trimeter">When four great hulls lay <rhyme label="r">tiered</rhyme>,</l>
+<l rend="6em" met="tetrameter">And the fiery tempest <rhyme label="r">cleared</rhyme>,</l>
+<l rend="6em" met="trimeter+1">And your prizes twain <rhyme label="r">appeared</rhyme>,</l>
+<l rend="10em" met="monometer+1"><rhyme label="a">Temeraire</rhyme>!</l>
 </lg>
 
-<lg>
-	<l n="45" rend="6em">
-But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event"><ref target="#ed-note2">Trafalgar&apos;</ref></name><note xml:id="ed-note2">The one-beat English pronunciation of TraFALgar is not sufficient for Melville's four-beat line. The accent mark at the end of the word encourages the Spanish two-beat TRAfalGAR (NN <hi rend="italic">Published Poems</hi>, 636).</note> is over now,</l>
-<l rend="8em">The quarter-deck undone;</l>
-<l rend="6em">The carved and castled navies fire</l>
-<l rend="8em">Their evening-gun.</l>
-<l rend="6em">O, Titan Temeraire,</l>
-<l n="50" rend="8em">Your stern-lights fade away;</l>
-<l rend="6em">Your bulwarks to the years must yield,</l>
-<l rend="8em">And heart-of-oak decay.</l>
-<l rend="6em">A pigmy steam-tug tows you,</l>
-<l rend="8em">Gigantic, to the shore—</l>
-<l n="55" rend="6em">Dismantled of your guns and spars,</l>
-<l rend="8em">And sweeping wings of war.</l>
-<l rend="6em">The rivets clinch the iron-clads,</l>
-<l rend="8em">Men learn a deadlier lore;</l>
-<l rend="6em">But Fame has nailed your battle-flags—</l>
-<l n="60" rend="8em">Your ghost it sails before:</l>
-<l rend="6em">O, the navies old and oaken,</l>
-<l rend="8em">O, the Temeraire no more!</l>
+<lg rhyme="abcbcdedfghgigjgkg">
+<l n="45" rend="6em" met="tetrameter">But <name ref="https://mel-catalog.herokuapp.com/api/entries/event:16" type="event"><ref target="#ed-note2">Trafalgar&apos;</ref></name><note xml:id="ed-note2">The one-beat English pronunciation of TraFALgar is not sufficient for Melville's four-beat line. The accent mark at the end of the word encourages the Spanish two-beat TRAfalGAR (NN <hi rend="italic">Published Poems</hi>, 636).</note> is over <rhyme label="a">now</rhyme>,</l>
+<l rend="8em" met="trimeter">The quarter-deck <rhyme label="b">undone</rhyme>;</l>
+<l rend="6em" met="tetrameter">The carved and castled navies <rhyme label="c">fire</rhyme></l>
+<l rend="8em" met="dimeter">Their evening-<rhyme label="b">gun</rhyme>.</l>
+<l rend="6em" met="trimeter">O, Titan <rhyme label="c">Temeraire</rhyme>,</l>
+<l n="50" rend="8em" met="trimeter">Your stern-lights fade <rhyme label="d">away</rhyme>;</l>
+<l rend="6em" met="tetrameter">Your bulwarks to the years must <rhyme label="e">yield</rhyme>,</l>
+<l rend="8em" met="trimeter">And heart-of-oak <rhyme label="d">decay</rhyme>.</l>
+<l rend="6em" met="trimeter+1">A pigmy steam-tug tows <rhyme label="f">you</rhyme>,</l>
+<l rend="8em" met="trimeter">Gigantic, to the <rhyme label="g">shore</rhyme>—</l>
+<l n="55" rend="6em" met="tetrameter">Dismantled of your guns and <rhyme label="h">spars</rhyme>,</l>
+<l rend="8em" met="trimeter">And sweeping wings of <rhyme label="g">war</rhyme>.</l>
+<l rend="6em" met="tetrameter">The rivets clinch the iron-<rhyme label="i">clads</rhyme>,</l>
+<l rend="8em" met="trimeter+1">Men learn a deadlier <rhyme label="g">lore</rhyme>;</l>
+<l rend="6em" met="tetrameter">But Fame has nailed your battle-<rhyme label="j">flags</rhyme>—</l>
+<l n="60" rend="8em" met="trimeter">Your ghost it sails <rhyme label="g">before</rhyme>:</l>
+<l rend="6em" met="tetrameter">O, the navies old and <rhyme label="k">oaken</rhyme>,</l>
+<l rend="8em" met="trimeter+1">O, the Temeraire no <rhyme label="g">more</rhyme>!</l>
 </lg>
 <lb/>
 <div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0256.jpg"/>
-	<p xml:id="hm_note14c">[Melville's] <hi rend="smallcaps">Note c</hi>, <hi rend="italic">page</hi> 58.
+	<p xml:id="hm_t14c">[Melville's] <hi rend="smallcaps">Note c</hi>, <hi rend="italic">page</hi> 58.
 	<lb/>The <hi rend="italic">Temeraire</hi>, that storied ship of the old English fleet, and the subject of the well-known painting by <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:443">Turner</name>, commends itself to the mind seeking for some one craft to stand for the poetic ideal of those great historic wooden war-ships, whose gradual displacement is lamented by none more than by regularly educated navy officers, and of all nations.</p>
 	<p xml:id="hm_note14d">[Melville's] <hi rend="smallcaps">Note d</hi>, <hi rend="italic">page</hi> 59.
 	<lb/>Some of the cannon of old times, especially the brass ones, unlike the more effective ordnance of the present day, were cast in shapes which <name type="person" ref="https://mel-catalog.herokuapp.com/api/entries/person:444">Cellini</name> might have designed, were gracefully enchased, generally with the arms of the country. A few of them—field-pieces—captured in our earlier wars, are preserved in arsenals and navy-yards.</p></div>
