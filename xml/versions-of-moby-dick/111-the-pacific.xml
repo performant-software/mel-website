@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>111 The Pacific</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,14 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="111-the-pacific"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519773734476-vmrfpwql7x-2e1c189f75b232ee0557c24b2f09e7a5%2FMD_Amer_0572.jpg"/>CHAPTER 111
-THE PACIFIC
+			<body><div xml:id="111-the-pacific"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519773734476-vmrfpwql7x-2e1c189f75b232ee0557c24b2f09e7a5%2FMD_Amer_0572.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 111</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE PACIFIC.</head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">WHEN gliding by the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:413" type="place">Bashee isles</name> we emerged at last upon the great <name ref="https://mel-catalog.herokuapp.com/api/entries/place:421" type="place">South Sea</name>; were it not for other things, I could have greeted my dear Pacific with uncounted thanks, for now the long supplication of my youth was answered; that serene ocean rolled eastwards from me a thousand leagues of blue.
 
