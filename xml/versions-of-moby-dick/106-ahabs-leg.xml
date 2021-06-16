@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>106 Ahab's Leg</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,14 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="106-ahabs-leg"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518933205576-pkjveyh1ma-3a35d5d6c7c7e7715691bf4dc086b3dd%2FMD_Amer_0552.jpg"/>CHAPTER 106
-AHAB’S LEG
+			<body><div xml:id="106-ahabs-leg"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1518933205576-pkjveyh1ma-3a35d5d6c7c7e7715691bf4dc086b3dd%2FMD_Amer_0552.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 106</head>
+			<lb/>
+			<head type="sub-head" rend="center"><ref target="#ref_20000">AHAB’S LEG.</ref></head>
+
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">THE precipitating manner in which Captain Ahab had quitted the Samuel Enderby of London, had not been unattended with some small violence to his own person. He had lighted with such energy upon a <ref target="#ref_18480">thwart</ref><note xml:id="ref_18480">thwart: rowing seat.</note> of his boat that his ivory leg had received a half-splintering shock. And when after gaining his own deck, and his own pivot-hole there, he so vehemently wheeled round with an urgent command to the steersman (it was, as ever, something about his not steering inflexibly enough); then, the already shaken ivory received such an additional twist and wrench, that though it still remained entire, and to all appearances lusty, yet Ahab did not deem it entirely trustworthy.
 
