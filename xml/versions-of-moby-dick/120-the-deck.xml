@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>120 The Deck</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,10 +18,13 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
-			<body><div   xml:id="120-the-deck"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519948208442-ixff2zeyljl-5c68a0c9315b8b5715d4b719265dfb8e%2FMD_Amer_0599.jpg"/>CHAPTER 120
-THE DECK TOWARDS THE END OF THE FIRST NIGHT WATCH
+			<body><div xml:id="120-the-deck"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1519948208442-ixff2zeyljl-5c68a0c9315b8b5715d4b719265dfb8e%2FMD_Amer_0599.jpg"/>
+
+			<head type="main" rend="center">CHAPTER 120</head>
+			<lb/>
+			<head type="sub-head" rend="center">THE DECK TOWARDS THE END OF THE FIRST NIGHT WATCH.</head>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="italic">Ahab standing by the helm. Starbuck approaching him.</hi>
 
