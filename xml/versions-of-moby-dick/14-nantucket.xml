@@ -20,12 +20,12 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="ch14-nantucket">
+			<body><div xml:id="ch14-nantucket"><p xmlns="http://www.tei-c.org/ns/1.0">
 <head type="main" rend="center">CHAPTER 14</head> <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517803078860-vtq44r4l3hq-48a35d26f65b9a0792723745f60b341a%2FMD_Amer_0106.jpg"/>
 <lb/>
 <head type="sub-head" rend="center">NANTUCKET.</head>
 
-<p xmlns="http://www.tei-c.org/ns/1.0">NOTHING more happened on the passage worthy the mentioning; so, after a fine run, we safely arrived in
+</p><p xmlns="http://www.tei-c.org/ns/1.0">NOTHING more happened on the passage worthy the mentioning; so, after a fine run, we safely arrived in
 <ref target="#ref_16096">Nantucket</ref><note xml:id="ref_16096">Nantucket: Melville did not visit the island of
 <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/place:30">Nantucket, Massachusetts</ref>
 until after the publication of Moby-Dick. His main sources for this chapter were
