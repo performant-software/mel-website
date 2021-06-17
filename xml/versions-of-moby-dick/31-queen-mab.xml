@@ -20,9 +20,10 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="ch31-queen-mab"><p xmlns="http://www.tei-c.org/ns/1.0">
-				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517975269478-ypobjgyf3xb-3fe2803caa0359ed51bf1856c11b9c2a%2FMD_Amer_0179.jpg"/>
-				<head type="main" rend="center">CHAPTER 31</head> <lb/>
+			<body><div xml:id="ch31-queen-mab"> <p xmlns="http://www.tei-c.org/ns/1.0"> <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1517975269478-ypobjgyf3xb-3fe2803caa0359ed51bf1856c11b9c2a%2FMD_Amer_0179.jpg"/>
+
+				<head type="main" rend="center">CHAPTER 31</head>
+				<lb/>
 				<head type="sub-head" rend="center"><ref target="#ref_16392">QUEEN MAB</ref>.</head><note xml:id="ref_16392">Queen Mab: in Romeo and Juliet I.4, the fairy midwife who brings dreams.</note>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">NEXT morning Stubb accosted Flask.
@@ -36,6 +37,8 @@
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Mast-head, there! Look sharp, all of ye! There are whales hereabouts! If ye see a white one, split your lungs for him!”
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“What d’ye think of that now, Flask? ain’t there a small drop of something queer about that, eh? A white whale—did ye mark that, man? Look ye—there’s something special in the wind. Stand by for it, Flask. Ahab has that that’s bloody on his mind. But, mum; he comes this way.”
-  </p></div></body>
+  </p>
+</div>
+</body>
 		</text>
 	</TEI>
