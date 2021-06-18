@@ -1,84 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-		<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			<title>12 - In the Turret</title>
-		</titleStmt>
-			<publicationStmt>
-
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
-	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
-		</fileDesc>
-	</teiHeader>
-		<text>
-			<body><div xml:id="in-the-turret">
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0063.jpg"/>
-				<head type="main"><hi rend="italic">In the Turret.</hi> </head>
-<head type="sub-head">(<hi rend="smallcaps">March</hi>, 1862.)</head>
-<lb/>
-<lg>
-<l><hi rend="smallcaps">Your</hi> honest heart of duty, <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:909" type="artwork">Worden</name>,</l>
-<l rend="2em">So helped you that in fame you dwell;</l>
-<l>You bore the first iron battle&apos;s burden</l>
-<l rend="2em">Sealed as in a <ref target="#ref_19286">diving-bell</ref><note xml:id="ref_19286">See "In a Church in Padua" for Melville's image of the confessional booth as "Dread diving-bell!"  (William B. Shurr, <hi rend="italic">The Mystery of Iniquity</hi>, 35).</note>.</l>
-<l n="5"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:185" type="person">Alcides</name>, groping into haunted hell</l>
-<l>To bring forth <name ref="https://mel-catalog.herokuapp.com/api/entries/person:186" type="person">King Admetus&apos;</name> bride,</l>
-<l>Braved naught more vaguely direful and untried.</l>
-<l rend="2em">What poet shall uplift his charm,</l>
-<l>Bold Sailor, to your height of daring,</l>
-<l n="10" rend="2em">And interblend therewith the calm,</l>
-<l>And build a goodly style upon your bearing.</l>
-</lg>
-
-<lg>
-<l>Escaped the gale of outer ocean—</l>
-<l rend="2em"><ref target="#ref_19285">Cribbed</ref><note xml:id="ref_19285">Cf. Macbeth's "But now I am cabin'd, cribb'd, confined, bound in / To saucy doubts and fears" (Act III, scene iv; See William B. Shurr, <hi rend="italic">Mystery of Iniquity</hi>, 36).</note> in a craft which like a log</l>
-<l>Was washed by every billow&apos;s motion—</l>
-<l n="15" rend="2em">By night you heard of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:187" type="person">Og</name></l>
-<l>The huge; nor felt your courage clog <pb facs="/images/battle-pieces-v1/battle-pieces-i-0064.jpg"/></l>
-<l>At tokens of his onset grim:</l>
-<l>You marked the sunk ship&apos;s flag-staff slim,</l>
-<l rend="2em">Lit by her burning sister&apos;s heart;</l>
-<l n="20">You marked, and mused: “Day brings the trial:</l>
-<l rend="2em">Then be it proved if I have part</l>
-<l>With men whose manhood never took denial.”</l>
-</lg>
-
-<lg>
-<l>A prayer went up—a champion&apos;s. Morning</l>
-<l rend="2em">Beheld you in the Turret walled</l>
-<l n="25">By adamant, where a spirit forewarning</l>
-<l rend="2em">And all-deriding called:</l>
-<l>“Man, darest thou—desperate, unappalled—</l>
-<l>Be first to lock thee in the armored tower?</l>
-<l>I have thee now; and what the battle-hour</l>
-<l n="30" rend="2em">To me shall bring—heed well—thou&apos;lt share;</l>
-<l>This plot-work, planned to be the foeman&apos;s tenor,</l>
-<l rend="2em">To thee may prove a goblin-snare;</l>
-<l>Its very strength and cunning—monstrous error!”</l>
-</lg>
-
-<lg>
-<l>“Stand up, my heart; be strong; what matter</l>
-<l n="35" rend="2em">If here thou seest thy welded tomb?</l>
-<l>And let huge Og with thunders batter—</l>
-<l rend="2em">Duty be still my doom,</l>
-<l>Though drowning come in liquid gloom; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0065.jpg"/></l>
-<l>First duty, duty next, and duty last;</l>
-<l  n="40">Ay, Turret, rivet me here to duty fast!”—</l>
-<l rend="2em">So nerved, you fought, wisely and well;</l>
-<l>And live, twice live in life and story;</l>
-<l rend="2em">But over your Monitor dirges swell,</l>
-<l>In wind and wave that keep the rites of glory.</l></lg>
-</div></body>
-		</text>
-	</TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>12 - In the Turret</title>
+                <editor>Tianyu Ji</editor>
+            </titleStmt>
+            <publicationStmt>
+                
+                <publisher/>
+                <pubPlace/>
+                <date/>
+                <authority/>
+                <availability><p/></availability>
+            </publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div xml:id="in-the-turret">
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0063.jpg"/>
+            <head type="main"><hi rend="italic">In the Turret.</hi> </head>
+            <head type="sub-head">(<hi rend="smallcaps">March</hi>, 1862.)</head>
+            <lb/>
+            <lg>
+            <lg type="stanza" n="1" rhyme="ababbccdede">
+                <l met="tetrameter+1"><hi rend="smallcaps">Your</hi> honest heart of duty, <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:909" type="artwork"><rhyme label="a">Worden</rhyme></name>,</l>
+                <l rend="2em" met="tetrameter">So helped you that in fame you <rhyme label="b">dwell</rhyme>;</l>
+                <l met="pentameter">You bore the first iron battle&apos;s <rhyme label="a">burden</rhyme></l>
+                <l rend="2em" met="trimeter+1">Sealed as in a <ref target="#ref_19286"><rhyme label="b">diving-bell</rhyme></ref><note xml:id="ref_19286">See "In a Church in Padua" for Melville's image of the confessional booth as "Dread diving-bell!"  (William B. Shurr, <hi rend="italic">The Mystery of Iniquity</hi>, 35).</note>.</l>
+                <l n="5" met="pentameter"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:185" type="person">Alcides</name>, groping into haunted <rhyme label="b">hell</rhyme></l>
+                <l met="tetrameter">To bring forth <name ref="https://mel-catalog.herokuapp.com/api/entries/person:186" type="person">King Admetus&apos;</name> <rhyme label="c">bride</rhyme>,</l>
+                <l met="pentameter+1">Braved naught more vaguely direful and <rhyme label="c">untried</rhyme>.</l>
+                <l rend="2em" met="tetrameter">What poet shall uplift his <rhyme label="d">charm</rhyme>,</l>
+                <l met="tetrameter+1">Bold Sailor, to your height of <rhyme label="e">daring</rhyme>,</l>
+                <l n="10" rend="2em" met="tetrameter">And interblend therewith the <rhyme label="d">calm</rhyme>,</l>
+                <l met="pentameter+1">And build a goodly style upon your <rhyme label="e">bearing</rhyme>.</l>
+            </lg>
+            
+            <lg type="stanza" n="2" rhyme="fgfgghhijij">
+                <l met="tetrameter+1">Escaped the gale of outer <rhyme label="f">ocean</rhyme>—</l>
+                <l rend="2em" met="tetrameter"><ref target="#ref_19285">Cribbed</ref><note xml:id="ref_19285">Cf. Macbeth's "But now I am cabin'd, cribb'd, confined, bound in / To saucy doubts and fears" (Act III, scene iv; See William B. Shurr, <hi rend="italic">Mystery of Iniquity</hi>, 36).</note> in a craft which like a <rhyme label="g">log</rhyme></l>
+                <l met="tetrameter+1">Was washed by every billow&apos;s <rhyme label="f">motion</rhyme>—</l>
+                <l n="15" rend="2em" met="trimeter">By night you heard of <name ref="https://mel-catalog.herokuapp.com/api/entries/person:187" type="person"><rhyme label="g">Og</rhyme></name></l>
+                <l met="tetrameter">The huge; nor felt your courage <rhyme label="g">clog</rhyme> <pb facs="/images/battle-pieces-v1/battle-pieces-i-0064.jpg"/></l>
+                <l met="tetrameter">At tokens of his onset <rhyme label="h">grim</rhyme>:</l>
+                <l met="tetrameter">You marked the sunk ship&apos;s flag-staff <rhyme label="h">slim</rhyme>,</l>
+                <l rend="2em" met="tetrameter">Lit by her burning sister&apos;s <rhyme label="i">heart</rhyme>;</l>
+                <l n="20" met="tetrameter">You marked, and mused: “Day brings the <rhyme label="j">trial</rhyme>:</l>
+                <l rend="2em" met="tetrameter">Then be it proved if I have <rhyme label="i">part</rhyme></l>
+                <l met="pentameter+1">With men whose manhood never took <rhyme label="j">denial</rhyme>.”</l>
+            </lg>
+            
+            <lg type="stanza" n="3" rhyme="ekekkllmlml">
+                <l met="pentameter">A prayer went up—a champion&apos;s. <rhyme label="e">Morning</rhyme></l>
+                <l rend="2em" met="tetrameter">Beheld you in the Turret <rhyme label="k">walled</rhyme></l>
+                <l n="25" met="pentameter+1">By adamant, where a spirit <rhyme label="e">forewarning</rhyme></l>
+                <l rend="2em" met="trimeter">And all-deriding <rhyme label="k">called</rhyme>:</l>
+                <l met="pentameter">“Man, darest thou—desperate, <rhyme label="k">unappalled</rhyme>—</l>
+                <l met="pentameter+1">Be first to lock thee in the armored <rhyme label="l">tower</rhyme>?</l>
+                <l met="pentameter">I have thee now; and what the <rhyme label="l">battle-hour</rhyme></l>
+                <l n="30" rend="2em" met="tetrameter+1">To me shall bring—heed well—thou&apos;lt <rhyme label="m">share</rhyme>;</l>
+                <l met="pentameter+1">This plot-work, planned to be the foeman&apos;s <rhyme label="l">tenor</rhyme>,</l>
+                <l rend="2em" met="tetrameter">To thee may prove a <rhyme label="m">goblin-snare</rhyme>;</l>
+                <l met="pentameter">Its very strength and cunning—monstrous <rhyme label="l">error</rhyme>!”</l>
+            </lg>
+            
+            <lg type="stanza" n="4" rhyme="lnlnnoobpbp">
+                <l met="tetrameter+1">“Stand up, my heart; be strong; what <rhyme label="l">matter</rhyme></l>
+                <l n="35" rend="2em" met="tetrameter">If here thou seest thy welded <rhyme label="n">tomb</rhyme>?</l>
+                <l met="tetrameter+1">And let huge Og with thunders <rhyme label="l">batter</rhyme>—</l>
+                <l rend="2em" met="trimeter">Duty be still my <rhyme label="n">doom</rhyme>,</l>
+                <l met="tetrameter">Though drowning come in liquid <rhyme label="n">gloom</rhyme>; <pb facs="/images/battle-pieces-v1/battle-pieces-i-0065.jpg"/></l>
+                <l met="pentameter">First duty, duty next, and duty <rhyme label="o">last</rhyme>;</l>
+                <l  n="40" met="pentameter+1">Ay, Turret, rivet me here to duty <rhyme label="o">fast</rhyme>!”—</l>
+                <l rend="2em" met="tetrameter">So nerved, you fought, wisely and <rhyme label="b">well</rhyme>;</l>
+                <l met="tetrameter+1">And live, twice live in life and <rhyme label="p">story</rhyme>;</l>
+                <l rend="2em" met="pentameter">But over your Monitor dirges <rhyme label="b">swell</rhyme>,</l>
+                <l met="pentameter+1">In wind and wave that keep the rites of <rhyme label="p">glory</rhyme>.</l></lg>
+            </lg>
+        </div></body>
+    </text>
+</TEI>
 <!--
 <l><ref target="#ref_19284">duty</ref><note xml:id="ref_19284">"The dominant note of characterization, 'duty,' is struck in the first line and surges in crescendo to be repeated five times in the last stanza." William B. Schurr,  <hi rend="italic">The Mystery of Iniquity</hi>, 35.</note></l>
 -->
