@@ -1,86 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>9 - The Stone Fleet</title>
-				<author>Herman Melville</author>
-			</titleStmt>
-			<publicationStmt>
-
-				<publisher/>
-				<pubPlace/>
-				<date/>
-				<authority/>
-				<availability><p/></availability>
-			</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
-		</fileDesc>
-	</teiHeader>
-	<text>
-		<body><div xml:id="the-stone-fleet">
-			<pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/><lb/>
-			<head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="event"><hi rend="italic">The Stone Fleet:</hi></name>
-
-			<hi rend="super">b</hi>
-			  </head>
-				<head type="sub-head"><hi rend="italic">An Old Sailor&apos;s Lament.</hi><lb/>
-				(<hi rend="smallcaps">December, 1861.</hi>)</head>
-<lb/>
-			<lg type="stanza"  n="1"><l><hi rend="smallcaps">I have</hi> a feeling for those ships,</l>
-				<l rend="2em">Each worn and ancient one,</l>
-				<l>With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">A broad and rounded rather than pointed bow, more suited for warfare though not speed. Melville's usage here echoes an entry in the <hi rend="italic">Rebellion Record</hi>, a reprint of an account of the event in the New York <hi rend="italic">Tribune</hi>:  "her bluff bows nod to us rather gracefully" (Cohen 219).</note>, and broad in the beam:</l>
-				<l rend="2em">Ay, it was unkindly done.</l>
-				<l n="5" rend="8em">But so they serve the Obsolete—</l>
-				<l rend="8em">Even so, Stone Fleet!</l></lg>
-
-			<lg type="stanza" n="2">
-				<l>You&apos;ll say I&apos;m doting; do but think</l>
-				<l rend="2em">I scudded round the Horn in one—</l>
-				<l>The Tenedos, a glorious</l>
-				<l n="10" rend="2em">Good old craft as ever run—</l>
-				<l rend="8em">Sunk (how all unmeet!)</l>
-				<l rend="8em">With the Old Stone Fleet.</l>
-			</lg>
-
-			<lg type="stanza" n="3"><l>An India ship of fame was she,</l>
-				<l rend="2em">Spices and shawls and fans she bore;</l>
-				<l n="15">A whaler when her wrinkles came— <pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/></l>
-				<l rend="2em">Turned off! till, spent and poor,</l>
-				<l rend="8em">Her bones were sold (<ref target="#ref_20705">escheat</ref><note xml:id="ref_20705">In probate law, the government's right to take ownership of unclaimed estate assets and properties unassigned in a will. In this case, the sea claims final ownership of the decommissioned and scuttled ships (Cohen 219).</note>)!</l>
-				<l rend="8em">Ah! Stone Fleet.</l></lg>
-
-			<lg type="stanza" n="4"><l>Four were erst patrician keels</l>
-				<l n="20" rend="2em">(Names attest what families be),</l>
-				<l>The Kensington, and Richmond too,</l>
-				<l rend="2em">Leonidas, and Lee:</l>
-				<l rend="8em">But now they have their seat</l>
-				<l rend="8em">With the Old Stone Fleet.</l></lg>
-
-			<lg type="stanza" n="5"><l n="25">To scuttle them—a pirate deed—</l>
-				<l rend="2em">Sack them, and dismast;</l>
-				<l>They sunk so slow, they died so hard,</l>
-				<l rend="2em">But gurgling dropped at last.</l>
-				<l rend="8em">Their ghosts in gales repeat</l>
-				<l n="30" rend="8em"><hi rend="italic">Woe&apos;s us, Stone Fleet!</hi></l></lg>
-
-			<lg type="stanza" n="6">
-				<l>And all for naught. The waters pass—</l>
-				<l rend="2em">Currents will have their way;</l>
-				<l>Nature is nobody&apos;s ally; &apos;tis well;</l>
-				<l rend="2em"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:516" type="place">The harbor</name> is bettered—will stay.</l>
-				<l n="35" rend="8em">A failure, and complete,</l>
-				<l rend="8em">Was your Old Stone Fleet.</l></lg>
-<lb/>
-				<div type="hm_notes"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
-
-				<p xml:id="BP_noteB">[Melville's] <hi rend="smallcaps">Note b</hi>, <hi rend="italic">page</hi> 31.
-				<p>"The terrible Stone Fleet, on a mission as pitiless as the granite that feights it, sailed this morning from Port Royal, and before two days are past will have made Charleston an inland city. The ships are all old whalers, and cost the government from $2500 to $5000 each. Some of them were once famous ships." —(From Newspaper Correspondence of the day.)</p><p>Sixteen vessels were accordingly sunk on the bar at the river entrance. Their names were as follows:</p><p rend="4em">Amazon, America, American, Archer, Courier, Fortune, Herald, Kensington,</p><p rend="4em">Leonidas, Maria Theresa, Potomac, Rebecca Simms, L. C. Richmond, Robin Hood, Tenedos, William Lee.</p><p>All accounts seem to agree that the object proposed was not accomplished. The channel is even said to have become ultimately benefited by the means employed to obstruct it.
-				</p>
-			</p>
-
-				</div>
-
-		</div></body>
-	</text>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>9 - The Stone Fleet</title>
+                <author>Herman Melville</author>
+                <editor>Tianyu Ji</editor>
+            </titleStmt>
+            <publicationStmt>
+                
+                <publisher/>
+                <pubPlace/>
+                <date/>
+                <authority/>
+                <availability><p/></availability>
+            </publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div xml:id="the-stone-fleet">
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0039.jpg"/><lb/>
+            <head><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:989" type="artwork"><hi rend="italic">The Stone Fleet:</hi></name>
+                
+                <hi rend="super">b</hi>
+            </head>
+            <head type="sub-head"><hi rend="italic">An Old Sailor&apos;s Lament.</hi><lb/>
+                (<hi rend="smallcaps">December, 1861.</hi>)</head>
+            <lb/>
+            <lg>
+                <lg type="sestet"  n="1" rhyme="abcbdd">
+                    <l met="tetrameter"><hi rend="smallcaps">I have</hi> a feeling for those <rhyme label="a">ships</rhyme>,</l>
+                    <l rend="2em" met="trimeter">Each worn and ancient <rhyme label="b">one</rhyme>,</l>
+                    <l met="tetrameter+1">With great <ref target="#ref_20706">bluff bows</ref><note xml:id="ref_20706">A broad and rounded rather than pointed bow, more suited for warfare though not speed. Melville's usage here echoes an entry in the <hi rend="italic">Rebellion Record</hi>, a reprint of an account of the event in the New York <hi rend="italic">Tribune</hi>:  "her bluff bows nod to us rather gracefully" (Cohen 219).</note>, and broad in the <rhyme label="c">beam</rhyme>:</l>
+                    <l rend="2em" met="trimeter+1">Ay, it was unkindly <rhyme label="b">done</rhyme>.</l>
+                    <l n="5" rend="8em" met="tetrameter">But so they serve the <rhyme label="d">Obsolete</rhyme>—</l>
+                    <l rend="8em" met="dimeter+1">Even so, Stone <rhyme label="d">Fleet!</rhyme></l></lg>
+                
+                <lg type="sestet" n="2" rhyme="ebfbdd">
+                    <l met="tetrameter">You&apos;ll say I&apos;m doting; do but <rhyme label="e">think</rhyme></l>
+                    <l rend="2em" met="tetrameter">I scudded round the <name ref="https://mel-catalog.herokuapp.com/api/entries/place:60" type="place">Horn</name> in <rhyme label="b">one</rhyme>—</l>
+                    <l met="tetrameter">The <name ref="#BP_noteB">Tenedos</name>, a <rhyme label="f">glorious</rhyme></l>
+                    <l n="10" rend="2em" met="trimeter+1">Good old craft as ever <rhyme label="b">run</rhyme>—</l>
+                    <l rend="8em" met="dimeter+1">Sunk (how all <rhyme label="d">unmeet</rhyme>!)</l>
+                    <l rend="8em" met="dimeter+1">With the Old Stone <rhyme label="d">Fleet</rhyme>.</l>
+                </lg>
+                
+                <lg type="sestet" n="3" rhyme="ghihdd">
+                    <l met="tetrameter+1">An India ship of fame was <rhyme label="g">she</rhyme>,</l>
+                    <l rend="2em" met="tetrameter">Spices and shawls and fans she <rhyme label="h">bore</rhyme>;</l>
+                    <l n="15" met="tetrameter">A whaler when her wrinkles <rhyme label="i">came</rhyme>— <pb facs="/images/battle-pieces-v1/battle-pieces-i-0040.jpg"/></l>
+                    <l rend="2em" met="trimeter">Turned off! till, spent and <rhyme label="h">poor</rhyme>,</l>
+                    <l rend="8em" met="trimeter">Her bones were sold (<ref target="#ref_20705"><rhyme label="d">escheat</rhyme></ref><note xml:id="ref_20705">In probate law, the government's right to take ownership of unclaimed estate assets and properties unassigned in a will. In this case, the sea claims final ownership of the decommissioned and scuttled ships (Cohen 219).</note>)!</l>
+                    <l rend="8em" met="monometer+1">Ah! Stone <rhyme label="d">Fleet</rhyme>.</l></lg>
+                
+                <lg type="sestet" n="4" rhyme="jgkgdd">
+                    <l met="trimeter+1">Four were erst patrician <rhyme label="j">keels</rhyme></l>
+                    <l n="20" rend="2em" met="tetrameter">(Names attest what families <rhyme label="g">be</rhyme>),</l>
+                    <l met="tetratemeter">The <name ref="#BP_noteB">Kensington</name>, and <name ref="#BP_noteB">Richmond</name> <rhyme label="k">too</rhyme>,</l>
+                    <l rend="2em" met="trimeter"><name ref="#BP_noteB">Leonidas</name>, and <name ref="#BP_noteB"><rhyme label="g">Lee</rhyme></name>:</l>
+                    <l rend="8em" met="trimeter">But now they have their <rhyme label="d">seat</rhyme></l>
+                    <l rend="8em" met="dimeter+1">With the Old Stone <rhyme label="d">Fleet</rhyme>.</l></lg>
+                
+                <lg type="sestet" n="5" rhyme="lmnmdd">
+                    <l n="25" met="tetrameter">To scuttle them—a pirate <rhyme label="l">deed</rhyme>—</l>
+                    <l rend="2em" met="dimeter+1">Sack them, and <rhyme label="m">dismast</rhyme>;</l>
+                    <l met="tetrameter">They sunk so slow, they died so <rhyme label="n">hard</rhyme>,</l>
+                    <l rend="2em" met="trimeter">But gurgling dropped at <rhyme label="m">last</rhyme>.</l>
+                    <l rend="8em" met="trimeter">Their ghosts in gales <rhyme label="d">repeat</rhyme></l>
+                    <l n="30" rend="8em" met="dimeter"><hi rend="italic">Woe&apos;s us, Stone <rhyme label="d">Fleet</rhyme>!</hi></l></lg>
+                
+                <lg type="sestet" n="6" rhyme="opqpdd">
+                    <l met="tetrameter">And all for naught. The waters <rhyme label="o">pass</rhyme>—</l>
+                    <l rend="2em" met="trimeter">Currents will have their <rhyme label="p">way</rhyme>;</l>
+                    <l met="pentameter">Nature is nobody&apos;s ally; &apos;tis <rhyme label="q">well</rhyme>;</l>
+                    <l rend="2em" met="tetrameter"><name ref="https://mel-catalog.herokuapp.com/api/entries/place:516" type="place">The harbor</name> is bettered—will <rhyme label="p">stay</rhyme>.</l>
+                    <l n="35" rend="8em" met="trimeter">A failure, and <rhyme label="d">complete</rhyme>,</l>
+                    <l rend="8em" met="dimeter+1">Was your Old Stone <rhyme label="d">Fleet</rhyme>.</l></lg>
+            </lg>
+                <lb/>
+            <div type="hm_notes" xml:id="BP_noteB"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0255.jpg"/>
+                    
+                    <p>[Melville's] <hi rend="smallcaps">Note b</hi>, <hi rend="italic">page</hi> 31.</p>
+                    <p>"The terrible Stone Fleet, on a mission as pitiless as the granite that feights it, sailed this morning from Port Royal, and before two days are past will have made Charleston an inland city. The ships are all old whalers, and cost the government from $2500 to $5000 each. Some of them were once famous ships." —(From Newspaper Correspondence of the day.)</p>
+                    <p>Sixteen vessels were accordingly sunk on the bar at the river entrance. Their names were as follows:</p>
+                    <p rend="4em">Amazon, America, American, Archer, Courier, Fortune, Herald, Kensington,</p>
+                    <p rend="4em">Leonidas, Maria Theresa, Potomac, Rebecca Simms, L. C. Richmond, Robin Hood, Tenedos, William Lee.</p>
+                    <p>All accounts seem to agree that the object proposed was not accomplished. The channel is even said to have become ultimately benefited by the means employed to obstruct it.</p>
+                </div>
+                
+        </div></body>
+    </text>
 </TEI>
+

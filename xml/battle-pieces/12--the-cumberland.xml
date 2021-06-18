@@ -1,90 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-		<teiHeader>
-		<fileDesc>
-			<titleStmt>
-			<title>11 - The Cumberland</title>
-		</titleStmt>
-			<publicationStmt>
-
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
-	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
-		</fileDesc>
-	</teiHeader>
-		<text>
-			<body><div xml:id="the-cumberland">
-				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0061.jpg"/>
-				<head type="main"><ref target="#ref_19221"><hi rend="italic">The Cumberland.</hi></ref><note xml:id="ref_19221">First published in March, 1866, "The Cumberland" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32: 474).</note><lb/></head>
-<head type="sub-head">(<hi rend="smallcaps">March</hi>, 1862.)</head>
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-CumberlandHarpers1.jpg"/>
-<lb/>
-<pb facs="/images/battle-pieces-v1/battle-pieces-i-CumberlandHarpers2.jpg"/>
-<lb/>
-<lg>
-<l><hi rend="smallcaps">Some</hi> names there are of telling sound,</l>
-<l rend="2em">Whose voweled syllables free</l>
-	<!--  <note xml:id="ref_20995">The syllabic mellifluousness of the name Cumberland on the surface meter of the poem is itself obstructed by the poem's own hidden semantic thickets. Faith Barrett claims that Melville was “torn between a desire to critique nationalist poetry and a desire for the consolations that a nationalist poetry might offer.”</note> This note does not actually clarify the meaning of the line [CO]. -->
-<l>Are pledge that they shall ever live renowned;</l>
-<l rend="4em">Such seems to be</l>
-<l n="5">A Frigate&apos;s name (by present glory spanned)—</l>
-<l rend="4em">The <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:908" type="artwork">Cumberland</name>.</l>
-</lg>
-<lg>
-<l rend="8em">Sounding name as ere was sung,</l>
-<l rend="8em">Flowing, rolling on the tongue—</l>
-<l rend="8em">Cumberland! Cumberland!</l>
-</lg>
-<lb/>
-<lg>
-<l n="10">She warred and sunk. There&apos;s no denying</l>
-<l rend="2em">That she was ended—quelled;</l>
-<l>And yet her flag above her fate is flying,</l>
-<l rend="4em">As when it swelled</l>
-<l>Unswallowed by the swallowing sea: so grand—</l>
-<l n="15" rend="4em">The Cumberland. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0062.jpg"/>
-</l>
-</lg>
-<lg>
-<l rend="8em">Goodly name as ere was sung,</l>
-<l rend="8em">Roundly rolling on the tongue—</l>
-<l rend="8em">Cumberland! Cumberland!</l>
-</lg>
-<lb/>
-<lg>
-<l>What need to tell how she was fought—</l>
-<l n="20" rend="2em">The sinking flaming gun—</l>
-<l>The gunner leaping out the port—</l>
-<l rend="4em">Washed back, undone!</l>
-<l>Her dead unconquerably manned</l>
-<l rend="4em">The Cumberland.</l>
-</lg>
-<lg>
-<l n="25" rend="8em">Noble name as ere was sung,</l>
-<l rend="8em">Slowly roll it on the tongue—</l>
-<l rend="8em">Cumberland! Cumberland!</l>
-</lg>
-<lb/>
-<lg>
-<l>Long as hearts shall share the flame</l>
-<l rend="2em">Which burned in that brave crew,</l>
-<l n="30">Her fame shall live—outlive the victor&apos;s name;</l>
-<l rend="4em">For this is due.</l>
-<l>Your flag and flag-staff shall in story stand—</l>
-<l rend="4em">Cumberland!</l>
-</lg>
-<lg>
-<l rend="8em">Sounding name as ere was sung,</l>
-<l n="35" rend="8em">Long they&apos;ll roll it on the tongue—</l>
-<l rend="8em">Cumberland! Cumberland!</l>
-</lg>
-<!--
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>11 - The Cumberland</title>
+                <editor>Tianyu Ji</editor>
+            </titleStmt>
+            <publicationStmt>
+                
+                <publisher/>
+                <pubPlace/>
+                <date/>
+                <authority/>
+                <availability><p/></availability>
+            </publicationStmt>
+            <sourceDesc><p/></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div xml:id="the-cumberland">
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-0061.jpg"/>
+            <head type="main"><ref target="#ref_19221"><hi rend="italic">The Cumberland.</hi></ref><note xml:id="ref_19221">First published in March, 1866, "The Cumberland" is one of five <hi rend="italic">Battle-Pieces</hi> poems to appear in <hi rend="italic">Harper’s New Monthly Magazine</hi> (32: 474).</note><lb/></head>
+            <head type="sub-head">(<hi rend="smallcaps">March</hi>, 1862.)</head>
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-CumberlandHarpers1.jpg"/>
+            <lb/>
+            <pb facs="/images/battle-pieces-v1/battle-pieces-i-CumberlandHarpers2.jpg"/>
+            <lb/>
+            <lg>
+            <lg type="sestet" n="1" rhyme="ababcc">
+                <l met="tetrameter"><hi rend="smallcaps">Some</hi> names there are of telling <rhyme label="a">sound</rhyme>,</l>
+                <l rend="2em" met="trimeter+1">Whose voweled syllables <rhyme label="b">free</rhyme></l>
+                <!--  <note xml:id="ref_20995">The syllabic mellifluousness of the name Cumberland on the surface meter of the poem is itself obstructed by the poem's own hidden semantic thickets. Faith Barrett claims that Melville was “torn between a desire to critique nationalist poetry and a desire for the consolations that a nationalist poetry might offer.”</note> This note does not actually clarify the meaning of the line [CO]. -->
+                <l met="pentameter">Are pledge that they shall ever live <rhyme label="a">renowned</rhyme>;</l>
+                <l rend="4em" met="dimeter">Such seems to <rhyme label="b">be</rhyme></l>
+                <l n="5" met="pentameter">A Frigate&apos;s name (by present glory <rhyme label="c">spanned</rhyme>)—</l>
+                <l rend="4em" met="dimeter">The <name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:908" type="artwork"><rhyme label="c">Cumberland</rhyme></name>.</l>
+            </lg>
+            <lg type="tercet" n="2" rhyme="ddc">
+                <l rend="8em" met="trimeter+1">Sounding name as ere was <rhyme label="d">sung</rhyme>,</l>
+                <l rend="8em" met="trimeter+1">Flowing, rolling on the <rhyme label="d">tongue</rhyme>—</l>
+                <l rend="8em" met="trimeter">Cumberland! <rhyme label="c">Cumberland</rhyme>!</l>
+            </lg>
+            <lb/>
+            <lg type="sestet" n="3" rhyme="efefcc">
+                <l n="10" met="tetrameter+1">She warred and sunk. There&apos;s no <rhyme label="e">denying</rhyme></l>
+                <l rend="2em" met="trimeter">That she was <rhyme label="f">ended—quelled</rhyme>;</l>
+                <l met="pentameter+1">And yet her flag above her fate is <rhyme label="e">flying</rhyme>,</l>
+                <l rend="4em" met="dimeter">As when it <rhyme label="f">swelled</rhyme></l>
+                <l met="pentameter+1">Unswallowed by the swallowing sea: so <rhyme label="c">grand</rhyme>—</l>
+                <l n="15" rend="4em" met="dimeter">The <rhyme label="c">Cumberland</rhyme>. <pb facs="/images/battle-pieces-v1/battle-pieces-i-0062.jpg"/>
+                </l>
+            </lg>
+            <lg type="tercet" n="4" rhyme="ddc">
+                <l rend="8em" met="trimeter+1">Goodly name as ere was <rhyme label="d">sung</rhyme>,</l>
+                <l rend="8em" met="trimeter+1">Roundly rolling on the <rhyme label="d">tongue</rhyme>—</l>
+                <l rend="8em" met="trimeter">Cumberland! <rhyme label="c">Cumberland</rhyme>!</l>
+            </lg>
+            <lb/>
+            <lg type="sestet" n="5" rhyme="ghghcc">
+                <l met="tetrameter">What need to tell how she was <rhyme label="g">fought</rhyme>—</l>
+                <l n="20" rend="2em" met="trimeter">The sinking flaming <rhyme label="h">gun</rhyme>—</l>
+                <l met="tetrameter">The gunner leaping out the <rhyme label="g">port</rhyme>—</l>
+                <l rend="4em" met="dimeter">Washed back, <rhyme label="h">undone</rhyme>!</l>
+                <l met="tetrameter">Her dead unconquerably <rhyme label="c">manned</rhyme></l>
+                <l rend="4em" met="dimeter">The <rhyme label="c">Cumberland</rhyme>.</l>
+            </lg>
+            <lg type="tercet" n="6" rhyme="ddc">
+                <l n="25" rend="8em" met="trimeter+1">Noble name as ere was <rhyme label="d">sung</rhyme>,</l>
+                <l rend="8em" met="trimeter+1">Slowly roll it on the <rhyme label="d">tongue</rhyme>—</l>
+                <l rend="8em" met="trimeter">Cumberland! <rhyme label="c">Cumberland</rhyme>!</l>
+            </lg>
+            <lb/>
+            <lg type="sestet" n="7" rhyme="ijijcc">
+                <l met="trimeter+1">Long as hearts shall share the <rhyme label="i">flame</rhyme></l>
+                <l rend="2em" met="trimeter">Which burned in that brave <rhyme label="j">crew</rhyme>,</l>
+                <l n="30" met="pentameter">Her fame shall live—outlive the victor&apos;s <rhyme label="i">name</rhyme>;</l>
+                <l rend="4em" met="dimeter">For this is <rhyme label="j">due</rhyme>.</l>
+                <l met="pentameter">Your flag and flag-staff shall in story <rhyme label="c">stand</rhyme>—</l>
+                <l rend="4em" met="monometer+1"><rhyme label="c">Cumberland</rhyme>!</l>
+            </lg>
+            <lg type="tercet" n="8" rhyme="ddc">
+                <l rend="8em" met="trimeter+1">Sounding name as ere was <rhyme label="d">sung</rhyme>,</l>
+                <l n="35" rend="8em" met="trimeter+1">Long they&apos;ll roll it on the <rhyme label="d">tongue</rhyme>—</l>
+                <l rend="8em" met="trimeter">Cumberland! <rhyme label="c">Cumberland</rhyme>!</l>
+            </lg>
+            </lg>
+            <!--
 <ref target="#ref_20996">warred and sunk</ref><note xml:id="ref_20996">In the same waters where the Cumberland retained its flag, the naval ship with the symbolic name the USS United States— on which Melville had served and written about in <hi rend="italic">White-Jacket</hi> — had earlier been scuttled to prevent its getting in the hands of the Confederates.</note>
 -->
-</div></body>
-		</text>
-	</TEI>
+        </div></body>
+    </text>
+</TEI>

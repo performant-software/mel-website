@@ -3,8 +3,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>15 - Shiloh</title>
-		</titleStmt>
+			<title>15 - Shiloh</title>
+				<author>Herman Melville</author>
+				<editor>Equis Wang</editor>
+		    </titleStmt>
 			<publicationStmt>
 
 				<publisher/>
@@ -25,28 +27,28 @@
 			<head type="sub-head"><hi rend="italic">A Requiem.</hi><lb/>
 				(<hi rend="smallcaps">April</hi>, 1862.)</head>
 <lb/>
-			<lg>
-				<l><hi rend="smallcaps">Skimming</hi> lightly, wheeling still,</l>
-				<l rend="2em">The swallows fly low</l>
-				<l>Over the field in clouded days,</l>
-				<l rend="2em">The forest-field of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:463" type="place">Shiloh</name>—</l>
-				<l n="5">Over the field where April rain</l>
-				<l>Solaced the parched ones stretched in pain</l>
-				<l>Through the pause of night</l>
-				<l>That followed <name ref="https://mel-catalog.herokuapp.com/api/entries/event:38" type="event">the Sunday fight</name></l>
-				<l rend="2em">Around the church of Shiloh—</l>
-				<l n="10">The church so lone, the log-built one,</l>
-				<l>That echoed to many a parting groan</l>
-				<l rend="4em">And natural prayer</l>
-				<l rend="2em">Of dying foemen mingled there—</l>
-				<l>Foemen at morn, but friends at eve—</l>
-				<l n="15" rend="2em">Fame or country least their care:</l>
-				<l>(What like a bullet can undeceive!)
+			<lg rhyme="abcbddeebffgghihbjb">
+				<l met="trimeter+1"><hi rend="smallcaps">Skimming</hi> lightly, wheeling <rhyme label="a">still</rhyme>,</l>
+				<l rend="2em" met="dimeter+1">The swallows fly <rhyme label="b">low</rhyme></l>
+				<l met="tetrameter">Over the field in clouded <rhyme label="c">days</rhyme>,</l>
+				<l rend="2em" met="trimeter+1">The forest-field of <name ref="https://mel-catalog.herokuapp.com/api/entries/place:463" type="place"><rhyme label="b">Shiloh</rhyme></name>—</l>
+				<l n="5" met="tetrameter">Over the field where April <rhyme label="d">rain</rhyme></l>
+				<l met="tetrameter">Solaced the parched ones stretched in <rhyme label="d">pain</rhyme></l>
+				<l met="dimeter+1">Through the pause of <rhyme label="e">night</rhyme></l>
+				<l met="trimeter+1">That followed <name ref="https://mel-catalog.herokuapp.com/api/entries/event:38" type="event">the Sunday <rhyme label="e">fight</rhyme></name></l>
+				<l rend="2em" met="trimeter+1">Around the church of <rhyme label="b">Shiloh</rhyme>—</l>
+				<l n="10" met="tetrameter">The church so lone, the log-built <rhyme label="f">one</rhyme>,</l>
+				<l met="pentameter">That echoed to many a parting <rhyme label="f">groan</rhyme></l>
+				<l rend="4em" met="trimeter">And natural <rhyme label="g">prayer</rhyme></l>
+				<l rend="2em" met="tetrameter">Of dying foemen mingled <rhyme label="g">there</rhyme>—</l>
+				<l met="tetrameter">Foemen at morn, but friends at <rhyme label="h">eve</rhyme>—</l>
+				<l n="15" rend="2em" met="trimeter+1">Fame or country least their <rhyme label="i">care</rhyme>:</l>
+				<l met="tetrameter+1">(What like a bullet can <rhyme label="h">undeceive</rhyme>!)
 					<!-- <note xml:id="ref_20983">This line was quoted at the beginning of the short story, Memento Mori, by Jonathan Nolan which his older brother Christopher used to write the screenplay for the 2000 move "Memento" (https://www.public.asu.edu/~srbeatty/366/MementoMori.pdf
 https://en.wikipedia.org/wiki/Memento_%28film%29).</note> I don't think this is a worthy note, but it does signal something about adaptation.--></l>
-				<l rend="2em">But now they lie low,</l>
-				<l>While over them the swallows skim,</l>
-				<l rend="2em">And all is hushed at Shiloh.</l>
+				<l rend="2em" met="dimeter+1">But now they lie <rhyme label="b">low</rhyme>,</l>
+				<l met="tetrameter">While over them the swallows <rhyme label="j">skim</rhyme>,</l>
+				<l rend="2em" met="trimeter+1">And all is hushed at <rhyme label="b">Shiloh</rhyme>.</l>
 			</lg>
 			</div></body>
 	</text>

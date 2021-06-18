@@ -4,6 +4,8 @@
 		<fileDesc>
 			<titleStmt>
 			<title>14 - A Utilitarian View of the Monitor's Fight*</title>
+				<author>Herman Melville</author>
+				<editor>Equis Wang</editor>
 		</titleStmt>
 			<publicationStmt>
 
@@ -21,50 +23,49 @@
 				<pb facs="/images/battle-pieces-v1/battle-pieces-i-0069.jpg"/>
 				<head type="main"><hi rend="italic">A Utilitarian View of <name ref="https://mel-catalog.herokuapp.com/api/entries/event:26" type="event">the Monitor&apos;s Fight</name>.</hi></head>
 <lb/>
-<lg type="sestet">
-<l><hi rend="smallcaps">Plain</hi> be the phrase, yet apt the verse,</l>
-<l rend="2em">More ponderous than nimble;</l>
-<l>For since grimed War here laid aside</l>
-<l>His <ref target="#ed-note1">Orient</ref> pomp, &apos;twould ill befit<note xml:id="ed-note1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville underlined "Orient" in pencil and inscribed "painted" in the left margin, indicating a possible revision.</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0071.jpg"/></l>
-<l n="5" rend="4em">Overmuch to ply</l>
-<l rend="2em">The rhyme&apos;s barbaric cymbal.</l>
+<lg type="sestet" rhyme="abcdeb">
+<l met="tetrameter"><hi rend="smallcaps">Plain</hi> be the phrase, yet apt the <rhyme label="a">verse</rhyme>,</l>
+<l rend="2em" met="trimeter+1">More ponderous than <rhyme label="b">nimble</rhyme>;</l>
+<l met="tetrameter">For since grimed War here laid <rhyme label="c">aside</rhyme></l>
+<l met="tetrameter+1">His <ref target="#ed-note1">Orient</ref> pomp, &apos;twould ill <rhyme label="d">befit</rhyme><note xml:id="ed-note1">In his bound sheets of <hi rend="italic">Battle-Pieces</hi> (Copy C), Melville underlined "Orient" in pencil and inscribed "painted" in the left margin, indicating a possible revision.</note> <pb facs="/images/battle-pieces-v2/battle-pieces-ii-0071.jpg"/></l>
+<l n="5" rend="4em" met="dimeter+1">Overmuch to <rhyme label="e">ply</rhyme></l>
+<l rend="2em" met="trimeter+1">The rhyme&apos;s barbaric <rhyme label="b">cymbal</rhyme>.</l>
 </lg>
 
-<lg type="sestet">
-<l>Hail to victory without the gaud</l>
-<l rend="2em">Of glory; zeal that needs no fans</l>
-<l>Of banners; plain mechanic power</l>
-<l n="10">Plied cogently in War now placed—</l>
-<l rend="4em">Where War belongs—</l>
-<l rend="2em">Among the trades and artisans.</l>
+<lg type="sestet" rhyme="fghigg">
+<l met="tetrameter+1">Hail to victory without the <rhyme label="f">gaud</rhyme></l>
+<l rend="2em" met="tetrameter">Of glory; zeal that needs no <rhyme label="g">fans</rhyme></l>
+<l met="tetrameter+1">Of banners; plain mechanic <rhyme label="h">power</rhyme></l>
+<l n="10" met="tetrameter">Plied cogently in War now <rhyme label="i">placed</rhyme>—</l>
+<l rend="4em" met="dimeter">Where War <rhyme label="g">belongs</rhyme>—</l>
+<l rend="2em" met="tetrameter">Among the trades and <rhyme label="g">artisans</rhyme>.</l>
 </lg>
 
-<lg type="sestet">
-<l>Yet this was battle, and intense—</l>
-<l rend="2em">Beyond the strife of fleets heroic;</l>
-<l n="15">Deadlier, closer, calm &apos;mid storm;</l>
-<l><pb facs="/images/battle-pieces-v1/battle-pieces-i-0070.jpg"/>
-No passion; all went on by crank,</l>
-<l rend="4em">Pivot, and screw,</l>
-<l rend="2em">And calculations of caloric.</l>
+<lg type="sestet" rhyme="ajkjlj">
+<l met="tetrameter">Yet this was battle, and <rhyme label="a">intense</rhyme>—</l>
+<l rend="2em" met="tetrameter+1">Beyond the strife of fleets <rhyme label="j">heroic</rhyme>;</l>
+<l n="15" met="tetrameter">Deadlier, closer, calm &apos;mid <rhyme label="k">storm</rhyme>;</l>
+<l met="tetrameter"><pb facs="/images/battle-pieces-v1/battle-pieces-i-0070.jpg"/>No passion; all went on by <rhyme label="j">crank</rhyme>,</l>
+<l rend="4em" met="dimeter">Pivot, and <rhyme label="l">screw</rhyme>,</l>
+<l rend="2em" met="tetrameter+1">And calculations of <rhyme label="j">caloric</rhyme>.</l>
 </lg>
 
-<lg type="sestet">
-<l>Needless to dwell; the story&apos;s known.</l>
-<l n="20" rend="2em">The ringing of those plates on plates</l>
-<l>Still ringeth round the world—</l>
-<l>The clangor of that blacksmiths&apos; fray.</l>
-	<l rend="4em">The anvil-din</l>
-	<l rend="2em">Resounds this message from the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:172" type="person">Fates</name>:</l>
+<lg type="sestet" rhyme="mnceon">
+<l met="tetrameter">Needless to dwell; the story&apos;s <rhyme label="m">known</rhyme>.</l>
+<l n="20" rend="2em" met="tetrameter">The ringing of those plates on <rhyme label="n">plates</rhyme></l>
+<l met="trimeter">Still ringeth round the <rhyme label="c">world</rhyme>—</l>
+<l met="tetrameter">The clangor of that blacksmiths&apos; <rhyme label="e">fray</rhyme>.</l>
+<l rend="4em" met="dimeter">The anvil-<rhyme label="o">din</rhyme></l>
+<l rend="2em" met="tetrameter">Resounds this message from the <name ref="https://mel-catalog.herokuapp.com/api/entries/person:172" type="person"><rhyme label="n">Fates</rhyme></name>:</l>
 </lg>
 
-<lg type="sestet">
-<l n="25">War shall yet be, and to the end;</l>
-<l rend="2em">But war-paint shows the streaks of weather;</l>
-<l>War yet shall be, but warriors</l>
-<l>Are now but operatives; War&apos;s made</l>
-<l rend="4em">Less grand than Peace,</l>
-<l n="30" rend="2em">And a singe runs through <ref target="#ref_20616">lace and feather</ref><note xml:id="ref_20616">"Lace and feather" evoke the Cavalier tradition, recalling the "pomp" of honor in line 4. Melville may have visited West Point in the spring of 1850 and witnessed military parades during which women in lace would observe cadets marching in "tarbuckets," their formal feathered headgear. Feathers also resonate with the "war-paint" of Native American warriors figured in line 26; see also line 45 in "Apathy and Enthusiasm."</note>.</l>
+<lg type="sestet" rhyme="pqrcaq">
+<l n="25" met="tetrameter">War shall yet be, and to the <rhyme label="p">end</rhyme>;</l>
+<l rend="2em" met="tetrameter+1">But war-paint shows the streaks of <rhyme label="q">weather</rhyme>;</l>
+<l met="tetrameter+1">War yet shall be, but <rhyme label="r">warriors</rhyme></l>
+<l met="tetrameter+1">Are now but operatives; War&apos;s <rhyme label="c">made</rhyme></l>
+<l rend="4em" met="dimeter">Less grand than <rhyme label="a">Peace</rhyme>,</l>
+<l n="30" rend="2em" met="tetrameter+1">And a singe runs through <ref target="#ref_20616">lace and <rhyme label="q">feather</rhyme></ref><note xml:id="ref_20616">"Lace and feather" evoke the Cavalier tradition, recalling the "pomp" of honor in line 4. Melville may have visited West Point in the spring of 1850 and witnessed military parades during which women in lace would observe cadets marching in "tarbuckets," their formal feathered headgear. Feathers also resonate with the "war-paint" of Native American warriors figured in line 26; see also line 45 in "Apathy and Enthusiasm."</note>.</l>
 </lg>
 
 </div></body>
