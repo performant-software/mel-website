@@ -28,23 +28,24 @@
 			<head type="sub-head">(<hi rend="smallcaps">November</hi>, 1861.)
 		  </head>
 			<lb/>
-			<lg n="1" rhyme="">
-				<lg type="quatrain" rhyme="abcb">
-					<l met="tetrameter"><hi rend="smallcaps">In</hi> time and measure perfect <rhyme label="a">moves</rhyme></l>
-					<l rend="2em" met="trimeter">All Art whose aim is <rhyme label="b">sure</rhyme>;</l>
-					<l met="tetrameter">Evolving rhyme and stars <rhyme label="c">divine</rhyme></l>
-					<l rend="2em" met="trimeter">Have rules, and they <rhyme label="b">endure</rhyme>.</l></lg>
-				<lg type="quatrain" rhyme="defe">
-					<l n="5" met="tetrameter">Nor less the Fleet that warred for <rhyme label="d">Right</rhyme>,</l>
-					<l rend="2em" met="trimeter">And, warring so, <rhyme label="e">prevailed</rhyme>,</l>
-					<l met="tetrameter">In geometric beauty <rhyme label="f">curved</rhyme>,</l>
-					<l rend="2em" met="trimeter">And in an orbit <rhyme label="e">sailed</rhyme>.</l></lg>
-				<lg type="quatrain" rhyme="ghih">
-					<l n="10" met="tetrameter"><ref target="#ref_20702">The rebel at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:481" type="place">Port Royal</name></ref><note xml:id="ref_20702">Here, "The rebel" might also refer to 17th-century logician and mathematician Blaise Pascal, who was associated with the Jansenist movement centered at Port-Royal, France (Shurr, 15).</note> <rhyme label="g">felt</rhyme></l>
-					<l rend="2em" met="trimeter">The Unity <rhyme label="h">overawe</rhyme>,</l>
-					<l met="tetrameter">And rued the spell. A type was <rhyme label="i">here</rhyme>,</l>
-					<l rend="2em" met="trimeter">And victory of <hi rend="smallcaps"><rhyme label="h">Law</rhyme></hi>.</l></lg>x
-			</lg>
+<lg>
+<l><hi rend="smallcaps">In</hi> time and measure perfect moves</l>
+<l rend="2em">All Art whose aim is sure;</l>
+<l>Evolving rhyme and stars divine</l>
+<l rend="2em">Have rules, and they endure.</l></lg>
+
+<lg>
+<l n="5">Nor less the Fleet that warred for Right,</l>
+<l rend="2em">And, warring so, prevailed,</l>
+<l>In geometric beauty curved,</l>
+<l rend="2em">And in an orbit sailed.</l></lg>
+
+<lg>
+<l n="10"><ref target="#ref_20702">The rebel at <name ref="https://mel-catalog.herokuapp.com/api/entries/place:481" type="place">Port Royal</name></ref><note xml:id="ref_20702">Here, "The rebel" might also refer to 17th-century logician and mathematician Blaise Pascal, who was associated with the Jansenist movement centered at Port-Royal, France (Shurr, 15).</note> felt</l>
+	<l rend="2em">The Unity overawe,</l>
+<l>And rued the spell. A type was here,</l>
+<l rend="2em">And victory of <hi rend="smallcaps">Law</hi>.</l>
+</lg>
 </div></body>
 		</text>
 	</TEI>
