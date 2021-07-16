@@ -35,11 +35,11 @@
         "chapter-29.xml",
         "chapter-30.xml",
         "billy-in-the-darbies.xml",
-        "editors-note.xml",
         "draft-title.xml",
         "draft-chapter.xml",
         "draft-preface.xml",
         "inscribed-versos.xml",
-        "blank-versos.xml"
+        "blank-versos.xml",
+        "editors-note.xml"
     ]
 }
