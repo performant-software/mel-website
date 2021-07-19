@@ -129,20 +129,19 @@
 						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0191.tif"
 						tl_leaf="https://app.textlab.org/transcriptions/15600"/>common ancestor, a
 					hero in the German wars of the seventeenth century, in which poem occur the
-					lines, </p><p xmlns="http://www.tei-c.org/ns/1.0"><ref target="#ref_30367"><choice>
-							<orig>[quote]This</orig>
-							<reg>This</reg>
-						</choice></ref><note xml:id="ref_30367">This] In manuscript, HM places
+					lines, </p><p xmlns="http://www.tei-c.org/ns/1.0">
+						<lg>
+							<l><ref target="#ref_30367">This</ref><note xml:id="ref_30367">This] In manuscript, HM places
 						quotation marks around the four quoted lines from Andrew Marvell's 1681 poem
 						"Upon Appleton House." NN retains the quotation marks, which might suggest
 						that a voice other than Marvell's is speaking. To avoid this suggestion and
 						in keeping with modern conventions, MEL drops the quotation mark here and
 						after "Vere" at the end of the fourth line. </note> 'tis to have been from
-					the first In a domestic heaven nursed, Under the discipline severe Of Fairfax
+					the first </l><l>In a domestic heaven nursed,</l> <l>Under the discipline severe Of Fairfax
 					and the starry <choice>
-						<orig>Vere [quote] (no period in MS)</orig>
+						<orig>Vere" (no period in MS)</orig>
 						<reg>Vere.</reg>
-					</choice>
+					</choice></l></lg>
 				</p><p xmlns="http://www.tei-c.org/ns/1.0">And so, upon embracing his cousin fresh
 					from Rodney's great victory wherein he had played so gallant a part, brimming
 					over with just family pride in the sailor of their house, he exuberantly
