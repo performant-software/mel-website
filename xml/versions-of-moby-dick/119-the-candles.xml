@@ -36,10 +36,10 @@
 </p><p xmlns="http://www.tei-c.org/ns/1.0">“Bad work, bad work! Mr. Starbuck,” said Stubb, regarding the wreck, “but the sea will have its way. Stubb, for one, can’t fight it. You see, Mr. Starbuck, a wave has such a great long start before it leaps, all round the world it runs, and then comes the spring! But as for me, all the start I have to meet it, is just across the deck here. But never mind; it’s all in fun: so the old song says;”—(sings.)
 <lb/>
 <lg>
-	<l rend="10em"><ref target="#ref_18639">Oh! jolly is the gale</ref><note xml:id="ref_18639">Oh! jolly is the gale . . .: Song probably written by Melville.</note>,</l>
+	<l rend="10em">Oh! jolly is the gale,</l>
 	<l rend="10em">And a joker is the whale,</l>
 	<l rend="10em">A’ flourishin’ his tail,—</l>
-<l>Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is the Ocean, oh!</l>
+<l>Such a funny, sporty, gamy, jesty, joky, hoky-poky lad, is <ref target="#ref_18639">the Ocean, oh!</ref><note xml:id="ref_18639">Oh! jolly is the gale: Song probably written by Melville.</note></l>
 </lg>
 <lg>
 	<l rend="10em">The <ref target="#ref_18651">scud</ref><note xml:id="ref_18651">scud: mist or low, broken clouds.</note> all a flyin’,</l>
