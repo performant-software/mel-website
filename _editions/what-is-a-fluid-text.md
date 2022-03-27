@@ -1,9 +1,11 @@
 ---
 layout: editions_two-columns
-title: What is a Fluid Text?
+title: What is a Fluid Text
 permalink: /what-is-a-fluid-text
 
 ---
+
+#### Editing Fluid Texts
 
 Apart from offering reliable digital editions of Melville's writings,
 MEL's signal editorial contribution is that digitization also enables us
@@ -167,4 +169,4 @@ editions—*Moby-Dick*, *Battle-Pieces*, and *Billy Budd*—to address
 these challenges, which are discussed in more detail in Versions of
 Melville.
 
--- John Bryant (2021)
+_John Bryant (2021)_
