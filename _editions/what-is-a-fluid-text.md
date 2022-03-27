@@ -1,11 +1,11 @@
 ---
 layout: editions_two-columns
-title: Editing Fluid Texts
-permalink: /editing-fluid-texts
+title: What is a Fluid Text
+permalink: /what-is-a-fluid-text
 
 ---
 
-#### What is a Fluid Text?
+#### Editing Fluid Texts 
 
 Apart from offering reliable digital editions of Melville's writings,
 MEL's signal editorial contribution is that digitization also enables us
