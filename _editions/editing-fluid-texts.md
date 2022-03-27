@@ -5,7 +5,7 @@ permalink: /editing-fluid-texts
 
 ---
 
-#### What is a Fluid Text?
+## What is a Fluid Text?
 
 Apart from offering reliable digital editions of Melville's writings,
 MEL's signal editorial contribution is that digitization also enables us
