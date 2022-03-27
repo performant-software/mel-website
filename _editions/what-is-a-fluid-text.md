@@ -2,7 +2,6 @@
 layout: editions_two-columns
 title: What is a Fluid Text?
 permalink: /what-is-a-fluid-text
-
 ---
 
 Apart from offering reliable digital editions of Melville's writings,
