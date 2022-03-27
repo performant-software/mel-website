@@ -1,7 +1,7 @@
 ---
 layout: editions_two-columns
-title: What is a Fluid Text
-permalink: /what-is-a-fluid-text
+title: Editing Fluid Texts
+permalink: /editing-fluid-texts
 
 ---
 
