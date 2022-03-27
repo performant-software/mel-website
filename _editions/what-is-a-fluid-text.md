@@ -1,7 +1,6 @@
 ---
 layout: editions_two-columns
 title: What is a Fluid Text?
-author: John Bryant
 permalink: /what-is-a-fluid-text
 
 ---
@@ -167,3 +166,5 @@ navigation. MEL's first step, then, was to create three "model"
 editions—*Moby-Dick*, *Battle-Pieces*, and *Billy Budd*—to address
 these challenges, which are discussed in more detail in Versions of
 Melville.
+
+-- John Bryant (2021)
