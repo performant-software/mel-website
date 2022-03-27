@@ -169,4 +169,4 @@ editions—*Moby-Dick*, *Battle-Pieces*, and *Billy Budd*—to address
 these challenges, which are discussed in more detail in Versions of
 Melville.
 
-John Bryant (2021)
+_John Bryant (2021)_
