@@ -1,6 +1,7 @@
 ---
 layout: editions_two-columns
-title: What is a Fluid Text
+title: What is a Fluid Text?
+author: John Bryant
 permalink: /what-is-a-fluid-text
 
 ---
