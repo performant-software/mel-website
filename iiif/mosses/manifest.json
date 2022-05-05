@@ -1,0 +1,1103 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://melville.electroniclibrary.org/iiif/mosses/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p0",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p0/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/001.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 1560,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/001.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p0"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 1560
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p1",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p1/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p1",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/003.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/003.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p1"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p2",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p2/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p2",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/005.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1571,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/005.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p2"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1571
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p3",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p3/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p3",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/007.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/007.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p3"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p4",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p4/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p4",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/009.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1562,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/009.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p4"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1562
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p5",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p5/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p5",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/011.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/011.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p5"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p6",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p6/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p6",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/013.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 1571,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/013.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p6"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 1571
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p7",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p7/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p7",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/015.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/015.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p7"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p8",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p8/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p8",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/017.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 1566,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/017.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p8"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 1566
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p9",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p9/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p9",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/019.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/019.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p9"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p10",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p10/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p10",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/021.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1559,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/021.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p10"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1559
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p11",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p11/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p11",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/023.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/023.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p11"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p12",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p12/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p12",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/025.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/025.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p12"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p13",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p13/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p13",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/027.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2478,
+								"width": 2560,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/027.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p13"
+						}
+					]
+				}
+			],
+			"height": 2478,
+			"width": 2560
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p14",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p14/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p14",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/029.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 1465,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/029.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p14"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 1465
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p15",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p15/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p15",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/031.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 1092,
+								"width": 2559,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/031.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p15"
+						}
+					]
+				}
+			],
+			"height": 1092,
+			"width": 2559
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p16",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p16/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p16",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/033.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 1542,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/033.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p16"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 1542
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p17",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p17/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p17",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/035.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/035.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p17"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p18",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p18/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p18",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/037.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1564,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/037.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p18"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1564
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p19",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p19/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p19",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/039.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1562,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/039.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p19"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1562
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p20",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p20/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p20",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/041.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2558,
+								"width": 1558,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/041.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p20"
+						}
+					]
+				}
+			],
+			"height": 2558,
+			"width": 1558
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p21",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p21/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p21",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/043.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 1558,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/043.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p21"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 1558
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p22",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p22/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p22",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/045.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1561,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/045.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p22"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1561
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p23",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p23/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p23",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/047.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1555,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/047.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p23"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1555
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p24",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p24/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p24",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/049.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1552,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/049.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p24"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1552
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p25",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p25/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p25",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/051.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2558,
+								"width": 1558,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/051.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p25"
+						}
+					]
+				}
+			],
+			"height": 2558,
+			"width": 1558
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p26",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p26/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p26",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/053.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1576,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/053.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p26"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1576
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p27",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p27/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p27",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/055.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 2020,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/055.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p27"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 2020
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p28",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p28/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p28",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/057.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1787,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/057.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p28"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1787
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p29",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p29/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p29",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/059.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 1565,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/059.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p29"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 1565
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p30",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p30/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p30",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/061.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2560,
+								"width": 1565,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/061.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p30"
+						}
+					]
+				}
+			],
+			"height": 2560,
+			"width": 1565
+		},
+		{
+			"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p31",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p31/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"id": "https://melville.electroniclibrary.org/iiif/mosses/annotation/p31",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iip.textlab.org/?IIIF=mel/mosses/063.tiff/full/full/0/default.jpg",
+								"type": "Image",
+								"format": "image/jpeg",
+								"height": 2559,
+								"width": 1672,
+								"service": [
+									{
+										"@id": "https://iip.textlab.org/?IIIF=mel/mosses/063.tiff",
+										"@type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://melville.electroniclibrary.org/iiif/mosses/canvas/p31"
+						}
+					]
+				}
+			],
+			"height": 2559,
+			"width": 1672
+		}
+	],
+	"label": {
+		"en": [
+			"Hawthorne and His Mosses"
+		]
+	}
+}
