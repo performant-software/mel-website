@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Versions of "Hawthorne and His Mosses"</title>
+            <author>Herman Melville</author>
+            <editor role="general" xml:id="JB">John Bryant</editor>
+            <editor role="general" xml:id="CO">Christopher Ohge</editor>
+            <editor role="associate" xml:id="YS">Yuying Shen</editor>
+         </titleStmt>  
+         <publicationStmt>
+            <p>Melville Electronic Library</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>New York Public Library</repository>
+                  <idno>MssCol 873</idno>
+               </msIdentifier>
+               <physDesc>
+                  <handDesc>
+                     <handNote xml:id="HM">Revisions by Herman Melville</handNote>
+                     <handNote xml:id="ESM">Revisions by Elizabeth Shaw Melville</handNote>
+                     <handNote xml:id="ED">Revisions by Evert Duyckinck,, editor of the Literary World</handNote>
+                     <handNote xml:id="comp">Revisions made by compositors of the Literary World (Lyman, McIntyre, Alexander)</handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+     <revisionDesc> <!-- manuscript revisions -->
+        <listChange>
+        <change xml:id="StA">Fair copy stage by Elizabeth Shaw Melville</change>
+        <change xml:id="StB">Revisions by Herman Melville and Elizabeth Shaw Melville</change>
+        <change xml:id="StC">Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
+        <change xml:id="StD">Changes made by the compositors of the Literary World</change>
+        </listChange>
+     </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p/>
+      </body>
+  </text>
+</TEI>
