@@ -29,14 +29,16 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc> <!-- manuscript revisions -->
+     <profileDesc>
+        <creation><!-- manuscript revisions and genetic stages -->
         <listChange>
         <change xml:id="StA">Fair copy stage by Elizabeth Shaw Melville</change>
         <change xml:id="StB">Revisions by Herman Melville and Elizabeth Shaw Melville</change>
         <change xml:id="StC">Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
         <change xml:id="StD">Changes made by the compositors of the Literary World</change>
         </listChange>
-     </revisionDesc>
+        </creation>
+     </profileDesc>
   </teiHeader>
   <text>
       <body>
