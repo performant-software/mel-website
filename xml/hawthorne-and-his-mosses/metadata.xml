@@ -7,7 +7,8 @@
             <author>Herman Melville</author>
             <editor role="general" xml:id="JB">John Bryant</editor>
             <editor role="general" xml:id="CO">Christopher Ohge</editor>
-            <editor role="associate" xml:id="YS">Yuying Shen</editor>
+            <editor role="assistant" xml:id="YS">Yuying Shen</editor>
+            <editor role="assistant" xml:id="YC">Yihong Cai</editor>
          </titleStmt>  
          <publicationStmt>
             <p>Melville Electronic Library</p>
@@ -22,21 +23,23 @@
                   <handDesc>
                      <handNote xml:id="HM">Revisions by Herman Melville</handNote>
                      <handNote xml:id="ESM">Revisions by Elizabeth Shaw Melville</handNote>
-                     <handNote xml:id="ED">Revisions by Evert Duyckinck,, editor of the Literary World</handNote>
+                     <handNote xml:id="ED">Revisions by Evert Duyckinck, editor of the Literary World</handNote>
                      <handNote xml:id="comp">Revisions made by compositors of the Literary World (Lyman, McIntyre, Alexander)</handNote>
                   </handDesc>
                </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <revisionDesc> <!-- manuscript revisions -->
+     <profileDesc>
+        <creation><!-- manuscript revisions and genetic stages -->
         <listChange>
         <change xml:id="StA">Fair copy stage by Elizabeth Shaw Melville</change>
         <change xml:id="StB">Revisions by Herman Melville and Elizabeth Shaw Melville</change>
         <change xml:id="StC">Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
         <change xml:id="StD">Changes made by the compositors of the Literary World</change>
         </listChange>
-     </revisionDesc>
+        </creation>
+     </profileDesc>
   </teiHeader>
   <text>
       <body>
