@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="xml/tei/stylesheet/html5/tei.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>one</title>
+        <title>Billy Budd, Sailor: A Diplomatic Transcription of the Mansucript</title>
+        <author>Herman Melville</author>
+        <editor>John Bryant</editor>
+        <editor>Wyn Kelley</editor>
+        <editor>Christopher Ohge</editor>
       </titleStmt>
       <publicationStmt>
-        <publisher/>
+        <publisher>Melville Electronic Library</publisher>
         <pubPlace/>
-        <date/>
+        <date>2019</date>
         <authority/>
         <availability>
           <p/>
