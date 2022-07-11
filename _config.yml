@@ -30,6 +30,8 @@ markdown: kramdown
 sass:
   style: compact # possible values: nested expanded compact compressed
 
+gems: ['jekyll-lunr-js-search']
+
 # Projects
 collections:
   about-us:
