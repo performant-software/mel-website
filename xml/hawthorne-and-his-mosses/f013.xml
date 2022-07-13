@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Hawthorne and His Mosses</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>Melville Electronic Library</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Leaf 0013 (page 14) of the manuscript. </p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<p>
+				<pb facs="iiifmossesmanifest.json#f013"/>
+				<metamark>14</metamark>
+			</p>
+			<p>not Shakespeare, but only Master William Shakespeare <lb/> of the <metamark>^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f013_add-shrewdthriving" hand="metadata#HM" place="above">shrewd, thriving</add>, business firm of Condell, Shakespeare &amp; Co., proprietors <lb/> of the Globe Theatre in London; and by a <del change="metadata#StB" facs="iiifmossesmanifest.json#f013_delete-for" hand="metadata#HM">for</del> courtly author, <lb/> of the name of Chettle, was hooted at, as an "upstart <lb/> crow" beautified "with other birds' feathers." For, mark it well, <lb/> imitation is often the first charge brought against real <lb/> originality. Why this is so, there is not space to set forth here. You must <lb/> have plenty of sea-room to tell the <lb/> Truth in; especially, when it seems to have an aspect <lb/> of newness, as America did in 1492, though it was then <lb/> just as old, and perhaps older than Asia, only <del change="metadata#StB" facs="iiifmossesmanifest.json#f013_delete-the" hand="metadata#HM">the</del> <lb/> those sagacious philosophers, the common sailors, had never <lb/> seen it before; swearing it was all water and moonshine <lb/> there. （to be continued next week)</p>
+		</body>
+	</text>
+</TEI>
