@@ -16,7 +16,7 @@ function initNotes() {
         }
         else if( type === 'external-link') {
           const target = teiRefEl.getAttribute('target')
-          teiRefEl.setAttribute("onclick", `window.open("${target}", _blank)`)
+          teiRefEl.setAttribute("onclick", `window.open("${target}", "_blank")`)
         }
 
     }
