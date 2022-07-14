@@ -14,9 +14,9 @@ function initNotes() {
             teiRefEl.setAttribute("data-window-anchor", anchorID )
             teiRefEl.setAttribute("onclick", `loadInfoWindow("${target}",${anchorID})`)
         }
-        if( type === 'external-link') {
+        else if( type === 'external-link') {
           const target = teiRefEl.getAttribute('target')
-          const link = window.open('${target}', '_blank')
+          teiRefEl.setAttribute("onclick", `window.open("${target}", _blank)`)
         }
 
     }
