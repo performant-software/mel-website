@@ -28,7 +28,7 @@
             <div xml:id="donelson">
                 <pb facs="/images/battle-pieces-v1/battle-pieces-i-0041.jpg"/>
                 <lb/>
-                <head><ref type="reference" target="#ref_21098"><hi rend="italic">Donelson</hi></ref><note
+                <head><ref target="#ref_21098"><hi rend="italic">Donelson</hi></ref><note
                         xml:id="ref_21098">Melville's probable sources are the various newspaper
                         accounts collected in <hi rend="italic">The Rebellion Record</hi> (see
                         Cohen, 16–19). The battle at Fort Donelson, near Dover, Tennessee, on 12-16
@@ -40,7 +40,7 @@
                     <l rend="2em"><hi rend="smallcaps">The</hi> bitter cup</l>
                     <l rend="4em">Of that hard countermand</l>
                     <l rend="2em">Which gave the Envoys up,</l>
-                    <l rend="2em">Still was <ref type="reference" target="#ref_21085">wormwood</ref><note
+                    <l rend="2em">Still was <ref target="#ref_21085">wormwood</ref><note
                             xml:id="ref_21085">Bitter-tasting herb, folk remedy, and ingredient in
                             the alcohol spirit absinthe. See also <ref type="external-link"
                                 target="https://www.biblegateway.com/passage/?search=Revelation%208:10-11"
@@ -58,7 +58,7 @@
 <ref target="#ref_21129">“No seeing here,”</ref><note xml:id="ref_21129">Megan Williams argues that Battle-Pieces, published in the same year as George Barnard’s Photographic Views and Alexander Gardner’s Photographic Sketch-Book of the Civil War, “weighs the power of the written word against the act of representing this historical moment photographically” (142). The phrase “no seeing here” “…underscores the obvious fact that the telegraph and the written word do not offer the immediate visual images of the photograph” (154).</note>
 -->
                 <lg>
-                    <l><ref type="reference" target="#EDNoteDonelson1"><hi rend="smallcaps">Important</hi></ref><note
+                    <l><ref target="#EDNoteDonelson1"><hi rend="smallcaps">Important</hi></ref><note
                             xml:id="EDNoteDonelson1">Melville's indentation in "Donelson" is
                             complicated and worth further study. This one-word line is particularly
                             challenging as it appears far to the left, and seemingly out of the

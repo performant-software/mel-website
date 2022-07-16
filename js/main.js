@@ -34,7 +34,7 @@ function initNotes() {
     // that displays the associated tei-note
     for( const teiRefEl of teiRefEls ) {
         const type = teiRefEl.getAttribute('type')
-        if( type !== 'reference' ) {
+        if( type !== 'external-link' ) {
             tippy( teiRefEl, {
                 content: (reference) => {
                     const id = reference.getAttribute('target').slice(1)
