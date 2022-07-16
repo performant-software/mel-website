@@ -5,7 +5,9 @@
 			<titleStmt>
 				<title>4 - Apathy and Enthusiasm</title>
 				<author>Herman Melville</author>
-				<editor>Equis Wang</editor>
+				<editor type="general">John Bryant</editor>
+				<editor type="general">Christopher Ohge</editor>
+				<editor type="associate">Equis Wang</editor>
 			</titleStmt>
 			<publicationStmt>
 
@@ -77,11 +79,11 @@
 					<l n="40" met="tetrameter">But the elders with <rhyme label="k">foreboding</rhyme></l>
 					<l rend="2em" met="trimeter+1">Mourned the days forever o&apos;<rhyme label="l">er</rhyme>,<pb facs="/images/battle-pieces-v1/battle-pieces-i-0029.jpg"/></l>
 					<l met="tetrameter">And recalled the forest <rhyme label="m">proverb</rhyme>,</l>
-					<l rend="2em" met="trimeter">The Iroquois&apos; <ref target="#ref_20533">old <rhyme label="n">saw</rhyme>:</ref><note xml:id="ref_20533">In "The Source of Melville's Iroquois Proverb," Peter Unseth finds no proverb tradition among the Iroquois nations and no source for this proverb in general; Melville seems to have made it up. <bibl><hi rend="italic">ANQ A Quarterly Journal of Short Articles Notes and Reviews</hi> 28.3-4 (October 2015): 182-85. DOI: 10.1080/0895769X.2016.1172954</bibl>.</note></l>
+					<l rend="2em" met="trimeter">The Iroquois&apos; <ref target="#ref_20533">old <rhyme label="n">saw</rhyme>:</ref><note xml:id="ref_20533">In "The Source of Melville's Iroquois Proverb," Peter Unseth finds no proverb tradition among the Iroquois nations and no source for this proverb in general; Melville seems to have made it up. <bibl><hi rend="italic">ANQ A Quarterly Journal of Short Articles Notes and Reviews</hi> 28.3-4 (October 2015): 182-85. <ref type="external-link" target="https://doi.org/10.1080/0895769X.2016.1172954">DOI: 10.1080/0895769X.2016.1172954</ref></bibl>.</note></l>
 					<l met="trimeter"><hi rend="italic">Grief to every <rhyme label="o">graybeard</rhyme></hi></l>
 					<l n="45" rend="2em" met="trimeter+1"><hi rend="italic">When young Indians lead the <rhyme label="p">war</rhyme></hi>.</l>
 				</lg>
-			    
+
 			</div></body>
 	</text>
 </TEI>
