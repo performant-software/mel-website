@@ -29,7 +29,7 @@
     <l rend="2em"><hi rend="smallcaps">The</hi> bitter cup</l>
     <l rend="4em">Of that hard countermand</l>
     <l rend="2em">Which gave the Envoys up,</l>
-    <l rend="2em">Still was <ref target="#ref_21085">wormwood</ref><note xml:id="ref_21085">Bitter-tasting herb, folk remedy, and ingredient in the alcohol spirit absinthe. See also <ref type="external-link" target="https://www.biblegateway.com/passage/?search=Revelation%208:10-11&version=KJV">Revelation 8:10-11</ref>.</note> in the mouth,</l>
+    <l rend="2em">Still was <ref target="#ref_21085">wormwood</ref><note xml:id="ref_21085">Bitter-tasting herb, folk remedy, and ingredient in the alcohol spirit absinthe. See also <ref type="external-link" target="https://www.biblegateway.com/passage/?search=Revelation%208:10-11">Revelation 8:10-11</ref>.</note> in the mouth,</l>
     <l n="5" rend="4em">And clouds involved the land,</l>
     <l rend="2em">When, pelted by sleet in the icy street,</l>
     <l rend="4em">About the bulletin-board a band</l>
@@ -518,7 +518,7 @@
 		        </lg>
 
 		        <lg>
-		            <l rend="2em"><hi rend="italic"><name type="person" ref="https://www.wikidata.org/wiki/Q357102"><ref target="#lwnote1">Lew Wallace</ref></name>, moving to retake</hi><note xml:id="lwnote1">Wallace (1827-1905) was a Union general, later a territorial governor, and author of <hi rend="italic">Ben Hur</hi>. Source: WikiData (https://www.wikidata.org/wiki/Q357102).</note></l>
+		            <l rend="2em"><hi rend="italic"><name type="person"><ref target="#lwnote1">Lew Wallace</ref></name>, moving to retake</hi><note xml:id="lwnote1">Wallace (1827-1905) was a Union general, later a territorial governor, and author of <hi rend="italic">Ben Hur</hi>. Source: <ref type="external-link" target="https://www.wikidata.org/wiki/Q357102"></ref>WikiData (https://www.wikidata.org/wiki/Q357102).</note></l>
 		        <l rend="2em"><hi rend="italic">The heights late lost—</hi></l>
 		        <l n="385" rend="10em"><hi rend="italic">(Herewith a break.</hi></l>
 		        <l rend="4em"><hi rend="italic">Storms at the West derange the wires.</hi></l>
