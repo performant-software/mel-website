@@ -3,7 +3,7 @@
 # Melville Electronic Library (MEL)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b90121c1-dd40-44a8-b1ad-f7047aadfa06/deploy-status)](https://app.netlify.com/sites/mel/deploys)
 
-This is the MEL website, originally developed at Hofstra University. 
+This is the code repository for the [Melville Electronic Library website](https://melville.electroniclibrary.org/), originally developed at Hofstra University. 
 
 ## Installing locally
 
