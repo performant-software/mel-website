@@ -1,4 +1,4 @@
-	<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 		<teiHeader>
 		<fileDesc>
@@ -20,7 +20,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="129-the-cabin-ahab-and-pip"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1520306750407-za42dnwvwbb-d675969b0a75806c2d9c4244a7a6e133%2FMD_Amer_0624.jpg"/>
+			<body><div xml:id="ch129-the-cabin-ahab-and-pip"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1520306750407-za42dnwvwbb-d675969b0a75806c2d9c4244a7a6e133%2FMD_Amer_0624.jpg"/>
 
 			<head type="main" rend="center">CHAPTER 129</head>
 			<lb/>
@@ -29,7 +29,7 @@
 			<head type="sub-head" rend="center">(<hi rend="italic">Ahab moving to go on deck; Pip catches him by the hand to follow</hi>.)</head>
 
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="smallcaps">Lad</hi>, lad, I tell thee thou must not follow Ahab now.
+<p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="smallcaps">Lad</hi>, lad, I tell thee thou must not follow Ahab now.
 <ref target="#ref_18729">The hour is coming</ref>
 <note xml:id="ref_18729">The hour is coming: Compare “The hour is coming, and now is, when the dead shall hear the voice of the Son of God” (John 5.25, and echoed in 5.28).
 </note> when Ahab would not scare thee from him, yet <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1520306780520-n1qxppw93v9-d675969b0a75806c2d9c4244a7a6e133%2FMD_Amer_0625.jpg"/> would not have thee by him. There is that in thee, poor lad, which I feel too curing to my malady. <ref target="#ref_18728">Like cures like</ref>
