@@ -4,12 +4,12 @@
 		<fileDesc>
 			<titleStmt>
 			<title>Billy in the Darbies</title>
-			
-			
-					
+
+
+
 		</titleStmt>
 			<publicationStmt>
-		
+
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -18,30 +18,30 @@
 	</publicationStmt>
 			<sourceDesc><p/></sourceDesc>
 		</fileDesc>
-	</teiHeader>			
+	</teiHeader>
 		<text>
 			<body><div  id="billy-in-the-darbies"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0789.tif" tl_leaf="https://app.textlab.org/transcriptions/17619"/>
 <head>(Billy in the Darbies)</head>
 				<lg type="ballad">
-	<l>Good of the Chaplain to enter Lone Bay</l>  
-<l>And down on his marrow-bones here and pray</l>  
-<l>For the likes just o' me, Billy Budd.—But, look:</l>  
-<l>Through the port comes the moon-shine astray!</l> 
-<l>It tips the guard's <choice ><orig>cutlas</orig><reg>cutlass</reg></choice> and silvers this nook;</l>  
-<l>But 'twill die in the dawning of Billy's last day. </l>  
-<l>A jewel-block they'll make of me tomorrow,</l>   
-<l>Pendant pearl from the yard-arm-end</l>  
-<l>Like the ear-drop I gave to Bristol Molly— </l><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0791.tif" tl_leaf="https://app.textlab.org/transcriptions/17622"/>
-<l>O, 'tis me, not the sentence they'll suspend. </l> 
-<l>Ay, Ay, all is up; and I must up too</l>  
+	<l>Good of the Chaplain to enter Lone Bay</l>
+<l>And down on his marrow-bones here and pray</l>
+<l>For the likes just o' me, Billy Budd.—But, look:</l>
+<l>Through the port comes the moon-shine astray!</l>
+<l>It tips the guard's <choice ><orig>cutlas</orig><reg>cutlass</reg></choice> and silvers this nook;</l>
+<l>But 'twill die in the dawning of Billy's last day. </l>
+<l>A jewel-block they'll make of me tomorrow,</l>
+<l>Pendant pearl from the yard-arm-end</l>
+<l>Like the ear-drop I gave to Bristol Molly— <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0791.tif" tl_leaf="https://app.textlab.org/transcriptions/17622"/></l>
+<l>O, 'tis me, not the sentence they'll suspend. </l>
+<l>Ay, Ay, all is up; and I must up too</l>
 <l>Early in the morning, aloft from alow.</l>
-<l>On an empty stomach now never it would do.  </l> 
-<l>They'll give me a nibble—bit o' <choice ><orig>buiscit</orig><reg>biscuit</reg></choice> ere I go.</l>  
+<l>On an empty stomach now never it would do.  </l>
+<l>They'll give me a nibble—bit o' <choice ><orig>buiscit</orig><reg>biscuit</reg></choice> ere I go.</l>
 <l>Sure, a messmate will reach me the last parting cup;</l>
-<l>But, turning heads away from the hoist and the belay,</l>  
+<l>But, turning heads away from the hoist and the belay,</l>
 <l>Heaven knows who will have the running of me up!</l>
 <l>No pipe to those halyards.—But aren't it all sham?</l>
-<l>A blur's in my eyes; it is dreaming that I am. </l> 
+<l>A blur's in my eyes; it is dreaming that I am. </l>
 <l>A hatchet to my <choice ><orig>hauzer</orig><reg>hawser</reg></choice>? all adrift to go?</l> <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0793.tif" tl_leaf="https://app.textlab.org/transcriptions/17621"/>
 <l>The drum roll to grog, and Billy never know?</l>
 <l>But Donald he has promised to stand by the plank;</l>
@@ -50,10 +50,10 @@
 <l>I remember Taff the Welshman when he sank.</l>
 <l>And his cheek it was like the budding pink</l>
 <l>But me they'll lash me in hammock, drop me deep.</l> <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0795.tif" tl_leaf="https://app.textlab.org/transcriptions/17620"/>
-<l>Fathoms down, fathoms down, how I'll dream fast asleep. </l> 
+<l>Fathoms down, fathoms down, how I'll dream fast asleep. </l>
 <l>I feel it stealing now. Sentry, are you there? </l>
-<l>Just ease <choice ><orig>this</orig><reg><ref xmlns="http://www.tei-c.org/ns/1.0" target="#ref_30172">these</ref><note xmlns="http://www.tei-c.org/ns/1.0" xml:id="ref_30172">HM had "this iron," then "shackles," before settling on "darbies," but he neglected to modify "this" accordingly.</note></reg></choice> darbies at the wrist,</l> 
-<l>and roll me over fair,</l>  
+<l>Just ease <choice ><orig>this</orig><reg><ref xmlns="http://www.tei-c.org/ns/1.0" target="#ref_30172">these</ref><note xmlns="http://www.tei-c.org/ns/1.0" xml:id="ref_30172">HM had "this iron," then "shackles," before settling on "darbies," but he neglected to modify "this" accordingly.</note></reg></choice> darbies at the wrist,</l>
+<l>and roll me over fair,</l>
 <l>I am sleepy, and the oozy weeds about me twist.</l></lg></div></body>
 		</text>
 	</TEI>
