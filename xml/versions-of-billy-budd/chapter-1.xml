@@ -4,12 +4,8 @@
 		<fileDesc>
 			<titleStmt>
 			<title>Chapter 1</title>
-
-
-
 		</titleStmt>
 			<publicationStmt>
-
 			<publisher/>
 			<pubPlace/>
 			<date/>
@@ -20,7 +16,11 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="chapter-1"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0005.tif" tl_leaf="https://app.textlab.org/transcriptions/16900"/>
+			<body>
+				<div xml:id="chapter-1"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0005.tif" tl_leaf="https://app.textlab.org/transcriptions/16900"/>
+				<head type="main" rend="center">BILLY BUDD<lb/>SAILOR<lb/><ref target="#BB1Note1">(An inside narrative.)</ref>
+				<note xml:id="BB1Note1">(An inside narrative.): Late in his revision of <hi rend="italic">Billy Budd</hi>, sometime after March 2, 1889, HM inscribed his final title in pencil, in three lines, at the top of his first MS leaf: "Billy Budd / Sailor / An inside narrative.". He then enclosed the full title in circle, with the same pencil. Later, in darker pencil, he squeezed parentheses around "An inside narrative.", suggesting that the parenthetical phrase is a kind of aside to the reader. See also note for "(Billy in the Darbies)" below.</note></head>
+				<lb/>
 			<head>Chapter 1</head><lb/>
 
 <p><hi rend="bold">IN THE TIME BEFORE STEAMSHIPS</hi>, or then more frequently than now, a stroller along the docks of any considerable sea-port would occasionally have his attention arrested by a group of bronzed mariners, man-of-war's men or merchant-sailors in holiday attire ashore on liberty. In certain instances they would flank, or, like a body-guard quite surround <ref target="#ref_30290">some superior figure</ref><note xml:id="ref_30290">some superior figure] Originally, HM wrote "some one signal figure" but then, in coordination with revisions at "signal object" below, revised to "superior figure." Click on the associated MS leaf thumbnail, and then click on the Revision Narratives explaining Melville's revisions at this site.</note> of their own class<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0007.tif" tl_leaf="https://app.textlab.org/transcriptions/16901"/>, moving along with them like Aldebaran among the lesser lights of his constellation. That <ref target="#ref_28912">signal object</ref><note xml:id="ref_28912">signal object] In earlier versions of this phrase, HM called the Handsome Sailor a "signal figure," and "shining figure," and then "shining object," before settling on "signal object."  Click on the associated MS leaf thumbnail, and then click on the Revision Narratives explaining Melville's revisions at this site.</note> was the "Handsome Sailor" of the less prosaic time alike of the military and merchant navies. With no perceptible trace of the vainglorious about him, rather with the off-hand unaffectedness of natural regality, he seemed to accept the spontaneous homage of his shipmates. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0009.tif" tl_leaf="https://app.textlab.org/transcriptions/16902"/></p>
