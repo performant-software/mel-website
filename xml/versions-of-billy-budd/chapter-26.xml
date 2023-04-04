@@ -20,7 +20,8 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="chapter-26"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0735.tif" tl_leaf="https://app.textlab.org/transcriptions/17632"/> <lb/>
+			<body><div xml:id="chapter-26">
+				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0735.tif" tl_leaf="https://app.textlab.org/transcriptions/17632"/> <lb/>
 			<head>Chapter 26</head><lb/>
 				<p xmlns="http://www.tei-c.org/ns/1.0"><hi rend="italic">A digression</hi></p>
 
