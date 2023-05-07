@@ -86,6 +86,7 @@
 <p>“And whereas all the other things, whether beast or vessel, that enter into the dreadful gulf of this monster’s (whale’s) mouth, are immediately lost and swallowed up, the sea-gudgeon retires into it in great security, and there sleeps.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:241" type="person"><hi rend="smallcaps">Montaigne</hi></name>.<hi rend="italic">—Apology for Raimond Sebond.</hi></p>
 <lb/>
+
 <p>“Let us fly, let us fly! Old Nick take me if it is not Leviathan described by the noble prophet Moses in the life of patient <name ref="https://mel-catalog.herokuapp.com/api/entries/text:105" type="person">Job</name>.”</p>	<p><name ref="https://mel-catalog.herokuapp.com/api/entries/person:242" type="person"><name ref="https://mel-catalog.herokuapp.com/api/entries/text:117" type="text"><hi rend="italic">Rabelais</hi></name></name>.</p>
 <lb/>
 <p>“This whale’s liver was two cart-loads.”</p>
@@ -103,6 +104,7 @@
 <p>“Very like a whale.”</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:123" type="text"><hi rend="italic">Hamlet</hi></name>.</p>
 <lb/>
+<p>
 <lg>
 <l rend="4em">“Which to secure, no skill of leach’s art</l>
 <l rend="4em">Mote him availle, but to returne againe</l>
@@ -110,6 +112,7 @@
 <l rend="4em">Dinting his breast, had bred his restless paine,</l>
 <l rend="4em">Like as the wounded whale to shore flies thro’ the maine.”</l>
 </lg>
+</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:124" type="text"><hi rend="italic">The Fairie Queen</hi></name>.</p>
 <lb/>
 <p>“Immense as whales, the motion of whose vast bodies can in a peaceful calm trouble the ocean till it boil.”</p>
@@ -134,13 +137,17 @@
 <lb/>
 <p>“Silly Mansoul swallowed it without chewing, as if it had been a sprat in the mouth of a whale.”	<ref target="#ref_19461"><hi rend="bold">Pilgrim’s Progress</hi></ref><note xml:id="ref_19461">REVISION NARRATIVE: Quotation, Source, and Attribution // <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:131">Pilgrim's Progress</ref> is <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/person:255">John Bunyan</ref>'s 1678 Christian allegory; however, Melville's quoted passage is actually from Bunyan's <ref type="reference" target="https://mel-catalog.herokuapp.com/api/entries/text:132">The Holy War</ref> (1682), which Melville drew upon from the slightly reworded version from The Holy War quoted by Henry Cheever in his Whale and His Captors. The American edition incorrectly attributes the passage to Bunyan’s Pilgrim’s Progress, whereas the British edition correctly attributes it to The Holy War. Melville may have made the correction himself in the proofs he sent to England, or an alert editor may have caught the mistake. The editors of the NN Moby-Dick emend the attribution to The Holy War; however, in keeping with its policy of not correcting Melville’s errors of fact, MEL retains Pilgrim’s Progress, calling attention to the error through textual annotation. To compare American and British pages, click the thumbnails in the right margin.</note>. <pb facs="/images/md-british-v3/MD_Brit_v3_0330.jpg"/>
 </p>
-<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431212353470-hm13lzp9cor-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0027.jpg"/><lg>
+<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431212353470-hm13lzp9cor-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0027.jpg"/>
+<p>
+<lg>
 <l rend="4em">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;“That sea beast</l>
 <l rend="4em">Leviathan, which God of all his works</l>
 <l rend="4em">Created hugest that swim the ocean stream.”</l>
 </lg>
+</p>
 <p><name ref="https://mel-catalog.herokuapp.com/api/entries/text:133" type="text"><hi rend="italic">Paradise Lost</hi></name>.</p>
 <lb/>
+<p>
 <lg>
 <l rend="4em">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;—— “There Leviathan,</l>
 <l rend="4em">Hugest of living creatures, in the deep</l>
@@ -148,7 +155,9 @@
 <l rend="4em">And seems a moving land; and at his gills</l>
 <l rend="4em">Draws in, and at his breath spouts out a sea.”</l>
 	</lg>
-<p><ref target="#MDextractsNote5"><hi rend="italic"><hi rend="bold">Ibid</hi></hi></ref><note xml:id="MDextractsNote5">REVISION NARRATIVE: Extract and Epigraph // <hi rend="bold">Ibid.</hi> is the standard but now rarely used Latin abbreviation in bibliography for "ibidem" that refers the reader to the previously cited source, in this case Milton's Paradise Lost. In this second passage (from Book VII, lines 412–16), Melville revised Milton: he gives “<hi rend="bold">in</hi> the deep” instead of Milton’s original "<hi rend="bold">on</hi> the deep” (although this may be a typo) and “his <hi rend="bold">breath</hi> spouts out a sea” instead of Milton’s “his <hi rend="bold">trunk</hi> spouts out a sea.” Both changes, neither one corrected by British editors, may reflect Melville’s scorn (addressed in Ch. 55) for erroneous renderings of whales, which, of course, do not have “trunks” nor sleep “on” the deep. Melville’s British editor used Melville’s modified passage as an epigraph appearing on the title page of each of the British edition’s three volumes. The American edition has no epigraph. To view Melville’s Miltonic passage as both Extract and Epigraph, click the thumbnails in the right margin.</note>. <pb facs="/images/md-british-v1/MD_Brit_v1_0012.jpg"/>
+</p>
+
+<p><ref target="#MDextractsNote5"><hi rend="italic"><hi rend="bold">Ibid</hi></hi></ref><note xml:id="MDextractsNote5">REVISION NARRATIVE: Extract and Epigraph // <hi rend="bold">Ibid.</hi> is the standard but now rarely used Latin abbreviation in bibliography for "ibidem" that refers the reader to the previously cited source, in this case Milton's <hi rend="italic">Paradise Lost</hi>. In this second passage (Book VII, ll. 412–16), Melville revised Milton: he gives “<hi rend="bold">in</hi> the deep” instead of Milton’s original "<hi rend="bold">on</hi> the deep” (although this may be a typo) and “his <hi rend="bold">breath</hi> spouts out a sea” instead of Milton’s “his <hi rend="bold">trunk</hi> spouts out a sea.” Both changes, neither one corrected by British editors, may reflect Melville’s scorn (addressed in Ch. 55) for erroneous renderings of whales, which, of course, do not have “trunks” nor sleep “on” the deep. Melville’s British editor used Melville’s modified passage as an epigraph appearing on the title page of each of the British edition’s three volumes. The American edition has no epigraph. To view Melville’s Miltonic passage as both Extract and Epigraph, click the thumbnails in the right margin.</note>. <pb facs="/images/md-british-v1/MD_Brit_v1_0012.jpg"/>
 </p>
 <lb/>
 <p>“The mighty whales which swim in a sea of water, and have a sea of oil swimming in them.”</p>
