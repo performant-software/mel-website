@@ -499,19 +499,24 @@ This misattribution aside, Melville borrowed his extract not from Bunyan but ind
 <lb/>
 
 <p>October 13. “There she blows,” was sung out from the mast-head.</p>
-<p>“Where away?” demanded the captain.</p>
-<p>“Three points off the lee bow, sir.”</p>
-<p>“Raise up your wheel. Steady!”</p>
-<p>“Steady, sir.”</p>
-<p>“Mast-head ahoy! Do you see that whale now?”</p>
-<p>“Ay ay, sir! A shoal of Sperm Whales! There she blows! There she breaches!”</p>
-<p>“Sing out! sing out every time!”</p>
-<p>“Ay ay, sir! There she blows! there—there—thar she blows—bowes—bo-o-o-s!”</p>
-<p>“How far off?”</p>
-<p>“Two miles and a half.”</p>
-<p>“Thunder and lightning! so near! Call all hands!”</p>
-<p><hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:239" type="person"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:958" type="artwork">J. Ross Browne</name></name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:115" type="text">Etchings of a Whaling Cruize</name>. 1846.</hi></p>
+<lg>
+<l rend="4em">“Where away?” demanded the captain.</l>
+<l rend="4em">“Three points off the lee bow, sir.”</l>
+<l rend="4em">“Raise up your wheel. Steady!”</l>
+<l rend="4em">“Steady, sir.”</l>.
+<l rend="4em">“Mast-head ahoy! Do you see that whale now?”</l>
+<l rend="4em">“Ay ay, sir! A shoal of Sperm Whales! There she blows! There she breaches!”</l>
+<l rend="4em">“Sing out! sing out every time!”</l>
+<l rend="4em">“Ay ay, sir! There she blows! there—there—thar she blows—bowes—bo-o-o-s!”</l>
+<l rend="4em">“How far off?”</l>
+<l rend="4em">“Two miles and a half.”</l>
+<l rend="4em">“Thunder and lightning! so near! Call all hands!”</l>
+</lg>
+<p rend="center">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
+<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:239" type="person"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:958" type="artwork">J. Ross Browne</name></name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:115" type="text">Etchings</name></hi>
+<hi rend="italic">of a Whaling Cruize. 1846.</hi></p>
 <lb/>
+
 <p>“The Whale-ship Globe, on board of which vessel occurred the horrid transactions we are about to relate, belonged to the island of Nantucket.”</p>
 <p><hi rend="italic">“<name ref="https://mel-catalog.herokuapp.com/api/entries/text:185" type="text">Narrative of the Globe Mutiny</name>,” by Lay and Hussey survivors. A. D. 1828.</hi></p>
 <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1431213023618-35d415uv3xt-f4677a0452eaecc0b72412ff0846d2ad%2F000005737_0034.jpg"/>
