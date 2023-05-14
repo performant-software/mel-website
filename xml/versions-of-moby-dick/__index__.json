@@ -140,6 +140,7 @@
         "134-the-chase-second-day.xml",
         "135-the-chase-third-day.xml",
         "epilogue.xml",
-        "glossary.xml"
+        "glossary.xml",
+        "changes.xml"
     ]
 }
