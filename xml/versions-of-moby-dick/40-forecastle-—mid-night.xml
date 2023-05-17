@@ -57,7 +57,11 @@ Oh, boys, don’t be sentimental; it’s bad for the digestion! Take a tonic, fo
 </lg>
 </p><p xmlns="http://www.tei-c.org/ns/1.0" rend="center">MATE’S VOICE FROM THE QUARTER-DECK.
 </p><p xmlns="http://www.tei-c.org/ns/1.0">
-<ref target="#ref_16599"><ref type="reference" target="glossary#bells"><w xml:id="bells">Eight bells</w></ref></ref><note xml:id="ref_16599">Eight bells: midnight.</note> there, forward!
+<ref target="#ref_16599">
+<ref type="reference" target="glossary#bells">
+	<w xml:id="bells">Eight bells</w>
+</ref></ref>
+<note xml:id="ref_16599">Eight bells: midnight.</note> there, forward!
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0" rend="center"><hi rend="smallcaps">2d</hi> NANTUCKET SAILOR.
 </p><p xmlns="http://www.tei-c.org/ns/1.0">
