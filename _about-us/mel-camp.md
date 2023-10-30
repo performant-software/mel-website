@@ -20,7 +20,7 @@ Periodically, MEL associates gather, usually at Hofstra University, for a day-lo
 
 ![Editors](/images/mel_scholars_group2013_lg.jpg)  
   
-_Front row (left to right):_  Joe Meyer, Kit Ohge, Haskell Springer, Dennis Berthold, Steven Olsen-Smith, Laura Lopez Pena, Ayse Gursoy,  
+_Front row (left to right):_  Joe Meyer, Christopher Ohge, Haskell Springer, Dennis Berthold, Steven Olsen-Smith, Laura Lopez Pena, Ayse Gursoy,  
 Mary K. Bercaw Edwards, John Bryant, Nick Laiacona, and Joaquin Terrones.  
 _Second row (left to right):_  Tony McGowan, Bob Madison, John Walsh, Mary Isbell, Wyn Kelley, Jack Wenke, Tim Marr, Chris Sten,  
 Dawn Coleman, Bob Wallace, Kevin Pechin, Brian Yothers, and Brian Ferris.
