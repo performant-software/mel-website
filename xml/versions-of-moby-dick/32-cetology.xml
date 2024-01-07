@@ -20,7 +20,8 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xml:id="ch32-cetology"><p xmlns="http://www.tei-c.org/ns/1.0">
+			<body>
+				<div xml:id="ch32-cetology"><p xmlns="http://www.tei-c.org/ns/1.0">
 				<pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471112268228-0x7o3nxcde1-1a5f181336d4d5004a06640186030b4a%2FMD_Amer_0181.jpg"/>
 				<head type="main" rend="center">Chapter 32</head> <lb/>
 				<head type="sub-head" rend="center">CETOLOGY.</head>
