@@ -20,16 +20,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body>
-<<<<<<< Updated upstream
-				<div xml:id="ch54-the-town-hos-story"><p xmlns="http://www.tei-c.org/ns/1.0"> <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210189673-tqdt53zcmh-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0306.jpg"/>
-=======
-<<<<<<< HEAD
-				<div xml:id="ch54-the-town-hos-story"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210189673-tqdt53zcmh-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0306.jpg"/>
-=======
-				<div xml:id="ch54-the-town-hos-story"><p xmlns="http://www.tei-c.org/ns/1.0"> <pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210189673-tqdt53zcmh-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0306.jpg"/>
->>>>>>> nl/staging
->>>>>>> Stashed changes
+			<body><div xml:id="ch54-the-town-hos-story"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://dave-uploads-juxtaeditions.s3.amazonaws.com/uploads%2F1471210189673-tqdt53zcmh-38ba017a1459046b9d2e57ecabffd50d%2FMD_Amer_0306.jpg"/>
 
 			<head type="main" rend="center"><ref target="#ref_20000">CHAPTER 54</ref></head>
 			<lb/>
