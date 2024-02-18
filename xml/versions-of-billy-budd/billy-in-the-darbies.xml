@@ -25,8 +25,9 @@
 				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0789.tif" tl_leaf="https://app.textlab.org/transcriptions/17619"/>
 				<lb/>
 <head>(<ref target="#BBdarbiesNote1">Billy in the Darbies</ref>)</head><note xml:id="BBdarbiesNote1">(Billy in the Darbies): The poem's title appears in two forms: underlined (and presumably italicized) at the end of the last leaf of Chapter 30 and in parentheses at the top of the first leaf of the poem. Past editors have uniformly printed the title without formating; MEL follows the parenthetical version. The "ballad," as it is called in Chapter 30, is a dramatic monologue, fair-copied in ink in HM's hand, with revisions in pencil. As the words "End of Book / April 19th 1891"—inscribed also in pencil at the bottom of the poem's final leaf—indicate, these pencilings are among HM's last revisions, some incomplete and all performed less than six months before his death. The parenthesized title, tucked in the upper right hand corner of the poem's first leaf, is also a late revision, itself triggered by revisions to the third to last line of the poem. There, in revising "this iron" to "this shackles" to "this darbies" (see note below), HM surely got the idea for the title of his poem. This revision to the poem may have also triggered HM's composition entirely in pencil of Chapter 30, a new prose introduction to the ballad (see "title" in Ch. 30). HM's placing parentheses around the poem title also corresponds to the same formatting for the novella's subtitle, "(An inside narrative.)"; see "Billy Budd Sailor" in Chapter 1. Melville's bookend parentheticals—in the titles for the novella at the beginning and for the poem at the end—are compositional and biocritical: they help us date his final revisions; they suggest how HM deployed modes of "indirection" in the framing of his narrative even at the level of punctuation.</note>
-				<lg type="ballad">
-	<l>Good of the Chaplain to enter Lone Bay</l>
+<p xmlns="http://www.tei-c.org/ns/1.0">
+<lg type="ballad">
+<l>Good of the Chaplain to enter Lone Bay</l>
 <l>And down on his marrow-bones here and pray</l>
 <l>For the likes just o' me, Billy Budd.—But, look:</l>
 <l>Through the port comes the moon-shine astray!</l>
@@ -58,6 +59,8 @@
 <l>Just ease <ref xmlns="http://www.tei-c.org/ns/1.0" target="#ref_30172">these darbies</ref><note xmlns="http://www.tei-c.org/ns/1.0" xml:id="ref_30172">these darbies: HM's last minute revisions to this phrase also triggered the title of the poem, displayed in parentheses at the top of the poem's first leaf: "(Billy in the Darbies)"; see note above. Initially, in the fair-copied poem, HM had settled on the line "Just ease this iron at the wrist,". However, he revised "iron" to "shackles" and then again to "darbies" (slang for handcuffs), which he circled in pencil, but he neglected to modify "this" to the plural "these." MEL emends the incomplete revision to "these darbies."</note> at the wrist,</l>
 <l><ref target="#BBdarbiesNote2">and roll me over fair</ref><note xml:id="BBdarbiesNote2">and roll me over fair: Initially in fair copy, HM had settled on "Ease it, and roll me over fair" with "Ease it" referring to "this iron" (i.e. handcuff) in the preceding line. However, in revising "iron" to "darbies" (see note above), he also canceled "Ease it" in this line, without capitalizing "and," which would signal the start of a new line of verse. This oversight poses problems for editors, especially with regard to the versification of the poem's final lines. If an editor were to add the shortened line to the previous line, the effective "wrist" / "twist" rhyme would be buried; if "and" is capitalized (as all other editions have it) the shortened three-beat line would appear inconsistent with the poem's four and five-beat meter. Neither editorial solution is viable, especially since Melville could have pursued any number of revision strategies in resolving the problem, were it not for his failing health. MEL leaves the line as it appears in MS, on its own and without capitalization, as a reminder of the incompleteness of Melville's final work.</note>,
 </l>
-<l>I am sleepy, and the oozy weeds about me twist.</l></lg></div></body>
+<l>I am sleepy, and the oozy weeds about me twist.</l>
+</lg></p>
+</div></body>
 		</text>
 	</TEI>
