@@ -25,12 +25,11 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div xml:id="chapter-6">
+			<div xml:id="chapter-6"><p xmlns="http://www.tei-c.org/ns/1.0">
 				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0173.tif" tl_leaf="https://app.textlab.org/transcriptions/15592"/> <lb/>
-				<head>Chapter 6</head>
-				<lb/>
+				<head type="main">CHAPTER 6</head>
 
-				<p xmlns="http://www.tei-c.org/ns/1.0">But on board the seventy-four in which Billy now swung
+			</p><p xmlns="http://www.tei-c.org/ns/1.0">But on board the seventy-four in which Billy now swung
 				his hammock, very little in the manner of the men and nothing obvious in the
 				demeanor of the officers would have suggested to an ordinary observer that the Great
 				Mutiny was a recent event. In their general bearing and conduct the commissioned
