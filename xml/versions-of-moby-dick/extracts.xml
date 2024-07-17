@@ -660,7 +660,7 @@ In the second passage — from vol. 1, ch. 6, “A Sketch of the Zoology of the 
 <l>“Raise up your wheel. Steady!”</l>
 <l>“Steady, sir.”</l>
 <l>“Mast-head ahoy! Do you see that whale now?”</l>
-<l>“Ay ay, sir! A shoal of Sperm Whales! There she blows! There she breaches!”</l>
+<l>“Ay ay, sir! A <hi rend="bold">shoal</hi> of Sperm Whales! There she blows! There she breaches!”</l>
 <l>“Sing out! sing out every time!”</l>
 <l>“Ay ay, sir! There she blows! there—there—thar she blows—bowes—bo-o-o-s!”</l>
 <l>“How far off?”</l>
@@ -671,9 +671,13 @@ In the second passage — from vol. 1, ch. 6, “A Sketch of the Zoology of the 
 <p>
 <lg>
 <l rend="center">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
-<hi rend="italic"><name ref="https://mel-catalog.herokuapp.com/api/entries/person:239" type="person"><name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:958" type="artwork">J. Ross Browne</name></name>’s <name ref="https://mel-catalog.herokuapp.com/api/entries/text:115" type="text">Etchings</name></hi></l>
+<ref target="#MDextractsNote74"><hi rend="italic">J. Ross Browne’s Etchings</hi></ref></l>
 <l rend="center">&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;
-<hi rend="italic">of a Whaling Cruize. 1846.</hi></l>
+<ref target="#MDextractsNote74"><hi rend="italic">of a Whaling <hi rend="bold">Cruize</hi>. 1846.</hi></ref></l>
+<note xml:id="MDextractsNote74"><hi rend="italic">J. Ross Browne’s Etchings of a Whaling Cruize. 1846</hi>: </note>
+<name ref="https://mel-catalog.herokuapp.com/api/entries/person:239" type="person"></name>
+<name ref="https://mel-catalog.herokuapp.com/api/entries/artwork:958" type="artwork"></name>
+<name ref="https://mel-catalog.herokuapp.com/api/entries/text:115" type="text"></name>
 </lg>
 </p>
 <lb/>
