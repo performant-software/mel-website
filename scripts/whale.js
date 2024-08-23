@@ -67,6 +67,11 @@ function mirrorDirs(sourcePath, targetPath) {
     }
 }
 
+async function addBBEditionCrafterPage() {
+    const html = fs.readFileSync("scripts/billy-budd-ms.html", "utf8")
+    fs.writeFileSync("editions/versions-of-billy-budd/billy-budd-ms.html", html, "utf8")
+}
+
 async function processDocs(sourceDocsPath, targetPath) {
     // clear out target and match directory structure with source
     mirrorDirs(sourceDocsPath, targetPath)
@@ -107,6 +112,7 @@ async function run() {
     await processDocs('xml/versions-of-billy-budd','editions/versions-of-billy-budd')
     await processDocs('xml/battle-pieces','editions/battle-pieces')
     await processDocs('xml/versions-of-moby-dick','editions/versions-of-moby-dick')
+    await addBBEditionCrafterPage()
 }
 
 function main() {

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css"/>
+    </head>
+    <body>
+        <div id="floating-window-container"></div>
+        <div id="grid-container">
+            <div id="header">
+                <h1>Melville Electronic Library</h1>
+                <p><a href="/editions.html">Melville Electronic Library</a> >> Versions of Billy Budd >> Manuscript </p>
+            </div>
+            <div id="content" style="margin: 10px;">
+                <div id="ec"></div>
+	        </div>
+            <div id="footer"></div>
+        </div>
+    </body>
+    <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" ></script>
+               
+    <script type="text/javascript">               
+        EditionCrafter.viewer({
+            id: 'ec',
+            documentName: 'BnF Ms. Fr. 640',
+            iiifManifest: 'https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/iiif/manifest.json',
+            glossaryURL: 'https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json',
+            transcriptionTypes: {
+              tc: 'Diplomatic (FR)',
+              tcn: 'Normalized (FR)',
+              tl: 'Translation (EN)'
+            }
+        });               
+    </script>
+</html>
