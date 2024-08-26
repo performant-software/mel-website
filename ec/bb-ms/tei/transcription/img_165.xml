@@ -1,0 +1,27 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_165"/>
+<ab>
+  <!-- Add Hand atts to Metamark in 163, too -->
+<add facs="#img_165-0010" rend="clip" place="inline" hand="#HM" change="#StBb">
+<metamark place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="StDa" facs="#img_165-0001">46</metamark>
+<metamark place="margin(top)" function="folio" rend="no-caret _Cg" change="StBb" facs="#img_165-0002"><del rend="multi-stroke" hand="#HM" facs="#img_165-0002">17</del></metamark>
+<metamark place="margin(top)" function="folio" rend="bubble _Cg" change="StBb" facs="#img_165-0003"><del rend="single-stroke" hand="#HM" facs="#img_165-0003"><hi rend="bubble">4</hi></del></metamark>
+<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="StEb" facs="#img_165-0005"><del rend="single-stroke" hand="#HM" change="StEb" facs="#img_165-0005">80</del></metamark>
+<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" facs="#img_165-0006"><add place="below" rend="no-caret _HMp" hand="#RW" facs="#img_165-0006"><hi rend="bubble">57</hi></add></metamark>
+<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_165-0016">70</metamark>
+Discontent foreran the Two
+  <lb/>Mutinies, and more or less it lurkingly
+  <lb/>survived them. Hence it was not
+  <lb/>unreasonable to apprehend some
+  <lb/>return of trouble sporadic or general.
+  <lb/><del facs="#img_165-0007" rend="multi-stroke" hand="#ink1r" change="#StBb">An</del> One instance of such apprehensions:</add>
+ <add facs="#img_165-0017" rend="mount" place="inline" hand="#HM" change="#StBc"> <lb/>In the <del facs="#img_165-0011" rend="single-stroke" hand="#ink1r" change="#StBc">latter part of the</del> same year with
+  <lb/>this <metamark facs="#img_165-0012" place="inline" function="caret" change="#StBc" rend="#ink1r">^</metamark><add facs="#img_165-0013" rend="caret" place="above" hand="#ink1r" change="#StBc">story,</add> <del facs="#img_165-0014" rend="single-stroke" hand="#ink1r" change="#StBc">or thereabouts,</del> Nelson, then <del facs="#img_165-0015" rend="multi-stroke" type="false-start" hand="#ink1r" change="#StBc">V</del>
+  <lb/>Vice Admiral Sir Horatio, being with
+  <lb/>the fleet off the Spanish coast, was
+  <lb/>directed by the Admiral in command
+  <lb/>to shift his pennant from the
+  <lb/><hi rend="underline">Captain</hi> to the <hi rend="underline">Theseus</hi>; and for
+  <lb/>this reason: that the latter ship
+  <lb/>having newly</add>
+</ab>
+</div></body></text>

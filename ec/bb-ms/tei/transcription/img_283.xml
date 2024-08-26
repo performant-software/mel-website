@@ -1,0 +1,26 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_283"/>
+<ab>
+<metamark facs="#img_283-0001" rend="no-caret _Cg" place="margin(top) margin(left)" function="folio" change="#StDa">80</metamark> <metamark facs="#img_283-0003" place="margin(top)" function="folio" change="#StBc" rend="no-caret _Cg">31</metamark>
+<metamark facs="#img_283-0004" place="margin(top)" function="folio" change="#StBca" rend="no-caret _Cg"><add facs="#img_283-0004" rend="bubble" place="inline"><subst facs="#img_283-0004"><del facs="#img_283-0004" rend="overwritten _Cg" type="superimposed" hand="#HM">2</del><add facs="#img_283-0004" rend="superimposed" type="superimposed" hand="#Cg">5</add></subst></add></metamark>
+
+  <metamark facs="#img_283-0008" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add facs="#img_283-0008" rend="bubble _Cr" place="below" hand="HM" change="#StEc">2</add></metamark>
+  <metamark facs="#img_283-0006" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEb"><add rend="_Cr" place="inline" hand="#HM" change="#StEb">125</add></metamark>
+<metamark facs="#img_283-0009" rend="no-caret _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_283-0009" rend="bubble" place="below" hand="#RW">105</add></metamark>
+<metamark facs="#img_283-0019" place="margin(bottom) margin(left)" function="folio" rend="#HT _HMp">117</metamark>
+<metamark facs="#img_283-0029" rend="#HM _HMp" place="inline" function="caret" change="#StBca">^</metamark> <del facs="#img_283-0032" rend="single-stroke _HMp" hand="#HM" change="#StBcb"><restore facs="#img_283-0032" change="#StBc"><del facs="#img_283-0032" rend="single-stroke _HMp" hand="#HM"><hi rend="restoration">true.</hi></del></restore></del><del facs="#img_283-0048" rend="single-stroke _HMp" hand="#HM" change="#StBc"><add facs="#img_283-0048" rend="caret" place="above _HMp" hand="#HM" change="#StBca">That was</add></del> <del facs="#img_283-0049" rend="single-stroke _HMp" hand="#HM" change="#StBca"><add facs="#img_283-0049" rend="no-caret _HMp" place="above" hand="#HM" change="#StBca">so</add></del><del facs="#img_283-0035" rend="single-stroke _HMp" hand="#HM" change="#StBcb">And not very long afterwards</del>
+  <lb/> <del facs="#img_283-0041" rend="single-stroke _HMp" hand="#HM" change="#StBcb">a little</del><del facs="#img_283-0027" rend="single-stroke _HMp" hand="#HM" change="#StBca"><add facs="#img_283-0027" rend="no-caret _HMp" place="above" hand="#HM" change="#StBca">apparent</add></del> <del facs="#img_283-0041" rend="single-stroke _HMp" hand="#HM" change="#StBcb">incident confirmed</del><del facs="#img_283-0028" rend="single-stroke _HMp" hand="#HM" change="#StBca"><add facs="#img_283-0028" rend="no-caret _HMp" place="above" hand="#HMp" change="#StBca">Billy's word.</add></del> <del facs="#img_283-0047" rend="single-stroke" hand="#HM" change="#StB"><restore facs="#img_283-0047" change="#StBca"><del facs="#img_283-0047" rend="single-stroke _HMp" hand="#HM"><hi rend="restoration">it.</hi></del></restore></del> The
+  <lb/>ship at noon going large before the
+  <lb/>wind was rolling on her course<add facs="#img_283-0050" rend="no-caret _ink1" place="inline" hand="#HM" change="#StEb">,</add>
+  <lb/>and <del facs="#img_283-0044" rend="single-stroke _HMp" hand="#HM" change="#StBcb">the <subst facs="#img_283-0051"><del facs="#img_283-0051" rend="overwritten _ink1" type="superimposed" hand="#HM">foretopman</del><add facs="#img_283-0051" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StBca">Foretopman</add></subst> being</del><add facs="#img_283-0023" rend="no-caret _HMp" place="above" hand="#HM" change="#StBcb">he</add> below at
+  <lb/>dinner and engaged in some sportful
+  <lb/>talk with the members of his mess,
+  <lb/>chanced in a sudden lurch to spill
+  <lb/>the entire contents of his soup-pan
+  <lb/>upon the <metamark facs="#img_283-0012" rend="#HM _HMp" place="inline" function="caret" change="#StBcb">^</metamark> <add facs="#img_283-0014" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">new</add> scrubbed deck. <metamark facs="#img_283-0013" rend="#HM _HMp" place="inline" function="caret" change="#StBcb">^</metamark> <add facs="#img_283-0022" rend="no-caret _HMp" place="above" hand="#HM" change="#StBcb">Claggart,</add> The Master-at-
+  <lb/>arms, official rattan in hand,
+  <lb/>happened to be passing along the
+  <lb/>battery <del facs="#img_283-0020" rend="single-stroke _ink1" hand="#HM" change="#StBcb">there</del> in a bay of which the mess
+  <lb/>was lodged, and the greasy liquid
+  <lb/>streamed just across his path. <del facs="#img_283-0016" rend="single-stroke _ink1" hand="#HM" change="#StBcb">He</del>
+  <lb/>Stepping over it, he was proceeding
+</ab></div></body></text>

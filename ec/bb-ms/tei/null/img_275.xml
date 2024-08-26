@@ -1,0 +1,23 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_275"/>
+<ab>
+<metamark facs="#img_275-0002" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc">123</metamark>
+<metamark facs="#img_275-0001" rend="#RW" place="margin(top) margin(right)" function="folio"><add facs="#img_275-0001" rend="bubble" place="inline" hand="#RW">101</add></metamark>
+<metamark facs="#img_275-0003" rend="no-caret _HMp" place="margin(bottom) margin(left)" function="folio">113</metamark>
+Well then, in his mysterious
+  <lb/>little difficulty going in quest of <add facs="#img_275-0008" rend="no-caret _ink1" place="above" hand="#HM" change="#StEc">the wrinkled one</add><del facs="#img_275-0009" rend="multi-stroke _HMp" hand="#HM" change="#StEc">this strange</del>
+  <lb/><del facs="#img_275-0004" rend="single-stroke _HMp" hand="#HM" change="#StEc">mentor</del>, Billy found <metamark facs="#img_275-0006" rend="#HM _ink1" place="inline" function="caret" change="#StEc">^</metamark><add facs="#img_275-0007" rend="caret _ink1" place="above" hand="#HM" change="#StEc">him</add> <subst facs="#img_275-0005"><del facs="#img_275-0005" rend="overwritten _ink1" type="superimposed" hand="#HM">on</del><add facs="#img_275-0005" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StEc">off</add></subst> duty in a dog-watch
+  <lb/>ruminating by himself seated on a
+  <lb/>shot-box of the upper gun-deck <metamark facs="#img_275-0010" rend="#HM _ink1" place="inline" function="caret" change="#StEc">^ </metamark><add facs="#img_275-0011" rend="caret _ink1" place="above" hand="#HM">now and then</add> surveying
+  <lb/>with a somewhat cynical regard
+  <lb/>certain of the <metamark facs="#img_275-0012" rend="#HM _HMp" place="inline" function="caret" change="#StEc">^</metamark> <add facs="#img_275-0014" rend="caret _HMp" place="above" hand="#HM" change="#StEc">more swaggering</add> promenaders there. Billy
+  <lb/>recounted his trouble, again wondering
+  <lb/>how it all happened. The salt seer
+  <lb/>attentively listened, accompanying the
+  <lb/><metamark facs="#img_275-0016" rend="#HM _HMp" place="inline" function="caret" change="#StEc">^ </metamark><add facs="#img_275-0015" rend="caret _HMp" place="above" hand="#HM" change="#StEc">foretopman's</add> recital with queer twitchings of his
+  <lb/>wrinkles and problematical little
+  <lb/>sparkles of his <del facs="#img_275-0018" rend="single-stroke _HMp" hand="#HM" change="#StEc">jet-black</del> <add facs="#img_275-0017" rend="no-caret _HMp" place="above" hand="#HM" change="#StEc">small ferret</add> eyes. Making
+  <lb/>an end of his story, <del facs="#img_275-0019" rend="multi-stroke _ink1" hand="#HM" change="#StEc">B</del> the foretopman
+  <lb/>asked, "And now<add facs="#img_275-0022" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEc">,</add> <add facs="#img_275-0020" rend="no-caret _HMp" place="above" hand="#HM" change="#StEc">Dansker,</add> <restore facs="#img_275-0021" change="#StEc"><del facs="#img_275-0021" hand="#HM"><hi rend="restoration">do tell</hi></del></restore> me what
+  <lb/>you think of it."
+</ab>
+</body></text>

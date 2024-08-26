@@ -1,0 +1,28 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_326"/>
+<ab>
+<metamark facs="#img_326-0002" rend="#HM _HMp" place="margin(top) margin(left)" function="section-divider">Billy Budd MS AM 188363</metamark>
+<metamark facs="#img_326-0003" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEef">143 </metamark>
+<metamark facs="#img_326-0004" rend="#HM _Co" place="margin(top) margin(right)" function="folio" change="#StEd"><del facs="#img_326-0004" rend="multi-stroke _Co" hand="#HM" change="#StEd">145</del></metamark>
+<metamark facs="#img_326-0005" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_326-0005" rend="bubble _HMp" place="below" hand="#RW">123</add></metamark>
+<metamark facs="#img_326-0001" rend="#ESM _HMp" place="margin(top)" function="composition-information">146 <hi rend="underline">red</hi> follows</metamark>
+<add facs="#img_326-0017" rend="no-caret _HMp" place="inline" hand="#HM" change="#Stp">
+  <lb/>Dark sayings are these, some will say.
+  <lb/>But why? Is it because they somewhat
+  <lb/>savor of of Holy Writ in its phrase
+ <lb/>"mystery of iniquity"?</add>
+
+ <lb/><metamark rend="_ink1" place="inline" function="composition-information"><hi rend="italic">[[The text in the bubble below has been transposed from Leaf Image 323.  To view its Diplomatic Transcription beside its corresponding leaf image, go to Leaf Image 323.]]</hi></metamark>
+ <lb/> <lb/><add facs="#img_323-0038" rend="patch _HMp" place="inline" hand="#HM" change="#Stp">
+<hi rend="bubble">If they do, <add facs="#img_323-0019" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">such savor <metamark facs="#img_323-0033" rend="#HM _HMp" place="inline" function="insertion-device" change="#Stp">/</metamark></add> <del facs="#img_323-0020" rend="single-stroke _HMp" hand="#HM" change="#Stp">it was unintended, but rather</del>
+  <lb/><del facs="#img_323-0021" rend="single-stroke _HMp" hand="#HM" change="#Stp">sought to be avoided</del> <del facs="#img_323-0022" rend="single-stroke _HMp" hand="#HM" change="#Stp">sought to be</del> <metamark facs="#img_323-0034" rend="#HM _HMp" place="inline" function="insertion-device" change="#Stp">/</metamark> was <del facs="#img_323-0023" rend="single-stroke _HMp" hand="#HM" change="#Stp"> not </del> <add facs="#img_323-0025" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">far enough from being</add> intended <metamark facs="#img_323-0035" rend="#HM _HMp" place="below" function="insertion-device" change="#Stp">^</metamark>
+  <lb/><del facs="#img_323-0029" rend="single-stroke _HMp" hand="#HM" change="#Stp">but was unavoidable.</del> <metamark facs="#img_323-0037" rend="#HM _HMp" place="above" function="insertion-device" change="#Stp">/</metamark> for little will it commend
+  <lb/><del facs="#img_323-0027" rend="single-stroke _HMp" hand="#HM" change="#Stp">them</del> <del facs="#img_323-0028" rend="single-stroke _HMp" hand="#HM" change="#Stp">the</del> these pages to many a reader of to-day.</hi></add>
+  <lb/>
+  <lb/>
+<add facs="#img_326-0016" rend="bubble _Cg" place="inline" hand="#HM" change="#Stp"><add facs="#img_326-0016" rend="no-caret _HMp" place="inline" hand="#HM" change="#Stp"><del facs="#img_326-0006" rend="single-stroke _HMp" hand="#HM" change="#Stp"><app><rdg resp="#MEL">This</rdg><rdg resp="#HS">The</rdg></app></del> The <metamark facs="#img_326-0007" rend="#HM _Cr" place="above" function="insertion-device" change="#Stp">^</metamark> point of <del facs="#img_326-0008" rend="single-stroke _HMp" hand="#HM" change="#Stp">this</del> <add facs="#img_326-0009" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">the present</add> story
+  <lb/>turning on the hidden <del facs="#img_326-0010" rend="single-stroke _HMp" hand="#HM" change="#Stp">of the</del> nature of the Master at
+  <lb/>Arms has necessitated <restore facs="#img_326-0011" change="#Stp"><del facs="#img_326-0011" hand="#HM"><hi rend="restoration">this</hi></del></restore> chapter<subst facs="#img_326-0015"><del facs="#img_326-0015" rend="overwritten _HMp" type="superimposed" hand="#HM">,</del><add facs="#img_326-0015" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#Stp">.</add></subst> <del facs="#img_326-0012" rend="single-stroke _HMp" hand="#HM" change="#Stp"><app><rdg resp="#MEL">And</rdg><rdg resp="#HS">and</rdg></app> now</del>
+  <lb/><del facs="#img_326-0013" rend="single-stroke _HMp" hand="#HM" change="#Stp">with an</del> <del facs="#img_326-0014" rend="single-stroke _HMp" hand="#HM" change="#Stp">and the character of it as well.</del></add></add>
+  <lb/><metamark facs="#img_326-0018" rend="#HM _Cr" place="margin(bottom)" function="section-divider" change="#StEeF"><hi rend="underline"></hi>//<hi rend="underline"></hi></metamark>
+</ab>
+</div></body></text>

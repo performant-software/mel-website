@@ -1,0 +1,16 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_3"/>
+<ab>
+<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_3-0014">1</metamark>
+<add place="inline" rend="no-caret _HMp" hand="#HM" change="Stp" facs="#img_3-0012">Dedicated
+  <lb/>to
+  <lb/>Jack Chace
+  <lb/>Englishman
+  <lb/>Wherever <del rend="single-stroke _HMp" hand="#HM" change="Stp" facs="#img_3-0003">he</del> <metamark place="inline" function="insertion-device" rend="caret _HMp" change="Stp" facs="#img_3-0002">^</metamark> <add place="margin(right)" rend="bubble _HMp" hand="#HM" change="Stp" facs="#img_3-0001">that great heart</add> may now be
+  <lb/>Here on earth or <metamark place="inline" function="caret" rend="caret _HMp" change="Stp" facs="#img_3-0004">^</metamark> <add place="above" rend="caret _HMp" hand="#HM" change="Stp" facs="#img_3-0005">harbored</add> in Paradise
+  <lb/>Captain of the Main-<subst facs="#img_3-0007"><del rend=" _HMp" hand="#HM" change="Stp" facs="#img_3-0007">top</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="Stp" facs="#img_3-0007">Top</add></subst> <metamark place="below" function="caret" rend="insertion-device _HMp" change="Stp" facs="#img_3-0011">^</metamark><lb/><add place="margin(bottom)" rend="bubble _HMp" hand="#HM" change="Stp" facs="#img_3-0010">in the year 1843</add>
+  <lb/>in <metamark place="inline" function="caret" rend="caret _HMp" change="Stp" facs="#img_3-0009">^</metamark> <del rend="single-stroke _HMp" hand="#HM" change="Stp" facs="#img_3-0008"><add place="margin(left)" rend="bubble _HMp" hand="#HM" change="Stp" facs="#img_3-0008">historic</add></del> the U. S. Frigate
+  <lb/>"United States"</add>
+  <lb/><metamark place="margin(bottom)" function="composition-information" rend="no-caret _HMp" change="Stp" facs="#img_3-0013"><add place="above" rend="no-caret _HMp" hand="#ESM" change="Stp" facs="#img_3-0013">For Billy Budd</add></metamark>
+  <lb/>
+
+</ab></body></text>

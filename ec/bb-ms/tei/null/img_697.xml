@@ -1,0 +1,25 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_697"/>
+<ab>
+<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" facs="#img_697-0001">292</metamark><!-- @hand="#RW" -->
+  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_697-0022">302</metamark><!-- @hand="#HT" -->
+  flickering splashes of dirty yellow
+  <lb/>light they pollute the pale moonshine
+  <lb/>all but ineffectually struggling in
+  <lb/>obstructed flecks thro the open ports
+  <lb/>from which the tompioned cannon
+  <lb/>protrude. Other <subst facs="#img_697-0002"><del rend="overwritten _HMp" hand="#ESM" change="StFa" facs="#img_697-0002">lanthorns</del><add place="inline" rend="overwritten _HMp" hand="#ESM" change="StFa" facs="#img_697-0002">lanterns</add></subst><!-- NN says ESM made the change in the previous instance of the same word on leaf 301 but here they don't specify. I think it's ESM again. JB: Good point, but also it's mended in ink here, so I think it's more likely HM--> at intervals
+  <lb/>serve but to bring out somewhat
+  <lb/>the obscurer bays which like small
+  <lb/><metamark place="below" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_697-0006">65</metamark><!-- @hand="#HM" --> confessionals or side-chapels <add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_697-0004">in a cathedral</add><metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_697-0003">^</metamark><!-- @hand="#HM" --> branch
+  <lb/>from the long dim-vistaed <add place="above" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_697-0005">broad-</add>aisle
+  <lb/>between the two batteries of that <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_697-0007">^</metamark><!-- @hand="#HM" --><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_697-0008">covered</add> <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_697-0009">deck.</del> <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_697-0010">tier.</add>
+  <lb/>Such was the deck where
+  <lb/>now lay the Handsome Sailor. Through
+  <lb/><add place="inline" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_697-0024">the</add> rose-tan of his complexion, <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_697-0011">in part</del>
+  <lb/><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_697-0012">a weather-stain</del><!-- delete the comma too? -->, no <subst facs="#img_697-0013"><del rend="overwritten _HMp" hand="#HM" change="StFa" facs="#img_697-0013">palor</del><add place="inline" rend="overwritten _HMp" hand="#HM" change="StFa" facs="#img_697-0013">pallor</add></subst> could have
+  <lb/>shown. It would have <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_697-0014">^</metamark><!-- @hand="#HM" --><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_697-0015">taken</add> days of
+  <lb/>sequestration from the winds and the
+  <lb/>sun to have brought about the effacement <metamark place="inline" function="insertion-device" rend="insertion-device _ink1" change="StFa" facs="#img_697-0016">^</metamark><!-- @hand="#HM" --><add place="below" rend="insertion-device _ink1" hand="#HM" change="StFa" facs="#img_697-0017">of <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_697-0018">that.</del></add>
+
+<add place="below" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_697-0019">that, <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_697-0020">young</del> <add place="below" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_697-0023"><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_697-0023">sea-</del></add> <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_697-0021">bloom.</del></add>
+</ab></body></text>

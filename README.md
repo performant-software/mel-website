@@ -27,3 +27,10 @@ yarn start
 
 Once the site is running locally, you can view changes to the local XML files by running `yarn build`. The XML sources are stored in the `xml` directory. The `originals` directory contains the XML output from Juxta Editions and should not be changed.
  
+## Updating Versions of Billy Budd MS
+
+The "Versions of Billy Budd" manuscript is encoded in TEI/XML originally produced using TextLab. It uses EditionCrafter for display of the text and requires a command line tool to be run in order to generate the necessary artifacts, which are checked into the project repository. To update the text, work with the xml in this file: `xml/versions-of-billy-budd/bb-ms.xml`. Once you have made your changes, regenerate the artifacts using the following command from the base directory of the repository:
+
+`editioncrafter process xml/versions-of-billy-budd/bb-ms.xml ec http://127.0.0.1:8888/ec`
+
+Expect this command to take several seconds to run on a text of this size and complexity. The output of this script can be found in the `ec` directory.

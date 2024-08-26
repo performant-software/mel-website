@@ -1,0 +1,22 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_802"/>
+<ab>
+  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_802-0005">353</metamark>
+  <lb/><del rend="single-stroke _ink1" hand="#HM" facs="#img_802-0001">Some par</del>
+  <lb/>The
+  <lb/>
+  <lb/>
+  <lb/>
+  <lb/>
+  <lb/>
+  <lb/>
+  <lb/>
+  <lb/>
+  <lb/><restore facs="#img_802-0012"><del rend="hashmark _HMp" facs="#img_802-0012">But why leave <del rend="single-stroke _ink1" hand="#HM" facs="#img_802-0002">all</del>
+  <lb/><add place="inline" rend="no-caret _ink1" hand="#HM" facs="#img_802-0006">it to</add> <subst facs="#img_802-0007"><del rend="single-stroke _ink1" hand="#HM" facs="#img_802-0007">the </del><add place="inline" rend="no-caret _ink1" hand="#HM" facs="#img_802-0007">them?</add></subst><del rend="single-stroke _ink1" hand="#HM" facs="#img_802-0008">laity</del> <del rend="single-stroke _ink1" hand="#HM" facs="#img_802-0009">laymen?</del> why not subpoena <add place="inline" rend="bubble _HMp" facs="#img_802-0003">?</add>
+  <lb/><add place="inline" rend="no-caret _ink1" hand="#HM" facs="#img_802-0010">as well</add> the clerical proficients? Their vocation</del></restore>
+  <lb/><add place="below" rend="no-caret _HMp" hand="#ESM" facs="#img_802-0011">Restore</add>
+  <lb/>
+
+
+</ab><milestone n="LawyersExperts" unit="chapter"/>
+</body></text>

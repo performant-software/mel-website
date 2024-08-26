@@ -1,0 +1,26 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_183"/>
+<ab>
+<metamark facs="#img_183-0001" place="margin(top) margin(left)" function="folio" rend="#HMp">54</metamark>
+<metamark facs="#img_183-0002" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co">95</metamark>
+<metamark facs="#img_183-0003" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co"><add facs="#img_183-0003" rend="bubble" place="below" hand="#Co" change="#StEc">2</add></metamark>
+<metamark facs="#img_183-0004" place="margin(top) margin(right)" function="folio" rend="#RW"><hi rend="Bubble">65</hi></metamark>
+<metamark facs="#img_183-0005" place="margin(bottom) margin(left)" function="folio" rend="#HT">78</metamark>
+<lb/>As with some others engaged in various
+  <lb/>departments of the world's more
+  <lb/>heroic activities, Captain Vere <subst facs="#img_183-0006"><del facs="#img_183-0006" rend="overwritten" type="superimposed" hand="#ink1">tho</del><add facs="#img_183-0006" rend="superimposed" type="superimposed" hand="#ESM">though</add></subst>
+  <lb/>practical enough upon occasion would
+  <lb/>at times betray a certain dreaminess
+  <lb/>of mood. Standing alone on the
+  <lb/>weather-side of the quarter deck,
+  <lb/><del facs="#img_183-0007" rend="single-stroke _ink1" hand="#HM" change="#StEc">and</del> one hand holding by the rigging
+  <lb/>he would absently gaze off at the
+  <lb/>blank sea.  At the presentation to him
+
+  <add rend="bubble" place="inline" hand="#HM"><del facs="#img_202-0004" rend="erasure" hand="#HM" change="#StEb">[Earlier version text from verso of patch on leaf 84, image 202]: Sometimes
+  <lb/>he would stand on the weather-side
+  <lb/>of the quarter-deck<metamark facs="#img_202-0001" place="inline" function="caret" change="#StEa" rend="#ink1r">^</metamark> <add facs="#img_202-0002" rend="caret" place="above" hand="#HMp" change="#StEb">long</add> <subst facs="#img_202-0003"><del facs="#img_202-0003" rend="overwritten" type="superimposed" hand="#ink1r">gazing</del><add facs="#img_202-0003" rend="superimposed" type="superimposed" hand="#HM" change="#StEb">gazeing</add></subst> absently
+  <lb/>off at the blank sea. At the
+  <lb/>presentation to him then of some
+  <lb/>minor matter interrupting the
+  <lb/>current of his revery, he would</del></add>
+</ab></body></text>

@@ -1,0 +1,18 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_117"/>
+<ab>
+<add facs="#img_117-0020" rend="clip" place="inline" hand="#HM" change="#StEb">
+<metamark facs="#img_117-0003" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEb"><add facs="#img_117-0003" rend="bubble _Cr" place="below" hand="#HM" change="#StEb">2</add></metamark>
+<metamark facs="#img_117-0002" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc">43</metamark>
+<metamark facs="#img_117-0004" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_117-0004" rend="bubble _HMp" place="below" hand="#RW">47</add></metamark>
+<metamark facs="#img_117-0010" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">50</metamark>
+<metamark facs="#img_117-0001" place="inline" function="caret" change="#StEc"><del facs="#img_117-0001" rend="erasure" hand="#HM"><add facs="#img_117-0001" rend="caret _HMp" place="inline" hand="#HM">^</add></del></metamark> It was the summer
+<lb/>of 1797. In the April of <subst facs="#img_117-0011"><del facs="#img_117-0011" rend="overwritten _ink1" type="superimposed" hand="#HM">the</del><add facs="#img_117-0011" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEc">that</add></subst> <del facs="#img_117-0013" rend="single-stroke _HMp" hand="#HM" change="#StEc">same</del>
+<lb/>year had occurred the commotion
+<lb/><del facs="#img_117-0007" rend="single-stroke _HMp" hand="#HM"><add facs="#img_117-0007" rend="no-caret _HMp" place="above" hand="#HM" change="#StEc">in the fleet lying</add></del><del facs="#img_117-0018" rend="single-stroke _HMp" hand="#HM" change="#StEc">among the men-of-war's men</del> at
+<lb/>Spithead followed in May by a second
+<lb/>and yet more serious outbreak <metamark facs="#img_117-0012" rend="#HM _HMp" place="inline" function="caret" change="#StEc">^</metamark> <add facs="#img_117-0009" rend="caret _HMp" place="above" hand="#HM">in the fleet</add> at the
+<lb/>Nore. The latter is <subst facs="#img_117-0019"><del facs="#img_117-0019" rend="overwritten _ink1" type="superimposed" hand="#HM">know</del><add facs="#img_117-0019" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEc">known</add></subst>, and
+<lb/>without exaggeration in the epithet,
+<lb/>as the Great Mutiny. It was indeed</add>
+</ab>
+</body></text>

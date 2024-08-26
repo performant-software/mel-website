@@ -1,0 +1,21 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_685"/>
+<ab>
+<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_685-0001">285</metamark> <!-- add @hand="#RW" later -->
+<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_685-0006">296</metamark> <!-- add @hand="#HT" later -->
+In this proceeding as in every
+  <lb/>public one growing out of the <subst facs="#img_685-0002"><del rend="overwritten _HMp" hand="#HM" change="StFa" facs="#img_685-0002">trajedy</del><add place="inline" rend="overwritten _HMp" hand="#HM" change="StFa" facs="#img_685-0002">tragedy</add></subst>
+  <lb/>strict adherence to usage was observed.
+  <lb/>Nor in any point could it have been at all
+  <lb/>deviated from, <metamark place="inline" function="insertion-device" rend="insertion-device _ink1" change="StFa" facs="#img_685-0007">^</metamark><add place="below" rend="insertion-device bubble _ink1" hand="#HM" change="StFa" facs="#img_685-0004"><!-- add @hand="#HM" later--> either with respect to Claggart
+  <lb/>or Billy Budd</add> without begetting
+  <lb/>undesirable speculations in the ship's
+  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_685-0003">60</metamark><!-- add @hand="#HM" later-->  company, sailors, and more particularly
+  <lb/>men-of-war's men, being of all men the
+  <lb/>greatest sticklers for usage.
+  <lb/>For similar cause, all communication
+  <lb/>between Captain Vere and the condemned
+  <lb/>one closed <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_685-0005">ended</add> with the closeted
+  <lb/>interview already given, the latter
+  <lb/>being now surrendered to the
+</ab><milestone n="23" unit="chapter"/>
+</div></body></text>
