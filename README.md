@@ -33,4 +33,6 @@ The "Versions of Billy Budd" manuscript is encoded in TEI/XML originally produce
 
 `editioncrafter process xml/versions-of-billy-budd/bb-ms.xml ec https://nl-bb-ec--mel.netlify.app/ec`
 
+`git config http.postBuffer 524288000`
+
 Expect this command to take several seconds to run on a text of this size and complexity. The output of this script can be found in the `ec` directory.
