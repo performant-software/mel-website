@@ -25,20 +25,19 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div xml:id="chapter-6"><p xmlns="http://www.tei-c.org/ns/1.0">
-				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0173.tif" tl_leaf="https://app.textlab.org/transcriptions/15592"/> <lb/>
+			<div xml:id="chapter-6"><p>
+				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0173.tif" corresp="img_173"/> <lb/>
 				<head type="main">CHAPTER 6</head>
 
-			</p><p xmlns="http://www.tei-c.org/ns/1.0">But on board the seventy-four in which Billy now swung
+			</p><p>But on board the seventy-four in which Billy now swung
 				his hammock, very little in the manner of the men and nothing obvious in the
 				demeanor of the officers would have suggested to an ordinary observer that the Great
 				Mutiny was a recent event. In their general bearing and conduct the commissioned
 				officers of a war-ship naturally take their tone from the commander, that is if he
 				have that <ref target="#ed-note1">ascendency</ref><note xml:id="ed-note1">Hayford and Sealts emended to "ascendancy," but MEL and NN retain Melville's original spelling in the MS because "ascendency" was an accepted spelling in the eighteenth and nineteenth century, as the <hi rend="italic">Oxford English Dictionary</hi> shows (see "ascendancy | ascendency, n.". <hi rend="italic">OED Online</hi>. June 2021. Oxford University Press).</note> of character that ought to be his.
-				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0175.tif"
-					tl_leaf="https://app.textlab.org/transcriptions/15602"/></p>
+				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0175.tif" corresp="img_175"/></p>
 
-				<p xmlns="http://www.tei-c.org/ns/1.0">Captain the Honorable Edward Fairfax Vere, to
+				<p>Captain the Honorable Edward Fairfax Vere, to
 					give his full title,
 				was a bachelor of forty or thereabouts, a sailor of distinction even
 					in a time prolific of renowned seamen. Though allied to the higher nobility his
@@ -48,42 +47,33 @@
 					</choice> to influences connected with that circumstance. He had seen much
 					service, been in many various engagements, always acquitting himself as an
 					officer mindful of the wellfare of his men, but never tolerating an infraction
-					of <ref target="#ref_30365">discipline,</ref><note xml:id="ref_30365"
-						>discipline,] In revising this passage in ink, HM used an insertion bubble
+					of <ref target="#ref_30365">discipline,</ref><note xml:id="ref_30365">discipline,] In revising this passage in ink, HM used an insertion bubble
 						to add "of discipline." He later added a semi-colon outside of the bubble,
 						but seems to have altered the semi-colon to a comma. NN prints the
 						semi-colon here; MEL, the comma.</note> thoroughly versed in the science of
-					his profession, and intrepid to the verge of temerity <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0177.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/15608"/> though never
+					his profession, and intrepid to the verge of temerity <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0177.tif" corresp="img_177"/> though never
 					injudiciously so. For his gallantry in the West Indian waters as flag-lieutenant
 					under Rodney in that Admiral's crowning victory over De Grasse, he was made a
 					post-captain. </p>
 
-					<p xmlns="http://www.tei-c.org/ns/1.0">Ashore in the garb of a <ref xmlns="http://www.tei-c.org/ns/1.0" target="#ref_30366"
-								>civilian</ref><note xmlns="http://www.tei-c.org/ns/1.0"
-								xml:id="ref_30366">civilian,] MEL adds the comma after "civilian" to
+					<p>Ashore in the garb of a <ref target="#ref_30366">civilian</ref><note xml:id="ref_30366">civilian,] MEL adds the comma after "civilian" to
 								clarify the ending of the (misplaced) introductory prepositional
 								phrase.</note>, scarce anyone would have taken him for a sailor, more especially that
 					he never garnished unprofessional talk with nautical terms, and grave in his
 					bearing, evinced little appreciation of mere humor. It was not out of keeping
-					with these traits that <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0179.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/15610"/><choice>
+					with these traits that <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0179.tif" corresp="img_179"/><choice>
 						<orig>On (capitalized in MS)</orig>
 						<reg>on</reg>
 					</choice> a passage when nothing demanded his paramount action, he was the most
 					undemonstrative of men. Any landsman observing this gentleman not conspicuous by
 					his stature and wearing no pronounced insignia, emerging from his <choice>
 						<orig>retreat / cabin </orig>
-						<reg><ref xmlns="http://www.tei-c.org/ns/1.0" target="#ref_29663"
-								>cabin</ref><note xmlns="http://www.tei-c.org/ns/1.0"
-								xml:id="ref_29663">cabin] Originally, Melville inscribed "retreat"
+						<reg><ref target="#ref_29663">cabin</ref><note xml:id="ref_29663">cabin] Originally, Melville inscribed "retreat"
 								in ink but later wrote "cabin," in pencil above. Because he did not
 								delete "retreat," the site is an uncompleted and oscillating
 								revision. MEL emends to "cabin."</note></reg>
 					</choice> to the open deck, and noting the silent deference of the officers
-					retiring to leeward, might have taken him for the King's <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0181.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/15596"/> guest, a civilian
+					retiring to leeward, might have taken him for the King's <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0181.tif" corresp="img_181"/> guest, a civilian
 					aboard the King's-ship some highly honorable discreet envoy on his way to an
 					important post. But in fact this <choice>
 						<orig>unobtrusivness</orig>
@@ -91,8 +81,7 @@
 					</choice> of demeanor may have proceeded from a certain unaffected modesty of
 					manhood sometimes accompanying a resolute nature, a modesty evinced at all times
 					not calling for pronounced action, and which shown in any rank of life suggests
-					a virtue aristocratic in kind. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0183.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/15614"/> As with some others
+					a virtue aristocratic in kind. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0183.tif" corresp="img_183"/> As with some others
 					engaged in various departments of the world's more heroic activities, Captain
 					Vere though practical enough upon occasion would at times betray a certain
 					dreaminess of mood. Standing alone on the weather-side of the quarter deck, one
@@ -100,13 +89,11 @@
 						<orig>rigging (no comma in MS)</orig>
 						<reg>rigging,</reg>
 					</choice> he would absently gaze off at the blank sea. At the presentation to
-					him <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0189.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/15598"/> then of some minor
+					him <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0189.tif" corresp="img_189"/> then of some minor
 					matter interrupting the current of his thoughts he would show more or less
 					irascibility; but instantly he would control it. </p>
 
-					<p xmlns="http://www.tei-c.org/ns/1.0">In the navy he was popularly known by the
+					<p>In the navy he was popularly known by the
 					<ref target="#BB6Note1">appellation</ref><note xml:id="BB6Note1">appellation: MEL emends Melville's MS misspelling "appelation" to "appellation."</note>—Starry Vere. How such a designation happened <ref target="#ref_29667"><choice>
 							<orig>to fall to upon (doubled prepositions in MS)</orig>
 							<reg>to fall</reg>
@@ -115,20 +102,16 @@
 						"to") and attached a clip with new text, in pencil, beginning with "upon one
 						who...." To repair the doubled prepositions in "to fall to upon one who,"
 						MEL emends to "to fall upon one who."</note>
-					<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0187.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/15599"/> upon one who
-					whatever his sterling qualities was without any brilliant ones <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0189.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/18651"/> was in this wise: A
+					<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0187.tif" corresp="img_187"/> upon one who
+					whatever his sterling qualities was without any brilliant ones <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0189.tif" corresp="img_189"/> was in this wise: A
 					favorite kinsman, Lord Denton, a free-hearted fellow, had been the first to meet
 					and congratulate him upon his return to England from his West Indian cruise; and
 					but the day previous turning over a copy of Andrew Marvell's poems had lighted,
-					not for the first time however, upon the lines entitled <hi rend="italic"
-						>Appleton House</hi>, the name of one of the seats of their <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0191.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/15600"/> common ancestor, a
+					not for the first time however, upon the lines entitled <hi rend="italic">Appleton House</hi>, the name of one of the seats of their <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0191.tif" corresp="img_191"/> common ancestor, a
 					hero in the German wars of the seventeenth century, in which poem occur the
 					lines, </p>
 
-					<p xmlns="http://www.tei-c.org/ns/1.0">
+					<p>
 				<lg>
 					<l><ref target="#ref_30367">This</ref> 'tis to have been from the first</l>
 					<note xml:id="ref_30367">This] In manuscript, HM places
@@ -143,17 +126,14 @@
 				</lg>
 				</p>
 
-				<p xmlns="http://www.tei-c.org/ns/1.0">And so, upon embracing his cousin fresh
+				<p>And so, upon embracing his cousin fresh
 					from Rodney's great victory wherein he had played so gallant a part, brimming
 					over with just family pride in the sailor of their house, he exuberantly
 					exclaimed, "Give ye joy, Ed; give ye joy, my starry Vere!" This got currency,
-					and the novel prefix serving in familiar parlance readily to distinguish <hi
-						rend="italic">The Indomitable</hi>'s captain from another Vere his senior, a
+					and the novel prefix serving in familiar parlance readily to distinguish <hi rend="italic">The Indomitable</hi>'s captain from another Vere his senior, a
 					distant <choice>
 						<orig>relative (no comma in MS)</orig>
-						<reg><ref xmlns="http://www.tei-c.org/ns/1.0" target="#ref_29673"
-								>relative</ref><note xmlns="http://www.tei-c.org/ns/1.0"
-								xml:id="ref_29673">relative,] Inserting "a distant relative" as a
+						<reg><ref target="#ref_29673">relative</ref><note xml:id="ref_29673">relative,] Inserting "a distant relative" as a
 								second apposition, HM neglected to add a comma after "relative." MEL
 								supplies the necessary comma.</note>,</reg>
 					</choice> an officer of like rank in the navy, it remained permanently attached
