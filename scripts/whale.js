@@ -70,7 +70,7 @@ function mirrorDirs(sourcePath, targetPath) {
 }
 
 async function addBBEditionCrafterPage() {
-    const baseURL = process.env.URL
+    const baseURL = process.env.DEPLOY_PRIME_URL
     const html = bbMSPageTemplate(baseURL)
     fs.writeFileSync("editions/versions-of-billy-budd/billy-budd-ms.html", html, "utf8")
 }
