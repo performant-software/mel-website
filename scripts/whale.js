@@ -3,9 +3,11 @@
 const fs = require('fs')
 const jsdom = require("jsdom")
 const { JSDOM } = jsdom
+require('dotenv').config();
 
 const {CETEI} = require("./CETEI")
 const { pageTemplate } = require("./page-template")
+const { bbMSPageTemplate } = require("./bb-ms-template")
 
 function dirExists( dir ) {
     if( !fs.existsSync(dir) ) {
@@ -68,7 +70,8 @@ function mirrorDirs(sourcePath, targetPath) {
 }
 
 async function addBBEditionCrafterPage() {
-    const html = fs.readFileSync("scripts/billy-budd-ms.html", "utf8")
+    const baseURL = process.env.URL
+    const html = bbMSPageTemplate(baseURL)
     fs.writeFileSync("editions/versions-of-billy-budd/billy-budd-ms.html", html, "utf8")
 }
 

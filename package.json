@@ -10,6 +10,7 @@
     "build": "node scripts/whale.js && jekyll build"
   },
   "dependencies": {
-    "jsdom": "^16.2.2"
+    "jsdom": "^16.2.2",
+    "dotenv": "^16.3.1"
   }
 }

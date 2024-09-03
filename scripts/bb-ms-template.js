@@ -1,3 +1,6 @@
+
+function bbMSPageTemplate(baseURL) {
+    return `
 <!DOCTYPE html>
 <html>
     <head>
@@ -24,10 +27,15 @@
         EditionCrafter.viewer({
             id: 'ec',
             documentName: 'Billy Budd MS',
-            iiifManifest: 'https://nl-bb-ec--mel.netlify.app/ec/bb-ms/iiif/manifest.json',
+            iiifManifest: '${baseURL}/ec/bb-ms/iiif/manifest.json',
             transcriptionTypes: {
               transcription: 'Transcription'
             }
         });               
     </script>
-</html>
+</html>    
+    `
+}
+
+// EXPORTS /////////////
+module.exports.bbMSPageTemplate = bbMSPageTemplate;

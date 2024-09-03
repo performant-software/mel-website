@@ -7,7 +7,7 @@ This is the code repository for the [Melville Electronic Library website](https:
 
 ## Installing locally
 
-Require Ruby 2.3 or higher. Uses [Jekyll](https://jekyllrb.com/) for static site rendering. Currently deployed via [Netlify](netlify.com). To deploy locally, setup a ruby environment and then run:
+Requires Ruby 3.1.2. Uses [Jekyll](https://jekyllrb.com/) for static site rendering. Currently deployed via [Netlify](netlify.com). To deploy locally, setup a ruby environment, duplicate `.env.example` and rename it `.env`. Then run:
 
 ```
 bundle
@@ -16,7 +16,7 @@ yarn
 
 ## Running locally
 
-To run the site locally:
+To run the site locally, run the following commands:
 
 ```
 yarn build
@@ -32,6 +32,8 @@ Once the site is running locally, you can view changes to the local XML files by
 The "Versions of Billy Budd" manuscript is encoded in TEI/XML originally produced using TextLab. It uses EditionCrafter for display of the text and requires a command line tool to be run in order to generate the necessary artifacts, which are checked into the project repository. To update the text, work with the xml in this file: `xml/versions-of-billy-budd/bb-ms.xml`. Once you have made your changes, regenerate the artifacts using the following command from the base directory of the repository:
 
 `editioncrafter process xml/versions-of-billy-budd/bb-ms.xml ec https://nl-bb-ec--mel.netlify.app/ec`
+
+Because of the large number of files this generates, when you go to commit them using git, you may encounter an error. To fix this, increase the POST buffer size for git:
 
 `git config http.postBuffer 524288000`
 
