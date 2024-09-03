@@ -13,7 +13,7 @@ function bbMSPageTemplate(baseURL) {
         <div>
             <div id="header">
                 <h1>Melville Electronic Library</h1>
-                <p><a href="/editions.html">Melville Electronic Library</a> >> <a href="http://127.0.0.1:8888/editions/versions-of-billy-budd/chapter-1.html">Versions of Billy Budd</a> >> Manuscript </p>
+                <p><a href="/editions.html">Melville Electronic Library</a> >> <a href="${baseURL}/editions/versions-of-billy-budd/chapter-1.html">Versions of Billy Budd</a> >> Manuscript </p>
             </div>
             <div id="ec-container">
                 <div id="ec"></div>
