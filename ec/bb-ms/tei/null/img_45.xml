@@ -1,21 +1,21 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_45"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_45"/>
 <ab>
-<add facs="#img_45-0013" rend="clip" hand="#HM" change="#StDa">
-<metamark facs="#img_45-0001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">13</metamark>
-<metamark facs="#img_45-0002" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StEa"><add facs="#img_45-0002" rend="bubble _Cg" place="below" hand="#HM" change="#StEa">1</add></metamark>
-<metamark facs="#img_45-0004" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">18</metamark>
-<metamark facs="#img_45-0003" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab"><add facs="#img_45-0003" rend="bubble _Co" place="inline" hand="#HM" change="#StEab">1</add></metamark>
-<metamark facs="#img_45-0005" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">20</metamark>
-<metamark facs="#img_45-0006" place="margin(bottom)" function="composition-information" rend="no-caret _HMp" change="#Ht">bMSAm188(363) Billy Budd</metamark>
+<add facs="#img_45_z013" rend="clip" hand="#HM" change="#StDa">
+<metamark facs="#img_45_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">13</metamark>
+<metamark facs="#img_45_z002" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StEa"><add facs="#img_45_z002" rend="bubble _Cg" place="below" hand="#HM" change="#StEa">1</add></metamark>
+<metamark facs="#img_45_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">18</metamark>
+<metamark facs="#img_45_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab"><add facs="#img_45_z003" rend="bubble _Co" place="inline" hand="#HM" change="#StEab">1</add></metamark>
+<metamark facs="#img_45_z005" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">20</metamark>
+<metamark facs="#img_45_z006" place="margin(bottom)" function="composition-information" rend="no-caret _HMp" change="#Ht">bMSAm188(363) Billy Budd</metamark>
 of the gang, the big shaggy chap
   <lb/>with the fire-red whiskers. He
   <lb/>indeed out of envy, perhaps, of the
  <lb/>new-comer, and thinking such a
-  <lb/><add facs="#img_45-0007" rend="no-caret _HMp" place="inline" hand="#HM" change="#StDa">"</add>sweet and pleasant fellow,<add facs="#img_45-0008" rend="no-caret _HMp" place="inline" hand="#HM" change="#StDa">"</add> as he
-  <lb/>mockingly <del facs="#img_45-0009" rend="single-stroke _HMp" hand="#HM" change="#Stp">called him to his face</del> <add facs="#img_45-0010" rend="no-caret _HMp" place="below" hand="#HM" change="#StDa">designated him to the others,</add>
+  <lb/><add facs="#img_45_z007" rend="no-caret _HMp" place="inline" hand="#HM" change="#StDa">"</add>sweet and pleasant fellow,<add facs="#img_45_z008" rend="no-caret _HMp" place="inline" hand="#HM" change="#StDa">"</add> as he
+  <lb/>mockingly <del facs="#img_45_z009" rend="single-stroke _HMp" hand="#HM" change="#Stp">called him to his face</del> <add facs="#img_45_z010" rend="no-caret _HMp" place="below" hand="#HM" change="#StDa">designated him to the others,</add>
   <lb/>could hardly have the spirit of a
   <lb/>game-cock, must needs bestir
   <lb/>himself in trying to get up an ugly
-  <lb/>row with him. <del facs="#img_45-0011" rend="single-stroke" hand="#HM" change="#StEa">B</del></add>
+  <lb/>row with him. <del facs="#img_45_z011" rend="single-stroke" hand="#HM" change="#StEa">B</del></add>
 </ab>
-</body></text>
+</div></body></text>

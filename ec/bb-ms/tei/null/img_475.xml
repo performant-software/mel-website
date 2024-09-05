@@ -1,19 +1,19 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_475"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_475"/>
 <ab>
-<metamark facs="#img_475-0002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">189</metamark>
-<metamark facs="#img_475-0014" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">199</metamark>
-must feel in view of <del facs="#img_475-0004" rend="single-stroke _ink1" hand="#HM" change="#StGa">lamentable</del> <metamark facs="#img_475-0005" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_475-0003" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa">extraordinary</add>
+<metamark facs="#img_475_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">189</metamark>
+<metamark facs="#img_475_z014" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">199</metamark>
+must feel in view of <del facs="#img_475_z004" rend="single-stroke _ink1" hand="#HM" change="#StGa">lamentable</del> <metamark facs="#img_475_z005" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_475_z003" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa">extraordinary</add>
   <lb/>outbreaks so recent as those which,
-  <lb/>he sorrowfully said <metamark facs="#img_475-0006" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_475-0007" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa">it,</add> it needed not to
+  <lb/>he sorrowfully said <metamark facs="#img_475_z006" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_475_z007" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa">it,</add> it needed not to
   <lb/>name.
   <lb/>Now at the first broaching of
   <lb/>the matter Captain Vere taken by surprise
   <lb/>could not wholly dissemble his disquietude.
-  <lb/>But as <metamark facs="#img_475-0008" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_475-0009" rend="caret" place="above" hand="#HM" change="#StGa"><subst facs="#img_475-0009"><del facs="#img_475-0009" rend="overwritten _ink1" type="superimposed" hand="#HM">claggart</del><add facs="#img_475-0009" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StGa">Claggart</add></subst></add> <del facs="#img_475-0010" rend="single-stroke _ink1" hand="#HM" change="#StGa">the testifier</del> went on, <add facs="#img_475-0012" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa">the former's</add> <del facs="#img_475-0011" rend="single-stroke _ink1" hand="#HM" change="#StGa">his</del> aspect
+  <lb/>But as <metamark facs="#img_475_z008" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_475_z009" rend="caret" place="above" hand="#HM" change="#StGa"><subst facs="#img_475_z009"><del facs="#img_475_z009" rend="overwritten _ink1" type="superimposed" hand="#HM">claggart</del><add facs="#img_475_z009" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StGa">Claggart</add></subst></add> <del facs="#img_475_z010" rend="single-stroke _ink1" hand="#HM" change="#StGa">the testifier</del> went on, <add facs="#img_475_z012" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa">the former's</add> <del facs="#img_475_z011" rend="single-stroke _ink1" hand="#HM" change="#StGa">his</del> aspect
   <lb/>changed into restiveness under
-  <lb/>something in the <add facs="#img_475-0016" rend="no-caret _HMp" place="above" hand="#ESM" change="#StGa">a witness'</add> <subst facs="#img_475-0015"><del facs="#img_475-0015" rend="overwritten _HMp" type="superimposed" hand="#HM">testifyer's</del><add facs="#img_475-0015" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StGa">testifier's</add></subst> manner <metamark facs="#img_475-0013" place="above" rend="#HM _HMp" function="folio" change="#StGa">9</metamark>
+  <lb/>something in the <add facs="#img_475_z016" rend="no-caret _HMp" place="above" hand="#ESM" change="#StGa">a witness'</add> <subst facs="#img_475_z015"><del facs="#img_475_z015" rend="overwritten _HMp" type="superimposed" hand="#HM">testifyer's</del><add facs="#img_475_z015" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StGa">testifier's</add></subst> manner <metamark facs="#img_475_z013" place="above" rend="#HM _HMp" function="folio" change="#StGa">9</metamark>
   <lb/>in giving his testimony. However,
   <lb/>he refrained from interrupting him.
   <lb/>And Claggart, continuing, concluded
   <lb/>with this:
-</ab></body></text>
+</ab></div></body></text>

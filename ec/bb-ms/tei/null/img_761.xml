@@ -1,23 +1,23 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_761"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_761"/>
 <ab>
-  <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_761-0001">324</metamark>
-  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_761-0002">334</metamark>
+  <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_761_z001">324</metamark>
+  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_761_z002">334</metamark>
 the customary morning service. That
-  <lb/>done, the drum beat the retreat<add place="inline" rend="no-caret _ink2" hand="#HM" change="StG" facs="#img_761-0016">;</add> and
-  <lb/>toned by <metamark place="inline" function="caret" rend=" _ink2" change="StG" facs="#img_761-0002">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" change="StG" facs="#img_761-0004">music and</add> religious rites subserving
-  <lb/>the discipline <metamark place="inline" function="caret" rend=" _HMp" change="StG" facs="#img_761-0005">^</metamark> <add place="above" rend="caret _HMp" hand="#HM" change="StG" facs="#img_761-0006">&amp; purposes</add> of war, the men in their
+  <lb/>done, the drum beat the retreat<add place="inline" rend="no-caret _ink2" hand="#HM" change="StG" facs="#img_761_z016">;</add> and
+  <lb/>toned by <metamark place="inline" function="caret" rend="_ink2" change="StG" facs="#img_761_z002">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" change="StG" facs="#img_761_z004">music and</add> religious rites subserving
+  <lb/>the discipline <metamark place="inline" function="caret" rend="_HMp" change="StG" facs="#img_761_z005">^</metamark> <add place="above" rend="caret _HMp" hand="#HM" change="StG" facs="#img_761_z006">&amp; purposes</add> of war, the men in their
   <lb/>wonted orderly manner, dispersed
-  <lb/>to <subst facs="#img_761-0007"><del rend="single-stroke _ink2" hand="#HM" change="StG" facs="#img_761-0007">their</del><add place="inline" rend="no-caret _ink2" hand="#HM" change="StG" facs="#img_761-0007">the</add></subst> places allotted them when
+  <lb/>to <subst facs="#img_761_z007"><del rend="single-stroke _ink2" hand="#HM" change="StG" facs="#img_761_z007">their</del><add place="inline" rend="no-caret _ink2" hand="#HM" change="StG" facs="#img_761_z007">the</add></subst> places allotted them when
   <lb/>not at the guns.
-  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" change="StG" facs="#img_761-0008">96</metamark> And now it was full
+  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" change="StG" facs="#img_761_z008">96</metamark> And now it was full
   <lb/>day. The fleece of low-hanging vapor
   <lb/>had vanished, licked up by the sun
-  <lb/>that late had so glorified <metamark place="inline" function="caret" rend=" _ink2" change="StG" facs="#img_761-0009">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" change="StG" facs="#img_761-0010">it.</add> <del rend="single-stroke _ink2" hand="#HM" change="StG" facs="#img_761-0011">them.</del>
+  <lb/>that late had so glorified <metamark place="inline" function="caret" rend="_ink2" change="StG" facs="#img_761_z009">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" change="StG" facs="#img_761_z010">it.</add> <del rend="single-stroke _ink2" hand="#HM" change="StG" facs="#img_761_z011">them.</del>
   <lb/>And the circumambient air in the
-  <lb/>clearness of its serenity was <metamark place="inline" function="caret" rend=" _ink2" change="StG" facs="#img_761-0012">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" change="StG" facs="#img_761-0013">like</add> smooth
+  <lb/>clearness of its serenity was <metamark place="inline" function="caret" rend="_ink2" change="StG" facs="#img_761_z012">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" change="StG" facs="#img_761_z013">like</add> smooth
   <lb/>white marble in the polished
   <lb/>block not yet removed from the
   <lb/>marble-dealer's yard.
-<metamark place="margin(bottom)" function="section-divider" rend="no-caret _HMp" change="StG" facs="#img_761-0015">——//——</metamark>
+<metamark place="margin(bottom)" function="section-divider" rend="no-caret _HMp" change="StG" facs="#img_761_z015">——//——</metamark>
   </ab><milestone n="763" unit="leaf"/>
-</body></text>
+</div></body></text>

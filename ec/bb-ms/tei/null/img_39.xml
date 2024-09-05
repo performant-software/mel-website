@@ -1,7 +1,7 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_39"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_39"/>
 <ab>
-<metamark facs="#img_39-0001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEaa">15</metamark>
-<metamark facs="#img_39-0007" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#StHt">17</metamark>
+<metamark facs="#img_39_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEaa">15</metamark>
+<metamark facs="#img_39_z007" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#StHt">17</metamark>
 As necessary adjuncts to the flask, he
   <lb/>silently placed tumbler and water-jug
   <lb/>before the irrepressable guest.  But
@@ -14,8 +14,8 @@ As necessary adjuncts to the flask, he
   <lb/>far as to be beyond easy reach, at
   <lb/>the same settling himself in his seat
   <lb/>and smacking his lips with high
-  <lb/>satisfaction, looking straight at <metamark facs="#img_39-0003" place="inline" function="caret" rend="caret _ink1" change="#StEa">^</metamark> <add facs="#img_39-0005" rend="caret _ink1" place="above" hand="#HM" change="#StEa">the</add> <del facs="#img_39-0004" rend="multi-stroke _ink1" hand="#HM" change="#StEa">his</del> host.
+  <lb/>satisfaction, looking straight at <metamark facs="#img_39_z003" place="inline" function="caret" rend="caret _ink1" change="#StEa">^</metamark> <add facs="#img_39_z005" rend="caret _ink1" place="above" hand="#HM" change="#StEa">the</add> <del facs="#img_39_z004" rend="multi-stroke _ink1" hand="#HM" change="#StEa">his</del> host.
   <lb/>These proceedings over,
-  <lb/>the Master <del facs="#img_39-0006" rend="single-stroke _ink1" type="false-start" hand="#HM" change="#StEa">spoke</del> broke the silence;
+  <lb/>the Master <del facs="#img_39_z006" rend="single-stroke _ink1" type="false-start" hand="#HM" change="#StEa">spoke</del> broke the silence;
 </ab>
-</body></text>
+</div></body></text>

@@ -1,23 +1,23 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_235"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_235"/>
 <ab>
-<metamark facs="#img_235-0001" place="margin(top) margin(left)" function="folio" change="#StDa" rend="no-caret _Cg">59</metamark>
-<metamark facs="#img_235-0002" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">107</metamark> <metamark facs="#img_235-0003" place="margin(top) margin(right)" function="folio" rend="#RW"><add facs="#img_235-0003" rend="bubble _HMp" place="below" hand="#RW">84</add></metamark>
-<metamark facs="#img_235-0004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">95</metamark>
-  <add facs="#img_235-0025" rend="no-caret _ink1" place="inline" hand="#HM" change="#StEb">But the sailors'<metamark facs="#img_235-0006" place="inline" function="caret" change="#StEb" rend="caret _ink1">^</metamark> <add facs="#img_235-0005" rend="caret _ink1" place="above" hand="#HM" change="#StEb">dog-watch</add> gossip concerning him
-  <lb/>derived a vague plausability from the fact <metamark place="below" function="insertion-device" rend="no-caret _Cbl" change="StEb" facs="#img_235-0030">/</metamark> <add place="inline" rend="no-caret _ink1" hand="#HM" change="StEb" facs="#img_235-0031">that</add></add>
-  <metamark facs="#img_235-0028" place="inline" function="composition-information" change="#StEb" rend="no-caret _Co"><lb/>In reference to the privy
-  <lb/>gossip as to Claggart's <del facs="#img_235-0007" rend="single-stroke _HMp" hand="#HM" change="#StDa">prior</del> <add facs="#img_235-0008" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">previous</add> career <del facs="#img_235-0009" rend="single-stroke _ink1" hand="#HM" change="#StDa">as</del>
-  <lb/><del facs="#img_235-0010" rend="single-stroke _ink1" hand="#HM" change="#StDa">a landsman</del> ashore, and as tending
-  <lb/><del facs="#img_235-0012" rend="single-stroke _HMp" hand="#HM" change="#StDa">to show that it was not so verry absurd</del>
+<metamark facs="#img_235_z001" place="margin(top) margin(left)" function="folio" change="#StDa" rend="no-caret _Cg">59</metamark>
+<metamark facs="#img_235_z002" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">107</metamark> <metamark facs="#img_235_z003" place="margin(top) margin(right)" function="folio" rend="#RW"><add facs="#img_235_z003" rend="bubble _HMp" place="below" hand="#RW">84</add></metamark>
+<metamark facs="#img_235_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">95</metamark>
+  <add facs="#img_235_z025" rend="no-caret _ink1" place="inline" hand="#HM" change="#StEb">But the sailors'<metamark facs="#img_235_z006" place="inline" function="caret" change="#StEb" rend="caret _ink1">^</metamark> <add facs="#img_235_z005" rend="caret _ink1" place="above" hand="#HM" change="#StEb">dog-watch</add> gossip concerning him
+  <lb/>derived a vague plausability from the fact <metamark place="below" function="insertion-device" rend="no-caret _Cbl" change="StEb" facs="#img_235_z030">/</metamark> <add place="inline" rend="no-caret _ink1" hand="#HM" change="StEb" facs="#img_235_z031">that</add></add>
+  <metamark facs="#img_235_z028" place="inline" function="composition-information" change="#StEb" rend="no-caret _Co"><lb/>In reference to the privy
+  <lb/>gossip as to Claggart's <del facs="#img_235_z007" rend="single-stroke _HMp" hand="#HM" change="#StDa">prior</del> <add facs="#img_235_z008" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">previous</add> career <del facs="#img_235_z009" rend="single-stroke _ink1" hand="#HM" change="#StDa">as</del>
+  <lb/><del facs="#img_235_z010" rend="single-stroke _ink1" hand="#HM" change="#StDa">a landsman</del> ashore, and as tending
+  <lb/><del facs="#img_235_z012" rend="single-stroke _HMp" hand="#HM" change="#StDa">to show that it was not so verry absurd</del>
   <lb/>after all, it should be remembered that</metamark>
-  <lb/><metamark facs="#img_235-0026" place="inline" function="insertion-device" change="#StEb" rend="insertion-device _Cbl">/</metamark> now for some period the British
+  <lb/><metamark facs="#img_235_z026" place="inline" function="insertion-device" change="#StEb" rend="insertion-device _Cbl">/</metamark> now for some period the British
   <lb/>Navy could so little afford to
   <lb/>be squeamish in the matter of
-  <lb/>keeping up <del facs="#img_235-0013" rend="single-stroke _ink1" hand="#HM" change="#StDa">as far as possible</del> <del facs="#img_235-0014" rend="single-stroke _HMp" hand="#HM" change="#StDa">its</del>
-  <lb/><add facs="#img_235-0016" rend="no-caret _HMp" place="inline" hand="#HM" change="#StDa">the</add> <subst facs="#img_235-0017"><del facs="#img_235-0017" rend="overwritten _ink1" type="superimposed" hand="#HM">muster-role</del><add facs="#img_235-0017" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StDa">muster-rolls</add></subst>, that not only were
-  <lb/><del facs="#img_235-0018" rend="multi-stroke _ink1" hand="#HM" change="#StDa">the</del> press-gangs notoriously abroad
-  <lb/><add facs="#img_235-0019" rend="no-caret _ink1" place="inline" hand="#HM" change="#StDa">both</add> afloat and ashore, but there was
-  <lb/>little or no secret about <del facs="#img_235-0029" rend="single-stroke _ink1" hand="#ink1r" change="#StEb">the fact</del>
-  <lb/><add facs="#img_235-0022" rend="caret _ink1" place="above" hand="#HM" change="#StEb">another matter, namely</add> <metamark facs="#img_235-0021" place="inline" function="caret" change="#StEb" rend="care _ink1">^</metamark> that the London police were
-  <lb/><del facs="#img_235-0023" rend="single-stroke _ink1" hand="#HM" change="#StDa">encouraged</del> at liberty to capture
-</ab></body></text>
+  <lb/>keeping up <del facs="#img_235_z013" rend="single-stroke _ink1" hand="#HM" change="#StDa">as far as possible</del> <del facs="#img_235_z014" rend="single-stroke _HMp" hand="#HM" change="#StDa">its</del>
+  <lb/><add facs="#img_235_z016" rend="no-caret _HMp" place="inline" hand="#HM" change="#StDa">the</add> <subst facs="#img_235_z017"><del facs="#img_235_z017" rend="overwritten _ink1" type="superimposed" hand="#HM">muster-role</del><add facs="#img_235_z017" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StDa">muster-rolls</add></subst>, that not only were
+  <lb/><del facs="#img_235_z018" rend="multi-stroke _ink1" hand="#HM" change="#StDa">the</del> press-gangs notoriously abroad
+  <lb/><add facs="#img_235_z019" rend="no-caret _ink1" place="inline" hand="#HM" change="#StDa">both</add> afloat and ashore, but there was
+  <lb/>little or no secret about <del facs="#img_235_z029" rend="single-stroke _ink1" hand="#ink1r" change="#StEb">the fact</del>
+  <lb/><add facs="#img_235_z022" rend="caret _ink1" place="above" hand="#HM" change="#StEb">another matter, namely</add> <metamark facs="#img_235_z021" place="inline" function="caret" change="#StEb" rend="care _ink1">^</metamark> that the London police were
+  <lb/><del facs="#img_235_z023" rend="single-stroke _ink1" hand="#HM" change="#StDa">encouraged</del> at liberty to capture
+</ab></div></body></text>

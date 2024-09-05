@@ -1,23 +1,23 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_551"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_551"/>
 <ab>
-<metamark facs="#img_551-0001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_551-0001" rend="bubble _HMp" place="inline" hand="#RW">221</add></metamark>
-<metamark facs="#img_551-0024" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">231</metamark>
-<add place="inline" rend="no-caret _HMp" hand="#HM" change="StGb" facs="#img_551-0032">But Captain Vere, with one hand to his
+<metamark facs="#img_551_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_551_z001" rend="bubble _HMp" place="inline" hand="#RW">221</add></metamark>
+<metamark facs="#img_551_z024" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">231</metamark>
+<add place="inline" rend="no-caret _HMp" hand="#HM" change="StGb" facs="#img_551_z032">But Captain Vere, with one hand to his
 <lb/>brow, was standing motionless.
-<lb/>Suddenly, <del facs="#img_551-0002" rend="single-stroke _HMp" hand="#HM" change="#StG">seizing</del> <add facs="#img_551-0003" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">catching the</add> the Surgeon's <del facs="#img_551-0004" rend="single-stroke _HMp" hand="#HM" change="#StG">xx</del> arm
+<lb/>Suddenly, <del facs="#img_551_z002" rend="single-stroke _HMp" hand="#HM" change="#StG">seizing</del> <add facs="#img_551_z003" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">catching the</add> the Surgeon's <del facs="#img_551_z004" rend="single-stroke _HMp" hand="#HM" change="#StG">xx</del> arm
 <lb/>convulsively, he exclaimed, pointing
-<lb/>down to the body—<del facs="#img_551-0005" rend="single-stroke _HMp" hand="#HM" change="#StG"><add facs="#img_551-0005" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">Look</add></del> "It is the divine
-<lb/>judgement on Ananias!<del rend="single-stroke _HMp" hand="#HM" change="StG" facs="#img_551-0007">"</del> <add facs="#img_551-0028" rend="no-caret _HMp" place="inline" hand="#HM" change="#StG">Look!</add>
-<lb/><del facs="#img_551-0008" rend="single-stroke _HMp" hand="#HM" change="#StG">"But how, how <add facs="#img_551-0031" rend="no-caret _HMp" place="inline" hand="#HM" change="#StG"></add></del> <del facs="#img_551-0030" rend="erasure _HMp" hand="#HM" change="#StG"><add facs="#img_551-0030" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">?</add></del>
-<lb/><del facs="#img_551-0029" rend="single-stroke _HMp" hand="#HM" change="#StG">"Thus it was," said Captain Vere</del>
-<lb/><del facs="#img_551-0012" rend="single-stroke _HMp" hand="#HM" change="#StG">Di</del> Disturbed by <del facs="#img_551-0013" rend="single-stroke _HMp" hand="#HM" change="#StG"><add facs="#img_551-0013" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">the</add></del> <del facs="#img_551-0014" rend="single-stroke _HMp" hand="#HM" change="#StG">his</del> <del facs="#img_551-0015" rend="single-stroke _HMp" hand="#HM" change="#StG"><add facs="#img_551-0015" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">an</add></del> <add facs="#img_551-0016" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">the</add> excited <metamark facs="#img_551-0010" rend="#HM _HMp" place="above" function="folio" change="#StG">39</metamark>
-<lb/>manner <del facs="#img_551-0019" rend="single-stroke _HMp" hand="#HM" change="#StG">so unwonted in the speaker</del>
+<lb/>down to the body—<del facs="#img_551_z005" rend="single-stroke _HMp" hand="#HM" change="#StG"><add facs="#img_551_z005" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">Look</add></del> "It is the divine
+<lb/>judgement on Ananias!<del rend="single-stroke _HMp" hand="#HM" change="StG" facs="#img_551_z007">"</del> <add facs="#img_551_z028" rend="no-caret _HMp" place="inline" hand="#HM" change="#StG">Look!</add>
+<lb/><del facs="#img_551_z008" rend="single-stroke _HMp" hand="#HM" change="#StG">"But how, how <add facs="#img_551_z031" rend="no-caret _HMp" place="inline" hand="#HM" change="#StG"></add></del> <del facs="#img_551_z030" rend="erasure _HMp" hand="#HM" change="#StG"><add facs="#img_551_z030" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">?</add></del>
+<lb/><del facs="#img_551_z029" rend="single-stroke _HMp" hand="#HM" change="#StG">"Thus it was," said Captain Vere</del>
+<lb/><del facs="#img_551_z012" rend="single-stroke _HMp" hand="#HM" change="#StG">Di</del> Disturbed by <del facs="#img_551_z013" rend="single-stroke _HMp" hand="#HM" change="#StG"><add facs="#img_551_z013" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">the</add></del> <del facs="#img_551_z014" rend="single-stroke _HMp" hand="#HM" change="#StG">his</del> <del facs="#img_551_z015" rend="single-stroke _HMp" hand="#HM" change="#StG"><add facs="#img_551_z015" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">an</add></del> <add facs="#img_551_z016" rend="no-caret _HMp" place="above" hand="#HM" change="#StG">the</add> excited <metamark facs="#img_551_z010" rend="#HM _HMp" place="above" function="folio" change="#StG">39</metamark>
+<lb/>manner <del facs="#img_551_z019" rend="single-stroke _HMp" hand="#HM" change="#StG">so unwonted in the speaker</del>
 <lb/>he had never before observed in the
 <lb/>"<app><rdg resp="#MEL">Indomitable</rdg><rdg resp="#HS">Indomitables</rdg></app>" Captain, and as yet
 <lb/>wholly ignorant of the affair,
-<lb/>the <metamark facs="#img_551-0025" rend="#HM _HMp" place="inline" function="caret" change="#StG">^</metamark> <add facs="#img_551-0020" rend="caret _HMp" place="above" hand="#HM" change="#StG">prudent</add> Surgeon nevertheless held his
-<lb/>peace, only <del facs="#img_551-0021" rend="single-stroke _HMp" hand="#HM" change="#StG">casting</del> <metamark facs="#img_551-0022" rend="#HM _HMp" place="inline" function="caret" change="#StG">^</metamark> <add facs="#img_551-0023" rend="caret _HMp" place="above" hand="#HM" change="#StG">again</add> looking an earnest
-<lb/>interrogatory as to what <del facs="#img_551-0026" rend="single-stroke _HMp" hand="#HM" change="#StG">it was that </del>
+<lb/>the <metamark facs="#img_551_z025" rend="#HM _HMp" place="inline" function="caret" change="#StG">^</metamark> <add facs="#img_551_z020" rend="caret _HMp" place="above" hand="#HM" change="#StG">prudent</add> Surgeon nevertheless held his
+<lb/>peace, only <del facs="#img_551_z021" rend="single-stroke _HMp" hand="#HM" change="#StG">casting</del> <metamark facs="#img_551_z022" rend="#HM _HMp" place="inline" function="caret" change="#StG">^</metamark> <add facs="#img_551_z023" rend="caret _HMp" place="above" hand="#HM" change="#StG">again</add> looking an earnest
+<lb/>interrogatory as to what <del facs="#img_551_z026" rend="single-stroke _HMp" hand="#HM" change="#StG">it was that </del>
 <lb/>it was that had resulted in such
 <lb/>a tragedy.</add>
-</ab></body></text>
+</ab></div></body></text>

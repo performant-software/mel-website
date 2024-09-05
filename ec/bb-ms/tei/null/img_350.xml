@@ -1,17 +1,17 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_350"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_350"/>
 <ab>
-<metamark facs="#img_350-0002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCa">18</metamark>
-<metamark facs="#img_350-0003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">135</metamark><metamark facs="#img_350-0022" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">145</metamark><add facs="#img_350-0023" rend="clip _ink1" place="inline" hand="#HM" change="#StCa">
-<metamark facs="#img_350-0006" rend="#HM _HMp" place="below" function="caret" change="#StBa">18</metamark> <add facs="#img_350-0005" rend="no-caret _HMp" place="inline" hand="#HM" change="#StBa">But</add> The incident confirmed to him <del facs="#img_350-0009" rend="erasure _HMp" hand="#HM" change="#StBa"><add facs="#img_350-0009" rend="no-caret" place="below" hand="#HM" change="#StBa">The incident confirmed to him</add></del>
+<metamark facs="#img_350_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCa">18</metamark>
+<metamark facs="#img_350_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">135</metamark><metamark facs="#img_350_z022" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">145</metamark><add facs="#img_350_z023" rend="clip _ink1" place="inline" hand="#HM" change="#StCa">
+<metamark facs="#img_350_z006" rend="#HM _HMp" place="below" function="caret" change="#StBa">18</metamark> <add facs="#img_350_z005" rend="no-caret _HMp" place="inline" hand="#HM" change="#StBa">But</add> The incident confirmed to him <del facs="#img_350_z009" rend="erasure _HMp" hand="#HM" change="#StBa"><add facs="#img_350_z009" rend="no-caret" place="below" hand="#HM" change="#StBa">The incident confirmed to him</add></del>
 <lb/>certain tell-tale reports purveyed
 <lb/>to his ear by <hi rend="underline">Squeak</hi>, one of his
-<lb/>more cunning Corporals, a <del facs="#img_350-0011" rend="multi-stroke _HMp" hand="#HM" change="#StBa">little</del>
-<lb/><metamark facs="#img_350-0012" rend="#HM _HMp" place="inline" function="caret" change="#StCa">^</metamark> <add facs="#img_350-0013" rend="caret _HMp" place="above" hand="#HM" change="#StBa">a grizzled little</add> man<del facs="#img_350-0014" rend="multi-stroke _HMp" hand="#HM" change="#StBa">,</del> <del facs="#img_350-0024" rend="single-stroke _HMp" hand="#HM" change="#StBa">short and</del><del facs="#img_350-0025" rend="single-stroke _HMp" hand="#HM" change="#StBa"> spare</del>, so nicknamed</add>
+<lb/>more cunning Corporals, a <del facs="#img_350_z011" rend="multi-stroke _HMp" hand="#HM" change="#StBa">little</del>
+<lb/><metamark facs="#img_350_z012" rend="#HM _HMp" place="inline" function="caret" change="#StCa">^</metamark> <add facs="#img_350_z013" rend="caret _HMp" place="above" hand="#HM" change="#StBa">a grizzled little</add> man<del facs="#img_350_z014" rend="multi-stroke _HMp" hand="#HM" change="#StBa">,</del> <del facs="#img_350_z024" rend="single-stroke _HMp" hand="#HM" change="#StBa">short and</del><del facs="#img_350_z025" rend="single-stroke _HMp" hand="#HM" change="#StBa"> spare</del>, so nicknamed</add>
 <lb/>by the sailors on account of his
-<lb/>squeaky voice, and sharp <del facs="#img_350-0016" rend="single-stroke _HMp" hand="#HM" change="#StCa">grizzled</del>
-<lb/>visage <del facs="#img_350-0017" rend="single-stroke _ink1" hand="#HM" change="#StCa">mousing</del> <metamark facs="#img_350-0018" rend="#HM _ink1" place="inline" function="caret" change="#StCa">^</metamark> <add facs="#img_350-0019" rend="caret _ink1" place="above" hand="#HM" change="#StCa">ferreting</add> about the dark corners
+<lb/>squeaky voice, and sharp <del facs="#img_350_z016" rend="single-stroke _HMp" hand="#HM" change="#StCa">grizzled</del>
+<lb/>visage <del facs="#img_350_z017" rend="single-stroke _ink1" hand="#HM" change="#StCa">mousing</del> <metamark facs="#img_350_z018" rend="#HM _ink1" place="inline" function="caret" change="#StCa">^</metamark> <add facs="#img_350_z019" rend="caret _ink1" place="above" hand="#HM" change="#StCa">ferreting</add> about the dark corners
 <lb/>of the lower decks after interlopers,
 <lb/>satirically suggesting to them the
-<lb/>idea of a <del facs="#img_350-0020" rend="single-stroke _ink1" hand="#HM" change="#StCa">whiskered</del> rat in a cellar.
+<lb/>idea of a <del facs="#img_350_z020" rend="single-stroke _ink1" hand="#HM" change="#StCa">whiskered</del> rat in a cellar.
 </ab>
-</body></text>
+</div></body></text>

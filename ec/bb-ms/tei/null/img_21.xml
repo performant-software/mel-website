@@ -1,20 +1,20 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_21"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_21"/>
 <ab>
-<metamark facs="#img_21-0002" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="StDa">4</metamark>
-<metamark facs="#img_21-0001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="StEa">7</metamark>
-<metamark place="margin(bottom) margin(left)" function="folio" rend=" _HMp" change="Ht" facs="#img_21-0013">9</metamark>
-<del rend="erasure " hand="#HM" change="StDa" facs="#img_21-0003"><metamark facs="#img_21-0003" place="inline" function="caret" rend="caret _HMp" change="StDa">^</metamark></del> <del rend="erasure " hand="#HM" change="StDa" facs="#img_21-0004"><del rend="multi-stroke _HMp" hand="#HM" change="StDa" facs="#img_21-0004"><add facs="#img_21-0004" place="above" rend="caret _HMp" hand="#HM">black</add></del></del> sky, cheerily hallooing to the
+<metamark facs="#img_21_z002" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="StDa">4</metamark>
+<metamark facs="#img_21_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="StEa">7</metamark>
+<metamark place="margin(bottom) margin(left)" function="folio" rend="_HMp" change="Ht" facs="#img_21_z013">9</metamark>
+<del rend="erasure" hand="#HM" change="StDa" facs="#img_21_z003"><metamark facs="#img_21_z003" place="inline" function="caret" rend="caret _HMp" change="StDa">^</metamark></del> <del rend="erasure" hand="#HM" change="StDa" facs="#img_21_z004"><del rend="multi-stroke _HMp" hand="#HM" change="StDa" facs="#img_21_z004"><add facs="#img_21_z004" place="above" rend="caret _HMp" hand="#HM">black</add></del></del> sky, cheerily hallooing to the
   <lb/>strenuous file along the spar.
   <lb/>The moral nature was
   <lb/>seldom out of keeping with the
   <lb/>physical make.  Indeed, except
   <lb/>as toned by the former, the comeliness
   <lb/>and power, always attractive in
-  <lb/>masculine conjunction, <del facs="#img_21-0005" rend="single-stroke _ink1" hand="#HM" change="StDa">could</del>
-  <lb/>hardly <metamark facs="#img_21-0007" place="inline" function="caret" rend="caret _ink1" change="StDa">^</metamark> <add facs="#img_21-0006" rend="caret _ink1" place="above" hand="#HM" change="StDa">could</add> have drawn the sort of
-  <lb/><restore change="StDa" hand="#HM" facs="#img_21-0008"><del facs="#img_21-0008" rend="single-stroke _ink1" hand="#HM" change="StDa"><hi rend="restoration">honest</hi></del></restore> <del facs="#img_21-0009" rend="single-stroke _ink1" hand="#HM" change="StDa">admiration</del> <add facs="#img_21-0010" rend="no-caret _ink1" place="above" hand="#HM" change="StDa">homage</add> the Handsome
+  <lb/>masculine conjunction, <del facs="#img_21_z005" rend="single-stroke _ink1" hand="#HM" change="StDa">could</del>
+  <lb/>hardly <metamark facs="#img_21_z007" place="inline" function="caret" rend="caret _ink1" change="StDa">^</metamark> <add facs="#img_21_z006" rend="caret _ink1" place="above" hand="#HM" change="StDa">could</add> have drawn the sort of
+  <lb/><restore change="StDa" hand="#HM" facs="#img_21_z008"><del facs="#img_21_z008" rend="single-stroke _ink1" hand="#HM" change="StDa"><hi rend="restoration">honest</hi></del></restore> <del facs="#img_21_z009" rend="single-stroke _ink1" hand="#HM" change="StDa">admiration</del> <add facs="#img_21_z010" rend="no-caret _ink1" place="above" hand="#HM" change="StDa">homage</add> the Handsome
   <lb/>Sailor in some examples
   <lb/>received from his less gifted
   <lb/>associates.
 </ab>
-</body></text>
+</div></body></text>

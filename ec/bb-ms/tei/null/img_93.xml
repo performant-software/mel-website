@@ -1,11 +1,11 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_93"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_93"/>
 <ab>
-<metamark facs="#img_93-0001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">36</metamark>
-<metamark facs="#img_93-0002" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDb">29</metamark> <metamark facs="#img_93-0003" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDb"><add facs="#img_93-0003" rend="bubble _Cg" place="inline" hand="#HM" change="#StDb">2</add></metamark>
+<metamark facs="#img_93_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">36</metamark>
+<metamark facs="#img_93_z002" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDb">29</metamark> <metamark facs="#img_93_z003" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDb"><add facs="#img_93_z003" rend="bubble _Cg" place="inline" hand="#HM" change="#StDb">2</add></metamark>
 
-<del facs="#img_93-0007" rend="multi-stroke _Cr" hand="#HM" change="#StEab">
-"God knows, Sir<add facs="#img_93-0005" rend="no-caret _HMp" place="inline" hand="#HM" change="#StDb">.</add> <del rend="multi-stroke _HMp" hand="#HM" change="StDb" facs="#img_93-0009">,</del> <del facs="#img_93-0006" rend="multi-stroke _HMp" hand="#HM" change="#StDb">but I do'nt.</del> I
-<lb/>was found, but where I do'nt know.<add place="inline" rend="no-caret _HMp" hand="#HM" change="StDb" facs="#img_93-0008">"</add>
+<del facs="#img_93_z007" rend="multi-stroke _Cr" hand="#HM" change="#StEab">
+"God knows, Sir<add facs="#img_93_z005" rend="no-caret _HMp" place="inline" hand="#HM" change="#StDb">.</add> <del rend="multi-stroke _HMp" hand="#HM" change="StDb" facs="#img_93_z009">,</del> <del facs="#img_93_z006" rend="multi-stroke _HMp" hand="#HM" change="#StDb">but I do'nt.</del> I
+<lb/>was found, but where I do'nt know.<add place="inline" rend="no-caret _HMp" hand="#HM" change="StDb" facs="#img_93_z008">"</add>
  </del>
 </ab>
-</body></text>
+</div></body></text>

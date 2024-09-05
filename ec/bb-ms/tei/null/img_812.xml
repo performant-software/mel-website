@@ -1,21 +1,21 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_812"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_812"/>
 <ab>
-  <metamark place="margin(top) margin(right)" function="folio" rend="bubble _HMp" facs="#img_812-0002"><hi rend="bubble">1</hi></metamark> <!-- Hand= RW -->
-  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_812-0001">358</metamark>
-  <metamark place="margin(top)" function="composition-information" rend="no-caret _HMp" facs="#img_812-0004">Preface for </metamark>
-<metamark place="margin(top)" function="composition-information" rend="no-caret _HMp" facs="#img_812-0005"><add place="below" rend="no-caret _HMp" facs="#img_812-0005"><metamark place="inline" function="section-divider" rend="no-caret _HMp" facs="#img_812-0003">——//——</metamark>Billy Budd?</add></metamark>
+  <metamark place="margin(top) margin(right)" function="folio" rend="bubble _HMp" facs="#img_812_z002"><hi rend="bubble">1</hi></metamark> <!-- Hand= RW -->
+  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_812_z001">358</metamark>
+  <metamark place="margin(top)" function="composition-information" rend="no-caret _HMp" facs="#img_812_z004">Preface for </metamark>
+<metamark place="margin(top)" function="composition-information" rend="no-caret _HMp" facs="#img_812_z005"><add place="below" rend="no-caret _HMp" facs="#img_812_z005"><metamark place="inline" function="section-divider" rend="no-caret _HMp" facs="#img_812_z003">——//——</metamark>Billy Budd?</add></metamark>
 
 The year 1797, the year
   <lb/>of this narrative, belongs to a period
-  <lb/>which as every<del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812-0005">body</del> <metamark place="inline" function="caret" rend=" _ink2" facs="#img_812-0006">^ </metamark><add place="above" rend="caret _ink2" hand="#HM" change="StGa" facs="#img_812-0007">thinker</add> now feels,
+  <lb/>which as every<del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812_z005">body</del> <metamark place="inline" function="caret" rend="_ink2" facs="#img_812_z006">^ </metamark><add place="above" rend="caret _ink2" hand="#HM" change="StGa" facs="#img_812_z007">thinker</add> now feels,
   <lb/>involved a crisis for Christendom
-  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" change="StGa" facs="#img_812-0019">1</metamark> not exceeded in its undetermined <metamark place="inline" function="folio" rend="no-caret _HMp" facs="#img_812-0008">41</metamark>
+  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" change="StGa" facs="#img_812_z019">1</metamark> not exceeded in its undetermined <metamark place="inline" function="folio" rend="no-caret _HMp" facs="#img_812_z008">41</metamark>
   <lb/>momentousness at the time by any
-  <lb/>other <del rend="single-stroke _HMp" hand="#HM" change="StGa" facs="#img_812-0009">recorded</del> <del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812-0010">event.</del> era<subst facs="#img_812-0011"><del rend=" _ink1" hand="#HM" change="StGa" facs="#img_812-0011">.</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StGa" facs="#img_812-0011">^</add></subst> <add place="above" rend="caret _HMp" hand="#HM" change="StGa" facs="#img_812-0012">whereof there is record.</add> The
+  <lb/>other <del rend="single-stroke _HMp" hand="#HM" change="StGa" facs="#img_812_z009">recorded</del> <del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812_z010">event.</del> era<subst facs="#img_812_z011"><del rend="_ink1" hand="#HM" change="StGa" facs="#img_812_z011">.</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StGa" facs="#img_812_z011">^</add></subst> <add place="above" rend="caret _HMp" hand="#HM" change="StGa" facs="#img_812_z012">whereof there is record.</add> The
   <lb/>opening proposition made by
-  <lb/>the Spirit of the Age, <metamark place="inline" function="caret" rend=" _ink2" facs="#img_812-0013">^</metamark> <del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812-0014">was</del> <del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812-0015">one</del> <add place="above" rend="caret _ink2" hand="#HM" change="StGa" facs="#img_812-0016">involved</add>
-  <lb/><del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812-0017">hailed by the noblest men of it.
+  <lb/>the Spirit of the Age, <metamark place="inline" function="caret" rend="_ink2" facs="#img_812_z013">^</metamark> <del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812_z014">was</del> <del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812_z015">one</del> <add place="above" rend="caret _ink2" hand="#HM" change="StGa" facs="#img_812_z016">involved</add>
+  <lb/><del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_812_z017">hailed by the noblest men of it.
   <lb/>Even the dry tinder of a Wordsworth
   <lb/>took fire. The Old World's</del>
 </ab><milestone n="Preface" unit="chapter"/>
-</body></text>
+</div></body></text>

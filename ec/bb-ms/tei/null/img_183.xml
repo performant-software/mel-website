@@ -1,18 +1,18 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_183"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_183"/>
 <ab>
-<metamark facs="#img_183-0001" place="margin(top) margin(left)" function="folio" rend="#HMp">54</metamark>
-<metamark facs="#img_183-0002" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co">95</metamark>
-<metamark facs="#img_183-0003" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co"><add facs="#img_183-0003" rend="bubble" place="below" hand="#Co" change="#StEc">2</add></metamark>
-<metamark facs="#img_183-0004" place="margin(top) margin(right)" function="folio" rend="#RW"><hi rend="Bubble">65</hi></metamark>
-<metamark facs="#img_183-0005" place="margin(bottom) margin(left)" function="folio" rend="#HT">78</metamark>
+<metamark facs="#img_183_z001" place="margin(top) margin(left)" function="folio" rend="#HMp">54</metamark>
+<metamark facs="#img_183_z002" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co">95</metamark>
+<metamark facs="#img_183_z003" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co"><add facs="#img_183_z003" rend="bubble" place="below" hand="#Co" change="#StEc">2</add></metamark>
+<metamark facs="#img_183_z004" place="margin(top) margin(right)" function="folio" rend="#RW"><hi rend="Bubble">65</hi></metamark>
+<metamark facs="#img_183_z005" place="margin(bottom) margin(left)" function="folio" rend="#HT">78</metamark>
 <lb/>As with some others engaged in various
   <lb/>departments of the world's more
-  <lb/>heroic activities, Captain Vere <subst facs="#img_183-0006"><del facs="#img_183-0006" rend="overwritten" type="superimposed" hand="#ink1">tho</del><add facs="#img_183-0006" rend="superimposed" type="superimposed" hand="#ESM">though</add></subst>
+  <lb/>heroic activities, Captain Vere <subst facs="#img_183_z006"><del facs="#img_183_z006" rend="overwritten" type="superimposed" hand="#ink1">tho</del><add facs="#img_183_z006" rend="superimposed" type="superimposed" hand="#ESM">though</add></subst>
   <lb/>practical enough upon occasion would
   <lb/>at times betray a certain dreaminess
   <lb/>of mood. Standing alone on the
   <lb/>weather-side of the quarter deck,
-  <lb/><del facs="#img_183-0007" rend="single-stroke _ink1" hand="#HM" change="#StEc">and</del> one hand holding by the rigging
+  <lb/><del facs="#img_183_z007" rend="single-stroke _ink1" hand="#HM" change="#StEc">and</del> one hand holding by the rigging
   <lb/>he would absently gaze off at the
   <lb/>blank sea.  At the presentation to him
 
@@ -23,4 +23,4 @@
   <lb/>presentation to him then of some
   <lb/>minor matter interrupting the
   <lb/>current of his revery, he would</del></add>
-</ab></body></text>
+</ab></div></body></text>

@@ -1,23 +1,23 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_177"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_177"/>
 <ab>
-<add facs="#img_177-0019" rend="clip" place="inline" hand="#HM" change="#StEb">
-  <metamark place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_177-0001">51</metamark>
-<metamark facs="#img_177-0004" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">94</metamark> <metamark facs="#img_177-0003" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr"><add facs="#img_177-0003" rend="bubble _Cr" place="inline" hand="#HM" change="#StEb">1</add></metamark>
-<metamark facs="#img_177-0002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_177-0002" rend="bubble" place="inline" hand="#RW">62</add></metamark>
-<metamark facs="#img_177-0018" place="margin(bottom) margin(left)" function="folio" rend="#HT">75</metamark>
-<del facs="#img_177-0005" rend="single-stroke _ink1" hand="#HM" change="#StEc">but</del> <metamark facs="#img_177-0006" place="inline" function="caret" change="#StEc" rend="caret _ink1">^</metamark> <add facs="#img_177-0007" rend="caret _ink1" place="above" hand="#HM" change="#StEc">though</add> never injudiciously <del facs="#img_177-0008" rend="single-stroke _HMp" hand="#HMp" change="#StEc"><add facs="#img_177-0008" rend="caret _ink1" place="above" hand="#HM" change="#StEc">daring.</add></del><restore facs="#img_177-0010" change="#StEc"><del facs="#img_177-0010" rend="single-stroke _HMp" hand="#HM"><hi rend="restoration">so.</hi></del></restore><metamark facs="#img_177-0009" place="inline" function="caret" change="#StEc" rend="caret _ink1">^</metamark>  For his gallantry
+<add facs="#img_177_z019" rend="clip" place="inline" hand="#HM" change="#StEb">
+  <metamark place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_177_z001">51</metamark>
+<metamark facs="#img_177_z004" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">94</metamark> <metamark facs="#img_177_z003" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr"><add facs="#img_177_z003" rend="bubble _Cr" place="inline" hand="#HM" change="#StEb">1</add></metamark>
+<metamark facs="#img_177_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_177_z002" rend="bubble" place="inline" hand="#RW">62</add></metamark>
+<metamark facs="#img_177_z018" place="margin(bottom) margin(left)" function="folio" rend="#HT">75</metamark>
+<del facs="#img_177_z005" rend="single-stroke _ink1" hand="#HM" change="#StEc">but</del> <metamark facs="#img_177_z006" place="inline" function="caret" change="#StEc" rend="caret _ink1">^</metamark> <add facs="#img_177_z007" rend="caret _ink1" place="above" hand="#HM" change="#StEc">though</add> never injudiciously <del facs="#img_177_z008" rend="single-stroke _HMp" hand="#HMp" change="#StEc"><add facs="#img_177_z008" rend="caret _ink1" place="above" hand="#HM" change="#StEc">daring.</add></del><restore facs="#img_177_z010" change="#StEc"><del facs="#img_177_z010" rend="single-stroke _HMp" hand="#HM"><hi rend="restoration">so.</hi></del></restore><metamark facs="#img_177_z009" place="inline" function="caret" change="#StEc" rend="caret _ink1">^</metamark>  For his gallantry
   <lb/>in the West Indian waters as
   <lb/>flag-lieutenant under Rodney in
   <lb/>that Admiral's crowning victory over
   <lb/>De Grasse, he was made a post-captain.</add>
-  <lb/>Ashore <del facs="#img_177-0012" rend="single-stroke _ink1" hand="#HM" change="#StEb">dressed as a</del> in the garb
-  <lb/>of a civilian scarce <subst facs="#img_177-0013"><del facs="#img_177-0013" rend="overwritten" type="superimposed" hand="#ink1">any^body</del><add facs="#img_177-0013" rend="superimposed _HMp" type="superimposed" hand="#ESM">anyone</add></subst> would
+  <lb/>Ashore <del facs="#img_177_z012" rend="single-stroke _ink1" hand="#HM" change="#StEb">dressed as a</del> in the garb
+  <lb/>of a civilian scarce <subst facs="#img_177_z013"><del facs="#img_177_z013" rend="overwritten" type="superimposed" hand="#ink1">any^body</del><add facs="#img_177_z013" rend="superimposed _HMp" type="superimposed" hand="#ESM">anyone</add></subst> would
   <lb/>have taken him for a sailor, more
-  <lb/>especially that <del facs="#img_177-0014" rend="single-stroke _ink1" hand="#HM" change="#StEc">his</del> he never <del facs="#img_177-0015" rend="single-stroke _ink1" type="false-start" hand="#HM" change="#StEc">int</del> garnished
-  <lb/><del facs="#img_177-0017" rend="multi-stroke _HMp" hand="#HM" change="#StEc">his</del> unprofessional talk with
+  <lb/>especially that <del facs="#img_177_z014" rend="single-stroke _ink1" hand="#HM" change="#StEc">his</del> he never <del facs="#img_177_z015" rend="single-stroke _ink1" type="false-start" hand="#HM" change="#StEc">int</del> garnished
+  <lb/><del facs="#img_177_z017" rend="multi-stroke _HMp" hand="#HM" change="#StEc">his</del> unprofessional talk with
   <lb/>nautical terms, and grave in his
   <lb/>bearing, evinced little appreciation of
   <lb/>mere humor.  It was not out of
-  <lb/>keeping with these traits that <add facs="#img_177-0016" rend="insertion-device _HMp" place="inline" hand="#HM" change="#StEc"><metamark facs="#img_177-0016" place="inline" function="insertion-device" change="#StEc" rend="no-caret _HMp">/</metamark></add>
+  <lb/>keeping with these traits that <add facs="#img_177_z016" rend="insertion-device _HMp" place="inline" hand="#HM" change="#StEc"><metamark facs="#img_177_z016" place="inline" function="insertion-device" change="#StEc" rend="no-caret _HMp">/</metamark></add>
 </ab>
-</body></text>
+</div></body></text>

@@ -1,17 +1,17 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_527"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_527"/>
 <ab>
-<metamark facs="#img_527-0006" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">221</metamark>
+<metamark facs="#img_527_z006" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">221</metamark>
 <lb/><metamark rend="_ink1" place="inline" function="composition-information"><hi rend="italic">[See Image 529 for earlier version of the following text.]</hi></metamark>
-  <lb/><add facs="#img_527-0008" rend="patch" place="inline" hand="#HM">
-  <lb/>With the measured step and calm <metamark facs="#img_527-0001" rend="#HM _HMp" place="inline" function="folio" change="#StGa">29</metamark>
-  <lb/>collected <metamark facs="#img_527-0004" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <del facs="#img_527-0003" rend="multi-stroke _ink1" hand="#HM" change="#StGa">visage</del><add facs="#img_527-0002" rend="caret _ink1" place="above" hand="#HM" change="#StGa">air</add> of an asylum-
+  <lb/><add facs="#img_527_z008" rend="patch" place="inline" hand="#HM">
+  <lb/>With the measured step and calm <metamark facs="#img_527_z001" rend="#HM _HMp" place="inline" function="folio" change="#StGa">29</metamark>
+  <lb/>collected <metamark facs="#img_527_z004" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <del facs="#img_527_z003" rend="multi-stroke _ink1" hand="#HM" change="#StGa">visage</del><add facs="#img_527_z002" rend="caret _ink1" place="above" hand="#HM" change="#StGa">air</add> of an asylum-
   <lb/>physician approaching in the public
   <lb/>hall some patient beginning to show
-  <lb/>indications of a coming <del facs="#img_527-0005" rend="single-stroke _ink1" hand="#HM" change="#StGa">parox</del> paroxysm,
+  <lb/>indications of a coming <del facs="#img_527_z005" rend="single-stroke _ink1" hand="#HM" change="#StGa">parox</del> paroxysm,
   <lb/>Claggart deliberatly advanced within
   <lb/>short range of Billy, and mesmerically
   <lb/>looking him in the eye, briefly
   <lb/>recapitulated the accusation.
 </add>
 </ab>
-</body></text>
+</div></body></text>

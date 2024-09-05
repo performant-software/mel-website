@@ -1,29 +1,29 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_102"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_102"/>
 <ab>
-<metamark facs="#img_102-0001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">31</metamark>
-<metamark facs="#img_102-0002" place="margin(top) margin(left)" function="folio" change="#StDb"><add rend="bubble _Cg" place="inline" hand="#HM" change="#StDb">2</add></metamark>
-<metamark facs="#img_102-0004" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">39</metamark>
-<metamark facs="#img_102-0052" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">44</metamark>
-<del rend="erasure _Cr" hand="#HM" change="StEa" facs="#img_102-0054"><add facs="#img_102-0064" rend="bubble _HMp" place="inline">
-Most of <del facs="#img_102-0061" rend="single-stroke _HMp" hand="#HM" change="#StDa">them</del><add facs="#img_102-0062" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">these "vices"</add>
+<metamark facs="#img_102_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">31</metamark>
+<metamark facs="#img_102_z002" place="margin(top) margin(left)" function="folio" change="#StDb"><add rend="bubble _Cg" place="inline" hand="#HM" change="#StDb">2</add></metamark>
+<metamark facs="#img_102_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">39</metamark>
+<metamark facs="#img_102_z052" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">44</metamark>
+<del rend="erasure _Cr" hand="#HM" change="StEa" facs="#img_102_z054"><add facs="#img_102_z064" rend="bubble _HMp" place="inline">
+Most of <del facs="#img_102_z061" rend="single-stroke _HMp" hand="#HM" change="#StDa">them</del><add facs="#img_102_z062" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">these "vices"</add>
 are the</add>
-  <lb/><del rend="single-stroke _HMp" hand="#HM" change="StDa" facs="#img_102-0066">They</del> <del rend="single-stroke _HMp" hand="#HM" change="StDa" facs="#img_102-0067">are but</del> frank <add facs="#img_102-0039" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">evidence</add> <del rend="single-stroke _HMp" hand="#HM" change="StDa" facs="#img_102-0068">manifestations</del>
-<lb/>of <del facs="#img_102-0030" rend="hashmark _HMp" hand="#HM">the</del> untutored man, <add facs="#img_102-0028" rend="no-caret" place="above" hand="#HMp">or</add> manifestations
+  <lb/><del rend="single-stroke _HMp" hand="#HM" change="StDa" facs="#img_102_z066">They</del> <del rend="single-stroke _HMp" hand="#HM" change="StDa" facs="#img_102_z067">are but</del> frank <add facs="#img_102_z039" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">evidence</add> <del rend="single-stroke _HMp" hand="#HM" change="StDa" facs="#img_102_z068">manifestations</del>
+<lb/>of <del facs="#img_102_z030" rend="hashmark _HMp" hand="#HM">the</del> untutored man, <add facs="#img_102_z028" rend="no-caret" place="above" hand="#HMp">or</add> manifestations
 <lb/>in accordance with natural law.</del>
   <!-- Stage Da lines 15-21 also appear on leaf image 99, and are coded separately there for MEL's reading text -->
-  <del rend="erasure" hand="" change="MEL" facs="#img_102-0055">
+  <del rend="erasure" hand="" change="MEL" facs="#img_102_z055">
 <lb/>By his original constitution aided
 <lb/>by the cooperating influnces of his
 <lb/>lot, Billy in many respects
-<lb/><add place="inline" rend="no-caret _ink1" hand="#HM" change="StDa" facs="#img_102-0013">was</add> little more than a sort of <metamark place="inline" function="caret" rend="caret _ink1" change="StDa" facs="#img_102-0036">^</metamark> <del rend="single-stroke _HMp" hand="#HM" change="StDa" facs="#img_102-0031"><add place="above" rend="caret _ink1" hand="#HM" change="StDa" facs="#img_102-0031">unassuming</add></del> upright
+<lb/><add place="inline" rend="no-caret _ink1" hand="#HM" change="StDa" facs="#img_102_z013">was</add> little more than a sort of <metamark place="inline" function="caret" rend="caret _ink1" change="StDa" facs="#img_102_z036">^</metamark> <del rend="single-stroke _HMp" hand="#HM" change="StDa" facs="#img_102_z031"><add place="above" rend="caret _ink1" hand="#HM" change="StDa" facs="#img_102_z031">unassuming</add></del> upright
 <lb/>barbarian, much such perhaps
 <lb/>as Adam presumably might have
 <lb/>been ere the urbane Serpent</del>
-<del rend="erasure _Cr" hand="#HM" change="StEa" facs="#img_102-0056">  <lb/><del facs="#img_102-0015" rend="multi-stroke _HMp" hand="#HM" change="#StDa"><add facs="#img_102-0015" rend="no-caret" place="inline" hand="#HM" change="StDa">glided</add></del><del facs="#img_102-0033" rend="single-stroke _HMp" hand="#HM" change="StDa"><add facs="#img_102-0033" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">insinuated himself</add></del><del facs="#img_102-0017" rend="multi-stroke _HMp" hand="#HM" change="StDa">upon the scene.</del><del facs="#img_102-0037" rend="erasure" hand="#HM" change="StDa"><add facs="#img_102-0037" rend="bubble _HMp" place="above" hand="#HMp" change="#StDa">bowed himself into his company</add></del>
+<del rend="erasure _Cr" hand="#HM" change="StEa" facs="#img_102_z056">  <lb/><del facs="#img_102_z015" rend="multi-stroke _HMp" hand="#HM" change="#StDa"><add facs="#img_102_z015" rend="no-caret" place="inline" hand="#HM" change="StDa">glided</add></del><del facs="#img_102_z033" rend="single-stroke _HMp" hand="#HM" change="StDa"><add facs="#img_102_z033" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">insinuated himself</add></del><del facs="#img_102_z017" rend="multi-stroke _HMp" hand="#HM" change="StDa">upon the scene.</del><del facs="#img_102_z037" rend="erasure" hand="#HM" change="StDa"><add facs="#img_102_z037" rend="bubble _HMp" place="above" hand="#HMp" change="#StDa">bowed himself into his company</add></del>
 <lb/>And here be it submitted,
-<lb/>that <metamark facs="#img_102-0043" place="inline" function="caret" rend="caret _ink1" change="StDa">^</metamark><add facs="#img_102-0042" rend="caret _ink1" place="above" hand="#HM" change="StDa">apparently</add> helping to corroborate the <metamark facs="#img_102-0035" place="inline" function="caret" rend="caret _HMp" change="StDa">^</metamark><add facs="#img_102-0034" rend="bubble _HMp" place="margin(bottom)" hand="#HM" change="StDa"><del rend="single-stroke _HMp" hand="#HM" change="StDa">spirit that underlies the</del></add>
-<lb/><del facs="#img_102-0045" rend="multi-stroke _HMp" hand="#HM" change="StDa">now</del> <del facs="#img_102-0046" rend="single-stroke _HMp" hand="#HM" change="StDa">unpopular</del> <add facs="#img_102-0048" rend="no-caret _HMp" place="above" hand="#HM" change="StDa"><del facs="#img_102-0048" rend="single-stroke _HMp" hand="#HM" change="StDa">ridiculed</del></add> dogma of Man's Fall,
-<lb/><metamark facs="#img_102-0040" place="inline" function="caret" rend="caret _HMp" change="StDa">^</metamark><add facs="#img_102-0041" rend="caret _HMp" place="above" hand="#HM" change="#StDa">a dogma now <app><rdg resp="MEL">practically</rdg><rdg resp="HS">popularly</rdg></app> </add> <add facs="#img_102-0051" rend="caret _HMp" place="above" hand="#HM" change="#StDa">ignored</add> it is observable that where the
+<lb/>that <metamark facs="#img_102_z043" place="inline" function="caret" rend="caret _ink1" change="StDa">^</metamark><add facs="#img_102_z042" rend="caret _ink1" place="above" hand="#HM" change="StDa">apparently</add> helping to corroborate the <metamark facs="#img_102_z035" place="inline" function="caret" rend="caret _HMp" change="StDa">^</metamark><add facs="#img_102_z034" rend="bubble _HMp" place="margin(bottom)" hand="#HM" change="StDa"><del rend="single-stroke _HMp" hand="#HM" change="StDa">spirit that underlies the</del></add>
+<lb/><del facs="#img_102_z045" rend="multi-stroke _HMp" hand="#HM" change="StDa">now</del> <del facs="#img_102_z046" rend="single-stroke _HMp" hand="#HM" change="StDa">unpopular</del> <add facs="#img_102_z048" rend="no-caret _HMp" place="above" hand="#HM" change="StDa"><del facs="#img_102_z048" rend="single-stroke _HMp" hand="#HM" change="StDa">ridiculed</del></add> dogma of Man's Fall,
+<lb/><metamark facs="#img_102_z040" place="inline" function="caret" rend="caret _HMp" change="StDa">^</metamark><add facs="#img_102_z041" rend="caret _HMp" place="above" hand="#HM" change="#StDa">a dogma now <app><rdg resp="MEL">practically</rdg><rdg resp="HS">popularly</rdg></app> </add> <add facs="#img_102_z051" rend="caret _HMp" place="above" hand="#HM" change="#StDa">ignored</add> it is observable that where the
 <lb/>simpler unsophisticated</del>
 </ab>
-</body></text>
+</div></body></text>

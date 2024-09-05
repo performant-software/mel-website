@@ -1,21 +1,21 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_289"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_289"/>
 <ab>
-<metamark facs="#img_289-0001" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEb">128</metamark> <metamark facs="#img_289-0002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StEb"><add facs="#img_289-0002" rend="no-caret _HMp" place="below" hand="#RW" change="#StEb">108</add></metamark> <metamark facs="#img_289-0003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StEb">120</metamark>
+<metamark facs="#img_289_z001" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEb">128</metamark> <metamark facs="#img_289_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StEb"><add facs="#img_289_z002" rend="no-caret _HMp" place="below" hand="#RW" change="#StEb">108</add></metamark> <metamark facs="#img_289_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StEb">120</metamark>
 meant for humorous, and at which
 <lb/>therefore as coming from a superior
-<lb/>they were bound to laugh, <add facs="#img_289-0004" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">"with counterfieted glee"</add> <subst facs="#img_289-0010"><del facs="#img_289-0010" rend="overwritten _ink3" type="superimposed" hand="#HM">a cted</del><add facs="#img_289-0010" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEb">acted</add></subst>
-<lb/>accordingly; and Billy <del facs="#img_289-0005" rend="single-stroke _ink1" hand="#HM" change="#StEb">with no reason</del>
+<lb/>they were bound to laugh, <add facs="#img_289_z004" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">"with counterfieted glee"</add> <subst facs="#img_289_z010"><del facs="#img_289_z010" rend="overwritten _ink3" type="superimposed" hand="#HM">a cted</del><add facs="#img_289_z010" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEb">acted</add></subst>
+<lb/>accordingly; and Billy <del facs="#img_289_z005" rend="single-stroke _ink1" hand="#HM" change="#StEb">with no reason</del>
 <lb/>tickled, it may be, by the allusion
 <lb/>to his being the handsome sailor, merrily
 <lb/>joined in; then addressing his messmates
 <lb/>exclaimed "There now, who says that
 <lb/>Jimmy Legs is down on me!" "And
 <lb/>who said he was, Beauty?" demanded
-<lb/>one<add facs="#img_289-0007" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEb"><del facs="#img_289-0007" rend="single-stroke _HMp" hand="#HM" change="#StEb">,</del></add> <metamark facs="#img_289-0008" rend="#HM _HMp" place="inline" function="caret" change="#StEb">^</metamark> <add facs="#img_289-0006" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">Donald</add> with some surprise. Whereat the
+<lb/>one<add facs="#img_289_z007" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEb"><del facs="#img_289_z007" rend="single-stroke _HMp" hand="#HM" change="#StEb">,</del></add> <metamark facs="#img_289_z008" rend="#HM _HMp" place="inline" function="caret" change="#StEb">^</metamark> <add facs="#img_289_z006" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">Donald</add> with some surprise. Whereat the
 <lb/>foretopman looked a little foolish
 <lb/>recalling that it was only one person,
 <lb/>Board-her-in-the-smoke who had
 <lb/>suggested what to him was the
-<lb/>smoky idea that this <del facs="#img_289-0009" rend="single-stroke _HMp" hand="#HM" change="#StEb">pleasant</del>
+<lb/>smoky idea that this <del facs="#img_289_z009" rend="single-stroke _HMp" hand="#HM" change="#StEb">pleasant</del>
 </ab>
-</body></text>
+</div></body></text>

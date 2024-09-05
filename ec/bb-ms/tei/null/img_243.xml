@@ -1,11 +1,11 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_243"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_243"/>
 <ab>
-<add facs="#img_243-0019" rend="patch _ink1" place="inline" hand="#HM" change="#StEc"><metamark facs="#img_243-0001" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">109</metamark>
-<metamark facs="#img_243-0002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_243-0002" place="below" hand="#RW">87</add></metamark>
-<metamark facs="#img_243-0004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">98</metamark>
-<subst facs="#img_243-0005"><del facs="#img_243-0005" rend="overwritten _ink1" type="superimposed" hand="#HM">it</del><add facs="#img_243-0005" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StEc">It</add></subst> was to this effect: <subst facs="#img_243-0006"><del facs="#img_243-0006" rend="overwritten _ink1" type="superimposed" hand="#HM">in</del><add facs="#img_243-0006" rend="superimposed_ink1" type="superimposed" hand="#HM" change="#StEc">In</add></subst> the case of a <metamark facs="#img_243-0007" place="inline" function="caret" change="#StEc" rend="#caret _ink1">^</metamark> <add facs="#img_243-0008" rend="caret _ink1" place="above" hand="#HM" change="#StEc">war-</add>ship
-  <lb/>short of hands <del facs="#img_243-0009" rend="single-stroke _ink1" hand="#HM" change="#StEc">and</del> whose speedy sailing
-  <lb/>was imperative, the deficient quota <metamark facs="#img_243-0010" place="inline" function="caret" change="#StEc" rend="caret _ink1">^</metamark><add facs="#img_243-0011" rend="bubble _ink1" place="below" hand="#HM" change="#StEc">in lack of any other way of<lb/>making it good,</add> would
+<add facs="#img_243_z019" rend="patch _ink1" place="inline" hand="#HM" change="#StEc"><metamark facs="#img_243_z001" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">109</metamark>
+<metamark facs="#img_243_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_243_z002" place="below" hand="#RW">87</add></metamark>
+<metamark facs="#img_243_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">98</metamark>
+<subst facs="#img_243_z005"><del facs="#img_243_z005" rend="overwritten _ink1" type="superimposed" hand="#HM">it</del><add facs="#img_243_z005" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StEc">It</add></subst> was to this effect: <subst facs="#img_243_z006"><del facs="#img_243_z006" rend="overwritten _ink1" type="superimposed" hand="#HM">in</del><add facs="#img_243_z006" rend="superimposed_ink1" type="superimposed" hand="#HM" change="#StEc">In</add></subst> the case of a <metamark facs="#img_243_z007" place="inline" function="caret" change="#StEc" rend="#caret _ink1">^</metamark> <add facs="#img_243_z008" rend="caret _ink1" place="above" hand="#HM" change="#StEc">war-</add>ship
+  <lb/>short of hands <del facs="#img_243_z009" rend="single-stroke _ink1" hand="#HM" change="#StEc">and</del> whose speedy sailing
+  <lb/>was imperative, the deficient quota <metamark facs="#img_243_z010" place="inline" function="caret" change="#StEc" rend="caret _ink1">^</metamark><add facs="#img_243_z011" rend="bubble _ink1" place="below" hand="#HM" change="#StEc">in lack of any other way of<lb/>making it good,</add> would
   <lb/>be eked out by draughts culled direct from
   <lb/>the jails.</add>
   <lb/>For reasons previously suggested it would not
@@ -13,7 +13,7 @@
   <lb/>to prove or disprove the allegation.  But
   <lb/>allowed as a verity, how significant would
   <lb/>it be of England's straits at the time
-  <lb/>confronted by those <del facs="#img_243-0013" rend="single-stroke _ink1" hand="#HM" change="#StEb">momentous</del> <del facs="#img_243-0014" rend="single-stroke _ink1" hand="#HM" change="#StEb"><add facs="#img_243-0014" rend="caret _ink1" place="above" hand="#HM" change="#StEb">terrible</add></del> <metamark facs="#img_243-0012" place="inline" function="caret" change="#StEb" rend="#caret _ink1">^</metamark> <del facs="#img_243-0015" rend="single-stroke _ink1" hand="#HM" change="#StEb"><add facs="#img_243-0015" rend="caret _ink1" place="above" hand="#HM" change="#StEb">horrible</add></del> wars
-  <lb/>which like a flight of harpies rose <metamark facs="#img_243-0016" place="inline" function="caret" change="#StEb" rend="caret _ink1">^</metamark><add facs="#img_243-0017" rend="bubble _ink1" place="below" hand="#HM" change="#StEb">shrieking</add> from the
-  <lb/>din and dust of the fallen Bastile.<metamark facs="#img_243-0018" place="inline" function="composition-information" change="#StEb" rend="insertion-device _HMp">/</metamark>
-</ab></body></text>
+  <lb/>confronted by those <del facs="#img_243_z013" rend="single-stroke _ink1" hand="#HM" change="#StEb">momentous</del> <del facs="#img_243_z014" rend="single-stroke _ink1" hand="#HM" change="#StEb"><add facs="#img_243_z014" rend="caret _ink1" place="above" hand="#HM" change="#StEb">terrible</add></del> <metamark facs="#img_243_z012" place="inline" function="caret" change="#StEb" rend="#caret _ink1">^</metamark> <del facs="#img_243_z015" rend="single-stroke _ink1" hand="#HM" change="#StEb"><add facs="#img_243_z015" rend="caret _ink1" place="above" hand="#HM" change="#StEb">horrible</add></del> wars
+  <lb/>which like a flight of harpies rose <metamark facs="#img_243_z016" place="inline" function="caret" change="#StEb" rend="caret _ink1">^</metamark><add facs="#img_243_z017" rend="bubble _ink1" place="below" hand="#HM" change="#StEb">shrieking</add> from the
+  <lb/>din and dust of the fallen Bastile.<metamark facs="#img_243_z018" place="inline" function="composition-information" change="#StEb" rend="insertion-device _HMp">/</metamark>
+</ab></div></body></text>

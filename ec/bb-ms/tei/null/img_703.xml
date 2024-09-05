@@ -1,23 +1,23 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><pb facs="#img_703"/>
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_703"/>
 <ab>
-<metamark facs="#img_703-0001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StFa">8</metamark>
-<metamark facs="#img_703-0002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">295</metamark> <metamark facs="#img_703-0003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">305</metamark>
+<metamark facs="#img_703_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StFa">8</metamark>
+<metamark facs="#img_703_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">295</metamark> <metamark facs="#img_703_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">305</metamark>
 or dream would diffuse itself over
-<lb/>the <add facs="#img_703-0005" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">his</add> face, and then wane away only
+<lb/>the <add facs="#img_703_z005" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">his</add> face, and then wane away only
   <lb/>anew to return.
   <lb/>The Chaplain coming to see him
   <lb/>and finding him thus, and percieving no
   <lb/>sign that he was conscious of his prescence,
-  <lb/><del facs="#img_703-0006" rend="single-stroke _ink1" hand="#HM" change="#StFa">after</del> <del facs="#img_703-0007" rend="single-stroke _HMp" hand="#HM" change="#StFa"><add facs="#img_703-0007" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">not without emotion</add></del> <del facs="#img_703-0008" rend="single-stroke _ink1" hand="#HM" change="#StFa">quietly</del> <add facs="#img_703-0009" rend="no-caret _HMp" place="below" hand="#HM" change="#StFa">attentively</add> <del facs="#img_703-0010" rend="single-stroke _ink1" hand="#HM" change="#StFa">gazed</del> <metamark facs="#img_703-0011" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_703-0012" rend="caret _HMp" place="above" hand="#HM" change="#StFa">regarded him</add> for a space, then
-  <lb/><metamark facs="#img_703-0004" rend="#HM _HMp" place="inline" function="folio" change="#StFa">68</metamark>  slipping aside, withdrew for the time,
-  <lb/>peradventure feeling that even <metamark facs="#img_703-0013" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_703-0014" rend="caret _HMp" place="above" hand="#HM" change="#StFa">he</add> the
-  <lb/><metamark facs="#img_703-0015" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark><del facs="#img_703-0016" rend="single-stroke _HMp" hand="#HM" change="#StFa"><add facs="#img_703-0016" rend="caret _HMp" place="above" hand="#HM" change="#StFa">war-ship's</add></del> minister of <restore facs="#img_703-0017" change="#StFa"><del facs="#img_703-0017" hand="#HM"><hi rend="restoration">Christ</hi></del></restore> <del facs="#img_703-0018" rend="single-stroke _HMp" hand="#HM" change="#StFa"><add facs="#img_703-0018" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">peace</add></del> <metamark facs="#img_703-0019" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark> <add facs="#img_703-0020" rend="caret _HMp" place="above" hand="#HM" change="#StFa">tho' receiving his stipend from Mars</add> had no consolation
+  <lb/><del facs="#img_703_z006" rend="single-stroke _ink1" hand="#HM" change="#StFa">after</del> <del facs="#img_703_z007" rend="single-stroke _HMp" hand="#HM" change="#StFa"><add facs="#img_703_z007" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">not without emotion</add></del> <del facs="#img_703_z008" rend="single-stroke _ink1" hand="#HM" change="#StFa">quietly</del> <add facs="#img_703_z009" rend="no-caret _HMp" place="below" hand="#HM" change="#StFa">attentively</add> <del facs="#img_703_z010" rend="single-stroke _ink1" hand="#HM" change="#StFa">gazed</del> <metamark facs="#img_703_z011" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_703_z012" rend="caret _HMp" place="above" hand="#HM" change="#StFa">regarded him</add> for a space, then
+  <lb/><metamark facs="#img_703_z004" rend="#HM _HMp" place="inline" function="folio" change="#StFa">68</metamark>  slipping aside, withdrew for the time,
+  <lb/>peradventure feeling that even <metamark facs="#img_703_z013" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_703_z014" rend="caret _HMp" place="above" hand="#HM" change="#StFa">he</add> the
+  <lb/><metamark facs="#img_703_z015" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark><del facs="#img_703_z016" rend="single-stroke _HMp" hand="#HM" change="#StFa"><add facs="#img_703_z016" rend="caret _HMp" place="above" hand="#HM" change="#StFa">war-ship's</add></del> minister of <restore facs="#img_703_z017" change="#StFa"><del facs="#img_703_z017" hand="#HM"><hi rend="restoration">Christ</hi></del></restore> <del facs="#img_703_z018" rend="single-stroke _HMp" hand="#HM" change="#StFa"><add facs="#img_703_z018" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">peace</add></del> <metamark facs="#img_703_z019" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark> <add facs="#img_703_z020" rend="caret _HMp" place="above" hand="#HM" change="#StFa">tho' receiving his stipend from Mars</add> had no consolation
   <lb/>to proffer which could result in a
-  <lb/>peace transcending that which <del facs="#img_703-0021" rend="single-stroke _ink1" hand="#HM" change="#StFa">he</del>
-  <lb/><del facs="#img_703-0022" rend="single-stroke _HMp" hand="#HM" change="#StFa">which not without natural reverence</del>
-  <lb/>he beheld. But in the <del facs="#img_703-0023" rend="single-stroke _ink1" hand="#HM" change="#StFa">first of the</del>
+  <lb/>peace transcending that which <del facs="#img_703_z021" rend="single-stroke _ink1" hand="#HM" change="#StFa">he</del>
+  <lb/><del facs="#img_703_z022" rend="single-stroke _HMp" hand="#HM" change="#StFa">which not without natural reverence</del>
+  <lb/>he beheld. But in the <del facs="#img_703_z023" rend="single-stroke _ink1" hand="#HM" change="#StFa">first of the</del>
   <lb/>small hours he came again. And
   <lb/>the prisoner now awake to his
   <lb/>surroundings noticed his approach
 </ab>
-</body></text>
+</div></body></text>
