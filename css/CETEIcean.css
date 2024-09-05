@@ -470,6 +470,10 @@ tei-custodialHist {
 tei-date[data-tei-when]:empty:before {
   content: attr(when);
 }
+tei-del {
+  color: black !important;
+  font-style: strike-through !important;
+}
 /* e */
 tei-editionStmt {
   display:block;
