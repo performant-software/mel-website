@@ -472,7 +472,7 @@ tei-date[data-tei-when]:empty:before {
 }
 tei-del {
   color: black !important;
-  font-style: strike-through !important;
+  font-style: line-through !important;
 }
 /* e */
 tei-editionStmt {
