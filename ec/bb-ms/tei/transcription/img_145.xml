@@ -1,16 +1,16 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_145"/>
 <ab>
-<metamark facs="#img_145-0001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">3</metamark>
-<metamark facs="#img_145-0008" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">60</metamark>
+<metamark facs="#img_145_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">3</metamark>
+<metamark facs="#img_145_z008" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">60</metamark>
 though nowadays in encounters there
   <lb/>a certain kind of displayed
   <lb/>gallantry be fallen out of date
-  <lb/>as hardly applicable <add facs="#img_145-0003" rend="caret _ink1" place="above" hand="#HM" change="#StG">under</add> <metamark facs="#img_145-0004" place="below" function="caret" rend="no-caret _ink1" change="#StG">^</metamark> <del facs="#img_145-0002" rend="single-stroke _ink1" hand="#HM" change="#StG">to</del> changed
+  <lb/>as hardly applicable <add facs="#img_145_z003" rend="caret _ink1" place="above" hand="#HM" change="#StG">under</add> <metamark facs="#img_145_z004" place="below" function="caret" rend="no-caret _ink1" change="#StG">^</metamark> <del facs="#img_145_z002" rend="single-stroke _ink1" hand="#HM" change="#StG">to</del> changed
   <lb/>circumstances, did the nobler qualities
   <lb/>of such naval magnates as Don
   <lb/>John of Austria, Doria, Van Tromp,
-  <lb/>Jean Bart, <del facs="#img_145-0005" rend="single-stroke _ink1" hand="#HM" change="#StG">and</del> the long line
-  <lb/>of British Admirals <metamark facs="#img_145-0006" place="inline" function="insertion-device" rend="no-caret _ink1" change="#StG">^</metamark><add facs="#img_145-0007" rend="bubble _ink1" place="below" hand="#HM" change="#StG">and the American Decaturs<lb/>of 1812</add> become obsolete
+  <lb/>Jean Bart, <del facs="#img_145_z005" rend="single-stroke _ink1" hand="#HM" change="#StG">and</del> the long line
+  <lb/>of British Admirals <metamark facs="#img_145_z006" place="inline" function="insertion-device" rend="no-caret _ink1" change="#StG">^</metamark><add facs="#img_145_z007" rend="bubble _ink1" place="below" hand="#HM" change="#StG">and the American Decaturs<lb/>of 1812</add> become obsolete
   <lb/>with their wooden walls.
 </ab>
 </div></body></text>

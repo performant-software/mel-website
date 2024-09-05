@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_285"/>
 <ab>
-<metamark facs="#img_285-0001" place="margin(top) margin(left)" function="folio" rend="#HM _Cg" change="#StDa">81</metamark><metamark facs="#img_285-0002" place="margin(top)" function="folio" rend="#HM _Cg" change="#StBca">31</metamark><metamark facs="#img_285-0004" place="margin(top)" function="folio" rend="#HM _Cg"><add facs="#img_285-0004" rend="bubble _Cg" place="inline" hand="#HM"><subst facs="#img_285-0004"><del facs="#img_285-0004" rend="overwritten _Cg" type="superimposed" hand="#HM">3</del><add facs="#img_285-0004" rend="superimposed _Cg" type="superimposed" hand="#HM" change="#StBcb">6</add></subst></add></metamark>
-<metamark facs="#img_285-0005" place="margin(top) margin(right)" function="folio" rend="#HM _Cr" change="#StEb">126</metamark><metamark facs="#img_285-0006" place="margin(top) margin(right)" function="folio" rend="#RW"><add facs="#img_285-0006" rend="bubble _HMp" place="below" hand="#RW">106</add></metamark>
-<metamark facs="#img_285-0007" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">118</metamark>
+<metamark facs="#img_285_z001" place="margin(top) margin(left)" function="folio" rend="#HM _Cg" change="#StDa">81</metamark><metamark facs="#img_285_z002" place="margin(top)" function="folio" rend="#HM _Cg" change="#StBca">31</metamark><metamark facs="#img_285_z004" place="margin(top)" function="folio" rend="#HM _Cg"><add facs="#img_285_z004" rend="bubble _Cg" place="inline" hand="#HM"><subst facs="#img_285_z004"><del facs="#img_285_z004" rend="overwritten _Cg" type="superimposed" hand="#HM">3</del><add facs="#img_285_z004" rend="superimposed _Cg" type="superimposed" hand="#HM" change="#StBcb">6</add></subst></add></metamark>
+<metamark facs="#img_285_z005" place="margin(top) margin(right)" function="folio" rend="#HM _Cr" change="#StEb">126</metamark><metamark facs="#img_285_z006" place="margin(top) margin(right)" function="folio" rend="#RW"><add facs="#img_285_z006" rend="bubble _HMp" place="below" hand="#RW">106</add></metamark>
+<metamark facs="#img_285_z007" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">118</metamark>
 on his way without comment, since
   <lb/>the matter was nothing to take
   <lb/>notice of under the circumstances,

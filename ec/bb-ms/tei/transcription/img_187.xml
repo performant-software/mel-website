@@ -1,10 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_187"/>
 <ab>
-<add facs="#img_187-0010" rend="patch _HMp" place="inline" hand="#HM" change="#Stp">
-<metamark facs="#img_187-0011" place="above" function="folio" change="#Stp" rend="no-caret _HM"><add facs="#img_187-0011" rend="bubble" place="inline" hand="#HM" change="#Stp">Insert<lb/>P96<lb/>red.</add></metamark>
+<add facs="#img_187_z010" rend="patch _HMp" place="inline" hand="#HM" change="#Stp">
+<metamark facs="#img_187_z011" place="above" function="folio" change="#Stp" rend="no-caret _HM"><add facs="#img_187_z011" rend="bubble" place="inline" hand="#HM" change="#Stp">Insert<lb/>P96<lb/>red.</add></metamark>
 upon one who whatever his sterling qualities
-  <lb/><del facs="#img_187-0026" rend="single-stroke" hand="#HMp" change="#Stp">was possessed of no</del> <del facs="#img_187-0027" rend="single-stroke" hand="#HMp" change="#Stp">brilliancy</del> <del facs="#img_187-0028" rend="single-stroke" hand="#HMp" change="#Stp">none</del> <del facs="#img_187-0023" rend="single-stroke" hand="#HMp" change="#Stp">could hardly</del>
-  <lb/><del facs="#img_187-0024" rend="single-stroke" hand="#HMp" change="#Stp">be said to have</del> was without <del facs="#img_187-0021" rend="single-stroke" hand="#HMp" change="#Stp">brilliancy</del>
+  <lb/><del facs="#img_187_z026" rend="single-stroke" hand="#HMp" change="#Stp">was possessed of no</del> <del facs="#img_187_z027" rend="single-stroke" hand="#HMp" change="#Stp">brilliancy</del> <del facs="#img_187_z028" rend="single-stroke" hand="#HMp" change="#Stp">none</del> <del facs="#img_187_z023" rend="single-stroke" hand="#HMp" change="#Stp">could hardly</del>
+  <lb/><del facs="#img_187_z024" rend="single-stroke" hand="#HMp" change="#Stp">be said to have</del> was without <del facs="#img_187_z021" rend="single-stroke" hand="#HMp" change="#Stp">brilliancy</del>
   <lb/>any brilliant ones</add>
 </ab>
 </div></body></text>

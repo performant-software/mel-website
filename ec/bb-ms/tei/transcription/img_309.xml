@@ -1,12 +1,12 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_309"/>
 <ab>
-<metamark facs="#img_309-0001" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEeF">138</metamark>
-<metamark facs="#img_309-0002" place="margin(top) margin(right)" function="folio" rend="#RW"><add facs="#img_309-0002" rend="bubble _HMp" place="below" hand="#RW">118</add></metamark>
-<metamark facs="#img_309-0004" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">130</metamark>
+<metamark facs="#img_309_z001" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEeF">138</metamark>
+<metamark facs="#img_309_z002" place="margin(top) margin(right)" function="folio" rend="#RW"><add facs="#img_309_z002" rend="bubble _HMp" place="below" hand="#RW">118</add></metamark>
+<metamark facs="#img_309_z004" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">130</metamark>
 is based on Holy Writ were any longer
   <lb/>popular, one might with less
   <lb/>difficulty define and denominate
-  <lb/><add facs="#img_309-0013" rend="no-caret _HMp" place="below" hand="#HM" change="#StEeF">certain phenomenal men.</add><del facs="#img_309-0012" rend="single-stroke _HMp" hand="#HM" change="#StEef">a nature like Claggart's.</del> As it is,
+  <lb/><add facs="#img_309_z013" rend="no-caret _HMp" place="below" hand="#HM" change="#StEeF">certain phenomenal men.</add><del facs="#img_309_z012" rend="single-stroke _HMp" hand="#HM" change="#StEef">a nature like Claggart's.</del> As it is,
   <lb/>one must turn to some authority
   <lb/>not liable to the charge of being
   <lb/>tinctured with the Biblical element.
@@ -15,7 +15,7 @@ is based on Holy Writ were any longer
   <lb/>of Plato, a list attributed to him,
   <lb/>occurs this: "Natural Depravity: a
   <lb/>depravity according to nature." A
-  <lb/>definition which <del facs="#img_309-0008" rend="multi-stroke _ink1" hand="#HM" change="#StEeF">so</del> <metamark facs="#img_309-0011" place="inline" function="caret" change="#StEeF" rend="caret _ink1">^</metamark> <add facs="#img_309-0010" rend="caret _ink1" place="above" hand="#HM" change="#StEef">tho'</add> savoring of
+  <lb/>definition which <del facs="#img_309_z008" rend="multi-stroke _ink1" hand="#HM" change="#StEeF">so</del> <metamark facs="#img_309_z011" place="inline" function="caret" change="#StEeF" rend="caret _ink1">^</metamark> <add facs="#img_309_z010" rend="caret _ink1" place="above" hand="#HM" change="#StEef">tho'</add> savoring of
   <lb/>Calvinism, by no means involves
 </ab>
 </div></body></text>

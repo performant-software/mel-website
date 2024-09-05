@@ -1,28 +1,28 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_683"/>
 <ab>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_683-0001">284</metamark> <metamark place="margin(top) margin(right)" function="composition-information" rend="bubble _HMp" change="StFa" facs="#img_683-0017"><add place="above" rend="no-caret" facs="#img_683-0017">-&gt; the word was given to about <lb/>ship</add> </metamark>
-<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_683-0015">295</metamark>
-  <metamark place="margin(top) margin(left)" function="composition-information" rend="bubble _HMp" change="StFa" facs="#img_683-0004"><add place="below" rend="no-caret " facs="#img_683-0004">Another order to <lb/>be given here in <lb/>place of this one</add></metamark>
+<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_683_z001">284</metamark> <metamark place="margin(top) margin(right)" function="composition-information" rend="bubble _HMp" change="StFa" facs="#img_683_z017"><add place="above" rend="no-caret" facs="#img_683_z017">-&gt; the word was given to about <lb/>ship</add> </metamark>
+<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_683_z015">295</metamark>
+  <metamark place="margin(top) margin(left)" function="composition-information" rend="bubble _HMp" change="StFa" facs="#img_683_z004"><add place="below" rend="no-caret" facs="#img_683_z004">Another order to <lb/>be given here in <lb/>place of this one</add></metamark>
  <!-- these should be encoded as a <note>s but we'll need to revisit later -->
 At the close, however, a confused
-  <lb/><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_683-0005">waxing</del> murmer went up. <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_683-0006">It began to wax.</add> All but
-  <lb/>instantly, <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_683-0007">then,</add> at a sign,
-  <restore facs="#img_683-0019" change="StFa" hand="#HM">
-    <del facs="#img_683-0019" rend="single-stroke _HMp" hand="#HM" change="StFa">
+  <lb/><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_683_z005">waxing</del> murmer went up. <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_683_z006">It began to wax.</add> All but
+  <lb/>instantly, <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_683_z007">then,</add> at a sign,
+  <restore facs="#img_683_z019" change="StFa" hand="#HM">
+    <del facs="#img_683_z019" rend="single-stroke _HMp" hand="#HM" change="StFa">
       <hi rend="restoration">it</hi></del></restore>
   was pierced
-  <lb/>and suppressed by <metamark place="inline" function="insertion-device" rend="insertion-device _ink1" change="StFa" facs="#img_683-0020">^</metamark><add place="below" rend="insertion-device bubble _ink1" hand="#HM" change="StFa" facs="#img_683-0010">shrill whistles of</add> the <subst facs="#img_683-0008"><del rend="overwritten _ink1" hand="#HM" change="StFa" facs="#img_683-0008">boatswain</del><add place="inline" rend="overwritten _ink1" hand="#HM" change="StFa" facs="#img_683-0008">Boatswain</add></subst>
+  <lb/>and suppressed by <metamark place="inline" function="insertion-device" rend="insertion-device _ink1" change="StFa" facs="#img_683_z020">^</metamark><add place="below" rend="insertion-device bubble _ink1" hand="#HM" change="StFa" facs="#img_683_z010">shrill whistles of</add> the <subst facs="#img_683_z008"><del rend="overwritten _ink1" hand="#HM" change="StFa" facs="#img_683_z008">boatswain</del><add place="inline" rend="overwritten _ink1" hand="#HM" change="StFa" facs="#img_683_z008">Boatswain</add></subst>
   <!-- is it possible HM misspelled here? "boatswan"? can't quite see the formation of the "i" but NN has "Boatswain" JB: HM has dotted his N, so let's go with Boatswain--> and
-  <lb/>his Mates piping <metamark place="inline" function="insertion-device" rend="insertion-device _ink1" change="StFa" facs="#img_683-0021">^</metamark>
-  <lb/><add place="inline" rend="insertion-device _ink1" hand="#HM" change="StFa" facs="#img_683-0016">down one watch.</add>
+  <lb/>his Mates piping <metamark place="inline" function="insertion-device" rend="insertion-device _ink1" change="StFa" facs="#img_683_z021">^</metamark>
+  <lb/><add place="inline" rend="insertion-device _ink1" hand="#HM" change="StFa" facs="#img_683_z016">down one watch.</add>
   <lb/>To be prepared for burial
-  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_683-0011">59</metamark> Claggart's body was delivered to
+  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_683_z011">59</metamark> Claggart's body was delivered to
   <lb/>certain petty-officers of his mess. And
   <lb/>here, not to clog the sequel with
   <lb/>lateral matters, it may be added
-  <lb/>that at a suitable hour <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_683-0012">following</del>
+  <lb/>that at a suitable hour <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_683_z012">following</del>
   <!-- seems to be different pencil in these deletions than the one used for the two notations -->
-  <lb/><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_683-0014">the execution</del>, the Master-at-Arms
+  <lb/><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_683_z014">the execution</del>, the Master-at-Arms
   <lb/>was committed to the sea with
   <lb/>every funeral honor properly
   <lb/>belonging to his naval grade.

@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_311"/>
 <ab>
-<metamark facs="#img_311-0001" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEeF">139</metamark>
-<metamark facs="#img_311-0004" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_311-0004" rend="bubble" place="below" hand="#RW">119</add></metamark>
-<metamark facs="#img_311-0003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">131</metamark>
+<metamark facs="#img_311_z001" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEeF">139</metamark>
+<metamark facs="#img_311_z004" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_311_z004" rend="bubble" place="below" hand="#RW">119</add></metamark>
+<metamark facs="#img_311_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">131</metamark>
   Calvin's dogma as to total mankind.
   <lb/>Evidently its intent makes it applicable
   <lb/>but to individuals. Not many are the
@@ -13,9 +13,9 @@
   <lb/>them, but invariably are dominated
   <lb/>by intellectuality, one must go elsewhere.
   <lb/>Civilization, especially if of the austerer
-  <lb/>sort, <del facs="#img_311-0007" rend="single-stroke _ink3" hand="#HM" change="#StEeF">highly favors it</del> is auspicious to it.
+  <lb/>sort, <del facs="#img_311_z007" rend="single-stroke _ink3" hand="#HM" change="#StEeF">highly favors it</del> is auspicious to it.
   <lb/>It folds itself in the mantle of
-  <lb/>respectability. It has its <del facs="#img_311-0008" rend="single-stroke _HMp" hand="#HM" change="#StEeF">petty</del> <metamark facs="#img_311-0010" place="inline" function="caret" change="#StEeF" rend="#HMp">^</metamark> <add facs="#img_311-0009" rend="caret _HMp" place="above" hand="#HM" change="#StEef">certain negative</add> virtues
+  <lb/>respectability. It has its <del facs="#img_311_z008" rend="single-stroke _HMp" hand="#HM" change="#StEeF">petty</del> <metamark facs="#img_311_z010" place="inline" function="caret" change="#StEeF" rend="#HMp">^</metamark> <add facs="#img_311_z009" rend="caret _HMp" place="above" hand="#HM" change="#StEef">certain negative</add> virtues
   <lb/>serving as silent  auxiliaries. It never
   <lb/>allows wine to get within in its guard.
 </ab>

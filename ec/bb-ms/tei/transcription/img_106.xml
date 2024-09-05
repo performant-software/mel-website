@@ -1,24 +1,24 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_106"/>
 <ab>
-  <metamark facs="#img_106-0001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">33</metamark>
-  <metamark facs="#img_106-0002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">41</metamark>
-  <metamark facs="#img_106-0003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_106-0003" rend="bubble _HMp" place="below" hand="#RW">43</add></metamark>
-  <metamark facs="#img_106-0004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht">46</metamark>
- <subst facs="#img_106-0005"><del facs="#img_106-0005" rend="overwritten _ink1" type="superimposed" hand="#HM">The</del><add facs="#img_106-0005" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StDa">the</add></subst> <add facs="#img_106-0008" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa"><del facs="#img_106-0007" rend="multi-stroke _HMp" hand="#HM" change="#StDa">old</del> good-natured</add>
+  <metamark facs="#img_106_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">33</metamark>
+  <metamark facs="#img_106_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">41</metamark>
+  <metamark facs="#img_106_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_106_z003" rend="bubble _HMp" place="below" hand="#RW">43</add></metamark>
+  <metamark facs="#img_106_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht">46</metamark>
+ <subst facs="#img_106_z005"><del facs="#img_106_z005" rend="overwritten _ink1" type="superimposed" hand="#HM">The</del><add facs="#img_106_z005" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StDa">the</add></subst> <add facs="#img_106_z008" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa"><del facs="#img_106_z007" rend="multi-stroke _HMp" hand="#HM" change="#StDa">old</del> good-natured</add>
   poet's famous invocation, near two
   <lb/>thousand years ago, of the good rustic
-  <lb/>out of his latitude in <del facs="#img_106-0009" rend="single-stroke _HMp" hand="#HM" change="#StDa">pagan</del><add facs="#img_106-0011" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa"><del facs="#img_106-0010" rend="single-stroke _HMp" hand="#HM" change="#StDa">Ces</del> the</add> Rome,
-  <lb/><metamark facs="#img_106-0012" place="inline" function="caret" rend="caret _HMp" change="#StDa">^</metamark><add facs="#img_106-0014" rend="caret _HMp" place="above" hand="#HM" change="#StDa">of the Cesars</add> still appropriatly holds:—
-  <lb/>     <restore facs="#img_106-0015" change="#StDa"><del facs="#img_106-0015" rend="single-stroke _HMp" hand="#HM" change="StDa"><hi rend="restoration">Honest and poor,</hi></del></restore> "Faithful in word and thought
+  <lb/>out of his latitude in <del facs="#img_106_z009" rend="single-stroke _HMp" hand="#HM" change="#StDa">pagan</del><add facs="#img_106_z011" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa"><del facs="#img_106_z010" rend="single-stroke _HMp" hand="#HM" change="#StDa">Ces</del> the</add> Rome,
+  <lb/><metamark facs="#img_106_z012" place="inline" function="caret" rend="caret _HMp" change="#StDa">^</metamark><add facs="#img_106_z014" rend="caret _HMp" place="above" hand="#HM" change="#StDa">of the Cesars</add> still appropriatly holds:—
+  <lb/>     <restore facs="#img_106_z015" change="#StDa"><del facs="#img_106_z015" rend="single-stroke _HMp" hand="#HM" change="StDa"><hi rend="restoration">Honest and poor,</hi></del></restore> "Faithful in word and thought
   <lb/>     What has thee, Fabian, to the city brought."
-  <lb/>     Though our <subst facs="#img_106-0026"><del rend=" _ink1" hand="#HM" change="StDa" facs="#img_106-0026">handsome</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StDa" facs="#img_106-0026">Handsome</add></subst> <subst facs="#img_106-0027"><del rend=" _ink1" hand="#HM" change="StDa" facs="#img_106-0027">sailor</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StDa" facs="#img_106-0027">Sailor</add></subst>
+  <lb/>     Though our <subst facs="#img_106_z026"><del rend="_ink1" hand="#HM" change="StDa" facs="#img_106_z026">handsome</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StDa" facs="#img_106_z026">Handsome</add></subst> <subst facs="#img_106_z027"><del rend="_ink1" hand="#HM" change="StDa" facs="#img_106_z027">sailor</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StDa" facs="#img_106_z027">Sailor</add></subst>
   <lb/>had as much of masculine beauty as
   <lb/>one can expect anywhere to see; nevertheless,
   <lb/>like the beautiful woman in one of
   <lb/>Hawthorne's minor tales, there was
   <lb/>just one thing amiss in him. No
-  <lb/><subst facs="#img_106-0028"><del rend=" _ink1" hand="#HM" change="StDa" facs="#img_106-0028">visable</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StDa" facs="#img_106-0028">visible</add></subst> blemish indeed, <del facs="#img_106-0021" rend="single-stroke _ink1" hand="#HM" change="StDa">like</del> as with the
-  <lb/>lady; no, but <subst facs="#img_106-0023"><del facs="#img_106-0023" rend="overwritten" type="superimposed" hand="#HM">a</del><add facs="#img_106-0023" rend="superimposed" type="superimposed" hand="#HM" change="StDa">an</add></subst><metamark facs="#img_106-0022" place="inline" function="caret" rend="caret _ink1" change="StDa">^</metamark> <add facs="#img_106-0024" rend="caret _ink1" place="above" hand="#HM">occasional</add> liability to <del facs="#img_106-0025" rend="single-stroke _ink1" hand="#HM" change="StDa">an</del>
+  <lb/><subst facs="#img_106_z028"><del rend="_ink1" hand="#HM" change="StDa" facs="#img_106_z028">visable</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StDa" facs="#img_106_z028">visible</add></subst> blemish indeed, <del facs="#img_106_z021" rend="single-stroke _ink1" hand="#HM" change="StDa">like</del> as with the
+  <lb/>lady; no, but <subst facs="#img_106_z023"><del facs="#img_106_z023" rend="overwritten" type="superimposed" hand="#HM">a</del><add facs="#img_106_z023" rend="superimposed" type="superimposed" hand="#HM" change="StDa">an</add></subst><metamark facs="#img_106_z022" place="inline" function="caret" rend="caret _ink1" change="StDa">^</metamark> <add facs="#img_106_z024" rend="caret _ink1" place="above" hand="#HM">occasional</add> liability to <del facs="#img_106_z025" rend="single-stroke _ink1" hand="#HM" change="StDa">an</del>
   <lb/>a vocal defect. Though in the hour
 </ab>
 </div></body></text>

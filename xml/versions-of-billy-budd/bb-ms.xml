@@ -10454,7 +10454,7 @@
 		
 	</surface>
 </facsimile>
-<text><body><div>
+<text xml:id="transcription"><body><div>
 <milestone n="3" unit="leaf"/><pb facs="#img_3"/>
 <ab>
 <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_3_z014">1</metamark>

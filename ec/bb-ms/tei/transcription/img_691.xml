@@ -1,21 +1,21 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_691"/>
 <ab>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_691-0001">288</metamark> <!-- @hand="#RW" -->
-<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_691-0004">299</metamark> <!-- @hand="#HT" -->
-<metamark place="margin(top)" function="section-divider" rend="no-caret _HMp" change="StFa" facs="#img_691-0002">––//––</metamark> <!-- @hand="#HM" -->
+<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_691_z001">288</metamark> <!-- @hand="#RW" -->
+<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_691_z004">299</metamark> <!-- @hand="#HT" -->
+<metamark place="margin(top)" function="section-divider" rend="no-caret _HMp" change="StFa" facs="#img_691_z002">––//––</metamark> <!-- @hand="#HM" -->
   In a seventy-four of the old
   <lb/>order the deck known as the upper
   <lb/>gun-deck was the one covered over by the
-  <lb/>spar-deck which last <subst facs="#img_691-0006"><del rend="overwritten _ink1" hand="#HM" change="StFa" facs="#img_691-0006">tho'</del><add place="inline" rend="overwritten _HMp" hand="#ESM" change="StFa" facs="#img_691-0006">though</add></subst> not without
-  <lb/><metamark place="below" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_691-0003">62</metamark><!-- @hand="#HM" --> its armament was for the most part exposed
+  <lb/>spar-deck which last <subst facs="#img_691_z006"><del rend="overwritten _ink1" hand="#HM" change="StFa" facs="#img_691_z006">tho'</del><add place="inline" rend="overwritten _HMp" hand="#ESM" change="StFa" facs="#img_691_z006">though</add></subst> not without
+  <lb/><metamark place="below" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_691_z003">62</metamark><!-- @hand="#HM" --> its armament was for the most part exposed
   <lb/>to the weather. In general it was at all
   <lb/>hours free from hammocks; those of the crew
   <lb/>swinging on the lower gun-deck, and
-  <lb/>berth-deck, <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_691-0007">underneath that and next above</del>
-  <lb/><del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_691-0008">the orlop-deck</del> the latter being not only
+  <lb/>berth-deck, <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_691_z007">underneath that and next above</del>
+  <lb/><del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_691_z008">the orlop-deck</del> the latter being not only
   <lb/>a dormitory but also the place for the
-  <lb/>stowing of the sailors' bags, <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_691-0009">and as well</del>
-  <lb/>and on both sides lined with the <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_691-0011">^</metamark><!-- @hand="#HM" --><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_691-0010">large</add> chests
+  <lb/>stowing of the sailors' bags, <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_691_z009">and as well</del>
+  <lb/>and on both sides lined with the <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_691_z011">^</metamark><!-- @hand="#HM" --><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_691_z010">large</add> chests
   <lb/>or movable pantries of the many messes
   <lb/>of the men.
 </ab><milestone n="24" unit="chapter"/>

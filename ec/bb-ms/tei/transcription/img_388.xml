@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_388"/>
 <ab>
-<metamark facs="#img_388-0001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">33</metamark> <metamark facs="#img_388-0002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><hi rend="bubble">2</hi></metamark> <metamark facs="#img_388-0004" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCc"><hi rend="bubble">154</hi></metamark> <metamark facs="#img_388-0022" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCc">164</metamark>
+<metamark facs="#img_388_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">33</metamark> <metamark facs="#img_388_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><hi rend="bubble">2</hi></metamark> <metamark facs="#img_388_z004" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCc"><hi rend="bubble">154</hi></metamark> <metamark facs="#img_388_z022" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCc">164</metamark>
 And yet Billy was a bit uncertain
-  <lb/>whether indeed it were he—<del facs="#img_388-0008" rend="single-stroke _ink1" hand="#HM" change="#StCc">the</del> <metamark facs="#img_388-0009" rend="#HM _ink1" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_388-0006" rend="caret _ink1" place="above" hand="#HM" change="#StCc">yonder</add> <del facs="#img_388-0010" rend="single-stroke _ink1" hand="#HM" change="#StCc">young</del> <add facs="#img_388-0007" rend="no-caret _HMp" place="above" hand="#HM" change="#StCc">chap</add>
-  <lb/><del facs="#img_388-0011" rend="multi-stroke _HMp" hand="#HM" change="#StCc">fellow</del> about his own age chatting and
+  <lb/>whether indeed it were he—<del facs="#img_388_z008" rend="single-stroke _ink1" hand="#HM" change="#StCc">the</del> <metamark facs="#img_388_z009" rend="#HM _ink1" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_388_z006" rend="caret _ink1" place="above" hand="#HM" change="#StCc">yonder</add> <del facs="#img_388_z010" rend="single-stroke _ink1" hand="#HM" change="#StCc">young</del> <add facs="#img_388_z007" rend="no-caret _HMp" place="above" hand="#HM" change="#StCc">chap</add>
+  <lb/><del facs="#img_388_z011" rend="multi-stroke _HMp" hand="#HM" change="#StCc">fellow</del> about his own age chatting and
   <lb/>laughing in free-hearted way, leaning
   <lb/>against a gun; a genial young fellow
   <lb/>enough to look at, and something of
@@ -14,6 +14,6 @@ And yet Billy was a bit uncertain
   <lb/>to be overburthened with thoughts, especially
   <lb/>those perilous thoughts that must needs
   <lb/>belong to a conspirator in any serious
-  <lb/>project, or <metamark facs="#img_388-0013" rend="#HM _HMp" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_388-0012" rend="caret _HMp" place="above" hand="#HM" change="#StCc">even</add> to the <del facs="#img_388-0023" rend="multi-stroke _HMp" hand="#HM" change="#StCc">confident</del> <add facs="#img_388-0018" rend="no-caret _HMp" place="above" hand="#HM" change="#StCc">underling</add> of <del facs="#img_388-0020" rend="single-stroke _HMp" hand="#HM" change="#StCc">one.</del> <add facs="#img_388-0019" rend="no-caret _HMp" place="below" hand="#HM" change="#StCc">such a conspirator.</add>
+  <lb/>project, or <metamark facs="#img_388_z013" rend="#HM _HMp" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_388_z012" rend="caret _HMp" place="above" hand="#HM" change="#StCc">even</add> to the <del facs="#img_388_z023" rend="multi-stroke _HMp" hand="#HM" change="#StCc">confident</del> <add facs="#img_388_z018" rend="no-caret _HMp" place="above" hand="#HM" change="#StCc">underling</add> of <del facs="#img_388_z020" rend="single-stroke _HMp" hand="#HM" change="#StCc">one.</del> <add facs="#img_388_z019" rend="no-caret _HMp" place="below" hand="#HM" change="#StCc">such a conspirator.</add>
 </ab>
 </div></body></text>

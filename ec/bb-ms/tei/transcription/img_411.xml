@@ -1,22 +1,22 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_411"/>
 <ab>
-<metamark facs="#img_411-0001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">39</metamark><metamark facs="#img_411-0002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><add rend="bubble" place="inline">1</add></metamark>
-<metamark facs="#img_411-0003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCc"><add rend="bubble" place="inline">164</add></metamark>
-<metamark facs="#img_411-0004" rend="#HM _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCc">174</metamark>
-<del facs="#img_411-0017" rend="single-stroke _HMp" hand="#HM" change="#StCc"><subst facs="#img_411-0006"><del facs="#img_411-0006" rend="overwritten _ink1" type="superimposed" hand="#HM">he</del><add facs="#img_411-0006" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StCc">He</add></subst></del> <metamark facs="#img_411-0008" rend="#HM _HMp" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_411-0007" rend="no-caret _HMp" place="above" hand="#HM" change="#StCc">Every sailor, too</add> is accustomed to obey orders
+<metamark facs="#img_411_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">39</metamark><metamark facs="#img_411_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><add rend="bubble" place="inline">1</add></metamark>
+<metamark facs="#img_411_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCc"><add rend="bubble" place="inline">164</add></metamark>
+<metamark facs="#img_411_z004" rend="#HM _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCc">174</metamark>
+<del facs="#img_411_z017" rend="single-stroke _HMp" hand="#HM" change="#StCc"><subst facs="#img_411_z006"><del facs="#img_411_z006" rend="overwritten _ink1" type="superimposed" hand="#HM">he</del><add facs="#img_411_z006" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StCc">He</add></subst></del> <metamark facs="#img_411_z008" rend="#HM _HMp" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_411_z007" rend="no-caret _HMp" place="above" hand="#HM" change="#StCc">Every sailor, too</add> is accustomed to obey orders
 <lb/>without debating them; his life afloat
 <lb/>is externally ruled for him; he is
 <lb/>not brought into that promiscuous
 <lb/>commerce with mankind where
-<lb/><add facs="#img_411-0009" rend="no-caret _ink1" place="above" hand="#HM" change="#StCc">unobstructed free agency on</add><metamark facs="#img_411-0010" rend="#HM _ink1" place="inline" function="caret" change="#StCc">^</metamark> equal terms—equal superficially, at
-<lb/>least—soon <metamark facs="#img_411-0012" rend="#HM _ink1" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_411-0011" rend="caret _ink1" place="above" hand="#HM" change="#StCc">teaches</add> <del facs="#img_411-0019" rend="single-stroke _ink1" hand="#HM" change="#StCc"><subst facs="#img_411-0019"><del facs="#img_411-0019" rend="overwritten _ink1" type="superimposed" hand="#HM">teach</del><add facs="#img_411-0019" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StCc">teaches</add></subst></del> one that unless
+<lb/><add facs="#img_411_z009" rend="no-caret _ink1" place="above" hand="#HM" change="#StCc">unobstructed free agency on</add><metamark facs="#img_411_z010" rend="#HM _ink1" place="inline" function="caret" change="#StCc">^</metamark> equal terms—equal superficially, at
+<lb/>least—soon <metamark facs="#img_411_z012" rend="#HM _ink1" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_411_z011" rend="caret _ink1" place="above" hand="#HM" change="#StCc">teaches</add> <del facs="#img_411_z019" rend="single-stroke _ink1" hand="#HM" change="#StCc"><subst facs="#img_411_z019"><del facs="#img_411_z019" rend="overwritten _ink1" type="superimposed" hand="#HM">teach</del><add facs="#img_411_z019" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StCc">teaches</add></subst></del> one that unless
 <lb/>upon occasion he exercise a distrust
 <lb/>keen in proportion to the fairness of
 <lb/>the appearance, some foul turn may
 <lb/>be served him. A ruled undemonstrative
-<lb/>distrustfulness is so <del facs="#img_411-0014" rend="multi-stroke _ink1" hand="#HM" change="#StCc"><app><rdg resp="#HS">xx</rdg><rdg resp="#MEL">ab</rdg></app></del> habitual, not
-<lb/>with business-men so much<add facs="#img_411-0020" rend="no-caret _HMp" place="inline" hand="#HM" change="#StCc">,</add> as with
+<lb/>distrustfulness is so <del facs="#img_411_z014" rend="multi-stroke _ink1" hand="#HM" change="#StCc"><app><rdg resp="#HS">xx</rdg><rdg resp="#MEL">ab</rdg></app></del> habitual, not
+<lb/>with business-men so much<add facs="#img_411_z020" rend="no-caret _HMp" place="inline" hand="#HM" change="#StCc">,</add> as with
 <lb/>men who know their kind in less
 <lb/>shallow relations than business,
-<lb/>namely, <metamark facs="#img_411-0016" rend="#HM _HMp" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_411-0015" rend="caret _HMp" place="above" hand="#HM" change="#StCc">certain</add> men-of-the-world, that they
+<lb/>namely, <metamark facs="#img_411_z016" rend="#HM _HMp" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_411_z015" rend="caret _HMp" place="above" hand="#HM" change="#StCc">certain</add> men-of-the-world, that they
 </ab></div></body></text>

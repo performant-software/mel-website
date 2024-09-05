@@ -1,14 +1,14 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_529"/>
 <ab>
-<metamark facs="#img_529-0015" rend="#HM _Cbr" place="inline" function="composition-information" change="#StGa">
-<metamark facs="#img_529-0001" rend="#HM _HMp" place="margin(top) margin(right)" function="folio" change="#StGa">29</metamark>
+<metamark facs="#img_529_z015" rend="#HM _Cbr" place="inline" function="composition-information" change="#StGa">
+<metamark facs="#img_529_z001" rend="#HM _HMp" place="margin(top) margin(right)" function="folio" change="#StGa">29</metamark>
 
   <lb/><metamark rend="_ink1" place="inline" function="composition-information"><hi rend="italic">[See Image 527 patch for revision of following text]</hi></metamark>
-  <lb/><add facs="#img_529-0002" rend="no-caret _HMp" place="inline" hand="#HM" change="#StGa">Without</add> <del facs="#img_529-0003" rend="single-stroke _HMp" hand="#HM" change="#StGa">Claggart</del> <subst facs="#img_529-0005"><del facs="#img_529-0005" rend="overwritten _ink1" type="superimposed" hand="#HM">hesitated</del><add facs="#img_529-0005" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StGa">hesitation</add></subst> <del facs="#img_529-0006" rend="single-stroke _HMp" hand="#HM" change="#StG">not an</del>
-  <lb/><del facs="#img_529-0009" rend="single-stroke _HMp" hand="#HM" change="#StGa">instant.</del>  Deliberatly advancing
+  <lb/><add facs="#img_529_z002" rend="no-caret _HMp" place="inline" hand="#HM" change="#StGa">Without</add> <del facs="#img_529_z003" rend="single-stroke _HMp" hand="#HM" change="#StGa">Claggart</del> <subst facs="#img_529_z005"><del facs="#img_529_z005" rend="overwritten _ink1" type="superimposed" hand="#HM">hesitated</del><add facs="#img_529_z005" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StGa">hesitation</add></subst> <del facs="#img_529_z006" rend="single-stroke _HMp" hand="#HM" change="#StG">not an</del>
+  <lb/><del facs="#img_529_z009" rend="single-stroke _HMp" hand="#HM" change="#StGa">instant.</del>  Deliberatly advancing
   <lb/>within short range of the sailor,
-  <lb/><del facs="#img_529-0010" rend="single-stroke _HMp" hand="#HM" change="#StGa">he spoke.</del> <del facs="#img_529-0011" rend="single-stroke _HMp" hand="#HM" change="#StGa">Without</del> <add facs="#img_529-0013" rend="caret _HMp" place="above" hand="#HM" change="#StGa"><app><rdg resp="#MEL">minus?</rdg><rdg resp="#HS">[untranscribed]</rdg></app></add> <metamark facs="#img_529-0012" rend="#HM _HMp" place="inline" function="caret" change="#StGa">^</metamark> emphasis and in a
+  <lb/><del facs="#img_529_z010" rend="single-stroke _HMp" hand="#HM" change="#StGa">he spoke.</del> <del facs="#img_529_z011" rend="single-stroke _HMp" hand="#HM" change="#StGa">Without</del> <add facs="#img_529_z013" rend="caret _HMp" place="above" hand="#HM" change="#StGa"><app><rdg resp="#MEL">minus?</rdg><rdg resp="#HS">[untranscribed]</rdg></app></add> <metamark facs="#img_529_z012" rend="#HM _HMp" place="inline" function="caret" change="#StGa">^</metamark> emphasis and in a
   <lb/>tone more musical than ever, briefly
-  <lb/><del facs="#img_529-0014" rend="single-stroke _ink1" hand="#HM" change="#StGa">cir</del> he delivered the accusation
+  <lb/><del facs="#img_529_z014" rend="single-stroke _ink1" hand="#HM" change="#StGa">cir</del> he delivered the accusation
   <lb/>point-blank into his eyes.</metamark>
 </ab></div></body></text>

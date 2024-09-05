@@ -1,19 +1,19 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_173"/>
 <ab>
-<add facs="#img_173-0014" rend="clip" place="inline" hand="#HM" change="#StEb">
-  <metamark place="margin(top)" function="composition-information" rend="no-caret _HMp" change="ESM" facs="#img_173-0015">49 follows 48 <hi rend="underline">green</hi></metamark>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_173-0004"><add facs="#img_173-0004" rend="bubble" place="inline" hand="#RW">60</add></metamark>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="StEb" facs="#img_173-0005">92</metamark>
-<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_173-0013">73</metamark>
-But on board the seventy-four<metamark place="above" function="section-divider" rend="no-caret _HMp" change="StEb" facs="#img_173-0003"><add place="above" rend="no-caret _HMp" hand="#HM" change="StEb" facs="#img_173-0003">——//——</add></metamark>
+<add facs="#img_173_z014" rend="clip" place="inline" hand="#HM" change="#StEb">
+  <metamark place="margin(top)" function="composition-information" rend="no-caret _HMp" change="ESM" facs="#img_173_z015">49 follows 48 <hi rend="underline">green</hi></metamark>
+<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_173_z004"><add facs="#img_173_z004" rend="bubble" place="inline" hand="#RW">60</add></metamark>
+<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="StEb" facs="#img_173_z005">92</metamark>
+<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_173_z013">73</metamark>
+But on board the seventy-four<metamark place="above" function="section-divider" rend="no-caret _HMp" change="StEb" facs="#img_173_z003"><add place="above" rend="no-caret _HMp" hand="#HM" change="StEb" facs="#img_173_z003">——//——</add></metamark>
   <lb/>in which Billy now swung his
-  <lb/>hammock, <metamark facs="#img_173-0006" place="inline" function="caret" change="#StEc" rend="#ink1r">^</metamark> <add facs="#img_173-0007" rend="caret" place="above" hand="#ink1r" change="#StEc">very</add> little in the <del facs="#img_173-0009" rend="single-stroke" hand="#ink1r" change="#StEb">conduct</del> <metamark facs="#img_173-0008" place="inline" function="caret" change="#StEb" rend="#ink2">^</metamark> <add facs="#img_173-0010" rend="caret" place="above" hand="#ink1r" change="#StEb">manner</add> of
-  <lb/>the men and nothing <add facs="#img_173-0011" rend="no-caret" place="above" hand="#HMp" change="#StEb">obvious</add> in the
+  <lb/>hammock, <metamark facs="#img_173_z006" place="inline" function="caret" change="#StEc" rend="#ink1r">^</metamark> <add facs="#img_173_z007" rend="caret" place="above" hand="#ink1r" change="#StEc">very</add> little in the <del facs="#img_173_z009" rend="single-stroke" hand="#ink1r" change="#StEb">conduct</del> <metamark facs="#img_173_z008" place="inline" function="caret" change="#StEb" rend="#ink2">^</metamark> <add facs="#img_173_z010" rend="caret" place="above" hand="#ink1r" change="#StEb">manner</add> of
+  <lb/>the men and nothing <add facs="#img_173_z011" rend="no-caret" place="above" hand="#HMp" change="#StEb">obvious</add> in the
   <lb/>demeanor of the officers would have
   <lb/>suggested to an ordinary observer
   <lb/>that the Great Mutiny was a
-  <restore facs="#img_173-0012" change="#StEc">
-    <del facs="#img_173-0012" rend="single-stroke" hand="#ink1r">
+  <restore facs="#img_173_z012" change="#StEc">
+    <del facs="#img_173_z012" rend="single-stroke" hand="#ink1r">
       <hi rend="restoration">
         recent
       </hi></del></restore>
