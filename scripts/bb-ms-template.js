@@ -1,5 +1,6 @@
 
-function bbMSPageTemplate(baseURL) {
+function bbMSPageTemplate(baseURL,dev) {
+    const ecDir = dev ? 'ec-dev' : 'ec'
     return `
 <!DOCTYPE html>
 <html>
@@ -27,7 +28,7 @@ function bbMSPageTemplate(baseURL) {
         EditionCrafter.viewer({
             id: 'ec',
             documentName: 'Billy Budd MS',
-            iiifManifest: '${baseURL}/ec/bb-ms/iiif/manifest.json',
+            iiifManifest: '${baseURL}/${ecDir}/bb-ms/iiif/manifest.json',
             transcriptionTypes: {
               transcription: 'Transcription'
             }
