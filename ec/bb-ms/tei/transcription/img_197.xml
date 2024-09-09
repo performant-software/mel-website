@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_197"/>
-<ab>
-<metamark facs="#img_197_z003" place="margin(bottom) margin(left)" function="folio" rend="#HT">83</metamark>
+<ab rend="left-bottom"><metamark facs="#img_197_z003" place="margin(bottom) margin(left)" function="folio" rend="#HT">83</metamark></ab><ab>
+
 <add facs="#img_197_z022" rend="patch _HMp" place="inline" hand="#HM" change="#Stp">
 In this line of reading he found confirmation
 <lb/>of his own more reserved thoughts—confirmation

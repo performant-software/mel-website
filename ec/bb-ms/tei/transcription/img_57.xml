@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_57"/>
-<ab>
-<metamark facs="#img_57_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">23</metamark>
-<metamark facs="#img_57_z003" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">26</metamark>
+<ab rend="right-top"><metamark facs="#img_57_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">23</metamark></ab><ab rend="left-bottom"><metamark facs="#img_57_z003" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">26</metamark></ab><ab>
+
+
 <subst facs="#img_57_z001"> <del facs="#img_57_z001" rend="overwritten _ink1" type="superimposed" hand="#HM">'</del> <add facs="#img_57_z001" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEa">"</add></subst>Here he comes; and, by Jove—<del facs="#img_57_z004" rend="single-stroke _HMp" hand="#HM" change="#StEa">look</del><add facs="#img_57_z006" rend="no-caret _HMp" place="above" hand="#HM" change="#StEa"><subst facs="#img_57_z005"><del facs="#img_57_z005" rend="overwritten _HMp" type="superimposed" hand="#HM">lul</del><add facs="#img_57_z005" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEa">lugging</add></subst> along his chest</add>
   <lb/><del facs="#img_57_z007" rend="single-stroke _HMp" hand="#HM" change="#StEa">at him</del>—Apollo with his portmanteau!
   <lb/>—My man," stepping out to him, "You

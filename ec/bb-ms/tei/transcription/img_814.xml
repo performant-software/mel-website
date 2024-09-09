@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_814"/>
-<ab>
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="bubble _HMp" facs="#img_814_z001"><hi rend="bubble">2</hi></metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_814_z002">359</metamark></ab><ab>
   <!-- Add Hand to Metamarks -->
-  <metamark place="margin(top) margin(right)" function="folio" rend="bubble _HMp" facs="#img_814_z001"><hi rend="bubble">2</hi></metamark> <!-- Add Hand= RW -->
-  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_814_z002">359</metamark> <!-- Add Hand= Ht -->
+   <!-- Add Hand= RW -->
+   <!-- Add Hand= Ht -->
   the rectification of the Old World's
   <lb/>hereditary wrongs. <metamark place="inline" function="caret" rend="caret _HMp" change="StGa" facs="#img_814_z050">^</metamark> <add place="above" rend="no-caret _ink2" hand="#HM" change="StGa" facs="#img_814_z004">In France</add> <subst facs="#img_814_z003"><del rend="single-stroke _ink2" hand="#HM" change="StGa" facs="#img_814_z003">To</del><add place="inline" rend="no-caret _ink2" hand="#HM" change="StGa" facs="#img_814_z003">to</add></subst> some extent
   <lb/>this was  <metamark place="inline" function="caret" rend="_ink2" facs="#img_814_z008">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" change="StGa" facs="#img_814_z009">bloodily</add> effected. But what then?

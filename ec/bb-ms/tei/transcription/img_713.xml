@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_713"/>
-<ab>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_713_z001">300</metamark>
-<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_713_z027">310</metamark>
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_713_z001">300</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_713_z027">310</metamark></ab><ab>
+
+
 And this sailor-way of taking <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_713_z003">it</del> clerical
   <lb/><del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_713_z004">talk</del> <add place="above" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_713_z005">discourse</add> is not wholly unlike the way
     <lb/>in which the primer <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_713_z006">pioneer</add> of Christianity full

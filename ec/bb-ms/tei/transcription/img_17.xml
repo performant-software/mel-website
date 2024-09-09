@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_17"/>
-<ab>
-<metamark place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="StDb" facs="#img_17_z001">2</metamark>
-<metamark place="margin(top) margin(left)" function="folio" rend="bubble _Cg" change="StDb" facs="#img_17_z002"><hi rend="bubble">4</hi></metamark>
-<metamark facs="#img_17_z004" place="margin(top) margin(right)" function="folio" rend="caret _Cr" change="StEa">5</metamark>
-<metamark place="margin(bottom)  margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_17_z023">7</metamark>
+<ab rend="left-top"><metamark place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="StDb" facs="#img_17_z001">2</metamark><metamark place="margin(top) margin(left)" function="folio" rend="bubble _Cg" change="StDb" facs="#img_17_z002"><hi rend="bubble">4</hi></metamark></ab><ab rend="right-top"><metamark facs="#img_17_z004" place="margin(top) margin(right)" function="folio" rend="caret _Cr" change="StEa">5</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom)  margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_17_z023">7</metamark></ab><ab>
+
+
+
+
 To return.
 <lb/>If in some cases a bit of a
 <lb/>nautical Murat in setting forth

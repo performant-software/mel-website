@@ -1,11 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_81"/>
-<ab>
+<ab rend="left-top"><metamark facs="#img_81_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StBa">26</metamark></ab><ab rend="top"><metamark facs="#img_81_z002" place="margin(top)" function="folio" rend="no-caret _Cg" change="#StBa">8 <add facs="#img_81_z003" rend="bubble _Cg" place="inline" hand="#HM" change="#StBb">5</add></metamark></ab><ab rend="right-top"><metamark facs="#img_81_z004" place="margin(top) margin(right)" function="folio"><add rend="bubble _HMp" place="inline" hand="#RW" change="#RW">33</add></metamark><metamark facs="#img_81_z008" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab">32 <add facs="#img_81_z009" rend="bubble _Cr" place="below" hand="#HM" change="#StEab">2</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_81_z007" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">36</metamark></ab><ab>
 <add facs="#img_81_z026" rend="clip" hand="#HM" change="#StEab">
-<metamark facs="#img_81_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StBa">26</metamark>
-<metamark facs="#img_81_z002" place="margin(top)" function="folio" rend="no-caret _Cg" change="#StBa">8 <add facs="#img_81_z003" rend="bubble _Cg" place="inline" hand="#HM" change="#StBb">5</add></metamark>
-<metamark facs="#img_81_z004" place="margin(top) margin(right)" function="folio"><add rend="bubble _HMp" place="inline" hand="#RW" change="#RW">33</add></metamark>
-<metamark facs="#img_81_z008" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab">32 <add facs="#img_81_z009" rend="bubble _Cr" place="below" hand="#HM" change="#StEab">2</add></metamark>
-<metamark facs="#img_81_z007" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">36</metamark>
+
+
+
+
+
 <del facs="#img_81_z010" rend="single-stroke _ink1" hand="#HM" change="#StBa">company</del> several individuals who
 <lb/>however inferior in grade were
 <lb/>of no common natural stamp,

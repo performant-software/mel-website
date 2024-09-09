@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_275"/>
-<ab>
-<metamark facs="#img_275_z002" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc">123</metamark>
-<metamark facs="#img_275_z001" rend="#RW" place="margin(top) margin(right)" function="folio"><add facs="#img_275_z001" rend="bubble" place="inline" hand="#RW">101</add></metamark>
-<metamark facs="#img_275_z003" rend="no-caret _HMp" place="margin(bottom) margin(left)" function="folio">113</metamark>
+<ab rend="right-top"><metamark facs="#img_275_z002" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc">123</metamark><metamark facs="#img_275_z001" rend="#RW" place="margin(top) margin(right)" function="folio"><add facs="#img_275_z001" rend="bubble" place="inline" hand="#RW">101</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_275_z003" rend="no-caret _HMp" place="margin(bottom) margin(left)" function="folio">113</metamark></ab><ab>
+
+
+
 Well then, in his mysterious
   <lb/>little difficulty going in quest of <add facs="#img_275_z008" rend="no-caret _ink1" place="above" hand="#HM" change="#StEc">the wrinkled one</add><del facs="#img_275_z009" rend="multi-stroke _HMp" hand="#HM" change="#StEc">this strange</del>
   <lb/><del facs="#img_275_z004" rend="single-stroke _HMp" hand="#HM" change="#StEc">mentor</del>, Billy found <metamark facs="#img_275_z006" rend="#HM _ink1" place="inline" function="caret" change="#StEc">^</metamark><add facs="#img_275_z007" rend="caret _ink1" place="above" hand="#HM" change="#StEc">him</add> <subst facs="#img_275_z005"><del facs="#img_275_z005" rend="overwritten _ink1" type="superimposed" hand="#HM">on</del><add facs="#img_275_z005" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StEc">off</add></subst> duty in a dog-watch

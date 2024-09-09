@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_113"/>
-<ab>
-<metamark facs="#img_113_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">42</metamark>
-<metamark facs="#img_113_z002" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG"><add facs="#img_113_z002" rend="bubble _HMp" place="inline" hand="#HM" change="#StG">2</add></metamark>
-<metamark facs="#img_113_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_113_z003" rend="bubble _HMp" place="inline" hand="#RW">45</add></metamark>
-<metamark facs="#img_113_z008" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">48</metamark>
+<ab rend="left-top"><metamark facs="#img_113_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">42</metamark><metamark facs="#img_113_z002" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG"><add facs="#img_113_z002" rend="bubble _HMp" place="inline" hand="#HM" change="#StG">2</add></metamark></ab><ab rend="right-top"><metamark facs="#img_113_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_113_z003" rend="bubble _HMp" place="inline" hand="#RW">45</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_113_z008" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">48</metamark></ab><ab rend="bottom"><metamark facs="#img_113_z011" place="below" function="section-divider" rend="caret _HMp" change="#StG"><add facs="#img_113_z011" rend="no-caret _HMp" place="below" hand="#HM" change="#StG">—//—</add></metamark></ab><ab>
+
+
+
+
 In this particular Billy was a striking
   <lb/>instance that the arch interferer, the envious
   <lb/>marplot of Eden still has more or less
@@ -18,6 +18,6 @@ In this particular Billy was a striking
   <lb/>alone that <del facs="#img_113_z005" rend="erasure" hand="#HM" change="#StG"><add facs="#img_113_z005" rend="bubble _ink1" place="inline" hand="#HM" change="#StG">the Handsome Sailor</add></del><metamark facs="#img_113_z006" place="inline" function="caret" rend="caret _ink1" change="#StG">^</metamark> <add facs="#img_113_z007" rend="caret _ink1" place="above" hand="#HM" change="#StG">he</add> is not
   <lb/>presented as a conventional hero, but
   <lb/>also that the story in which he is the
-  <lb/>main figure is no romance.<metamark facs="#img_113_z011" place="below" function="section-divider" rend="caret _HMp" change="#StG"><add facs="#img_113_z011" rend="no-caret _HMp" place="below" hand="#HM" change="#StG">—//—</add></metamark></add>
+  <lb/>main figure is no romance.</add>
 </ab>
 </div></body></text>

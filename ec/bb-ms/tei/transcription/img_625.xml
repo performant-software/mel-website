@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_625"/>
-<ab>
-<metamark facs="#img_625_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">256</metamark>
-<metamark facs="#img_625_z012" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">267</metamark>
+<ab rend="right-top"><metamark facs="#img_625_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">256</metamark></ab><ab rend="left-bottom"><metamark facs="#img_625_z012" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">267</metamark></ab><ab rend="bottom"><metamark facs="#img_625_z005" rend="#HM _HMp" place="below" function="folio" change="#StFa">31</metamark></ab><ab>
+
+
 we are bound to regard the death
 <lb/>of the Master-at-arms as the prisoner's
 <lb/>deed, then does that deed constitute
@@ -9,7 +9,7 @@ we are bound to regard the death
 <lb/>penalty is a mortal one. But in
 <lb/>natural justice is nothing but the
 <lb/><metamark facs="#img_625_z003" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark> <add facs="#img_625_z004" rend="caret _HMp" place="above" hand="#HM" change="#StFa">prisoner's</add> overt act to be considered? How can
-<lb/><metamark facs="#img_625_z005" rend="#HM _HMp" place="below" function="folio" change="#StFa">31</metamark> we adjudge to summary and
+<lb/> we adjudge to summary and
 <lb/>shameful death a <del facs="#img_625_z006" rend="single-stroke _ink1" hand="#HM" change="#StFa">man</del> fellow-creature
 <lb/>innocent before God, and whom we
 <lb/>feel to be so?—Does that state it

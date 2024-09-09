@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_106"/>
-<ab>
-  <metamark facs="#img_106_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">33</metamark>
-  <metamark facs="#img_106_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">41</metamark>
-  <metamark facs="#img_106_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_106_z003" rend="bubble _HMp" place="below" hand="#RW">43</add></metamark>
-  <metamark facs="#img_106_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht">46</metamark>
+<ab rend="left-top"><metamark facs="#img_106_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">33</metamark></ab><ab rend="right-top"><metamark facs="#img_106_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">41</metamark><metamark facs="#img_106_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_106_z003" rend="bubble _HMp" place="below" hand="#RW">43</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_106_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht">46</metamark></ab><ab>
+  
+  
+  
+  
  <subst facs="#img_106_z005"><del facs="#img_106_z005" rend="overwritten _ink1" type="superimposed" hand="#HM">The</del><add facs="#img_106_z005" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StDa">the</add></subst> <add facs="#img_106_z008" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa"><del facs="#img_106_z007" rend="multi-stroke _HMp" hand="#HM" change="#StDa">old</del> good-natured</add>
   poet's famous invocation, near two
   <lb/>thousand years ago, of the good rustic

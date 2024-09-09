@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_429"/>
-<ab>
-<metamark facs="#img_429_z001" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBcCa">49</metamark><metamark facs="#img_429_z002" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBcCa"><hi rend="bubble">2</hi></metamark><metamark facs="#img_429_z003" rend="#HM _HMp" place="margin(top) margin(right)" function="folio" change="#StBcCa"><hi rend="bubble">170</hi></metamark><metamark facs="#img_429_z014" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StBcCa">180</metamark>
+<ab rend="top"><metamark facs="#img_429_z001" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBcCa">49</metamark><metamark facs="#img_429_z002" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBcCa"><hi rend="bubble">2</hi></metamark></ab><ab rend="right-top"><metamark facs="#img_429_z003" rend="#HM _HMp" place="margin(top) margin(right)" function="folio" change="#StBcCa"><hi rend="bubble">170</hi></metamark></ab><ab rend="left-bottom"><metamark facs="#img_429_z014" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StBcCa">180</metamark></ab><ab>
+
 That quick fierce light was a strange one, darted
   <lb/>from orbs which in repose were of a color
   <lb/>nearest approaching a deeper violet, the

@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_755"/>
-<ab>
-  <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_755_z001">321</metamark>
-  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_755_z006">331</metamark>
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_755_z001">321</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_755_z006">331</metamark></ab><ab rend="top"><metamark place="above" function="folio" rend="no-caret _HMp" change="StG" facs="#img_755_z018">93</metamark></ab><ab>
+  
+  
 beheld the prodigy of repose <add place="above" rend="caret _HMp" hand="#HM" change="StG" facs="#img_755_z005">in the <metamark place="inline" function="caret" rend="_HMp" change="StG" facs="#img_755_z002">^</metamark> <add place="above" rend="caret _HMp" hand="#HM" change="StG" facs="#img_755_z003">form</add> suspended in air, <del rend="single-stroke _HMp" hand="#HM" change="StG" facs="#img_755_z004">the same</del></add> <metamark place="inline" function="caret" rend="_HMp" change="StG" facs="#img_755_z007">^</metamark><del rend="single-stroke _HMp" hand="#HM" change="StG" facs="#img_755_z008">hanging</del>
   <lb/><del rend="single-stroke _HMp" hand="#HM" change="StG" facs="#img_755_z009">from the yard-end;</del> <add place="above" rend="no-caret _HMp" hand="#HM" change="StG" facs="#img_755_z010">and now foundering in the deeps;</add> to such mariners
   <lb/>the action of the sea-fowl tho' dictated
@@ -10,7 +10,7 @@ beheld the prodigy of repose <add place="above" rend="caret _HMp" hand="#HM" cha
   <lb/><del rend="single-stroke _HMp" hand="#HM" change="StG" facs="#img_755_z014">import of bale.</del> <add place="above" rend="no-caret _HMp" hand="#HM" change="StG" facs="#img_755_z015">no prosaic significance.</add> <del rend="single-stroke _HMp" hand="#HM" change="StG" facs="#img_755_z016">A dubious strange</del>
   <lb/><add place="above" rend="no-caret _HMp" hand="#HM" change="StEG" facs="#img_755_z017">An uncertain</add> movement began among them, in which
   <lb/>some encroachment was made. It
-  <lb/><metamark place="above" function="folio" rend="no-caret _HMp" change="StG" facs="#img_755_z018">93</metamark> was tolerated but for a moment. For
+  <lb/> was tolerated but for a moment. For
   <lb/>suddenly the drum beat to quarters,
   <lb/>which familiar sound happening <add place="above" rend="no-caret _ink2" hand="#HM" change="StG" facs="#img_755_z019">at least</add> twice
   <lb/>every day, had upon the present

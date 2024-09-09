@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_577"/>
-<ab>
-<metamark facs="#img_577_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">234</metamark>
-<metamark facs="#img_577_z016" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">244</metamark>
+<ab rend="right-top"><metamark facs="#img_577_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">234</metamark></ab><ab rend="left-bottom"><metamark facs="#img_577_z016" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">244</metamark></ab><ab rend="top"><metamark facs="#img_577_z010" rend="#HM _HMp" place="above" function="caret" change="#StFa">8</metamark></ab><ab rend="bottom"><metamark facs="#img_577_z011" rend="#HM _HMp" place="below" function="folio" change="#StGa">50</metamark></ab><ab>
+
+
 Feeling that unless quick action
 <lb/>was taken on it<add facs="#img_577_z002" rend="no-caret _HMp" place="inline" hand="#HM" change="#StGa">,</add> the deed of the foretopman<add facs="#img_577_z003" rend="no-caret _HMp" place="inline" hand="#HM" change="#StGa">,</add>
 <lb/>so soon as it should be known <del facs="#img_577_z004" rend="single-stroke _ink1" hand="#HM" change="#StGa">to them</del> <add facs="#img_577_z005" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa">on the gun-decks</add>
@@ -9,7 +9,7 @@ Feeling that unless quick action
 <lb/>embers of <del facs="#img_577_z006" rend="single-stroke _HMp" hand="#HM" change="#StGa">disaffection</del> <add facs="#img_577_z007" rend="no-caret _HMp" place="above" hand="#HM" change="#StGa">the Nore</add> among the crew,
 <lb/>a sense of the urgency of the case
 <lb/>overruled <metamark facs="#img_577_z008" rend="#HM _HMp" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_577_z009" rend="caret _HMp" place="above" hand="#HM" change="#StGa">in Captain Vere</add> every other consideration.
-<lb/><del facs="#img_577_z010" rend="multi-stroke _HMp" hand="#HM" change="#StGa"><metamark facs="#img_577_z010" rend="#HM _HMp" place="above" function="caret" change="#StFa">8</metamark></del> But tho' a conscientious disiplinarian <metamark facs="#img_577_z011" rend="#HM _HMp" place="below" function="folio" change="#StGa">50</metamark>
+<lb/><del facs="#img_577_z010" rend="multi-stroke _HMp" hand="#HM" change="#StGa"/> But tho' a conscientious disiplinarian 
 <lb/>he was no lover of authority for
 <lb/>mere authority's sake. Very far
 <lb/>was he from embracing opportunities

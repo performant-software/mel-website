@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_39"/>
-<ab>
-<metamark facs="#img_39_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEaa">15</metamark>
-<metamark facs="#img_39_z007" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#StHt">17</metamark>
+<ab rend="right-top"><metamark facs="#img_39_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEaa">15</metamark></ab><ab rend="left-bottom"><metamark facs="#img_39_z007" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#StHt">17</metamark></ab><ab>
+
+
 As necessary adjuncts to the flask, he
   <lb/>silently placed tumbler and water-jug
   <lb/>before the irrepressable guest.  But

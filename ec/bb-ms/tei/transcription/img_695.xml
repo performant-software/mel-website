@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_695"/>
-<ab>
- <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_695_z001">291</metamark><!-- @hand="#RW" -->
-  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_695_z014">301</metamark><!-- @hand="#HT" -->
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_695_z001">291</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_695_z014">301</metamark></ab><ab>
+ <!-- @hand="#RW" -->
+  <!-- @hand="#HT" -->
   <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_695_z002">^</metamark><!-- @hand="#HM" --><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_695_z003">livery</add> of the undertakers. In contrast with the
   <lb/>funereal hue of these surroundings the
   <lb/>prone sailor's <add place="above" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_695_z004">exterior</add> apparel, white <hi rend="underline">jumper</hi>

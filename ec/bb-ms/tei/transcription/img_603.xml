@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_603"/>
-<ab>
-<metamark facs="#img_603_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">245</metamark>
-<metamark facs="#img_603_z029" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">256</metamark>
+<ab rend="right-top"><metamark facs="#img_603_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">245</metamark></ab><ab rend="left-bottom"><metamark facs="#img_603_z029" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">256</metamark></ab><ab rend="top"><metamark facs="#img_603_z013" rend="#HM _HMp" place="above" function="folio" change="#StFa">20</metamark></ab><ab>
+
+
 enough. But how can he rightly
 <lb/>answer it? or anybody else?
 <lb/>unless indeed it be he who lies
@@ -12,7 +12,7 @@ enough. But how can he rightly
 <lb/><add facs="#img_603_z032" rend="no-caret _HMp" place="inline" hand="#HM" change="#StFa">the</add> point <add facs="#img_603_z010" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">you make</add> <del facs="#img_603_z037" rend="single-stroke _HMp" hand="#HM" change="#StFa">though attesting</del> <del facs="#img_603_z034" rend="single-stroke _HMp" hand="#HM" change="#StFa">your</del> <del facs="#img_603_z038" rend="single-stroke _HMp" hand="#HM" change="#StFa">thoughtfulnes</del>
 <lb/>is <del facs="#img_603_z012" rend="single-stroke _HMp" hand="#HM" change="#StFa">not</del> hardly material. Quite
 <lb/>aside from any conceivable motive
-<lb/><metamark facs="#img_603_z013" rend="#HM _HMp" place="above" function="folio" change="#StFa">20</metamark> actuating the Master-at-arms,
+<lb/> actuating the Master-at-arms,
 <lb/>and irrespective of the provocation
 <lb/>to the blow, <del facs="#img_603_z014" rend="single-stroke _ink1" hand="#HM" change="#StFa">and</del> <del facs="#img_603_z015" rend="single-stroke _HMp" hand="#HM" change="#StFa"><add facs="#img_603_z015" rend="no-caret _ink1" place="above" hand="#HM" change="#StFa">or</add></del> <del facs="#img_603_z017" rend="single-stroke _HMp" hand="#HM" change="#StFa">even the blow itself</del>
 <lb/>a martial court <del facs="#img_603_z018" rend="single-stroke _HMp" hand="#HM" change="#StFa">should</del> <metamark facs="#img_603_z019" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark> <add facs="#img_603_z020" rend="caret _HMp" place="above" hand="#HM" change="#StFa">must needs <metamark facs="#img_603_z033" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark></add><add facs="#img_603_z028" rend="bubble _HMp" place="margin(bottom)" hand="#HM" change="#StFa">in the present case</add> confine its

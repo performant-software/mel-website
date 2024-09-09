@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_31"/>
-<ab>
-<metamark place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="StDb" facs="#img_31_z049">8</metamark>
-<metamark place="margin(top) margin(left)" function="folio" rend="bubble _Cg" change="StDb" facs="#img_31_z026"><add place="inline" rend="bubble _Cg" hand="#HM" change="StDb" facs="#img_31_z026">2</add></metamark>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="StEa" facs="#img_31_z025">12</metamark>
-<metamark facs="#img_31_z030" place="margin(bottom) margin(left)" function="folio">14</metamark>
+<ab rend="left-top"><metamark place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="StDb" facs="#img_31_z049">8</metamark><metamark place="margin(top) margin(left)" function="folio" rend="bubble _Cg" change="StDb" facs="#img_31_z026"><add place="inline" rend="bubble _Cg" hand="#HM" change="StDb" facs="#img_31_z026">2</add></metamark></ab><ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="StEa" facs="#img_31_z025">12</metamark></ab><ab rend="left-bottom"><metamark facs="#img_31_z030" place="margin(bottom) margin(left)" function="folio">14</metamark></ab><ab>
+
+
+
+
 at heart loved better than <del facs="#img_31_z001" rend="hashmark _ink1" hand="#HM">the</del> simple
 <lb/>peace and <subst facs="#img_31_z050"><del rend="multi-stroke _ink1" hand="#HM" change="StDb" facs="#img_31_z050">quietness</del><add place="inline" rend="no-caret _HMp" hand="#HM" change="StDb" facs="#img_31_z050">quiet</add></subst>. For the rest, he
 <lb/>was fifty or thereabouts, a little inclined

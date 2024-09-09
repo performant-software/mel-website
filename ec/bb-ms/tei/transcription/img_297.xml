@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_297"/>
-<ab>
-<metamark facs="#img_297_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_297_z002" rend="bubble _HMp" place="below" hand="#RW">112</add></metamark><metamark facs="#img_297_z001" place="margin(top) margin(right)" function="folio" change="#StEG" rend="no-caret _Cr">132</metamark>
-<metamark facs="#img_297_z022" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">124</metamark>
+<ab rend="right-top"><metamark facs="#img_297_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_297_z002" rend="bubble _HMp" place="below" hand="#RW">112</add></metamark><metamark facs="#img_297_z001" place="margin(top) margin(right)" function="folio" change="#StEG" rend="no-caret _Cr">132</metamark></ab><ab rend="left-bottom"><metamark facs="#img_297_z022" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">124</metamark></ab><ab>
+
+
 <add facs="#img_297_z024" rend="clip" place="inline" hand="#HM">
   <del facs="#img_297_z003" rend="multi-stroke _HMp" hand="#HM" change="#StEG">least</del> that Claggart's knowledge of the
 <lb/>young <del facs="#img_297_z004" rend="single-stroke _ink1" type="false-start" hand="#HM" change="#StEG">sailo</del> blue-jacket began at some

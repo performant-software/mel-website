@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_423"/>
-<ab>
-<metamark facs="#img_423_z002" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBa">48</metamark> <metamark facs="#img_423_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">168</metamark>
+<ab rend="top"><metamark facs="#img_423_z002" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBa">48</metamark></ab><ab rend="right-top"><metamark facs="#img_423_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">168</metamark></ab><ab>
+ 
 
 <del facs="#img_423_z003" rend="single-stroke _HMp" hand="#HM" change="#StBa"><add facs="#img_423_z003" rend="no-caret _HMp" place="above" hand="#HM" change="#StBa">cheerfully</add></del><del facs="#img_423_z004" rend="single-stroke _HMp" hand="#HM" change="#StBa"><add facs="#img_423_z004" rend="no-caret _HMp" place="above" hand="#HM" change="#StBa">tarrying</add></del>
   <del facs="#img_423_z045" rend="single-stroke _ink1" hand="#HM" change="#StBa">would follow</del>

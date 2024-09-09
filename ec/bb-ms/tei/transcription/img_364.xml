@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_364"/>
-<ab>
-<metamark facs="#img_364_z038" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCb">24</metamark>
-<metamark facs="#img_364_z016" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCb">142</metamark>
-<metamark facs="#img_364_z028" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCb">152</metamark>
-Not many days<metamark facs="#img_364_z029" rend="#HM _ink1" place="above" function="section-divider" change="#StCb">——//——</metamark> after the last
+<ab rend="left-top"><metamark facs="#img_364_z038" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCb">24</metamark></ab><ab rend="right-top"><metamark facs="#img_364_z016" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCb">142</metamark></ab><ab rend="left-bottom"><metamark facs="#img_364_z028" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCb">152</metamark></ab><ab rend="top"><metamark facs="#img_364_z029" rend="#HM _ink1" place="above" function="section-divider" change="#StCb">——//——</metamark></ab><ab>
+
+
+
+Not many days after the last
 <lb/>incident narrated something befell
 <lb/><add facs="#img_364_z013" rend="caret _ink1" place="above" hand="#HM" change="#StCb">Billy</add> <metamark facs="#img_364_z015" rend="#HM _ink1" place="inline" function="caret" change="#StCb">^</metamark> Budd that more gravelled him that aught
 <lb/>that had previously occurred.

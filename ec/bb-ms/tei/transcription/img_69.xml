@@ -1,10 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_69"/>
-<ab>
+<ab rend="left-top"><metamark facs="#img_69_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">22</metamark></ab><ab rend="top"><metamark facs="#img_69_z062" place="margin(top)" function="folio" rend="caret _Cg" change="#StBc"><unclear facs="#img_69_z062"><app><rdg resp="#MEL">8</rdg></app></unclear></metamark><metamark facs="#img_69_z061" place="margin(top)" function="folio" change="#StBc"><add facs="#img_69_z061" rend="bubble" place="inline" hand="#HM" change="#StBc"><unclear facs="#img_69_z061"><app><rdg resp="#MEL">1</rdg></app></unclear></add></metamark></ab><ab rend="right-top"><metamark facs="#img_69_z003" place="margin(top) margin(right)" function="folio" rend="caret _Cr" change="#StEa">27</metamark></ab><ab rend="left-bottom"><metamark facs="#img_69_z050" place="margin(bottom) margin(left)" function="folio" rend="caret _HMp" change="#Ht">30</metamark></ab><ab>
 <add facs="#img_69_z070" rend="clip" place="inline" hand="#HM" change="#StEa">
-<metamark facs="#img_69_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">22</metamark>
-<metamark facs="#img_69_z062" place="margin(top)" function="folio" rend="caret _Cg" change="#StBc"><unclear facs="#img_69_z062"><app><rdg resp="#MEL">8</rdg></app></unclear></metamark> <metamark facs="#img_69_z061" place="margin(top)" function="folio" change="#StBc"><add facs="#img_69_z061" rend="bubble" place="inline" hand="#HM" change="#StBc"><unclear facs="#img_69_z061"><app><rdg resp="#MEL">1</rdg></app></unclear></add></metamark>
-<metamark facs="#img_69_z003" place="margin(top) margin(right)" function="folio" rend="caret _Cr" change="#StEa">27</metamark>
-<metamark facs="#img_69_z050" place="margin(bottom) margin(left)" function="folio" rend="caret _HMp" change="#Ht">30</metamark>
+
+ 
+
+
 To be sure Billy's action was
   <lb/>a terrible breach of naval <del facs="#img_69_z005" rend="single-stroke _HMp" hand="#HM" change="#StBa">decorum</del><restore facs="#img_69_z004" change="#StBa"><del facs="#img_69_z004" rend="single-stroke _HMp" hand="#HM" change="#StBa"><add facs="#img_69_z004" rend="no-caret _HMp" place="above" hand="#HM" change="#StBa"><hi rend="restoration">discipline</hi></add>.</del></restore>
   <lb/>But in that <metamark facs="#img_69_z006" place="inline" function="caret" rend="caret _ink1" change="#StBa">^</metamark> <del facs="#img_69_z007" rend="single-stroke _HMp" hand="#HM" change="#StBa"><add facs="#img_69_z007" rend="caret _ink1" place="above" hand="#HM" change="#StBa">decorum</add></del> <add facs="#img_69_z010" rend="no-caret _HMp" place="above" hand="#HM" change="#StBa">discipline</add> he had never been

@@ -1,12 +1,12 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_45"/>
-<ab>
+<ab rend="left-top"><metamark facs="#img_45_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">13</metamark><metamark facs="#img_45_z002" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StEa"><add facs="#img_45_z002" rend="bubble _Cg" place="below" hand="#HM" change="#StEa">1</add></metamark></ab><ab rend="right-top"><metamark facs="#img_45_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">18</metamark><metamark facs="#img_45_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab"><add facs="#img_45_z003" rend="bubble _Co" place="inline" hand="#HM" change="#StEab">1</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_45_z005" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">20</metamark></ab><ab rend="bottom"><metamark facs="#img_45_z006" place="margin(bottom)" function="composition-information" rend="no-caret _HMp" change="#Ht">bMSAm188(363) Billy Budd</metamark></ab><ab>
 <add facs="#img_45_z013" rend="clip" hand="#HM" change="#StDa">
-<metamark facs="#img_45_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">13</metamark>
-<metamark facs="#img_45_z002" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StEa"><add facs="#img_45_z002" rend="bubble _Cg" place="below" hand="#HM" change="#StEa">1</add></metamark>
-<metamark facs="#img_45_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">18</metamark>
-<metamark facs="#img_45_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab"><add facs="#img_45_z003" rend="bubble _Co" place="inline" hand="#HM" change="#StEab">1</add></metamark>
-<metamark facs="#img_45_z005" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">20</metamark>
-<metamark facs="#img_45_z006" place="margin(bottom)" function="composition-information" rend="no-caret _HMp" change="#Ht">bMSAm188(363) Billy Budd</metamark>
+
+
+
+
+
+
 of the gang, the big shaggy chap
   <lb/>with the fire-red whiskers. He
   <lb/>indeed out of envy, perhaps, of the

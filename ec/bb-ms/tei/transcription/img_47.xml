@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_47"/>
-<ab>
-<metamark facs="#img_47_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab">18</metamark>
-<metamark facs="#img_47_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab"><add facs="#img_47_z002" rend="bubble _Cr" place="inline" hand="#HM" change="#StEab">2</add></metamark>
-<metamark facs="#img_47_z013" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">21</metamark>
+<ab rend="right-top"><metamark facs="#img_47_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab">18</metamark><metamark facs="#img_47_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab"><add facs="#img_47_z002" rend="bubble _Cr" place="inline" hand="#HM" change="#StEab">2</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_47_z013" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">21</metamark></ab><ab>
+
+
+
 Billy forebore with him and <del facs="#img_47_z005" rend="single-stroke _HMp" hand="#HM" change="#StEab">a sort of</del>
   <lb/>reasoned with him in a <del facs="#img_47_z003" rend="single-stroke _HMp" hand="#HM" change="#StEab">quiet</del> <add facs="#img_47_z004" rend="no-caret _HMp" place="above" hand="#HM" change="#StEab">pleasant</add> way—
   <lb/><add facs="#img_47_z006" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEab">"</add>he is something like myself, lieutenant,

@@ -1,10 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_104"/>
-<ab>
+<ab rend="left-top"><metamark facs="#img_104_z051" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">32</metamark></ab><ab rend="right-top"><metamark facs="#img_104_z052" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">40</metamark><metamark facs="#img_104_z053" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_104_z053" rend="bubble _HMp" place="below" hand="#RW">42</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_104_z068" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">45</metamark></ab><ab>
 <add facs="#img_104_z088" rend="clip" place="inline" hand="#HM" change="#StDa">
-<metamark facs="#img_104_z051" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">32</metamark>
-<metamark facs="#img_104_z052" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">40</metamark>
-<metamark facs="#img_104_z053" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_104_z053" rend="bubble _HMp" place="below" hand="#RW">42</add></metamark>
-<metamark facs="#img_104_z068" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">45</metamark>
+
+
+
+
 <del facs="#img_104_z001" rend="single-stroke _ink1" hand="#HM" change="#StEaa">virtues eminently</del> <metamark facs="#img_104_z054" place="inline" function="caret" rend="no-caret _ink1" change="#Eaa">^</metamark><add facs="#img_104_z007" rend="caret _ink1" place="above" hand="#HM" change="#StEaa">peculiarly</add> characterize
   <lb/>anybody in the external uniform
   <lb/>of civilization, <del facs="#img_104_z006" rend="single-stroke _ink1" hand="#HMp" change="#StEa">such virtues</del> <metamark facs="#img_104_z077" place="inline" function="caret" rend="no-caret _ink1" change="#Eaa">^</metamark> <add facs="#img_104_z008" rend="caret _ink1" place="above" hand="#HM" change="#StEaa">they</add> will

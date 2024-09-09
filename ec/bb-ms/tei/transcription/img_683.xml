@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_683"/>
-<ab>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_683_z001">284</metamark> <metamark place="margin(top) margin(right)" function="composition-information" rend="bubble _HMp" change="StFa" facs="#img_683_z017"><add place="above" rend="no-caret" facs="#img_683_z017">-&gt; the word was given to about <lb/>ship</add> </metamark>
-<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_683_z015">295</metamark>
-  <metamark place="margin(top) margin(left)" function="composition-information" rend="bubble _HMp" change="StFa" facs="#img_683_z004"><add place="below" rend="no-caret" facs="#img_683_z004">Another order to <lb/>be given here in <lb/>place of this one</add></metamark>
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_683_z001">284</metamark><metamark place="margin(top) margin(right)" function="composition-information" rend="bubble _HMp" change="StFa" facs="#img_683_z017"><add place="above" rend="no-caret" facs="#img_683_z017">-&gt; the word was given to about <lb/>ship</add> </metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_683_z015">295</metamark></ab><ab rend="left-top"><metamark place="margin(top) margin(left)" function="composition-information" rend="bubble _HMp" change="StFa" facs="#img_683_z004"><add place="below" rend="no-caret" facs="#img_683_z004">Another order to <lb/>be given here in <lb/>place of this one</add></metamark></ab><ab>
+ 
+
+  
  <!-- these should be encoded as a <note>s but we'll need to revisit later -->
 At the close, however, a confused
   <lb/><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_683_z005">waxing</del> murmer went up. <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_683_z006">It began to wax.</add> All but

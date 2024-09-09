@@ -1,13 +1,13 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_691"/>
-<ab>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_691_z001">288</metamark> <!-- @hand="#RW" -->
-<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_691_z004">299</metamark> <!-- @hand="#HT" -->
-<metamark place="margin(top)" function="section-divider" rend="no-caret _HMp" change="StFa" facs="#img_691_z002">––//––</metamark> <!-- @hand="#HM" -->
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_691_z001">288</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_691_z004">299</metamark></ab><ab rend="top"><metamark place="margin(top)" function="section-divider" rend="no-caret _HMp" change="StFa" facs="#img_691_z002">––//––</metamark></ab><ab rend="bottom"><metamark place="below" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_691_z003">62</metamark></ab><ab>
+ <!-- @hand="#RW" -->
+ <!-- @hand="#HT" -->
+ <!-- @hand="#HM" -->
   In a seventy-four of the old
   <lb/>order the deck known as the upper
   <lb/>gun-deck was the one covered over by the
   <lb/>spar-deck which last <subst facs="#img_691_z006"><del rend="overwritten _ink1" hand="#HM" change="StFa" facs="#img_691_z006">tho'</del><add place="inline" rend="overwritten _HMp" hand="#ESM" change="StFa" facs="#img_691_z006">though</add></subst> not without
-  <lb/><metamark place="below" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_691_z003">62</metamark><!-- @hand="#HM" --> its armament was for the most part exposed
+  <lb/><!-- @hand="#HM" --> its armament was for the most part exposed
   <lb/>to the weather. In general it was at all
   <lb/>hours free from hammocks; those of the crew
   <lb/>swinging on the lower gun-deck, and

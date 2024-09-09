@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_579"/>
-<ab>
-<metamark facs="#img_579_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">235</metamark>
-<metamark facs="#img_579_z013" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">245</metamark>
+<ab rend="right-top"><metamark facs="#img_579_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">235</metamark></ab><ab rend="left-bottom"><metamark facs="#img_579_z013" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">245</metamark></ab><ab rend="bottom"><metamark facs="#img_579_z004" rend="#HM _HMp" place="below" function="folio" change="#StGa"><hi rend="bubble">1</hi></metamark></ab><ab rend="top"><metamark facs="#img_579_z005" rend="#HM _HMp" place="above" function="folio" change="#StFa"><del facs="#img_579_z005" rend="single-stroke _HMp" hand="#HM" change="#StGa">9</del></metamark></ab><ab>
+
+
 or shared with him by his <del facs="#img_579_z001" rend="single-stroke _ink1" hand="#HM" change="#StGa">official</del>
 <lb/>official equals or even subordinates.
 <lb/>So thinking he was glad it would
@@ -9,8 +9,8 @@ or shared with him by his <del facs="#img_579_z001" rend="single-stroke _ink1" h
 <lb/>turn the matter over to a summary
 <lb/>court of his own officers, reserving
 <lb/>to himself as the one on whom
-<lb/>the ultimate accountability would <metamark facs="#img_579_z003" rend="#HM _HMp" place="inline" function="folio" change="#StGa"> 51 <metamark facs="#img_579_z004" rend="#HM _HMp" place="below" function="folio" change="#StGa"><hi rend="bubble">1</hi></metamark></metamark>
-<lb/><metamark facs="#img_579_z005" rend="#HM _HMp" place="above" function="folio" change="#StFa"><del facs="#img_579_z005" rend="single-stroke _HMp" hand="#HM" change="#StGa">9</del></metamark> rest, the right of maintaining <add facs="#img_579_z007" rend="no-caret _ink1" place="inline" hand="#HM" change="#StGa">a</add>
+<lb/>the ultimate accountability would <metamark facs="#img_579_z003" rend="#HM _HMp" place="inline" function="folio" change="#StGa"> 51 </metamark>
+<lb/> rest, the right of maintaining <add facs="#img_579_z007" rend="no-caret _ink1" place="inline" hand="#HM" change="#StGa">a</add>
 <lb/><del facs="#img_579_z006" rend="multi-stroke _ink1" hand="#HM" change="#StGa">the</del> supervision of it, or <metamark facs="#img_579_z008" rend="#HM _HMp" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_579_z009" rend="caret _HMp" place="above" hand="#HM" change="#StGa">formally or</add> informally
 <lb/>interposing at need. Accordingly
 <lb/>a drum-head court was summarily

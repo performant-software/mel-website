@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_23"/>
-<ab>
-<metamark facs="#img_23_z006" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">5</metamark>
-<metamark facs="#img_23_z007" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">8</metamark>
-<metamark facs="#img_23_z034" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">10</metamark>
+<ab rend="left-top"><metamark facs="#img_23_z006" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">5</metamark></ab><ab rend="right-top"><metamark facs="#img_23_z007" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">8</metamark></ab><ab rend="left-bottom"><metamark facs="#img_23_z034" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">10</metamark></ab><ab>
+
+
+
 Such a cynosure, at least in
   <lb/>aspect, and something such too in
   <lb/><del facs="#img_23_z005" rend="multi-stroke _HMp" hand="#HM" change="#StDA">his</del> nature, though with <del facs="#img_23_z001" rend="multi-stroke _HMp" change="#StDa">very</del> important

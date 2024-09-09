@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_330"/>
-<ab>
-<metamark facs="#img_330_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_330_z002" rend="bubble _HMp" place="below" hand="#RW">127</add></metamark><metamark facs="#img_330_z001" place="margin(top) margin(right)" function="folio" change="#StEeF" rend="no-caret _HMp">146</metamark>
-<metamark facs="#img_330_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_330_z003" rend="bubble _HMp" place="below" hand="#RW">2</add></metamark>
-<metamark facs="#img_330_z019" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">137</metamark>
+<ab rend="right-top"><metamark facs="#img_330_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_330_z002" rend="bubble _HMp" place="below" hand="#RW">127</add></metamark><metamark facs="#img_330_z001" place="margin(top) margin(right)" function="folio" change="#StEeF" rend="no-caret _HMp">146</metamark><metamark facs="#img_330_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_330_z003" rend="bubble _HMp" place="below" hand="#RW">2</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_330_z019" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">137</metamark></ab><ab>
+
+
+
 In view of the marked
   <lb/>contrast between the persons of the twain,
   <lb/>it is more than probable that <metamark facs="#img_330_z005" place="inline" function="caret" change="#StEeF" rend="caret _ink3">^</metamark> <add facs="#img_330_z004" rend="caret _ink3" place="above" hand="#HM" change="#StEeF">when</add> the

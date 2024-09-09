@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_141"/>
-<ab>
-<metamark facs="#img_141_z005" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">1</metamark>
-<metamark facs="#img_141_z017" place="margin(bottom) margin(left)" rend="no-caret _HMp" function="folio" change="#HT">58</metamark>
+<ab rend="left-top"><metamark facs="#img_141_z005" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">1</metamark></ab><ab rend="left-bottom"><metamark facs="#img_141_z017" place="margin(bottom) margin(left)" rend="no-caret _HMp" function="folio" change="#HT">58</metamark></ab><ab rend="bottom"><metamark facs="#img_141_z020" place="below" function="insertion-device" change="#StG" rend="no-caret _HMp">—//—</metamark></ab><ab>
+
+
 <add facs="#img_141_z004" place="inline" rend="no-caret _HMp" hand="#HM">Concerning "the greatest sailor
-<lb/>since the world began."</add><add facs="#img_141_z019" place="below" rend="no-caret _HMp" hand="#ESM"><metamark facs="#img_141_z020" place="below" function="insertion-device" change="#StG" rend="no-caret _HMp">—//—</metamark>Tennyson?</add>
+<lb/>since the world began."</add><add facs="#img_141_z019" place="below" rend="no-caret _HMp" hand="#ESM">Tennyson?</add>
 <lb/>
 <lb/>In this matter of writing, <add facs="#img_141_z003" rend="no-caret _HMp" place="above" hand="#HM">resolve</add><del facs="#img_141_z002" rend="single-stroke _HMp" hand="#HM" change="#StG">purpose</del>
 <lb/>as one may to keep to the main road,

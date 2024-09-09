@@ -1,10 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_123"/>
-<ab>
-<metamark facs="#img_123_z006" rend="#HM _Cg" place="margin(top) margin(left)" function="folio" change="#StDa">38</metamark>
-<metamark facs="#img_123_z007" rend="#HM _Cg" place="margin(top)" function="folio" change="#StB">12</metamark>
-<metamark facs="#img_123_z008" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEb">45</metamark>
-<metamark facs="#img_123_z009" rend="#HM _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_123_z009" rend="bubble _HMp" place="below" hand="#RW">49</add></metamark>
-<metamark facs="#img_123_z005" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">52</metamark>
+<ab rend="left-top"><metamark facs="#img_123_z006" rend="#HM _Cg" place="margin(top) margin(left)" function="folio" change="#StDa">38</metamark></ab><ab rend="top"><metamark facs="#img_123_z007" rend="#HM _Cg" place="margin(top)" function="folio" change="#StB">12</metamark></ab><ab rend="right-top"><metamark facs="#img_123_z008" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEb">45</metamark><metamark facs="#img_123_z009" rend="#HM _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_123_z009" rend="bubble _HMp" place="below" hand="#RW">49</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_123_z005" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">52</metamark></ab><ab>
+
+
+
+
+
 <lb/><metamark place="inline" function="composition-information"><hi rend="italic">[The text below supersedes text on Leaf 127.]</hi></metamark>  <lb/>
   <lb/>
   <lb/>

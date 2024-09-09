@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_587"/>
-<ab>
-  <metamark facs="#img_587_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><hi rend="bubble">238</hi></metamark>
-  <metamark facs="#img_587_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">248</metamark>
+<ab rend="right-top"><metamark facs="#img_587_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><hi rend="bubble">238</hi></metamark></ab><ab rend="left-bottom"><metamark facs="#img_587_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">248</metamark></ab><ab rend="bottom"><metamark facs="#img_587_z004" rend="#HM _HMp" place="below" function="folio" change="#StGa">53</metamark></ab><ab>
+  
+  
   was a small state-room
   <add facs="#img_587_z007" rend="caret _HMp" place="above" hand="#HM" change="#StFa">the one now <metamark facs="#img_587_z008" rend="#HM _HMp" place="inline" function="insertion-device" change="#StFa">^</metamark>
 <add facs="#img_587_z009" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">temporarily</add> a <del facs="#img_587_z024" rend="single-stroke _HMp" hand="#HM" change="#StFa">dea</del> jail &amp;
@@ -13,7 +13,7 @@
   <lb/>A sky-light of moderate dimension was
   <lb/>overhead and <del facs="#img_587_z011" rend="single-stroke _ink1" hand="#HM" change="#StFa">on</del> <add facs="#img_587_z012" rend="no-caret _ink1" place="above" hand="#HM" change="#StFa">at</add> each <del facs="#img_587_z013" rend="single-stroke _ink1" hand="#HM" change="#StFa">side</del> <add facs="#img_587_z014" rend="no-caret _ink1" place="above" hand="#HM" change="#StFa">end of</add> the oblong
   <lb/>space were <metamark facs="#img_587_z015" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_587_z016" rend="caret _ink1" place="above" hand="#HM" change="#StFa">two</add> sashed port-hole windows
-  <lb/><metamark facs="#img_587_z005" rend="#HM _HMp" place="inline" function="folio" change="#StFa"><del facs="#img_587_z005" rend="single-stroke _HMp" hand="#HM" change="#StFa">12</del></metamark>  <del facs="#img_587_z017" rend="single-stroke _ink1" hand="#HM" change="#StFa">readily</del> <add facs="#img_587_z019" rend="caret _ink1" place="above" hand="#HM" change="#StFa">easily</add><metamark facs="#img_587_z018" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark> convertable back into embrasures <metamark facs="#img_587_z004" rend="#HM _HMp" place="below" function="folio" change="#StGa">53</metamark>
+  <lb/><metamark facs="#img_587_z005" rend="#HM _HMp" place="inline" function="folio" change="#StFa"><del facs="#img_587_z005" rend="single-stroke _HMp" hand="#HM" change="#StFa">12</del></metamark>  <del facs="#img_587_z017" rend="single-stroke _ink1" hand="#HM" change="#StFa">readily</del> <add facs="#img_587_z019" rend="caret _ink1" place="above" hand="#HM" change="#StFa">easily</add><metamark facs="#img_587_z018" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark> convertable back into embrasures 
   <lb/>for <del facs="#img_587_z020" rend="multi-stroke _HMp" hand="#HM" change="#StFa">the</del> short carronades<add facs="#img_587_z023" rend="no-caret _HMp" place="inline" hand="#HM" change="#StFa">.</add> <del facs="#img_587_z021" rend="multi-stroke _HMp" hand="#HM" change="#StFa">belonging</del>
   <lb/><del facs="#img_587_z022" rend="multi-stroke _HMp" hand="#HM" change="#StFa">to them.</del>
   <lb/>All being quickly

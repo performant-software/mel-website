@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_697"/>
-<ab>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" facs="#img_697_z001">292</metamark><!-- @hand="#RW" -->
-  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_697_z022">302</metamark><!-- @hand="#HT" -->
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" facs="#img_697_z001">292</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_697_z022">302</metamark></ab><ab rend="bottom"><metamark place="below" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_697_z006">65</metamark></ab><ab>
+<!-- @hand="#RW" -->
+  <!-- @hand="#HT" -->
   flickering splashes of dirty yellow
   <lb/>light they pollute the pale moonshine
   <lb/>all but ineffectually struggling in
@@ -10,7 +10,7 @@
   <lb/>protrude. Other <subst facs="#img_697_z002"><del rend="overwritten _HMp" hand="#ESM" change="StFa" facs="#img_697_z002">lanthorns</del><add place="inline" rend="overwritten _HMp" hand="#ESM" change="StFa" facs="#img_697_z002">lanterns</add></subst><!-- NN says ESM made the change in the previous instance of the same word on leaf 301 but here they don't specify. I think it's ESM again. JB: Good point, but also it's mended in ink here, so I think it's more likely HM--> at intervals
   <lb/>serve but to bring out somewhat
   <lb/>the obscurer bays which like small
-  <lb/><metamark place="below" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_697_z006">65</metamark><!-- @hand="#HM" --> confessionals or side-chapels <add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_697_z004">in a cathedral</add><metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_697_z003">^</metamark><!-- @hand="#HM" --> branch
+  <lb/><!-- @hand="#HM" --> confessionals or side-chapels <add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_697_z004">in a cathedral</add><metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_697_z003">^</metamark><!-- @hand="#HM" --> branch
   <lb/>from the long dim-vistaed <add place="above" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_697_z005">broad-</add>aisle
   <lb/>between the two batteries of that <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_697_z007">^</metamark><!-- @hand="#HM" --><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_697_z008">covered</add> <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_697_z009">deck.</del> <add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_697_z010">tier.</add>
   <lb/>Such was the deck where

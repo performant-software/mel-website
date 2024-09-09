@@ -1,11 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_91"/>
-<ab>
-<metamark facs="#img_91_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_91_z001" rend="bubble _HMp" place="inline" hand="#RW">38</add></metamark>
-<metamark facs="#img_91_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab">36</metamark>
+<ab rend="right-top"><metamark facs="#img_91_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW"><add facs="#img_91_z001" rend="bubble _HMp" place="inline" hand="#RW">38</add></metamark><metamark facs="#img_91_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEab">36</metamark></ab><ab rend="left-bottom"><metamark facs="#img_91_z003" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">41</metamark></ab><ab rend="top"><metamark facs="#img_91_z004" place="above" function="folio" rend="no-caret _Cr" change="#StDa">36</metamark></ab><ab>
+
+
 <add facs="#img_91_z041" rend="clip" place="inline" hand="#HM" change="#StDb">
-<metamark facs="#img_91_z003" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">41</metamark>
+
 "<hi rend="underline">Found</hi> say you? Well," <del facs="#img_91_z005" rend="multi-stroke" hand="#ink1r" change="#StDa">his</del>
-<lb/>throwing back his head and looking <metamark facs="#img_91_z004" place="above" function="folio" rend="no-caret _Cr" change="#StDa">36</metamark>
+<lb/>throwing back his head and looking 
 <lb/>up and down the <del facs="#img_91_z006" rend="erasure" hand="#HM" change="#StDa"><add facs="#img_91_z006" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">noble stature</add></del> <restore facs="#img_91_z007" change="#StDa"><del facs="#img_91_z007" rend="single-stroke _HMp" hand="#HM" change="#StDa"><hi rend="restoration">new recruit</hi></del></restore>; <add place="inline" rend="no-caret _HMp" hand="#HM" change="StDa" facs="#img_91_z042">'</add>'Well
 <lb/>it turns out to have been a pretty
 <lb/>good find.  Hope they'll find some

@@ -1,11 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_221"/>
-<ab>
+<ab rend="left-top"><metamark facs="#img_221_z001" place="margin(top) margin(left)" function="folio" change="#StDa" rend="no-caret _Cg">54 <add facs="#img_221_z002" rend="bubble _HMp" place="inline" hand="#HM" change="#StBa"><del facs="#img_221_z002" rend="erasure" hand="#HM" change="#StBa">his eyes</del></add></metamark></ab><ab rend="top"><metamark facs="#img_221_z003" place="margin(top)" function="folio" change="#StBb" rend="no-caret _Cg">18</metamark><metamark facs="#img_221_z004" place="margin(top)" function="folio" change="#StBb" rend="no-caret _Cg"><add facs="#img_221_z004" rend="bubble _Cg" place="inline" hand="#Cg" change="#StBb">6</add></metamark></ab><ab rend="right-top"><metamark facs="#img_221_z005" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">102</metamark><metamark facs="#img_221_z006" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_221_z006" rend="bubble _HMp" place="below" hand="#HM">79</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_221_z007" place="margin(bottom) margin(left)" function="folio" rend="#HT">90</metamark></ab><ab>
 <add facs="#img_221_z040" rend="clip" place="inline" hand="#HM" change="#StBa">
-  <metamark facs="#img_221_z001" place="margin(top) margin(left)" function="folio" change="#StDa" rend="no-caret _Cg">54 <add facs="#img_221_z002" rend="bubble _HMp" place="inline" hand="#HM" change="#StBa"><del facs="#img_221_z002" rend="erasure" hand="#HM" change="#StBa">his eyes</del></add></metamark>
-<metamark facs="#img_221_z003" place="margin(top)" function="folio" change="#StBb" rend="no-caret _Cg">18</metamark> <metamark facs="#img_221_z004" place="margin(top)" function="folio" change="#StBb" rend="no-caret _Cg"><add facs="#img_221_z004" rend="bubble _Cg" place="inline" hand="#Cg" change="#StBb">6</add></metamark>
-<metamark facs="#img_221_z005" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">102</metamark>
-<metamark facs="#img_221_z006" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_221_z006" rend="bubble _HMp" place="below" hand="#HM">79</add></metamark>
-<metamark facs="#img_221_z007" place="margin(bottom) margin(left)" function="folio" rend="#HT">90</metamark>
+  
+ 
+
+
+
 somewhat spare and <subst facs="#img_221_z008"><del facs="#img_221_z008" rend="overwritten _ink1" type="superimposed" hand="#HM">tallish</del><add facs="#img_221_z008" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StBa">tall</add></subst>, yet of no
   <lb/>ill figure upon the whole. His hand was
   <lb/>too small and shapely to have been

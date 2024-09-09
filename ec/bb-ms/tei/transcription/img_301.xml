@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_301"/>
-<ab>
-<metamark facs="#img_301_z001" place="margin(top) margin(right)" function="folio" change="#StEeF" rend="no-caret _Cr">134</metamark><metamark facs="#img_301_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_301_z002" rend="bubble" place="below" hand="#RW">114</add></metamark>
-<metamark facs="#img_301_z026" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">126</metamark>
+<ab rend="right-top"><metamark facs="#img_301_z001" place="margin(top) margin(right)" function="folio" change="#StEeF" rend="no-caret _Cr">134</metamark><metamark facs="#img_301_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_301_z002" rend="bubble" place="below" hand="#RW">114</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_301_z026" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">126</metamark></ab><ab>
+
+
 There, every day <metamark facs="#img_301_z003" place="inline" function="caret" change="#StEeF" rend="no-caret _ink1">^</metamark> <add facs="#img_301_z004" rend="caret _ink1" place="above" hand="#HM" change="#StEeF">among all ranks</add> almost every man
 <lb/>comes into more or less of contact with
 <lb/>almost every other man. Wholly there

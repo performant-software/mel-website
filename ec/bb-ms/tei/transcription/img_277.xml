@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_277"/>
-<ab>
-<add facs="#img_277_z029" rend="clip" place="inline" hand="#HM" change="#StEc"><metamark facs="#img_277_z009" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add rend="no-caret" place="inline" hand="#HM">124</add></metamark>
-<metamark facs="#img_277_z010" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add facs="#img_277_z010" rend="bubble _Cr" place="inline" hand="#HM" change="#StEc">1</add></metamark>
-<metamark facs="#img_277_z011" rend="#RW" place="margin(top) margin(right)" function="folio"><add facs="#img_277_z011" rend="bubble _HMp" place="below" hand="#RW">102</add></metamark>
-<metamark facs="#img_277_z024" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">114</metamark>
+<ab rend="right-top"><metamark facs="#img_277_z009" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add rend="no-caret" place="inline" hand="#HM">124</add></metamark><metamark facs="#img_277_z010" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add facs="#img_277_z010" rend="bubble _Cr" place="inline" hand="#HM" change="#StEc">1</add></metamark><metamark facs="#img_277_z011" rend="#RW" place="margin(top) margin(right)" function="folio"><add facs="#img_277_z011" rend="bubble _HMp" place="below" hand="#RW">102</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_277_z024" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">114</metamark></ab><ab>
+<add facs="#img_277_z029" rend="clip" place="inline" hand="#HM" change="#StEc">
+
+
+
 The old <del facs="#img_277_z007" rend="single-stroke _HMp" hand="#HM" change="#StEc">Dansker</del><add facs="#img_277_z008" rend="no-caret _HMp" place="above" hand="#HM" change="#StEc">man</add>, shoving up the
   <lb/>front of his tarpaulin and <del facs="#img_277_z017" rend="single-stroke _ink1" hand="#HM" type="false-start" change="#StEc">slo</del> deliberatly
   <lb/>rubbing the <del facs="#img_277_z018" rend="single-stroke _ink1" hand="#HM" change="#StEc">scar there </del> <del facs="#img_277_z019" rend="single-stroke _ink1" hand="#HM" change="#StEc">upper part of</del> <metamark facs="#img_277_z012" rend="#HM _HMp" place="inline" function="caret" change="#StEc">^ </metamark><add facs="#img_277_z014" rend="caret _HMp" place="above" hand="#HM" change="#StEc">long slant</add> scar

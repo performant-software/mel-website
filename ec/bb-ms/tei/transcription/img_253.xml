@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_253"/>
-<ab>
-<metamark facs="#img_253_z001" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">114</metamark> <metamark facs="#img_253_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_253_z003" rend="no-caret _HMp" place="below" hand="#RW">91</add></metamark>
-<metamark facs="#img_253_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">103</metamark>
+<ab rend="right-top"><metamark facs="#img_253_z001" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">114</metamark><metamark facs="#img_253_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_253_z003" rend="no-caret _HMp" place="below" hand="#RW">91</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_253_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">103</metamark></ab><ab rend="bottom"><metamark facs="#img_253_z005" place="below" function="section-divider" change="#StEb" rend="section-divider _HMp">——//——</metamark></ab><ab>
+ 
+
 Of this maratime Chief of
   <lb/>Police the ship's-corporals, so called,
   <lb/>were the immediate subordinates, and
@@ -14,5 +14,5 @@ Of this maratime Chief of
   <lb/>when astutely worked thro' his understrappers
   <lb/>of operating to the mysterious discomfort
   <lb/>if nothing worse, of any of the
-  <lb/>sea-commonalty.</add> <metamark facs="#img_253_z005" place="below" function="section-divider" change="#StEb" rend="section-divider _HMp">——//——</metamark>
+  <lb/>sea-commonalty.</add> 
 </ab></div></body></text>

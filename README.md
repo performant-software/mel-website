@@ -31,7 +31,7 @@ Once the site is running locally, you can view changes to the local XML files by
 
 The "Versions of Billy Budd" manuscript is encoded in TEI/XML originally produced using TextLab. It uses EditionCrafter for display of the text and requires a command line tool to be run in order to generate the necessary artifacts, which are checked into the project repository. To update the text, work with the xml in this file: `xml/versions-of-billy-budd/bb-ms.xml`. Once you have made your changes, regenerate the artifacts using the following command from the base directory of the repository:
 
-`editioncrafter process xml/versions-of-billy-budd/bb-ms.xml ec-dev http://127.0.0.1:8888/ec-dev`
+`editioncrafter process xml/versions-of-billy-budd/bb-ms.xml ec https://nl-bb-ec--mel.netlify.app/ec`
 
 Because of the large number of files this generates, when you go to commit them using git, you may encounter an error. To fix this, increase the POST buffer size for git:
 

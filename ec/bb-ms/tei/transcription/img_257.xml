@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_257"/>
-<ab>
-<metamark facs="#img_257_z002" place="margin(top) margin(right)" function="folio" change="#StEc" rend="no-caret _Cr"><add rend="bubble" place="below">2</add></metamark><metamark facs="#img_257_z001" place="margin(top) margin(right)" function="folio" change="#StEc" rend="no-caret _Cr">115</metamark> <metamark facs="#img_257_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add rend="bubble _HMp" place="below">93</add></metamark>
-  <metamark facs="#img_257_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">105</metamark>
+<ab rend="right-top"><metamark facs="#img_257_z002" place="margin(top) margin(right)" function="folio" change="#StEc" rend="no-caret _Cr"><add rend="bubble" place="below">2</add></metamark><metamark facs="#img_257_z001" place="margin(top) margin(right)" function="folio" change="#StEc" rend="no-caret _Cr">115</metamark><metamark facs="#img_257_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add rend="bubble _HMp" place="below">93</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_257_z004" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">105</metamark></ab><ab>
+ 
+  
 
 <del facs="#img_257_z005" rend="single-stroke _HMp" hand="#HM" change="#StEc">true to duty.</del> So in the merchant service
 <lb/>it had <del facs="#img_257_z006" rend="single-stroke _HMp" hand="#HM" change="#StEc">always</del> been with him. But now

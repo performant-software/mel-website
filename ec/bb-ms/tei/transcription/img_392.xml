@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_392"/>
-<ab>
-<metamark facs="#img_392_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">33</metamark> <metamark facs="#img_392_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><hi rend="bubble">4</hi></metamark>
-<metamark facs="#img_392_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><hi rend="bubble">156</hi></metamark>
-<metamark facs="#img_392_z015" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">166</metamark>
+<ab rend="left-top"><metamark facs="#img_392_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">33</metamark><metamark facs="#img_392_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><hi rend="bubble">4</hi></metamark></ab><ab rend="right-top"><metamark facs="#img_392_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><hi rend="bubble">156</hi></metamark></ab><ab rend="left-bottom"><metamark facs="#img_392_z015" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">166</metamark></ab><ab>
+ 
+
+
 so embarrased Billy that he knew
   <lb/>not how to respond to it, and let it
   <lb/>go unnoticed.  <del facs="#img_392_z004" rend="multi-stroke _HMp" hand="#HM" change="#StCc"><restore facs="#img_392_z004" change="#StCc"><del facs="#img_392_z004" hand="#HM"><hi rend="restoration">After that there</hi></del></restore> was</del>

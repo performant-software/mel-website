@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_386"/>
-<ab>
-<metamark facs="#img_386_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">33</metamark> <metamark facs="#img_386_z003" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><hi rend="bubble">1</hi></metamark> <metamark facs="#img_386_z004" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCc"><hi rend="bubble">153</hi></metamark>
-<metamark facs="#img_386_z031" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCc">163</metamark>
+<ab rend="left-top"><metamark facs="#img_386_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">33</metamark><metamark facs="#img_386_z003" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><hi rend="bubble">1</hi></metamark></ab><ab rend="right-top"><metamark facs="#img_386_z004" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCc"><hi rend="bubble">153</hi></metamark></ab><ab rend="left-bottom"><metamark facs="#img_386_z031" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCc">163</metamark></ab><ab>
+  
+
 parley with the fellow, even were it
   <lb/>but <del facs="#img_386_z007" rend="multi-stroke _ink1" hand="#HM" change="#StCc">to</del> for the purpose of gaining some
   <lb/>enlightenment as to his <del facs="#img_386_z008" rend="single-stroke _HMp" hand="#HM" change="#StCc">real</del> design<add facs="#img_386_z032" rend="no-caret _HMp" place="inline" hand="#HM" change="#StCc">.</add>

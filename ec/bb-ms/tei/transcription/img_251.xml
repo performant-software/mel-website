@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_251"/>
-<ab>
-<metamark facs="#img_251_z001" place="margin(top) margin(left)" function="folio" change="#StDa" rend="no-caret _Cg">64</metamark>
-<metamark facs="#img_251_z002" place="margin(top)" function="folio" change="#StBb" rend="no-caret _Cg">27</metamark>
-<metamark facs="#img_251_z003" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">113</metamark> <metamark facs="#img_251_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _HMP"><add facs="#img_251_z004" rend="bubble _HMp" place="below" hand="#RW">90</add></metamark>
-<metamark facs="#img_251_z005" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">102</metamark>
+<ab rend="left-top"><metamark facs="#img_251_z001" place="margin(top) margin(left)" function="folio" change="#StDa" rend="no-caret _Cg">64</metamark></ab><ab rend="top"><metamark facs="#img_251_z002" place="margin(top)" function="folio" change="#StBb" rend="no-caret _Cg">27</metamark></ab><ab rend="right-top"><metamark facs="#img_251_z003" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">113</metamark><metamark facs="#img_251_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _HMP"><add facs="#img_251_z004" rend="bubble _HMp" place="below" hand="#RW">90</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_251_z005" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">102</metamark></ab><ab>
+
+
+ 
+
 It was no gossip, however, but fact,
   <lb/>that <subst facs="#img_251_z008"><del facs="#img_251_z008" rend="overwritten _ink1" type="superimposed" hand="#HM">tho</del><add facs="#img_251_z008" rend="superimposed _HMp" type="superimposed" hand="#ESM">though</add></subst>, as before hinted, Claggart upon
   <lb/>his entrance into the navy was, as a novice,

@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_35"/>
-<ab>
-<metamark facs="#img_35_z015" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDb">8</metamark>
-<metamark facs="#img_35_z003" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDb"><add facs="#img_35_z003" rend="bubble _Cg" place="inline" hand="#HM" change="#StDb">4</add></metamark>
-<metamark facs="#img_35_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">14</metamark>
-<metamark facs="#img_35_z005" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">16</metamark>
+<ab rend="left-top"><metamark facs="#img_35_z015" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDb">8</metamark><metamark facs="#img_35_z003" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDb"><add facs="#img_35_z003" rend="bubble _Cg" place="inline" hand="#HM" change="#StDb">4</add></metamark></ab><ab rend="right-top"><metamark facs="#img_35_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">14</metamark></ab><ab rend="left-bottom"><metamark facs="#img_35_z005" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">16</metamark></ab><ab>
+
+
+
+
 a receptacle which his experiend eye
   <lb/>instantly discovered.  In fact he was one
   <lb/>of those sea-dogs in whom all the

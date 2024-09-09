@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_615"/>
-<ab>
-<metamark facs="#img_615_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">251</metamark>
-<metamark facs="#img_615_z020" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">262</metamark>
+<ab rend="right-top"><metamark facs="#img_615_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">251</metamark></ab><ab rend="left-bottom"><metamark facs="#img_615_z020" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">262</metamark></ab><ab rend="top"><metamark facs="#img_615_z010" rend="#HM _HMp" place="above" function="folio" change="#StFb">26</metamark></ab><ab>
+
+
 <add facs="#img_615_z022" rend="clip" place="inline" hand="#HM" change="#StFa">For Captain Vere, he for the time <add facs="#img_615_z003" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">(sitting)</add><del facs="#img_615_z002" rend="single-stroke _HMp" hand="#HM" change="#StFa">stood</del>
 <lb/>unconciusly with his back toward them,
 <lb/><del facs="#img_615_z004" rend="single-stroke _ink1" hand="#HM" change="#StFa">in one</del> apparently in one of his absent
@@ -11,7 +11,7 @@
 <lb/>But the court's silence continuing, broken
 <lb/>only at moments by <del facs="#img_615_z008" rend="single-stroke _HMp" hand="#HM" change="#StFb">low</del> <add facs="#img_615_z009" rend="no-caret _HMp" place="above" hand="#HM" change="#StFb">brief</add> consultations,
 <lb/><add facs="#img_615_z011" rend="no-caret _HMp" place="above" hand="#HM" change="#StFb">in low earnest tones,</add><del facs="#img_615_z023" rend="single-stroke _HMp" hand="#HM" change="#StFb">this</del> <del facs="#img_615_z024" rend="single-stroke _HMp" hand="#HM" change="#StFb">moved him to signs of impatience.</del> <add facs="#img_615_z012" rend="no-caret _HMp" place="above" hand="#HM" change="#StFb">this served to arouse him and energize him.</add>
-<lb/><metamark facs="#img_615_z010" rend="#HM _HMp" place="above" function="folio" change="#StFb">26</metamark> <del facs="#img_615_z016" rend="single-stroke _HMp" hand="#HM" change="#StFb">Wheeling round all at once,</del> <add facs="#img_615_z015" rend="no-caret _HMp" place="above" hand="#HM" change="#StFb">Turning,</add> he to-and-fro
+<lb/> <del facs="#img_615_z016" rend="single-stroke _HMp" hand="#HM" change="#StFb">Wheeling round all at once,</del> <add facs="#img_615_z015" rend="no-caret _HMp" place="above" hand="#HM" change="#StFb">Turning,</add> he to-and-fro
 <lb/>paced the cabin athwart; in the
 <lb/>returning ascent to windward, climbing
 <lb/>the slant deck in the ship's lee roll;

@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_527"/>
-<ab>
-<metamark facs="#img_527_z006" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">221</metamark>
+<ab rend="left-bottom"><metamark facs="#img_527_z006" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">221</metamark></ab><ab>
+
 <lb/><metamark rend="_ink1" place="inline" function="composition-information"><hi rend="italic">[See Image 529 for earlier version of the following text.]</hi></metamark>
   <lb/><add facs="#img_527_z008" rend="patch" place="inline" hand="#HM">
   <lb/>With the measured step and calm <metamark facs="#img_527_z001" rend="#HM _HMp" place="inline" function="folio" change="#StGa">29</metamark>

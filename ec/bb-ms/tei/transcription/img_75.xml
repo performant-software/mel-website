@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_75"/>
-<ab>
-<metamark facs="#img_75_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">30</metamark>
-<metamark facs="#img_75_z008" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">33</metamark>
+<ab rend="right-top"><metamark facs="#img_75_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">30</metamark></ab><ab rend="left-bottom"><metamark facs="#img_75_z008" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">33</metamark></ab><ab>
+
+
 have known a hearth of some sort, <del facs="#img_75_z002" rend="multi-stroke _ink1" hand="#HM" change="#StEa">while</del>
   <lb/>others may have had wives and children
   <lb/>left, too probably, in uncertain circumstances,

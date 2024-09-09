@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_715"/>
-<ab>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" facs="#img_715_z001">301</metamark>
-<metamark place="margin(bottom) margin(left)" function="folio" rend="_HMp" facs="#img_715_z013">311</metamark>
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" facs="#img_715_z001">301</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="_HMp" facs="#img_715_z013">311</metamark></ab><ab>
+
+
 a lieutenant had apprised him of
   <lb/>pretty much everything as to Billy;
   <lb/>and since he felt that innocence was

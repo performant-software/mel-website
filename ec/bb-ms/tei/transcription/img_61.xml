@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_61"/>
-<ab>
-<metamark facs="#img_61_z002" place="margin(top) margin(right)" function="folio" rend="caret _Cr" change="#StEa">24</metamark>
-<metamark facs="#img_61_z001" place="margin(top) margin(left)" function="folio" rend="caret _Cg" change="#StDa">19</metamark>
-<metamark facs="#img_61_z005" place="margin(top)" function="folio" rend="caret _Cg" change="#StBb">7 <del rend="erasure" hand="#HM" change="StBc" facs="#img_61_z004"><add place="inline" rend="bubble _HMp" hand="#HM" change="StBb" facs="#img_61_z004">5</add></del><add place="inline" rend="bubble" hand="#HM" change="StBc" facs="#img_61_z004">7</add></metamark>
-<metamark facs="#img_61_z016" place="margin(bottom) margin(left)" function="folio" rend="caret _HMp" change="#Ht">27</metamark>
+<ab rend="right-top"><metamark facs="#img_61_z002" place="margin(top) margin(right)" function="folio" rend="caret _Cr" change="#StEa">24</metamark></ab><ab rend="left-top"><metamark facs="#img_61_z001" place="margin(top) margin(left)" function="folio" rend="caret _Cg" change="#StDa">19</metamark></ab><ab rend="top"><metamark facs="#img_61_z005" place="margin(top)" function="folio" rend="caret _Cg" change="#StBb">7 <del rend="erasure" hand="#HM" change="StBc" facs="#img_61_z004"><add place="inline" rend="bubble _HMp" hand="#HM" change="StBb" facs="#img_61_z004">5</add></del><add place="inline" rend="bubble" hand="#HM" change="StBc" facs="#img_61_z004">7</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_61_z016" place="margin(bottom) margin(left)" function="folio" rend="caret _HMp" change="#Ht">27</metamark></ab><ab>
+
+
+
+
 
 pushed off from the <del rend="erasure" hand="#HM" change="StBc" facs="#img_61_z049"><add place="above" rend="no-caret _HMp" hand="#HM" change="StBb" facs="#img_61_z049">in sailor fashion</add></del> <del rend="erasure" hand="#HM" change="StBc" facs="#img_61_z048"><add place="above" rend="no-caret _HMp" hand="#HM" change="StBb" facs="#img_61_z048">abbreviated by</add></del> <hi rend="underline">Rights-of-Man</hi>. <del facs="#img_61_z021" rend="erasure" hand="#HM" change="#StBc"><add facs="#img_61_z021" rend="no-caret _HMp" place="below" hand="#HM" change="#StBb">captain &amp; crew in to the "Rights"</add></del>
   <lb/>That was the merchant-ship's name;<metamark facs="#img_61_z013" place="inline" function="caret" change="#Stp">^</metamark> <add facs="#img_61_z014" rend="bubble _ink1" place="margin(bottom)" hand="#HM">tho' by her master and crew

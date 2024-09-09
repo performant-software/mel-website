@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_360"/>
-<ab>
-<metamark facs="#img_360_z001" rend="#RW _HMp" place="margin(top) margin(left)" function="folio" change="#StCa">22</metamark> <metamark facs="#img_360_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_360_z002" rend="bubble _HMp" place="inline" hand="#RW">140</add></metamark> <metamark facs="#img_360_z027" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">150</metamark>
+<ab rend="left-top"><metamark facs="#img_360_z001" rend="#RW _HMp" place="margin(top) margin(left)" function="folio" change="#StCa">22</metamark></ab><ab rend="right-top"><metamark facs="#img_360_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_360_z002" rend="bubble _HMp" place="inline" hand="#RW">140</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_360_z027" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">150</metamark></ab><ab>
+  
 will, made <del facs="#img_360_z004" rend="single-stroke _HMp" hand="#HM" change="#StCa">monsters</del> <add facs="#img_360_z003" rend="no-caret _HMp" place="above" hand="#HM" change="#StCa">ogres</add> of trifles, probably
   <lb/>arguing that <del facs="#img_360_z005" rend="single-stroke _ink1" hand="#HM" change="#StCa">Billy's</del> the motive <del facs="#img_360_z006" rend="single-stroke _ink1" hand="#HM" change="#StCa">its</del>
   <lb/><del facs="#img_360_z007" rend="single-stroke _ink1" hand="#HM" change="#StCa">client</del> imputed to Billy in spilling <add facs="#img_360_z029" rend="no-caret _ink1" place="inline" hand="#HM" change="#StCa">the</add>

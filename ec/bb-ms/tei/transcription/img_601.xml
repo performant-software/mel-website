@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_601"/>
-<ab>
-<metamark facs="#img_601_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">244</metamark>
-<metamark facs="#img_601_z013" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">255</metamark>
+<ab rend="right-top"><metamark facs="#img_601_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">244</metamark></ab><ab rend="left-bottom"><metamark facs="#img_601_z013" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">255</metamark></ab><ab>
+
+
 obscure to Billy's thoughts, he was
 <lb/>nonplussed, evincing a confusion indeed
 <lb/>that some observers, such as can readily <add facs="#img_601_z002" rend="no-caret _HMp" place="inline" hand="#ESM">be</add>

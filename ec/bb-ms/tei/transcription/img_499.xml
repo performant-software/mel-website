@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_499"/>
-<ab>
+<ab rend="bottom"><metamark facs="#img_499_z019" rend="#HM _HMp" place="below" function="folio" change="#StGa">17</metamark></ab><ab>
 <metamark rend="_ink1" place="inline" function="composition-information"><hi rend="italic">[See leaf image 497 for preceding text of leaf 208]</hi></metamark>
-  <lb/>As to Billy's adieu to the ship <hi rend="italic"><hi rend="underline">Rights</hi>- <metamark facs="#img_499_z019" rend="#HM _HMp" place="below" function="folio" change="#StGa">17</metamark>
+  <lb/>As to Billy's adieu to the ship <hi rend="italic"><hi rend="underline">Rights</hi>- 
   <lb/>-<hi rend="underline">of</hi>-<hi rend="underline">Man</hi></hi>, which the boarding
 <lb/>lieutenant had indeed reported to <add facs="#img_499_z002" rend="no-caret _ink1" place="inline" hand="#HM" change="#StGa">him</add>
 <lb/><del facs="#img_499_z003" rend="single-stroke _ink1" hand="#HM" change="#StGa">the Captain</del>, but<add facs="#img_499_z017" rend="no-caret _HMp" place="inline" hand="#HM" change="#StBc">,</add> <add facs="#img_499_z004" rend="no-caret _HMp" place="above" hand="#HM" change="#StBc">in a deferential way</add> more as a good story

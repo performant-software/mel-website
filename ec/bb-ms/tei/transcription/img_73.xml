@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_73"/>
-<ab>
-<metamark facs="#img_73_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">29</metamark>
-<metamark facs="#img_73_z016" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">32</metamark>
+<ab rend="right-top"><metamark facs="#img_73_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">29</metamark></ab><ab rend="left-bottom"><metamark facs="#img_73_z016" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">32</metamark></ab><ab>
+
+
 He was soon at home in the service,
 <lb/>not at all disliked for his <metamark facs="#img_73_z022" place="inline" function="caret" rend="caret _ink1" change="#StEa">^</metamark> <add facs="#img_73_z020" rend="caret _ink1" place="above" hand="#HM" change="#StEa">unpretentious</add> good looks
 <lb/>and a sort of genial happy-go-lucky

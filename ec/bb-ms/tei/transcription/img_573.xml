@@ -1,14 +1,14 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_573"/>
-<ab>
-<metamark facs="#img_573_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><hi rend="bubble">232</hi></metamark>
-<metamark facs="#img_573_z016" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">242</metamark>
+<ab rend="right-top"><metamark facs="#img_573_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><hi rend="bubble">232</hi></metamark></ab><ab rend="left-bottom"><metamark facs="#img_573_z016" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">242</metamark></ab><ab rend="top"><metamark facs="#img_573_z005" rend="#HM _HMp" place="above" function="folio" change="#StGa">48</metamark></ab><ab>
+
+
 of <del facs="#img_573_z001" rend="single-stroke _ink1" hand="#HM" change="#StGa">temporary</del> secresy in the matter, the
 <lb/>confining all knowledge of it for a time
 <lb/>to the place where the homocide
 <lb/>occurred, the quarter-deck cabin;
 <lb/>in these particulars lurked some
 <lb/>resemblance to <del facs="#img_573_z003" rend="single-stroke _ink1" hand="#HM" change="#StGa">similar</del> <add facs="#img_573_z004" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa">the</add> policy
-<lb/>adopted in those <del facs="#img_573_z006" rend="multi-stroke _HMp" hand="#HM" change="#StGa">revolutionary</del> <subst facs="#img_573_z007"><del facs="#img_573_z007" rend="overwritten _ink1" type="superimposed" hand="#HM">trajedies</del><add facs="#img_573_z007" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StGa">tragedies</add></subst> <metamark facs="#img_573_z005" rend="#HM _HMp" place="above" function="folio" change="#StGa">48</metamark>
+<lb/>adopted in those <del facs="#img_573_z006" rend="multi-stroke _HMp" hand="#HM" change="#StGa">revolutionary</del> <subst facs="#img_573_z007"><del facs="#img_573_z007" rend="overwritten _ink1" type="superimposed" hand="#HM">trajedies</del><add facs="#img_573_z007" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StGa">tragedies</add></subst> 
 <lb/>of the palace which have <metamark facs="#img_573_z008" rend="#HM _ink1" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_573_z009" rend="caret _ink1" place="above" hand="#HM" change="#StGa">occurred</add> more than once
 <lb/>in the capital founded by Peter the <metamark facs="#img_573_z010" rend="#HM _HMp" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_573_z011" rend="caret _HMp" place="above" hand="#HM" change="#StGa">Barbarian.</add>
 <lb/><del facs="#img_573_z013" rend="single-stroke _HMp" hand="#HM" change="#StGa">Barbarian. <del facs="#img_573_z012" rend="single-stroke _HMp" hand="#HM" change="#StGa"><add facs="#img_573_z012" rend="no-caret _HMp" place="inline" hand="#HM" change="#StGa">Tartar.</add></del></del> <del facs="#img_573_z014" rend="single-stroke _HMp" hand="#HM" change="#StGa"><add facs="#img_573_z014" rend="no-caret _HMp" place="inline" hand="#HM" change="#StGa">Great, chiefly great by his</add></del>

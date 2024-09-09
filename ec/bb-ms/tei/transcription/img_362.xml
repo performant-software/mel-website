@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_362"/>
-<ab>
-<metamark facs="#img_362_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCa">23</metamark> <metamark facs="#img_362_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_362_z002" rend="bubble _HMp" place="inline" hand="#RW">141</add></metamark> <metamark facs="#img_362_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">151</metamark>
+<ab rend="left-top"><metamark facs="#img_362_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCa">23</metamark></ab><ab rend="right-top"><metamark facs="#img_362_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_362_z002" rend="bubble _HMp" place="inline" hand="#RW">141</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_362_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">151</metamark></ab><ab>
+  
 Probably, the master-at-arms' clandestine
   <lb/>persecution of Billy were started to try
   <lb/>the temper of the man; but <metamark place="inline" function="caret" rend="caret _ink1" change="StCa" facs="#img_362_z004">^</metamark> <del facs="#img_362_z005" rend="multi-stroke _ink1" hand="#HM" change="#StCa">they</del> <add facs="#img_362_z006" rend="no-caret _ink1" place="above" hand="#HM" change="#StCa">it</add> had not

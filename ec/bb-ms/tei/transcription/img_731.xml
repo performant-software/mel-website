@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_731"/>
-<ab>
-  <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW" facs="#img_731_z001">309</metamark>
-  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht" facs="#img_731_z031">319</metamark>
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="#RW" facs="#img_731_z001">309</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht" facs="#img_731_z031">319</metamark></ab><ab rend="top"><metamark place="above" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_731_z010">83</metamark></ab><ab>
+  
+  
   Captain Vere, either thro stoic self-control
   <lb/>or a sort of <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_731_z002">temporary</del> <add place="above" rend="no-caret _HMp" hand="#HM" change="Stp" facs="#img_731_z003">momentary</add> paralysis
   <lb/>induced by emotional shock, stood
@@ -9,7 +9,7 @@
  <add place="inline" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_731_z009">the</add>
   <lb/><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_731_z004">armory's</del> <add place="above" rend="no-caret _HMp" hand="#HM" change="Stp" facs="#img_731_z005">ship-armorer's</add> rack.
   <lb/>The <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_731_z006">cannoned</del> <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_731_z007"><add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_731_z007">ponderous</add></del> hull deliberatly
-  <lb/><metamark place="above" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_731_z010">83</metamark>recovering from the periodic roll to
+  <lb/>recovering from the periodic roll to
   <lb/>leeward <metamark place="inline" function="caret" rend="insertion-device _HMp" change="StFa" facs="#img_731_z011">^</metamark><del rend="hashmark _HMp" hand="#HM" change="StFa" facs="#img_731_z012"><add place="above" rend="bubble _HMp" hand="#HM" change="StFa" facs="#img_731_z012">Insert from p. 84</add></del> was just regaining an
   <lb/>even keel, when <metamark place="inline" function="caret" rend="caret _HMp" change="StFa" facs="#img_731_z013">^</metamark><add place="above" rend="caret _HMp" hand="#HM" change="StFa" facs="#img_731_z017">last <restore change="StFa" hand="#HM" facs="#img_731_z018"><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_731_z018"><hi rend="restoration">fatal</hi></del></restore></add> <add place="above" rend="caret _HMp" hand="#HM" change="StFa" facs="#img_731_z014"><restore change="StFa" hand="#HM" facs="#img_731_z015"><del rend="single-stroke _HMp" hand="#HM" change="Stp" facs="#img_731_z015"><hi rend="restoration">death-</hi></del></restore>signal a</add> the preconcerted  <metamark place="inline" function="caret" rend="caret _HMp" change="StFa" facs="#img_731_z019">^</metamark><add place="above" rend="caret _HMp" hand="#HM" change="StFa" facs="#img_731_z020"><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_731_z021">and</del> dumb </add><add place="inline" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_731_z032">one</add> <lb/><del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_731_z022">fatal sign</del> <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_731_z023"><add place="above" rend="no-caret _HMp" hand="#HM" change="StFa" facs="#img_731_z023">signal</add></del> was given. At the same
   <lb/>moment it chanced that the vapory

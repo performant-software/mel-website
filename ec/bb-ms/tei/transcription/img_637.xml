@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_637"/>
-<ab>
-<metamark facs="#img_637_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">262</metamark>
-<metamark facs="#img_637_z016" rend="#HM _HMp" place="margin(bottom) margin(left)" function="folio" change="#StFa">273</metamark>
+<ab rend="right-top"><metamark facs="#img_637_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">262</metamark></ab><ab rend="left-bottom"><metamark facs="#img_637_z016" rend="#HM _HMp" place="margin(bottom) margin(left)" function="folio" change="#StFa">273</metamark></ab><ab rend="bottom"><metamark facs="#img_637_z007" rend="#HM _HMp" place="below" function="folio" change="#StFa">37</metamark></ab><ab>
+
+
 "Surely not, my good <del facs="#img_637_z001" rend="multi-stroke _ink1" hand="#HM" change="#StFa">f</del> man. And
 <lb/>before a court less arbitrary and
 <lb/>more merciful than <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_637_z017">a ma</del> <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_637_z018">from</del>
@@ -9,7 +9,7 @@
 <lb/>largety extenuate. <metamark facs="#img_637_z004" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark> <add facs="#img_637_z005" rend="caret _ink1" place="above" hand="#HM" change="#StFa">At the Last Assizes it shall acquit.</add> But how here?
 <lb/>We proceed under the law of the
 <lb/>Mutiny Act. In feature no
-<lb/><metamark facs="#img_637_z007" rend="#HM _HMp" place="below" function="folio" change="#StFa">37</metamark> child can resemble his father
+<lb/> child can resemble his father
 <lb/>more than that Act resembles in
 <lb/>spirit the thing from which
 <lb/>it derives—War. <del facs="#img_637_z008" rend="single-stroke _HMp" hand="#HM" change="#StFa">We know</del>

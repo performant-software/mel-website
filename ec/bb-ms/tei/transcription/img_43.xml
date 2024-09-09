@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_43"/>
-<ab>
-<metamark facs="#img_43_z006" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">12</metamark>
-<metamark facs="#img_43_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">17</metamark>
-<metamark facs="#img_43_z021" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">19</metamark>
+<ab rend="left-top"><metamark facs="#img_43_z006" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">12</metamark></ab><ab rend="right-top"><metamark facs="#img_43_z001" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">17</metamark></ab><ab rend="left-bottom"><metamark facs="#img_43_z021" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">19</metamark></ab><ab>
+
+
+
 preliminry to <metamark facs="#img_43_z003" place="inline" function="caret" rend="caret _ink1" change="#StEa">^</metamark><add facs="#img_43_z005" rend="caret" place="above" hand="#ink1" change="#StDa">a replenishing; </add> <del facs="#img_43_z004" rend="single-stroke" hand="#ink1" change="#StDa">the refilling of it;</del> "Yes; <del facs="#img_43_z002" rend="erasure" hand="#HM" change="#StDa"><add facs="#img_43_z002" rend="no-caret _HMp" place="above" hand="#HM" change="#StDa">pretty soon</add></del>
   <lb/>I know.  Sorry"
   <lb/>"Beg pardon, but you

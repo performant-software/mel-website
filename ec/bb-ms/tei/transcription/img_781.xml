@@ -1,18 +1,18 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_781"/>
-<ab>
-<metamark place="margin(top)" function="folio" rend="no-caret _Cg" change="StBc" facs="#img_781_z011">78</metamark> <metamark place="margin(top)" function="folio" rend="bubble _Cg" change="StBc" facs="#img_781_z010"><add place="inline" rend="bubble _Cg" hand="#HM" change="StBc" facs="#img_781_z010">2</add></metamark>
-<metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_781_z009">334</metamark>
-<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_781_z012">344</metamark>
+<ab rend="top"><metamark place="margin(top)" function="folio" rend="no-caret _Cg" change="StBc" facs="#img_781_z011">78</metamark><metamark place="margin(top)" function="folio" rend="bubble _Cg" change="StBc" facs="#img_781_z010"><add place="inline" rend="bubble _Cg" hand="#HM" change="StBc" facs="#img_781_z010">2</add></metamark></ab><ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_781_z009">334</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_781_z012">344</metamark></ab><ab rend="bottom"><metamark place="below" function="insertion-device" rend="no-caret _HMp" change="StBc" facs="#img_781_z002">——//——</metamark><metamark place="margin(bottom)" function="section-divider" rend="no-caret _HMp" change="StBc" facs="#img_781_z013">——//——</metamark></ab><ab>
+ 
+
+
 long ago superannuated and forgotten
   <lb/>is all that <del rend="single-stroke _HMp" hand="#HM" change="StBa" facs="#img_781_z003">stands</del> <add place="above" rend="no-caret _HMp" hand="#HM" change="StB" facs="#img_781_z004">hitherto has stood</add> in <restore change="StBa" hand="#HM" facs="#img_781_z005"><del rend="single-stroke _HMp" hand="#HM" change="StBa" facs="#img_781_z005"><hi rend="restoration">human</hi></del></restore> <del rend="multi-stroke _HMp" hand="#HM" change="StBa" facs="#img_781_z006"><add place="above" rend="no-caret _HMp" hand="#HM" change="StBa" facs="#img_781_z006">authorative </add></del>
   <lb/>record <metamark place="inline" function="caret" rend="no-caret _HMp" change="StBa" facs="#img_781_z007">^</metamark> <del rend="single-stroke _HMp" hand="#HM" change="StBa" facs="#img_781_z008"><add place="above" rend="caret _HMp" hand="#HM" change="StBa" facs="#img_781_z008">up to the present time</add></del>to attest what manner
   <lb/>of men respectivly were
-  <lb/>John Claggart and Billy Budd.<metamark place="below" function="insertion-device" rend="no-caret _HMp" change="StBc" facs="#img_781_z002">——//——</metamark>
+  <lb/>John Claggart and Billy Budd.
   <lb/><del rend="multi-stroke _HMp" hand="#HM" change="StB" facs="#img_781_z002"><add place="inline" rend="no-caret _HMp" hand="#HM" change="StBa" facs="#img_781_z002">End</add></del>
 <metamark place="inline" function="composition-information" rend="no-caret _Cbl" change="StB" facs="#img_781_z001">  <lb/><del rend="hashmark _Cbl" hand="#HM" change="StBa" facs="#img_781_z001"><add place="inline" rend="no-caret _HMp" hand="#HM" change="StBa" facs="#img_781_z001">Here ends a story not unwarranted by
   <lb/>what sometimes happens in this incomprehensible?
   <lb/>world of ours — Innocence and infamy,
   <lb/>spiritual depravity and fair repute.</add></del></metamark>
-  <lb/><metamark place="margin(bottom)" function="section-divider" rend="no-caret _HMp" change="StBc" facs="#img_781_z013">——//——</metamark>
+  <lb/>
 </ab><milestone n="783" unit="leaf"/>
 </div></body></text>

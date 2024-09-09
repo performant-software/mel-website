@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_281"/>
-<ab>
-<metamark facs="#img_281_z010" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add facs="#img_281_z010" rend="bubble _Cr" place="below" hand="#HM" change="#StEc">1</add></metamark>
-  <metamark facs="#img_281_z009" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add facs="#img_281_z009" rend="no-caret _Cr" place="inline" hand="#HM" change="#StEc">125</add></metamark>
-  <metamark facs="#img_281_z011" rend="no-caret _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_281_z011" rend="bubble" place="below" hand="#RW">104</add></metamark>
-  <metamark facs="#img_281_z012" rend="no-caret _HMp" place="margin(bottom) margin(left)" function="folio">116</metamark>
+<ab rend="right-top"><metamark facs="#img_281_z010" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add facs="#img_281_z010" rend="bubble _Cr" place="below" hand="#HM" change="#StEc">1</add></metamark><metamark facs="#img_281_z009" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEc"><add facs="#img_281_z009" rend="no-caret _Cr" place="inline" hand="#HM" change="#StEc">125</add></metamark><metamark facs="#img_281_z011" rend="no-caret _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_281_z011" rend="bubble" place="below" hand="#RW">104</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_281_z012" rend="no-caret _HMp" place="margin(bottom) margin(left)" function="folio">116</metamark></ab><ab rend="bottom"><metamark facs="#img_281_z030" rend="#HM _HMp" place="below" function="section-divider" change="#StEc"><del facs="#img_281_z030" rend="erasure" hand="#HM" change="#StEc">—//—</del></metamark><metamark facs="#img_281_z034" rend="#HM _HMp" place="below" function="insertion-device" change="#StEc">//</metamark></ab><ab>
+
+  
+  
+  
 sufficiently instructed his young Achilles,
   <lb/>pursed his lips, gathered all his wrinkles
   <lb/>together and would commit himself
@@ -13,13 +13,13 @@ sufficiently instructed his young Achilles,
     <lb/>which befall certain
 
     <del rend="erasure" hand="#HM" change="StEc" facs="#img_281_z031"><add place="below" rend="no-caret _HMp" hand="#HM" change="StEc" facs="#img_281_z031">The experience <lb/>prudence &amp;c</add></del>
-    <metamark facs="#img_281_z030" rend="#HM _HMp" place="below" function="section-divider" change="#StEc"><del facs="#img_281_z030" rend="erasure" hand="#HM" change="#StEc">—//—</del></metamark>
+    
     <del facs="#img_281_z032" rend="erasure" hand="#HM" change="#StEc"><add facs="#img_281_z032" rend="no-caret _HMp" place="margin(right)" hand="#HM" change="#StEc">Billy young and <lb/>innocent as <del facs="#img_281_z033" rend="single-stroke" hand="#HM">an x</del> a little <lb/>&amp; &amp;c</add></del>
 
     <metamark facs="#img_281_z016" rend="#HM" place="inline" function="caret" change="#StEc">^</metamark><add facs="#img_281_z017" rend="caret _ink1" place="above" hand="#HM" change="#StEc">shrewder</add> men subordinated
   <lb/>life-long to the will of superiors, all this
   <lb/>had developed in the Dansker the pithy
   <lb/>guarded cynicism that was his leading
-  <lb/>characteristic.</add> <metamark facs="#img_281_z034" rend="#HM _HMp" place="below" function="insertion-device" change="#StEc">//</metamark>
+  <lb/>characteristic.</add> 
 <!-- See Ch. 10 for the transcription of the following text -->
 </ab></div></body></text>

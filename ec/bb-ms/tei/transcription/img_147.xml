@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_147"/>
-<ab>
-<metamark facs="#img_147_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StBb">4</metamark>
-<metamark facs="#img_147_z002" place="margin(top)" function="folio" rend="no-caret _Cg" change="#StBb">16</metamark> <metamark facs="#img_147_z004" place="margin(top)" function="folio" rend="no-caret _Cg" change="#StBb"><del facs="#img_147_z004" rend="erasure" hand="#HM"><add place="inline" rend="bubble _Cg" hand="#HM" change="StBb" facs="#img_147_z004">5</add></del></metamark> <metamark facs="#img_147_z003" place="margin(top)" function="folio" rend="bubble _Cg" change="#StBb">6</metamark>
-<metamark facs="#img_147_z035" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">61</metamark>
+<ab rend="left-top"><metamark facs="#img_147_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StBb">4</metamark></ab><ab rend="top"><metamark facs="#img_147_z002" place="margin(top)" function="folio" rend="no-caret _Cg" change="#StBb">16</metamark><metamark facs="#img_147_z004" place="margin(top)" function="folio" rend="no-caret _Cg" change="#StBb"><del facs="#img_147_z004" rend="erasure" hand="#HM"><add place="inline" rend="bubble _Cg" hand="#HM" change="StBb" facs="#img_147_z004">5</add></del></metamark><metamark facs="#img_147_z003" place="margin(top)" function="folio" rend="bubble _Cg" change="#StBb">6</metamark></ab><ab rend="left-bottom"><metamark facs="#img_147_z035" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">61</metamark></ab><ab>
+
+  
+
 Nevertheless, to <del facs="#img_147_z006" rend="single-stroke _HMp" hand="#HM" change="#StBb">one</del> <add facs="#img_147_z005" rend="no-caret _HMp" place="above" hand="#HM" change="#StBb">anybody</add> who can hold
   <lb/>the Present at its worth without being
   <lb/>inappreciative of the Past, it may be forgiven<add facs="#img_147_z007" rend="no-caret _HMp" place="inline" hand="#HM" change="#StBb">,</add>

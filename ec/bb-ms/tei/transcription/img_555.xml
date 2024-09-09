@@ -1,13 +1,13 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_555"/>
-<ab>
-<add facs="#img_555_z021" rend="no-caret _HMp" place="inline" hand="#HM"><metamark facs="#img_555_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><hi rend="bubble">223</hi></metamark>
-<metamark facs="#img_555_z013" rend="#HM _HMp" place="margin(bottom) margin(left)" function="folio" change="#StG">233</metamark>
+<ab rend="right-top"><metamark facs="#img_555_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><hi rend="bubble">223</hi></metamark></ab><ab rend="left-bottom"><metamark facs="#img_555_z013" rend="#HM _HMp" place="margin(bottom) margin(left)" function="folio" change="#StG">233</metamark></ab><ab rend="top"><metamark facs="#img_555_z008" rend="#HM _HMp" place="above" function="folio" change="#StG">41</metamark></ab><ab>
+<add facs="#img_555_z021" rend="no-caret _HMp" place="inline" hand="#HM">
+
 But come; we must despatch," he added.
 <lb/>Help me to remove <add facs="#img_555_z002" rend="no-caret _HMp" place="above" hand="#HM" change="#StG"><del facs="#img_555_z002" rend="single-stroke _HMp" hand="#HM" change="#StG">mea</del></add> him <metamark place="inline" function="caret" rend="caret _HMp" change="StG" facs="#img_555_z014">^</metamark> <add facs="#img_555_z003" rend="caret _HMp" place="above" hand="#HM" change="#StG">(meaning the body)</add> to yonder compartment,
 <lb/>designating <del facs="#img_555_z004" rend="single-stroke _HMp" hand="#HM" change="#StG">the</del> one opposite that where
 <lb/>the foretopman remained immured.
 <lb/>Anew disturbed by <del facs="#img_555_z015" rend="single-stroke _HMp" hand="#HM" change="#StG">a</del> <del facs="#img_555_z016" rend="single-stroke _HMp" hand="#HM" change="#StG">p</del> a request that
-<lb/><del facs="#img_555_z006" rend="single-stroke _HMp" hand="#HM" change="#StG">seemed so</del> <del facs="#img_555_z017" rend="single-stroke _HMp" hand="#HM" change="#StG">under the</del> <del facs="#img_555_z018" rend="single-stroke _HMp" hand="#HM" change="#StG">seemed so strange</del> <metamark facs="#img_555_z008" rend="#HM _HMp" place="above" function="folio" change="#StG">41</metamark>
+<lb/><del facs="#img_555_z006" rend="single-stroke _HMp" hand="#HM" change="#StG">seemed so</del> <del facs="#img_555_z017" rend="single-stroke _HMp" hand="#HM" change="#StG">under the</del> <del facs="#img_555_z018" rend="single-stroke _HMp" hand="#HM" change="#StG">seemed so strange</del> 
 <lb/>as implying a desire for secrecy, seemed
 <lb/>unaccountably strange to him, there was
 <lb/>nothing for the subordinate to do but

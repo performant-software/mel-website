@@ -1,13 +1,13 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_675"/>
-<ab>
-<metamark facs="#img_675_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">280</metamark>
-<metamark facs="#img_675_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">291</metamark>
+<ab rend="right-top"><metamark facs="#img_675_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">280</metamark></ab><ab rend="left-bottom"><metamark facs="#img_675_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">291</metamark></ab><ab rend="bottom"><metamark facs="#img_675_z002" rend="#HM _HMp" place="below" function="folio" change="#StFa">55</metamark></ab><ab>
+
+
 this and the closeted interview just
   <lb/>given less than an hour and a half
   <lb/>had elapsed. It was an interval
   <lb/>long enough however to awaken
   <lb/>speculations among <restore facs="#img_675_z004" change="#StFa"><del facs="#img_675_z004" rend="single-stroke _HMp" hand="#HM"><hi rend="restoration">no few of</hi></del></restore> the
-  <lb/><metamark facs="#img_675_z002" rend="#HM _HMp" place="below" function="folio" change="#StFa">55</metamark>ship's company as to what it was
+  <lb/>ship's company as to what it was
   <lb/>that could be detaining <metamark facs="#img_675_z005" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_675_z006" rend="caret _ink1" place="above" hand="#HM" change="#StFa">in the cabin</add> the Master-<lb/>at-arms and the sailor; for a rumor
   <lb/>that both <metamark facs="#img_675_z007" rend="#HM _HMp" place="inline" function="caret" change="#StFa">^</metamark> <del facs="#img_675_z036" rend="single-stroke _HMp" hand="#HM" change="#StFa">were there</del> <add facs="#img_675_z008" rend="caret _HMp" place="above" hand="#HM" change="#StFa">of them had been seen to enter it <metamark facs="#img_675_z009" rend="#HM _HMp" place="inline" function="insertion-device" change="#StFa">^</metamark> <del facs="#img_675_z033" rend="single-stroke _HMp" hand="#HM" change="#StFa">and</del></add> <add facs="#img_675_z026" rend="bubble _HMp" place="margin(bottom)" hand="#HM" change="#StFa">and neither of them had
 <restore facs="#img_675_z029" change="#StFa"><del facs="#img_675_z029" hand="#HM"><hi rend="restoration">been</hi></del></restore>

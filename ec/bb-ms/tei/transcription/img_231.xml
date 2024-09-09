@@ -1,5 +1,5 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_231"/>
-<ab>
+<ab rend="left-bottom"><metamark facs="#img_231_z004" place="margin(bottom) margin(left)" function="folio" rend="caret _HMp">94</metamark></ab><ab>
   <lb/>
   <lb/>
   <lb/>
@@ -8,6 +8,6 @@
   <lb/>which in the dearth of exact knowledge as to his
   <lb/>true anticedents opened to the invidious a
   <lb/>vague field for unfavorable surmise.
-<metamark facs="#img_231_z004" place="margin(bottom) margin(left)" function="folio" rend="caret _HMp">94</metamark></add>
+</add>
 </ab>
 </div></body></text>

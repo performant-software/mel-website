@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_643"/>
-<ab>
-<metamark facs="#img_643_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">265</metamark>
-<metamark facs="#img_643_z009" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">276</metamark>
+<ab rend="right-top"><metamark facs="#img_643_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">265</metamark></ab><ab rend="left-bottom"><metamark facs="#img_643_z009" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">276</metamark></ab><ab>
+
+
 consider the consequences of such clemency.
 <lb/>The people" (meaning the ship's company)
 <lb/>"have <del facs="#img_643_z010" rend="multi-stroke _HMp" hand="#ESM" change="#StFa">mother</del> <metamark facs="#img_643_z002" rend="#ESM _HMp" place="inline" function="caret" change="#StFa">^</metamark> <add facs="#img_643_z004" rend="caret _HMp" place="above" hand="#ESM" change="#StFa">native</add>-sense; most of them are

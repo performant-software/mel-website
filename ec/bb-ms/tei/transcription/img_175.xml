@@ -1,9 +1,9 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_175"/>
-<ab>
-  <metamark place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="StEb" facs="#img_175_z001">50</metamark>
-<metamark facs="#img_175_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW"><add facs="#img_175_z004" rend="bubble" place="inline" hand="#RW">61</add></metamark>
-<metamark facs="#img_175_z006" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">93</metamark>
-<metamark facs="#img_175_z030" place="margin(bottom) margin(left)" function="folio" rend="#HT">74</metamark>
+<ab rend="left-top"><metamark place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="StEb" facs="#img_175_z001">50</metamark></ab><ab rend="right-top"><metamark facs="#img_175_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW"><add facs="#img_175_z004" rend="bubble" place="inline" hand="#RW">61</add></metamark><metamark facs="#img_175_z006" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">93</metamark></ab><ab rend="left-bottom"><metamark facs="#img_175_z030" place="margin(bottom) margin(left)" function="folio" rend="#HT">74</metamark></ab><ab>
+  
+
+
+
 <metamark facs="#img_175_z003" place="inline" function="caret" change="#StEb" rend="caret _HMp">^</metamark> <add facs="#img_175_z002" rend="caret _HMp" place="above" hand="#HM" change="#StEb"><del facs="#img_175_z002" rend="single-stroke" hand="#HMp" change="#StEb">The "Indomitable's" Commander</del></add>Captain the Honorable Edward
 <lb/>Fairfax Vere, to give his full title,
 <lb/>was a <del facs="#img_175_z010" rend="single-stroke _HMp" hand="#HM" change="#StEb">man</del> <metamark facs="#img_175_z009" place="inline" function="caret" change="#StEb" rend="#HMp">^</metamark> <add facs="#img_175_z008" rend="caret _HMp" place="above" hand="#HM" change="#StEb"><del facs="#img_175_z007" rend="multi-stroke _HMp" hand="#HM" change="#StEb">confirmed</del> bachelor</add> of forty or thereabouts,

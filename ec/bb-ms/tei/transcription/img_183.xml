@@ -1,10 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_183"/>
-<ab>
-<metamark facs="#img_183_z001" place="margin(top) margin(left)" function="folio" rend="#HMp">54</metamark>
-<metamark facs="#img_183_z002" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co">95</metamark>
-<metamark facs="#img_183_z003" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co"><add facs="#img_183_z003" rend="bubble" place="below" hand="#Co" change="#StEc">2</add></metamark>
-<metamark facs="#img_183_z004" place="margin(top) margin(right)" function="folio" rend="#RW"><hi rend="Bubble">65</hi></metamark>
-<metamark facs="#img_183_z005" place="margin(bottom) margin(left)" function="folio" rend="#HT">78</metamark>
+<ab rend="left-top"><metamark facs="#img_183_z001" place="margin(top) margin(left)" function="folio" rend="#HMp">54</metamark></ab><ab rend="right-top"><metamark facs="#img_183_z002" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co">95</metamark><metamark facs="#img_183_z003" place="margin(top) margin(right)" function="folio" change="#StEc" rend="#Co"><add facs="#img_183_z003" rend="bubble" place="below" hand="#Co" change="#StEc">2</add></metamark><metamark facs="#img_183_z004" place="margin(top) margin(right)" function="folio" rend="#RW"><hi rend="Bubble">65</hi></metamark></ab><ab rend="left-bottom"><metamark facs="#img_183_z005" place="margin(bottom) margin(left)" function="folio" rend="#HT">78</metamark></ab><ab>
+
+
+
+
+
 <lb/>As with some others engaged in various
   <lb/>departments of the world's more
   <lb/>heroic activities, Captain Vere <subst facs="#img_183_z006"><del facs="#img_183_z006" rend="overwritten" type="superimposed" hand="#ink1">tho</del><add facs="#img_183_z006" rend="superimposed" type="superimposed" hand="#ESM">though</add></subst>

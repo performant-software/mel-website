@@ -1,14 +1,14 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_681"/>
-<ab>
-<metamark facs="#img_681_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">283</metamark>
-<metamark facs="#img_681_z008" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">294</metamark>
+<ab rend="right-top"><metamark facs="#img_681_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">283</metamark></ab><ab rend="left-bottom"><metamark facs="#img_681_z008" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">294</metamark></ab><ab rend="top"><metamark facs="#img_681_z002" rend="#HM _HMp" place="above" function="folio" change="#StFa">58</metamark></ab><ab rend="bottom"><metamark facs="#img_681_z007" rend="#HM _HMp" place="below" function="composition-information">Jonathan Edwards</metamark></ab><ab>
+
+
 The word <hi rend="italic">mutiny</hi> was not named
   <lb/>in what he said. He refrained too
   <lb/>from making the occasion an
   <lb/>opportunity for any preachment
   <lb/>as to the maintenance of discipline,
   <lb/>thinking perhaps that under
-  <lb/><metamark facs="#img_681_z002" rend="#HM _HMp" place="above" function="folio" change="#StFa">58</metamark> existing circumstances in the navy
+  <lb/> existing circumstances in the navy
   <lb/><del facs="#img_681_z003" rend="multi-stroke _ink1" hand="#HM" change="#StFa">[cle?]</del> the consequence of violating discipline
   <lb/>should be made to speak, <del facs="#img_681_z004" rend="single-stroke _ink1" hand="#HM" change="#StFa">in</del> <del facs="#img_681_z005" rend="single-stroke _HMp" hand="#HM">and</del>
   <lb/><del facs="#img_681_z006" rend="single-stroke _HMp" hand="#HM">in no mincing tone,</del> for itself.
@@ -18,6 +18,6 @@ The word <hi rend="italic">mutiny</hi> was not named
   <lb/>like that of a seated congregation
   <lb/>of believers in hell listening to
   <lb/>the clergyman's announcment of
- <lb/>his Calvinistic text. <metamark facs="#img_681_z007" rend="#HM _HMp" place="below" function="composition-information">Jonathan Edwards</metamark>
+ <lb/>his Calvinistic text. 
 </ab><milestone n="23" unit="chapter"/>
 </div></body></text>

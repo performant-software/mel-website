@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_439"/>
-<ab>
-<metamark facs="#img_439_z001" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBcCa">50 <add facs="#img_439_z002" rend="bubble" place="inline" hand="#HM">4</add></metamark> <metamark facs="#img_439_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">174</metamark> <metamark facs="#img_439_z004" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">184</metamark>
+<ab rend="top"><metamark facs="#img_439_z001" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBcCa">50 <add facs="#img_439_z002" rend="bubble" place="inline" hand="#HM">4</add></metamark></ab><ab rend="right-top"><metamark facs="#img_439_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">174</metamark></ab><ab rend="left-bottom"><metamark facs="#img_439_z004" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">184</metamark></ab><ab>
+  
 But the general popularity
   <lb/>that our <hi rend="underline">Handsome Sailor</hi>'s <del facs="#img_439_z005" rend="single-stroke _ink1" hand="#HM" change="#StBcCa">exemption</del>
   <lb/><del facs="#img_439_z007" rend="single-stroke _ink1" hand="#HM" change="#StBcCa">from all vanity,</del> <metamark facs="#img_439_z006" rend="#HM _ink1" place="inline" function="insertion-device" change="#StBcCa">/</metamark>manly forewardness

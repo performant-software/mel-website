@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_619"/>
-<ab>
-<metamark facs="#img_619_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">253</metamark>
-<metamark facs="#img_619_z012" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">264</metamark>
+<ab rend="right-top"><metamark facs="#img_619_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">253</metamark></ab><ab rend="left-bottom"><metamark facs="#img_619_z012" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">264</metamark></ab><ab rend="top"><metamark facs="#img_619_z003" rend="#HM _HMp" place="above" function="folio" change="#StFa">28</metamark></ab><ab>
+
+
 When speak he did, something
 <lb/>both in the substance of what he said
 <lb/>and his manner of saying it, showed
@@ -10,7 +10,7 @@ When speak he did, something
 <lb/>practical training of an active career.
 <lb/>This, along with his <subst facs="#img_619_z014"><del facs="#img_619_z014" rend="overwritten _ink1" type="superimposed" hand="#HM">phrasiology</del><add facs="#img_619_z014" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StFa">phraseology</add></subst>
 <lb/><del facs="#img_619_z002" rend="single-stroke _HMp" hand="#HM" change="#StFa">at times</del> now and then was suggestive
-<lb/><metamark facs="#img_619_z003" rend="#HM _HMp" place="above" function="folio" change="#StFa">28</metamark> of the grounds whereon rested that
+<lb/> of the grounds whereon rested that
 <lb/>imputation of a certain <subst facs="#img_619_z015"><del facs="#img_619_z015" rend="overwritten _ink1" type="superimposed" hand="#HM">pedintry</del><add facs="#img_619_z015" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StFa">pedantry</add></subst>
 <lb/>socially alleged against him by
 <lb/>certain <del facs="#img_619_z004" rend="single-stroke _ink1" hand="#HM" change="#StFa">of his</del> <del facs="#img_619_z005" rend="single-stroke _ink1" hand="#HM" change="#StFa">brother-captains,</del> <metamark facs="#img_619_z006" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark> <add facs="#img_619_z007" rend="caret _ink1" place="above" hand="#HM" change="#StFa">naval</add> men of

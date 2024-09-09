@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_157"/>
-<ab>
-<metamark facs="#img_157_z002" place="margin(top) margin(left)" function="folio" change="#StG" rend="no-caret _HMp">9</metamark>
-<metamark facs="#img_157_z014" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">66</metamark>
+<ab rend="left-top"><metamark facs="#img_157_z002" place="margin(top) margin(left)" function="folio" change="#StG" rend="no-caret _HMp">9</metamark></ab><ab rend="left-bottom"><metamark facs="#img_157_z014" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">66</metamark></ab><ab>
+
+
 name <hi rend="underline">Nelson</hi>, the reason for this may
   <lb/>perhaps be inferred from the above.
   <lb/>Alfred in his <del facs="#img_157_z001" rend="single-stroke _ink1" hand="#HM" change="#StG">ode</del> funeral ode on

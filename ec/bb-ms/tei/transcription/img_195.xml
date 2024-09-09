@@ -1,10 +1,10 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_195"/>
-<ab>
-<metamark facs="#img_195_z003" place="margin(top) margin(left)" function="folio" change="#StEb" rend="no-caret _HMp"><add facs="#img_195_z003" rend="no-caret _HMp" place="below" hand="#HM" change="#StEb">2</add></metamark>
-  <metamark facs="#img_195_z001" place="margin(top) margin(left)" function="folio" change="#StEb" rend="no-caret _HMp"><del facs="#img_195_z001" rend="multi-stroke _HMp" hand="#HM"><subst facs="#img_195_z001"><del facs="#img_195_z001" rend="overwritten _HMp" type="superimposed" hand="#HM">1</del><add facs="#img_195_z001" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEb">2</add></subst></del></metamark>
-<metamark facs="#img_195_z002" place="margin(top) margin(left)" function="folio" change="#StEb" rend="no-caret _HMp"><add facs="#img_195_z002" rend="bubble _HMp" place="inline" hand="#HM" change="#StEb"><del facs="#img_195_z002" rend="erasure" hand="#HM" change="#StEb">2</del></add></metamark>
-<metamark facs="#img_195_z005" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_195_z005" rend="bubble" place="inline" hand="#RW">70</add></metamark>
-<metamark facs="#img_195_z026" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">82</metamark>
+<ab rend="left-top"><metamark facs="#img_195_z003" place="margin(top) margin(left)" function="folio" change="#StEb" rend="no-caret _HMp"><add facs="#img_195_z003" rend="no-caret _HMp" place="below" hand="#HM" change="#StEb">2</add></metamark><metamark facs="#img_195_z001" place="margin(top) margin(left)" function="folio" change="#StEb" rend="no-caret _HMp"><del facs="#img_195_z001" rend="multi-stroke _HMp" hand="#HM"><subst facs="#img_195_z001"><del facs="#img_195_z001" rend="overwritten _HMp" type="superimposed" hand="#HM">1</del><add facs="#img_195_z001" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEb">2</add></subst></del></metamark><metamark facs="#img_195_z002" place="margin(top) margin(left)" function="folio" change="#StEb" rend="no-caret _HMp"><add facs="#img_195_z002" rend="bubble _HMp" place="inline" hand="#HM" change="#StEb"><del facs="#img_195_z002" rend="erasure" hand="#HM" change="#StEb">2</del></add></metamark></ab><ab rend="right-top"><metamark facs="#img_195_z005" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_195_z005" rend="bubble" place="inline" hand="#RW">70</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_195_z026" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">82</metamark></ab><ab>
+
+  
+
+
+
 toward everything intellectual. He
   <lb/>loved books, never going to sea
   <lb/>without a newly replenished library,

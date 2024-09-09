@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_445"/>
-<ab>
-<add facs="#img_445_z021" rend="clip" place="inline" hand="#HM" change="#StCb"><metamark facs="#img_445_z001" rend="#HM _Cg" place="margin(top)" function="folio" change="#StCb">50</metamark><metamark facs="#img_445_z002" rend="#HM _Cg" place="margin(top)" function="folio" change="#StCb"><add facs="#img_445_z002" rend="bubble _Cg" place="inline" hand="#HM" change="#StCb">7</add></metamark><metamark facs="#img_445_z004" rend="#RW" place="margin(top) margin(right)" function="folio"><add facs="#img_445_z004" rend="bubble _HMp" place="inline" hand="#RW">177</add></metamark><metamark facs="#img_445_z018" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">187</metamark>
+<ab rend="top"><metamark facs="#img_445_z001" rend="#HM _Cg" place="margin(top)" function="folio" change="#StCb">50</metamark><metamark facs="#img_445_z002" rend="#HM _Cg" place="margin(top)" function="folio" change="#StCb"><add facs="#img_445_z002" rend="bubble _Cg" place="inline" hand="#HM" change="#StCb">7</add></metamark></ab><ab rend="right-top"><metamark facs="#img_445_z004" rend="#RW" place="margin(top) margin(right)" function="folio"><add facs="#img_445_z004" rend="bubble _HMp" place="inline" hand="#RW">177</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_445_z018" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">187</metamark></ab><ab rend="bottom"><metamark facs="#img_445_z017" rend="#HM _HMp" place="below" function="section-divider" change="#StCba"><del facs="#img_445_z017" rend="erasure" hand="#HM" change="#StCba">//</del></metamark></ab><ab>
+<add facs="#img_445_z021" rend="clip" place="inline" hand="#HM" change="#StCb">
 sounding some of the <metamark facs="#img_445_z019" rend="#ESM _HMp" place="inline" function="caret">^</metamark><add facs="#img_445_z003" rend="caret _HMp" place="above" hand="#ESM">other</add> impressed men
   <lb/>of the ship in order to discover
   <lb/>what basis, if any, there was for
@@ -11,6 +11,6 @@ sounding some of the <metamark facs="#img_445_z019" rend="#ESM _HMp" place="inli
   <lb/>else than mere shrewdness is
   <lb/>perhaps needful for the due
   <lb/>understanding of such a character
-  <lb/>as Billy Budd's. <metamark facs="#img_445_z017" rend="#HM _HMp" place="below" function="section-divider" change="#StCba"><del facs="#img_445_z017" rend="erasure" hand="#HM" change="#StCba">//</del></metamark>
+  <lb/>as Billy Budd's. 
   <lb/>
 </ab></div></body></text>

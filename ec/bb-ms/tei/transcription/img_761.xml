@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_761"/>
-<ab>
-  <metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_761_z001">324</metamark>
-  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_761_z002">334</metamark>
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="no-caret _HMp" change="RW" facs="#img_761_z001">324</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_761_z002">334</metamark></ab><ab rend="bottom"><metamark place="margin(bottom)" function="section-divider" rend="no-caret _HMp" change="StG" facs="#img_761_z015">——//——</metamark></ab><ab>
+  
+  
 the customary morning service. That
   <lb/>done, the drum beat the retreat<add place="inline" rend="no-caret _ink2" hand="#HM" change="StG" facs="#img_761_z016">;</add> and
   <lb/>toned by <metamark place="inline" function="caret" rend="_ink2" change="StG" facs="#img_761_z002">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" change="StG" facs="#img_761_z004">music and</add> religious rites subserving
@@ -18,6 +18,6 @@ the customary morning service. That
   <lb/>white marble in the polished
   <lb/>block not yet removed from the
   <lb/>marble-dealer's yard.
-<metamark place="margin(bottom)" function="section-divider" rend="no-caret _HMp" change="StG" facs="#img_761_z015">——//——</metamark>
+
   </ab><milestone n="763" unit="leaf"/>
 </div></body></text>

@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_398"/>
-<ab>
-<metamark facs="#img_398_z014" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">169</metamark>
-<add facs="#img_398_z017" rend="clip" place="inline" hand="#HM" change="#StCba"><metamark facs="#img_398_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCba">36</metamark>
-<metamark facs="#img_398_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">159</metamark>
+<ab rend="left-bottom"><metamark facs="#img_398_z014" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">169</metamark></ab><ab rend="left-top"><metamark facs="#img_398_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCba">36</metamark></ab><ab rend="right-top"><metamark facs="#img_398_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">159</metamark></ab><ab rend="bottom"><metamark facs="#img_398_z006" rend="#HM _HMp" place="below" function="section-divider" change="#StCbb">——//——</metamark></ab><ab>
+
+<add facs="#img_398_z017" rend="clip" place="inline" hand="#HM" change="#StCba">
+
 black teeth at his plug of tobacco,
   <lb/>vouchsafing no reply to Billy's
   <lb/>impetuous question, tho' now
@@ -13,7 +13,7 @@ black teeth at his plug of tobacco,
   <lb/>not always very clear ones, rather
   <lb/>partaking of that <del facs="#img_398_z003" rend="single-stroke _HMp" hand="#HM" change="#StCbb">tenebrific</del> <metamark facs="#img_398_z004" rend="#HM _HMp" place="inline" function="caret" change="#StCbb">^</metamark> <add facs="#img_398_z005" rend="caret _HMp" place="above" hand="#HM" change="#StCbb">obscurity</add> which
   <lb/>invests most Delphic deliverances
-  <lb/>from any quarter. <metamark facs="#img_398_z006" rend="#HM _HMp" place="below" function="section-divider" change="#StCbb">——//——</metamark>
+  <lb/>from any quarter. 
   <lb/>
   <add facs="#img_398_z016" rend="no-caret _HMp" place="inline" hand="#HM" change="#Stp">
   <lb/><del facs="#img_398_z007" rend="single-stroke _HMp" hand="#HM" change="#Stp">In</del>  Long experience had very likely

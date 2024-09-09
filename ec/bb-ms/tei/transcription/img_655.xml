@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_655"/>
-<ab>
-<metamark facs="#img_655_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">271</metamark>
-<metamark facs="#img_655_z016" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">282</metamark>
+<ab rend="right-top"><metamark facs="#img_655_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">271</metamark></ab><ab rend="left-bottom"><metamark facs="#img_655_z016" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">282</metamark></ab><ab>
+
+
 True, the circumstances on board
 <lb/>the <hi rend="underline">Somers</hi> were different from
 <lb/>those on board the <hi rend="underline">Indomitable</hi>.

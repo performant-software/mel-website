@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_366"/>
-<ab>
-<metamark facs="#img_366_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCb">25</metamark>
-<metamark facs="#img_366_z009" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCb">143</metamark>
-<metamark facs="#img_366_z020" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCb">153</metamark>
+<ab rend="left-top"><metamark facs="#img_366_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCb">25</metamark></ab><ab rend="right-top"><metamark facs="#img_366_z009" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCb">143</metamark></ab><ab rend="left-bottom"><metamark facs="#img_366_z020" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCb">153</metamark></ab><ab>
+
+
+
 a <del facs="#img_366_z003" rend="single-stroke _HMp" hand="#HM" change="#StCb">long pile</del> <metamark facs="#img_366_z002" rend="#HM _HMp" place="inline" function="caret" change="#StCb">^</metamark><add facs="#img_366_z054" rend="bubble _HMp" place="above" hand="#HM" change="#StCb">piled ridge</add>  of spare spars <add facs="#img_366_z055" rend="no-caret _HMp" place="above" hand="#HM" change="#StCb">amidships</add><metamark facs="#img_366_z007" rend="#HM _HMp" place="inline" function="caret" change="#StCb">^</metamark> <add rend="caret" place="above"><add facs="#img_366_z059" rend="caret _HMp" place="above" hand="#HM" change="#StCb">between foremast &amp; mainmast <lb/>and among which</add></add> <del facs="#img_366_z008" rend="single-stroke _HMp" hand="#HM" change="#StCb">where</del> <add place="inline">the</add>
 <lb/>ship's largest boat, the launch, was
 <lb/>stowed<add facs="#img_366_z051" rend="no-caret _HMp" place="inline" hand="#HM" change="#StCb">.</add> , <del facs="#img_366_z060" rend="single-stroke _HMp" hand="#HM" change="#StCb">temporarily inverted for repairs,</del>

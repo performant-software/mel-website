@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_411"/>
-<ab>
-<metamark facs="#img_411_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">39</metamark><metamark facs="#img_411_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><add rend="bubble" place="inline">1</add></metamark>
-<metamark facs="#img_411_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCc"><add rend="bubble" place="inline">164</add></metamark>
-<metamark facs="#img_411_z004" rend="#HM _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCc">174</metamark>
+<ab rend="left-top"><metamark facs="#img_411_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc">39</metamark><metamark facs="#img_411_z002" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StCc"><add rend="bubble" place="inline">1</add></metamark></ab><ab rend="right-top"><metamark facs="#img_411_z003" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StCc"><add rend="bubble" place="inline">164</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_411_z004" rend="#HM _HMp" place="margin(bottom) margin(left)" function="folio" change="#StCc">174</metamark></ab><ab>
+
+
+
 <del facs="#img_411_z017" rend="single-stroke _HMp" hand="#HM" change="#StCc"><subst facs="#img_411_z006"><del facs="#img_411_z006" rend="overwritten _ink1" type="superimposed" hand="#HM">he</del><add facs="#img_411_z006" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StCc">He</add></subst></del> <metamark facs="#img_411_z008" rend="#HM _HMp" place="inline" function="caret" change="#StCc">^</metamark> <add facs="#img_411_z007" rend="no-caret _HMp" place="above" hand="#HM" change="#StCc">Every sailor, too</add> is accustomed to obey orders
 <lb/>without debating them; his life afloat
 <lb/>is externally ruled for him; he is

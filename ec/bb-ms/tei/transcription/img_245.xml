@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_245"/>
-<ab>
-<metamark facs="#img_245_z002" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">110</metamark>
-<metamark facs="#img_245_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_245_z004" rend="bubble _HMp" place="below" hand="#RW">88</add></metamark>
-<metamark facs="#img_245_z046" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">99</metamark>
+<ab rend="right-top"><metamark facs="#img_245_z002" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">110</metamark><metamark facs="#img_245_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_245_z004" rend="bubble _HMp" place="below" hand="#RW">88</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_245_z046" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">99</metamark></ab><ab rend="bottom"><metamark facs="#img_245_z067" place="below" function="section-divider" change="#StEb" rend="no-caret _HMp">——//——</metamark></ab><ab>
+
+
+
 That era, <del facs="#img_245_z005" rend="single-stroke _ink1" hand="#HM" change="#StEb">now long past,</del> appears measurably
 <lb/>clear to us who <del facs="#img_245_z047" rend="multi-stroke _ink1" type="false-start" hand="#HM" change="#StEb">wh</del> look back at it, and
 <lb/>but read of it. But to <del facs="#img_245_z006" rend="single-stroke _HMp" hand="#HM" change="#StEb">our</del> <add facs="#img_245_z007" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">the</add> grandfathers <add facs="#img_245_z008" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">of us graybeards</add>,
@@ -19,7 +19,7 @@ That era, <del facs="#img_245_z005" rend="single-stroke _ink1" hand="#HM" change
 <lb/>barrier against the <add facs="#img_245_z058" rend="caret _HMp" place="above" hand="#HM" change="#StEb">ultimate</add><metamark facs="#img_245_z022" place="inline" function="caret" change="#StEb" rend="caret _HMp">^</metamark><del facs="#img_245_z023" rend="single-stroke _HMp" hand="#HM" change="#StEb"><add facs="#img_245_z023" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">world-wide</add></del> schemes of <del facs="#img_245_z025" rend="single-stroke _HMp" hand="#HM" change="#StEb">the upstart</del>
 <lb/><del facs="#img_245_z026" rend="single-stroke _HMp" hand="#HM" change="#StEb">Corsican.</del> <del facs="#img_245_z061" rend="single-stroke _HMp" hand="#HM" change="#StEb">So I had it from venerable</del>
   <lb/><del facs="#img_245_z031" rend="single-stroke _HMp" hand="#HM" change="#StEb">men know to me in my youth.</del> <add facs="#img_245_z063" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">this french <metamark facs="#img_245_z033" place="inline" function="caret" change="#StEb" rend="caret _HMp">^</metamark> <add facs="#img_245_z062" rend="caret _HMp" place="above" hand="#HM" change="#StEb">portentous</add> upstart from the revolutionary chaos</add>
-<lb/><add facs="#img_245_z064" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEb">who seemed<metamark facs="#img_245_z067" place="below" function="section-divider" change="#StEb" rend="no-caret _HMp">——//——</metamark><del facs="#img_245_z036" rend="single-stroke _HMp" type="false-start" hand="#HM" change="#StEb">the</del> in act of</add>
+<lb/><add facs="#img_245_z064" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEb">who seemed<del facs="#img_245_z036" rend="single-stroke _HMp" type="false-start" hand="#HM" change="#StEb">the</del> in act of</add>
   <lb/><add facs="#img_245_z068" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEb">fulfilling <del facs="#img_245_z051" rend="single-stroke _HMp" hand="#HM" change="#StEb">the direful</del> judgment <del facs="#img_245_z052" rend="single-stroke _HMp" type="false-start" hand="#HM" change="#StEb">proclaim</del></add>
 <lb/><add facs="#img_245_z066" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEb">prefigured in the Apocalypse.</add>
 </ab>

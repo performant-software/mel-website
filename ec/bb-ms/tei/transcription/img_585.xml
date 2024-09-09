@@ -1,11 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_585"/>
-<ab>
-<metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_585_z005">247</metamark>
+<ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_585_z005">247</metamark></ab><ab rend="top"><metamark place="above" function="folio" rend="no-caret _HMp" change="StGa" facs="#img_585_z001">52</metamark></ab><ab rend="bottom"><metamark facs="#img_585_z002" rend="#HM _HMp" place="below" function="folio" change="#StGa">52</metamark><metamark facs="#img_585_z004" rend="#HM _HMp" place="below" function="folio" change="#StGa">52</metamark></ab><ab>
+
 <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_585_z017">For the other two</del> As <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_585_z018">for</del> to the
   <lb/>First Lieutenant and <add place="above" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_585_z019">the</add> Sailing Master
-  <lb/>Captain Vere could not but be aware<metamark place="above" function="folio" rend="no-caret _HMp" change="StGa" facs="#img_585_z001">52</metamark>
+  <lb/>Captain Vere could not but be aware
 <lb/>that though honest natures, of approved
-<lb/>gallantry upon occasion their intelligence<metamark facs="#img_585_z002" rend="#HM _HMp" place="below" function="folio" change="#StGa">52</metamark>
+<lb/>gallantry upon occasion their intelligence
 <lb/>was mostly confined to the matter
 <lb/>of active seamanship and the fighting
 <lb/>demands of their profession<subst><add facs="#img_585_z009" rend="superimposed" type="overwritten" place="inline" hand="#HM" change="#StFa">.</add><del facs="#img_585_z009" rend="superimposed" type="superimposed" hand="#HM" change="#StFa">—</del></subst> <del facs="#img_585_z010" rend="single-stroke _ink1" hand="#HM" change="#StFa">men</del>
@@ -13,7 +13,7 @@
 <lb/><del facs="#img_585_z012" rend="single-stroke _ink1" hand="#HM" change="#StFa">could life</del> The court was held in the
 <lb/><metamark facs="#img_585_z003" rend="#HM _HMp" place="inline" function="folio" change="#StFa"><del facs="#img_585_z003" rend="single-stroke _HMp" hand="#HM" change="#StFa">11</del></metamark> same cabin where the unfortunate
 <lb/>affair had taken place. This
-<lb/>cabin, the Commander's, <del facs="#img_585_z013" rend="single-stroke _ink1" hand="#HM" change="#StFa">was</del> embraced  <metamark facs="#img_585_z004" rend="#HM _HMp" place="below" function="folio" change="#StGa">52</metamark>
+<lb/>cabin, the Commander's, <del facs="#img_585_z013" rend="single-stroke _ink1" hand="#HM" change="#StFa">was</del> embraced  
 <lb/>the entire area under the poop-deck.
 <lb/>Aft, and <metamark facs="#img_585_z014" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_585_z015" rend="caret _ink1" place="above" hand="#HM" change="#StFa">on</add> <del facs="#img_585_z016" rend="single-stroke _ink1" hand="#HM" change="#StFa">lining a portion of</del> either side
 </ab></div></body></text>

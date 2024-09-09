@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_143"/>
-<ab>
-<metamark facs="#img_143_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">2</metamark>
-<metamark facs="#img_143_z016" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">59</metamark>
+<ab rend="left-top"><metamark facs="#img_143_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">2</metamark></ab><ab rend="left-bottom"><metamark facs="#img_143_z016" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#Ht">59</metamark></ab><ab>
+
+
 about a change in sea-warfare
   <lb/>in degree corresponding to the
   <lb/>revolution in all warfare effected

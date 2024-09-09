@@ -1,11 +1,11 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_145"/>
-<ab>
-<metamark facs="#img_145_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">3</metamark>
-<metamark facs="#img_145_z008" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">60</metamark>
+<ab rend="left-top"><metamark facs="#img_145_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">3</metamark></ab><ab rend="left-bottom"><metamark facs="#img_145_z008" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="#StG">60</metamark></ab><ab rend="bottom"><metamark facs="#img_145_z004" place="below" function="caret" rend="no-caret _ink1" change="#StG">^</metamark></ab><ab>
+
+
 though nowadays in encounters there
   <lb/>a certain kind of displayed
   <lb/>gallantry be fallen out of date
-  <lb/>as hardly applicable <add facs="#img_145_z003" rend="caret _ink1" place="above" hand="#HM" change="#StG">under</add> <metamark facs="#img_145_z004" place="below" function="caret" rend="no-caret _ink1" change="#StG">^</metamark> <del facs="#img_145_z002" rend="single-stroke _ink1" hand="#HM" change="#StG">to</del> changed
+  <lb/>as hardly applicable <add facs="#img_145_z003" rend="caret _ink1" place="above" hand="#HM" change="#StG">under</add>  <del facs="#img_145_z002" rend="single-stroke _ink1" hand="#HM" change="#StG">to</del> changed
   <lb/>circumstances, did the nobler qualities
   <lb/>of such naval magnates as Don
   <lb/>John of Austria, Doria, Van Tromp,
