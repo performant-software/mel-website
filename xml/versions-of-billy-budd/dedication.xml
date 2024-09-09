@@ -20,7 +20,7 @@
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xmlns="" id="dedication"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0003.tif" tl_leaf="https://app.textlab.org/transcriptions/17340"/>
+			<body><div xmlns="" id="dedication"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0003.tif" corresp="img_3"/>
 <head type="main" rend="center">
 <lb/>Dedicated
 <lb/>to
@@ -31,6 +31,6 @@
 <lb/>Captain of the Main-Top
 in the year 1843
 in the U. S. Frigate
-<lb/>&quot;United States&quot;    </head></p></div></body>
+<lb/>"United States"    </head></p></div></body>
 		</text>
 	</TEI>

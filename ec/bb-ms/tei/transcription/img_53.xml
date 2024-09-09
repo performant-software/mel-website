@@ -1,0 +1,27 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_53"/>
+<ab rend="left-top"><metamark facs="#img_53_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _Cg" change="#StDa">16</metamark></ab><ab rend="right-top"><metamark facs="#img_53_z002" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa">21</metamark><metamark facs="#img_53_z003" place="margin(top) margin(right)" function="folio" rend="no-caret _Cr" change="#StEa"><add place="below" rend="no-caret _Cr" hand="#HM" change="StEa" facs="#img_53_z003">21</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_53_z039" place="margin(bottom) margin(left)" function="folio">24</metamark></ab><ab>
+
+
+<add facs="#img_53_z042" rend="clip" hand="#HM" change="#StEa">
+
+
+"Well," said the <del facs="#img_53_z006" rend="single-stroke _HMp" hand="#HM" change="#StBc"><add facs="#img_53_z006" rend="no-caret _ink1" place="below" hand="#HM" change="#StBc">officer</add></del><restore facs="#img_53_z005" change="#StDa"><del facs="#img_53_z005" rend="single-stroke _ink1" hand="#HM" change="#StBc"><hi rend="restoration">lieutenant</hi></del></restore>
+  <lb/>who had listened with amused
+  <lb/>interest to all this, and now
+  <lb/>waxing merry with his tipple; "Well,
+  <lb/>blessed are the peacemakers<del facs="#img_53_z037" rend="erasure" hand="#HM" change="#StBc"><subst facs="#img_53_z037"><del facs="#img_53_z037" rend="overwritten" type="superimposed" hand="#HM">,</del><add facs="#img_53_z037" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StBc">!</add></subst></del> especially
+  <lb/>the fighting<metamark facs="#img_53_z008" place="inline" function="caret" rend="caret _ink1" change="#StDa">^</metamark> <add facs="#img_53_z007" rend="caret" place="above" hand="#ink1r" change="#StDa">peacemakers.</add><del facs="#img_53_z012" rend="single-stroke" hand="#HM" change="#StBc">ones</del><subst facs="#img_53_z010"><del facs="#img_53_z010" rend="overwritten _ink1" type="superimposed" hand="#HM">.</del><add facs="#img_53_z010" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StBc">!</add></subst> And such are
+</add>
+  <lb/>the seventy-four beauties <del facs="#img_53_z016" rend="single-stroke _ink1" hand="#HM" change="#StDa">poking</del> <del rend="single-stroke _ink1" hand="#HM" change="StDa" facs="#img_53_z014">their</del>
+  <lb/><del facs="#img_53_z017" rend="single-stroke _ink1" hand="#HM" change="#StDa">some</del> <del facs="#img_53_z018" rend="single-stroke _ink1" hand="#HM" change="#StDa">the</del> <del facs="#img_53_z021" rend="single-stroke _ink1" hand="#HM" change="#StDa">upper tier</del><metamark facs="#img_53_z022" place="inline" function="caret" rend="caret _ink1" change="#StDa">^</metamark> <add facs="#img_53_z023" rend="caret _ink1" place="above" hand="#HM" change="#StDa">some</add> of which you
+  <lb/>see poking their noses out of the
+  <lb/>port-holes of yonder war-ship<metamark place="inline" function="caret" rend="caret _ink1" change="StDa" facs="#img_53_z033"><subst facs="#img_53_z033"><del rend="_ink1" hand="#HM" change="StDa" facs="#img_53_z033">.</del><add place="inline" rend="caret _ink1" hand="#HM" change="StDa" facs="#img_53_z033">^</add></subst></metamark>
+<del facs="#img_53_z024" rend="erasure" hand="#HM" change="#StDa"><add facs="#img_53_z024" rend="caret _HMp" place="above" hand="#HM" change="#StDa">lying to for me.</add></del>
+  <add facs="#img_53_z026" rend="bubble _HMp" place="below" hand="#HM" change="#StDa"><del facs="#img_53_z026" rend="erasure" hand="#HM" change="#StDa">pointing her out thro the cabin window</del></add><add place="margin(bottom)" rend="bubble _ink1" hand="#HM" change="StDa" facs="#img_53_z032">lying-to for me" pointing thro' the<lb/>cabin window at the <hi rend="underline">Indomitable</hi>.</add>
+  <lb/>But courage<subst facs="#img_53_z036"><del facs="#img_53_z036" rend="overwritten" type="superimposed" hand="#ink1">.</del><add facs="#img_53_z036" rend="superimposed" type="superimposed" hand="#HMp" change="#StDa">!</add></subst> do'nt look so
+  <lb/>downhearted, man. <del facs="#img_53_z027" rend="multi-stroke" type="false-start" hand="#ink1r" change="#StDa">I p</del> Why, I
+  <lb/>pledge you in advance the <metamark place="inline" function="caret" change="#StDa">^</metamark><del facs="#img_53_z029" rend="single-stroke" hand="#ink1r" change="#StDa">King's</del> <add facs="#img_53_z031" rend="caret" place="above" hand="#ink1r" change="#StDa">royal</add>
+  <lb/>approbation. Rest assured that
+  <lb/><subst facs="#img_53_z038"><del facs="#img_53_z038" rend="overwritten _ink1" type="superimposed" hand="#HM">his</del><add facs="#img_53_z038" rend="superimposed _ink1" type="superimposed" hand="#HM" change="#StDa">His</add></subst> Magesty will be delighted
+</ab>
+</div></body></text>

@@ -1,0 +1,23 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_313"/>
+<ab>
+<metamark facs="#img_313_z001" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEeF">140</metamark>
+<metamark facs="#img_313_z004" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_313_z004" rend="bubble" place="below" hand="#RW">120</add></metamark>
+<metamark facs="#img_313_z005" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">132</metamark>
+It is not going too far to say that it is
+  <lb/>without vices or small sins. There is a
+  <lb/><subst facs="#img_313_z020"><del facs="#img_313_z020" rend="overwritten _ink1" type="superimposed" hand="#HM">phenominal</del><add facs="#img_313_z020" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StEeF">phenomenal</add></subst> pride in it that <del facs="#img_313_z017" rend="single-stroke _HMp" hand="#HM">scornfully</del>
+  <lb/>excludes them <add facs="#img_313_z015" rend="caret _HMp" place="above" hand="#ESM" change="#StEeF">from anything</add>. <metamark facs="#img_313_z016" rend="#ESM _HMp" place="inline" function="caret" change="#StEeF">^</metamark> Never mercenary or avaricious
+  <lb/><del facs="#img_313_z019" rend="multi-stroke _HMp" hand="#ESM" change="#StEeF">and so forth.</del> In short the depravity here
+  <lb/>meant partakes nothing of the sordid or
+  <lb/>sensual. It is serious, but free from acerbity.
+  <lb/>Though no flatterer of mankind it never speaks
+  <lb/>ill of <restore facs="#img_313_z012" change="#StEeF"><del facs="#img_313_z012" hand="#HM"><hi rend="restoration">it.</hi></del></restore> <del facs="#img_313_z014" rend="erasure" hand="#HM" change="#StEeF"><add facs="#img_313_z014" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEeF">mankind.</add></del>
+   <lb/>But the thing which in eminent
+    <lb/>instances signalizes <metamark facs="#img_313_z008" rend="#HM _ink1" place="inline" function="caret" change="#StEeF">^</metamark> <add facs="#img_313_z006" rend="caret _ink1" place="above" hand="#HM" change="#StBa">so</add> <del facs="#img_313_z007" rend="single-stroke _ink1" hand="#HM" change="#StBa">this</del> exceptional <metamark facs="#img_313_z010" rend="#HM _ink1" place="inline" function="caret" change="#StEeF">^</metamark> <add facs="#img_313_z009" rend="caret _ink1" place="above" hand="#HM" change="#StBa">a</add> nature
+    <lb/>is this: Though the man's even temper
+    <lb/>and discreet bearing would seem
+    <lb/>to intimate a mind peculiarly
+    <lb/>subject to the law
+</ab>
+<!-- Image 316 is verso of Image 315 (Leaf 133 patch).  It is discarded from RVW's Lilac. -->
+</div></body></text>

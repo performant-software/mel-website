@@ -1,0 +1,18 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_179"/>
+<ab>
+<metamark facs="#img_179_z005" place="margin(top) margin(left)" function="insertion-device" rend="#no-caret _HMp"><add place="below" rend="insertion-device _HMp" hand="#ESM" facs="#img_179_z005">/</add></metamark><metamark facs="#img_179_z001" place="margin(top) margin(left)" function="folio" rend="no-caret _HMp">52</metamark>
+  <!-- Hand = ESM -->
+<metamark facs="#img_179_z004" place="margin(top) margin(right)" function="folio" rend="no-caret _HMp"><add facs="#img_179_z004" rend="bubble _HMp" place="below" hand="#RW">63</add></metamark><metamark facs="#img_179_z003" place="margin(top) margin(right)" function="folio" change="#StEc" rend="no-caret _Cr">94</metamark> <metamark facs="#img_179_z002" place="margin(top) margin(right)" function="folio" change="#StEc" rend="no-caret _Cr"><add facs="#img_179_z002" rend="bubble _Cr" place="inline" hand="#HM" change="#StEc">2</add></metamark>
+<metamark facs="#img_179_z008" place="margin(bottom) margin(left)" function="folio" rend="#HT">76</metamark>
+<add facs="#img_179_z009" rend="clip" place="inline" hand="#HM" change="#StEc">
+<metamark place="inline" function="insertion-device" rend="insertion-device _HMp" facs="#img_179_z005"><add place="above" rend="insertion-device _HMp" hand="#ESM" facs="#img_179_z005">/</add></metamark> On a passage when nothing demanded
+  <lb/>his paramount action, he was the most
+  <lb/>undemonstrative of men.  Any landsman
+  <lb/>observing this gentleman not conspicuous
+  <lb/>by his stature and wearing no
+  <lb/>pronounced insignia, emerging from his
+  <lb/>retreat <add facs="#img_179_z006" rend="no-caret _HMp" place="above" hand="#HM" change="#StEb">cabin</add> to the open deck, and noting
+  <lb/>the silent deference of the officers
+  <lb/>retiring to leeward, might have
+  <lb/>taken him for the King's <del facs="#img_179_z007" rend="single-stroke" hand="#ink1r" change="#StEb">honored</del></add>
+</ab></div></body></text>

@@ -1,0 +1,27 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_497"/>
+<ab>
+<add facs="#img_497_z032" rend="clip" place="inline" hand="#HM" change="#StBb">
+<metamark facs="#img_497_z034" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBb">61</metamark> <metamark facs="#img_497_z033" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBb"><add facs="#img_497_z033" rend="bubble _Cg" place="inline" hand="#HM" change="#StBb">1</add></metamark>
+<metamark facs="#img_497_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">198</metamark> <metamark facs="#img_497_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">208</metamark>
+Now the <hi rend="underline">Handsome</hi> <hi rend="underline">Sailor</hi>
+<lb/>as a signal figure among the crew
+<lb/>had naturally enough attracted the
+  <lb/>Captain's attention from the <add facs="#img_497_z005" rend="no-caret _HMp" place="above" hand="#HM" change="#StBb">first.</add><del facs="#img_497_z004" rend="single-stroke _HMp" hand="#HM" change="#StBb">beginning.</del></add>
+<metamark facs="#img_497_z040" rend="#HM" place="inline" function="composition-information" change="#StGa">
+  <lb/><metamark rend="_ink1" place="inline" function="composition-information"><hi rend="italic">[The following deletion is revised in the patch text below it.]</hi></metamark>
+  <lb/>Lieutenant
+  <lb/>Ratcliffe <del facs="#img_497_z007" rend="single-stroke _ink1" hand="#HM" change="#StGa">in his</del> upon his good fortune
+  <lb/>in lighting on such a <del facs="#img_497_z008" rend="single-stroke _ink2" hand="#HM" change="#StGa"><del facs="#img_497_z010" rend="single-stroke _ink2" hand="#HM" change="#StGa">fine</del> <del facs="#img_497_z009" rend="multi-stroke" hand="#HM" change="#StGa"><restore facs="#img_497_z009" change="#StGa"><del facs="#img_497_z009" hand="#HM"><hi rend="restoration">specimen</hi></del></restore></del></del> <restore facs="#img_497_z011" change="#StGa"><del facs="#img_497_z011" hand="#HM"><add facs="#img_497_z011" rend="no-caret _ink1" place="above" hand="#HM" change="#StGa"><hi rend="restoration">flower</hi></add></del></restore>
+  <lb/>of <add facs="#img_497_z016" rend="no-caret _HMp" place="above" hand="#HM" change="#StGa">the genus homo</add><del facs="#img_497_z036" rend="single-stroke _HMp" hand="#HM" change="#StGa">masculine strength and</del> beauty, <del facs="#img_497_z035" rend="single-stroke _HMp" hand="#HM" change="#StGa">a flower</del>
+  <lb/><metamark facs="#img_497_z039" rend="#HM _HMp" place="below" function="composition-information" change="#StGa"><add facs="#img_497_z039" rend="bubble _HMp" place="inline" hand="#HM" change="#StGa">Insert</add></metamark> <metamark facs="#img_497_z037" rend="#HM _HMp" place="inline" function="caret" change="#StGa">^</metamark> <del facs="#img_497_z015" rend="single-stroke _HMp" hand="#HM" change="#StGa">scarce yet <restore facs="#img_497_z018" change="#StGa"><del facs="#img_497_z018" hand="#HM"><hi rend="restoration">fully</hi></del></restore> released from the bud.</del></metamark>
+  <lb/><metamark rend="_ink1" place="inline" function="composition-information"><hi rend="italic">[The patch text below follows the clip text above.]</hi></metamark>
+  <add facs="#img_497_z041" rend="patch _HMp" place="inline" hand="#HM" change="#Stp"><lb/>Tho' <del facs="#img_497_z022" rend="single-stroke _HMp" hand="#HM" change="#Stp">not</del> <del facs="#img_497_z023" rend="single-stroke _HMp" hand="#HM" change="#Stp">not to ve</del>
+  <lb/><del facs="#img_497_z024" rend="single-stroke _HMp" hand="#HM" change="#Stp">not a very</del> in general <del facs="#img_497_z025" rend="single-stroke _HMp" hand="#HM" change="#Stp">a</del> <add facs="#img_497_z026" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">not</add> very <app><rdg resp="#MEL">demonstrative</rdg><rdg resp="#HS">demonstrative</rdg></app> <del facs="#img_497_z027" rend="single-stroke _HMp" hand="#HM" change="#Stp">man</del>
+  <lb/>to his officers, he had congratulated Lieutenant Ratclife
+  <lb/>upon his good fortune in lighting on such
+  <lb/>a fine specimen of the genus homo, <del facs="#img_497_z028" rend="single-stroke _HMp" hand="#HM" change="#Stp">whose cheek</del> <metamark facs="#img_497_z029" rend="#HM _HMp" place="below" function="folio" change="#Stp">17</metamark>
+  <lb/>who in the nude might have posed for a
+  <lb/>statue of <del facs="#img_497_z030" rend="single-stroke _HMp" hand="#HM" change="#Stp">Adam</del> young Adam
+  <lb/><metamark facs="#img_497_z021" rend="#HT _HMp" place="below" function="folio">208A</metamark> before the Fall.</add>
+  <lb/><metamark rend="_ink1" place="inline" function="composition-information"><hi rend="italic">[See leaf image 499 for the remainder of leaf 208.]</hi></metamark>
+</ab></div></body></text>

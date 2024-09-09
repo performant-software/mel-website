@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "pwa-node",
+            "type": "node",
             "request": "launch",
             "name": "Whale (converts XML to HTML)",
             "skipFiles": [
@@ -14,7 +14,7 @@
             "program": "${workspaceFolder}/scripts/whale.js"
         },
         {
-            "type": "pwa-node",
+            "type": "node",
             "request": "launch",
             "name": "Add Choice Tag",
             "skipFiles": [
@@ -23,13 +23,22 @@
             "program": "${workspaceFolder}/scripts/add-choice-tags.js"
         },
         {
-            "type": "pwa-node",
+            "type": "node",
             "request": "launch",
             "name": "Minnow",
             "skipFiles": [
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}/scripts/minnow.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Guppy",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}/scripts/guppy.js"
         }
     ]
 }

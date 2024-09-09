@@ -1,0 +1,18 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_225"/>
+<ab rend="left-top"><metamark facs="#img_225_z001" place="margin(top) margin(left)" function="folio" change="#StDa" rend="no-caret _Cg">56</metamark></ab><ab rend="top"><metamark facs="#img_225_z002" place="margin(top)" function="folio" change="#StBb" rend="no-caret _Cg">19</metamark><metamark facs="#img_225_z003" place="margin(top)" function="folio" change="#StBb" rend="no-caret _Cg"><subst facs="#img_225_z003"><del facs="#img_225_z003" rend="overwritten _HMp" type="superimposed" hand="#HM">2</del><add facs="#img_225_z003" rend="superimposed _Cg" type="superimposed" hand="#HM" change="#StBb"><add facs="#img_225_z003" rend="bubble" place="inline" hand="#HM">2</add></add></subst></metamark></ab><ab rend="right-top"><metamark facs="#img_225_z004" place="margin(top) margin(right)" function="folio" change="#StEb" rend="no-caret _Cr">104</metamark><metamark facs="#img_225_z005" place="margin(top) margin(right)" function="folio" rend="no-caret _RW"><add facs="#img_225_z005" rend="bubble _HMp" place="below">81</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_225_z006" place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp">92</metamark></ab><ab>
+
+ 
+ 
+<add place="inline" rend="clip" hand="#HM" change="StBa" facs="#img_225_z021">
+  not actively engaged in it he looked
+  <lb/><del facs="#img_225_z007" rend="single-stroke _ink1" hand="#HM" change="#StBa">to be some person of</del> like a man <del facs="#img_225_z008" rend="erasure" hand="#HM" change="#StBa"><add facs="#img_225_z008" rend="bubble _HMp" place="above" hand="#HM" change="#StBa">He was an Englishman</add></del>
+  <lb/>of high quality, <metamark facs="#img_225_z010" place="inline" function="caret" change="#StBa" rend="caret _ink1">^</metamark> <add facs="#img_225_z009" rend="caret _ink1" place="above" hand="#HM" change="#StBa">social and moral,</add> who for reasons of his
+  <lb/>own was <metamark facs="#img_225_z011" place="inline" function="caret" change="#StBa" rend="caret _HMp">^</metamark> <add facs="#img_225_z013" rend="caret _HMp" place="above" hand="#ESM" change="#StBa">keeping</add> <del facs="#img_225_z012" rend="multi-stroke _HMp" hand="#ESM" change="#StBa">going</del> incog.  <del facs="#img_225_z015" rend="erasure" hand="#HM" change="#StBa"><add facs="#img_225_z015" rend="caret _HMp" place="inline" hand="#HM" change="#StBa"> Tho</add></del> <metamark facs="#img_225_z014" place="inline" function="caret" change="#StBa" rend="caret _HMp"><del facs="#img_225_z014" rend="erasure" hand="#HM" change="#StBa">^</del></metamark><del facs="#img_225_z016" rend="single-stroke _HMp" hand="#HM" change="#StBa"><add facs="#img_225_z016" rend="no-caret  _HMp" place="above" hand="#HM" change="#StBa">or made up for a disguise.</add></del>Nothing
+  <lb/>was known of his former life.  <del facs="#img_225_z017" rend="multi-stroke _ink1" hand="#HM" change="#StBa">But</del></add>
+  <lb/>It might be that he was an Englishman;
+  <lb/>and yet there <del facs="#img_225_z018" rend="single-stroke _ink1" type="false-start" hand="#HM" change="#StBb">was</del> lurked a bit of accent
+  <lb/>in his speech suggesting that possibly
+  <lb/>he was not such by birth, but through
+  <lb/>naturalization in <metamark facs="#img_225_z020" place="inline" function="caret" change="#StBb" rend="caret _HMp">^</metamark> <add facs="#img_225_z019" rend="caret _HMp" place="above" hand="#HM" change="#StBb">early</add> childhood.
+</ab>
+</div></body></text>

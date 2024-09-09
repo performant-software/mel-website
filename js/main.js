@@ -98,7 +98,9 @@ function initThumbs(tlLeaf,iiif) {
         imageEl.classList.add('thumbnail')
         imageEl.style.top = `${facsEl.offsetTop}px`
         imageEl.setAttribute('src',url)
-        const onClickFn = tlLeaf ? `window.open("${facsEl.getAttribute('tl_leaf')}")` : `createImageWindow("${imageEl.id}","${url}")`
+        const surfaceID = facsEl.getAttribute('corresp')
+        const ecURL = `${window.location.origin}/editions/versions-of-billy-budd/billy-budd-ms.html#/ec/${surfaceID}/f/${surfaceID}/transcription`
+        const onClickFn = tlLeaf ? `window.open("${ecURL}")` : `createImageWindow("${imageEl.id}","${url}")`
         imageEl.setAttribute('onclick',onClickFn)
         imageEl.setAttribute('onmouseenter',`highlightImage( true, "${facsEl.id}"); highlightImage( true, "${imageEl.id}")`)
         imageEl.setAttribute('onmouseleave',`highlightImage( false, "${facsEl.id}"); highlightImage( false, "${imageEl.id}")`)
