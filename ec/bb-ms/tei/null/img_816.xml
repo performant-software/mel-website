@@ -1,0 +1,25 @@
+<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_816"/>
+<ab>
+  <!-- Add Hand to Metamarks -->
+  <metamark place="margin(top) margin(right)" function="folio" rend="bubble _HMp" facs="#img_816_z001"><hi rend="bubble">3</hi></metamark>
+  <metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_816_z002">360</metamark>
+  Now, as elsewhere hinted, it was <metamark place="inline" function="caret" rend="_ink2" facs="#img_816_z003">^ </metamark><add place="above" rend="caret _ink2" hand="#HM" facs="#img_816_z004">something</add>
+  <lb/><del rend="single-stroke _ink2" hand="#HM" facs="#img_816_z005">a contagion</del> <add place="above" rend="no-caret _ink2" hand="#HM" facs="#img_816_z006">caught</add> from the Revolutionary Spirit that
+  <lb/><del rend="single-stroke _ink2" hand="#HM" facs="#img_816_z007">that</del> at <del rend="single-stroke _ink2" hand="#HM" facs="#img_816_z008">the Nore</del> <add place="above" rend="no-caret _ink2" hand="#HM" facs="#img_816_z009">Spithead</add> <del rend="single-stroke _ink2" hand="#HM" facs="#img_816_z010">inspired</del> <add place="above" rend="no-caret _ink2" hand="#HM" facs="#img_816_z011">emboldened</add> <del rend="single-stroke _ink2" hand="#HM" facs="#img_816_z012">the sailors of</del>
+  <lb/><del rend="single-stroke _ink2" hand="#HM" facs="#img_816_z013">the British fleet</del> <del rend="single-stroke _ink2" hand="#HM" facs="#img_816_z014">in the first place</del> <metamark place="inline" function="caret" rend="_ink2" facs="#img_816_z015">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" facs="#img_816_z017">the man-of-war's men</add> to rise
+  <lb/>against real abuses, <add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_816_z018">long-standing ones,</add> and afterwards
+  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" facs="#img_816_z019">3</metamark> at the Nore to make inordinate <metamark place="inline" function="caret" rend="_HMp" facs="#img_816_z021">^</metamark> <add place="above" rend="caret _HMp" hand="#HM" facs="#img_816_z022">and </add>aggressive
+  <lb/><metamark place="above" function="folio" rend="bubble _HMp" facs="#img_816_z020"><hi rend="bubble">1</hi></metamark> demands, successful resistance to which
+  <lb/>was confirmed only when the ringleaders <metamark place="inline" function="folio" rend="no-caret _HMp" facs="#img_816_z023">43</metamark>
+  <lb/>were hung for an admonitory spectacle
+  <lb/>to the <metamark place="inline" function="caret" rend="_ink2" facs="#img_816_z024">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" facs="#img_816_z025">anchored</add> fleet. Yet in a way analagous
+  <lb/>to the operation of the Revolution at large
+  <lb/>the <del rend="single-stroke _ink2" hand="#HM" facs="#img_816_z027">Nore</del> <metamark place="inline" function="caret" rend="_ink2" facs="#img_816_z026">^</metamark> <add place="above" rend="caret _ink2" hand="#HM" facs="#img_816_z028">Great</add> Mutiny, tho' <metamark place="inline" function="caret" rend="_ink2" facs="#img_816_z029">^</metamark>  <add place="above" rend="caret _ink2" hand="#HM" facs="#img_816_z030">by Englishmen</add> naturally deemed <del rend="multi-stroke _ink2" hand="#HM" facs="#img_816_z031">by</del>
+  <lb/>monstrous at the time, doubtless gave
+  <lb/>the first latent prompting to <del rend="single-stroke _HMp" hand="#ESM" facs="#img_816_z032">those</del> <add place="inline" rend="no-caret _HMp" hand="#ESM" facs="#img_816_z033">most</add>
+  <lb/><del rend="multi-stroke _HMp" hand="#ESM" facs="#img_816_z036">progressive </del><add place="above" rend="no-caret _HMp" hand="#ESM" facs="#img_816_z037">important</add> reforms in the British navy<add place="inline" rend="no-caret _HMp" hand="#ESM" facs="#img_816_z035">.</add>
+  <lb/><del rend="multi-stroke _HMp" hand="#ESM" facs="#img_816_z039">which for its sailors makes it a service</del>
+
+
+</ab><milestone n="LawyersExperts" unit="chapter"/>
+</div></body></text>

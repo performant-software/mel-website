@@ -20,6 +20,6 @@
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="blank-versos"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0109.tif" tl_leaf="https://app.textlab.org/transcriptions/"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0110.tif" tl_leaf="https://app.textlab.org/transcriptions/"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0407.tif" tl_leaf="https://app.textlab.org/transcriptions/"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0408.tif" tl_leaf="https://app.textlab.org/transcriptions/"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0801.tif" tl_leaf="https://app.textlab.org/transcriptions/"/></p></div></body>
+			<body><div xmlns="" id="blank-versos"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0109.tif" corresp="img_109"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0110.tif" corresp="img_110"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0407.tif" corresp="img_407"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0408.tif" corresp="img_408"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0801.tif" corresp="img_801"/></p></div></body>
 		</text>
 	</TEI>

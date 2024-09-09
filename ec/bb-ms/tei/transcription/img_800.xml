@@ -1,0 +1,25 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_800"/>
+<ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" change="Ht" facs="#img_800_z032">353</metamark></ab><ab rend="top"><metamark place="margin(top)" function="composition-information" rend="no-caret _HMp" facs="#img_800_z001">For Billy Budd<add place="below" rend="insertion-device _HMp" hand="#ESM" facs="#img_800_z001"><metamark place="inline" function="insertion-device" rend="no-caret _HMp" facs="#img_800_z004">——&gt;</metamark>Find proper place for insertion</add></metamark></ab><ab rend="bottom"><metamark place="below" function="section-divider" rend="no-caret _HMp" facs="#img_800_z010">——//——</metamark><metamark place="below" function="composition-information" rend="no-caret _HMp" facs="#img_800_z033"><add place="below" rend="no-caret _HMp" hand="#ESM" facs="#img_800_z033">Restore</add></metamark></ab><ab>
+  <hi rend="italic">[Editors' Note: The following leaves represent a chapter that Melville removed from Billy Budd. Its adopted version appears as a few lines in Chapter 21.]</hi>
+
+
+  <lb/><add place="inline" rend="no-caret _HMp" hand="#HM" facs="#img_800_z002">Lawyers, Experts, Clergy</add>
+  <lb/><metamark place="inline" function="section-divider" rend="no-caret _HMp" facs="#img_800_z003">——//——</metamark>
+
+  <lb/><del rend="single-stroke _HMp" hand="#HM" facs="#img_800_z011"><add place="inline" rend="no-caret _HMp" hand="#HM" facs="#img_800_z011">This it is that makes</add></del>
+
+  <lb/><add place="inline" rend="no-caret _HMp" hand="#HM" facs="#img_800_z014">An Episode</add> <metamark place="inline" function="composition-information" rend="bubble _HMp" facs="#img_800_z013"><add place="inline" rend="bubble _HMp" facs="#img_800_z013">New Chapter</add></metamark> 
+
+  <lb/><del rend="single-stroke _HMp" hand="#HM" facs="#img_800_z007"><add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_800_z007">the most perilous of God's creatures.</add></del><add place="inline" rend="bubble _HMp" hand="#HM" facs="#img_800_z006">by the way</add> <add place="inline" rend="no-caret _HMp" hand="#HM" facs="#img_800_z037">—</add>
+  <lb/>Can it be <del rend="single-stroke _ink1" hand="#HM" facs="#img_800_z008">this</del> <add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_800_z009">the</add> phenomenon,
+  <lb/><del rend="single-stroke _HMp" hand="#HM" facs="#img_800_z005"><add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_800_z005">upon wh</add> </del>disowned or <add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_800_z015">at least</add> <add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_800_z016">conceded</add> not acknowledged, that in some
+  <lb/>criminal cases puzzles the courts? <del rend="single-stroke _ink1" hand="#HM" facs="#img_800_z017">And </del>
+  <lb/><del rend="single-stroke _ink1" hand="#HM" facs="#img_800_z019">for</del> For this cause have our juries <del rend="single-stroke _ink1" hand="#HM" facs="#img_800_z020">in</del>
+  <lb/>at times not only to endure the prolonged
+  <lb/>contentions of <del rend="single-stroke _HMp" hand="#HM" facs="#img_800_z022">the</del> <del rend="single-stroke _HMp" hand="#HM" facs="#img_800_z021"><add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_800_z021">feed</add></del> lawyers <add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_800_z023">with their fees,</add> but also the
+  <lb/>yet more perplexing strife of the <del rend="single-stroke _HMp" hand="#HM" facs="#img_800_z023"><add place="inline" rend="no-caret _HMp" hand="#HM" facs="#img_800_z023">feed</add></del>
+  <lb/>medical experts <add place="above" rend="no-caret _HMp" hand="#HM" facs="#img_800_z025">with theirs</add>? — <add place="inline" rend="clip _ink1" hand="#HM" facs="#img_800_z036">But why leave <del rend="single-stroke _ink1" hand="#HM" facs="#img_800_z026">all</del>
+  <lb/><add place="inline" rend="no-caret _ink1" hand="#HM" facs="#img_800_z027">it</add> to <subst facs="#img_800_z034"><add place="inline" rend="no-caret _ink1" hand="#HM" facs="#img_800_z034">them?</add></subst> <del rend="single-stroke _ink1" hand="#HM" facs="#img_800_z028">laity</del> <del rend="single-stroke _ink1" hand="#HM" facs="#img_800_z029">laymen?</del> why not subpoena <metamark place="inline" function="composition-information" rend="no-caret _HMp" facs="#img_800_z030"><add place="inline" rend="no-caret _HMp" hand="#ESM" facs="#img_800_z030">(?)</add></metamark>
+  <lb/><add place="inline" rend="no-caret _ink1" hand="#HM" facs="#img_800_z031">as well</add> the clerical proficients?  Their vocation</add>
+</ab><milestone n="LawyersExperts" unit="chapter"/>
+</div></body></text>

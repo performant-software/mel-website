@@ -25,55 +25,42 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div xml:id="chapter-25"><p xmlns="http://www.tei-c.org/ns/1.0">
-				<pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0719.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/17728"/> <lb/>
+			<div xml:id="chapter-25"><p>
+				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0719.tif" corresp="img_719"/> <lb/>
 				<head type="main">CHAPTER 25</head>
-			</p><p xmlns="http://www.tei-c.org/ns/1.0">The night so luminous on the spar-deck but
+			</p><p>The night so luminous on the spar-deck but
 					otherwise on the cavernous ones below, levels so like the tiered galleries in a
 					coal-mine—the luminous night passed away. But, like the prophet in the chariot
 					disappearing in heaven and dropping his mantle to Elisha, the withdrawing night
 					transferred its pale robe to the breaking day. A meek shy light appeared in the
-					East where stretched a diaphonous fleece of white furrowed vapor. <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0721.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/17726"/> That light slowly
+					East where stretched a diaphonous fleece of white furrowed vapor. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0721.tif" corresp="img_721"/> That light slowly
 					waxed. Suddenly <hi rend="italic">eight bells</hi> were struck aft, responded to
 					by one louder metallic stroke from forward. It was four o'clock in the morning.
 					Instantly the silver whistles were heard summoning all hands to witness
 					punishment. Up through the great hatchways rimmed with racks of heavy shot, the
 					watch below came <choice>
 						<orig>pouring (no comma in MS)</orig>
-						<reg><ref xmlns="http://www.tei-c.org/ns/1.0" target="#ref_30457"
-								>pouring,</ref><note xmlns="http://www.tei-c.org/ns/1.0"
-								xml:id="ref_30457">pouring,] MEL adds the comma to clarify reading
+						<reg><ref target="#ref_30457">pouring,</ref><note xml:id="ref_30457">pouring,] MEL adds the comma to clarify reading
 								by indicating that the following word "overspreading" recapitulates
 								but extends the word "pouring."</note></reg>
 					</choice> overspreading with the watch already on deck the space between the
 					mainmast and foremast including that occupied by the capacious launch and the
 					black booms tiered on either side of it, boat and booms making a summit of
-					observation for the powder-boys and younger tars. <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0723.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/17740"/> A different group
+					observation for the powder-boys and younger tars. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0723.tif" corresp="img_723"/> A different group
 					comprising one watch of topmen leaned over the rail of that sea-balcony, no
 					small one in a seventy-four, looking down on the crowd below. Man or boy none
 					spake but in whisper, and few spake at all. Captain Vere—as before, the central
 					figure among the assembled commissioned officers—stood nigh the break of the
 					poop-deck facing forward. Just <choice>
 						<orig>Below</orig>
-						<reg><ref xmlns="http://www.tei-c.org/ns/1.0" target="#ref_29817"
-								>below</ref><note xmlns="http://www.tei-c.org/ns/1.0"
-								xml:id="ref_29817">HM added "Just" in the margin next to "Below"
+						<reg><ref target="#ref_29817">below</ref><note xml:id="ref_29817">HM added "Just" in the margin next to "Below"
 								without lowercasing it.</note></reg>
 					</choice> him on the quarter-deck the marines in full equipment were drawn up
-					much as at the scene of the promulgated sentence. <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0725.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/17742"/></p>
+					much as at the scene of the promulgated sentence. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0725.tif" corresp="img_725"/></p>
 
-				<p xmlns="http://www.tei-c.org/ns/1.0">At sea in the old time, the execution by
+				<p>At sea in the old time, the execution by
 					halter of a military sailor was generally from the fore-yard. In the present
-					instance, for <ref target="#ref_29839">special reasons</ref><note
-						xml:id="ref_29839">special reasons] For this inserted phrase, HM originally
+					instance, for <ref target="#ref_29839">special reasons</ref><note xml:id="ref_29839">special reasons] For this inserted phrase, HM originally
 						wrote "for strategic reasons."</note> the main-yard was assigned. Under an
 					arm of <ref target="#ref_29838">that yard</ref><note xml:id="ref_29838">that
 						yard] A yard is the spar from which a sail hangs, and the main-yard crosses
@@ -101,9 +88,7 @@
 						remain open to interpretation.</note> the prisoner was presently brought up,
 					the Chaplain attending him. It was noted at the time and remarked upon
 					afterwards, that in this final scene the good man evinced little or nothing of
-					the perfunctory. Brief speech indeed he had with the condemned one, <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0727.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/17744"/> but the genuine
+					the perfunctory. Brief speech indeed he had with the condemned one, <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0727.tif" corresp="img_727"/> but the genuine
 					Gospel was less on his tongue than in his aspect and manner towards him. The
 					final <choice>
 						<orig>preperations</orig>
@@ -122,20 +107,16 @@
 						"benediction," but he then erased "felon's" and penciled in "a conventional
 						felon's" without deleting the redundant "a."</note> felon's benediction
 					directed aft towards the quarters of honor; syllables too delivered in the clear
-					melody of a singing-bird <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0729.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/17746"/> on the point of
+					melody of a singing-bird <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0729.tif" corresp="img_729"/> on the point of
 					launching from the twig, had a phenomenal effect, not unenhanced by the rare
 					personal beauty of the young sailor spiritualized now <choice>
-						<orig>thro&#x27;</orig>
+						<orig>thro'</orig>
 						<reg>through</reg>
 					</choice> late experiences so poignantly profound. </p>
-				<p xmlns="http://www.tei-c.org/ns/1.0">Without volition as it were, as if indeed the
+				<p>Without volition as it were, as if indeed the
 					ship's populace were but the vehicles of some vocal current electric, with one
 					voice from alow and aloft came a resonant sympathetic echo–"God bless Captain
-					Vere!" And yet at that instant Billy alone must have been in their hearts, <ref
-						target="#ref_30458">even as he was in their eyes</ref><note
-						xml:id="ref_30458">even as he in their eyes] Originally, HM wrote "even as
+					Vere!" And yet at that instant Billy alone must have been in their hearts, <ref target="#ref_30458">even as he was in their eyes</ref><note xml:id="ref_30458">even as he in their eyes] Originally, HM wrote "even as
 						he was in their eyes" in ink. He revised, also in ink, by adding "alone"
 						first after "was" to give "he was alone" then immediately transposed "alone"
 						to before "was" to give "he alone was." Later, in pencil, HM deleted both
@@ -144,22 +125,19 @@
 						emends this uncompleted revision by further deleting "he" to give "even as
 						in their eyes." MEL emends by restoring "was" to give "even as he was in
 						their eyes." </note>. </p>
-				<p xmlns="http://www.tei-c.org/ns/1.0">At the pronounced words and the spontaneous
-					echo that voluminously rebounded them, <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0731.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/17748"/> Captain Vere, either <choice>
+				<p>At the pronounced words and the spontaneous
+					echo that voluminously rebounded them, <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0731.tif" corresp="img_731"/> Captain Vere, either <choice>
 						<orig>thro</orig>
 						<reg>through</reg>
 					</choice> stoic self-control or a sort of momentary paralysis induced by
 					emotional shock, stood erectly rigid as a musket in the ship-armorer's rack. </p>
-				<p xmlns="http://www.tei-c.org/ns/1.0">The hull <choice>
+				<p>The hull <choice>
 						<orig>deliberatly</orig>
 						<reg>deliberately</reg>
 					</choice> recovering from the periodic roll to leeward was just regaining an
 					even keel, when <ref target="#ref_29860">the last fatal <choice><orig>death-signal (no comma in MS)</orig>
 						<reg>death-signal,</reg>
-						</choice></ref><note
-						xml:id="ref_29860">the last fatal death-signal] Originally in ink, HM
+						</choice></ref><note xml:id="ref_29860">the last fatal death-signal] Originally in ink, HM
 						inscribed "when the preconcerted fatal sign was given." In pencil he then
 						revised by deleting "fatal sign" and adding "signal." Deleting "signal" he
 						then inserted "death-signal a" earlier in the sentence, intending to place
@@ -182,14 +160,12 @@
 						<orig>thro</orig>
 						<reg>through</reg>
 					</choice> with a soft glory as of the fleece of the Lamb of God seen in mystical
-					vision <pb
-						facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0733.tif"
-						tl_leaf="https://app.textlab.org/transcriptions/17750"/> and <choice>
+					vision <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0733.tif" corresp="img_733"/> and <choice>
 						<orig>Simultaniously</orig>
 						<reg>simultaneously</reg>
 					</choice> therewith, watched by the wedged mass of upturned faces, Billy
 					ascended; and, ascending, took the full rose of the dawn. </p>
-				<p xmlns="http://www.tei-c.org/ns/1.0">In the pinioned figure, arrived at the
+				<p>In the pinioned figure, arrived at the
 					yard-end, to the wonder of <choice>
 						<orig>all [no comma]</orig>
 						<reg>all,</reg>

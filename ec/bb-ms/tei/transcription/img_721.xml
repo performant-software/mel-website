@@ -1,0 +1,21 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_721"/>
+<ab rend="right-top"><metamark place="margin(top) margin(right)" function="folio" rend="_HMp" facs="#img_721_z001">304</metamark></ab><ab rend="left-bottom"><metamark place="margin(bottom) margin(left)" function="folio" rend="no-caret _HMp" facs="#img_721_z019">314</metamark></ab><ab>
+   
+  That light slowly waxed<subst facs="#img_721_z004"><del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_721_z004">,</del><add place="inline" rend="no-caret _ink1" hand="#HM" change="StFa" facs="#img_721_z004">.</add></subst><!--H&S don't note this in their transcription--> Suddenly
+  <lb/><hi rend="underline">one</hi> <add place="above" rend="no-caret _HMp" hand="#HM" change="Stp" facs="#img_721_z002">eight</add> <hi rend="underline">bell<add place="inline" rend="no-caret _HMp" hand="#HM" change="Stp" facs="#img_721_z020">s</add></hi> was struck aft, responded
+  <lb/>to by <del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_721_z005">a</del> <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_721_z006">^</metamark><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_721_z007">one</add> louder <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_721_z008">^</metamark><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_721_z009">metallic</add> stroke from forward.
+  <lb/>It was <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_721_z010">half past</del> four o'clock in the morning.
+  <lb/>Instantly the <metamark place="inline" function="caret" rend="caret _ink1" change="StGa" facs="#img_721_z011">^</metamark><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_721_z012">silver</add> whistles were heard
+  <lb/>summoning all hands to witness
+  <lb/>punishment. Up through the great
+  <lb/><metamark place="inline" function="folio" rend="no-caret _HMp" change="StFa" facs="#img_721_z013">78</metamark> hatchways rimmed with racks of heavy
+  <lb/>shot, the watch below came pouring
+  <lb/>overspreading with the <del rend="single-stroke _HMp" hand="#HM" change="StFa" facs="#img_721_z014">other</del> watch <add place="above" rend="no-caret _HMp" hand="#HM" change="Stp" facs="#img_721_z015">already on deck</add>
+  <lb/>the space between the mainmast and
+  <lb/>foremast including that occupied by
+  <lb/>the capacious <hi rend="underline">launch</hi> and the black booms
+  <lb/>tiered on either side of it, boat and
+  <lb/>booms making a summit of observation
+  <lb/>for the <metamark place="inline" function="caret" rend="caret _ink1" change="StFa" facs="#img_721_z016">^</metamark><add place="above" rend="caret _ink1" hand="#HM" change="StFa" facs="#img_721_z017">powder-</add>boys and <restore change="StFa" hand="#HM" facs="#img_721_z001"><del rend="single-stroke _ink1" hand="#HM" change="StFa" facs="#img_721_z018"><hi rend="restoration">younger tars</hi></del></restore>.
+</ab><milestone n="25" unit="chapter"/>
+</div></body></text>

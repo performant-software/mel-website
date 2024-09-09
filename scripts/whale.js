@@ -3,9 +3,11 @@
 const fs = require('fs')
 const jsdom = require("jsdom")
 const { JSDOM } = jsdom
+require('dotenv').config();
 
 const {CETEI} = require("./CETEI")
 const { pageTemplate } = require("./page-template")
+const { bbMSPageTemplate } = require("./bb-ms-template")
 
 function dirExists( dir ) {
     if( !fs.existsSync(dir) ) {
@@ -67,6 +69,13 @@ function mirrorDirs(sourcePath, targetPath) {
     }
 }
 
+async function addBBEditionCrafterPage() {
+    const baseURL = process.env.DEPLOY_PRIME_URL
+    const dev = !!process.env.DEV_MODE
+    const html = bbMSPageTemplate(baseURL,dev)
+    fs.writeFileSync("editions/versions-of-billy-budd/billy-budd-ms.html", html, "utf8")
+}
+
 async function processDocs(sourceDocsPath, targetPath) {
     // clear out target and match directory structure with source
     mirrorDirs(sourceDocsPath, targetPath)
@@ -107,6 +116,7 @@ async function run() {
     await processDocs('xml/versions-of-billy-budd','editions/versions-of-billy-budd')
     await processDocs('xml/battle-pieces','editions/battle-pieces')
     await processDocs('xml/versions-of-moby-dick','editions/versions-of-moby-dick')
+    await addBBEditionCrafterPage()
 }
 
 function main() {
