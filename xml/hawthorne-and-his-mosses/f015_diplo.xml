@@ -2,10 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<text>
 		<body>
-			<p>
-				<pb facs="#f015"/>
-			</p>
-			<p>praise mediocrity even, in her own children, before she <lb/> praises (for everywhere, merit demands acknowledgment from every one) <lb/> the best excellence in the children of any other land. Let <lb/> her own authors, I say, have the priority of appreciation. I <lb/> was much pleased with a hot-headed Carolina cousin of mine, <lb/> who once said,--"If there <metamark>^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f015_add-were" hand="metadata#HM" place="above">were</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f015_delete-was" hand="metadata#HM">was</del> no other American to stand <lb/> by, in Literature,--why, then, I would stand by Pop Emmons <lb/> and his 'Fredoniad,' and till <metamark/><add change="metadata#StB" facs="iiifmossesmanifest.json#f015_add-a" hand="metadata#HM" place="above">a</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f015_delete-XXX" hand="metadata#HM">XXX</del> better epic came along, <lb/> swear it was not very far behind the Iliad." Take away <lb/> the words, and in spirit he was sound.</p>
+			<div>
+				<p>
+					<pb facs="#f015"/>
+				</p>
+				<p>praise mediocrity even, in her own children, before she <lb/> praises (for everywhere, merit demands acknowledgment from every one) <lb/> the best excellence in the children of any other land. Let <lb/> her own authors, I say, have the priority of appreciation. I <lb/> was much pleased with a hot-headed Carolina cousin of mine, <lb/> who once said,--"If there <metamark>^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f015_add-were" hand="metadata#HM" place="above">were</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f015_delete-was" hand="metadata#HM">was</del> no other American to stand <lb/> by, in Literature,--why, then, I would stand by Pop Emmons <lb/> and his 'Fredoniad,' and till <metamark/><add change="metadata#StB" facs="iiifmossesmanifest.json#f015_add-a" hand="metadata#HM" place="above">a</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f015_delete-XXX" hand="metadata#HM">XXX</del> better epic came along, <lb/> swear it was not very far behind the Iliad." Take away <lb/> the words, and in spirit he was sound.</p>
+			</div>
 		</body>
 	</text>
 </TEI>
