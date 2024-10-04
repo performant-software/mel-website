@@ -151,7 +151,7 @@
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/063.tiff"/>
 		</surface>
 	</facsimile>
-	<text xml:id="f0021_diplo">
+	<text xml:id="f021_diplo">
 		<body>
 			<div>
 				<p><pb facs="#f021"/>22</p>
@@ -332,7 +332,7 @@
 			</div>
 		</body>
 	</text>
-	<text xml:id="f1_diplo">
+	<text xml:id="f001_diplo">
 		<body>
 			<div>
 				<p><pb facs="#f001"/> <metamark function="folio" n="2">2</metamark></p>
@@ -341,7 +341,7 @@
 			</div>
 		</body>
 	</text>
-	<text xml:id="f0_diplo">
+	<text xml:id="f000_diplo">
 		<body>
 			<div>
 				<p>
