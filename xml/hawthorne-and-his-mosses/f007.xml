@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Hawthorne and His Mosses</title>
-			</titleStmt>
-			<publicationStmt>
-				<p>Melville Electronic Library</p>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Leaf 007 (page 8) of the manuscript. </p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+	
 	<text>
 		<body>
 			<p>

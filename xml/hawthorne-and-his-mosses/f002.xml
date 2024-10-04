@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
-		<fileDesc>
-			<titleStmt>
-				<title>Hawthorne and His Mosses</title>
-			</titleStmt>
-			<publicationStmt>
-				<p>Melville Electronic Library</p>
-			</publicationStmt>
-			<sourceDesc>
-				<p>Leaf 002 (page 3) of the manuscript.</p>
-			</sourceDesc>
-		</fileDesc>
-	</teiHeader>
+	
 	<text>
 		<body>
 			<p><pb facs="iiifmossesmanifest.json#f002"/> <metamark>3</metamark></p>
