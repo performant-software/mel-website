@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<text>
 		<body>
-			<div>
+			<div type="leaf">
 				<p><pb facs="#f007"/> <metamark>8</metamark></p>
 				<p>-- "Methinks I should tremble now, were his <lb/> wizard power of gliding through all impediments <lb/> in search of me, to place him suddenly before <lb/> my eyes".</p>
 				<p><metamark>[</metamark>How profound, nay appalling, is <lb/> the moral evolved by the "Earth's Holocaust"; <lb/> where<metamark>^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f006_add--" hand="metadata#HM">--</add>beginning with the hollow follies and <lb/> affectations of the world,--all vanities and <add change="metadata#StB" facs="iiifmossesmanifest.json#f007_add-empty" hand="metadata#HM" place="above">empty</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f007_delete-lame" hand="metadata#HM">lame</del> theories and <lb/> forms, are, <metamark>^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f007_add-one-sentence" hand="metadata#HM" place="above">one after another, and by an admirably graduated, growing comprehensiveness</add>, thrown into the allegorical fire, till, at length, <lb/> <del change="metadata#StB" facs="iiifmossesmanifest.json#f007_delete-gradually" hand="metadata#HM">gradually</del> nothing is left but the all-<lb/>engendering heart of man; which remaining <lb/> still unconsumed, the great conflagration is <lb/> nought.</p>

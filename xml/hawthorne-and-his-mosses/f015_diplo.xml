@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<text>
 		<body>
-			<div>
+			<div type="leaf">
 				<p>
 					<pb facs="#f015"/>
 				</p>
