@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
+   <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Versions of "Hawthorne and His Mosses"</title>
             <author>Herman Melville</author>
             <editor role="general" xml:id="JB">John Bryant</editor>
             <editor role="general" xml:id="CO">Christopher Ohge</editor>
+            <editor role="associate" xml:id="BH">Brandon Hurst</editor>
             <editor role="assistant" xml:id="YS">Yuying Shen</editor>
             <editor role="assistant" xml:id="YC">Yihong Cai</editor>
          </titleStmt>  
@@ -30,17 +31,17 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-     <profileDesc>
-        <creation><!-- manuscript revisions and genetic stages -->
-        <listChange>
-        <change xml:id="StA">Fair copy stage by Elizabeth Shaw Melville</change>
-        <change xml:id="StB">Revisions by Herman Melville and Elizabeth Shaw Melville</change>
-        <change xml:id="StC">Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
-        <change xml:id="StD">Changes made by the compositors of the Literary World</change>
-        </listChange>
-        </creation>
-     </profileDesc>
-  </teiHeader>
+      <profileDesc>
+         <creation><!-- manuscript revisions and genetic stages -->
+            <listChange>
+               <change xml:id="StA">Fair copy stage by Elizabeth Shaw Melville</change>
+               <change xml:id="StB">Revisions by Herman Melville and Elizabeth Shaw Melville</change>
+               <change xml:id="StC">Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
+               <change xml:id="StD">Changes made by the compositors of the Literary World</change>
+            </listChange>
+         </creation>
+      </profileDesc>
+   </teiHeader>
   <text>
       <body>
          <p/>
