@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 		<teiHeader>
 			<fileDesc>
@@ -43,15 +42,145 @@
 				</creation>
 			</profileDesc>
 		</teiHeader>
+	<facsimile sameAs="https://melville.electroniclibrary.org/iiif/mosses/manifest.json">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="1560" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p0">
+			<label>f000</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/001.tiff"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p1">
+			<label>f001</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/003.tiff"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="1571" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p2">
+			<label>f002</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/005.tiff"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p3">
+			<label>f003</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/007.tiff"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p4">
+			<label>f004</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/009.tiff"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p5">
+			<label>f005</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/011.tiff"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="1571" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p6">
+			<label>f006</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/013.tiff"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p7">
+			<label>f007</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/015.tiff"/>
+		</surface>
+		<surface xml:id="f008" ulx="0" uly="0" lrx="1566" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p8">
+			<label>f008</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/017.tiff"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p9">
+			<label>f009</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/019.tiff"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="1559" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p10">
+			<label>f010</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/021.tiff"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p11">
+			<label>f011</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/023.tiff"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p12">
+			<label>f012</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/025.tiff"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="2560" lry="2478" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p13">
+			<label>f013</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/027.tiff"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="1465" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p14">
+			<label>f014</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/029.tiff"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="2559" lry="1092" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p15">
+			<label>f015</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/031.tiff"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="1542" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p16">
+			<label>f016</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/033.tiff"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p17">
+			<label>f017</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/035.tiff"/>
+		</surface>
+		<surface xml:id="f018" ulx="0" uly="0" lrx="1564" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p18">
+			<label>f018</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/037.tiff"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p19">
+			<label>f019</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/039.tiff"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p20">
+			<label>f020</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/041.tiff"/>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="1558" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p21">
+			<label>f021</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/043.tiff"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p22">
+			<label>f022</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/045.tiff"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="1555" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p23">
+			<label>f023</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/047.tiff"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="1552" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p24">
+			<label>f024</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/049.tiff"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p25">
+			<label>f025</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/051.tiff"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
+			<label>f026</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/053.tiff"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p27">
+			<label>f027</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/055.tiff"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="1787" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p28">
+			<label>f028</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/057.tiff"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p29">
+			<label>f029</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/059.tiff"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p30">
+			<label>f030</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/061.tiff"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="1672" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p31">
+			<label>f031</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/063.tiff"/>
+		</surface>
+	</facsimile>
 	<text>
 		<body>
 			<div type="leaf">
-				<p>
-					<pb facs="#f000"/>
-				</p>
-				<p>Hawthorne and His Mosses "The truth seems to be, that like many other geniuses, this Man of Mosses takes great delight in hoodwinking the world,-at least, with respect to himself." By a Virginian Spending July in Vermont A PAPERED CHAMBER in a fine old farm- house--a mile from any other dwelling, and dipped to the eaves in foliage--surrounded by mountains, old woods, and Indian ponds,-- this, surely, is the place to write of Hawthorne. Some charm is in this northern air, for love and duty seem both impelling to the task. A man of a deep and noble nature has seized me in this seclusion. His wild, witch voice rings through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds, that sing in the larch trees at my window. </p>
+				<pb facs="#f000"/>
+				<head>Hawthorne and His Mosses </head>
+				<head>By a Virginian Spending July in Vermon</head>
+				<p>A papered chamber in a fine old farm- house--a mile from any other dwelling, and dipped to the eaves in foliage--surrounded by mountains, old woods, and Indian ponds,-- this, surely, is the place to write of Hawthorne. Some charm is in this northern air, for love and duty seem both impelling to the task. A man of a deep and noble nature has seized me in this seclusion. His wild, witch voice rings through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds, that sing in the larch trees at my window.</p>
 				<p>Would that all excellent books were foundlings, without father or mother, that so it might be, we could glorify them, without including their ostensible authors. Nor would any true man take exception to this; --least of all, he who writes,--"When the Artist rises high enough to achieve the Beautiful, the symbol by which he makes it perceptible to mortal senses becomes of little value in his eyes, while his spirit possesses itself in the enjoyment of the reality."</p>
-				<p>But more than this. I know not </p>
+				<p>But more than this. I know not</p>
 			</div>
 		</body>
 	</text>
