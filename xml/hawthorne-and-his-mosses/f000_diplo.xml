@@ -3,10 +3,11 @@
 	<text>
 		<body>
 			<div type="leaf">
-				<head><pb facs="#f000"/>Hawthorne and His Mosses </head>
-				<head>By a Virginian Spending July in Vermon</head>
-				<p>A papered chamber in a fine old farm- house--a mile from any other dwelling, and dipped to the eaves in foliage--surrounded by mountains, old woods, and Indian ponds,-- this, surely, is the place to write of Hawthorne. Some charm is in this northern air, for love and duty seem both impelling to the task. A man of a deep and noble nature has seized me in this seclusion. His wild, witch voice rings through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds, that sing in the larch trees at my window.</p>
-				<p>Would that all excellent books were foundlings, without father or mother, that so it might be, we could glorify them, without including their ostensible authors. Nor would any true man take exception to this; --least of all, he who writes,--"When the Artist rises high enough to achieve the Beautiful, the symbol by which he makes it perceptible to mortal senses becomes of little value in his eyes, while his spirit possesses itself in the enjoyment of the reality."</p>
+				<metamark change="#ms1" facs="#f000_z002" function="folio-number" n="1" place="right" rend="pencil">1</metamark>
+				<head><pb facs="#f000"/> <note><ref target="#f000_z000" type="compositor">Lyman</ref></note> Hawthorne and His Mosses</head>
+				<head>By a Virginian Spending July in Vermont</head>
+				<p>A papered chamber in a fine old farm- house -- a mile from any other dwelling, and dipped to the eaves in foliage--surrounded by mountains, old woods, and Indian ponds, -- this, surely, is the place to write of Hawthorne. Some charm is in this northern air, for love and duty seem both impelling to the task. A man of a deep and noble nature has seized me in this seclusion. His wild, witch voice rings through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds, that sing in the larch trees at my window.</p>
+				<p>Would that all excellent books were foundlings, without father or mother, that so it might be, we could glorify them, without including their ^<add change="ms1" facs="#f000_z001" hand="#hm" place="above" rend="caret">ostensible</add> authors. Nor would any true man take exception to this; -- least of all, he who writes, -- "When the Artist rises high enough to achieve the Beautiful, the symbol by which he makes it perceptible to mortal senses becomes of little value in his eyes, while his spirit possesses itself in the enjoyment of the reality."</p>
 				<p>But more than this. I know not</p>
 			</div>
 		</body>
