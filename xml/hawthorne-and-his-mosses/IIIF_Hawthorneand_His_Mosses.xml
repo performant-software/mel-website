@@ -1,13 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<facsimile sameAs="https://melville.electroniclibrary.org/iiif/mosses/manifest.json">
+	<facsimile xmlns="http://www.tei-c.org/ns/1.0" sameAs="https://melville.electroniclibrary.org/iiif/mosses/manifest.json" xml:id="IIIF_Hawthorneand_His_Mosses">
 		<surface xml:id="f000" ulx="0" uly="0" lrx="1560" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p0">
 			<label>f000</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/001.tiff"/>
+			<zone xml:id="f000_z000" ulx="288.44854736328125" uly="196.62059020996094" lrx="736.7434692382812" lry="405.0384216308594">
+				<note>Compositor's note, "Lyman"</note>
+			</zone>
+			<zone xml:id="f000_z001" ulx="1169.447509765625" uly="1928.6807861328125" lrx="1372.3642578125" lry="1985.5733642578125">
+				<note>"ostensible" added above (with caret)</note>
+			</zone>
+			<zone xml:id="f000_z002" ulx="1460.3072509765625" uly="21.812597274780273" lrx="1546.8203125" lry="92.59600830078125">
+				<note>folio mark</note>
+			</zone>
 		</surface>
 		<surface xml:id="f001" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p1">
 			<label>f001</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/003.tiff"/>
+			<zone xml:id="f001_z000" ulx="1451.872802734375" uly="27.70250129699707" lrx="1527.0728759765625" lry="95.18980407714844"/>
+			<zone xml:id="f001_z001" ulx="543.5509033203125" uly="416.7939147949219" lrx="591.756103515625" lry="463.0709228515625"/>
+			<zone xml:id="f001_z002" ulx="543.5509033203125" uly="337.73736572265625" lrx="763.36669921875" lry="411.0093078613281"/>
+			<zone xml:id="f001_z003" ulx="614.8946533203125" uly="522.8453979492188" lrx="736.3717651367188" lry="598.0455322265625"/>
+			<zone xml:id="f001_z004" ulx="713.2332763671875" uly="702.1688232421875" lrx="790.3616333007812" lry="790.8663940429688"/>
+			<zone xml:id="f001_z005" ulx="682.3819580078125" uly="650.107177734375" lrx="786.5051879882812" lry="717.594482421875"/>
+			<zone xml:id="f001_z006" ulx="788.4334106445312" uly="706.0252075195312" lrx="830.85400390625" lry="773.5125122070312"/>
+			<zone xml:id="f001_z007" ulx="523.9374389648438" uly="1115.76953125" lrx="572.1426391601562" lry="1146.620849609375"/>
+			<zone xml:id="f001_z008" ulx="572.1426391601562" uly="1054.06689453125" lrx="670.4812622070312" lry="1096.4874267578125"/>
+			<zone xml:id="f001_z009" ulx="361.9678955078125" uly="1142.7645263671875" lrx="468.01934814453125" lry="1187.11328125"/>
+			<zone xml:id="f001_z010" ulx="12.800006866455078" uly="1228.3199462890625" lrx="307.837646484375" lry="1303.584716796875">
+				<note>"visible frame" added later </note>
+			</zone>
+			<zone xml:id="f001_z011" ulx="1207.6424560546875" uly="1234.9959716796875" lrx="1287.4229736328125" lry="1299.7236328125"/>
+			<zone xml:id="f001_z012" ulx="1248.285400390625" uly="1204.89013671875" lrx="1332.581787109375" lry="1257.575439453125"/>
+			<zone xml:id="f001_z013" ulx="1285.917724609375" uly="1266.607177734375" lrx="1331.0765380859375" lry="1319.29248046875"/>
+			<zone xml:id="f001_z014" ulx="1465.0477294921875" uly="1262.09130859375" lrx="1523.754150390625" lry="1314.776611328125"/>
+			<zone xml:id="f001_z015" ulx="1370.2142333984375" uly="1194.35302734375" lrx="1537.3017578125" lry="1263.5965576171875"/>
+			<zone xml:id="f001_z016" ulx="184.0425567626953" uly="1376.49365234375" lrx="414.3525390625" lry="1447.242431640625"/>
+			<zone xml:id="f001_z017" ulx="358.6566467285156" uly="1341.871826171875" lrx="497.1437072753906" lry="1403.5889892578125"/>
+			<zone xml:id="f001_z018" ulx="415.8578186035156" uly="1417.1365966796875" lrx="459.5113525390625" lry="1471.3271484375"/>
+			<zone xml:id="f001_z019" ulx="403.8154602050781" uly="1477.348388671875" lrx="945.7213134765625" lry="1517.9913330078125"/>
+			<zone xml:id="f001_z020" ulx="464.0272216796875" uly="1439.7159423828125" lrx="670.2525024414062" lry="1477.348388671875"/>
+			<zone xml:id="f001_z021" ulx="938.19482421875" uly="1495.411865234375" lrx="980.3430786132812" lry="1543.581298828125"/>
+			<zone xml:id="f001_z022" ulx="263.2704162597656" uly="1708.31689453125" lrx="395.73626708984375" lry="1761.002197265625"/>
+			<zone xml:id="f001_z023" ulx="483.0433349609375" uly="1779.065673828125" lrx="653.1415405273438" lry="1840.78271484375"/>
+			<zone xml:id="f001_z024" ulx="1077.6343994140625" uly="1813.6875" lrx="1119.78271484375" lry="1852.8250732421875"/>
+			<zone xml:id="f001_z025" ulx="1121.2879638671875" uly="1739.9281005859375" lrx="1274.827880859375" lry="1782.0762939453125"/>
+			<zone xml:id="f001_z026" ulx="1119.78271484375" uly="1782.0762939453125" lrx="1440.4102783203125" lry="1848.3092041015625"/>
+			<zone xml:id="f001_z027" ulx="166.9315948486328" uly="1848.3092041015625" lrx="252.7333526611328" lry="1905.5103759765625"/>
+			<zone xml:id="f001_z028" ulx="294.881591796875" uly="1824.2244873046875" lrx="356.5986328125" lry="1869.38330078125"/>
+			<zone xml:id="f001_z029" ulx="337.0298156738281" uly="1887.4468994140625" lrx="385.19921875" lry="1928.08984375"/>
+			<zone xml:id="f001_z030" ulx="1362.6641845703125" uly="2114.340576171875" lrx="1421.37060546875" lry="2153.478271484375"/>
+			<zone xml:id="f001_z031" ulx="986.3406982421875" uly="2046.602294921875" lrx="1350.621826171875" lry="2081.22412109375"/>
+			<zone xml:id="f001_z032" ulx="83.16434478759766" uly="2164.01513671875" lrx="600.9854736328125" lry="2240.78515625"/>
 		</surface>
 		<surface xml:id="f002" ulx="0" uly="0" lrx="1571" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p2">
 			<label>f002</label>
@@ -112,6 +156,12 @@
 		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p27">
 			<label>f027</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/055.tiff"/>
+			<zone xml:id="f027_z000" ulx="1831.8740234375" uly="27.52688217163086" lrx="2000.9677734375" lry="110.10752868652344">
+				<note>folio number</note>
+			</zone>
+			<zone xml:id="f027_z001" ulx="87.23246765136719" uly="30.99001121520996" lrx="727.2733764648438" lry="110.00740814208984">
+				<note>deleted "infinite subjects"</note>
+			</zone>
 		</surface>
 		<surface xml:id="f028" ulx="0" uly="0" lrx="1787" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p28">
 			<label>f028</label>
