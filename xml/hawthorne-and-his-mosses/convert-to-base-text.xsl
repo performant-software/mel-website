@@ -15,6 +15,7 @@
     <xsl:template match="tei:metamark"/>
     <xsl:template match="tei:del"/>
     <xsl:template match="tei:note"/>
+    <xsl:template match="tei:ref"/>
     <xsl:strip-space elements="*"/>
     
 </xsl:stylesheet>
