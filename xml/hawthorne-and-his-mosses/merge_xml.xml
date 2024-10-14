@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<p>#!/bin/bash</p>
+			<p/>
+			<p># Define output file</p>
+			<p>output_file="merged.xml"</p>
+			<p/>
+			<p># Create the root element for the merged XML</p>
+			<p>echo '&lt;?xml version="1.0" encoding="UTF-8"?&gt;' &gt; "$output_file"</p>
+			<p>echo "&lt;root&gt;" &gt;&gt; "$output_file" # Root element that wraps all files</p>
+			<p/>
+			<p># Loop through each XML file passed as argument</p>
+			<p>for file in "$@"</p>
+			<p>do</p>
+			<p># Remove the XML declaration from each file and append the content to the output</p>
+			<p>sed '1d;$d' "$file" &gt;&gt; "$output_file" # Remove first (declaration) and last (root closing) lines</p>
+			<p>done</p>
+			<p/>
+			<p># Close the root element</p>
+			<p>echo "&lt;/root&gt;" &gt;&gt; "$output_file"</p>
+			<p/>
+			<p>echo "Merged XML content into $output_file"</p>
+			<p/>
+		</body>
+	</text>
+</TEI>
