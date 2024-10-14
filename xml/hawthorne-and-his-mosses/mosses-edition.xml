@@ -1,16 +1,45 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader xml:id="header">
+	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>mosses</title>
-			</titleStmt>
+				<title>Versions of "Hawthorne and His Mosses"</title>
+				<author>Herman Melville</author>
+				<editor role="general" xml:id="JB">John Bryant</editor>
+				<editor role="general" xml:id="CO">Christopher Ohge</editor>
+				<editor role="associate" xml:id="BH">Brandon Hurst</editor>
+				<editor role="assistant" xml:id="YS">Yuying Shen</editor>
+				<editor role="assistant" xml:id="YC">Yihong Cai</editor>
+			</titleStmt>  
 			<publicationStmt>
-				<p/>
+				<p>Melville Electronic Library</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p/>
+				<msDesc>
+					<msIdentifier>
+						<repository>New York Public Library</repository>
+						<idno>MssCol 873 (https://digitalcollections.nypl.org/items/24bb7f40-184f-0133-2d4b-58d385a7bbd0)</idno>
+					</msIdentifier>
+					<physDesc>
+						<handDesc>
+							<handNote xml:id="HM">Revisions by Herman Melville</handNote>
+							<handNote xml:id="ESM">Revisions by Elizabeth Shaw Melville</handNote>
+							<handNote xml:id="ED">Revisions by Evert Duyckinck, editor of the Literary World</handNote>
+							<handNote xml:id="comp">Revisions made by compositors of the Literary World (Lyman, McIntyre, Alexander)</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
+		<profileDesc>
+			<creation><!-- manuscript revisions and genetic stages -->
+				<listChange>
+					<change xml:id="StA">Fair copy stage by Elizabeth Shaw Melville</change>
+					<change xml:id="StB">Revisions by Herman Melville and Elizabeth Shaw Melville</change>
+					<change xml:id="StC">Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
+					<change xml:id="StD">Changes made by the compositors of the Literary World</change>
+				</listChange>
+			</creation>
+		</profileDesc>
 	</teiHeader>
 	<text xml:id="f022_diplo">
 		<body>
@@ -25,10 +54,54 @@
 		<surface xml:id="f000" ulx="0" uly="0" lrx="1560" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p0">
 			<label>f000</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/001.tiff"/>
+			<zone xml:id="f000_z000" ulx="288.44854736328125" uly="196.62059020996094" lrx="736.7434692382812" lry="405.0384216308594">
+				<note>Compositor's note, "Lyman"</note>
+			</zone>
+			<zone xml:id="f000_z001" ulx="1169.447509765625" uly="1928.6807861328125" lrx="1372.3642578125" lry="1985.5733642578125">
+				<note>"ostensible" added above (with caret)</note>
+			</zone>
+			<zone xml:id="f000_z002" ulx="1460.3072509765625" uly="21.812597274780273" lrx="1546.8203125" lry="92.59600830078125">
+				<note>folio mark</note>
+			</zone>
 		</surface>
 		<surface xml:id="f001" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p1">
 			<label>f001</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/003.tiff"/>
+			<zone xml:id="f001_z000" ulx="1451.872802734375" uly="27.70250129699707" lrx="1527.0728759765625" lry="95.18980407714844"/>
+			<zone xml:id="f001_z001" ulx="543.5509033203125" uly="416.7939147949219" lrx="591.756103515625" lry="463.0709228515625"/>
+			<zone xml:id="f001_z002" ulx="543.5509033203125" uly="337.73736572265625" lrx="763.36669921875" lry="411.0093078613281"/>
+			<zone xml:id="f001_z003" ulx="614.8946533203125" uly="522.8453979492188" lrx="736.3717651367188" lry="598.0455322265625"/>
+			<zone xml:id="f001_z004" ulx="713.2332763671875" uly="702.1688232421875" lrx="790.3616333007812" lry="790.8663940429688"/>
+			<zone xml:id="f001_z005" ulx="682.3819580078125" uly="650.107177734375" lrx="786.5051879882812" lry="717.594482421875"/>
+			<zone xml:id="f001_z006" ulx="788.4334106445312" uly="706.0252075195312" lrx="830.85400390625" lry="773.5125122070312"/>
+			<zone xml:id="f001_z007" ulx="523.9374389648438" uly="1115.76953125" lrx="572.1426391601562" lry="1146.620849609375"/>
+			<zone xml:id="f001_z008" ulx="572.1426391601562" uly="1054.06689453125" lrx="670.4812622070312" lry="1096.4874267578125"/>
+			<zone xml:id="f001_z009" ulx="361.9678955078125" uly="1142.7645263671875" lrx="468.01934814453125" lry="1187.11328125"/>
+			<zone xml:id="f001_z010" ulx="12.800006866455078" uly="1228.3199462890625" lrx="307.837646484375" lry="1303.584716796875">
+				<note>"visible frame" added later </note>
+			</zone>
+			<zone xml:id="f001_z011" ulx="1207.6424560546875" uly="1234.9959716796875" lrx="1287.4229736328125" lry="1299.7236328125"/>
+			<zone xml:id="f001_z012" ulx="1248.285400390625" uly="1204.89013671875" lrx="1332.581787109375" lry="1257.575439453125"/>
+			<zone xml:id="f001_z013" ulx="1285.917724609375" uly="1266.607177734375" lrx="1331.0765380859375" lry="1319.29248046875"/>
+			<zone xml:id="f001_z014" ulx="1465.0477294921875" uly="1262.09130859375" lrx="1523.754150390625" lry="1314.776611328125"/>
+			<zone xml:id="f001_z015" ulx="1370.2142333984375" uly="1194.35302734375" lrx="1537.3017578125" lry="1263.5965576171875"/>
+			<zone xml:id="f001_z016" ulx="184.0425567626953" uly="1376.49365234375" lrx="414.3525390625" lry="1447.242431640625"/>
+			<zone xml:id="f001_z017" ulx="358.6566467285156" uly="1341.871826171875" lrx="497.1437072753906" lry="1403.5889892578125"/>
+			<zone xml:id="f001_z018" ulx="415.8578186035156" uly="1417.1365966796875" lrx="459.5113525390625" lry="1471.3271484375"/>
+			<zone xml:id="f001_z019" ulx="403.8154602050781" uly="1477.348388671875" lrx="945.7213134765625" lry="1517.9913330078125"/>
+			<zone xml:id="f001_z020" ulx="464.0272216796875" uly="1439.7159423828125" lrx="670.2525024414062" lry="1477.348388671875"/>
+			<zone xml:id="f001_z021" ulx="938.19482421875" uly="1495.411865234375" lrx="980.3430786132812" lry="1543.581298828125"/>
+			<zone xml:id="f001_z022" ulx="263.2704162597656" uly="1708.31689453125" lrx="395.73626708984375" lry="1761.002197265625"/>
+			<zone xml:id="f001_z023" ulx="483.0433349609375" uly="1779.065673828125" lrx="653.1415405273438" lry="1840.78271484375"/>
+			<zone xml:id="f001_z024" ulx="1077.6343994140625" uly="1813.6875" lrx="1119.78271484375" lry="1852.8250732421875"/>
+			<zone xml:id="f001_z025" ulx="1121.2879638671875" uly="1739.9281005859375" lrx="1274.827880859375" lry="1782.0762939453125"/>
+			<zone xml:id="f001_z026" ulx="1119.78271484375" uly="1782.0762939453125" lrx="1440.4102783203125" lry="1848.3092041015625"/>
+			<zone xml:id="f001_z027" ulx="166.9315948486328" uly="1848.3092041015625" lrx="252.7333526611328" lry="1905.5103759765625"/>
+			<zone xml:id="f001_z028" ulx="294.881591796875" uly="1824.2244873046875" lrx="356.5986328125" lry="1869.38330078125"/>
+			<zone xml:id="f001_z029" ulx="337.0298156738281" uly="1887.4468994140625" lrx="385.19921875" lry="1928.08984375"/>
+			<zone xml:id="f001_z030" ulx="1362.6641845703125" uly="2114.340576171875" lrx="1421.37060546875" lry="2153.478271484375"/>
+			<zone xml:id="f001_z031" ulx="986.3406982421875" uly="2046.602294921875" lrx="1350.621826171875" lry="2081.22412109375"/>
+			<zone xml:id="f001_z032" ulx="83.16434478759766" uly="2164.01513671875" lrx="600.9854736328125" lry="2240.78515625"/>
 		</surface>
 		<surface xml:id="f002" ulx="0" uly="0" lrx="1571" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p2">
 			<label>f002</label>
@@ -133,6 +206,12 @@
 		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p27">
 			<label>f027</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/055.tiff"/>
+			<zone xml:id="f027_z000" ulx="1831.8740234375" uly="27.52688217163086" lrx="2000.9677734375" lry="110.10752868652344">
+				<note>folio number</note>
+			</zone>
+			<zone xml:id="f027_z001" ulx="87.23246765136719" uly="30.99001121520996" lrx="727.2733764648438" lry="110.00740814208984">
+				<note>deleted "infinite subjects"</note>
+			</zone>
 		</surface>
 		<surface xml:id="f028" ulx="0" uly="0" lrx="1787" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p28">
 			<label>f028</label>
@@ -339,7 +418,7 @@
 		<body>
 			<div type="leaf">
 				<p><pb facs="#f001"/> <metamark function="folio" n="2">2</metamark></p>
-				<p>what would be the right name to put on the title-page of an excellent book, but this I feel, that <lb/>the names of all fine authors are fictitious ones, far <lb/>more so than that of <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z001" hand="metadata#HM" place="above" rend="caret">Junius</add> -- simply standing, as they do, for the <lb/> mystical, ever-eluding Spirit of all Beauty, which <lb/> ubiquitously possesses <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z002" hand="metadata#HM" rend="multi-stroke">all</del> men of genius. Purely imaginative <lb/> as this fancy may appear, it nevertheless seems to <lb/> receive some warrantry <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z003" hand="metadata#HM" rend="multi-stroke">by</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z004" hand="metadata#HM" place="above" rend="caret">from</add> the fact, that on a personal <lb/> interview no great author has ever come up to the <lb/> idea of his reader. But that dust of which our <lb/> bodies are composed, how can it fitly express <lb/> the nobler intelligences among us? With reverence be <lb/> it spoken, that <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z005" hand="metadata#HM" place="above" rend="caret">not</add> even in the case of one deemed <lb/> more than<add change="metadata#StB" hand="metadata#HM" place="above" rend="no-caret"><del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z006" hand="metadata#HM" rend="single-stroke">ma</del></add>man, not even in our Saviour, did his <lb/> visible frame betoken anything of the augustness of <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z007" hand="metadata#HM" rend="multi-stroke">his</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z008" hand="metadata#HM">the</add> nature <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z009" hand="metadata#HM" place="above" rend="caret">within</add>. <lb/> Else, how could those Jewish eyewitnesses fail to <lb/> see <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z010" hand="metadata#HM" rend="multi-stroke">the God</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z011" hand="metadata#HM" place="above" rend="caret">heaven</add> in his glance.</p>
+				<p>what would be the right name to put on the<lb/> title-page of an excellent book, but this I feel, that <lb/>the names of all fine authors are fictitious ones, far <lb/>more so than that of <metamark change="metadata#StB" facs="#f001_z001" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z002" hand="metadata#HM" place="above" rend="caret">Junius--</add> simply standing, as they do, for the <lb/> mystical, ever-eluding Spirit of all Beauty, which <lb/> ubiquitously possesses <del change="metadata#StB" facs="#f001_z003" hand="metadata#HM" rend="multi-stroke">all</del> men of genius. Purely <reg>imaginative</reg> <orig>imagina<lb/> tive</orig> as this fancy may appear, it nevertheless seems to <lb/> receive some warrantry <del change="metadata#StB" facs="#f001_z004" hand="metadata#HM" rend="multi-stroke">by</del> <metamark change="metadata#StB" facs="#f001_z006" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z005" hand="metadata#HM" place="above" rend="caret">from</add> the fact, that on a personal <lb/> interview no great author has ever come up to the <lb/> idea of his reader. But that dust of which our <lb/> bodies are composed, how can it fitly express <lb/> the nobler intelligences among us? With reverence be <lb/> it spoken, that <metamark change="metadata#StB" facs="#f001_z007" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z008" hand="metadata#HM" place="above" rend="caret">not</add> even in the case of one deemed <lb/> more than <add change="metadata#StB" facs="#f001_z009" hand="metadata#HM" place="above" rend="no-caret"><del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z006" hand="metadata#HM" rend="single-stroke">ma</del></add>man, not even in our Saviour, did his <lb/> <add facs="#f001_z010" place="margin" rend="no-caret"><ref target="note_3da741266f39495296dd0923dd0f028f">visible frame</ref></add><note xml:id="note_3da741266f39495296dd0923dd0f028f">Given the irregular spacing of these two words, NN (p. 663) suggests it is likely that ESM left this space blank and later inserted "visible frame" afterward. </note> betoken anything of the augustness of <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z007" hand="metadata#HM" rend="multi-stroke">his</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z008" hand="metadata#HM">the</add> nature <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z009" hand="metadata#HM" place="above" rend="caret">within</add>. <lb/> Else, how could those Jewish eyewitnesses fail to <lb/> see <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z010" hand="metadata#HM" rend="multi-stroke">the God</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z011" hand="metadata#HM" place="above" rend="caret">heaven</add> in his glance.</p>
 				<p><del change="metadata#StA" hand="metadata#ESM" rend="erasure">I</del> It is <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z012" hand="metadata#HM" rend="single-stroke">very wonderful but</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add facs="iiifmossesmanifest.json#f001_z013">curious, how</add> a man may travel <lb/> along a country road, and yet miss the grandest, <lb/> or sweetest of prospects, by reason of an intervening <lb/> hedge, <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z014" hand="metadata#HM" rend="single-stroke">even</del> so like all other hedges, as in no way <lb/> to hint of the <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z015" hand="metadata#HM" rend="multi-stroke">wild</del> wide landscape <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z017" hand="metadata#ESM" place="above" rend="caret">beyond.</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z016" hand="metadata#HM" rend="single-stroke">behind it.</del> <lb/> So <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z018" hand="metadata#HM" rend="multi-stroke">it</del> has <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z019" place="above" rend="caret">it</add> been with me concerning the enchanting <lb/> landscape in the soul of this Hawthorne, this most <lb/> excellent Man of Mosses. His "Old Manse" has been <lb/> written now four years, but I never read it till <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z020" hand="metadata#HM" place="above" rend="caret">a day or two since.</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z021" hand="metadata#HM" rend="multi-stroke">the</del> <lb/> <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z022" hand="metadata#HM" rend="single-stroke">day before yesterday</del>. I had seen it in the book-stores -- <lb/> heard of it often -- even had it recommended to me <lb/> by a tasteful friend, as a rare, quiet book, perhaps <lb/> too deserving of popularity to be popular. But there are <lb/> so many books called "excellent," and so much</p>
 			</div>
 		</body>
@@ -347,10 +426,11 @@
 	<text xml:id="f000_diplo">
 		<body>
 			<div type="leaf">
-				<head><pb facs="#f000"/>Hawthorne and His Mosses </head>
-				<head>By a Virginian Spending July in Vermon</head>
-				<p>A papered chamber in a fine old farm- house--a mile from any other dwelling, and dipped to the eaves in foliage--surrounded by mountains, old woods, and Indian ponds,-- this, surely, is the place to write of Hawthorne. Some charm is in this northern air, for love and duty seem both impelling to the task. A man of a deep and noble nature has seized me in this seclusion. His wild, witch voice rings through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds, that sing in the larch trees at my window.</p>
-				<p>Would that all excellent books were foundlings, without father or mother, that so it might be, we could glorify them, without including their ostensible authors. Nor would any true man take exception to this; --least of all, he who writes,--"When the Artist rises high enough to achieve the Beautiful, the symbol by which he makes it perceptible to mortal senses becomes of little value in his eyes, while his spirit possesses itself in the enjoyment of the reality."</p>
+				<metamark change="#ms1" facs="#f000_z002" function="folio-number" n="1" place="right" rend="pencil">1</metamark>
+				<head><pb facs="#f000"/> <note><ref target="#f000_z000" type="compositor">Lyman</ref></note> Hawthorne &amp; His Mosses,</head>
+				<head>By a Virginian Spending July in Vermont</head>
+				<p>A papered chamber in a fine<lb/> old farm-house -- a mile from any other dwelling,<lb/> and dipped to the eaves in foliage -- surrounded by<lb/> mountains, old woods, and Indian ponds, -- this, surely, is<lb/> the place to write of Hawthorne. Some charm is in<lb/> this northern air, for love and duty seem both impelling<lb/> to the task. A man of a deep &amp; noble nature has seized<lb/> me in this seclusion. His wild, witch voice rings thro' me;<lb/> or, in softer cadences, I seem to hear it in the songs of<lb/> the hill-side birds, that sing in the larch trees at my<lb/> window.</p>
+				<p>Would that all excellent books were foundlings,<lb/> without father or mother, that so it might be, we<lb/> could glorify them, without including their <metamark>^</metamark><add change="ms1" facs="#f000_z001" hand="#hm" place="above" rend="caret">ostensible</add> authors. Nor<lb/> would any true man take exception to this; -- least of all,<lb/> he who writes, -- <ref target="note_95c7b9ada4214c3ba8fa892d5ef3bb20">"When the Artist rises high enough to<lb/> achieve the Beautiful, the symbol by which he makes it<lb/> perceptible to mortal senses becomes of little value in his<lb/> eyes, while his spirit possesses itself in the enjoyment<lb/> of the reality."</ref><note type="editorial" xml:id="note_95c7b9ada4214c3ba8fa892d5ef3bb20">HM did not mark this passage in his copy of Mosses from an Old Manse. This is the final line from "The Artist of the Beautiful, on which Melville left marginalia on four pages. Melville mistakenly capitalized "artist" and switched tenses in copying the sentence -- "When the artist rose enough to achieve the Beautiful, the symbol by which he made it perceptible to mortal senses became of little value in his eyes, while his spirit possessed itself in the enjoyment of the reality" (p. 191 in HM's 1846 Wiley &amp; Putnam edition).</note></p>
 				<p>But more than this. I know not</p>
 			</div>
 		</body>
@@ -408,8 +488,46 @@
 	<text xml:id="f027_diplo">
 		<body>
 			<div type="leaf">
-				<p><pb facs="#f027"/>26 </p>
-				<p>By some people, this entire scrawl of mine may be esteemed altogether unnecessary, inasmuch, "as years ago" (they may say) "we found out the rich and rare stuff in this Hawthorne, whom you now parade forth, as if only yourself were the discoverer of this Portuguese diamond in our Literature."--But even granting all this; and adding to it, the assumption that the books of Hawthorne have sold by the five-thousand,--what does that signify? They should be sold by the hundred-thousand; and read by the million; and admired by every one who is capable of admiration.</p>
+				<p>
+					<pb facs="#f027"/>
+				</p>
+				<metamark change="#ms1" facs="#f027_z000" function="folio" n="26" place="right" rend="pencil">26</metamark>
+				<p><del change="#ms1" facs="#f027_z001" hand="#hm" rend="strikethrough">infinite subject.</del> By some people, this entire scrawl of mine may be esteemed altogether unnecessary, inasmuch, "as years ago" (they may say) "we found out the rich and rare stuff in this Hawthorne, whom you now parade forth, as if only yourself were the discoverer of this Portuguese diamond in our Literature."--But even granting all this; and adding to it, the assumption that the books of Hawthorne have sold by the five-thousand,--what does that signify? They should be sold by the hundred-thousand; and read by the million; and admired by every one who is capable of admiration.</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="f000_base">
+		<body>
+			<div type="leaf">
+				<pb facs="#f000"/>
+				<head>Hawthorne &amp; His Mosses,</head>
+				<head>By a Virginian Spending July in Vermont</head>
+				<p>A papered chamber in a fine<lb/> old farm-house -- a mile from any other dwelling,<lb/> and dipped to the eaves in foliage -- surrounded by<lb/> mountains, old woods, and Indian ponds, -- this, surely, is<lb/> the place to write of Hawthorne. Some charm is in<lb/> this northern air, for love and duty seem both impelling<lb/> to the task. A man of a deep &amp; noble nature has seized<lb/> me in this seclusion. His wild, witch voice rings thro' me;<lb/> or, in softer cadences, I seem to hear it in the songs of<lb/> the hill-side birds, that sing in the larch trees at my<lb/> window.</p>
+				<p>Would that all excellent books were foundlings,<lb/> without father or mother, that so it might be, we<lb/> could glorify them, without including their ostensible authors. Nor<lb/> would any true man take exception to this; -- least of all,<lb/> he who writes, -- "When the Artist rises high enough to<lb/> achieve the Beautiful, the symbol by which he makes it<lb/> perceptible to mortal senses becomes of little value in his<lb/> eyes, while his spirit possesses itself in the enjoyment<lb/> of the reality."</p>
+				<p>But more than this. I know not</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="f001_base">
+		<body>
+			<div type="leaf">
+				<p>
+					<pb facs="#f001"/>
+				</p>
+				<p>what would be the right name to put on the title-page of an excellent book, but this I feel, that <lb/>the names of all fine authors are fictitious ones, far <lb/>more so than that of Junius -- simply standing, as they do, for the <lb/> mystical, ever-eluding Spirit of all Beauty, which <lb/> ubiquitously possesses men of genius. Purely imaginative <lb/> as this fancy may appear, it nevertheless seems to <lb/> receive some warrantry from the fact, that on a personal <lb/> interview no great author has ever come up to the <lb/> idea of his reader. But that dust of which our <lb/> bodies are composed, how can it fitly express <lb/> the nobler intelligences among us? With reverence be <lb/> it spoken, that not even in the case of one deemed <lb/> more thanman, not even in our Saviour, did his <lb/> visible frame betoken anything of the augustness of the nature within. <lb/> Else, how could those Jewish eyewitnesses fail to <lb/> see heaven in his glance.</p>
+				<p>It is curious, how a man may travel <lb/> along a country road, and yet miss the grandest, <lb/> or sweetest of prospects, by reason of an intervening <lb/> hedge, so like all other hedges, as in no way <lb/> to hint of the wide landscape beyond.<lb/> So has it been with me concerning the enchanting <lb/> landscape in the soul of this Hawthorne, this most <lb/> excellent Man of Mosses. His "Old Manse" has been <lb/> written now four years, but I never read it till a day or two since.<lb/>. I had seen it in the book-stores -- <lb/> heard of it often -- even had it recommended to me <lb/> by a tasteful friend, as a rare, quiet book, perhaps <lb/> too deserving of popularity to be popular. But there are <lb/> so many books called "excellent," and so much</p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="f000_lw">
+		<body>
+			<div type="leaf">
+				<pb facs="#f000"/>
+				<head>HAWTHORNE AND HIS MOSSES.</head>
+				<head><hi rend="small-caps">by a virginian spending july in vermont</hi>.</head>
+				<p><hi rend="small-caps">A papered</hi> chamber in a fine old farm-house,<lb/> a mile from any other dwelling, and dipped to <lb/> the eaves in foliage--surrounded by moun-<lb/>tains, old woods, and Indian ponds,--this, surely, is the place to write of Hawthorne.<lb/> Some charm is in this northern air, for love<lb/> and duty seem both impelling to the task. A<lb/> man of a deep and noble nature has seized me<lb/> in this seclusion. His wild, witch-voice rings <lb/> through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds <lb/> that sing in the larch trees at my window.</p>
+				<p>Would that all excellent books were found-<lb/>lings, without father or mother, that so it<lb/> might be we could glorify them, without in-<lb/>cluding their ostensible authors!<note>HM had used a full-stop in the MS.</note> Nor would<lb/> any true man take exception to this; least of<lb/> all, he who writes, "When the Artist rises high<lb/> enough to achieve the Beautiful, the symbol by<lb/> which he makes it perceptible to mortal senses<lb/> becomes of little value in his eyes, while his<lb/> spirit possesses itself in the enjoyment of the reality."</p>
+				<p>But more than this. I know not</p>
 			</div>
 		</body>
 	</text>

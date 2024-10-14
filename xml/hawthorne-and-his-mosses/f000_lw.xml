@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<text>
+		<body>
+			<div type="leaf">
+				<pb facs="#f000"/>
+				<head>HAWTHORNE AND HIS MOSSES.</head>
+				<head><hi rend="small-caps">by a virginian spending july in vermont</hi>.</head>
+				<p><hi rend="small-caps">A papered</hi> chamber in a fine old farm-house,<lb/> a mile from any other dwelling, and dipped to <lb/> the eaves in foliage--surrounded by moun-<lb/>tains, old woods, and Indian ponds,--this, surely, is the place to write of Hawthorne.<lb/> Some charm is in this northern air, for love<lb/> and duty seem both impelling to the task. A<lb/> man of a deep and noble nature has seized me<lb/> in this seclusion. His wild, witch-voice rings <lb/> through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds <lb/> that sing in the larch trees at my window.</p>
+				<p>Would that all excellent books were found-<lb/>lings, without father or mother, that so it<lb/> might be we could glorify them, without in-<lb/>cluding their ostensible authors!<note>HM had used a full-stop in the MS.</note> Nor would<lb/> any true man take exception to this; least of<lb/> all, he who writes, "When the Artist rises high<lb/> enough to achieve the Beautiful, the symbol by<lb/> which he makes it perceptible to mortal senses<lb/> becomes of little value in his eyes, while his<lb/> spirit possesses itself in the enjoyment of the reality."</p>
+				<p>But more than this. I know not</p>
+			</div>
+		</body>
+	</text>
+</TEI>
