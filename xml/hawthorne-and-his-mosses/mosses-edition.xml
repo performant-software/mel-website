@@ -1,5 +1,5 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<teiHeader>
+	<teiHeader xml:id="header">
 		<fileDesc>
 			<titleStmt>
 				<title>Versions of "Hawthorne and His Mosses"</title>
@@ -9,7 +9,7 @@
 				<editor role="associate" xml:id="BH">Brandon Hurst</editor>
 				<editor role="assistant" xml:id="YS">Yuying Shen</editor>
 				<editor role="assistant" xml:id="YC">Yihong Cai</editor>
-			</titleStmt>  
+			</titleStmt>
 			<publicationStmt>
 				<p>Melville Electronic Library</p>
 			</publicationStmt>
@@ -31,7 +31,7 @@
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
-			<creation><!-- manuscript revisions and genetic stages -->
+			<creation>
 				<listChange>
 					<change xml:id="StA">Fair copy stage by Elizabeth Shaw Melville</change>
 					<change xml:id="StB">Revisions by Herman Melville and Elizabeth Shaw Melville</change>
@@ -50,186 +50,6 @@
 			</div>
 		</body>
 	</text>
-	<facsimile sameAs="https://melville.electroniclibrary.org/iiif/mosses/manifest.json" xml:id="IIIF_Hawthorneand_His_Mosses">
-		<surface xml:id="f000" ulx="0" uly="0" lrx="1560" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p0">
-			<label>f000</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/001.tiff"/>
-			<zone xml:id="f000_z000" ulx="288.44854736328125" uly="196.62059020996094" lrx="736.7434692382812" lry="405.0384216308594">
-				<note>Compositor's note, "Lyman"</note>
-			</zone>
-			<zone xml:id="f000_z001" ulx="1169.447509765625" uly="1928.6807861328125" lrx="1372.3642578125" lry="1985.5733642578125">
-				<note>"ostensible" added above (with caret)</note>
-			</zone>
-			<zone xml:id="f000_z002" ulx="1460.3072509765625" uly="21.812597274780273" lrx="1546.8203125" lry="92.59600830078125">
-				<note>folio mark</note>
-			</zone>
-		</surface>
-		<surface xml:id="f001" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p1">
-			<label>f001</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/003.tiff"/>
-			<zone xml:id="f001_z000" ulx="1451.872802734375" uly="27.70250129699707" lrx="1527.0728759765625" lry="95.18980407714844"/>
-			<zone xml:id="f001_z001" ulx="543.5509033203125" uly="416.7939147949219" lrx="591.756103515625" lry="463.0709228515625"/>
-			<zone xml:id="f001_z002" ulx="543.5509033203125" uly="337.73736572265625" lrx="763.36669921875" lry="411.0093078613281"/>
-			<zone xml:id="f001_z003" ulx="614.8946533203125" uly="522.8453979492188" lrx="736.3717651367188" lry="598.0455322265625"/>
-			<zone xml:id="f001_z004" ulx="713.2332763671875" uly="702.1688232421875" lrx="790.3616333007812" lry="790.8663940429688"/>
-			<zone xml:id="f001_z005" ulx="682.3819580078125" uly="650.107177734375" lrx="786.5051879882812" lry="717.594482421875"/>
-			<zone xml:id="f001_z006" ulx="788.4334106445312" uly="706.0252075195312" lrx="830.85400390625" lry="773.5125122070312"/>
-			<zone xml:id="f001_z007" ulx="523.9374389648438" uly="1115.76953125" lrx="572.1426391601562" lry="1146.620849609375"/>
-			<zone xml:id="f001_z008" ulx="572.1426391601562" uly="1054.06689453125" lrx="670.4812622070312" lry="1096.4874267578125"/>
-			<zone xml:id="f001_z009" ulx="361.9678955078125" uly="1142.7645263671875" lrx="468.01934814453125" lry="1187.11328125"/>
-			<zone xml:id="f001_z010" ulx="12.800006866455078" uly="1228.3199462890625" lrx="307.837646484375" lry="1303.584716796875">
-				<note>"visible frame" added later </note>
-			</zone>
-			<zone xml:id="f001_z011" ulx="1207.6424560546875" uly="1234.9959716796875" lrx="1287.4229736328125" lry="1299.7236328125"/>
-			<zone xml:id="f001_z012" ulx="1248.285400390625" uly="1204.89013671875" lrx="1332.581787109375" lry="1257.575439453125"/>
-			<zone xml:id="f001_z013" ulx="1285.917724609375" uly="1266.607177734375" lrx="1331.0765380859375" lry="1319.29248046875"/>
-			<zone xml:id="f001_z014" ulx="1465.0477294921875" uly="1262.09130859375" lrx="1523.754150390625" lry="1314.776611328125"/>
-			<zone xml:id="f001_z015" ulx="1370.2142333984375" uly="1194.35302734375" lrx="1537.3017578125" lry="1263.5965576171875"/>
-			<zone xml:id="f001_z016" ulx="184.0425567626953" uly="1376.49365234375" lrx="414.3525390625" lry="1447.242431640625"/>
-			<zone xml:id="f001_z017" ulx="358.6566467285156" uly="1341.871826171875" lrx="497.1437072753906" lry="1403.5889892578125"/>
-			<zone xml:id="f001_z018" ulx="415.8578186035156" uly="1417.1365966796875" lrx="459.5113525390625" lry="1471.3271484375"/>
-			<zone xml:id="f001_z019" ulx="403.8154602050781" uly="1477.348388671875" lrx="945.7213134765625" lry="1517.9913330078125"/>
-			<zone xml:id="f001_z020" ulx="464.0272216796875" uly="1439.7159423828125" lrx="670.2525024414062" lry="1477.348388671875"/>
-			<zone xml:id="f001_z021" ulx="938.19482421875" uly="1495.411865234375" lrx="980.3430786132812" lry="1543.581298828125"/>
-			<zone xml:id="f001_z022" ulx="263.2704162597656" uly="1708.31689453125" lrx="395.73626708984375" lry="1761.002197265625"/>
-			<zone xml:id="f001_z023" ulx="483.0433349609375" uly="1779.065673828125" lrx="653.1415405273438" lry="1840.78271484375"/>
-			<zone xml:id="f001_z024" ulx="1077.6343994140625" uly="1813.6875" lrx="1119.78271484375" lry="1852.8250732421875"/>
-			<zone xml:id="f001_z025" ulx="1121.2879638671875" uly="1739.9281005859375" lrx="1274.827880859375" lry="1782.0762939453125"/>
-			<zone xml:id="f001_z026" ulx="1119.78271484375" uly="1782.0762939453125" lrx="1440.4102783203125" lry="1848.3092041015625"/>
-			<zone xml:id="f001_z027" ulx="166.9315948486328" uly="1848.3092041015625" lrx="252.7333526611328" lry="1905.5103759765625"/>
-			<zone xml:id="f001_z028" ulx="294.881591796875" uly="1824.2244873046875" lrx="356.5986328125" lry="1869.38330078125"/>
-			<zone xml:id="f001_z029" ulx="337.0298156738281" uly="1887.4468994140625" lrx="385.19921875" lry="1928.08984375"/>
-			<zone xml:id="f001_z030" ulx="1362.6641845703125" uly="2114.340576171875" lrx="1421.37060546875" lry="2153.478271484375"/>
-			<zone xml:id="f001_z031" ulx="986.3406982421875" uly="2046.602294921875" lrx="1350.621826171875" lry="2081.22412109375"/>
-			<zone xml:id="f001_z032" ulx="83.16434478759766" uly="2164.01513671875" lrx="600.9854736328125" lry="2240.78515625"/>
-		</surface>
-		<surface xml:id="f002" ulx="0" uly="0" lrx="1571" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p2">
-			<label>f002</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/005.tiff"/>
-		</surface>
-		<surface xml:id="f003" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p3">
-			<label>f003</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/007.tiff"/>
-		</surface>
-		<surface xml:id="f004" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p4">
-			<label>f004</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/009.tiff"/>
-		</surface>
-		<surface xml:id="f005" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p5">
-			<label>f005</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/011.tiff"/>
-		</surface>
-		<surface xml:id="f006" ulx="0" uly="0" lrx="1571" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p6">
-			<label>f006</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/013.tiff"/>
-		</surface>
-		<surface xml:id="f007" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p7">
-			<label>f007</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/015.tiff"/>
-		</surface>
-		<surface xml:id="f008" ulx="0" uly="0" lrx="1566" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p8">
-			<label>f008</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/017.tiff"/>
-		</surface>
-		<surface xml:id="f009" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p9">
-			<label>f009</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/019.tiff"/>
-		</surface>
-		<surface xml:id="f010" ulx="0" uly="0" lrx="1559" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p10">
-			<label>f010</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/021.tiff"/>
-		</surface>
-		<surface xml:id="f011" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p11">
-			<label>f011</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/023.tiff"/>
-		</surface>
-		<surface xml:id="f012" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p12">
-			<label>f012</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/025.tiff"/>
-		</surface>
-		<surface xml:id="f013" ulx="0" uly="0" lrx="2560" lry="2478" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p13">
-			<label>f013</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/027.tiff"/>
-		</surface>
-		<surface xml:id="f014" ulx="0" uly="0" lrx="1465" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p14">
-			<label>f014</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/029.tiff"/>
-		</surface>
-		<surface xml:id="f015" ulx="0" uly="0" lrx="2559" lry="1092" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p15">
-			<label>f015</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/031.tiff"/>
-		</surface>
-		<surface xml:id="f016" ulx="0" uly="0" lrx="1542" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p16">
-			<label>f016</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/033.tiff"/>
-		</surface>
-		<surface xml:id="f017" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p17">
-			<label>f017</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/035.tiff"/>
-		</surface>
-		<surface xml:id="f018" ulx="0" uly="0" lrx="1564" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p18">
-			<label>f018</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/037.tiff"/>
-		</surface>
-		<surface xml:id="f019" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p19">
-			<label>f019</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/039.tiff"/>
-		</surface>
-		<surface xml:id="f020" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p20">
-			<label>f020</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/041.tiff"/>
-		</surface>
-		<surface xml:id="f021" ulx="0" uly="0" lrx="1558" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p21">
-			<label>f021</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/043.tiff"/>
-		</surface>
-		<surface xml:id="f022" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p22">
-			<label>f022</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/045.tiff"/>
-		</surface>
-		<surface xml:id="f023" ulx="0" uly="0" lrx="1555" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p23">
-			<label>f023</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/047.tiff"/>
-		</surface>
-		<surface xml:id="f024" ulx="0" uly="0" lrx="1552" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p24">
-			<label>f024</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/049.tiff"/>
-		</surface>
-		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p25">
-			<label>f025</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/051.tiff"/>
-		</surface>
-		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
-			<label>f026</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/053.tiff"/>
-		</surface>
-		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p27">
-			<label>f027</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/055.tiff"/>
-			<zone xml:id="f027_z000" ulx="1831.8740234375" uly="27.52688217163086" lrx="2000.9677734375" lry="110.10752868652344">
-				<note>folio number</note>
-			</zone>
-			<zone xml:id="f027_z001" ulx="87.23246765136719" uly="30.99001121520996" lrx="727.2733764648438" lry="110.00740814208984">
-				<note>deleted "infinite subjects"</note>
-			</zone>
-		</surface>
-		<surface xml:id="f028" ulx="0" uly="0" lrx="1787" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p28">
-			<label>f028</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/057.tiff"/>
-		</surface>
-		<surface xml:id="f029" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p29">
-			<label>f029</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/059.tiff"/>
-		</surface>
-		<surface xml:id="f030" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p30">
-			<label>f030</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/061.tiff"/>
-		</surface>
-		<surface xml:id="f031" ulx="0" uly="0" lrx="1672" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p31">
-			<label>f031</label>
-			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/063.tiff"/>
-		</surface>
-	</facsimile>
 	<text xml:id="f021_diplo">
 		<body>
 			<div type="leaf">
@@ -417,9 +237,9 @@
 	<text xml:id="f001_diplo">
 		<body>
 			<div type="leaf">
-				<p><pb facs="#f001"/> <metamark function="folio" n="2">2</metamark></p>
-				<p>what would be the right name to put on the<lb/> title-page of an excellent book, but this I feel, that <lb/>the names of all fine authors are fictitious ones, far <lb/>more so than that of <metamark change="metadata#StB" facs="#f001_z001" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z002" hand="metadata#HM" place="above" rend="caret">Junius--</add> simply standing, as they do, for the <lb/> mystical, ever-eluding Spirit of all Beauty, which <lb/> ubiquitously possesses <del change="metadata#StB" facs="#f001_z003" hand="metadata#HM" rend="multi-stroke">all</del> men of genius. Purely <reg>imaginative</reg> <orig>imagina<lb/> tive</orig> as this fancy may appear, it nevertheless seems to <lb/> receive some warrantry <del change="metadata#StB" facs="#f001_z004" hand="metadata#HM" rend="multi-stroke">by</del> <metamark change="metadata#StB" facs="#f001_z006" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z005" hand="metadata#HM" place="above" rend="caret">from</add> the fact, that on a personal <lb/> interview no great author has ever come up to the <lb/> idea of his reader. But that dust of which our <lb/> bodies are composed, how can it fitly express <lb/> the nobler intelligences among us? With reverence be <lb/> it spoken, that <metamark change="metadata#StB" facs="#f001_z007" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z008" hand="metadata#HM" place="above" rend="caret">not</add> even in the case of one deemed <lb/> more than <add change="metadata#StB" facs="#f001_z009" hand="metadata#HM" place="above" rend="no-caret"><del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z006" hand="metadata#HM" rend="single-stroke">ma</del></add>man, not even in our Saviour, did his <lb/> <add facs="#f001_z010" place="margin" rend="no-caret"><ref target="note_3da741266f39495296dd0923dd0f028f">visible frame</ref></add><note xml:id="note_3da741266f39495296dd0923dd0f028f">Given the irregular spacing of these two words, NN (p. 663) suggests it is likely that ESM left this space blank and later inserted "visible frame" afterward. </note> betoken anything of the augustness of <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z007" hand="metadata#HM" rend="multi-stroke">his</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z008" hand="metadata#HM">the</add> nature <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z009" hand="metadata#HM" place="above" rend="caret">within</add>. <lb/> Else, how could those Jewish eyewitnesses fail to <lb/> see <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z010" hand="metadata#HM" rend="multi-stroke">the God</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z011" hand="metadata#HM" place="above" rend="caret">heaven</add> in his glance.</p>
-				<p><del change="metadata#StA" hand="metadata#ESM" rend="erasure">I</del> It is <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z012" hand="metadata#HM" rend="single-stroke">very wonderful but</del> <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add facs="iiifmossesmanifest.json#f001_z013">curious, how</add> a man may travel <lb/> along a country road, and yet miss the grandest, <lb/> or sweetest of prospects, by reason of an intervening <lb/> hedge, <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z014" hand="metadata#HM" rend="single-stroke">even</del> so like all other hedges, as in no way <lb/> to hint of the <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z015" hand="metadata#HM" rend="multi-stroke">wild</del> wide landscape <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z017" hand="metadata#ESM" place="above" rend="caret">beyond.</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z016" hand="metadata#HM" rend="single-stroke">behind it.</del> <lb/> So <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z018" hand="metadata#HM" rend="multi-stroke">it</del> has <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z019" place="above" rend="caret">it</add> been with me concerning the enchanting <lb/> landscape in the soul of this Hawthorne, this most <lb/> excellent Man of Mosses. His "Old Manse" has been <lb/> written now four years, but I never read it till <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="iiifmossesmanifest.json#f001_z020" hand="metadata#HM" place="above" rend="caret">a day or two since.</add> <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z021" hand="metadata#HM" rend="multi-stroke">the</del> <lb/> <del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z022" hand="metadata#HM" rend="single-stroke">day before yesterday</del>. I had seen it in the book-stores -- <lb/> heard of it often -- even had it recommended to me <lb/> by a tasteful friend, as a rare, quiet book, perhaps <lb/> too deserving of popularity to be popular. But there are <lb/> so many books called "excellent," and so much</p>
+				<p><pb facs="#f001"/> <metamark facs="#f001_z000" function="folio" n="2">2</metamark></p>
+				<p>what would be the right name to put on the<lb/> title-page of an excellent book, but this I feel, that <lb/>the names of all fine authors are fictitious ones, far <lb/>more so than that of <metamark change="metadata#StB" facs="#f001_z001" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z002" hand="metadata#HM" place="above" rend="caret">Junius--</add> simply standing, as they do, for the <lb/> mystical, ever-eluding Spirit of all Beauty, which <lb/> ubiquitously possesses <del change="metadata#StB" facs="#f001_z003" hand="metadata#HM" rend="multi-stroke">all</del> men of genius. Purely <reg>imaginative</reg> <orig>imagina<lb/> tive</orig> as this fancy may appear, it nevertheless seems to <lb/> receive some warrantry <del change="metadata#StB" facs="#f001_z004" hand="metadata#HM" rend="multi-stroke">by</del> <metamark change="metadata#StB" facs="#f001_z006" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z005" hand="metadata#HM" place="above" rend="caret">from</add> the fact, that on a personal <lb/> interview no great author has ever come up to the <lb/> idea of his reader. But that dust of which our <lb/> bodies are composed, how can it fitly express <lb/> the nobler intelligences among us? With reverence be <lb/> it spoken, that <metamark change="metadata#StB" facs="#f001_z007" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z008" hand="metadata#HM" place="above" rend="caret">not</add> even in the case of one deemed <lb/> more than <add change="metadata#StB" facs="#f001_z009" hand="metadata#HM" place="above" rend="no-caret"><del change="metadata#StB" facs="iiifmossesmanifest.json#f001_z006" hand="metadata#HM" rend="single-stroke">ma</del></add>man, not even in our Saviour, did his <lb/> <add facs="#f001_z010" place="margin" rend="no-caret"><ref target="note_3da741266f39495296dd0923dd0f028f note_74d5a845d9ae4041bd1c33bfe085dacf">visible frame</ref></add><note xml:id="note_74d5a845d9ae4041bd1c33bfe085dacf">Given the irregular spacing of these two words, NN (p. 663) suggests it is likely that ESM left this space blank and later inserted "visible frame" afterward.</note> betoken anything of the augustness of <del change="metadata#StB" facs="#f001_z011" hand="metadata#HM" rend="multi-stroke">his</del> <metamark change="metadata#StB" facs="#f001_z013" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z012" hand="metadata#HM">the</add> nature <metamark change="metadata#StB" facs="#f001_z014" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z015" hand="metadata#HM" place="above" rend="caret">within</add>. <lb/> Else, how could those Jewish eyewitnesses fail to <lb/> see <del change="metadata#StB" facs="#f001_z016" hand="metadata#HM" rend="multi-stroke">the God</del> <metamark change="metadata#StB" facs="#f001_z018" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z017" hand="metadata#HM" place="above" rend="caret">heaven</add> in his glance.</p>
+				<p><del change="metadata#StA" hand="metadata#ESM" rend="erasure">I</del> It is <del change="metadata#StB" facs="#f001_z019" hand="metadata#HM" rend="single-stroke">very wonderful but</del> <metamark change="metadata#StB" facs="#f001_z021" function="caret" place="inline" rend="caret">^</metamark><add facs="#f001_z020">curious, how</add> a man may travel <lb/> along a country road, and yet miss the grandest, <lb/> or sweetest of prospects, by reason of an intervening <lb/> hedge, <del change="metadata#StB" facs="#f001_z022" hand="metadata#HM" rend="single-stroke">even</del> so like all other hedges, as in no way <lb/> to hint of the <del change="metadata#StB" facs="#f001_z023" hand="metadata#HM" rend="multi-stroke">wild</del> wide landscape <metamark change="metadata#StB" facs="#f001_z024" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z025" hand="metadata#ESM" place="above" rend="caret">beyond.</add> <del change="metadata#StB" facs="#f001_z026" hand="metadata#HM" rend="single-stroke">behind it.</del> <lb/> So <del change="metadata#StB" facs="#f001_z027" hand="metadata#HM" rend="multi-stroke">it</del> has <metamark change="metadata#StB" facs="#f001_z029" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z028" place="above" rend="caret">it</add> been with me concerning the enchanting <lb/> landscape in the soul of this Hawthorne, this most <lb/> excellent Man of Mosses. His "Old Manse" has been <lb/> written now four years, but I never read it till <metamark change="metadata#StB" function="caret" place="inline" rend="caret">^</metamark><add change="metadata#StB" facs="#f001_z031" hand="metadata#HM" place="above" rend="caret">a day or two since.</add> <del change="metadata#StB" facs="#f001_z033" hand="metadata#HM" rend="multi-stroke">the</del> <lb/> <del change="metadata#StB" facs="#f001_z032" hand="metadata#HM" rend="single-stroke">day before yesterday</del>. I had seen it in the book-stores -- <lb/> heard of it often -- even had it recommended to me <lb/> by a tasteful friend, as a rare, quiet book, perhaps <lb/> too deserving of popularity to be popular. But there are <lb/> so many books called "excellent," and so much</p>
 			</div>
 		</body>
 	</text>
@@ -439,7 +259,7 @@
 		<body>
 			<div type="leaf">
 				<p><pb facs="#f008"/>9</p>
-				<p>altogether tell. Certain it is, however, that this great power of blackness in him derives its force from its appeals to that Calvinistic sense of Innate Depravity and Original Sin, from whose visitations, in some shape or other, no deeply thinking mind is always and wholly free. For, in certain moods, no man can weigh this world, without throwing in something, somehow like Original Sin, to strike the uneven balance. At all events, perhaps no writer has ever wielded this terrific thought with greater terror than this same harmless Hawthorne. Still more: this black conceit pervades him, through and through. You may be witched by his sunlight,-- transported by the bright gildings in the skies he builds over you;--but there is the blackness of darkness beyond; and even his bright gildings but fringe, and play upon the edges of thunder-clouds.--In one word, the world is mistaken in this Nathaniel Hawthorne. He himself must often have smiled at its absurd misconception of him. He is immeasurably deeper than the plummet of the mere critic. For it is not the brain that can test such a man; it is only the heart. You cannot come to know greatness by inspecting it; there is no glimpse to be caught of it, except by intuition; you need not ring it, you but touch it, and you find it is gold. </p>
+				<p>altogether tell. Certain it is, however, that this great power of blackness in him derives its force from its appeals to that Calvinistic sense of Innate Depravity and Original Sin, from whose visitations, in some shape or other, no deeply thinking mind is always and wholly free. For, in certain moods, no man can weigh this world, without throwing in something, somehow like Original Sin, to strike the uneven balance. At all events, perhaps no writer has ever wielded this terrific thought with greater terror than this same harmless Hawthorne. Still more: this black conceit pervades him, through and through. You may be witched by his sunlight,-- transported by the bright gildings in the skies he builds over you;--but there is the blackness of darkness beyond; and even his bright gildings but fringe, and play upon the edges of thunder-clouds.--In one word, the world is mistaken in this Nathaniel Hawthorne. He himself must often have smiled at its absurd misconception of him. He is immeasurably deeper than the plummet of the mere critic. For it is not the brain that can test such a man; it is only the heart. You cannot come to know greatness by inspecting it; there is no glimpse to be caught of it, except by intuition; you need not ring it, you but touch it, and you find it is gold.</p>
 				<p>Now it is that blackness in Hawthorne, of which I have spoken, that so fixes and fascinates me. It may be, nevertheless, that it is too</p>
 			</div>
 		</body>
@@ -471,28 +291,6 @@
 				<p>Belshazzar's when he banquetted his lords in Babylon.</p>
 				<p>But my chief business now, is to point out a particular page in this piece, having reference to an honored guest, who under the name of "The Master Genius" but in the guise of "a young man of poor attire, with no insignia of rank or acknowledged eminence", is introduced to the Man of Fancy, who is the giver of the feast. Now the page having reference to this "Master Genius," so happily expresses much of what I yesterday wrote, touching the coming of the literary Shiloh of America, that I cannot but be charmed by the coincidence; especially, when it shows such a parity of ideas, at least in this one point, between a man like Hawthorne and a man like me.</p>
 				<p>And here, let me throw out another conceit of mine touching this American Shiloh, or "Master Genius," as Hawthorne calls him. May it not be, that this commanding mind has not been, is not, and never will be, individually developed in any one man? And would it, indeed, appear so unreasonable to suppose, that this great fullness and overflowing may be, or may be destined to be, shared by a plurality of men of genius? Surely, to take the very greatest example on record, Shakespeare cannot be regarded as in himself the concretion of all the genius of his time; nor as so immeasurably beyond Marlow, Webster, Ford, Beaumont, Jonson, that those great men can be said to share none of his power? For one, I conceive that there were dramatists in Elizabeth's day, between whom and Shakespeare the distance was by no means great. Let anyone, hitherto little acquainted with those neglected old authors, for the first time read them thoroughly, or even read Charles Lamb's Specimens of them, and he will</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="f026_diplo">
-		<body>
-			<div type="leaf">
-				<p><pb facs="#f026"/>25</p>
-				<p>be amazed at the wondrous ability of those Anaks of men, and shocked at this renewed example of the fact, that Fortune has more to do with fame than merit,-- though, without merit, lasting fame there can be none.</p>
-				<p>Nevertheless, it would argue too illy of my country were this maxim to hold good concerning Nathaniel Hawthorne, a man, who already, in some few minds, has shed "such a light, as never illuminates the earth, save when a great heart burns as the household fire of a grand intellect."</p>
-				<p>The words are his,--in the "Select Party"; and they are a magnificent setting to a coincident sentiment of my own, but ramblingly expressed yesterday, in reference to himself. Gainsay it who will, as I now write, I am Posterity speaking by proxy--and after times will make it more than good, when I declare--that the American, who up to the present day, has evinced, in Literature, the largest brain with the largest heart, that man is Nathaniel Hawthorne. Moreover, that whatever Nathaniel Hawthorne may hereafter write, "The Mosses from an Old Manse" will be ultimately accounted his masterpiece. For there is a sure, though a secret sign in some works which prove the culmination of the powers (only the developable ones, however) that produced them. But I am by no means desirous of the glory of a prophet. I pray Heaven that Hawthorne may yet prove me an impostor in this prediction. Especially, as I somehow cling to the strange fancy, that, in all men, hiddenly reside certain wondrous, occult properties--as in some plants and minerals--which by some happy but very rare accident (as bronze was discovered by the melting of the iron and brass in the burning of Corinth) may chance to be called forth here on earth; not entirely waiting for their better discovery in the more congenial, blessed atmosphere of heaven.</p>
-				<p>Once more--for it is hard to be finite upon an infinite subject, and all subjects are infinite.</p>
-			</div>
-		</body>
-	</text>
-	<text xml:id="f027_diplo">
-		<body>
-			<div type="leaf">
-				<p>
-					<pb facs="#f027"/>
-				</p>
-				<metamark change="#ms1" facs="#f027_z000" function="folio" n="26" place="right" rend="pencil">26</metamark>
-				<p><del change="#ms1" facs="#f027_z001" hand="#hm" rend="strikethrough">infinite subject.</del> By some people, this entire scrawl of mine may be esteemed altogether unnecessary, inasmuch, "as years ago" (they may say) "we found out the rich and rare stuff in this Hawthorne, whom you now parade forth, as if only yourself were the discoverer of this Portuguese diamond in our Literature."--But even granting all this; and adding to it, the assumption that the books of Hawthorne have sold by the five-thousand,--what does that signify? They should be sold by the hundred-thousand; and read by the million; and admired by every one who is capable of admiration.</p>
 			</div>
 		</body>
 	</text>
@@ -528,6 +326,208 @@
 				<p><hi rend="small-caps">A papered</hi> chamber in a fine old farm-house,<lb/> a mile from any other dwelling, and dipped to <lb/> the eaves in foliage--surrounded by moun-<lb/>tains, old woods, and Indian ponds,--this, surely, is the place to write of Hawthorne.<lb/> Some charm is in this northern air, for love<lb/> and duty seem both impelling to the task. A<lb/> man of a deep and noble nature has seized me<lb/> in this seclusion. His wild, witch-voice rings <lb/> through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds <lb/> that sing in the larch trees at my window.</p>
 				<p>Would that all excellent books were found-<lb/>lings, without father or mother, that so it<lb/> might be we could glorify them, without in-<lb/>cluding their ostensible authors!<note>HM had used a full-stop in the MS.</note> Nor would<lb/> any true man take exception to this; least of<lb/> all, he who writes, "When the Artist rises high<lb/> enough to achieve the Beautiful, the symbol by<lb/> which he makes it perceptible to mortal senses<lb/> becomes of little value in his eyes, while his<lb/> spirit possesses itself in the enjoyment of the reality."</p>
 				<p>But more than this. I know not</p>
+			</div>
+		</body>
+	</text>
+	<facsimile sameAs="https://melville.electroniclibrary.org/iiif/mosses/manifest.json" xml:id="IIIF_Hawthorneand_His_Mosses">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="1560" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p0">
+			<label>f000</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/001.tiff"/>
+			<zone xml:id="f000_z000" ulx="288.44854736328125" uly="196.62059020996094" lrx="736.7434692382812" lry="405.0384216308594">
+				<note>Compositor's note, "Lyman"</note>
+			</zone>
+			<zone xml:id="f000_z001" ulx="1169.447509765625" uly="1928.6807861328125" lrx="1372.3642578125" lry="1985.5733642578125">
+				<note>"ostensible" added above (with caret)</note>
+			</zone>
+			<zone xml:id="f000_z002" ulx="1460.3072509765625" uly="21.812597274780273" lrx="1546.8203125" lry="92.59600830078125">
+				<note>folio mark</note>
+			</zone>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p1">
+			<label>f001</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/003.tiff"/>
+			<zone xml:id="f001_z000" ulx="1451.872802734375" uly="27.70250129699707" lrx="1527.0728759765625" lry="95.18980407714844"/>
+			<zone xml:id="f001_z001" ulx="543.5509033203125" uly="416.7939147949219" lrx="591.756103515625" lry="463.0709228515625"/>
+			<zone xml:id="f001_z002" ulx="543.5509033203125" uly="337.73736572265625" lrx="763.36669921875" lry="411.0093078613281"/>
+			<zone xml:id="f001_z003" ulx="614.8946533203125" uly="522.8453979492188" lrx="736.3717651367188" lry="598.0455322265625"/>
+			<zone xml:id="f001_z004" ulx="713.2332763671875" uly="702.1688232421875" lrx="790.3616333007812" lry="790.8663940429688"/>
+			<zone xml:id="f001_z005" ulx="682.3819580078125" uly="650.107177734375" lrx="786.5051879882812" lry="717.594482421875"/>
+			<zone xml:id="f001_z006" ulx="788.4334106445312" uly="706.0252075195312" lrx="830.85400390625" lry="773.5125122070312"/>
+			<zone xml:id="f001_z007" ulx="523.9374389648438" uly="1115.76953125" lrx="572.1426391601562" lry="1146.620849609375"/>
+			<zone xml:id="f001_z008" ulx="572.1426391601562" uly="1054.06689453125" lrx="670.4812622070312" lry="1096.4874267578125"/>
+			<zone xml:id="f001_z009" ulx="361.9678955078125" uly="1142.7645263671875" lrx="468.01934814453125" lry="1187.11328125"/>
+			<zone xml:id="f001_z010" ulx="12.800006866455078" uly="1228.3199462890625" lrx="307.837646484375" lry="1303.584716796875">
+				<note>"visible frame" added later </note>
+			</zone>
+			<zone xml:id="f001_z011" ulx="1207.6424560546875" uly="1234.9959716796875" lrx="1287.4229736328125" lry="1299.7236328125"/>
+			<zone xml:id="f001_z012" ulx="1248.285400390625" uly="1204.89013671875" lrx="1332.581787109375" lry="1257.575439453125"/>
+			<zone xml:id="f001_z013" ulx="1285.917724609375" uly="1266.607177734375" lrx="1331.0765380859375" lry="1319.29248046875"/>
+			<zone xml:id="f001_z014" ulx="1465.0477294921875" uly="1262.09130859375" lrx="1523.754150390625" lry="1314.776611328125"/>
+			<zone xml:id="f001_z015" ulx="1370.2142333984375" uly="1194.35302734375" lrx="1537.3017578125" lry="1263.5965576171875"/>
+			<zone xml:id="f001_z016" ulx="184.0425567626953" uly="1376.49365234375" lrx="414.3525390625" lry="1447.242431640625"/>
+			<zone xml:id="f001_z017" ulx="358.6566467285156" uly="1341.871826171875" lrx="497.1437072753906" lry="1403.5889892578125"/>
+			<zone xml:id="f001_z018" ulx="415.8578186035156" uly="1417.1365966796875" lrx="459.5113525390625" lry="1471.3271484375"/>
+			<zone xml:id="f001_z019" ulx="403.8154602050781" uly="1477.348388671875" lrx="945.7213134765625" lry="1517.9913330078125"/>
+			<zone xml:id="f001_z020" ulx="464.0272216796875" uly="1439.7159423828125" lrx="670.2525024414062" lry="1477.348388671875"/>
+			<zone xml:id="f001_z021" ulx="938.19482421875" uly="1495.411865234375" lrx="980.3430786132812" lry="1543.581298828125"/>
+			<zone xml:id="f001_z022" ulx="263.2704162597656" uly="1708.31689453125" lrx="395.73626708984375" lry="1761.002197265625"/>
+			<zone xml:id="f001_z023" ulx="483.0433349609375" uly="1779.065673828125" lrx="653.1415405273438" lry="1840.78271484375"/>
+			<zone xml:id="f001_z024" ulx="1077.6343994140625" uly="1813.6875" lrx="1119.78271484375" lry="1852.8250732421875"/>
+			<zone xml:id="f001_z025" ulx="1121.2879638671875" uly="1739.9281005859375" lrx="1274.827880859375" lry="1782.0762939453125"/>
+			<zone xml:id="f001_z026" ulx="1119.78271484375" uly="1782.0762939453125" lrx="1440.4102783203125" lry="1848.3092041015625"/>
+			<zone xml:id="f001_z027" ulx="166.9315948486328" uly="1848.3092041015625" lrx="252.7333526611328" lry="1905.5103759765625"/>
+			<zone xml:id="f001_z028" ulx="294.881591796875" uly="1824.2244873046875" lrx="356.5986328125" lry="1869.38330078125"/>
+			<zone xml:id="f001_z029" ulx="337.0298156738281" uly="1887.4468994140625" lrx="385.19921875" lry="1928.08984375"/>
+			<zone xml:id="f001_z030" ulx="1362.6641845703125" uly="2114.340576171875" lrx="1421.37060546875" lry="2153.478271484375"/>
+			<zone xml:id="f001_z031" ulx="986.3406982421875" uly="2046.602294921875" lrx="1350.621826171875" lry="2081.22412109375"/>
+			<zone xml:id="f001_z032" ulx="83.16434478759766" uly="2164.01513671875" lrx="600.9854736328125" lry="2240.78515625"/>
+			<zone xml:id="f001_z033" ulx="1393.4576416015625" uly="2070.48291015625" lrx="1509.8265380859375" lry="2136.569091796875"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="1571" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p2">
+			<label>f002</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/005.tiff"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p3">
+			<label>f003</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/007.tiff"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p4">
+			<label>f004</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/009.tiff"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p5">
+			<label>f005</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/011.tiff"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="1571" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p6">
+			<label>f006</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/013.tiff"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p7">
+			<label>f007</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/015.tiff"/>
+		</surface>
+		<surface xml:id="f008" ulx="0" uly="0" lrx="1566" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p8">
+			<label>f008</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/017.tiff"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p9">
+			<label>f009</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/019.tiff"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="1559" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p10">
+			<label>f010</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/021.tiff"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p11">
+			<label>f011</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/023.tiff"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p12">
+			<label>f012</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/025.tiff"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="2560" lry="2478" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p13">
+			<label>f013</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/027.tiff"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="1465" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p14">
+			<label>f014</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/029.tiff"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="2559" lry="1092" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p15">
+			<label>f015</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/031.tiff"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="1542" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p16">
+			<label>f016</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/033.tiff"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p17">
+			<label>f017</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/035.tiff"/>
+		</surface>
+		<surface xml:id="f018" ulx="0" uly="0" lrx="1564" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p18">
+			<label>f018</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/037.tiff"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p19">
+			<label>f019</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/039.tiff"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p20">
+			<label>f020</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/041.tiff"/>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="1558" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p21">
+			<label>f021</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/043.tiff"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p22">
+			<label>f022</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/045.tiff"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="1555" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p23">
+			<label>f023</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/047.tiff"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="1552" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p24">
+			<label>f024</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/049.tiff"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p25">
+			<label>f025</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/051.tiff"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
+			<label>f026</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/053.tiff"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p27">
+			<label>f027</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/055.tiff"/>
+			<zone xml:id="f027_z000" ulx="1831.8740234375" uly="27.52688217163086" lrx="2000.9677734375" lry="110.10752868652344">
+				<note>folio number</note>
+			</zone>
+			<zone xml:id="f027_z001" ulx="87.23246765136719" uly="30.99001121520996" lrx="727.2733764648438" lry="110.00740814208984">
+				<note>deleted "infinite subjects"</note>
+			</zone>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="1787" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p28">
+			<label>f028</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/057.tiff"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p29">
+			<label>f029</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/059.tiff"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p30">
+			<label>f030</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/061.tiff"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="1672" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p31">
+			<label>f031</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/063.tiff"/>
+		</surface>
+	</facsimile>
+	<text xml:id="f027_diplo">
+		<body>
+			<div type="leaf">
+				<pb facs="#f027"/>
+				<metamark change="#StD" facs="#f027_z000" function="folio" n="26" place="right top" rend="pencil">26</metamark>
+				<p><del change="#StB" facs="#f027_z001" hand="#HM" rend="strikethrough">infinite subject.</del> By some people, <del change="#StA" facs="#f027_z009" hand="#EM" rend="single-stroke">this </del>this entire <lb/><del change="#ms1" facs="#f027_z003" hand="#hm" rend="strikethrough">dissertation </del><add change="StB" facs="#f027_z002" hand="#HM" place="above" rend="caret">scrawl of mine</add> <metamark change="#StB" facs="#f027_z010" function="caret" place="inline">caret with guiding line</metamark>may be esteemed altogether unnecessary, <lb/>inasmuch, "as years ago" (they may say) "we found out<lb/> the rich and rare stuff in this Hawthorne, whom<lb/> you now par<add change="#StA" facs="#f027_z017" hand="#EM" place="inspace" rend="no_caret">ade forth</add>, as if only yourself were<lb/> the discoverer of this <add change="#StA" facs="#f027_z015" hand="#EM" place="inspace" rend="no_caret">Portuguese diamond</add> <add change="#StB" facs="#f027_z016" hand="#HM" place="inspace" rend="no_caret">in our</add><lb/> <del change="#StB" facs="#f027_z004" hand="#HM" rend="multi-stroke">American </del>Literature." -- But even granting<lb/> all this; and adding to it, the assumption that the<lb/> books of Hawthorne have sold by the five-thousand<add change="#StB" facs="#f027_z014" hand="#HM" place="inline" rend="no_caret">,--</add> what does <del change="#StB" facs="#f027_z005" hand="#HM" rend="single-stroke">it</del> <metamark change="#StB" facs="#f027_z011" function="caret" place="inline"/><add change="#StB" facs="#f027_z006" hand="#HM" place="above" rend="caret">that signify?</add> <del change="#StB" facs="#f027_z007" hand="#HM" rend="single-stroke">amount-to?</del> They should be<lb/> sold by the hundred-thousand<add change="#StB" facs="#f027_z013" hand="#HM" place="inline" rend="no_caret">;</add> and read by the<lb/> million<add change="#StB" facs="#f027_z012" hand="#HM" place="inline" rend="no_caret">;</add> and admired by every one who is capable <lb/>of <corr change="#StA" facs="#f027_z018" rend="no_caret">a</corr>dmiration.<lb/><add change="#StB" facs="#f027_z019" hand="#HM" place="inspace" rend="no_caret"><del change="#StD" facs="#f027_z008" hand="#comp" rend="single-stroke">(End)</del></add></p>
+			</div>
+		</body>
+	</text>
+	<text xml:id="f026_diplo">
+		<body>
+			<div type="leaf">
+				<pb facs="#f026"/>
+				<metamark change="#StA" facs="#f026_z011" function="folio" n="25" place="right top">25</metamark>
+				<p>be amazed at the wondrous ability of those<lb/> <del change="#StB" facs="#f026_z009" hand="#HM" rend="multi-stroke">now half-forgotten</del> <add change="#StB" facs="#f026_z010" hand="#HM" place="above" rend="caret">Anaks of</add> ^men, and shocked at this renewed<lb/> example of the fact, that Fortune has more to do with<lb/> fame than merit, -- though, without merit, lasting fame there can be none.<lb/></p>
+				<p>Nevertheless, it would argue too illy of my country<lb/> were this maxim to hold good concerning Nathaniel<lb/> Hawthorne, a man, who already, in some few minds,<lb/> has shed "such a light, as never illuminates the earth,<lb/> save when a great heart burns as the household fire<lb/> of a grand intellect."<lb/></p>
+				<p>The words are his,--in the "Select Party"; and they<lb/> are a magnificent setting to a coincident sentiment of<lb/> my own, but <del change="#StB" facs="#f026_z006" hand="#HM" rend="single-stroke">freely </del><add change="#StB" facs="#f026_z007" hand="#HM" place="above" rend="caret"><del change="#StB" facs="#f026_z008" hand="#HM" rend="single-stroke">are </del>ramblingly</add> ^expressed yesterday, in reference to him<lb/>self. Gainsay it who will, as I now write, I am Posterity<lb/> speaking by proxy -- and after times will make it more<lb/> than good, when I declare -- that the American, who up<lb/> to the present day, has evinced, in Literature, the largest<lb/> brain <del change="#StB" facs="#f026_z004" hand="#HM" rend="single-stroke">and </del><add change="#StB" facs="#f026_z005" hand="#HM" place="above" rend="caret">with </add>^the largest heart, that man is Nathaniel<lb/> Hawthorne. Moreover, that whatever Nathaniel Hawthorne<lb/> may hereafter write, "The Mosses from an Old Manse" will<lb/> be ultimately accounted his masterpiece. For there is<lb/> a sure, though a secret sign in some works which <lb/>prove the culmination of the powers^ <add change="#StB" facs="#f026_z003" hand="#HM" place="above" rend="caret">(only the developable ones, however)</add> that produced <lb/>them. But I am by no means desirous of the <lb/>glory of a prophet. I pray Heaven that Hawthorne may <lb/>yet prove me an impostor in this prediction. <lb/>Especially, as I somehow cling to the<lb/> strange fancy, that, in all men, hiddenly reside<lb/> certain wondrous, occult properties -- as in some ^<add change="#StB" facs="#f026_z002" hand="#HM" place="above" rend="caret">plants and</add> minerals -- <lb/>which by some happy but very rare accident (as bronze was <lb/> discovered by the melting of the iron and brass in the burning of Corinth)<lb/> may chance to be called forth here on earth; not entirely <lb/>waiting for their better discovery in the more congenial, <lb/>blessed atmosphere of heaven.<lb/></p>
+				<p>Once more- - for it is hard to be finite<lb/> upon an infinite subject, and all ^<add change="#StB" facs="#f026_z001" hand="#HM" place="above" rend="caret">subjects </add><del change="#StB" facs="#f026_z000" hand="#HM" rend="multi-stroke">things </del>are infinite.</p>
 			</div>
 		</body>
 	</text>
