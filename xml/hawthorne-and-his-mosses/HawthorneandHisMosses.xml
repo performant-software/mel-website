@@ -108,6 +108,81 @@
 		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
 			<label>f026</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/053.tiff"/>
+			<zone xml:id="f026_z000" ulx="834.64208984375" uly="2434.067138671875" lrx="937.369384765625" lry="2472.2490234375">
+				<note>deleted "things"</note>
+			</zone>
+			<zone xml:id="f026_z001" ulx="780.0966796875" uly="2396.79443359375" lrx="917.369384765625" lry="2436.79443359375">
+				<note>"added" subjects</note>
+			</zone>
+			<zone xml:id="f026_z002" ulx="1155.0057373046875" uly="1941.157958984375" lrx="1315.914794921875" lry="1982.0670166015625">
+				<note>added "plants &"</note>
+			</zone>
+			<zone xml:id="f026_z004" ulx="260.82421875" uly="1267.3121337890625" lrx="376.27874755859375" lry="1300.948486328125">
+				<note>deleted "and"</note>
+			</zone>
+			<zone xml:id="f026_z005" ulx="304.4605712890625" uly="1232.7666015625" lrx="397.1878356933594" lry="1260.0394287109375">
+				<note>added "with"</note>
+			</zone>
+			<zone xml:id="f026_z009" ulx="151.4958038330078" uly="168.23744201660156" lrx="621.45947265625" lry="219.5538330078125">
+				<note>deleted "now half-forgotten"</note>
+			</zone>
+			<zone xml:id="f026_z010" ulx="506.25946044921875" uly="134.46292114257812" lrx="671.2049560546875" lry="182.89927673339844">
+				<note>added "Anaks of"</note>
+			</zone>
+			<zone xml:id="f026_z011" ulx="1444.0924072265625" uly="19.524688720703125" lrx="1547.510498046875" lry="81.05196380615234">
+				<note>folio notation "25"</note>
+			</zone>
+			<zone xml:id="f026_z012" ulx="633.0964965820312" uly="207.93338012695312" lrx="664.7328491210938" lry="234.33340454101562">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f026_z013" ulx="821.9746704101562" uly="773.9219970703125" lrx="1320.73828125" lry="861.8929443359375">
+				<note>double quote marks, dash, and semicolon added by HM. Quote marks location emended.</note>
+			</zone>
+			<zone xml:id="f026_z014" ulx="954.4546508789062" uly="873.1510620117188" lrx="1430.9637451171875" lry="916.6129150390625">
+				<note>"conincedent sentiment" added in blank space by EM</note>
+			</zone>
+			<zone xml:id="f026_z006" ulx="422.82415771484375" uly="945.3120727539062" lrx="568.2786865234375" lry="996.22119140625">
+				<note>deleted "feebly"</note>
+			</zone>
+			<zone xml:id="f026_z008" ulx="496.4605407714844" uly="909.8575439453125" lrx="556.4605102539062" lry="941.6757202148438">
+				<note>deleted "irr"</note>
+			</zone>
+			<zone xml:id="f026_z007" ulx="501.9150695800781" uly="906.9484252929688" lrx="731.9150390625" lry="946.22119140625">
+				<note>added "irr ramblingly"</note>
+			</zone>
+			<zone xml:id="f026_z016" ulx="1372.954833984375" uly="990.5299682617188" lrx="1413.8638916015625" lry="1043.4390869140625">
+				<note>add "P"</note>
+			</zone>
+			<zone xml:id="f026_z017" ulx="362.2275390625" uly="1281.802734375" lrx="418.5911865234375" lry="1309.802734375">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f026_z015" ulx="114.95482635498047" uly="917.0051879882812" lrx="610.0457153320312" lry="986.1664428710938">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f026_z003" ulx="960.3068237304688" uly="1535.00537109375" lrx="1483.455810546875" lry="1591.3690185546875">
+				<note>added "(only the developable ones, however)"</note>
+			</zone>
+			<zone xml:id="f026_z018" ulx="1117.0921630859375" uly="1583.3690185546875" lrx="1140.728515625" lry="1622.4599609375">
+				<note>alters to "powers"</note>
+			</zone>
+			<zone xml:id="f026_z019" ulx="945.2740478515625" uly="1569.732666015625" lrx="1172.5467529296875" lry="1639.55078125">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f026_z020" ulx="90.81097412109375" uly="1796.6961669921875" lrx="216.26551818847656" lry="1842.8779296875">
+				<note>"yet" underline, perhaps HM</note>
+			</zone>
+			<zone xml:id="f026_z021" ulx="501.17462158203125" uly="1804.33251953125" lrx="1314.8109130859375" lry="1887.2415771484375">
+				<note>guideline over clip linking "Especially" to previous paragraph.</note>
+			</zone>
+			<zone xml:id="f026_z022" ulx="1252.0836181640625" uly="1777.2415771484375" lrx="1302.0836181640625" lry="1818.1507568359375">
+				<note>added "." Cut away original inscription "unknown infinite subjct"</note>
+			</zone>
+			<zone xml:id="f026_z023" ulx="1185.7208251953125" uly="2007.4412841796875" lrx="1256.6298828125" lry="2025.4412841796875">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f026_z024" ulx="792.8673706054688" uly="2408.67724609375" lrx="851.0491943359375" lry="2497.768310546875">
+				<note>caret with guideline</note>
+			</zone>
 		</surface>
 		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p27">
 			<label>f027</label>
