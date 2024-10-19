@@ -115,7 +115,7 @@
 				<note>"added" subjects</note>
 			</zone>
 			<zone xml:id="f026_z002" ulx="1155.0057373046875" uly="1941.157958984375" lrx="1315.914794921875" lry="1982.0670166015625">
-				<note>added "plants &"</note>
+				<note>added "plants &amp;"</note>
 			</zone>
 			<zone xml:id="f026_z004" ulx="260.82421875" uly="1267.3121337890625" lrx="376.27874755859375" lry="1300.948486328125">
 				<note>deleted "and"</note>
