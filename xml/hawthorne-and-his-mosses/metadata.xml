@@ -34,13 +34,13 @@
       <profileDesc>
          <creation><!-- manuscript revisions and genetic stages -->
             <listChange>
-               <change xml:id="StA">Stage A (#StA): Manuscript draft (not known to survive)
+               <change xml:id="StA">Stage A: Manuscript draft (not known to survive)
                   </change>
-               <change xml:id="StB">Fair copy stage by Elizabeth Shaw Melville</change>
-               <change xml:id="StBa">Corrections to Stage B text by Elizabeth Shaw Melville and Herman Melville</change>
-               <change xml:id="StC">Substantive Revisions by Herman Melville</change>
-               <change xml:id="StD">Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
-               <change xml:id="StE">Changes made by the compositors of the Literary World</change>
+               <change xml:id="StB">Stage B: Fair copy stage by Elizabeth Shaw Melville</change>
+               <change xml:id="StBa">Stage Ba: Corrections to Stage B text by Elizabeth Shaw Melville and Herman Melville</change>
+               <change xml:id="StC">Stage C: Substantive Revisions by Herman Melville</change>
+               <change xml:id="StD">Stage D: Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
+               <change xml:id="StE">Stage E: Changes made by the compositors of the Literary World</change>
             </listChange>
          </creation>
       </profileDesc>
