@@ -104,6 +104,64 @@
 		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p25">
 			<label>f025</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/051.tiff"/>
+			<zone xml:id="f025_z001" ulx="787.2725830078125" uly="2050.978271484375" lrx="965.4544067382812" lry="2095.523681640625">
+				<note>added "power?"</note>
+			</zone>
+			<zone xml:id="f025_z002" ulx="762.7271118164062" uly="2078.97802734375" lrx="798.181640625" lry="2162.614501953125">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f025_z000" ulx="795.4544067382812" uly="2104.250732421875" lrx="974.181640625" lry="2136.4326171875">
+				<note>deleted "genius."</note>
+			</zone>
+			<zone xml:id="f025_z003" ulx="902.363525390625" uly="2000.614501953125" lrx="1011.4544677734375" lry="2043.341796875">
+				<note>alter "these" to "those"</note>
+			</zone>
+			<zone xml:id="f025_z004" ulx="712.7371826171875" uly="1078.518798828125" lrx="1040.0098876953125" lry="1123.0279541015625">
+				<note>deleted "calm person"</note>
+			</zone>
+			<zone xml:id="f025_z005" ulx="924.8098754882812" uly="1058.8824462890625" lrx="1041.3189697265625" lry="1088.9915771484375">
+				<note>added "man"</note>
+			</zone>
+			<zone xml:id="f025_z006" ulx="1045.2462158203125" uly="1069.355224609375" lrx="1072.7371826171875" lry="1134.8096923828125">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f025_z007" ulx="876.155517578125" uly="1015.7481689453125" lrx="1012.5191650390625" lry="1053.929931640625">
+				<note>deleted "part"</note>
+			</zone>
+			<zone xml:id="f025_z008" ulx="866.155517578125" uly="967.5663452148438" lrx="982.5191650390625" lry="1014.8390502929688">
+				<note>added "point,"</note>
+			</zone>
+			<zone xml:id="f025_z009" ulx="261.3258361816406" uly="1019.0396728515625" lrx="291.87127685546875" lry="1055.0396728515625">
+				<note>alters to "ideas"</note>
+			</zone>
+			<zone xml:id="f025_z010" ulx="83.2894287109375" uly="632.2032470703125" lrx="327.6530456542969" lry="678.0214233398438">
+				<note>deleted "gorgeous"</note>
+			</zone>
+			<zone xml:id="f025_z011" ulx="25.471248626708984" uly="609.7305908203125" lrx="89.61670684814453" lry="671.2578735351562">
+				<note>added "the"</note>
+			</zone>
+			<zone xml:id="f025_z012" ulx="1440.074951171875" uly="546.1087646484375" lrx="1535.6385498046875" lry="603.708740234375">
+				<note>deleted "this"</note>
+			</zone>
+			<zone xml:id="f025_z013" ulx="657.2825317382812" uly="400.40771484375" lrx="780.9188842773438" lry="445.8622741699219">
+				<note>deleted "poor"</note>
+			</zone>
+			<zone xml:id="f025_z014" ulx="527.2825317382812" uly="389.4986267089844" lrx="626.3734130859375" lry="466.7713623046875">
+				<note>added " 'of "
+emended to "of 'a"</note>
+			</zone>
+			<zone xml:id="f025_z015" ulx="385.6468200683594" uly="308.9313049316406" lrx="575.4650268554688" lry="358.022216796875">
+				<note>added "under"</note>
+			</zone>
+			<zone xml:id="f025_z016" ulx="444.7043151855469" uly="127.3905258178711" lrx="553.7952270507812" lry="163.9359893798828">
+				<note>added "chief"</note>
+			</zone>
+			<zone xml:id="f025_z017" ulx="471.6134033203125" uly="187.39048767089844" lrx="508.8861389160156" lry="212.84503173828125">
+				<note>EM caret</note>
+			</zone>
+			<zone xml:id="f025_z018" ulx="1457.2987060546875" uly="37.93756103515625" lrx="1519.4805908203125" lry="92.4830093383789">
+				<note>folio notation "24"</note>
+			</zone>
 		</surface>
 		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
 			<label>f026</label>
