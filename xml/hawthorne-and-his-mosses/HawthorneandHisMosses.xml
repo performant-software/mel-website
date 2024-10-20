@@ -100,6 +100,90 @@
 		<surface xml:id="f024" ulx="0" uly="0" lrx="1552" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p24">
 			<label>f024</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/049.tiff"/>
+			<zone xml:id="f024_z000" ulx="261.30352783203125" uly="2177.04541015625" lrx="294.0307922363281" lry="2208.863525390625">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f024_z001" ulx="47.30353927612305" uly="2148.13623046875" lrx="254.57626342773438" lry="2195.408935546875">
+				<note>deleted "esteemed"</note>
+			</zone>
+			<zone xml:id="f024_z002" ulx="165.4853515625" uly="2109.045166015625" lrx="368.2126159667969" lry="2149.954345703125">
+				<note>added "accounted"</note>
+			</zone>
+			<zone xml:id="f024_z003" ulx="471.28216552734375" uly="1869.3133544921875" lrx="1073.4639892578125" lry="1913.8223876953125">
+				<note>added "that is, if you are qualified to judge."</note>
+			</zone>
+			<zone xml:id="f024_z004" ulx="891.5003662109375" uly="1935.0296630859375" lrx="953.0276489257812" lry="1960.94970703125">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f024_z005" ulx="857.4639892578125" uly="1920.367919921875" lrx="912.44580078125" lry="1962.2587890625">
+				<note>added ", -"</note>
+			</zone>
+			<zone xml:id="f024_z006" ulx="309.0656433105469" uly="1713.66064453125" lrx="775.4292602539062" lry="1764.5697021484375">
+				<note>added "perhaps, nothing that equals it."</note>
+			</zone>
+			<zone xml:id="f024_z007" ulx="281.7929382324219" uly="1740.933349609375" lrx="353.6111145019531" lry="1820.0242919921875">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f024_z008" ulx="201.97474670410156" uly="1755.115234375" lrx="231.06565856933594" lry="1820.56982421875">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f024_z009" ulx="57.24746322631836" uly="1763.6607666015625" lrx="200.88381958007812" lry="1806.3880615234375">
+				<note>deleted "equals"</note>
+			</zone>
+			<zone xml:id="f024_z010" ulx="34.52019119262695" uly="1718.2061767578125" lrx="194.5201873779297" lry="1760.0244140625">
+				<note>added "surpasses"</note>
+			</zone>
+			<zone xml:id="f024_z011" ulx="1291.7928466796875" uly="1538.5697021484375" lrx="1319.065673828125" lry="1580.387939453125">
+				<note>added "!"</note>
+			</zone>
+			<zone xml:id="f024_z012" ulx="1122.7020263671875" uly="1534.933349609375" lrx="1322.7020263671875" lry="1585.842529296875">
+				<note>deleted "Greece!"</note>
+			</zone>
+			<zone xml:id="f024_z013" ulx="1149.065673828125" uly="1476.7515869140625" lrx="1331.7928466796875" lry="1533.115234375">
+				<note>added "Peedee!"</note>
+			</zone>
+			<zone xml:id="f024_z014" ulx="1099.83740234375" uly="1439.1661376953125" lrx="1434.7464599609375" lry="1494.802490234375">
+				<note>"Chowder Party" to lower case</note>
+			</zone>
+			<zone xml:id="f024_z015" ulx="1355.0501708984375" uly="1286.4747314453125" lrx="1515.2828369140625" lry="1339.2572021484375">
+				<note>line-end hyphenation</note>
+			</zone>
+			<zone xml:id="f024_z016" ulx="58.107505798339844" uly="1378.8441162109375" lrx="169.327880859375" lry="1437.281982421875">
+				<note>line end hyphenation</note>
+			</zone>
+			<zone xml:id="f024_z018" ulx="986.5745239257812" uly="714.6613159179688" lrx="1179.0108642578125" lry="750.2686157226562">
+				<note>added "occasional"</note>
+			</zone>
+			<zone xml:id="f024_z019" ulx="1035.0108642578125" uly="784.3049926757812" lrx="1092.6109619140625" lry="813.10498046875">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f024_z020" ulx="949.9200439453125" uly="436.8721923828125" lrx="993.1199951171875" lry="509.9194641113281">
+				<note>altered to upper-case "Y"</note>
+			</zone>
+			<zone xml:id="f024_z022" ulx="302.4838562011719" uly="313.7264099121094" lrx="340.1856994628906" lry="332.57733154296875">
+				<note>double quote emended to single</note>
+			</zone>
+			<zone xml:id="f024_z023" ulx="54.28022003173828" uly="301.15911865234375" lrx="88.84022521972656" lry="338.8609619140625">
+				<note>double quote emended to single</note>
+			</zone>
+			<zone xml:id="f024_z024" ulx="313.480224609375" uly="211.6173095703125" lrx="346.4693298339844" lry="238.32276916503906">
+				<note>double quote emended to single</note>
+			</zone>
+			<zone xml:id="f024_z017" ulx="163.98678588867188" uly="1207.30078125" lrx="247.24497985839844" lry="1292.1298828125">
+				<note>Bracket indicating paragraph break</note>
+			</zone>
+			<zone xml:id="f024_z021" ulx="96.4737319946289" uly="422.2243957519531" lrx="190.72828674316406" lry="516.7931518554688">
+				<note>Bracket indicating paragraph break</note>
+			</zone>
+			<zone xml:id="f024_z025" ulx="141.6132049560547" uly="188.18994140625" lrx="204.44956970214844" lry="277.73175048828125">
+				<note>Bracket indicating paragraph break</note>
+			</zone>
+			<zone xml:id="f024_z026" ulx="112.67793273925781" uly="39.184913635253906" lrx="170.80157470703125" lry="150.71946716308594">
+				<note>Alter to capital "Y"</note>
+			</zone>
+			<zone xml:id="f024_z027" ulx="1416.5325927734375" uly="36.043094635009766" lrx="1521.783447265625" lry="87.88309478759766">
+				<note>folio notation: "23"</note>
+			</zone>
 		</surface>
 		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p25">
 			<label>f025</label>
@@ -110,15 +194,6 @@
 			<zone xml:id="f025_z002" ulx="762.7271118164062" uly="2078.97802734375" lrx="798.181640625" lry="2162.614501953125">
 				<note>caret with guideline</note>
 			</zone>
-			<zone xml:id="f025_z000" ulx="795.4544067382812" uly="2104.250732421875" lrx="974.181640625" lry="2136.4326171875">
-				<note>deleted "genius."</note>
-			</zone>
-			<zone xml:id="f025_z003" ulx="902.363525390625" uly="2000.614501953125" lrx="1011.4544677734375" lry="2043.341796875">
-				<note>alter "these" to "those"</note>
-			</zone>
-			<zone xml:id="f025_z004" ulx="712.7371826171875" uly="1078.518798828125" lrx="1040.0098876953125" lry="1123.0279541015625">
-				<note>deleted "calm person"</note>
-			</zone>
 			<zone xml:id="f025_z005" ulx="924.8098754882812" uly="1058.8824462890625" lrx="1041.3189697265625" lry="1088.9915771484375">
 				<note>added "man"</note>
 			</zone>
@@ -128,20 +203,11 @@
 			<zone xml:id="f025_z007" ulx="876.155517578125" uly="1015.7481689453125" lrx="1012.5191650390625" lry="1053.929931640625">
 				<note>deleted "part"</note>
 			</zone>
-			<zone xml:id="f025_z008" ulx="866.155517578125" uly="967.5663452148438" lrx="982.5191650390625" lry="1014.8390502929688">
-				<note>added "point,"</note>
-			</zone>
-			<zone xml:id="f025_z009" ulx="261.3258361816406" uly="1019.0396728515625" lrx="291.87127685546875" lry="1055.0396728515625">
-				<note>alters to "ideas"</note>
-			</zone>
 			<zone xml:id="f025_z010" ulx="83.2894287109375" uly="632.2032470703125" lrx="327.6530456542969" lry="678.0214233398438">
 				<note>deleted "gorgeous"</note>
 			</zone>
 			<zone xml:id="f025_z011" ulx="25.471248626708984" uly="609.7305908203125" lrx="89.61670684814453" lry="671.2578735351562">
 				<note>added "the"</note>
-			</zone>
-			<zone xml:id="f025_z012" ulx="1440.074951171875" uly="546.1087646484375" lrx="1535.6385498046875" lry="603.708740234375">
-				<note>deleted "this"</note>
 			</zone>
 			<zone xml:id="f025_z013" ulx="657.2825317382812" uly="400.40771484375" lrx="780.9188842773438" lry="445.8622741699219">
 				<note>deleted "poor"</note>
@@ -161,6 +227,24 @@ emended to "of 'a"</note>
 			</zone>
 			<zone xml:id="f025_z018" ulx="1457.2987060546875" uly="37.93756103515625" lrx="1519.4805908203125" lry="92.4830093383789">
 				<note>folio notation "24"</note>
+			</zone>
+			<zone xml:id="f025_z012" ulx="1440.074951171875" uly="546.1087646484375" lrx="1535.6385498046875" lry="603.708740234375">
+				<note>deleted "this"</note>
+			</zone>
+			<zone xml:id="f025_z004" ulx="712.7371826171875" uly="1078.518798828125" lrx="1040.0098876953125" lry="1123.0279541015625">
+				<note>deleted "calm person"</note>
+			</zone>
+			<zone xml:id="f025_z003" ulx="902.363525390625" uly="2000.614501953125" lrx="1011.4544677734375" lry="2043.341796875">
+				<note>alter "these" to "those"</note>
+			</zone>
+			<zone xml:id="f025_z000" ulx="795.4544067382812" uly="2104.250732421875" lrx="974.181640625" lry="2136.4326171875">
+				<note>deleted "genius."</note>
+			</zone>
+			<zone xml:id="f025_z009" ulx="261.3258361816406" uly="1019.0396728515625" lrx="291.87127685546875" lry="1055.0396728515625">
+				<note>alters to "ideas"</note>
+			</zone>
+			<zone xml:id="f025_z008" ulx="866.155517578125" uly="967.5663452148438" lrx="982.5191650390625" lry="1014.8390502929688">
+				<note>added "point,"</note>
 			</zone>
 		</surface>
 		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
