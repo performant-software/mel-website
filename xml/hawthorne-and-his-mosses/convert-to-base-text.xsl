@@ -9,7 +9,7 @@
     </xsl:template>
     
     <xsl:template match="tei:add">
-        <strong><xsl:apply-templates/></strong>
+        <hi rend="bold"><xsl:apply-templates/></hi>
     </xsl:template>
     
     <xsl:template match="tei:metamark"/>
