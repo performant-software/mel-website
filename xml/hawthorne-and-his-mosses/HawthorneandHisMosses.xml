@@ -96,6 +96,33 @@
 		<surface xml:id="f023" ulx="0" uly="0" lrx="1555" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p23">
 			<label>f023</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/047.tiff"/>
+			<zone xml:id="f023_z000" ulx="1016.7083740234375" uly="1387.0264892578125" lrx="1097.767333984375" lry="1413.417724609375">
+				<note>hyphen added</note>
+			</zone>
+			<zone xml:id="f023_z002" ulx="1016.7083740234375" uly="1436.038818359375" lrx="1097.767333984375" lry="1466.2003173828125">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f023_z001" ulx="735.829833984375" uly="977.961669921875" lrx="970.11962890625" lry="1030.542236328125">
+				<note>"of braying," added above. Addition deleted</note>
+			</zone>
+			<zone xml:id="f023_z003" ulx="824.810546875" uly="1053.05859375" lrx="875.8651123046875" lry="1092.3314208984375">
+				<note>deleted caret</note>
+			</zone>
+			<zone xml:id="f023_z004" ulx="455.1232604980469" uly="943.8804931640625" lrx="681.5960083007812" lry="989.6986694335938">
+				<note>"matter" deleted</note>
+			</zone>
+			<zone xml:id="f023_z005" ulx="94.96324157714844" uly="245.88351440429688" lrx="186.0759735107422" lry="307.14898681640625">
+				<note>"say" deleted</note>
+			</zone>
+			<zone xml:id="f023_z006" ulx="29.712326049804688" uly="237.56932067871094" lrx="76.98505401611328" lry="296.66021728515625">
+				<note>"to" added</note>
+			</zone>
+			<zone xml:id="f023_z007" ulx="1443.8941650390625" uly="168.47837829589844" lrx="1496.6214599609375" lry="221.38748168945312">
+				<note>"to" deleted</note>
+			</zone>
+			<zone xml:id="f023_z008" ulx="1436.3843994140625" uly="34.56106948852539" lrx="1521.8389892578125" lry="77.28834533691406">
+				<note>folio number "22"</note>
+			</zone>
 		</surface>
 		<surface xml:id="f024" ulx="0" uly="0" lrx="1552" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p24">
 			<label>f024</label>
@@ -182,7 +209,7 @@
 				<note>Alter to capital "Y"</note>
 			</zone>
 			<zone xml:id="f024_z027" ulx="1416.5325927734375" uly="36.043094635009766" lrx="1521.783447265625" lry="87.88309478759766">
-				<note>folio notation: "23"</note>
+				<note>folio number "23"</note>
 			</zone>
 		</surface>
 		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p25">
@@ -196,9 +223,6 @@
 			</zone>
 			<zone xml:id="f025_z005" ulx="924.8098754882812" uly="1058.8824462890625" lrx="1041.3189697265625" lry="1088.9915771484375">
 				<note>added "man"</note>
-			</zone>
-			<zone xml:id="f025_z006" ulx="1045.2462158203125" uly="1069.355224609375" lrx="1072.7371826171875" lry="1134.8096923828125">
-				<note>caret with guideline</note>
 			</zone>
 			<zone xml:id="f025_z007" ulx="876.155517578125" uly="1015.7481689453125" lrx="1012.5191650390625" lry="1053.929931640625">
 				<note>deleted "part"</note>
@@ -225,9 +249,6 @@ emended to "of 'a"</note>
 			<zone xml:id="f025_z017" ulx="471.6134033203125" uly="187.39048767089844" lrx="508.8861389160156" lry="212.84503173828125">
 				<note>EM caret</note>
 			</zone>
-			<zone xml:id="f025_z018" ulx="1457.2987060546875" uly="37.93756103515625" lrx="1519.4805908203125" lry="92.4830093383789">
-				<note>folio notation "24"</note>
-			</zone>
 			<zone xml:id="f025_z012" ulx="1440.074951171875" uly="546.1087646484375" lrx="1535.6385498046875" lry="603.708740234375">
 				<note>deleted "this"</note>
 			</zone>
@@ -245,6 +266,12 @@ emended to "of 'a"</note>
 			</zone>
 			<zone xml:id="f025_z008" ulx="866.155517578125" uly="967.5663452148438" lrx="982.5191650390625" lry="1014.8390502929688">
 				<note>added "point,"</note>
+			</zone>
+			<zone xml:id="f025_z006" ulx="1045.2462158203125" uly="1069.355224609375" lrx="1072.7371826171875" lry="1134.8096923828125">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f025_z018" ulx="1457.2987060546875" uly="37.93756103515625" lrx="1519.4805908203125" lry="92.4830093383789">
+				<note>folio number "24"</note>
 			</zone>
 		</surface>
 		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
