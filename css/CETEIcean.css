@@ -131,7 +131,7 @@ tei-anchor {
   /* Empty Rule Set */
 }
 tei-app {
-  /* Empty Rule Set */
+  content: "" !important;
 }
 tei-note {
   display: none;
@@ -1324,7 +1324,7 @@ tei-*/
 /* r */
 tei-app tei-rdg {
   /*perhaps choice */
-  display:none;
+  content: "" !important;
 }
 tei-rdgGrp {
   /* Empty Rule Set */
