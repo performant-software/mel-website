@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_137"/>
 <ab rend="left-top"><metamark facs="#img_137_z008" rend="#HM _Cg" place="margin(top) margin(left)" function="folio" change="#StDa">42</metamark></ab><ab rend="top"><metamark facs="#img_137_z001" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBbb">16</metamark><metamark facs="#img_137_z002" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBbb"><add facs="#img_137_z002" rend="bubble _Cg" place="inline" hand="#HM" change="#StBbb">1</add></metamark><metamark facs="#img_137_z043" rend="#HM _HMp" place="above" function="composition-information" change="#StBa"><del facs="#img_137_z043" rend="erasure" hand="#HM">Insert ^</del></metamark><metamark facs="#img_137_z027" rend="#HM _HMp" place="above" function="composition-information" change="#StBbb">[pointer]</metamark><metamark facs="#img_137_z028" rend="#HM _HMp" place="above" function="composition-information" change="#StBbb"><del facs="#img_137_z028" rend="multi-stroke _HMp" hand="#HM" change="#StBbb">Insert</del></metamark></ab><ab rend="right-top"><metamark facs="#img_137_z006" rend="#HM _Cr" place="margin(top) margin(right)" function="folio" change="#StEb">49</metamark><metamark facs="#img_137_z007" rend="#RW _HMp" place="margin(top) margin(right)" function="folio"><add facs="#img_137_z007" rend="bubble _HMp" place="below" hand="#RW">53</add></metamark></ab><ab rend="left-bottom"><metamark facs="#img_137_z017" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">56</metamark></ab><ab>
 
- 
- 
+
+
 
 and <app><rdg resp="#MEL">emphasized</rdg><rdg resp="#HS">emphasised</rdg></app> in the <subst facs="#img_137_z042"><del facs="#img_137_z042" rend="overwritten _ink1" type="superimposed" hand="#HM">conferences</del><add facs="#img_137_z042" rend="superimposed _HMp" type="superimposed" hand="#HM" change="#StBbb">conferences</add></subst> that
 <lb/>ensued by demands deemed by the authorities

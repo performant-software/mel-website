@@ -1,8 +1,8 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_497"/>
 <ab rend="top"><metamark facs="#img_497_z034" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBb">61</metamark><metamark facs="#img_497_z033" rend="#HM _Cg" place="margin(top)" function="folio" change="#StBb"><add facs="#img_497_z033" rend="bubble _Cg" place="inline" hand="#HM" change="#StBb">1</add></metamark></ab><ab rend="right-top"><metamark facs="#img_497_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">198</metamark></ab><ab rend="left-bottom"><metamark facs="#img_497_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">208</metamark></ab><ab rend="bottom"><metamark facs="#img_497_z039" rend="#HM _HMp" place="below" function="composition-information" change="#StGa"><add facs="#img_497_z039" rend="bubble _HMp" place="inline" hand="#HM" change="#StGa">Insert</add></metamark><metamark facs="#img_497_z029" rend="#HM _HMp" place="below" function="folio" change="#Stp">17</metamark><metamark facs="#img_497_z021" rend="#HT _HMp" place="below" function="folio">208A</metamark></ab><ab>
 <add facs="#img_497_z032" rend="clip" place="inline" hand="#HM" change="#StBb">
- 
- 
+
+
 Now the <hi rend="underline">Handsome</hi> <hi rend="underline">Sailor</hi>
 <lb/>as a signal figure among the crew
 <lb/>had naturally enough attracted the
@@ -19,7 +19,7 @@ Now the <hi rend="underline">Handsome</hi> <hi rend="underline">Sailor</hi>
   <lb/><del facs="#img_497_z024" rend="single-stroke _HMp" hand="#HM" change="#Stp">not a very</del> in general <del facs="#img_497_z025" rend="single-stroke _HMp" hand="#HM" change="#Stp">a</del> <add facs="#img_497_z026" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">not</add> very <app><rdg resp="#MEL">demonstrative</rdg><rdg resp="#HS">demonstrative</rdg></app> <del facs="#img_497_z027" rend="single-stroke _HMp" hand="#HM" change="#Stp">man</del>
   <lb/>to his officers, he had congratulated Lieutenant Ratclife
   <lb/>upon his good fortune in lighting on such
-  <lb/>a fine specimen of the genus homo, <del facs="#img_497_z028" rend="single-stroke _HMp" hand="#HM" change="#Stp">whose cheek</del> 
+  <lb/>a fine specimen of the genus homo, <del facs="#img_497_z028" rend="single-stroke _HMp" hand="#HM" change="#Stp">whose cheek</del>
   <lb/>who in the nude might have posed for a
   <lb/>statue of <del facs="#img_497_z030" rend="single-stroke _HMp" hand="#HM" change="#Stp">Adam</del> young Adam
   <lb/> before the Fall.</add>

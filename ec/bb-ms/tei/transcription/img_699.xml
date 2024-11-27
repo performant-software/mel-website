@@ -1,7 +1,7 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_699"/>
 <ab rend="right-top"><metamark facs="#img_699_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">293</metamark></ab><ab rend="left-bottom"><metamark facs="#img_699_z002" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">303</metamark></ab><ab rend="top"><metamark facs="#img_699_z003" rend="#HM _HMp" place="above" function="folio" change="#StFa">66</metamark></ab><ab>
   <!-- ADD HAND TO METAMARK -->
-  
+
 
 But <metamark facs="#img_699_z004" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_699_z005" rend="caret _ink1" place="above" hand="#HM" change="#StFa">the skeleton in</add> the cheek-bone at the point of its
   <lb/>angle was just beginning <metamark facs="#img_699_z006" rend="#HM _ink1" place="inline" function="caret" change="#StFa">^</metamark><add facs="#img_699_z007" rend="caret _ink1" place="above" hand="#HM" change="#StFa">delicatly</add> <del facs="#img_699_z008" rend="single-stroke _HMp" hand="#HM" change="#StFa">to define itself</del> <add facs="#img_699_z009" rend="no-caret _HMp" place="above" hand="#HM" change="#StFa">to be defined</add>
