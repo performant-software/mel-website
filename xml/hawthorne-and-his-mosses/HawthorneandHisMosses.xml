@@ -277,144 +277,154 @@ emended to "of 'a"</note>
 		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
 			<label>f026</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/053.tiff"/>
-			<zone xml:id="f026_z000" ulx="834.64208984375" uly="2434.067138671875" lrx="937.369384765625" lry="2472.2490234375">
+			<zone xml:id="f026_z000" ulx="832.4223022460938" uly="2437.072265625" lrx="933.9287109375" lry="2476.708251953125">
 				<note>deleted "things"</note>
 			</zone>
-			<zone xml:id="f026_z001" ulx="780.0966796875" uly="2396.79443359375" lrx="917.369384765625" lry="2436.79443359375">
-				<note>"added" subjects</note>
+			<zone xml:id="f026_z001" ulx="793.0201416015625" uly="2392.830322265625" lrx="914.8383178710938" lry="2432.830322265625">
+				<note>added "subjects"</note>
 			</zone>
-			<zone xml:id="f026_z002" ulx="1155.0057373046875" uly="1941.157958984375" lrx="1315.914794921875" lry="1982.0670166015625">
-				<note>added "plants &amp;"</note>
-			</zone>
-			<zone xml:id="f026_z004" ulx="260.82421875" uly="1267.3121337890625" lrx="376.27874755859375" lry="1300.948486328125">
-				<note>deleted "and"</note>
-			</zone>
-			<zone xml:id="f026_z005" ulx="304.4605712890625" uly="1232.7666015625" lrx="397.1878356933594" lry="1260.0394287109375">
-				<note>added "with"</note>
-			</zone>
-			<zone xml:id="f026_z009" ulx="151.4958038330078" uly="168.23744201660156" lrx="621.45947265625" lry="219.5538330078125">
-				<note>deleted "now half-forgotten"</note>
-			</zone>
-			<zone xml:id="f026_z010" ulx="506.25946044921875" uly="134.46292114257812" lrx="671.2049560546875" lry="182.89927673339844">
-				<note>added "Anaks of"</note>
-			</zone>
-			<zone xml:id="f026_z011" ulx="1444.0924072265625" uly="19.524688720703125" lrx="1547.510498046875" lry="81.05196380615234">
-				<note>folio notation "25"</note>
-			</zone>
-			<zone xml:id="f026_z012" ulx="633.0964965820312" uly="207.93338012695312" lrx="664.7328491210938" lry="234.33340454101562">
-				<note>caret</note>
-			</zone>
-			<zone xml:id="f026_z013" ulx="821.9746704101562" uly="773.9219970703125" lrx="1320.73828125" lry="861.8929443359375">
-				<note>double quote marks, dash, and semicolon added by HM. Quote marks location emended.</note>
-			</zone>
-			<zone xml:id="f026_z014" ulx="954.4546508789062" uly="873.1510620117188" lrx="1430.9637451171875" lry="916.6129150390625">
-				<note>"conincedent sentiment" added in blank space by EM</note>
-			</zone>
-			<zone xml:id="f026_z006" ulx="422.82415771484375" uly="945.3120727539062" lrx="568.2786865234375" lry="996.22119140625">
-				<note>deleted "feebly"</note>
-			</zone>
-			<zone xml:id="f026_z008" ulx="496.4605407714844" uly="909.8575439453125" lrx="556.4605102539062" lry="941.6757202148438">
-				<note>deleted "irr"</note>
-			</zone>
-			<zone xml:id="f026_z007" ulx="501.9150695800781" uly="906.9484252929688" lrx="731.9150390625" lry="946.22119140625">
-				<note>added "irr ramblingly"</note>
-			</zone>
-			<zone xml:id="f026_z016" ulx="1372.954833984375" uly="990.5299682617188" lrx="1413.8638916015625" lry="1043.4390869140625">
-				<note>add "P"</note>
-			</zone>
-			<zone xml:id="f026_z017" ulx="362.2275390625" uly="1281.802734375" lrx="418.5911865234375" lry="1309.802734375">
-				<note>caret</note>
-			</zone>
-			<zone xml:id="f026_z015" ulx="114.95482635498047" uly="917.0051879882812" lrx="610.0457153320312" lry="986.1664428710938">
+			<zone xml:id="f026_z002" ulx="803.92919921875" uly="2458.28466796875" lrx="869.3837890625" lry="2498.28466796875">
 				<note>caret with guideline</note>
 			</zone>
-			<zone xml:id="f026_z003" ulx="960.3068237304688" uly="1535.00537109375" lrx="1483.455810546875" lry="1591.3690185546875">
+			<zone xml:id="f026_z003" ulx="1153.3837890625" uly="1942.2847900390625" lrx="1329.7474365234375" lry="1984.1029052734375">
+				<note>added "plants and"</note>
+			</zone>
+			<zone xml:id="f026_z004" ulx="1255.201904296875" uly="1932.2847900390625" lrx="1301.5655517578125" lry="1982.2847900390625">
+				<note>"and" regularized to "and"</note>
+			</zone>
+			<zone xml:id="f026_z005" ulx="1203.5966796875" uly="1997.741943359375" lrx="1243.5966796875" lry="2035.923828125">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f026_z006" ulx="500.3915710449219" uly="1784.322998046875" lrx="1325.8460693359375" lry="1901.595703125">
+				<note>guideline linking Especially on clip to preceding paragraph.</note>
+			</zone>
+			<zone xml:id="f026_z007" ulx="1261.3370361328125" uly="1782.1949462890625" lrx="1306.893310546875" lry="1820.2109375">
+				<note>added "." 
+cut away initial inscriptction "unknown I infinite subject"</note>
+			</zone>
+			<zone xml:id="f026_z008" ulx="103.26274108886719" uly="1825.2379150390625" lrx="214.7972869873047" lry="1855.3994140625">
+				<note>underline "yet" hand unknown</note>
+			</zone>
+			<zone xml:id="f026_z009" ulx="968.3067016601562" uly="1525.112548828125" lrx="1484.6702880859375" lry="1599.6580810546875">
 				<note>added "(only the developable ones, however)"</note>
 			</zone>
-			<zone xml:id="f026_z018" ulx="1117.0921630859375" uly="1583.3690185546875" lrx="1140.728515625" lry="1622.4599609375">
-				<note>alters to "powers"</note>
-			</zone>
-			<zone xml:id="f026_z019" ulx="945.2740478515625" uly="1569.732666015625" lrx="1172.5467529296875" lry="1639.55078125">
+			<zone xml:id="f026_z010" ulx="932.8521728515625" uly="1565.112548828125" lrx="1165.5794677734375" lry="1646.021728515625">
 				<note>caret with guideline</note>
 			</zone>
-			<zone xml:id="f026_z020" ulx="90.81097412109375" uly="1796.6961669921875" lrx="216.26551818847656" lry="1842.8779296875">
-				<note>"yet" underline, perhaps HM</note>
+			<zone xml:id="f026_z011" ulx="251.96591186523438" uly="1265.241455078125" lrx="375.6022644042969" lry="1301.60498046875">
+				<note>deleted "and"</note>
 			</zone>
-			<zone xml:id="f026_z021" ulx="501.17462158203125" uly="1804.33251953125" lrx="1314.8109130859375" lry="1887.2415771484375">
-				<note>guideline over clip linking "Especially" to previous paragraph.</note>
+			<zone xml:id="f026_z012" ulx="303.7840881347656" uly="1235.241455078125" lrx="391.05682373046875" lry="1265.241455078125">
+				<note>added "with"</note>
 			</zone>
-			<zone xml:id="f026_z022" ulx="1252.0836181640625" uly="1777.2415771484375" lrx="1302.0836181640625" lry="1818.1507568359375">
-				<note>added "." Cut away original inscription "unknown infinite subjct"</note>
+			<zone xml:id="f026_z013" ulx="362.875" uly="1291.4232177734375" lrx="408.3295593261719" lry="1319.786865234375"></zone>
+			<zone xml:id="f026_z014" ulx="1361.311767578125" uly="988.5816650390625" lrx="1412.2208251953125" lry="1046.7635498046875">
+				<note>added "P"</note>
 			</zone>
-			<zone xml:id="f026_z023" ulx="1185.7208251953125" uly="2007.4412841796875" lrx="1256.6298828125" lry="2025.4412841796875">
+			<zone xml:id="f026_z015" ulx="560.5964965820312" uly="906.3546752929688" lrx="723.32373046875" lry="941.8092041015625">
+				<note>added "ramblingly"</note>
+			</zone>
+			<zone xml:id="f026_z016" ulx="500.59649658203125" uly="913.62744140625" lrx="553.3237915039062" lry="939.0819702148438">
+				<note>added "irre"
+deleted "irre"</note>
+			</zone>
+			<zone xml:id="f026_z017" ulx="549.6873779296875" uly="941.8092041015625" lrx="606.051025390625" lry="998.1728515625">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f026_z018" ulx="410.59649658203125" uly="944.5364990234375" lrx="566.051025390625" lry="999.9910278320312">
+				<note>deleted "feebly"</note>
+			</zone>
+			<zone xml:id="f026_z019" ulx="948.0811767578125" uly="863.4556884765625" lrx="1438.9903564453125" lry="910.5829467773438">
+				<note>added "coincident sentiment"</note>
+			</zone>
+			<zone xml:id="f026_z020" ulx="1292.9510498046875" uly="794.6082153320312" lrx="1331.525146484375" lry="862.9052124023438">
+				<note>added " "; "</note>
+			</zone>
+			<zone xml:id="f026_z021" ulx="819.49658203125" uly="786.09912109375" lrx="854.4056396484375" lry="850.4627685546875">
+				<note>added " "- "
+corrected double quote location</note>
+			</zone>
+			<zone xml:id="f026_z022" ulx="501.8858337402344" uly="132.33087158203125" lrx="671.8858032226562" lry="181.60360717773438">
+				<note>added "Anaks of"</note>
+			</zone>
+			<zone xml:id="f026_z023" ulx="312.52081298828125" uly="166.07229614257812" lrx="638.8844604492188" lry="222.43592834472656">
+				<note>deleted "half-forgotten"</note>
+			</zone>
+			<zone xml:id="f026_z024" ulx="152.33897399902344" uly="164.2541046142578" lrx="286.8844299316406" lry="207.8904571533203">
+				<note>deleted "now"</note>
+			</zone>
+			<zone xml:id="f026_z025" ulx="624.7025756835938" uly="202.07228088378906" lrx="671.0662231445312" lry="227.52682495117188">
 				<note>caret</note>
 			</zone>
-			<zone xml:id="f026_z024" ulx="792.8673706054688" uly="2408.67724609375" lrx="851.0491943359375" lry="2497.768310546875">
-				<note>caret with guideline</note>
+			<zone xml:id="f026_z026" ulx="1450.9395751953125" uly="23.870819091796875" lrx="1547.812255859375" lry="89.32537078857422">
+				<note>folio number "25"</note>
 			</zone>
 		</surface>
 		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p27">
 			<label>f027</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/055.tiff"/>
-			<zone xml:id="f027_z000" ulx="1835.6629638671875" uly="31.292705535888672" lrx="1994.4229736328125" lry="124.87754821777344">
-				<note>folio notation "26"</note>
+			<zone xml:id="f027_z000" ulx="1839.44189453125" uly="28.10106658935547" lrx="1992.63134765625" lry="118.62212371826172">
+				<note>folio number: 26</note>
 			</zone>
-			<zone xml:id="f027_z001" ulx="97.65867614746094" uly="37.30888366699219" lrx="724.3428955078125" lry="114.1821517944336">
-				<note>deleted "infinite subject."</note>
+			<zone xml:id="f027_z001" ulx="94.24212646484375" uly="37.15315628051758" lrx="730.2105712890625" lry="119.55052947998047">
+				<note>deleted "infinite subject"</note>
 			</zone>
-			<zone xml:id="f027_z002" ulx="197.9281463623047" uly="109.1686782836914" lrx="523.803955078125" lry="137.57835388183594">
+			<zone xml:id="f027_z002" ulx="201.8470916748047" uly="108.00273895263672" lrx="511.3207702636719" lry="147.654052734375">
 				<note>added "scrawl of mine"</note>
 			</zone>
-			<zone xml:id="f027_z003" ulx="97.65867614746094" uly="134.2360382080078" lrx="478.68267822265625" lry="202.75352478027344">
+			<zone xml:id="f027_z003" ulx="103.20235443115234" uly="138.95010375976562" lrx="461.0312805175781" lry="198.91062927246094">
 				<note>deleted "dissertation"</note>
 			</zone>
-			<zone xml:id="f027_z004" ulx="110.15721130371094" uly="529.6248779296875" lrx="428.7375793457031" lry="616.3390502929688">
-				<note>deleted "American"</note>
-			</zone>
-			<zone xml:id="f027_z005" ulx="617.2467041015625" uly="789.7673950195312" lrx="700.190673828125" lry="855.74560546875">
+			<zone xml:id="f027_z005" ulx="611.5264282226562" uly="791.018310546875" lrx="737.2501220703125" lry="860.64990234375">
 				<note>deleted "it"</note>
 			</zone>
-			<zone xml:id="f027_z006" ulx="668.1441650390625" uly="753.95068359375" lrx="1011.230712890625" lry="804.84814453125">
-				<note>deleted "that signify?"</note>
+			<zone xml:id="f027_z008" ulx="1235.8851318359375" uly="1216.372802734375" lrx="1541.5064697265625" lry="1384.8255615234375">
+				<note>"End" notation added; hand unknown</note>
 			</zone>
-			<zone xml:id="f027_z007" ulx="768.053955078125" uly="787.88232421875" lrx="1231.786376953125" lry="848.2052612304688">
-				<note>deleted "amount to?"</note>
+			<zone xml:id="f027_z009" ulx="1219.6688232421875" uly="1209.584228515625" lrx="1595.1160888671875" lry="1402.8060302734375">
+				<note>"End" notation deleted</note>
 			</zone>
-			<zone xml:id="f027_z009" ulx="1335.4664306640625" uly="31.206758499145508" lrx="1520.205322265625" lry="125.4613265991211">
-				<note>deleted "this"</note>
+			<zone xml:id="f027_z010" ulx="1336.5301513671875" uly="34.42230987548828" lrx="1514.5665283203125" lry="128.67686462402344">
+				<note>"this" deleted</note>
 			</zone>
-			<zone xml:id="f027_z010" ulx="458.8990478515625" uly="146.19732666015625" lrx="536.1878051757812" lry="210.29042053222656">
-				<note>caret with guiding line</note>
+			<zone xml:id="f027_z004" ulx="107.84447479248047" uly="532.75537109375" lrx="445.36419677734375" lry="627.53173828125">
+				<note>deleted "American"</note>
 			</zone>
-			<zone xml:id="f027_z011" ulx="686.9950561523438" uly="805.9791870117188" lrx="781.2496337890625" lry="866.3020629882812">
+			<zone xml:id="f027_z012" ulx="705.5936889648438" uly="822.070068359375" lrx="759.8843383789062" lry="862.7880249023438">
 				<note>caret</note>
 			</zone>
-			<zone xml:id="f027_z012" ulx="424.9674072265625" uly="964.3268432617188" lrx="458.8990478515625" lry="1043.5006103515625">
+			<zone xml:id="f027_z013" ulx="1206.644775390625" uly="878.8509521484375" lrx="1258.6732177734375" lry="942.1900024414062">
+				<note>added ";" </note>
+			</zone>
+			<zone xml:id="f027_z014" ulx="1938.2108154296875" uly="718.6936645507812" lrx="1992.50146484375" lry="803.522705078125">
+				<note>added ",-"</note>
+			</zone>
+			<zone xml:id="f027_z007" ulx="760.4606323242188" uly="770.7091064453125" lrx="1215.9671630859375" lry="857.7485961914062">
+				<note>deleted "amount to?"</note>
+			</zone>
+			<zone xml:id="f027_z015" ulx="260.9798583984375" uly="1031.6153564453125" lrx="318.2525634765625" lry="1090.706298828125">
+				<note>corrected "a" to "A"</note>
+			</zone>
+			<zone xml:id="f027_z016" ulx="418.6227111816406" uly="958.58740234375" lrx="473.60455322265625" lry="1044.9874267578125">
 				<note>added ";"</note>
 			</zone>
-			<zone xml:id="f027_z013" ulx="1207.2801513671875" uly="868.1871948242188" lrx="1254.407470703125" lry="953.0162963867188">
-				<note>added ";"</note>
+			<zone xml:id="f027_z018" ulx="862.0568237304688" uly="451.2183532714844" lrx="1597.7659912109375" lry="537.6183471679688">
+				<note>added "Portuguese Diamond"</note>
 			</zone>
-			<zone xml:id="f027_z014" ulx="1929.27001953125" uly="724.9202880859375" lrx="1995.248291015625" lry="790.8984375">
-				<note>added ",--"</note>
+			<zone xml:id="f027_z019" ulx="639.2372436523438" uly="368.0372314453125" lrx="965.3579711914062" lry="447.58807373046875">
+				<note>added "ade forth"</note>
 			</zone>
-			<zone xml:id="f027_z015" ulx="852.883056640625" uly="438.3864440917969" lrx="1655.931884765625" lry="543.9515380859375">
-				<note>"Portuguese diamond" added in blank space</note>
+			<zone xml:id="f027_z011" ulx="440.5967102050781" uly="138.8563690185547" lrx="536.736328125" lry="210.11277770996094">
+				<note>caret with guiding line</note>
 			</zone>
-			<zone xml:id="f027_z016" ulx="1697.40380859375" uly="449.6969909667969" lrx="1950.006103515625" lry="536.4111938476562">
-				<note>"in our" added in blank space</note>
+			<zone xml:id="f027_z006" ulx="654.0791015625" uly="743.15576171875" lrx="788.9557495117188" lry="808.4262084960938">
+				<note>added "that"</note>
 			</zone>
-			<zone xml:id="f027_z017" ulx="638.3596801757812" uly="377.3094177246094" lrx="962.5953369140625" lry="448.9429016113281">
-				<note>"ade forth" added in blank space</note>
+			<zone xml:id="f027_z020" ulx="806.8641357421875" uly="740.328125" lrx="1152.7783203125" lry="809.3224487304688">
+				<note>added "signify?--"</note>
 			</zone>
-			<zone xml:id="f027_z018" ulx="257.5713195800781" uly="1038.599365234375" lrx="323.54949951171875" lry="1089.496826171875">
-				<note>"Admiration" corrected to "admiration"</note>
-			</zone>
-			<zone xml:id="f027_z019" ulx="1282.5076904296875" uly="1193.1767578125" lrx="1511.1568603515625" lry="1402.276611328125">
-				<note>"(End)" Notation added</note>
-			</zone>
-			<zone xml:id="f027_z008" ulx="1334.325927734375" uly="1215.00390625" lrx="1458.871337890625" lry="1385.9129638671875">
-				<note>Deleted "(End)"</note>
+			<zone xml:id="f027_z017" ulx="1734.17333984375" uly="459.33465576171875" lrx="1939.7005615234375" lry="530.0255737304688">
+				<note>added "in our"</note>
 			</zone>
 		</surface>
 		<surface xml:id="f028" ulx="0" uly="0" lrx="1787" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p28">
