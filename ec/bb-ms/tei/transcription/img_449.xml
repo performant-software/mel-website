@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_449"/>
 <ab rend="left-bottom"><metamark facs="#img_449_z003" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">189</metamark></ab><ab rend="left-top"><metamark facs="#img_449_z008" rend="#HM _HMp" place="margin(top) margin(left)" function="composition-information" change="#StGa">^</metamark><metamark facs="#img_449_z004" rend="#HM _HMp" place="margin(top) margin(left)" function="composition-information" change="#StGa"><add facs="#img_449_z004" rend="no-caret _HMp" place="below" hand="#HM" change="#StGa"><hi rend="underline">51 <hi rend="underline">green</hi></hi></add>follows</metamark></ab><ab rend="top"><metamark facs="#img_449_z005" rend="#HM _HMp" place="margin(top)" function="composition-information" change="#StGa"><add facs="#img_449_z005" rend="bubble _HMp" place="inline" hand="#HM" change="#StGa">See <metamark facs="#img_449_z006" rend="#HM _HMp" place="inline" function="caret" change="#StGa">^</metamark><add facs="#img_449_z007" rend="caret _HMp" place="above" hand="#ESM" change="#StGa">right hand</add>side for Number of Page</add></metamark><metamark facs="#img_449_z002" rend="#HM _HMp" place="above" function="section-divider" change="#StGa">——//——</metamark><metamark facs="#img_449_z026" rend="#HM _HMp" place="above" function="folio" change="#StGa">1</metamark></ab><ab rend="right-top"><metamark facs="#img_449_z001" rend="#RW _HMp" place="margin(top) margin(right)" function="folio" change="#StGa">179</metamark></ab><ab>
-  
+
 
 <lb/>
 <add facs="#img_449_z025" rend="insertion-device _ink1" place="inline" hand="#HM" change="#StGa">After the mysterious interview
@@ -12,7 +12,7 @@
 <lb/>german to the story occurred until the
 <lb/>events now about to <metamark facs="#img_449_z015" rend="#HM _HMp" place="inline" function="caret" change="#StGa">^</metamark> <add facs="#img_449_z016" rend="caret _HMp" place="above" hand="#HM" change="#StGa">be</add> narrated.
 <lb/>Elsewhere it has been
-<lb/>said that in the lack of frigates 
+<lb/>said that in the lack of frigates
 <lb/>(of course better sailers than line-of-battle
 <lb/>ships) in the English <del facs="#img_449_z017" rend="single-stroke _ink1" hand="#HM" change="#StGa">fleet of that</del>
 <lb/><del facs="#img_449_z024" rend="single-stroke _ink1" hand="#HM" change="#StGa">period</del> squadron up the Straits at

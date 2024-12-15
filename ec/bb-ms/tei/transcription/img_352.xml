@@ -1,6 +1,6 @@
 <text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_352"/>
 <ab rend="left-top"><metamark facs="#img_352_z001" rend="#HM _HMp" place="margin(top) margin(left)" function="folio" change="#StBa">19</metamark></ab><ab rend="right-top"><metamark facs="#img_352_z002" rend="#RW _HMp" place="margin(top) margin(right)" function="folio">136</metamark></ab><ab rend="left-bottom"><metamark facs="#img_352_z012" rend="#HT _HMp" place="margin(bottom) margin(left)" function="folio">146</metamark></ab><ab rend="top"><metamark facs="#img_352_z003" rend="#HM _HMp" place="above" function="folio" change="#StBa">19</metamark></ab><ab>
- 
+
 <add facs="#img_352_z036" rend="clip" place="inline" hand="#HM" change="#StBa">
 From his <metamark facs="#img_352_z007" rend="#HM _ink1" place="inline" function="caret" change="#StBa">^</metamark> <add facs="#img_352_z008" rend="caret _ink1" place="below" hand="#HM" change="#StCa">Chief's</add> <del facs="#img_352_z005" rend="single-stroke _ink1" hand="#HM" change="#StBa">master</del><del facs="#img_352_z006" rend="erasure" hand="#HM" change="#StBa"><add facs="#img_352_z006" rend="no-caret _HMp" place="inline" hand="#HM" change="#StBa">'s</add></del> <del facs="#img_352_z004" rend="erasure" hand="#HM" change="#StBa"><add facs="#img_352_z004" rend="no-caret _HMp" place="above" hand="#HM" change="#StBa">chief's</add></del> employing
 <lb/>him as an implicit tool in laying
