@@ -102,9 +102,6 @@
 			<zone xml:id="f023_z002" ulx="1016.7083740234375" uly="1436.038818359375" lrx="1097.767333984375" lry="1466.2003173828125">
 				<note>caret</note>
 			</zone>
-			<zone xml:id="f023_z001" ulx="735.829833984375" uly="977.961669921875" lrx="970.11962890625" lry="1030.542236328125">
-				<note>"of braying," added above. Addition deleted</note>
-			</zone>
 			<zone xml:id="f023_z003" ulx="824.810546875" uly="1053.05859375" lrx="875.8651123046875" lry="1092.3314208984375">
 				<note>deleted caret</note>
 			</zone>
@@ -122,6 +119,144 @@
 			</zone>
 			<zone xml:id="f023_z008" ulx="1436.3843994140625" uly="34.56106948852539" lrx="1521.8389892578125" lry="77.28834533691406">
 				<note>folio number "22"</note>
+			</zone>
+			<zone xml:id="f023_z009" ulx="1147.2930908203125" uly="2500.49755859375" lrx="1167.2930908203125" lry="2516.861083984375">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f023_z011" ulx="566.5293579101562" uly="2492.52197265625" lrx="597.4384765625" lry="2529.794677734375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z012" ulx="1385.4384765625" uly="2411.430908203125" lrx="1529.0748291015625" lry="2475.0673828125">
+				<note>end-line hyphenation regularized</note>
+			</zone>
+			<zone xml:id="f023_z014" ulx="591.0419921875" uly="2335.8515625" lrx="614.6783447265625" lry="2391.30615234375">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f023_z010" ulx="1131.4384765625" uly="2470.885498046875" lrx="1175.98388671875" lry="2521.0673828125">
+				<note>". regularized to ."</note>
+			</zone>
+			<zone xml:id="f023_z013" ulx="1200.8602294921875" uly="2342.033447265625" lrx="1221.769287109375" lry="2387.488037109375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z015" ulx="1506.49658203125" uly="2306.7607421875" lrx="1533.769287109375" lry="2335.8515625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z016" ulx="1316.49658203125" uly="2282.7607421875" lrx="1330.1329345703125" lry="2303.669921875">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f023_z017" ulx="1302.8602294921875" uly="2246.397216796875" lrx="1341.0419921875" lry="2305.488037109375">
+				<note>". regularized to ."</note>
+			</zone>
+			<zone xml:id="f023_z018" ulx="172.13287353515625" uly="2269.12451171875" lrx="211.22378540039062" lry="2307.306396484375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z019" ulx="1409.0419921875" uly="2103.306396484375" lrx="1435.405517578125" lry="2155.12451171875">
+				<note>added "?"</note>
+			</zone>
+			<zone xml:id="f023_z020" ulx="1378.1328125" uly="2099.669921875" lrx="1444.4964599609375" lry="2160.5791015625">
+				<note>"? regularized to ?"</note>
+			</zone>
+			<zone xml:id="f023_z021" ulx="825.5875244140625" uly="2043.124267578125" lrx="842.8602294921875" lry="2082.215087890625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z022" ulx="797.4057006835938" uly="2004.9425048828125" lrx="851.951171875" lry="2084.9423828125">
+				<note>", regularized to ,"</note>
+			</zone>
+			<zone xml:id="f023_z023" ulx="1464.862060546875" uly="1920.672607421875" lrx="1533.9820556640625" lry="2030.6363525390625">
+				<note>added ")"</note>
+			</zone>
+			<zone xml:id="f023_z024" ulx="333.0691223144531" uly="1934.1231689453125" lrx="398.523681640625" lry="2015.5487060546875">
+				<note>added "("</note>
+			</zone>
+			<zone xml:id="f023_z025" ulx="977.5191650390625" uly="1875.119140625" lrx="1011.155517578125" lry="1906.9373779296875">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f023_z026" ulx="1060.681884765625" uly="1730.9658203125" lrx="1083.5909423828125" lry="1772.42041015625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z027" ulx="949.845458984375" uly="1742.3114013671875" lrx="972.7545776367188" lry="1767.4022216796875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z028" ulx="644.8272705078125" uly="1710.2386474609375" lrx="664.463623046875" lry="1785.5113525390625">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f023_z029" ulx="1191.5909423828125" uly="1583.6932373046875" lrx="1221.0455322265625" lry="1621.8751220703125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z030" ulx="606.8636474609375" uly="1583.4749755859375" lrx="646.1363525390625" lry="1622.747802734375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z032" ulx="1502.425537109375" uly="1427.806396484375" lrx="1530.6072998046875" lry="1467.806396484375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z031" ulx="915.8800659179688" uly="1499.0789794921875" lrx="935.8800659179688" lry="1535.442626953125">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f023_z033" ulx="962.0618896484375" uly="1358.7154541015625" lrx="986.6073608398438" lry="1393.2608642578125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z034" ulx="577.5164184570312" uly="1354.5338134765625" lrx="617.5164184570312" lry="1395.44287109375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z035" ulx="1508.607421875" uly="1208.897216796875" lrx="1528.607421875" lry="1239.8062744140625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z036" ulx="961.1528930664062" uly="1206.169921875" lrx="979.334716796875" lry="1240.7154541015625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z001" ulx="735.829833984375" uly="977.961669921875" lrx="970.11962890625" lry="1030.542236328125">
+				<note>"of braying," added above. Addition deleted</note>
+			</zone>
+			<zone xml:id="f023_z037" ulx="1266.12744140625" uly="969.5355224609375" lrx="1298.854736328125" lry="1003.3536987304688">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z038" ulx="859.2184448242188" uly="943.3536987304688" lrx="894.1275024414062" lry="991.3536987304688">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f023_z039" ulx="946.4911499023438" uly="821.171875" lrx="987.9456787109375" lry="860.444580078125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z040" ulx="707.9644165039062" uly="757.1168823242188" lrx="732.5098876953125" lry="784.3895874023438">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z041" ulx="527.302978515625" uly="726.7352905273438" lrx="552.7575073242188" lry="760.3716430664062">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f023_z042" ulx="29.36921501159668" uly="625.574462890625" lrx="86.64193725585938" lry="661.0289916992188">
+				<note>compositor's "x"</note>
+			</zone>
+			<zone xml:id="f023_z043" ulx="1162.778564453125" uly="584.0487060546875" lrx="1182.778564453125" lry="621.3214111328125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z044" ulx="608.7785034179688" uly="509.3213806152344" lrx="643.3239135742188" lry="541.1395874023438">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z045" ulx="867.5310668945312" uly="357.5216979980469" lrx="899.3492431640625" lry="383.8853454589844">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z046" ulx="469.18426513671875" uly="352.17779541015625" lrx="505.54791259765625" lry="389.45050048828125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z047" ulx="1296.8206787109375" uly="288.9050598144531" lrx="1331.3660888671875" lry="316.17779541015625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z048" ulx="537.9114990234375" uly="282.3595886230469" lrx="574.275146484375" lry="323.2686767578125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z049" ulx="333.9115295410156" uly="266.9049987792969" lrx="353.00244140625" lry="293.99591064453125">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f023_z050" ulx="1418.67138671875" uly="197.36822509765625" lrx="1449.58056640625" lry="240.09548950195312">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z051" ulx="1215.0350341796875" uly="179.1864013671875" lrx="1268.6715087890625" lry="216.45913696289062">
+				<note>added "-"</note>
+			</zone>
+			<zone xml:id="f023_z052" ulx="203.76239013671875" uly="190.4591064453125" lrx="229.21693420410156" lry="218.45909118652344">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f023_z053" ulx="186.09210205078125" uly="2486.51904296875" lrx="216.16119384765625" lry="2528.28173828125">
+				<note>added ","</note>
 			</zone>
 		</surface>
 		<surface xml:id="f024" ulx="0" uly="0" lrx="1552" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p24">
@@ -142,15 +277,6 @@
 			<zone xml:id="f024_z004" ulx="891.5003662109375" uly="1935.0296630859375" lrx="953.0276489257812" lry="1960.94970703125">
 				<note>caret with guideline</note>
 			</zone>
-			<zone xml:id="f024_z005" ulx="857.4639892578125" uly="1920.367919921875" lrx="912.44580078125" lry="1962.2587890625">
-				<note>added ", -"</note>
-			</zone>
-			<zone xml:id="f024_z006" ulx="309.0656433105469" uly="1713.66064453125" lrx="775.4292602539062" lry="1764.5697021484375">
-				<note>added "perhaps, nothing that equals it."</note>
-			</zone>
-			<zone xml:id="f024_z007" ulx="281.7929382324219" uly="1740.933349609375" lrx="353.6111145019531" lry="1820.0242919921875">
-				<note>caret with guideline</note>
-			</zone>
 			<zone xml:id="f024_z008" ulx="201.97474670410156" uly="1755.115234375" lrx="231.06565856933594" lry="1820.56982421875">
 				<note>caret with guideline</note>
 			</zone>
@@ -169,14 +295,8 @@
 			<zone xml:id="f024_z013" ulx="1149.065673828125" uly="1476.7515869140625" lrx="1331.7928466796875" lry="1533.115234375">
 				<note>added "Peedee!"</note>
 			</zone>
-			<zone xml:id="f024_z014" ulx="1099.83740234375" uly="1439.1661376953125" lrx="1434.7464599609375" lry="1494.802490234375">
-				<note>"Chowder Party" to lower case</note>
-			</zone>
 			<zone xml:id="f024_z015" ulx="1355.0501708984375" uly="1286.4747314453125" lrx="1515.2828369140625" lry="1339.2572021484375">
 				<note>line-end hyphenation</note>
-			</zone>
-			<zone xml:id="f024_z016" ulx="58.107505798339844" uly="1378.8441162109375" lrx="169.327880859375" lry="1437.281982421875">
-				<note>line end hyphenation</note>
 			</zone>
 			<zone xml:id="f024_z018" ulx="986.5745239257812" uly="714.6613159179688" lrx="1179.0108642578125" lry="750.2686157226562">
 				<note>added "occasional"</note>
@@ -187,22 +307,7 @@
 			<zone xml:id="f024_z020" ulx="949.9200439453125" uly="436.8721923828125" lrx="993.1199951171875" lry="509.9194641113281">
 				<note>altered to upper-case "Y"</note>
 			</zone>
-			<zone xml:id="f024_z022" ulx="302.4838562011719" uly="313.7264099121094" lrx="340.1856994628906" lry="332.57733154296875">
-				<note>double quote emended to single</note>
-			</zone>
-			<zone xml:id="f024_z023" ulx="54.28022003173828" uly="301.15911865234375" lrx="88.84022521972656" lry="338.8609619140625">
-				<note>double quote emended to single</note>
-			</zone>
-			<zone xml:id="f024_z024" ulx="313.480224609375" uly="211.6173095703125" lrx="346.4693298339844" lry="238.32276916503906">
-				<note>double quote emended to single</note>
-			</zone>
-			<zone xml:id="f024_z017" ulx="163.98678588867188" uly="1207.30078125" lrx="247.24497985839844" lry="1292.1298828125">
-				<note>Bracket indicating paragraph break</note>
-			</zone>
 			<zone xml:id="f024_z021" ulx="96.4737319946289" uly="422.2243957519531" lrx="190.72828674316406" lry="516.7931518554688">
-				<note>Bracket indicating paragraph break</note>
-			</zone>
-			<zone xml:id="f024_z025" ulx="141.6132049560547" uly="188.18994140625" lrx="204.44956970214844" lry="277.73175048828125">
 				<note>Bracket indicating paragraph break</note>
 			</zone>
 			<zone xml:id="f024_z026" ulx="112.67793273925781" uly="39.184913635253906" lrx="170.80157470703125" lry="150.71946716308594">
@@ -210,6 +315,171 @@
 			</zone>
 			<zone xml:id="f024_z027" ulx="1416.5325927734375" uly="36.043094635009766" lrx="1521.783447265625" lry="87.88309478759766">
 				<note>folio number "23"</note>
+			</zone>
+			<zone xml:id="f024_z028" ulx="1289.540771484375" uly="2473.60693359375" lrx="1337.540771484375" lry="2507.425048828125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z029" ulx="357.70172119140625" uly="2460.638916015625" lrx="385.883544921875" lry="2488.82080078125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z030" ulx="16.065378189086914" uly="2410.82080078125" lrx="45.15628433227539" lry="2447.184326171875">
+				<note>compositor's "x"</note>
+			</zone>
+			<zone xml:id="f024_z031" ulx="457.1562194824219" uly="2389.00244140625" lrx="484.4289245605469" lry="2427.184326171875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z032" ulx="173.88348388671875" uly="2365.00244140625" lrx="202.97438049316406" lry="2434.09326171875">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f024_z033" ulx="27.519845962524414" uly="2352.275146484375" lrx="82.06529998779297" lry="2386.820556640625">
+				<note>compositors "xx"</note>
+			</zone>
+			<zone xml:id="f024_z034" ulx="508.428955078125" uly="2325.184326171875" lrx="566.6107788085938" lry="2357.002685546875">
+				<note>added ",-"</note>
+			</zone>
+			<zone xml:id="f024_z035" ulx="607.3379516601562" uly="2237.3662109375" lrx="627.3379516601562" lry="2276.45703125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z036" ulx="1501.3380126953125" uly="2179.365966796875" lrx="1522.2470703125" lry="2211.184326171875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z037" ulx="1198.974365234375" uly="2157.3662109375" lrx="1237.1561279296875" lry="2188.275146484375">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f024_z038" ulx="979.519775390625" uly="2078.093505859375" lrx="1039.519775390625" lry="2109.91162109375">
+				<note>added ",-"</note>
+			</zone>
+			<zone xml:id="f024_z039" ulx="917.1561889648438" uly="2023.00244140625" lrx="957.1561889648438" lry="2060.45703125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z040" ulx="226.1743621826172" uly="2011.1116943359375" lrx="252.53799438476562" lry="2063.8388671875">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f024_z005" ulx="857.4639892578125" uly="1920.367919921875" lrx="912.44580078125" lry="1962.2587890625">
+				<note>added ", -"</note>
+			</zone>
+			<zone xml:id="f024_z042" ulx="400.7930603027344" uly="1846.0054931640625" lrx="438.494873046875" lry="1908.841796875">
+				<note>added "," corrected to ,"</note>
+			</zone>
+			<zone xml:id="f024_z041" ulx="1201.9566955566406" uly="1826.84033203125" lrx="1247.5130615234375" lry="1888.419921875">
+				<note>added "," emended to ,"</note>
+			</zone>
+			<zone xml:id="f024_z043" ulx="919.193115234375" uly="1743.8963623046875" lrx="947.4694213867188" lry="1808.3037109375">
+				<note>added ":"</note>
+			</zone>
+			<zone xml:id="f024_z007" ulx="281.7929382324219" uly="1740.933349609375" lrx="353.6111145019531" lry="1820.0242919921875">
+				<note>caret with guideline</note>
+			</zone>
+			<zone xml:id="f024_z044" ulx="262.83599853515625" uly="1774.295654296875" lrx="317.3814392089844" lry="1814.295654296875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z045" ulx="531.595703125" uly="1696.890380859375" lrx="561.595703125" lry="1725.9813232421875">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f024_z006" ulx="309.0656433105469" uly="1713.66064453125" lrx="775.4292602539062" lry="1764.5697021484375">
+				<note>added "perhaps, nothing that equals it."</note>
+			</zone>
+			<zone xml:id="f024_z046" ulx="555.6238403320312" uly="1568.4578857421875" lrx="595.9874877929688" lry="1593.5487060546875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z047" ulx="275.3677978515625" uly="1549.482421875" lrx="303.54962158203125" lry="1580.3914794921875">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f024_z048" ulx="26.82234001159668" uly="1540.2095947265625" lrx="53.185977935791016" lry="1591.11865234375">
+				<note>compositor's x</note>
+			</zone>
+			<zone xml:id="f024_z014" ulx="1099.83740234375" uly="1439.1661376953125" lrx="1434.7464599609375" lry="1494.802490234375">
+				<note>"Chowder Party" altered lower case</note>
+			</zone>
+			<zone xml:id="f024_z049" ulx="865.0042114257812" uly="1476.0279541015625" lrx="883.18603515625" lry="1501.482421875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z016" ulx="58.107505798339844" uly="1378.8441162109375" lrx="169.327880859375" lry="1437.281982421875">
+				<note>line end hyphenation</note>
+			</zone>
+			<zone xml:id="f024_z050" ulx="745.2545166015625" uly="1401.6268310546875" lrx="782.0137939453125" lry="1443.098876953125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z051" ulx="564.8734130859375" uly="1324.2503662109375" lrx="602.5751953125" lry="1351.584228515625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z052" ulx="341.9331970214844" uly="1275.88916015625" lrx="386.7323303222656" lry="1357.9935302734375">
+				<note>added "," emended to ,"</note>
+			</zone>
+			<zone xml:id="f024_z053" ulx="1117.0240478515625" uly="1247.88916015625" lrx="1157.93310546875" lry="1277.88916015625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z017" ulx="163.98678588867188" uly="1207.30078125" lrx="247.24497985839844" lry="1292.1298828125">
+				<note>Bracket indicating paragraph break</note>
+			</zone>
+			<zone xml:id="f024_z054" ulx="218.5227508544922" uly="1088.682373046875" lrx="253.977294921875" lry="1134.1368408203125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z055" ulx="1428.522705078125" uly="999.227783203125" lrx="1454.8863525390625" lry="1028.3187255859375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z056" ulx="964.8864135742188" uly="1004.6823120117188" lrx="990.3409423828125" lry="1040.1368408203125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z057" ulx="1026.435791015625" uly="909.1043701171875" lrx="1052.7994384765625" lry="971.8316650390625">
+				<note>added "," emended to ,"</note>
+			</zone>
+			<zone xml:id="f024_z058" ulx="1147.303955078125" uly="832.3894653320312" lrx="1190.03125" lry="870.5712890625">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f024_z059" ulx="1422.7529296875" uly="775.6256713867188" lrx="1460.9346923828125" lry="804.716552734375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z060" ulx="1448.5711669921875" uly="678.8983154296875" lrx="1473.1165771484375" lry="722.53466796875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z061" ulx="1255.8438720703125" uly="630.7164916992188" lrx="1299.480224609375" lry="657.0801391601562">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z062" ulx="1039.4803466796875" uly="631.6256103515625" lrx="1066.7530517578125" lry="668.8983154296875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z063" ulx="696.2074584960938" uly="628.1710815429688" lrx="719.8438110351562" lry="659.9892578125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z064" ulx="1458.3892822265625" uly="515.261962890625" lrx="1482.9346923828125" lry="581.6256103515625">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f024_z065" ulx="1486.7529296875" uly="444.716552734375" lrx="1518.571044921875" lry="502.8983459472656">
+				<note>added "," emended to ,"</note>
+			</zone>
+			<zone xml:id="f024_z066" ulx="688.3285522460938" uly="468.07391357421875" lrx="723.6739501953125" lry="506.03753662109375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z025" ulx="145.29774475097656" uly="191.33175659179688" lrx="196.5950164794922" lry="268.4470520019531">
+				<note>Bracket indicating paragraph break</note>
+			</zone>
+			<zone xml:id="f024_z022" ulx="302.4838562011719" uly="313.7264099121094" lrx="340.1856994628906" lry="332.57733154296875">
+				<note>added double quote; emended to single</note>
+			</zone>
+			<zone xml:id="f024_z023" ulx="54.28022003173828" uly="301.15911865234375" lrx="88.84022521972656" lry="338.8609619140625">
+				<note>added double quote emended to single</note>
+			</zone>
+			<zone xml:id="f024_z024" ulx="316.86798095703125" uly="210.29196166992188" lrx="352.6861572265625" lry="257.564697265625">
+				<note>added double quote; emended to single and positioned after !</note>
+			</zone>
+			<zone xml:id="f024_z067" ulx="188.1407012939453" uly="198.11012268066406" lrx="213.59524536132812" lry="224.4737548828125">
+				<note>added double quote. Single quote added by printer/compositor/editor.</note>
+			</zone>
+			<zone xml:id="f024_z068" ulx="1465.2315673828125" uly="162.65557861328125" lrx="1527.9588623046875" lry="216.2919464111328">
+				<note>added ",-"</note>
+			</zone>
+			<zone xml:id="f024_z069" ulx="548.8679809570312" uly="188.83741760253906" lrx="578.8679809570312" lry="219.7465057373047">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z070" ulx="632.6862182617188" uly="92.11014556884766" lrx="652.6862182617188" lry="121.20105743408203">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z071" ulx="532.6862182617188" uly="95.74651336669922" lrx="560.8680419921875" lry="122.11014556884766">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f024_z072" ulx="29.015155792236328" uly="196.9063720703125" lrx="1535.202880859375" lry="417.4620361328125">
+				<note>Quoted from p. 77 of HM's copy. Scored by HM. comma after "her" omitted in transcription. </note>
 			</zone>
 		</surface>
 		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p25">
