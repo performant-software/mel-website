@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<facsimile sameAs="https://melville.electroniclibrary.org/iiif/mosses/manifest.json">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="1560" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p0">
+			<label>f000</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/001.tiff"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p1">
+			<label>f001</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/003.tiff"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="1571" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p2">
+			<label>f002</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/005.tiff"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p3">
+			<label>f003</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/007.tiff"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p4">
+			<label>f004</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/009.tiff"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p5">
+			<label>f005</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/011.tiff"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="1571" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p6">
+			<label>f006</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/013.tiff"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p7">
+			<label>f007</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/015.tiff"/>
+		</surface>
+		<surface xml:id="f008" ulx="0" uly="0" lrx="1566" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p8">
+			<label>f008</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/017.tiff"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p9">
+			<label>f009</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/019.tiff"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="1559" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p10">
+			<label>f010</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/021.tiff"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p11">
+			<label>f011</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/023.tiff"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p12">
+			<label>f012</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/025.tiff"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="2560" lry="2478" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p13">
+			<label>f013</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/027.tiff"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="1465" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p14">
+			<label>f014</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/029.tiff"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="2559" lry="1092" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p15">
+			<label>f015</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/031.tiff"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="1542" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p16">
+			<label>f016</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/033.tiff"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p17">
+			<label>f017</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/035.tiff"/>
+		</surface>
+		<surface xml:id="f018" ulx="0" uly="0" lrx="1564" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p18">
+			<label>f018</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/037.tiff"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p19">
+			<label>f019</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/039.tiff"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p20">
+			<label>f020</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/041.tiff"/>
+			<zone xml:id="f020_z000" ulx="1063.8043212890625" uly="2468.955322265625" lrx="1111.8419189453125" lry="2515.0712890625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z001" ulx="566.1356811523438" uly="2474.7197265625" lrx="619.9376831054688" lry="2513.149658203125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z002" ulx="1014.7763671875" uly="2394.535400390625" lrx="1067.61767578125" lry="2437.76904296875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z003" ulx="211.23287963867188" uly="2291.517333984375" lrx="285.6939697265625" lry="2365.978515625">
+				<note>Bracket</note>
+			</zone>
+			<zone xml:id="f020_z004" ulx="1326.93896484375" uly="2281.173828125" lrx="1343.3026123046875" lry="2298.446533203125">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f020_z006" ulx="1149.1207275390625" uly="2185.173828125" lrx="1174.5751953125" lry="2210.628173828125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z005" ulx="457.8479919433594" uly="2091.90087890625" lrx="674.3934936523438" lry="2309.173828125">
+				<note>caret with guiding line circling "confess to"</note>
+			</zone>
+			<zone xml:id="f020_z007" ulx="98.21161651611328" uly="2143.173583984375" lrx="134.57525634765625" lry="2218.628173828125">
+				<note>caret with guiding line</note>
+			</zone>
+			<zone xml:id="f020_z008" ulx="80.63115692138672" uly="2164.720458984375" lrx="103.35842895507812" lry="2204.720458984375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z009" ulx="1064.8631591796875" uly="2051.192138671875" lrx="1097.852294921875" lry="2112.457763671875">
+				<note> & regularized</note>
+			</zone>
+			<zone xml:id="f020_z010" ulx="388.5986328125" uly="2041.730224609375" lrx="1488.235107421875" lry="2113.991943359375">
+				<note>addition in space</note>
+			</zone>
+			<zone xml:id="f020_z011" ulx="33.573158264160156" uly="2074.71923828125" lrx="96.40953063964844" lry="2129.701171875">
+				<note>ESM X for blank space</note>
+			</zone>
+			<zone xml:id="f020_z012" ulx="1475.3536376953125" uly="2224.583984375" lrx="1491.0626220703125" lry="2273.2822265625">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f020_z013" ulx="39.5426025390625" uly="2136.613037109375" lrx="94.52442169189453" lry="2183.740478515625">
+				<note>add "it"</note>
+			</zone>
+			<zone xml:id="f020_z014" ulx="1138.9295654296875" uly="2002.721923828125" lrx="1157.111328125" lry="2056.358154296875">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f020_z015" ulx="1203.4749755859375" uly="1937.267578125" lrx="1231.65673828125" lry="1969.994873046875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z016" ulx="801.4967041015625" uly="1940.1265869140625" lrx="822.4058227539062" lry="1973.762939453125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z017" ulx="653.678466796875" uly="1922.672119140625" lrx="677.3148803710938" lry="1952.672119140625">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f020_z018" ulx="292.95123291015625" uly="1933.03564453125" lrx="331.133056640625" lry="1968.4901123046875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z019" ulx="764.2865600585938" uly="1874.214111328125" lrx="801.9883422851562" lry="1900.9195556640625">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f020_z020" ulx="359.6203308105469" uly="1858.5050048828125" lrx="397.3221740722656" lry="1900.9195556640625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z021" ulx="1206.5799560546875" uly="1775.589111328125" lrx="1244.5435791015625" lry="1814.86181640625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z022" ulx="986.6526489257812" uly="1776.898193359375" lrx="1019.3798828125" lry="1807.00732421875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z023" ulx="312.29620361328125" uly="1700.0980224609375" lrx="328.65985107421875" lry="1731.734375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z024" ulx="283.9325866699219" uly="1652.316162109375" lrx="381.02349853515625" lry="1750.498046875">
+				<note>caret with guiding line</note>
+			</zone>
+			<zone xml:id="f020_z025" ulx="248.15077209472656" uly="1430.6434326171875" lrx="1153.605224609375" lry="1540.8251953125">
+				<note>guiding line</note>
+			</zone>
+			<zone xml:id="f020_z026" ulx="57.193145751953125" uly="1422.623291015625" lrx="110.64768981933594" lry="1484.80517578125">
+				<note>ESM X</note>
+			</zone>
+			<zone xml:id="f020_z027" ulx="1177.9931640625" uly="1439.8594970703125" lrx="1551.0841064453125" lry="1487.8594970703125">
+				<note>"Oliver Goldsmith" added in blank space</note>
+			</zone>
+			<zone xml:id="f020_z028" ulx="1108.7120361328125" uly="1407.144287109375" lrx="1147.9847412109375" lry="1438.5625">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z029" ulx="1082.2716064453125" uly="1299.7998046875" lrx="1116.015625" lry="1359.3477783203125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z030" ulx="828.1998291015625" uly="1305.7545166015625" lrx="883.778076171875" lry="1345.4532470703125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z031" ulx="439.1523742675781" uly="1297.8148193359375" lrx="474.8812255859375" lry="1333.543701171875">
+				<note>alter "these" to "those" by overwriting "e" with "o"</note>
+			</zone>
+			<zone xml:id="f020_z032" ulx="1288.82958984375" uly="1150.3516845703125" lrx="1324.668701171875" lry="1208.24560546875">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z033" ulx="960.7637939453125" uly="1155.8653564453125" lrx="999.3598022460938" lry="1198.5965576171875">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f020_z034" ulx="351.78057861328125" uly="1155.0257568359375" lrx="383.36956787109375" lry="1185.657470703125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z035" ulx="1362.627685546875" uly="1072.702880859375" lrx="1520.572509765625" lry="1110.035400390625">
+				<note>"diffuse" to "diffusive"</note>
+			</zone>
+			<zone xml:id="f020_z036" ulx="1046.9293212890625" uly="1101.037353515625" lrx="1070.8603515625" lry="1124.0111083984375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z037" ulx="1020.1265869140625" uly="1057.004150390625" lrx="1108.1927490234375" lry="1139.3270263671875">
+				<note>caret with guiding line</note>
+			</zone>
+			<zone xml:id="f020_z038" ulx="1498.027587890625" uly="1003.1683959960938" lrx="1531.771484375" lry="1052.7918701171875"></zone>
+			<zone xml:id="f020_z039" ulx="914.9855346679688" uly="998.933837890625" lrx="949.721923828125" lry="1030.3619384765625">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f020_z040" ulx="290.6011657714844" uly="1003.7682495117188" lrx="306.6828308105469" lry="1027.8907470703125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z041" ulx="1076.3316650390625" uly="853.2360229492188" lrx="1103.6043701171875" lry="883.2360229492188">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z042" ulx="877.4225463867188" uly="860.326904296875" lrx="901.4225463867188" lry="886.5087280273438">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z043" ulx="223.4225616455078" uly="832.472412109375" lrx="444.3316650390625" lry="881.5632934570312">
+				<note>deleted "touching"</note>
+			</zone>
+			<zone xml:id="f020_z044" ulx="181.60438537597656" uly="813.3815307617188" lrx="261.6043701171875" lry="901.5633544921875">
+				<note>caret with guiding line</note>
+			</zone>
+			<zone xml:id="f020_z045" ulx="1360.526123046875" uly="741.818359375" lrx="1448.2352294921875" lry="838.6911010742188">
+				<note>added ")"</note>
+			</zone>
+			<zone xml:id="f020_z046" ulx="772.7443237304688" uly="794.1820068359375" lrx="802.8533935546875" lry="816.4365844726562">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z047" ulx="1334.606201171875" uly="699.40380859375" lrx="1363.40625" lry="726.8947143554688">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z048" ulx="1182.6363525390625" uly="690.7218627929688" lrx="1245.975341796875" lry="742.7503662109375">
+				<note>caret</note>
+			</zone>
+			<zone xml:id="f020_z049" ulx="791.0864868164062" uly="569.0335083007812" lrx="835.8137817382812" lry="689.0335083007812">
+				<note>added "("</note>
+			</zone>
+			<zone xml:id="f020_z050" ulx="762.722900390625" uly="613.7607421875" lrx="787.8137817382812" lry="645.3971557617188">
+				<note>added "s"</note>
+			</zone>
+			<zone xml:id="f020_z051" ulx="252.52377319335938" uly="677.235107421875" lrx="289.8775329589844" lry="735.096923828125">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f020_z052" ulx="1033.87744140625" uly="547.0969848632812" lrx="1060.2410888671875" lry="567.0969848632812">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z053" ulx="313.1790771484375" uly="484.8612365722656" lrx="347.7245178222656" lry="510.3157653808594">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f020_z054" ulx="49.90632247924805" uly="505.5884704589844" lrx="109.90631866455078" lry="565.5884399414062">
+				<note>compositor's x</note>
+			</zone>
+			<zone xml:id="f020_z055" ulx="1354.9971923828125" uly="336.3157653808594" lrx="1390.4517822265625" lry="381.7702941894531">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z056" ulx="692.4518432617188" uly="339.4066162109375" lrx="722.4518432617188" lry="369.4066162109375">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z057" ulx="1502.8665771484375" uly="280.4897766113281" lrx="1525.12109375" lry="319.76251220703125">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z058" ulx="1238.43017578125" uly="262.1625061035156" lrx="1272.466552734375" lry="296.1988830566406">
+				<note>added "."</note>
+			</zone>
+			<zone xml:id="f020_z059" ulx="288.2869567871094" uly="241.1331787109375" lrx="314.65057373046875" lry="307.496826171875">
+				<note>added ";"</note>
+			</zone>
+			<zone xml:id="f020_z060" ulx="864.2869262695312" uly="181.49681091308594" lrx="900.6505737304688" lry="219.6786346435547">
+				<note>added ","</note>
+			</zone>
+			<zone xml:id="f020_z061" ulx="1438.21826171875" uly="41.70550537109375" lrx="1523.3092041015625" lry="100.6146011352539">
+				<note>folion number 19</note>
+			</zone>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="1558" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p21">
+			<label>f021</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/043.tiff"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p22">
+			<label>f022</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/045.tiff"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="1555" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p23">
+			<label>f023</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/047.tiff"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="1552" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p24">
+			<label>f024</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/049.tiff"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p25">
+			<label>f025</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/051.tiff"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p26">
+			<label>f026</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/053.tiff"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p27">
+			<label>f027</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/055.tiff"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="1787" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p28">
+			<label>f028</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/057.tiff"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p29">
+			<label>f029</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/059.tiff"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p30">
+			<label>f030</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/061.tiff"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="1672" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p31">
+			<label>f031</label>
+			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/063.tiff"/>
+		</surface>
+	</facsimile>
+</TEI>
