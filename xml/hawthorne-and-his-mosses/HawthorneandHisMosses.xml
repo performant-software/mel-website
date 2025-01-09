@@ -56,6 +56,45 @@
 		<surface xml:id="f013" ulx="0" uly="0" lrx="2560" lry="2478" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p13">
 			<label>f013</label>
 			<graphic mimeType="application/json" url="https://iip.textlab.org/?IIIF=mel/mosses/027.tiff"/>
+			<zone xml:id="f013_z000" ulx="739.1167602539062" uly="1600.9864501953125" lrx="1943.874755859375" lry="1791.0643310546875">
+				<note>added "(to be concluded next week)"</note>
+			</zone>
+			<zone xml:id="f013_z001" ulx="47.71596145629883" uly="324.8370666503906" lrx="442.5467224121094" lry="455.2826232910156">
+				<note>caret with guding line.</note>
+			</zone>
+			<zone xml:id="f013_z002" ulx="260.1346130371094" uly="1395.54345703125" lrx="455.802978515625" lry="1501.763427734375">
+				<note>added "those"</note>
+			</zone>
+			<zone xml:id="f013_z003" ulx="2196.133056640625" uly="99.65984344482422" lrx="2338.691650390625" lry="214.26559448242188">
+				<note>folio number 14</note>
+			</zone>
+			<zone xml:id="f013_z004" ulx="2025.91552734375" uly="465.4111328125" lrx="2418.370361328125" lry="580.6318359375">
+				<note>quote</note>
+			</zone>
+			<zone xml:id="f013_z005" ulx="1024.6527099609375" uly="663.651123046875" lrx="1205.78564453125" lry="739.6263427734375">
+				<note>source reads "our"</note>
+			</zone>
+			<zone xml:id="f013_z006" ulx="194.4598846435547" uly="620.8836059570312" lrx="1713.96435546875" lry="764.78369140625">
+				<note>quote</note>
+			</zone>
+			<zone xml:id="f013_z007" ulx="2022.32861328125" uly="269.1837463378906" lrx="2134.43017578125" lry="355.3710021972656">
+				<note>"." added in print</note>
+			</zone>
+			<zone xml:id="f013_z008" ulx="1425.2254638671875" uly="422.934814453125" lrx="1527.951416015625" lry="506.79266357421875">
+				<note>regularized to "and" in print</note>
+			</zone>
+			<zone xml:id="f013_z009" ulx="207.8771209716797" uly="1077.254638671875" lrx="401.7984619140625" lry="1182.0770263671875">
+				<note>confirm "Truth"</note>
+			</zone>
+			<zone xml:id="f013_z010" ulx="1805.36962890625" uly="1112.8941650390625" lrx="1987.0616455078125" lry="1219.4635009765625">
+				<note>regularized in print</note>
+			</zone>
+			<zone xml:id="f013_z011" ulx="775.6648559570312" uly="1541.61767578125" lrx="815.8467407226562" lry="1627.22265625">
+				<note>corrected to "," in print</note>
+			</zone>
+			<zone xml:id="f013_z012" ulx="1932.903564453125" uly="1479.7723388671875" lrx="2027.24365234375" lry="1546.1597900390625">
+				<note>regularized in print</note>
+			</zone>
 		</surface>
 		<surface xml:id="f014" ulx="0" uly="0" lrx="1465" lry="2560" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p14">
 			<label>f014</label>
