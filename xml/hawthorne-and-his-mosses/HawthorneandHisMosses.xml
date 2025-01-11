@@ -1410,7 +1410,7 @@
 				<note>folio number 20</note>
 			</zone>
 			<zone xml:id="f021_z041" ulx="55.46113967895508" uly="658.570068359375" lrx="106.37022399902344" lry="725.8427734375">
-				<note>compositor's X</note>
+				<note>X</note>
 			</zone>
 		</surface>
 		<surface xml:id="f022" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://melville.electroniclibrary.org/iiif/mosses/canvas/p22">
@@ -1465,7 +1465,7 @@
 				<note>F overwritten to emphasize capital</note>
 			</zone>
 			<zone xml:id="f022_z018" ulx="41.60080337524414" uly="1992.031494140625" lrx="80.69171142578125" lry="2019.3043212890625">
-				<note>compositor's X</note>
+				<note>X</note>
 			</zone>
 			<zone xml:id="f022_z019" ulx="363.16815185546875" uly="1948.6326904296875" lrx="402.2590637207031" lry="1993.1781005859375">
 				<note>added .</note>
@@ -1772,7 +1772,7 @@
 				<note>added "."</note>
 			</zone>
 			<zone xml:id="f023_z042" ulx="29.36921501159668" uly="625.574462890625" lrx="86.64193725585938" lry="661.0289916992188">
-				<note>compositor's "x"</note>
+				<note>x</note>
 			</zone>
 			<zone xml:id="f023_z043" ulx="1162.778564453125" uly="584.0487060546875" lrx="1182.778564453125" lry="621.3214111328125">
 				<note>added ","</note>
@@ -1875,7 +1875,7 @@
 				<note>added ","</note>
 			</zone>
 			<zone xml:id="f024_z030" ulx="16.065378189086914" uly="2410.82080078125" lrx="45.15628433227539" lry="2447.184326171875">
-				<note>compositor's "x"</note>
+				<note>x</note>
 			</zone>
 			<zone xml:id="f024_z031" ulx="457.1562194824219" uly="2389.00244140625" lrx="484.4289245605469" lry="2427.184326171875">
 				<note>added ","</note>
@@ -1938,7 +1938,7 @@
 				<note>added "."</note>
 			</zone>
 			<zone xml:id="f024_z048" ulx="26.82234001159668" uly="1540.2095947265625" lrx="53.185977935791016" lry="1591.11865234375">
-				<note>compositor's x</note>
+				<note>x</note>
 			</zone>
 			<zone xml:id="f024_z014" ulx="1099.83740234375" uly="1439.1661376953125" lrx="1434.7464599609375" lry="1494.802490234375">
 				<note>"Chowder Party" altered lower case</note>
@@ -2095,7 +2095,7 @@
 				<note>added ";"</note>
 			</zone>
 			<zone xml:id="f025_z035" ulx="43.5538330078125" uly="1828.1380615234375" lrx="94.4512939453125" lry="1894.1162109375">
-				<note>compositor's "x"</note>
+				<note>x</note>
 			</zone>
 			<zone xml:id="f025_z036" ulx="1084.6123046875" uly="1811.7547607421875" lrx="1126.06689453125" lry="1846.6639404296875">
 				<note>added ","</note>
@@ -2221,7 +2221,7 @@
 				<note>added ","</note>
 			</zone>
 			<zone xml:id="f025_z064" ulx="39.93080139160156" uly="406.28045654296875" lrx="90.18098449707031" lry="443.9681091308594">
-				<note>compositor's "x"</note>
+				<note>x</note>
 			</zone>
 			<zone xml:id="f025_z015" ulx="385.6468200683594" uly="308.9313049316406" lrx="575.4650268554688" lry="358.022216796875">
 				<note>added "under"</note>
@@ -2322,7 +2322,7 @@
 				<note>"." added</note>
 			</zone>
 			<zone xml:id="f026_z032" ulx="63.83287811279297" uly="1446.4677734375" lrx="94.7419662475586" lry="1490.1041259765625">
-				<note>compositor's "x"</note>
+				<note>x</note>
 			</zone>
 			<zone xml:id="f026_z033" ulx="602.3783569335938" uly="1407.9224853515625" lrx="643.2874145507812" lry="1448.83154296875">
 				<note>added ","</note>
@@ -2415,7 +2415,7 @@
 				<note>added ","</note>
 			</zone>
 			<zone xml:id="f026_z062" ulx="61.41498565673828" uly="869.2185668945312" lrx="101.41498565673828" lry="914.6731567382812">
-				<note>compositor's "x"</note>
+				<note>x</note>
 			</zone>
 			<zone xml:id="f026_z027" ulx="80.92906188964844" uly="1838.785400390625" lrx="1506.2041015625" lry="2518.346923828125">
 				<note>clipped leaf</note>
@@ -2509,7 +2509,7 @@
 				<note>added ","</note>
 			</zone>
 			<zone xml:id="f027_z027" ulx="56.49584197998047" uly="135.8065185546875" lrx="91.04129791259766" lry="200.3519744873047">
-				<note>compositor's x</note>
+				<note>x</note>
 			</zone>
 		</surface>		
 	</facsimile>
