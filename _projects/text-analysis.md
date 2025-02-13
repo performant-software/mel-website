@@ -1,5 +1,5 @@
 ---
-layout: text-analysis_two-columns
+layout: projects_two-columns
 title: Text Analysis
 permalink: /text-analysis
 
