@@ -1,7 +1,7 @@
 ---
 layout: text-analysis_two-columns
 title: Text Analysis
-permalink: /analysis
+permalink: /text-analysis
 
 ---
 
