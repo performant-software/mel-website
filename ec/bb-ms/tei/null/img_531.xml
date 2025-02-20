@@ -1,9 +1,0 @@
-<text xmlns="http://www.tei-c.org/ns/1.0"><body><div><pb facs="#img_531"/>
-<ab>
-<add facs="#img_531_z019" rend="patch _HMp" place="inline" hand="#HM" change="#Stp">
-<metamark facs="#img_531_z016" rend="#HM _HMp" place="margin(bottom) margin(left)" function="caret" change="#Stp">222 </metamark>
-  <lb/>The <add facs="#img_531_z014" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">first </add><app><rdg resp="#HS">mesmeristic</rdg></app> <restore facs="#img_531_z020" change="#Stp"><del facs="#img_531_z020" hand="#HM"><hi rend="restoration">glance</hi></del></restore> was one of <del facs="#img_531_z009" rend="single-stroke _HMp" hand="#HM" change="#Stp">fascin</del> serpent <metamark facs="#img_531_z008" rend="#HM _HMp" place="above" function="folio" change="#Stp">30</metamark>
-  <lb/>fascination; the last <del facs="#img_531_z021" rend="single-stroke _HMp" hand="#HM" change="#Stp">was</del> <del facs="#img_531_z022" rend="single-stroke _HMp" hand="#HM" change="#Stp">threw up a stone wall</del>
-  <lb/><metamark facs="#img_531_z013" rend="#HM _HMp" place="inline" function="composition-information"><add facs="#img_531_z013" rend="no-caret _HMp" place="above" hand="#HM">add</add> <add facs="#img_531_z013" rend="no-caret _HMp" place="inline" hand="#HM" change="#Stp">p30</add></metamark> was as the <del facs="#img_531_z011" rend="multi-stroke _HMp" hand="#HM" change="#Stp">strong</del><add facs="#img_531_z012" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">paralyzing</add> lurch of the torpedo-fish.
-</add>
-</ab></div></body></text>
