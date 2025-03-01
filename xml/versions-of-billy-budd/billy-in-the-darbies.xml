@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 		<teiHeader>
 		<fileDesc>
@@ -10,22 +10,22 @@
 		</titleStmt>
 			<publicationStmt>
 
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
+			<publisher />
+			<pubPlace />
+			<date />
+		<authority />
+		<availability><p /></availability>
 	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
+			<sourceDesc><p /></sourceDesc>
 		</fileDesc>
 	</teiHeader>
 		<text>
 			<body>
 				<div xml:id="billy-in-the-darbies"><p>
-					<lb/>
-				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0789.tif" corresp="img_789"/>
-				<lb/>
-				<lb/>
+					<lb />
+				<pb facs="https://iiif.archivengine.com/iiif/3/lxv46vbbwmaj35o9u5t1r10omi4l;1" corresp="img_789" />
+				<lb />
+				<lb />
 <head type="main">(<ref target="#BBdarbiesNote1">Billy in the Darbies</ref>)</head>
 <note xml:id="BBdarbiesNote1">(Billy in the Darbies): The poem's title appears in two forms: underlined at the end of the last leaf of Chapter 30 and in parentheses at the top of the first leaf of the poem. Past editors have uniformly printed the title without formating; MEL follows the parenthetical version. The "ballad," as it is called in Chapter 30, is a dramatic monologue, fair-copied in ink in HM's hand, with revisions added later in pencil. As the words "End of Book / April 19th 1891"—inscribed also in pencil at the bottom of the poem's final leaf—indicate, these pencilings are among HM's last revisions, some incomplete and all performed less than six months before his death. The parenthesized title, also added late, may have been triggered by the penciled revisions of "iron" and "shackles" to "darbies" in the third to last line of the poem (see note below). HM's parentheses around the poem title corresponds to the novella's subtitle, "(An inside narrative.)"; see "Billy Budd Sailor" in Chapter 1. Melville's bookend parentheticals suggest how HM deployed modes of "indirection" in the framing of his narrative even at the level of punctuation.</note>
 </p><p>
@@ -38,7 +38,7 @@
 <l>But 'twill die in the dawning of Billy's last day. </l>
 <l>A jewel-block they'll make of me tomorrow,</l>
 <l>Pendant pearl from the yard-arm-end</l>
-<l>Like the ear-drop I gave to Bristol Molly— <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0791.tif" corresp="img_791"/></l>
+<l>Like the ear-drop I gave to Bristol Molly— <pb facs="https://iiif.archivengine.com/iiif/3/xvqdsqlntohqsgvp466ges0e7lbt;1" corresp="img_791" /></l>
 <l>O, 'tis me, not the sentence they'll suspend. </l>
 <l>Ay, Ay, all is up; and I must up too</l>
 <l>Early in the morning, aloft from alow.</l>
@@ -49,14 +49,14 @@
 <l>Heaven knows who will have the running of me up!</l>
 <l>No pipe to those halyards.—But aren't it all sham?</l>
 <l>A blur's in my eyes; it is dreaming that I am. </l>
-<l>A hatchet to my <choice><orig>hauzer</orig><reg>hawser</reg></choice>? all adrift to go? <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0793.tif" corresp="img_793"/></l>
+<l>A hatchet to my <choice><orig>hauzer</orig><reg>hawser</reg></choice>? all adrift to go? <pb facs="https://iiif.archivengine.com/iiif/3/q7ufu74r7utvhmgkn1r3zqi1nj5h;1" corresp="img_793" /></l>
 <l>The drum roll to grog, and Billy never know?</l>
 <l>But Donald he has promised to stand by the plank;</l>
 <l>So I'll shake a friendly hand ere I sink.</l>
 <l>But—no! It is dead then I'll be, come to think.—</l>
 <l>I remember Taff the Welshman when he sank.</l>
 <l>And his cheek it was like the budding pink</l>
-<l>But me they'll lash me in hammock, drop me deep. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0795.tif" corresp="img_795"/></l>
+<l>But me they'll lash me in hammock, drop me deep. <pb facs="https://iiif.archivengine.com/iiif/3/81x7qditwygqkd9jqpnwwxm2vg5m;1" corresp="img_795" /></l>
 <l>Fathoms down, fathoms down, how I'll dream fast asleep. </l>
 <l>I feel it stealing now. Sentry, are you there? </l>
 <l>Just ease <ref target="#ref_30172">these darbies</ref><note xml:id="ref_30172">these darbies: HM's last minute revisions to this phrase also triggered the title of the poem, displayed in parentheses at the top of the poem's first leaf: "(Billy in the Darbies)"; see note above. Initially, in the fair-copied poem, HM had settled on the line "Just ease this iron at the wrist,". However, he revised "iron" to "shackles" and then again to "darbies" (slang for handcuffs), which he circled in pencil, but he neglected to modify "this" to the plural "these." MEL emends the incomplete revision to "these darbies."</note> at the wrist,</l>

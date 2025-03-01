@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 		<teiHeader>
 		<fileDesc>
@@ -10,24 +10,24 @@
 		</titleStmt>
 			<publicationStmt>
 
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
+			<publisher />
+			<pubPlace />
+			<date />
+		<authority />
+		<availability><p /></availability>
 	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
+			<sourceDesc><p /></sourceDesc>
 		</fileDesc>
 	</teiHeader>
 		<text>
 			<body><div xml:id="chapter-22"><p>
-				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0661.tif" corresp="img_661"/> <lb/>
+				<pb facs="https://iiif.archivengine.com/iiif/3/sadewnq85sdhizfuir8hrex1remp;1" corresp="img_661" /> <lb />
 			<head type="main">CHAPTER 22</head>
 		</p><p>It was Captain Vere himself who of his own motion communicated the finding of the court to the prisoner; for that purpose going to the compartment where he was in custody and bidding the marine there to withdraw for the time.</p>
 
-<p>Beyond the communication of the sentence what took place at this interview was never known. But in view of the character of the twain briefly closeted in that state-room, each radically <choice><orig>shareing</orig><reg>sharing</reg></choice> in the rarer qualities of <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0663.tif" corresp="img_663"/> our nature—so rare indeed as to be all but <choice><orig>incredable</orig><reg>incredible</reg></choice> to average minds however much cultivated—some conjectures may be ventured.
+<p>Beyond the communication of the sentence what took place at this interview was never known. But in view of the character of the twain briefly closeted in that state-room, each radically <choice><orig>shareing</orig><reg>sharing</reg></choice> in the rarer qualities of <pb facs="https://iiif.archivengine.com/iiif/3/g562thr75l084mf1ahwnrx8t730f;1" corresp="img_663" /> our nature—so rare indeed as to be all but <choice><orig>incredable</orig><reg>incredible</reg></choice> to average minds however much cultivated—some conjectures may be ventured.
 
-</p><p>It would have been in consonance with the spirit of Captain Vere should he on this occasion have concealed nothing from the condemned one—should he indeed have frankly disclosed to him the part he himself had played in bringing about the decision, at the same time revealing his actuating motives. On Billy's side it is not improbable that such a confession <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0665.tif" corresp="img_665"/> would have been received in much the same spirit that prompted it. Not without a sort of joy indeed he might have appreciated the brave opinion of him <choice><orig>implyed</orig><reg>implied</reg></choice> in his Captain making such a confidant of him. Nor, as to the <choice><orig>sentance</orig><reg>sentence</reg></choice> itself could he have been <choice><orig>insensble</orig><reg>insensible</reg></choice> that it was imparted to him as to one not afraid to die. Even more may have been. Captain Vere in end may have developed the passion sometimes latent under <choice><orig>a</orig><reg>an</reg></choice> exterior stoical or indifferent. He was old enough to have been Billy's father. The austere devotee of military duty letting himself melt <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0667.tif" corresp="img_667"/> back into what remains primeval in our formalized humanity may in end have caught Billy to his heart even as Abraham may have caught young Isaac on the brink of <choice><orig>resolutly</orig><reg>resolutely</reg></choice> offering him up in <choice><orig>obediance</orig><reg>obedience</reg></choice> to the exacting behest. But there is no telling the sacrament, seldom if in any case revealed to the gadding <choice><orig>world (no comma in MS)</orig><reg>world,</reg></choice> wherever under circumstances at all akin to those here attempted to be set <choice><orig>forth (no comma in MS)</orig><reg>forth,</reg></choice> two of great Nature's nobler order embrace. There is privacy at the time, inviolable to the survivor, and holy <choice><orig>oblivion (no comma in MS)</orig><reg>oblivion,</reg></choice> the <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0669.tif" corresp="img_669"/> sequel to each diviner magnanimity, providentially covers all at last.
+</p><p>It would have been in consonance with the spirit of Captain Vere should he on this occasion have concealed nothing from the condemned one—should he indeed have frankly disclosed to him the part he himself had played in bringing about the decision, at the same time revealing his actuating motives. On Billy's side it is not improbable that such a confession <pb facs="https://iiif.archivengine.com/iiif/3/vdrfbbbinl76fmdz00mb0satsk0e;1" corresp="img_665" /> would have been received in much the same spirit that prompted it. Not without a sort of joy indeed he might have appreciated the brave opinion of him <choice><orig>implyed</orig><reg>implied</reg></choice> in his Captain making such a confidant of him. Nor, as to the <choice><orig>sentance</orig><reg>sentence</reg></choice> itself could he have been <choice><orig>insensble</orig><reg>insensible</reg></choice> that it was imparted to him as to one not afraid to die. Even more may have been. Captain Vere in end may have developed the passion sometimes latent under <choice><orig>a</orig><reg>an</reg></choice> exterior stoical or indifferent. He was old enough to have been Billy's father. The austere devotee of military duty letting himself melt <pb facs="https://iiif.archivengine.com/iiif/3/k31umr6n9stz3vi7gm237yo9jb9d;1" corresp="img_667" /> back into what remains primeval in our formalized humanity may in end have caught Billy to his heart even as Abraham may have caught young Isaac on the brink of <choice><orig>resolutly</orig><reg>resolutely</reg></choice> offering him up in <choice><orig>obediance</orig><reg>obedience</reg></choice> to the exacting behest. But there is no telling the sacrament, seldom if in any case revealed to the gadding <choice><orig>world (no comma in MS)</orig><reg>world,</reg></choice> wherever under circumstances at all akin to those here attempted to be set <choice><orig>forth (no comma in MS)</orig><reg>forth,</reg></choice> two of great Nature's nobler order embrace. There is privacy at the time, inviolable to the survivor, and holy <choice><orig>oblivion (no comma in MS)</orig><reg>oblivion,</reg></choice> the <pb facs="https://iiif.archivengine.com/iiif/3/x9z6pjqora49n9y1bj4ka2pn9xqk;1" corresp="img_669" /> sequel to each diviner magnanimity, providentially covers all at last.
 
 </p><p>The first to encounter Captain Vere in act of leaving the compartment was the senior Lieutenant. The face he beheld, for the moment one expressive of the agony of the strong, was to that officer, <choice><orig>tho'</orig><reg>though</reg></choice> a man of fifty, a startling revelation. That the condemned one suffered less than he who mainly had effected the condemnation was apparently indicated by the former's exclamation in the scene soon perforce to be touched upon.  </p></div></body>
 		</text>
