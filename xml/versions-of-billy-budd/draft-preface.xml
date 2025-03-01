@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 		<teiHeader>
 		<fileDesc>
@@ -10,20 +10,20 @@
 		</titleStmt>
 			<publicationStmt>
 
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
+			<publisher />
+			<pubPlace />
+			<date />
+		<authority />
+		<availability><p /></availability>
 	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
+			<sourceDesc><p /></sourceDesc>
 		</fileDesc>
 	</teiHeader>
 		<text>
 			<body><div xmlns="" id="draft-preface"><p xmlns="http://www.tei-c.org/ns/1.0">
-				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0812.tif" corresp="img_812"/>
+				<pb facs="https://iiif.archivengine.com/iiif/3/9gz97tpuu39vdz1jkexplxiz7dow;1" corresp="img_812" />
 <head type="main">Draft Preface</head>
-			</p><p xmlns="http://www.tei-c.org/ns/1.0">The year 1797, the year of this narrative, belongs to a period which as every thinker now feels, involved a crisis for Christendom not exceeded in its undetermined momentousness at the time by any other era whereof there is record. The opening proposition made by the Spirit of the Age, involved  <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0814.tif" corresp="img_814"/>the rectification of the Old World's hereditary wrongs. In France to some extent this was bloodily effected. But what then? Straightway the Revolution regency as righter of wrongs itself  became a wrongdoer, one more oppressive than the Kings. Under Napoleon it enthroned upstart kings, and initiated that prolonged agony of Continental war whose final throe was at Waterloo. During those years not the wisest could have forseen that the outcome of all would be what to some thinkers since out to be, a political advance along nearly the whole line for Europeans.<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0816.tif" corresp="img_816"/>Now, as elsewhere hinted, it was something caught from the Revolutionary Spirit that at Spithead emboldened the man-of-war's men to rise against real abuses, long-standing ones, and afterwards at the Nore to make inordinate and aggressive demands, successful resistance to which was confirmed only when the ringleaders were hung for an admonitory spectacle to the anchored fleet. Yet in a way analagous to the operation of the Revolution at large the Great Mutiny, tho' by Englishmen naturally deemed monstrous at the time, doubtless gave the first latent prompting to most important reforms in the British navy.  <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0818.tif" corresp="img_818"/>
+			</p><p xmlns="http://www.tei-c.org/ns/1.0">The year 1797, the year of this narrative, belongs to a period which as every thinker now feels, involved a crisis for Christendom not exceeded in its undetermined momentousness at the time by any other era whereof there is record. The opening proposition made by the Spirit of the Age, involved  <pb facs="https://iiif.archivengine.com/iiif/3/qhjxd8vh3oveqc981szumhx2fova;1" corresp="img_814" />the rectification of the Old World's hereditary wrongs. In France to some extent this was bloodily effected. But what then? Straightway the Revolution regency as righter of wrongs itself  became a wrongdoer, one more oppressive than the Kings. Under Napoleon it enthroned upstart kings, and initiated that prolonged agony of Continental war whose final throe was at Waterloo. During those years not the wisest could have forseen that the outcome of all would be what to some thinkers since out to be, a political advance along nearly the whole line for Europeans.<pb facs="https://iiif.archivengine.com/iiif/3/kz68ao8c5cfk0eppae6wj7yny2nz;1" corresp="img_816" />Now, as elsewhere hinted, it was something caught from the Revolutionary Spirit that at Spithead emboldened the man-of-war's men to rise against real abuses, long-standing ones, and afterwards at the Nore to make inordinate and aggressive demands, successful resistance to which was confirmed only when the ringleaders were hung for an admonitory spectacle to the anchored fleet. Yet in a way analagous to the operation of the Revolution at large the Great Mutiny, tho' by Englishmen naturally deemed monstrous at the time, doubtless gave the first latent prompting to most important reforms in the British navy.  <pb facs="https://iiif.archivengine.com/iiif/3/x4t5su8u6dmba35vbyrpeecyzkvr;1" corresp="img_818" />
 		</p></div></body>
 		</text>
 	</TEI>

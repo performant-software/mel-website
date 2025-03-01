@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 		<teiHeader>
 		<fileDesc>
@@ -10,22 +10,22 @@
 		</titleStmt>
 			<publicationStmt>
 
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
+			<publisher />
+			<pubPlace />
+			<date />
+		<authority />
+		<availability><p /></availability>
 	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
+			<sourceDesc><p /></sourceDesc>
 		</fileDesc>
 	</teiHeader>
 		<text>
 			<body><div xml:id="chapter-26"><p>
-				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0735.tif" corresp="img_735"/> <lb/>
+				<pb facs="https://iiif.archivengine.com/iiif/3/qkacbt5zn9s69sufn75l1qtolgut;1" corresp="img_735" /> <lb />
 			<head type="main">CHAPTER 26</head>
 		</p><p><hi rend="italic">A digression</hi></p>
 
-<p>When some days afterwards in reference to the singularity just mentioned, the <choice><orig>Purser [no comma]</orig><reg>Purser,</reg></choice> a rather ruddy rotund person more accurate as an accountant than profound as a philosopher, said at mess to the Surgeon, "What testimony to the force lodged in <choice><orig>will-power [no comma]</orig><reg>will-power,</reg></choice>" the latter saturnine spare and tall, one in whom a discreet causticity went along with a manner less genial than polite, replied, "Your pardon, Mr. Purser. In a hanging scientifically conducted—and under special orders I myself directed how Budd's was to be effected—any movement following the completed suspension and originating in the body suspended, such movement indicates <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0737.tif" corresp="img_737"/> mechanical spasm in the muscular system. Hence the <choice><orig>abscence</orig><reg>absence</reg></choice> of that is no more attributable to will-power as you call it than to horse-power—begging your pardon."
+<p>When some days afterwards in reference to the singularity just mentioned, the <choice><orig>Purser [no comma]</orig><reg>Purser,</reg></choice> a rather ruddy rotund person more accurate as an accountant than profound as a philosopher, said at mess to the Surgeon, "What testimony to the force lodged in <choice><orig>will-power [no comma]</orig><reg>will-power,</reg></choice>" the latter saturnine spare and tall, one in whom a discreet causticity went along with a manner less genial than polite, replied, "Your pardon, Mr. Purser. In a hanging scientifically conducted—and under special orders I myself directed how Budd's was to be effected—any movement following the completed suspension and originating in the body suspended, such movement indicates <pb facs="https://iiif.archivengine.com/iiif/3/42sf5nm9bqaa2n8q7t9vkwgawj7p;1" corresp="img_737" /> mechanical spasm in the muscular system. Hence the <choice><orig>abscence</orig><reg>absence</reg></choice> of that is no more attributable to will-power as you call it than to horse-power—begging your pardon."
 
 </p><p>"But this muscular spasm you speak of, is not that in a degree more or less invariable in these cases?"
 
@@ -33,11 +33,11 @@
 
 </p><p>"How then, my good sir, do you account for its absence in this <choice><orig>instance?</orig><reg>instance?"</reg></choice>
 
-</p><p>"Mr. Purser, it is clear that your sense of the singularity in this matter equals not mine. You account for it by what you call <choice><orig>will-power [no comma]</orig><reg>will-power,</reg></choice> a term not yet included in the lexicon of science. For me I do not, <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0739.tif" corresp="img_739"/> with my present knowledge pretend to account for it at all. Even should we assume the hypothesis that at the first touch of the halyards the action of Budd's heart intensified by extraordinary emotion at its climax, abruptly stopt—much like a watch when in carelessly winding it up you strain at the finish, thus snapping the chain—even under that hypothesis how account for the phenomenon that followed."
+</p><p>"Mr. Purser, it is clear that your sense of the singularity in this matter equals not mine. You account for it by what you call <choice><orig>will-power [no comma]</orig><reg>will-power,</reg></choice> a term not yet included in the lexicon of science. For me I do not, <pb facs="https://iiif.archivengine.com/iiif/3/nyvh2ebb1g0lltqn1qufe3lxu1l2;1" corresp="img_739" /> with my present knowledge pretend to account for it at all. Even should we assume the hypothesis that at the first touch of the halyards the action of Budd's heart intensified by extraordinary emotion at its climax, abruptly stopt—much like a watch when in carelessly winding it up you strain at the finish, thus snapping the chain—even under that hypothesis how account for the phenomenon that followed."
 
 </p><p>"You admit then that the absence of spasmodic movement was <choice><orig>phenominal</orig><reg>phenomenal</reg></choice>."
 
-</p><p><choice><orig>It was (no quote mark)</orig><reg>"It was</reg></choice> <choice><orig>phenominal</orig><reg>phenomenal</reg></choice>, Mr. Purser, in the sense that it was an appearance <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0741.tif" corresp="img_741"/> the cause of which is not <choice><orig>immediatly</orig><reg>immediately</reg></choice> to be assigned."
+</p><p><choice><orig>It was (no quote mark)</orig><reg>"It was</reg></choice> <choice><orig>phenominal</orig><reg>phenomenal</reg></choice>, Mr. Purser, in the sense that it was an appearance <pb facs="https://iiif.archivengine.com/iiif/3/4dwh23ssdwpvt166sjecnngcykbp;1" corresp="img_741" /> the cause of which is not <choice><orig>immediatly</orig><reg>immediately</reg></choice> to be assigned."
 
 </p><p><choice><orig>But</orig><reg>"But</reg></choice> tell me, my dear <choice><orig>Sir,</orig><reg>Sir,"</reg></choice> pertinaciously continued the other, "was the man's death effected by the halter, or was it a species of <choice><orig>euthanasia? (no quote mark)</orig><reg>euthanasia?"</reg></choice>
 
