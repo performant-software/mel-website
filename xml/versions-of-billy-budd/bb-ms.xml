@@ -6266,7 +6266,7 @@
 		<zone xml:id="img_489_z037" ulx="249" uly="1099" lrx="1274" lry="1299" />
 	</surface>
 	<surface lry="3317" lrx="3205" uly="0" ulx="0" xml:id="img_491">
-		<label>leaf 491.1</label>
+		<label>leaf 491</label>
 		<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/yzwamihgb6dqrazlqtqd0gir0fut;1" />
 		<zone xml:id="img_491_z001" ulx="2636" uly="1114" lrx="177" lry="285" />
 		<zone xml:id="img_491_z002" ulx="1693" uly="461" lrx="1905" lry="351" />
@@ -6315,37 +6315,37 @@
 		<zone xml:id="img_493_z029" ulx="2492" uly="2841" lrx="1553" lry="3089" />
 		<zone xml:id="img_493_z030" ulx="576" uly="1874" lrx="786" lry="1693" />
 	</surface>
-	<surface lry="3317" lrx="3205" uly="0" ulx="0" xml:id="img_491">
-		<label>leaf 491.3</label>
+	<surface lry="3317" lrx="3205" uly="0" ulx="0" xml:id="img_491b">
+		<label>leaf 491b</label>
 		<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/yzwamihgb6dqrazlqtqd0gir0fut;1" />
-		<zone xml:id="img_491_z001" ulx="2641" uly="255" lrx="76" lry="1160" />
-		<zone xml:id="img_491_z002" ulx="1859" uly="353" lrx="1691" lry="473" />
-		<zone xml:id="img_491_z003" ulx="2025" uly="273" lrx="1624" lry="410" />
-		<zone xml:id="img_491_z004" ulx="774" uly="829" lrx="232" lry="1067" />
-		<zone xml:id="img_491_z005" ulx="860" uly="764" lrx="798" lry="834" />
-		<zone xml:id="img_491_z006" ulx="1587" uly="922" lrx="1513" lry="1004" />
-		<zone xml:id="img_491_z007" ulx="1852" uly="944" lrx="1209" lry="1132" />
-		<zone xml:id="img_491_z008" ulx="2517" uly="841" lrx="2426" lry="904" />
-		<zone xml:id="img_491_z009" ulx="2589" uly="836" lrx="1919" lry="1014" />
-		<zone xml:id="img_491_z010" ulx="2500" uly="942" lrx="2349" lry="1074" />
-		<zone xml:id="img_491_z011" ulx="2641" uly="2014" lrx="74" lry="3131" />
-		<zone xml:id="img_491_z013" ulx="759" uly="2104" lrx="338" lry="2242" />
-		<zone xml:id="img_491_z014" ulx="791" uly="2209" lrx="445" lry="2385" />
-		<zone xml:id="img_491_z015" ulx="2381" uly="2157" lrx="1001" lry="2370" />
-		<zone xml:id="img_491_z016" ulx="1169" uly="2340" lrx="813" lry="2470" />
-		<zone xml:id="img_491_z017" ulx="2470" uly="2357" lrx="2156" lry="2455" />
-		<zone xml:id="img_491_z018" ulx="2428" uly="2267" lrx="2210" lry="2370" />
-		<zone xml:id="img_491_z019" ulx="2317" uly="2462" lrx="722" lry="2713" />
-		<zone xml:id="img_491_z020" ulx="2124" uly="2628" lrx="1629" lry="2793" />
-		<zone xml:id="img_491_z021" ulx="531" uly="2821" lrx="158" lry="2946" />
-		<zone xml:id="img_491_z022" ulx="2547" uly="821" lrx="2502" lry="922" />
-		<zone xml:id="img_491_z023" ulx="2517" uly="117" lrx="2349" lry="290" />
-		<zone xml:id="img_491_z024" ulx="2631" uly="533" lrx="215" lry="1099" />
-		<zone xml:id="img_491_z025" ulx="1417" uly="886" lrx="1558" lry="1022" />
+		<zone xml:id="img_491b_z001" ulx="2641" uly="255" lrx="76" lry="1160" />
+		<zone xml:id="img_491b_z002" ulx="1859" uly="353" lrx="1691" lry="473" />
+		<zone xml:id="img_491b_z003" ulx="2025" uly="273" lrx="1624" lry="410" />
+		<zone xml:id="img_491b_z004" ulx="774" uly="829" lrx="232" lry="1067" />
+		<zone xml:id="img_491b_z005" ulx="860" uly="764" lrx="798" lry="834" />
+		<zone xml:id="img_491b_z006" ulx="1587" uly="922" lrx="1513" lry="1004" />
+		<zone xml:id="img_491b_z007" ulx="1852" uly="944" lrx="1209" lry="1132" />
+		<zone xml:id="img_491b_z008" ulx="2517" uly="841" lrx="2426" lry="904" />
+		<zone xml:id="img_491b_z009" ulx="2589" uly="836" lrx="1919" lry="1014" />
+		<zone xml:id="img_491b_z010" ulx="2500" uly="942" lrx="2349" lry="1074" />
+		<zone xml:id="img_491b_z011" ulx="2641" uly="2014" lrx="74" lry="3131" />
+		<zone xml:id="img_491b_z013" ulx="759" uly="2104" lrx="338" lry="2242" />
+		<zone xml:id="img_491b_z014" ulx="791" uly="2209" lrx="445" lry="2385" />
+		<zone xml:id="img_491b_z015" ulx="2381" uly="2157" lrx="1001" lry="2370" />
+		<zone xml:id="img_491b_z016" ulx="1169" uly="2340" lrx="813" lry="2470" />
+		<zone xml:id="img_491b_z017" ulx="2470" uly="2357" lrx="2156" lry="2455" />
+		<zone xml:id="img_491b_z018" ulx="2428" uly="2267" lrx="2210" lry="2370" />
+		<zone xml:id="img_491b_z019" ulx="2317" uly="2462" lrx="722" lry="2713" />
+		<zone xml:id="img_491b_z020" ulx="2124" uly="2628" lrx="1629" lry="2793" />
+		<zone xml:id="img_491b_z021" ulx="531" uly="2821" lrx="158" lry="2946" />
+		<zone xml:id="img_491b_z022" ulx="2547" uly="821" lrx="2502" lry="922" />
+		<zone xml:id="img_491b_z023" ulx="2517" uly="117" lrx="2349" lry="290" />
+		<zone xml:id="img_491b_z024" ulx="2631" uly="533" lrx="215" lry="1099" />
+		<zone xml:id="img_491b_z025" ulx="1417" uly="886" lrx="1558" lry="1022" />
 
-		<zone xml:id="img_491_z028" ulx="1258" uly="2062" lrx="1177" lry="2199" />
-		<zone xml:id="img_491_z029" ulx="833" uly="2079" lrx="1822" lry="2227" />
-		<zone xml:id="img_491_z030" ulx="262" uly="3131" lrx="145" lry="3224" />
+		<zone xml:id="img_491b_z028" ulx="1258" uly="2062" lrx="1177" lry="2199" />
+		<zone xml:id="img_491b_z029" ulx="833" uly="2079" lrx="1822" lry="2227" />
+		<zone xml:id="img_491b_z030" ulx="262" uly="3131" lrx="145" lry="3224" />
 	</surface>
 	<surface lry="3355" lrx="3232" uly="0" ulx="0" xml:id="img_497">
 		<label>leaf 497</label>
@@ -14970,17 +14970,17 @@ Did Lieutenant Ratcliffe happen to tell
   <lb /><del facs="#img_493_z026" rend="single-stroke _HMp" hand="#HM" change="#StBb"><add facs="#img_493_z026" rend="no-caret _ink1" place="inline" hand="#HM" change="#StBb">pitfall under his <restore facs="#img_493_z028" change="#StBb"><del facs="#img_493_z028" hand="#HM"><hi rend="restoration">ruddy</hi></del></restore> clover."</add></del>
 </add>
 </ab>
-<pb facs="#img_491" />
+<pb facs="#img_491b" />
 <ab>
-<add facs="#img_491_z011" rend="patch _HMp" place="inline" hand="#HM" change="#Stp">
-<del facs="#img_491_z013" rend="single-stroke _HMp" hand="#HM" change="#Stp">Your hon</del><del facs="#img_491_z014" rend="single-stroke _HMp" hand="#HM" change="#Stp"><add facs="#img_491_z014" rend="no-caret _HMp" place="below" hand="#HM" change="#Stp">Your honor</add></del>
-  <lb /><del facs="#img_491_z029" rend="single-stroke _HMp" hand="#HM" change="#Stp">His cheek</del> <del facs="#img_491_z028" rend="single-stroke _HMp" hand="#HM" change="#Stp">is</del> <del facs="#img_491_z029" rend="single-stroke _HMp" hand="#HM" change="#Stp">it is ruddy,</del>
-<lb /><del facs="#img_491_z015" rend="single-stroke _HMp" hand="#HM" change="#Stp">You think he is goodly to see, but</del>
-<lb /><del facs="#img_491_z016" rend="single-stroke _HMp" hand="#HM" change="#StEb">he is as</del>
-<lb />You have but noted his <del facs="#img_491_z017" rend="single-stroke _HMp" hand="#HM" change="#Stp">ruddy</del> <add facs="#img_491_z018" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">fair</add>
-<lb />cheek. <del facs="#img_491_z019" rend="single-stroke _HMp" hand="#HM" change="#Stp">Beware the man-trap under the red clover</del>
-<lb />A man-trap may be under <del facs="#img_491_z020" rend="single-stroke _HMp" hand="#HM" change="#Stp">red clover</del> the
-<lb /><add facs="#img_491_z021" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">ruddy-tipped</add> daisies.
+<add facs="#img_491b_z011" rend="patch _HMp" place="inline" hand="#HM" change="#Stp">
+<del facs="#img_491b_z013" rend="single-stroke _HMp" hand="#HM" change="#Stp">Your hon</del><del facs="#img_491b_z014" rend="single-stroke _HMp" hand="#HM" change="#Stp"><add facs="#img_491b_z014" rend="no-caret _HMp" place="below" hand="#HM" change="#Stp">Your honor</add></del>
+  <lb /><del facs="#img_491b_z029" rend="single-stroke _HMp" hand="#HM" change="#Stp">His cheek</del> <del facs="#img_491b_z028" rend="single-stroke _HMp" hand="#HM" change="#Stp">is</del> <del facs="#img_491b_z029" rend="single-stroke _HMp" hand="#HM" change="#Stp">it is ruddy,</del>
+<lb /><del facs="#img_491b_z015" rend="single-stroke _HMp" hand="#HM" change="#Stp">You think he is goodly to see, but</del>
+<lb /><del facs="#img_491b_z016" rend="single-stroke _HMp" hand="#HM" change="#StEb">he is as</del>
+<lb />You have but noted his <del facs="#img_491b_z017" rend="single-stroke _HMp" hand="#HM" change="#Stp">ruddy</del> <add facs="#img_491b_z018" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">fair</add>
+<lb />cheek. <del facs="#img_491b_z019" rend="single-stroke _HMp" hand="#HM" change="#Stp">Beware the man-trap under the red clover</del>
+<lb />A man-trap may be under <del facs="#img_491b_z020" rend="single-stroke _HMp" hand="#HM" change="#Stp">red clover</del> the
+<lb /><add facs="#img_491b_z021" rend="no-caret _HMp" place="above" hand="#HM" change="#Stp">ruddy-tipped</add> daisies.
 </add>
 </ab>
 <pb facs="#img_497" />
