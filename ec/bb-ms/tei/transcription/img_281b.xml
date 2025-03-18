@@ -1,0 +1,9 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="transcription"><body><div><pb facs="#img_281b"/>
+<ab>
+<metamark place="inline" function="composition-information"><hi rend="italic">[Chapter ten begins on the last third of Leaf Image 281.]</hi></metamark>
+  <lb/>The next day <subst facs="#img_281_z001"><del facs="#img_281_z001" rend="overwritten _ink1" type="superimposed" hand="#HM">a</del><add facs="#img_281b_z001" rend="superimposed _ink4" type="superimposed" hand="#HM" change="#StEc">an</add></subst> <del facs="#img_281b_z002" rend="single-stroke _ink4" hand="#HM" change="#StEc">little</del>
+  <lb/>incident served to confirm Billy Budd
+  <lb/>in his incredulity as to the <del facs="#img_281b_z004" rend="single-stroke _HMp" hand="#HM" change="#StEc">main-mast-man's</del> <add facs="#img_281b_z003" rend="no-caret _HMp" place="above" hand="#HM" change="#StEc">Dansker's</add>
+  <lb/>strange summing up of the case
+  <lb/>submitted<add facs="#img_281b_z005" rend="no-caret _HMp" place="inline" hand="#HM" change="#StEc">.</add> <del facs="#img_281b_z006" rend="single-stroke _HMp" hand="#HM" change="#StEc">to him.</del> <metamark facs="#img_281b_z008" rend="#HM" place="inline" function="insertion-device" change="#StEc">/</metamark>
+</ab></div></body></text>
