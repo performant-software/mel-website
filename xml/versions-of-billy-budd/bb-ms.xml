@@ -6266,7 +6266,7 @@
 		<zone xml:id="img_489_z037" ulx="249" uly="1099" lrx="1274" lry="1299" />
 	</surface>
 	<surface lry="3317" lrx="3205" uly="0" ulx="0" xml:id="img_491">
-		<label>leaf 491</label>
+		<label>leaf 491a</label>
 		<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/yzwamihgb6dqrazlqtqd0gir0fut;1" />
 		<zone xml:id="img_491_z001" ulx="2636" uly="1114" lrx="177" lry="285" />
 		<zone xml:id="img_491_z002" ulx="1693" uly="461" lrx="1905" lry="351" />
