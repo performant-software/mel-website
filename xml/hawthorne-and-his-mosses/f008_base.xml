@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <text>
+      <body>
+         <div type="leaf">
+            <p>
+               <pb facs="#f007"/>
+            </p>
+            <p>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi> "Methinks I should tremble now, were his <lb/> wizard power of gliding through all impediments <lb/> in search of me, to place him suddenly before <lb/> my eyes" How profound, nay appalling, is <lb/> the moral evolved by the "Earth's Holocaust"<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+               <lb/>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">where</hi>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi> beginning with the hollow follies and <lb/> affectation<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi> of the world, -- <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">all vanities and </hi>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">empty</hi>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> theories</hi>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">&amp;</hi>
+               <lb/>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">forms,</hi> are<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">one after another, &amp; by an admirably graduated, </hi>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">growing comprehensiveness</hi>; thrown into the allegorical fire, till, <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at length,</hi>
+               <lb/> nothing is left but the all-<lb/>engendering heart of man; which remaining <lb/> still unconsumed, the great conflagration is <lb/>
+               <ref target="note_594af968520b4e46ae42e7fc4ccbe229">naught</ref>
+               <note xml:id="note_594af968520b4e46ae42e7fc4ccbe229">LW has "nought".</note>. <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Of</hi> a piece with this, is the <lb/> "Intelligence Office"<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> a wondrous symbolizing <lb/> of <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the</hi> secret workings in <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">mens' souls.</hi>
+               <restore/> are <lb/> other sketches, still more charged with <lb/> ponderous import.<note>It appears that HM initially had a comma, followed by an em-dash, before "The Christmas Banquet," and then rubbed out the dash and comma to render a full stop before adding the bracket to indicate a new paragraph.</note>"The Christmas Banquet"<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">&amp;</hi> "The <lb/> Bosom <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Serpent"</hi> would be <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">fine subjects</hi>
+               <lb/> for a curious and elaborate analysis, touching <lb/> the conjectural parts of the mind that produced <lb/> them. For spite of all the <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Indian-summer</hi> sunlight <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">on</hi> the <lb/> hither side of Hawthorne's soul, the other side -- like <lb/> the dark half of the physical sphere -- is shrouded <lb/> in a blackness, <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">ten times</hi>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">black.</hi>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+               <note>ESM left a blank space and added "ten times" before HM made further revisions to "darker".</note>   But this darkness <lb/> but gives more effect to the evermoving dawn, <lb/> that forever <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">advances</hi> through it, and <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">circumnavigates</hi>
+               <lb/> his world. Whether Hawthorne has simply availed <lb/> himself of this mystical blackness as a means <lb/>
+               <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">to</hi> the wondrous effects he makes it to produce <lb/> in his lights &amp; shades; or whether there really <lb/> lurks in him, perhaps unknown to himself, <lb/> a touch of Puritanic gloom,-- this, I cannot</p>
+         </div>
+      </body>
+   </text>
+</TEI>
