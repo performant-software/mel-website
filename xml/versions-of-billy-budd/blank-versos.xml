@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 		<teiHeader>
 		<fileDesc>
@@ -10,16 +10,16 @@
 		</titleStmt>
 			<publicationStmt>
 		
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
+			<publisher />
+			<pubPlace />
+			<date />
+		<authority />
+		<availability><p /></availability>
 	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
+			<sourceDesc><p /></sourceDesc>
 		</fileDesc>
 	</teiHeader>			
 		<text>
-			<body><div xmlns="" id="blank-versos"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0109.tif" corresp="img_109"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0110.tif" corresp="img_110"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0407.tif" corresp="img_407"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0408.tif" corresp="img_408"/><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0801.tif" corresp="img_801"/></p></div></body>
+			<body><div xmlns="" id="blank-versos"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iiif.archivengine.com/iiif/3/42xad08rbggkwphc3yo51gfzh0ai;1" corresp="img_109" /><pb facs="https://iiif.archivengine.com/iiif/3/cdsxta2s69zr3crbocerd9njszlv;1" corresp="img_110" /><pb facs="https://iiif.archivengine.com/iiif/3/x58fj0jyfbd1flka1lnao4aiovtf;1" corresp="img_407" /><pb facs="https://iiif.archivengine.com/iiif/3/116yzt909gir9jm9om73na4iooap;1" corresp="img_408" /><pb facs="https://iiif.archivengine.com/iiif/3/o9dopwuk3rto40h1127c74bak73i;1" corresp="img_801" /></p></div></body>
 		</text>
 	</TEI>

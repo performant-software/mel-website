@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 		<teiHeader>
 		<fileDesc>
@@ -10,32 +10,32 @@
 		</titleStmt>
 			<publicationStmt>
 
-			<publisher/>
-			<pubPlace/>
-			<date/>
-		<authority/>
-		<availability><p/></availability>
+			<publisher />
+			<pubPlace />
+			<date />
+		<authority />
+		<availability><p /></availability>
 	</publicationStmt>
-			<sourceDesc><p/></sourceDesc>
+			<sourceDesc><p /></sourceDesc>
 		</fileDesc>
 	</teiHeader>
 		<text>
-			<body><div xmlns="" id="draft-chapter:-lawyers,-experts,-clergy"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0800.tif" corresp="img_800"/>
+			<body><div xmlns="" id="draft-chapter:-lawyers,-experts,-clergy"><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iiif.archivengine.com/iiif/3/crl5sady1d6sjt7wdhc5tm0cb9fo;1" corresp="img_800" />
 <head type="main">Lawyers, Experts, Clergy</head>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">An Episode by the way —
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Can it be the phenomenon, disowned or at least conceded not acknowledged, that in some criminal cases puzzles the courts? For this cause have our juries at times not only to endure the prolonged contentions of lawyers with their fees, but also the yet more perplexing strife of the medical experts with theirs? — <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0802.tif" corresp="img_802"/>But why leave it to them? why not subpoena as well the clerical proficients? Their vocation <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0804.tif" corresp="img_804"/>bringing them into peculiar contact with so many human beings, and sometimes in their least guarded hour, in interviews very much more confidential than those of physcian and patient; this would seem to qualify them to know something about those intricacies involved in the question of moral responsibility; whether in a given case, say, the crime proceeded from  mania in the brain or rabies of the heart. As to any differences among themselves these clerical proficients might develop on the stand, these could hardly be greater than the direct contradictions exchanged between the remunerated medical experts.
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Can it be the phenomenon, disowned or at least conceded not acknowledged, that in some criminal cases puzzles the courts? For this cause have our juries at times not only to endure the prolonged contentions of lawyers with their fees, but also the yet more perplexing strife of the medical experts with theirs? — <pb facs="https://iiif.archivengine.com/iiif/3/v2ybpf9bkjiniedavjdilpv4z9aw;1" corresp="img_802" />But why leave it to them? why not subpoena as well the clerical proficients? Their vocation <pb facs="https://iiif.archivengine.com/iiif/3/ewqwu1hy4prbmqermwh68nk1z8y2;1" corresp="img_804" />bringing them into peculiar contact with so many human beings, and sometimes in their least guarded hour, in interviews very much more confidential than those of physcian and patient; this would seem to qualify them to know something about those intricacies involved in the question of moral responsibility; whether in a given case, say, the crime proceeded from  mania in the brain or rabies of the heart. As to any differences among themselves these clerical proficients might develop on the stand, these could hardly be greater than the direct contradictions exchanged between the remunerated medical experts.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0806.tif" corresp="img_806"/><ref target="#ref_30485">***</ref><note xml:id="ref_30485">The writing beginning on leaf 220a does not follow from the previous leaf. It and the full paragraph that follows — effectively the entire MS leaf — are deleted generally with  pencil scribbling.</note>
+</p><p xmlns="http://www.tei-c.org/ns/1.0"><pb facs="https://iiif.archivengine.com/iiif/3/2hpvobvdnzjhhzudijm96saexc74;1" corresp="img_806" /><ref target="#ref_30485">***</ref><note xml:id="ref_30485">The writing beginning on leaf 220a does not follow from the previous leaf. It and the full paragraph that follows — effectively the entire MS leaf — are deleted generally with  pencil scribbling.</note>
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">from this as well as other indications at once inferred what it was that lay plank-like before him. Yes, the young mute's blow, an athlete's, a blow <orig regularizedText="elecrically">electrically</orig> energized by the spasm of his heart, unintentionally had had upon its object the all but instantanious operation of the divine judgement on Annannias.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">Captain Vere intently watching the Surgeon's face, asked, "Is it so then? I thought it. But verify it." And the customary tests were made, confirming the Surgeon's first glance. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0808.tif" corresp="img_808"/>
+</p><p xmlns="http://www.tei-c.org/ns/1.0">Captain Vere intently watching the Surgeon's face, asked, "Is it so then? I thought it. But verify it." And the customary tests were made, confirming the Surgeon's first glance. <pb facs="https://iiif.archivengine.com/iiif/3/nr3m2y4k7ou9jrlxhsbhx6230ojn;1" corresp="img_808" />
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">At Captain Vere's motion, the Surgeon assisted him in removing the body to the compartment aft opposite to that where the foretopman remained for the time self-immured. This being done, the officer was in brief terms enlightened as to the circumstances which had resulted in the <orig regularizedText="tragedy] trajedy in MS.">tragedy</orig>.
 
-</p><p xmlns="http://www.tei-c.org/ns/1.0">"Go now" said Captain Vere in conclusion; "The case is no wonted one, nor could have happened at a worse time everyway and for everybody more trying. A few moments for further thought and I shall act. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0810.tif" corresp="img_810"/>
+</p><p xmlns="http://www.tei-c.org/ns/1.0">"Go now" said Captain Vere in conclusion; "The case is no wonted one, nor could have happened at a worse time everyway and for everybody more trying. A few moments for further thought and I shall act. <pb facs="https://iiif.archivengine.com/iiif/3/5gi3gd3y751yfocvlb7lbeg9z0la;1" corresp="img_810" />
 
 </p><p xmlns="http://www.tei-c.org/ns/1.0">As <ref target="#ref_30488">the</ref><note xml:id="ref_30488">the Surgeon] HM originally deleted "the former" substituting "Surgeon," but he failed to restore "the," giving "As Surgeon." MEL restores the dropped "the."</note> Surgeon withdrew he could not help thinking how more than futile the utmost discretion sometimes proves in this human sphere subject as it is to unforeseeable fatalities; the prudent method adopted by Captain Vere to obviate publicity and trouble having resulted in an event that necessitated the former, and, under existing circumstances in the navy indefinitely magnified the latter.</p></div></body>
 		</text>

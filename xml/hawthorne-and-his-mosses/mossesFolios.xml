@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<facsimile sameAs="https://core-data-cloud-production-955ccda75add.herokuapp.com//core_data/public/v1/items/70a859e2-24de-43a7-95f1-8eb5d7bd452d/manifests/7b6c4ff6-df70-4ad6-af12-a0c4933c7a88">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="1560" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cc1a92a1-5634-4b49-b618-9614aa1b4e37/page/1">
+			<label xml:lang="en">001.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/xmvd680rsanz94duuo1e8rx1kn34;1"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cfdf07ab-8bcf-4ba9-9c8c-bf2648962a2f/page/1">
+			<label xml:lang="en">003.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/e7cleef9aeh4pcqiken45n80g0t2;1"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="1571" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/73d20fb2-ca9e-42cb-8f8d-742f6d90ae45/page/1">
+			<label xml:lang="en">005.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/ggnleqpnbyc5wjy8hjt6hxasbr0s;1"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/6513ea17-da40-457c-a087-404e96babbb3/page/1">
+			<label xml:lang="en">007.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/3rqminmlhqpu57bfc6sy6nzoooe5;1"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/660aa16f-3ff5-4fa0-9209-9523c2c5f36a/page/1">
+			<label xml:lang="en">009.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/nczikvd3o0s31r7yantfne359cf2;1"/>
+		</surface>
+		<surface xml:id="f005" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/11232c57-c61b-4e6a-a3d3-19109fd3d8b8/page/1">
+			<label xml:lang="en">011.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/lzxgftqgn5dm0tvjmrcber7hzkfq;1"/>
+		</surface>
+		<surface xml:id="f006" ulx="0" uly="0" lrx="1571" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/74ae1d67-e906-4f1f-a5e9-bd7ee34f7665/page/1">
+			<label xml:lang="en">013.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/bpzi37scod4htzhoiu1pgi80fia4;1"/>
+		</surface>
+		<surface xml:id="f007" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b0d25452-39b0-478e-b1e3-9a9a975b07f1/page/1">
+			<label xml:lang="en">015.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/pqn15ri8iuxomt0c2sw5cque64qr;1"/>
+		</surface>
+		<surface xml:id="f008" ulx="0" uly="0" lrx="1566" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/81591b2b-b107-4727-933a-386576f23ac3/page/1">
+			<label xml:lang="en">017.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/ufb9co5ub8uviiok2n3t7szm041c;1"/>
+		</surface>
+		<surface xml:id="f009" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/d8bf555e-65f1-4ed3-95f4-ba76b9e76261/page/1">
+			<label xml:lang="en">019.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/vfoibzwq5rnellr25hhhouxj1ksa;1"/>
+		</surface>
+		<surface xml:id="f010" ulx="0" uly="0" lrx="1559" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/46572245-833e-4753-9d06-a8c0b5dac3b4/page/1">
+			<label xml:lang="en">021.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/fa16p42ls8dw8zq8jwk88m84w6d0;1"/>
+		</surface>
+		<surface xml:id="f011" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/1c543e3d-ca35-4996-9d81-57865dd6ffb3/page/1">
+			<label xml:lang="en">023.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/subw65vras3h1lj9cx7dicat8c6g;1"/>
+		</surface>
+		<surface xml:id="f012" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/07275e6e-6006-49e0-91bc-2a1b9b618eb8/page/1">
+			<label xml:lang="en">025.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/tqxxx6fuygdr8ks1xpiiiap4l1sm;1"/>
+		</surface>
+		<surface xml:id="f013" ulx="0" uly="0" lrx="2560" lry="2478" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/8df3d9d3-122b-403e-b975-a4306883de09/page/1">
+			<label xml:lang="en">027.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/a70qqyy5rohe4vi7dcgdzovew0yt;1"/>
+		</surface>
+		<surface xml:id="f014" ulx="0" uly="0" lrx="1465" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/5211c8a7-4b82-413a-a8ce-45d2238bc1a0/page/1">
+			<label xml:lang="en">029.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/toeyju7juajsg5gs1m4styx9ytrb;1"/>
+		</surface>
+		<surface xml:id="f015" ulx="0" uly="0" lrx="2559" lry="1092" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b8b5fdf1-e712-4b44-9129-ec849c27295a/page/1">
+			<label xml:lang="en">031.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/6c28a05pk4jh2fr5amhklscja2cl;1"/>
+		</surface>
+		<surface xml:id="f016" ulx="0" uly="0" lrx="1542" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/06af1073-6686-48e7-93aa-35a5e8f1dfdc/page/1">
+			<label xml:lang="en">033.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/56ll5fz0r4cyr22z0eyo4moox70q;1"/>
+		</surface>
+		<surface xml:id="f017" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/36018ff9-c3c1-4561-9389-290d0e9850fa/page/1">
+			<label xml:lang="en">035.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/gse3zgpoqsmgkvljnp563k65kdw6;1"/>
+		</surface>
+		<surface xml:id="f018" ulx="0" uly="0" lrx="1564" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b74c4668-7c31-454e-841b-decd074fc7d2/page/1">
+			<label xml:lang="en">037.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/jubhs4si2y8kg4kvd6fqit26d0zi;1"/>
+		</surface>
+		<surface xml:id="f019" ulx="0" uly="0" lrx="1562" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/410bc507-f212-40aa-a609-14ce1a42193f/page/1">
+			<label xml:lang="en">039.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/lb9oc02cq3tkjcfxhgrfjc5o4bsc;1"/>
+		</surface>
+		<surface xml:id="f020" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/6dd4e855-45eb-44a6-800a-1237731b6a0a/page/1">
+			<label xml:lang="en">041.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/yc34nr61zx4wh957jmgwjwyip14v;1"/>
+		</surface>
+		<surface xml:id="f021" ulx="0" uly="0" lrx="1558" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/c090e723-0cfe-4944-a1a2-ad38b0e3f038/page/1">
+			<label xml:lang="en">043.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/gtw9ckc9bomrarkvqgs5f6ifiu5q;1"/>
+		</surface>
+		<surface xml:id="f022" ulx="0" uly="0" lrx="1561" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/cb8c6727-0233-4b69-9f0c-1a45a11929ef/page/1">
+			<label xml:lang="en">045.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/podv5fv5co4eixachjioek3yrcvz;1"/>
+		</surface>
+		<surface xml:id="f023" ulx="0" uly="0" lrx="1555" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/7d91978d-39d3-465a-8b1c-d1637883a525/page/1">
+			<label xml:lang="en">047.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/vi19s3tkv669b7034y3lajvmvrb6;1"/>
+		</surface>
+		<surface xml:id="f024" ulx="0" uly="0" lrx="1552" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/50a87a5e-00dd-4523-a44a-27c44dd933a9/page/1">
+			<label xml:lang="en">049.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/cn94m6v08x4gs0p1wkmb1h8y5um7;1"/>
+		</surface>
+		<surface xml:id="f025" ulx="0" uly="0" lrx="1558" lry="2558" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/25a734ba-3e9e-4ed7-9be0-025995b53c2f/page/1">
+			<label xml:lang="en">051.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/beflhu2ygaj6klte6zkeu3x6bqsn;1"/>
+		</surface>
+		<surface xml:id="f026" ulx="0" uly="0" lrx="1576" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/b25c7861-146c-4c58-acfd-d4c023e00894/page/1">
+			<label xml:lang="en">053.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/h5ljn3rxxt4t60beeo1rhb896eum;1"/>
+		</surface>
+		<surface xml:id="f027" ulx="0" uly="0" lrx="2020" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/72f89fd3-e48d-4831-bd64-021d23d9b463/page/1">
+			<label xml:lang="en">055.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/detcwspymda1yptc8yvs5rkutp6i;1"/>
+		</surface>
+		<surface xml:id="f028" ulx="0" uly="0" lrx="1787" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/9d283d81-8945-4cd7-ad48-000dbcb601af/page/1">
+			<label xml:lang="en">057.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/nwsvt131tpwcg1ftpv7pme2m3106;1"/>
+		</surface>
+		<surface xml:id="f029" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/f84cc98a-196a-4627-ab6f-3fe4210c796f/page/1">
+			<label xml:lang="en">059.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/vdee0rbyxpbi9tiwe1jafsv6f1zn;1"/>
+		</surface>
+		<surface xml:id="f030" ulx="0" uly="0" lrx="1565" lry="2560" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/ef505a0e-212f-4e40-a84d-9c3df99a73dc/page/1">
+			<label xml:lang="en">061.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/1zuo6lfyk3eglbgg23z1x1rwwlw6;1"/>
+		</surface>
+		<surface xml:id="f031" ulx="0" uly="0" lrx="1672" lry="2559" sameAs="https://iiif-cloud-production.herokuapp.com/public/resources/3ef688ce-3cbe-44e3-96c0-6588b16d4248/page/1">
+			<label xml:lang="en">063.tiff</label>
+			<graphic mimeType="application/json" url="https://iiif.archivengine.com/iiif/3/d5y17j6yv523ywsmal13o3xo8r8e;1"/>
+		</surface>
+	</facsimile>
+</TEI>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -10,23 +10,23 @@
 			</titleStmt>
 			<publicationStmt>
 
-				<publisher/>
-				<pubPlace/>
-				<date/>
-				<authority/>
+				<publisher />
+				<pubPlace />
+				<date />
+				<authority />
 				<availability>
-					<p/>
+					<p />
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<p/>
+				<p />
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
 	<text>
 		<body>
 			<div xml:id="chapter-6"><p>
-				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0173.tif" corresp="img_173"/> <lb/>
+				<pb facs="https://iiif.archivengine.com/iiif/3/enhmo67bjk4141vuhe5s4qsx8whq;1" corresp="img_173" /> <lb />
 				<head type="main">CHAPTER 6</head>
 
 			</p><p>But on board the seventy-four in which Billy now swung
@@ -35,7 +35,7 @@
 				Mutiny was a recent event. In their general bearing and conduct the commissioned
 				officers of a war-ship naturally take their tone from the commander, that is if he
 				have that <ref target="#ed-note1">ascendency</ref><note xml:id="ed-note1">Hayford and Sealts emended to "ascendancy," but MEL and NN retain Melville's original spelling in the MS because "ascendency" was an accepted spelling in the eighteenth and nineteenth century, as the <hi rend="italic">Oxford English Dictionary</hi> shows (see "ascendancy | ascendency, n.". <hi rend="italic">OED Online</hi>. June 2021. Oxford University Press).</note> of character that ought to be his.
-				<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0175.tif" corresp="img_175"/></p>
+				<pb facs="https://iiif.archivengine.com/iiif/3/yqvl3aadxc7rf70gc5ib5p6sexkc;1" corresp="img_175" /></p>
 
 				<p>Captain the Honorable Edward Fairfax Vere, to
 					give his full title,
@@ -51,7 +51,7 @@
 						to add "of discipline." He later added a semi-colon outside of the bubble,
 						but seems to have altered the semi-colon to a comma. NN prints the
 						semi-colon here; MEL, the comma.</note> thoroughly versed in the science of
-					his profession, and intrepid to the verge of temerity <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0177.tif" corresp="img_177"/> though never
+					his profession, and intrepid to the verge of temerity <pb facs="https://iiif.archivengine.com/iiif/3/59twl98iqzoys7ldly1990yrjk89;1" corresp="img_177" /> though never
 					injudiciously so. For his gallantry in the West Indian waters as flag-lieutenant
 					under Rodney in that Admiral's crowning victory over De Grasse, he was made a
 					post-captain. </p>
@@ -61,7 +61,7 @@
 								phrase.</note>, scarce anyone would have taken him for a sailor, more especially that
 					he never garnished unprofessional talk with nautical terms, and grave in his
 					bearing, evinced little appreciation of mere humor. It was not out of keeping
-					with these traits that <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0179.tif" corresp="img_179"/><choice>
+					with these traits that <pb facs="https://iiif.archivengine.com/iiif/3/u64ub4w5og8v8tzbhu5s138m496p;1" corresp="img_179" /><choice>
 						<orig>On (capitalized in MS)</orig>
 						<reg>on</reg>
 					</choice> a passage when nothing demanded his paramount action, he was the most
@@ -73,7 +73,7 @@
 								delete "retreat," the site is an uncompleted and oscillating
 								revision. MEL emends to "cabin."</note></reg>
 					</choice> to the open deck, and noting the silent deference of the officers
-					retiring to leeward, might have taken him for the King's <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0181.tif" corresp="img_181"/> guest, a civilian
+					retiring to leeward, might have taken him for the King's <pb facs="https://iiif.archivengine.com/iiif/3/xof02582d2e6tu7ht2q9pvih60qa;1" corresp="img_181" /> guest, a civilian
 					aboard the King's-ship some highly honorable discreet envoy on his way to an
 					important post. But in fact this <choice>
 						<orig>unobtrusivness</orig>
@@ -81,7 +81,7 @@
 					</choice> of demeanor may have proceeded from a certain unaffected modesty of
 					manhood sometimes accompanying a resolute nature, a modesty evinced at all times
 					not calling for pronounced action, and which shown in any rank of life suggests
-					a virtue aristocratic in kind. <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0183.tif" corresp="img_183"/> As with some others
+					a virtue aristocratic in kind. <pb facs="https://iiif.archivengine.com/iiif/3/6xsyd3375keq05whjm6fhdl9dgp7;1" corresp="img_183" /> As with some others
 					engaged in various departments of the world's more heroic activities, Captain
 					Vere though practical enough upon occasion would at times betray a certain
 					dreaminess of mood. Standing alone on the weather-side of the quarter deck, one
@@ -89,7 +89,7 @@
 						<orig>rigging (no comma in MS)</orig>
 						<reg>rigging,</reg>
 					</choice> he would absently gaze off at the blank sea. At the presentation to
-					him <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0189.tif" corresp="img_189"/> then of some minor
+					him <pb facs="https://iiif.archivengine.com/iiif/3/413tlvvm0fjkrnytxyquvlyw3kiz;1" corresp="img_189" /> then of some minor
 					matter interrupting the current of his thoughts he would show more or less
 					irascibility; but instantly he would control it. </p>
 
@@ -102,12 +102,12 @@
 						"to") and attached a clip with new text, in pencil, beginning with "upon one
 						who...." To repair the doubled prepositions in "to fall to upon one who,"
 						MEL emends to "to fall upon one who."</note>
-					<pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0187.tif" corresp="img_187"/> upon one who
-					whatever his sterling qualities was without any brilliant ones <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0189.tif" corresp="img_189"/> was in this wise: A
+					<pb facs="https://iiif.archivengine.com/iiif/3/du3s0ozugdts27bdhb01ndfvufs6;1" corresp="img_187" /> upon one who
+					whatever his sterling qualities was without any brilliant ones <pb facs="https://iiif.archivengine.com/iiif/3/413tlvvm0fjkrnytxyquvlyw3kiz;1" corresp="img_189" /> was in this wise: A
 					favorite kinsman, Lord Denton, a free-hearted fellow, had been the first to meet
 					and congratulate him upon his return to England from his West Indian cruise; and
 					but the day previous turning over a copy of Andrew Marvell's poems had lighted,
-					not for the first time however, upon the lines entitled <hi rend="italic">Appleton House</hi>, the name of one of the seats of their <pb facs="https://iip.textlab.org/?IIIF=mel/billybudd/modbm_ms_am_188_363_0191.tif" corresp="img_191"/> common ancestor, a
+					not for the first time however, upon the lines entitled <hi rend="italic">Appleton House</hi>, the name of one of the seats of their <pb facs="https://iiif.archivengine.com/iiif/3/e9ai5k26whb25p9pmhs4fvgdnu38;1" corresp="img_191" /> common ancestor, a
 					hero in the German wars of the seventeenth century, in which poem occur the
 					lines, </p>
 
