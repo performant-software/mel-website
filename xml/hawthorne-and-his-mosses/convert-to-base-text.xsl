@@ -11,10 +11,15 @@
     <xsl:template match="tei:add">
         <hi rend="bold"><xsl:apply-templates/></hi>
     </xsl:template>
+    <xsl:template match="tei:corr">
+        <xsl:apply-templates/>
+    </xsl:template>
     
     <xsl:template match="tei:metamark"/>
     <xsl:template match="tei:del"/>
     <xsl:template match="tei:note"/>
+    <xsl:template match="tei:ref"/>
+    
     <xsl:strip-space elements="*"/>
     
 </xsl:stylesheet>
