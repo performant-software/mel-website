@@ -9,44 +9,79 @@
                 <p>Belshazzar's when he banquetted his lords in Babylon<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
                     <lb/>
                 </p>
-                <p>But my <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">chief </hi>business now<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> is to point out a <lb/>particular page in this piece<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> having reference to an honored<lb/>guest<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> who <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">under </hi>the name of "The Master Genius"<lb/>but in the guise <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
-                    <corr xmlns="http://www.tei-c.org/ns/1.0"
-                        change="#StE"
-                        facs="#f025_z065"
-                        rend="#comp">of </corr>
-                </hi>
-                    <corr change="#StE" facs="#f025_z065" rend="#comp">"a</corr>young man of poor attire<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <lb/> with no insignia of rank or acknowledged eminence<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+                <p>But my <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">chief </hi>business
+                    now<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> is to point out a <lb/>particular page in this
+                    piece<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> having reference to an honored<lb/>guest<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> who <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">under </hi>the name of <quote change="metadata#readingNH" facs="mossesFolios#f025_z072">"The Master Genius"</quote>
+                    <lb/>but in the guise <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
                         <corr xmlns="http://www.tei-c.org/ns/1.0"
                             change="#StE"
-                            facs="#f025_z061"
-                            rend="#comp">",</corr>
+                            facs="#f025_z065"
+                            rend="#comp">of
+                        </corr>
                     </hi>
+                    <quote change="metadata#readignNH" facs="mossesFolios#f025_z073">
+                        <corr change="#StE" facs="#f025_z065" rend="#comp">"a</corr>young man of poor attire<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                        <lb/> with no insignia of rank or
+                        acknowledged eminence<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+                            <corr xmlns="http://www.tei-c.org/ns/1.0"
+                                change="#StE"
+                                facs="#f025_z061"
+                                rend="#comp">",</corr>
+                        </hi>
+                    </quote>
                     <lb/> is introduced to the Man of Fancy<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> who is the giver of <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the </hi>feast<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Now the page having reference to this<lb/> "Master Genius<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the </hi>feast<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Now the
+                    page having reference to this<lb/>
+                    <quote change="metadata#readingNH" facs="mossesFolios#f025_z071"> "Master Genius<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
                         <corr xmlns="http://www.tei-c.org/ns/1.0"
                             change="#StE"
                             facs="#f025_z020"
                             rend="#comp">,</corr>
                     </hi>
-                    <corr change="#StE" facs="#f025_z020" rend="#comp">"</corr> so happily expresses much of what I yesterday<lb/> wrote<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> touching the coming of the literary Shiloh of<lb/> America<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that I cannot but be charmed by the<lb/> coincidence<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> especially<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> when it shows such a parity of idea<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi>
+                        <corr change="#StE" facs="#f025_z020" rend="#comp">"</corr>
+                    </quote> so happily expresses
+                    much of what I yesterday<lb/> wrote<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> touching the coming of the
+                    literary Shiloh of<lb/> America<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that I cannot but be charmed by
+                    the<lb/> coincidence<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> especially<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> when it
+                    shows such a parity of idea<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi>
                     <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> at <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
                         <corr xmlns="http://www.tei-c.org/ns/1.0"
                             change="#StE"
                             facs="#f025_z019"
                             rend="#comp">least,</corr>
                     </hi>
-                    <corr change="#StE" facs="#f025_z019" rend="#comp"/>in this one <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">point,</hi> between a man<lb/> like Hawthorne and a <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">man</hi>like me<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+                    <corr change="#StE" facs="#f025_z019" rend="#comp"/>in this one <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">point,</hi> between a man<lb/> like Hawthorne and a <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">man</hi>like
+                    me<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
                     <lb/>
                 </p>
-                <p>And here<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>let me throw out another conceit of<lb/> mine touching this American Shiloh<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or "Master Genius<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
-                    <corr xmlns="http://www.tei-c.org/ns/1.0"
-                        change="#StE"
-                        facs="#f025_z050"
-                        rend="#comp">,"</corr>
-                </hi>
-                    <lb/> as Hawthorne calls him<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> May it not be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that this<lb/> commanding mind has not been<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> is not<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and never will<lb/> be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>individually developed in any one man<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">?</hi> And would<lb/> it<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> indeed<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>appear so unreasonable to suppose<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that this<lb/> great fullness and overflowing may be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or may be destined<lb/> to be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>shared by a plurality of men of genius<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">?</hi> Surely<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> to<lb/> take the very greatest example on record<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Shakespeare cannot<lb/>be regarded as in himself the concretion of all the genius<lb/> of his time<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> nor as so immeasurably beyond Marlow<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Webster<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <lb/> Ford<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Beaumont<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Jonson<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that <corr change="#StBa" facs="#f025_z003">those </corr>great men can be<lb/> said to share none of his<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">power?</hi> For one<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>I conceive <lb/>that there were dramatists in Elizabeth's day<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> between<lb/> whom <reg facs="#f025_z026">and </reg>Shakespeare the distance was by no means great<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Let<lb/> anyone, hitherto little acquainted with those neglected old <lb/>authors<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>for the first time read them thoroughly<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or even<lb/> read Charles Lamb's Specimens of them<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and he will</p>
+                <p>And here<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>let me throw out another conceit of<lb/> mine
+                    touching this American Shiloh<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or "Master Genius<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+                        <corr xmlns="http://www.tei-c.org/ns/1.0"
+                            change="#StE"
+                            facs="#f025_z050"
+                            rend="#comp">,"</corr>
+                    </hi>
+                    <lb/> as
+                    Hawthorne calls him<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> May it not be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that
+                    this<lb/> commanding mind has not been<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> is not<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and
+                    never will<lb/> be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>individually developed in any one
+                    man<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">?</hi> And would<lb/> it<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    indeed<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>appear so unreasonable to suppose<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that
+                    this<lb/> great fullness and overflowing may be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or may
+                    be destined<lb/> to be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>shared by a plurality of men of
+                    genius<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">?</hi> Surely<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> to<lb/> take the very
+                    greatest example on record<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Shakespeare cannot<lb/>be regarded as in himself the
+                    concretion of all the genius<lb/> of his time<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> nor as
+                    so immeasurably beyond Marlow<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Webster<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <lb/>
+                    Ford<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Beaumont<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Jonson<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that
+                    <corr change="#StBa" facs="#f025_z003">those </corr>great men can be<lb/>
+                    said to share none of his<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">power?</hi> For one<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>I conceive <lb/>that there
+                    were dramatists in Elizabeth's day<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> between<lb/> whom <reg facs="#f025_z026">and </reg>Shakespeare the distance was by no means
+                    great<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Let<lb/> anyone, hitherto little acquainted with
+                    those neglected old <lb/>authors<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>for the first time read them
+                    thoroughly<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or even<lb/> read Charles Lamb's Specimens of
+                    them<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and he will</p>
             </div>
         </body>
     </text>
