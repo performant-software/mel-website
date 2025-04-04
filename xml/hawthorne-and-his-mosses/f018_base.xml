@@ -2,41 +2,40 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <text>
         <body>
-            <div type="leaf">
-                <p>
+            <div type="leaf" n="19">
                     <pb facs="#f018"/>
-                </p>
-                <p>It were the vilest thing you could say<lb/> of a true American author<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+                
+                <p>It were the vilest thing you could say<lb/> of a true American author<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
                     <corr xmlns="http://www.tei-c.org/ns/1.0"
                         change="metadata#StC"
                         facs="#f018_z057"
                         rend="print">.</corr>
                 </hi>
-                    <corr change="metadata#StC" facs="#f018_z057" rend="print"/>that he were<lb/> an American <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Tompkins.</hi> Call him an American<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <lb/> and have done<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> for you cannot say<lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">a nobler thing of him.</hi>-But it is<lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">not meant</hi> that all American writers should<lb/> studiously cleave to <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">nationality </hi>in their<lb/> writings<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> only this<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> no American writer should<lb/> write like an Englishman<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or a Frenchman<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
-                    <lb/> let him write like a man<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> for then he will be<lb/> sure to write like an American<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Let us<lb/> away with this  leaven of <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">literary</hi>
-                    <reg change="metadata#StE" facs="#f018_z041 #f018_z042">flunkey-<lb/>ism</reg> towards England<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> If either must play<lb/> the flunkey<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in this thing,</hi> let England do it<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> not us<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+                    <corr change="metadata#StC" facs="#f018_z057" rend="print"/>that he were<lb/> an American <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Tompkins.</hi> Call him an American<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <lb/> and have done<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> for you cannot say<lb/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">a nobler thing of him.</hi>-But it is<lb/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">not meant</hi> that all American writers should<lb/> studiously cleave to <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">nationality </hi>in their<lb/> writings<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> only this<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> no American writer should<lb/> write like an Englishman<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or a Frenchman<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+                    <lb/> let him write like a man<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> for then he will be<lb/> sure to write like an American<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Let us<lb/> away with this  leaven of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">literary</hi>
+                    <reg change="metadata#StE" facs="#f018_z041 #f018_z042">flunkey-<lb/>ism</reg> towards England<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> If either must play<lb/> the flunkey<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in this thing,</hi> let England do it<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> not us<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
                     <lb/>
                     <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>. While we are rapidly<lb/> preparing for that <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">political</hi> supremacy<lb/>among <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the</hi> nations<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> which <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">prophetically </hi>awaits <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">us at</hi>
-                    <lb/> the close of the <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">present</hi>century<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> in a literary<lb/> point of view<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> we are deplorably unprepared<lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">for it;</hi> and we seem studious to remain so. Hitherto<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <lb/> reasons might have existed why this should be<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
-                    <lb/> but no good reason exists now. And all<lb/>that is requisite to amendment in this matter<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <lb/> is simply this<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">:</hi> that<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">while freely acknowledging all excellence, everywhere,</hi> we should refrain from<lb/> unduly <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">lauding</hi>foreign writers<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>. While we are rapidly<lb/> preparing for that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">political</hi> supremacy<lb/>among <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the</hi> nations<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> which <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">prophetically </hi>awaits <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">us at</hi>
+                    <lb/> the close of the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">present</hi>century<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> in a literary<lb/> point of view<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> we are deplorably unprepared<lb/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">for it;</hi> and we seem studious to remain so. Hitherto<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <lb/> reasons might have existed why this should be<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+                    <lb/> but no good reason exists now. And all<lb/>that is requisite to amendment in this matter<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <lb/> is simply this<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">:</hi> that<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">while freely acknowledging all excellence, everywhere,</hi> we should refrain from<lb/> unduly <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">lauding</hi>foreign writers<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
                     <reg change="metadata#StE" facs="iiifmossesmanifest.json#f018_z021"/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
                         <reg xmlns="http://www.tei-c.org/ns/1.0"
                             change="metadata#StE"
                             facs="iiifmossesmanifest.json#f018_z021">&amp;, </reg>at the same time,</hi>
                     <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/> duly <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">recognise</hi> the meritorious<lb/> writers that are our own<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;--</hi>those writers<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> who<lb/> breathe that unshackled<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> democratic spirit <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">of Christianity</hi>
-                    <lb/> in all things<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">which</hi>now takes the<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">practical</hi> lead<lb/> in th<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">is</hi> world, though  at the same</p>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/> duly <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">recognise</hi> the meritorious<lb/> writers that are our own<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;--</hi>those writers<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> who<lb/> breathe that unshackled<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> democratic spirit <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">of Christianity</hi>
+                    <lb/> in all things<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">which</hi>now takes the<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">practical</hi> lead<lb/> in th<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">is</hi> world, though  at the same</p>
             </div>
         </body>
     </text>

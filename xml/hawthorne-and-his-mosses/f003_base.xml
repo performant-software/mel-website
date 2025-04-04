@@ -2,10 +2,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <text>
       <body>
-         <div type="leaf">
-            <p>
+         <div type="leaf" n="4">
+            
                <pb facs="#f003"/>
-            </p>
+            
             <p>am off for the barn".</p>
             <p>
                <note type="compositorial">Alexander</note>Stretched on that new mown clover, <lb/> the hill-side breeze blowing over me <lb/>

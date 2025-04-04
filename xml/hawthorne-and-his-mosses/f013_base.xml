@@ -2,13 +2,12 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <text>
         <body>
-            <div type="leaf">
-                <p>
+            <div type="leaf" n="14">
                     <pb facs="#f013"/>
-                </p>
-                <p>not Shakespeare, but only Master William Shakespeare <lb/> of the <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">shrewd, thriving</hi>, business firm of Condell, Shakespeare &amp; <corr change="metadata#StE" facs="#f013_z007">Co.</corr>, proprietors <lb/> of the Globe Theatre in London; <reg change="metatdata#StE" facs="#f013_z008">&amp; </reg>by a  courtly author, <lb/> of the name of Chettle, was hooted at, as an "upstart <lb/> crow" beautified "with other birds' feathers." <note facs="#f013_z004 #f013_z005 #f013_z006">The quote from Greene's Groatworth, misattributed and slightly misquoted here, marked on p. xv of volume I of Meville's Dramatic works of William Shakespeare. The Literary World retained both errors in its printing.</note>For, mark it well, <lb/> imitation is often the first charge brought against real <lb/> originality. Why this is so, there is not space to set forth here. You must <lb/> have plenty of sea-room to tell the <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Truth</hi> in; especially, when it seems to have an aspect <lb/> of newness, as America did in 1492, <reg change="metadata#StE" facs="#f013_z010">tho'</reg> it was then <lb/> just as old, and perhaps older than Asia, only <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">those </hi>sagacious philosophers, the common sailors, had never <lb/> seen it before<corr change="metadata#StE" facs="#f013_z011">;</corr> swearing it was all water <reg change="metadata#StE" facs="#f013_z012">&amp;</reg> moonshine <lb/> there. <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">（to be concluded next week)</hi>
+                
+                <p>not Shakespeare, but only Master William Shakespeare <lb/> of the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">shrewd, thriving</hi>, business firm of Condell, Shakespeare &amp; <corr change="metadata#StE" facs="#f013_z007">Co.</corr>, proprietors <lb/> of the Globe Theatre in London; <reg change="metatdata#StE" facs="#f013_z008">&amp; </reg>by a  courtly author, <lb/> of the name of Chettle, was hooted at, as an "upstart <lb/> crow" beautified "with other birds' feathers." <note facs="#f013_z004 #f013_z005 #f013_z006">The quote from Greene's Groatworth, misattributed and slightly misquoted here, marked on p. xv of volume I of Meville's Dramatic works of William Shakespeare. The Literary World retained both errors in its printing.</note>For, mark it well, <lb/> imitation is often the first charge brought against real <lb/> originality. Why this is so, there is not space to set forth here. You must <lb/> have plenty of sea-room to tell the <lb/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Truth</hi> in; especially, when it seems to have an aspect <lb/> of newness, as America did in 1492, <reg change="metadata#StE" facs="#f013_z010">tho'</reg> it was then <lb/> just as old, and perhaps older than Asia, only <lb/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">those </hi>sagacious philosophers, the common sailors, had never <lb/> seen it before<corr change="metadata#StE" facs="#f013_z011">;</corr> swearing it was all water <reg change="metadata#StE" facs="#f013_z012">&amp;</reg> moonshine <lb/> there. <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">（to be concluded next week)</hi>
                 </p>
             </div>
         </body>

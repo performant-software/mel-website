@@ -3,16 +3,47 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Versions of "Hawthorne and his Mosses"</title>
+				<title>"Hawthorne and His Mosses"</title>
 				<author>Herman Melville</author>
-			</titleStmt>
+				<editor role="general" xml:id="JB">John Bryant</editor>
+				<editor role="general" xml:id="CO">Christopher Ohge</editor>
+				<editor role="associate" xml:id="BH">Brandon Hurst</editor>
+				<editor role="assistant" xml:id="YS">Yuying Shen</editor>
+				<editor role="assistant" xml:id="YC">Yihong Cai</editor>
+			</titleStmt>  
 			<publicationStmt>
-				<p>Herman Melville Electronic Library</p>
+				<p>Melville Electronic Library, 2025</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Information about the source</p>
+				<msDesc>
+					<msIdentifier>
+						<repository>New York Public Library</repository>
+						<idno>MssCol 873 (https://digitalcollections.nypl.org/items/24bb7f40-184f-0133-2d4b-58d385a7bbd0)</idno>
+					</msIdentifier>
+					<physDesc>
+						<handDesc>
+							<handNote xml:id="HM">Revisions by Herman Melville</handNote>
+							<handNote xml:id="ESM">Revisions by Elizabeth Shaw Melville</handNote>
+							<handNote xml:id="ED">Revisions by Evert Duyckinck, editor of the Literary World</handNote>
+							<handNote xml:id="comp">Revisions made by compositors of the Literary World (Lyman, McIntyre, Alexander)</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 			</sourceDesc>
 		</fileDesc>
+		<profileDesc>
+			<creation><!-- manuscript revisions and genetic stages -->
+				<listChange>
+					<change xml:id="StA">Stage A: Manuscript draft (not known to survive)
+					</change>
+					<change xml:id="StB">Stage B: Fair copy stage by Elizabeth Shaw Melville</change>
+					<change xml:id="StBa">Stage Ba: Corrections to Stage B text by Elizabeth Shaw Melville and Herman Melville</change>
+					<change xml:id="StC">Stage C: Substantive Revisions by Herman Melville</change>
+					<change xml:id="StD">Stage D: Changes made by Evert Duyckinck in preparation for publication in the Literary World</change>
+					<change xml:id="StE">Stage E: Changes made by the compositors of the Literary World</change>
+				</listChange>
+			</creation>
+		</profileDesc>
 	</teiHeader>
 	<text>
 		<body>
@@ -20,6 +51,7 @@
 				<pb facs="#f000"/>
 				<head>Hawthorne &amp; His Mosses,</head>
 				<head>By a Virginian Spending July in Vermont</head>
+				<head>Part I</head>
 				<p>A papered chamber in a fine<lb/> old farm-house -- a mile from any other dwelling,<lb/> and dipped to the eaves in foliage -- surrounded by<lb/> mountains, old woods, and Indian ponds, -- this, surely, is<lb/> the place to write of Hawthorne. Some charm is in<lb/> this northern air, for love and duty seem both impelling<lb/> to the task. A man of a deep &amp; noble nature has seized<lb/> me in this seclusion. His wild, witch voice rings thro' me;<lb/> or, in softer cadences, I seem to hear it in the songs of<lb/> the hill-side birds, that sing in the larch trees at my<lb/> window.</p>
 				<p>Would that all excellent books were foundlings,<lb/> without father or mother, that so it might be, we<lb/> could glorify them, without including their ostensible authors. Nor<lb/> would any true man take exception to this; -- least of all,<lb/> he who writes, -- <ref target="note_9f762d8685424b2e8380ea53d69940e4" type="editorial">"When the Artist rises high enough to<lb/> achieve the Beautiful, the symbol by which he makes it<lb/> perceptible to mortal senses becomes of little value in his<lb/> eyes, while his spirit possesses itself in the enjoyment<lb/> of the reality."</ref><note xml:id="note_9f762d8685424b2e8380ea53d69940e4">HM did not mark this passage in his copy of Mosses from an Old Manse. This is the final line from "The Artist of the Beautiful, on which Melville left marginalia on four pages. Melville mistakenly capitalized "artist" and switched tenses in copying the sentence -- "When the artist rose enough to achieve the Beautiful, the symbol by which he made it perceptible to mortal senses became of little value in his eyes, while his spirit possessed itself in the enjoyment of the reality" (p. 191 in HM's 1846 Wiley &amp; Putnam edition).</note></p>
 				<p>But more than this. I know not</p>
@@ -33,6 +65,526 @@
 				<p> It is curious, how a man may travel <lb/> along a country road, and yet miss the grandest, <lb/> or sweetest of prospects, by reason of an intervening <lb/> hedge,  so like all other hedges, as in no way <lb/> to hint of the  wide landscape beyond.<lb/> So  has it been with me concerning the enchanting <lb/> landscape in the soul of this Hawthorne, this most <lb/> excellent Man of Mosses. His "Old Manse" has been <lb/> written now four years, but I never read it till a day or two since.<lb/>. I had seen it in the book-stores -- <lb/> heard of it often -- even had it recommended to me <lb/> by a tasteful friend, as a rare, quiet book, perhaps <lb/> too deserving of popularity to be popular. But there are <lb/> so many books called "excellent," and so much</p>
 			</div>
 			
+			<div type="leaf" n="3">
+				<pb facs="#f002"/>
+				<p>unpopular merit, that amid the thick stir of <lb/> other things, the hint of my tasteful friend was <lb/> disregarded; and for four years the Mosses on <lb/> the old Manse never refreshed me with their <lb/> perennial green. It may be, however, that all this <lb/> while, the book, like wine, was only improving in <lb/> flavor and body. At any rate, it so chanced <lb/> that this long procrastination eventuated in a happy <lb/> result. At breakfast the other day, a mountain <lb/> girl, a cousin of mine, who for the last two weeks <lb/> has every morning helped me to strawberries and <lb/> raspberries,-- which, likethe roses and pearls in the fairy tale, <lb/> seemed to fall into the saucer from those strawberry- <lb/> beds her cheeks,-- this delightful creature, this charming <lb/> Cherry says to me -- "I see you spend your mornings <lb/> in the hay-mow; and yesterday I found there '"Dwight's <lb/> Travels in New England'". Now I have something far <lb/> better than that,--something more congenial to our <lb/> summer on these hills. Take these raspberries, and <lb/> then I will give you some moss." -- "Moss"! said I. -- "Yes, <lb/> and you must take it to the barn with you, and <lb/> good-bye to 'Dwight' ". [With that she left me,<lb/> and soon returned with a volume, verdantly <lb/> bound, and garnished with a curious frontispiece in <lb/> green,-- nothing less, than a fragment of real moss <lb/> cunningly pressed to a fly-leaf. -- "Why this," said I <lb/> spilling my raspberries, "this is the 'Mosses from an <lb/> Old Manse'." "Yes" said cousin Cherry "yes, it is that flowery <lb/> Hawthorne." --</p>
+				<p>-- "Hawthorne and Mosses" said I "no more: <lb/> it is morning: it is July in the country: and I</p>
+			</div>
+			
+			<div type="leaf" n="4">
+				<pb facs="#f003"/>
+				<p>am off for the barn".</p>
+				<p>
+					<note type="compositorial">Alexander</note>Stretched on that new mown clover, <lb/> the hill-side breeze blowing over me <lb/>
+					<hi rend="bold">thro'</hi> the wide barn door, and soothed by the hum of the <lb/> bees in the meadows around, how magically <lb/> stole over me this <hi rend="bold">Mossy</hi>
+					<hi rend="bold">Man</hi>! And how amply, <lb/> how bountifully, did he redeem that delicious <lb/> promise to his guests in the Old Manse, of whom <lb/> it is written -- "Others could give them pleasure, <lb/> "<hi rend="bold">or</hi> amusement, or instruction -- these could be <lb/> "picked up anywhere -- but it was for me to <lb/> "give them rest. Rest, in a life of trouble! What <lb/> "better could be done for  weary and <lb/> "world-worn spirits? what better could be done <lb/> "for anybody, who came within our magic <lb/> "circle, than to throw the spell of a magic spirit <lb/> "over him?" -- So all that day, <hi rend="bold">half-</hi>buried in the <lb/> new clover , I watched this Hawthorne's <lb/> "Assyrian dawn, and Paphian sunset and moon-<lb/> rise, from the summit of our Eastern Hill."</p>
+				<p>The soft ravishments of the man spun me round <lb/> about in a web of dreams, and when the book was <lb/> closed, when the spell was over, this wizard <lb/> "dismissed me with but misty reminiscences, as if <lb/> I had been dreaming of him"</p>
+				<p>What a mild moonlight of contemplative <lb/>humor bathes that Old Manse!-- the rich and <lb/> rare distilment of a spicy and slowly-oozing heart.<lb/> No rollicking <hi rend="bold">rudeness,</hi> no gross fun fed on fat dinners, <lb/> and bred in the lees of wine,-- but a humor <lb/> so spiritually gentle, so high, so deep, and yet</p>
+			</div>
+			
+			<div type="leaf" n="5">
+				<pb facs="#f004"/>
+				<p>so richly  relishable, that it <hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">were</hi>
+					<lb/> hardly  inappropriate in an angel. <hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">It</hi> is the <lb/> very religion of mirth; for nothing so human <lb/> but it may be advanced to that. The orchard of <lb/> the <hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Old</hi> Manse seems the visible type of the <lb/> fine mind that has described  it. Those <lb/> twisted, and contorted old trees, <ref target="note_406c96d0c60f47e4b8396dea51c91e00">"that stretch out <lb/> their crooked branches, and take such hold of the <lb/> imagination, that we remember them as humor-</ref>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<ref xmlns="http://www.tei-c.org/ns/1.0"
+							target="note_406c96d0c60f47e4b8396dea51c91e00">ists,</ref>
+					</hi>
+					<ref target="note_406c96d0c60f47e4b8396dea51c91e00">
+						<lb/>
+					</ref>
+					<ref target="note_406c96d0c60f47e4b8396dea51c91e00"> and odd-fellows</ref>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<ref xmlns="http://www.tei-c.org/ns/1.0"
+							target="note_406c96d0c60f47e4b8396dea51c91e00">.</ref>
+					</hi>
+					<ref target="note_406c96d0c60f47e4b8396dea51c91e00">" </ref>
+					<note type="editorial" xml:id="note_406c96d0c60f47e4b8396dea51c91e00">HM left a marginal score in this passage on page 10 of his copy of Mosses from an Old Manse. Even though HM corrected "humorous" to "humourists" he neglected to correct the fist word of the quotation, which should have been "they stretch..."</note>And then, as surrounded <lb/> by these grotesque forms, and hushed in the <lb/> noon-day repose of this Hawthorne's <hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">spell</hi>, how <hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">aptly</hi>
+					<lb/> might the still fall of his ruddy thoughts <lb/> into your soul be symbolized by "the thump of <lb/> a great apple, in the <hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">stillest</hi> afternoon, falling <lb/> without a breath of wind, from the mere <lb/> necessity of perfect ripeness"<hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">!</hi> For no less ripe <lb/> than ruddy are the apples of <hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the</hi> thoughts and fancies in <lb/> this sweet Man of Mosses. "Buds and Bird-voices"-- <lb/> What a delicious thing is that!<note xml:id="note_206e1e44058d4527bf81d600b35bd089">HM may have added these dashes?</note>
+					<ref target="note_206e1e44058d4527bf81d600b35bd089">--</ref>"Will the world <lb/> ever be so decayed, that Spring may not renew <lb/> its greenness<hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">?</hi>"<hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi> And the "Fire-Worship"<hi  xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Was ever <lb/> the hearth so glorified into an altar before? <lb/> The mere title of that piece is better than any <lb/> common work in fifty folio volumes. How <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">exquisite</hi> is this:-- "Nor did it lessen the charm <lb/> "of his soft, familiar courtesy and helpfulness, <lb/> that the mighty spirit, were opportunity offered <lb/> him, would run riot through the peaceful <lb/> house, wrap its inmates in his terrible embrace, <lb/>and leave nothing of them save their whitened</p>
+			</div>
+			
+			<div type="leaf" n="6">
+				<pb facs="#f005"/>
+				<p>bones. This possibility of mad destruction only <lb/> made his domestic kindness the more beautiful <lb/> and touching. It was so sweet of him, being <lb/> endowed with such power, to dwell, day after <lb/> day, and one long, lonesome night after <lb/> another, on the dusky hearth, only now &amp; then <lb/> betraying his wild nature, by thrusting his <note>This revision was missed in the NN edition.</note>
+					<lb/> red tongue out of the chimney-top! True, he had <lb/> done much mischief in the world, and was <lb/> pretty certain to do more, but his warm heart <lb/> atoned for all<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> He was kindly to the race of man."</p>
+				<p>But he has still other apples,  not <lb/> quite so ruddy, though full as ripe;--apples, that <lb/> have been left to wither on the tree, after the <lb/> pleasant autumn gathering is past. The <lb/> sketch of "<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">The</hi> Old Apple Dealer is conceived in <lb/> the subtlest spirit of sadness; he whose "subdued <lb/> and nerveless boyhood prefigured his abortive <lb/> prime, which, likewise, contained within itself <lb/> the prophecy and image of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">his</hi> lean and torpid <lb/> age" Such <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">touches</hi> as are <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in</hi> this piece can not <lb/> proceed from any common heart. They argue <lb/> such a depth of tenderness, such a boundless sym<lb/>-pathy with <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">all</hi> forms of being, such an omni-<lb/>present love, that we must needs say, that this <lb/> Hawthorne is here almost alone in <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">his</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">generation,</hi>
+					<lb/> -- at least, in the artistic manifestation of these <lb/> things<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Still</hi> more. Such <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">touches</hi> as these, <lb/> -- and many, very many <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">similar ones,</hi>, all through his <lb/> chapters<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi>furnish clews, whereby we enter a</p>
+			</div>
+			
+			<div type="leaf" n="7">
+				<pb facs="#f006"/>
+				
+				<p>little way into the intricate, profound <lb/> heart <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">where</hi> they originated. And we see, that <lb/> suffering<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> some time or other <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">&amp; in some shape or other, -- </hi>
+					<lb/>this only can enable any man to depict it in <lb/>others. All over <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">him,</hi> Hawthorne's melancholy rests <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/> like an Indian Summer<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">which tho' bathing a whole country <lb xmlns="http://www.tei-c.org/ns/1.0"/> in one softness, still reveals the distinctive  hue of </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">every</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> towering hill</hi>, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">&amp; each </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">far-winding vale.</hi>
+				</p>
+				<p>But it is the least part of genius <lb/> that attracts admiration. Where Hawthorne is <lb/> known, he seems to be <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">deemed</hi> a pleasant <lb/> writer, with a pleasant style, -- a sequestered, <lb/> harmless man, from whom any deep and <lb/> weighty thing would <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">hardly be anticipated: --</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">a man who means no meanings.</hi>
+					<lb/> But there is no man, in <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">whom</hi> humor and love, <lb/> like mountain peaks, soar to such a rapt height, <lb/> as to receive the irradiations of the upper <lb/> skies; --  there is no man in <lb/> whom humor &amp; love are developed in that <lb/> high form called genius; no such man can exist <lb/> without also possessing, as the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">indispensable complement </hi>
+					<lb/> of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">these,</hi> a great, deep intellect, which drops down <lb/> into <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the</hi> universe like a <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">plummet</hi>. <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Or, love</hi> and humor <lb/>are only the eyes, through which such an intellect <lb/> views this world. The great beauty in such a <lb/> mind is but the product of its strength. What, <lb/> to all readers, can be more charming than the <lb/>piece entitled "Monsieur du Miroir"<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and to <lb/> a <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">reader</hi> at all capable of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">fully</hi> fathoming it, what, at the <lb/> same time, can possess more mystical depth <lb/>of meaning? <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">-- Yes,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">there he sits,</hi> and look<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi> at me, --<lb/>this "shape of mystery", this "identical Monsieur du Miroir<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">."</hi>
+				</p>
+			</div>
+			
+			<div type="leaf" n="8">
+				<pb facs="#f007"/>
+				
+				<p>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi> "Methinks I should tremble now, were his <lb/> wizard power of gliding through all impediments <lb/> in search of me, to place him suddenly before <lb/> my eyes" How profound, nay appalling, is <lb/> the moral evolved by the "Earth's Holocaust"<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">where</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi> beginning with the hollow follies and <lb/> affectation<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi> of the world, -- <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">all vanities and </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">empty</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> theories</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">&amp;</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">forms,</hi> are<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">one after another, &amp; by an admirably graduated, </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">growing comprehensiveness</hi>; thrown into the allegorical fire, till, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at length,</hi>
+					<lb/> nothing is left but the all-<lb/>engendering heart of man; which remaining <lb/> still unconsumed, the great conflagration is <lb/>
+					<ref target="note_594af968520b4e46ae42e7fc4ccbe229">naught</ref>
+					<note xml:id="note_594af968520b4e46ae42e7fc4ccbe229">LW has "nought".</note>. <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Of</hi> a piece with this, is the <lb/> "Intelligence Office"<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> a wondrous symbolizing <lb/> of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the</hi> secret workings in <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">mens' souls.</hi>
+					<restore/> are <lb/> other sketches, still more charged with <lb/> ponderous import.<note>It appears that HM initially had a comma, followed by an em-dash, before "The Christmas Banquet," and then rubbed out the dash and comma to render a full stop before adding the bracket to indicate a new paragraph.</note>"The Christmas Banquet"<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">&amp;</hi> "The <lb/> Bosom <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Serpent"</hi> would be <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">fine subjects</hi>
+					<lb/> for a curious and elaborate analysis, touching <lb/> the conjectural parts of the mind that produced <lb/> them. For spite of all the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Indian-summer</hi> sunlight <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">on</hi> the <lb/> hither side of Hawthorne's soul, the other side -- like <lb/> the dark half of the physical sphere -- is shrouded <lb/> in a blackness, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">ten times</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">black.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<note>ESM left a blank space and added "ten times" before HM made further revisions to "darker".</note>   But this darkness <lb/> but gives more effect to the evermoving dawn, <lb/> that forever <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">advances</hi> through it, and <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">circumnavigates</hi>
+					<lb/> his world. Whether Hawthorne has simply availed <lb/> himself of this mystical blackness as a means <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">to</hi> the wondrous effects he makes it to produce <lb/> in his lights &amp; shades; or whether there really <lb/> lurks in him, perhaps unknown to himself, <lb/> a touch of Puritanic gloom,-- this, I cannot</p>
+			</div>
+			
+			<div type="leaf" n="9">
+				<pb facs="#f008"/>
+				
+				<p>altogether tell. Certain it is, however, that<lb/> this great power of blackness in him derives<lb/> its force from its appeals to that Calvinistic<lb/> sense of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Innate</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Depravity</hi> and original Sin, from whose<lb/> visitations, in some shape or other, no deeply thinking<lb/> mind is always &amp; wholly free. <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">For, in</hi> certain moods,<lb/> no man can weigh this world, without throwing<lb/> in something, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">somehow</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Original</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Sin</hi>, to strike the<lb/> uneven balance. At all events, perhaps no<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">writer</hi> has ever <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">wielded</hi> this terrific thought with<lb/>greater <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">terror</hi> than this same harmless<lb/> Hawthorne. Still more: this black <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">conceit pervades him,</hi>
+					<lb/> through &amp; through. You may be witched by his<lb/> sunlight,-- transported by the bright gildings<lb/> in the skies he builds over you;-- but there is<lb/> the blackness of darkness beyond; and even <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">his</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">bright</hi> gildings but fringe, and play upon the<lb/> edges of thunder-clouds<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>--  In one word, the<lb/> world is mistaken in this Nathaniel Hawthorne.<lb/> He himself must often have smiled at its<lb/> absurd misconception <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">of him.</hi> He is immeasurably deeper<lb/> than the plummet of the mere critic. For it<lb/> is not the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">brain</hi> that can test such a man;<lb/> it is only the heart. You cannot come to<lb/> know greatness by <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">inspecting it;</hi> there is no<lb/> glimpse to be caught of it, except by intuition;<lb/> you <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">need not</hi> ring it, you but touch it, and you find<lb/> it is gold</p>
+				<p>     now <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">it is</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">that</hi> blackness in Hawthorne, of<lb/> which I have spoken, that so fixes &amp; fascinates<lb/> me. It may be<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">nevertheless,</hi> that it is too</p>
+			</div>
+			
+			<div type="leaf" n="10">
+				<p>
+					<pb facs="#f009"/>
+				</p>
+				<p>largely developed in him. Perhaps he does<lb/>not give us a ray of his light for every shade <lb/>of his <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">dark.</hi> But however this may be, this <lb/>blackness it is that furnishes the infinite obscure <lb/>of his back-ground,-- that back-ground, against<lb/> which Shakespeare plays his grandest conceits, <lb/>the things that have made for Shakespeare <lb/>his <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">loftiest, but most circumscribed</hi> renown, as the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">profoundest</hi>
+					<lb/>of thinkers. For by philosophers Shakespeare is <lb/>not <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">adored</hi> as the great man of tragedy and <lb/>comedy.--"Off with his head! so much for <lb/>Buckingham!" this sort of rant, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">interlined</hi>
+					<lb/> by <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">an</hi>other hand, bring<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi> down the house,--those <lb/>mistaken souls, who dream of Shakespeare <lb/>as a <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">mere</hi> man of Richard-the-Third humps, and <lb/>Macbeth daggers. But it is those deep <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">far-away</hi> things in him; those occasional flashings-forth of <lb/>the intuitive Truth in him; those short, <lb/>quick probings <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at</hi> the very axis of reality:-- these <lb/>are the things that make Shakespeare, Shakes-<lb/>peare. Through the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">mouths</hi> of the dark charac-<lb/>ters of Hamlet, Timon, Lear, and Iago, he <lb/>craftily says, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">or </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">sometimes</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> insinuates</hi> the things, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">which</hi> we feel to be so <lb/>terrifically true, that it were all but mad-<lb/>ness for any good man, in his own proper<lb/>character, to utter, or even hint of them. <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Tormented</hi> into desperation, Lear the frantic King <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">tears off the mask,</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">&amp;</hi> speaks the sane madness of vital truth. <lb/>But, as I before said, it is the least part of <lb/>genius that attracts admiration. And so, </p>
+			</div>
+			
+			<div type="leaf" n="11">
+				<pb facs="#f010"/>
+				
+				<p>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">much of the blind, unbridled</hi> admiration that has been heaped <lb/>upon Shakespeare, has been lavished upon the <lb/> least part of him. And few of his endless <lb/> commentators &amp; critics seem to have <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">remembered,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">or even</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/>that the immediate products of a great mind <lb/> are not so great, as that undeveloped, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">(&amp; sometimes undevelopable)</hi> yet <lb/> dimly-discern<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">able</hi> greatness, to which <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">these immediate products</hi> are but the infallible indices. In Shakespeare's <lb/> tomb lies infinitely more than <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Shakspeare</hi> ever wrote. <lb/> And if I magnify Shakespeare, it is not so much <lb/> for what he did<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">do,</hi> as for what he did not <lb/> do<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">or refrained from doing.</hi> For in this world of lies, Truth is <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">forced</hi> to <lb/> fly like a scared white doe in the woodlands; <lb/> and only by cunning glimpses will she reveal <lb/> herself, as in Shakespeare and other <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">masters</hi> of <lb/> the great <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Art</hi> of Telling the Truth<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,--</hi>even though <lb/> it be covertly, and by snatches.</p>
+				<p>      But <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">if</hi> this view of the all-popular <lb/>   Shakspeare <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">be</hi> seldom taken by his readers, and if very <lb/> few who extol him, have ever read him deeply,<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">or, perhaps,</hi> only have seen him on the tricky stage<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, (</hi>which <lb/> alone made, and is still making him his mere <lb/> mob renown<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">) --</hi> if few men have time, or patience, <lb/> or palate <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> for the spiritual truth as it is in <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">that</hi> great genius; -- it is<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">then,</hi> no matter of surprise <lb/> that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in a contemporaneous age</hi>, Nathaniel Hawthorne is a man, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">as yet, almost</hi> utterly <lb/>mistaken among men. Here &amp; there, in some <lb/>quiet arm-chair in the noisy town, or some <lb/>deep nook among the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">noisless</hi> mountains, he may <lb/>be appreciated for something of what he is.</p>
+			</div>
+			
+			<div type="leaf" n="12">
+				<pb facs="#f011"/>
+				
+				<p>But unlike Shakespeare, who was forced <lb/>to <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the contrary course</hi> by circumstances, Hawthorne <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">(</hi>either from <lb/>simple disinclination, or else from inaptitude) <lb/>refrains from all the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">popularizing noise</hi> and show of <lb/>broad farce, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">&amp;</hi> blood-besmeared tragedy; <lb/>content with the still, rich utterance<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi> of a <lb/>great intellect in repose, and which sends <lb/>few thoughts into circulation, except they be <lb/>arterialized <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at</hi> his large warm lungs, and <lb/>expanded in his honest heart.</p> 
+				<p>Nor need you <lb/>fix upon that blackness in him, if it suit <lb/>you not. Nor, indeed, will all readers discern <lb/>it, for it is, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">mostly,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">insinuated</hi> to those who may <lb/>best undersand it, and account for it; it is <lb/>not obtruded upon every one alike.</p>
+				<p>     Some may start to read of Shakespeare and <lb/>Hawthorne on the same page. They may say, that if <lb/>an illustration were needed, a lesser light might have <lb/>sufficed to elucidate this Hawthorne, this <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">small</hi> man of <lb/>yesterday. But I am not, willingly, one of those, who, <lb/>as touching Shakespeare at least, exemplify the <lb/>maxim of Rochefoucault, that "we exalt the reputation <lb/>of some, in order to depress that of others"<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;--</hi> who, to <lb/>teach all <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> noble-souled aspirants</hi> that there is no hope for them, <lb/>pronounce Shakespeare absolutely unapproachable. <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">But</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Shakespeare</hi> has been approached. There are minds <lb/>that have gone as <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">far</hi> as Shakespeare into <lb/>the universe. And hardly a mortal man, <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">who,</hi>
+					<lb/>at some time or other, has not felt <lb/>as great thoughts in him as any you will find <lb/>in Hamlet. We must not <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">inferentially</hi> malign mankind</p>
+			</div>
+			
+			<div type="leaf" n="13">
+				<pb facs="#f012"/>
+				
+				<p>for the sake of any one man, whoever he <lb/>may be. This is too cheap a purchase of contentment <lb/>for conscious mediocrity to make. Besides, <lb/>this absolute and unconditional adoration of <lb/>Shakespeare has grown to be a part of our <lb/>Anglo Saxon superstition<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi>. The <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">T</hi>hirty <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">N</hi>ine articles are <lb/>now <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">F</hi>orty. Intolerance has come to exist in <lb/>this matter.</p>
+				<p>You must believe in Shakespeare<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">'s</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">unapproachability,</hi> or <lb/>quit the country. But what sort of a belief <lb/>is this for an American, a man who is bound <lb/>to carry republican progress<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">-iveness</hi> into <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">L</hi>itera-<lb/>ture, as well as into <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">L</hi>ife? Believe me, my <lb/>friends, that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<hi rend="bold">men</hi> not very much inferior to</hi> Shakespeare<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> are this day being born <lb/>on the banks of the Ohio. And the day will <lb/> come, when you shall say who reads a book <lb/>by an Englishman <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">that is a modern?</hi>     The great mistake <lb/>seems to be, that even with those Americans <lb/>who look forward <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">to</hi> the coming of a <lb/>great <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">literary</hi> genius among us, they somehow fancy he <lb/>will come in the costume of Queen Elizabeth's <lb/>day,-- be a writer of dramas founded upon <lb/>old English history, or the tales of Boccaccio. <lb/>Whereas, great geniuses are part<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi> of the times; <lb/>they themselves are the times; and possess a <lb/>correspondent coloring. It is of a <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">piece</hi> with <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">t</hi>he Jews, who <lb/>while their Shiloh was meekly walking in <lb/>their streets, were still praying for his magnifi-<lb/>cent coming; looking for him in a chariot, who <lb/>was already among them on an ass. Nor must we <lb/>forget, that, in his own life-time, Shakespeare was</p>
+			</div>
+			
+			<div type="leaf" n="14">
+				<pb facs="#f013"/>
+				
+				<p>not Shakespeare, but only Master William Shakespeare <lb/> of the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">shrewd, thriving</hi>, business firm of Condell, Shakespeare &amp; <corr change="metadata#StE" facs="#f013_z007">Co.</corr>, proprietors <lb/> of the Globe Theatre in London; <reg change="metatdata#StE" facs="#f013_z008">&amp; </reg>by a  courtly author, <lb/> of the name of Chettle, was hooted at, as an "upstart <lb/> crow" beautified "with other birds' feathers." <note facs="#f013_z004 #f013_z005 #f013_z006">The quote from Greene's Groatworth, misattributed and slightly misquoted here, marked on p. xv of volume I of Meville's Dramatic works of William Shakespeare. The Literary World retained both errors in its printing.</note>For, mark it well, <lb/> imitation is often the first charge brought against real <lb/> originality. Why this is so, there is not space to set forth here. You must <lb/> have plenty of sea-room to tell the <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Truth</hi> in; especially, when it seems to have an aspect <lb/> of newness, as America did in 1492, <reg change="metadata#StE" facs="#f013_z010">tho'</reg> it was then <lb/> just as old, and perhaps older than Asia, only <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">those </hi>sagacious philosophers, the common sailors, had never <lb/> seen it before<corr change="metadata#StE" facs="#f013_z011">;</corr> swearing it was all water <reg change="metadata#StE" facs="#f013_z012">&amp;</reg> moonshine <lb/> there. <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">（to be concluded next week)</hi>
+				</p>
+			</div>
+			
+			<div type="leaf" n="15">
+				<pb facs="#f014"/>
+				
+				<head>Part II</head>
+				
+				<p>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Hawthorne and His Mosses</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> By a Virginian Spending July in Vermont</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">[</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">concluded from the last number.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">]</hi>
+					<note facs="#f014_z049" type="compositorial">McIntyre</note>
+					<lb/>
+				</p>
+				<p>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Now</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">I</hi> do not  ^<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">say that</hi> Nathaniel of Salem is a <lb/>greater than William of Avon<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or as great<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> But <lb/>the difference between the two men is by no <lb/>means immeasurable<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Not a very great deal <lb/> more<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and Nathaniel were <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">verily</hi> William.</p>
+				<p>This<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> too<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I mean<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that if Shakespeare has <lb/>not been equalled<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">give the world time, <reg xmlns="http://www.tei-c.org/ns/1.0"
+						change="metadata#StE"
+						facs="#f014_z034">&amp;</reg>
+					</hi>he is sure to be surpassed<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in one hemisphere or the other.</hi>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/>
+					<lb/> Nor will <lb/>it <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at</hi> all do to say<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that the world is getting<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">grey &amp; grizzled</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<lb/>now<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and has lost that fresh charm which <lb/>she wore of old<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and by virtue of which <lb/>the great poets of past times made themselves <lb/>
+					<lb/>what we esteem them <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">to be</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Not so. the world is as young today<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as when it was <lb/>created<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and th<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">is</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Vermont</hi> morning dew is as wet to <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">my</hi> feet<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as Eden's <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">dew</hi> to Adam<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">'s</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Nor has <lb/>Nature been all over ransacked by our <reg change="metadata#StE" facs="#f014_z015 #f014_z016">progen--<lb/>itors,</reg> so t<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">hat</hi> no new charms and mysteries remain <lb/>for this lat<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">t</hi>er generation to find. Far from it<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<lb/>The <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">trillionth</hi> part has not yet been <lb/>said<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and all that has been said<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> but <reg change="metadata#StE" facs="#f014_z007 #f014_z008">mul-<lb/>tiplies</reg> the avenues to what <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">remains</hi> to be said<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<lb/>It is not so much paucity<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as superabundance <lb/>of material that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">seems to</hi> incapacitate<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">modern authors.</hi>
+				</p>
+			</div>
+			
+			<div type="leaf" n="16">
+				<pb facs="#f015"/>
+				
+				<p>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">praise mediocrity even, in her own children, before she <lb xmlns="http://www.tei-c.org/ns/1.0"/> praises (for everywhere, merit demands acknowledgment from every one) <lb xmlns="http://www.tei-c.org/ns/1.0"/> the best excellence in the children of any other land. Let <lb xmlns="http://www.tei-c.org/ns/1.0"/> her own authors, I say, have the priority of appreciation. I <lb xmlns="http://www.tei-c.org/ns/1.0"/> was much pleased with a hot-headed Carolina cousin of mine, <lb xmlns="http://www.tei-c.org/ns/1.0"/> who once said,--"If there </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">were</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> no other American to stand <lb xmlns="http://www.tei-c.org/ns/1.0"/> by, in Literature,--why, then, I would stand by Pop Emmons <lb xmlns="http://www.tei-c.org/ns/1.0"/> and his <corr xmlns="http://www.tei-c.org/ns/1.0"
+						change="metadata#StE"
+						facs="#f015_z002">"</corr>Fredoniad,<corr xmlns="http://www.tei-c.org/ns/1.0"
+							change="metadata#StE"
+							facs="#f015_z001">"</corr> and till </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">a</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> better epic came along, <lb xmlns="http://www.tei-c.org/ns/1.0"/> swear it was not very far behind the Iliad." Take away <lb xmlns="http://www.tei-c.org/ns/1.0"/> the words, and in spirit he was sound</hi>.</p>
+			</div>
+			
+			<div type="leaf" n="17">
+				<pb facs="#f016"/>
+				
+				<p>Let America then <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">prize</hi> and cherish her <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">writers;</hi>yea<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> let her glorify them. They are not <lb/> so many in number<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as to exhaust her <lb/> good-will<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> And while she has good kit<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">h</hi>
+					<lb/> and kin of her own<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> to take to her bosom<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> let her not lavish her embraces upon the <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">household of</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">a</hi>n alien<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> For believe it or not <lb/> England<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">after all, is, in many things</hi>, an alien to us. China has more <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">bowels</hi> of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">real</hi> love for us than she. But even <lb/>were there no <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">)</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi>were there none of <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">strong literary individualites among us, as there are some dozens at least,</hi>
+					<lb/>nevertheless<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>let America <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">first</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">she praises (for everywhere, merit demands acknowledgment from every one)</hi> the best excellence in the children of any <lb/> other land<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Said a hot-headed Carolina cousin of mine,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">"If</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">there were no </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> to stand by, </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in Literature"</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> said he, "why, then, I would</hi>
+					<lb/> stand by Pop Emmons and his <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<lb/> swear it was not very far behind <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+				</p>
+				<p>Not that American genius <lb/> needs patronage in order to expand. For that <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">explosive</hi> sort of stuff will expand though screwed <lb/> up in a vice<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and bur<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi>t it<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> though it were <lb/> triple steel. It is for the nation's sake<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> and not for her authors' sake<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that I would <lb/>have America be heedful of the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">increasing</hi>
+					<lb/> greatness among her writers. <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">For</hi> how great <lb/> the shame<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> if other nations should be before <lb/> her<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> in crowning her heroes of the pen. But <lb/> this is almost the case now<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> American <lb/> authors have received more just and <lb/> discriminating praise <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">(</hi>however <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">loftily </hi>and ridiculously</p>
+			</div>
+			
+			<div type="leaf" n="18">
+				<pb facs="#f017"/>
+				
+				<p>given<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">certain cases)</hi> even from some Englishmen<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> than<lb/> from <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">their</hi> own countrymen<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">There are hardly five critics in America, and several of them are asleep.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">A</hi>s for<lb/> patronage<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> it is the American author who<lb/> now patronizes the country<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and not his<lb/> country him. And if at times some<lb/> among them appeal to the people for <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">more<lb xmlns="http://www.tei-c.org/ns/1.0"/>
+					</hi>recognition<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> it is not alway<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi> with selfish<lb/>motives<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> but patriotic ones.</p>
+				<p>It is true<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that but few of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">them</hi>
+					<lb/> as yet have <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">evinced </hi>that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">decided </hi>originality<lb/> which merits great praise<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> But that<lb/> graceful  writer<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> who perhaps of all<lb/> American<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi> has received <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the</hi> most plaudits<lb/> from his own country for his productions<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,--</hi>that<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">very popular <reg xmlns="http://www.tei-c.org/ns/1.0" change="metadata#StE">&amp; </reg>amiable</hi>writer<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> however good<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<reg xmlns="http://www.tei-c.org/ns/1.0" change="metadata#StE">&amp; </reg>self-reliant</hi> in many things<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> perhaps<lb/> owes his chief <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">reputation</hi> to the self-acknowledged<lb/>imitation of a<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">foreign</hi>model<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and to the studied avoidance of all topics but smooth <lb/> ones<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">. </hi>But it is bett<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">er</hi> to fail in originality<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> than to <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">succeed</hi> in imitation<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">H</hi>e who has<lb/> never failed <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">somewhere, </hi> that man can not be great. <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Failure is the true test of greatness</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">A</hi>nd <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">if </hi>it be said<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">continual</hi>success is a<lb/> proof that a man <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">wisely</hi> knows his po<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">wers</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,-</hi>
+					<lb/>it is only to be added<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in that case,</hi> he knows them to<lb/> be small<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">. </hi>Let us believe it<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> then<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> once for all<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> that there is no hope for us in the<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">se</hi> smooth pleasing<lb/> writers that know their <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">powers.</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Without malice, but to speak the plain fact, they</hi> but furnish an appendix to Goldsmith<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and other<lb/> English authors. And we want no American<lb/> Goldsmiths<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">:</hi> nay<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> we want no American Miltons<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+				</p>
+			</div>
+			
+			<div type="leaf" n="19">
+				<pb facs="#f018"/>
+				
+				<p>It were the vilest thing you could say<lb/> of a true American author<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+					<corr xmlns="http://www.tei-c.org/ns/1.0"
+						change="metadata#StC"
+						facs="#f018_z057"
+						rend="print">.</corr>
+				</hi>
+					<corr change="metadata#StC" facs="#f018_z057" rend="print"/>that he were<lb/> an American <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Tompkins.</hi> Call him an American<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> and have done<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> for you cannot say<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">a nobler thing of him.</hi>-But it is<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">not meant</hi> that all American writers should<lb/> studiously cleave to <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">nationality </hi>in their<lb/> writings<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> only this<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> no American writer should<lb/> write like an Englishman<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or a Frenchman<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+					<lb/> let him write like a man<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> for then he will be<lb/> sure to write like an American<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Let us<lb/> away with this  leaven of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">literary</hi>
+					<reg change="metadata#StE" facs="#f018_z041 #f018_z042">flunkey-<lb/>ism</reg> towards England<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> If either must play<lb/> the flunkey<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in this thing,</hi> let England do it<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> not us<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<lb/>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>. While we are rapidly<lb/> preparing for that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">political</hi> supremacy<lb/>among <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the</hi> nations<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> which <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">prophetically </hi>awaits <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">us at</hi>
+					<lb/> the close of the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">present</hi>century<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> in a literary<lb/> point of view<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> we are deplorably unprepared<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">for it;</hi> and we seem studious to remain so. Hitherto<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> reasons might have existed why this should be<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+					<lb/> but no good reason exists now. And all<lb/>that is requisite to amendment in this matter<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> is simply this<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">:</hi> that<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">while freely acknowledging all excellence, everywhere,</hi> we should refrain from<lb/> unduly <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">lauding</hi>foreign writers<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<reg change="metadata#StE" facs="iiifmossesmanifest.json#f018_z021"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<reg xmlns="http://www.tei-c.org/ns/1.0"
+							change="metadata#StE"
+							facs="iiifmossesmanifest.json#f018_z021">&amp;, </reg>at the same time,</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/> duly <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">recognise</hi> the meritorious<lb/> writers that are our own<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;--</hi>those writers<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> who<lb/> breathe that unshackled<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> democratic spirit <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">of Christianity</hi>
+					<lb/> in all things<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">which</hi>now takes the<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">practical</hi> lead<lb/> in th<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">is</hi> world, though  at the same</p>
+			</div>
+			
+			<div type="leaf" n="20">
+				<pb facs="#f019"/>
+				
+				<p>time led by <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">ourselves-us Americans.</hi> Let us boldly contemn all <lb/>imitation<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> though it comes to us graceful and<lb/> fragrant as the morning<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+					<corr change="metadata#StE" facs="#f019_z059" rend="no_caret">A</corr>nd foster all<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">originality</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>though<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at first</hi>, it be crabbed and ugly as our<lb/> own pine knots. And if any of our authors<lb/> fail<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or seem to fail<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">then, in the words of my</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">enthusiastic Carolina cousin,</hi> let us clap him on the<lb/> shoulder<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and back him against all Europe<lb/> for his second round. The truth is<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> th<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at </hi>in<lb/> our point of view<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> th<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">is</hi> matter of a national<lb/> literature has come to such a pass with us<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> that in some sense we must turn bullies<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> else the day is lost<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or superiority so far<lb/> beyond us<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that we can hardly <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">say it will ever be ours.</hi>
+				</p>
+				<p>And now<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> my countrymen<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as an<lb/> excellent author<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> of your own flesh and<lb/> blood<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,--</hi>an <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">un</hi>imitating<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> perhaps<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> in his way<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">an </hi>inimitable man<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi>whom better can I commend<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">to </hi>you<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> in the first place, than Nathaniel Hawthorne<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<lb/>He is one of the new<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">far</hi> better generation<lb/> of your writer<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">T</hi>he smell of your<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">beeches</hi>
+					<lb/> and hemlocks is upon him<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">; </hi>your own<lb/> broad prairies are in his soul<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">; </hi>and if you<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">travel</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">away</hi> inland into his deep and<lb/> noble nature<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> you will hear the far roar<lb/> of his Niagara. Give not over to future<lb/> generations the glad duty of acknowledging<lb/> him for what he is<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Take that joy to<lb/> yourself, in your own generation<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and so shall<lb/> he feel those grateful <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">impressions</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in </hi>him<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> that may<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">possibly</hi> prompt him to the full flower<lb/> of some<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">still</hi> greater achievement in your eyes.</p>
+			</div>
+			
+			<div type="leaf" n="21">
+				<pb facs="#f020"/>
+				
+				<p>And by confessing him<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> you thereby confess<lb/> others<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> you brace the whole brotherhood<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">. </hi>For genius<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> all over the world<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> stands hand in hand<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and<lb/> one shock of recognition runs the whole circle<lb/> round<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+				</p>
+				<p>In treating of Hawthorne<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or rather of <lb/>Hawthorne in his writing<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">s</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">(</hi>for I never saw the<lb/> man<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">; </hi>and in the chances of a quiet <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">plantation</hi> life<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> remote from his haunts<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> perhaps never shall<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">)</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+					<lb/> in <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">treating</hi> of his works<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I say<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I have thus<lb/> far omitted all mention of  his "Twice Told<lb/> Tales<reg change="metadata#StE" facs="#f020_z040">"</reg>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<reg xmlns="http://www.tei-c.org/ns/1.0"
+							change="metadata#StE"
+							facs="#f020_z040">,</reg>
+					</hi>
+					<reg change="metadata#StE" facs="#f020_z040"/>and "Scarlet Letter<reg change="metadata#StE" facs="#f020_z039">"</reg>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<reg xmlns="http://www.tei-c.org/ns/1.0"
+							change="metadata#StE"
+							facs="#f020_z039">.</reg>
+					</hi> Both are excellent<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> but full of such manifold<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">strange</hi> and diffu<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">sive</hi>
+					<lb/> beauties<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that time would <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">all but</hi> fail me<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> to<lb/> point the half of them out. But there are<lb/> things in th<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">o</hi>se two books<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> which<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> had they been<lb/> written in England a century ago<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> Nathaniel<lb/> Hawthorne had utterly displaced <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">many of the bright names we now revere on authority.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<lb/>
+					<lb/> But I am content to leave Hawthorne to<lb/> himself<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">and to the infallible finding of posterity;</hi> and however great may be the praise<lb/> I have bestowed upon him<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I feel<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that in<lb/> so doing<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I have more <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">served</hi> and honored<lb/> myself<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> than him<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> For<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> at bottom<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> great<lb/> excellence is praise enough to itself<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> but the<lb/> feeling of<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> a sincere and appreciative love <reg xmlns="http://www.tei-c.org/ns/1.0" change="#StE" facs="#f020_z009">&amp;</reg> admiration towards</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">it</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">this</hi> is relieved by utterance; and warm<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> honest praise<lb/> ever leaves a pleasant flavor in the mouth<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+					<lb/> and it is an honorable thing to <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">confess to </hi>what is honorable in others<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+				</p>
+				<p>But I cannot leave my subject yet. No<lb/> man can read a fine author<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and relish him<lb/> to his very bones<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> while he reads<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> without</p>
+			</div>
+			
+			<div type="leaf" n="22">
+				<pb facs="#f021"/>
+				
+				<p>
+					<note facs="#f021_z039"
+						type="compositorial"
+						xml:id="note_ea151d969381424192d24bdc896fde1c">Alexander</note>
+				</p>
+				<p>subsequently fancying to himself some ideal<lb/> image of the man and his mind<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> And if<lb/> you rightly look for it<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> you will almost<lb/> always find that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">t</hi>he <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">author</hi> himself has some<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">where</hi>
+					<lb/> furnished you with his own picture<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>For<lb/> poets (whether in prose or verse)<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> being painters<lb/> of Nature<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> are like their brethren of the pencil<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/>the true portrait-painters<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">who</hi>, in the multitude<lb/> of likenesses to be <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">sketched,</hi> do not <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">invariably</hi>
+					<lb/> omit their own<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;<reg xmlns="http://www.tei-c.org/ns/1.0"
+						change="metadata#StE"
+						facs="#f021_z033"> &amp; </reg>in all high instances, they paint them</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">without any vanity,  though, at times, with a lurking something,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">take several pages to properly define.</hi>
+					<lb/>
+				</p>
+				<quote change="metadata#readingNH" facs="#f021_z008" source="Mosses">
+					<p>
+						<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>I submit it<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> then<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> to those best<lb/> acquainted with the man personally<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> whether<lb/> the following is not Nathaniel Hawthorne<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;--</hi>
+						<lb/>and to himself<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> whether something involved in<lb/> it does not express the temper of this mind<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+						<lb/>
+						<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi>that lasting temper of all true, candid men<lb/>
+						<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">--</hi>a seeker<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> not a finder yet<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">:--</hi>
+						<lb/>
+					</p>
+					<p>A man now entered, in neglected attire, with the<lb/> aspect of a thinker, but somewhat too rough-hewn and brawny for a scholar<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+						<lb/> His face was full of sturdy vigor, with some finer and keener<lb/> attribute beneath<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> though harsh at first, it was tempered with the glow<lb/> of a large, warm heart, which had force enough to heat his powerful<lb/> intellect through and through. He advanced to the Intelligencer, and<lb/> looked at him with a glance of such stern sincerity, that<lb/> perhaps few secrets were beyond its scope.</p>
+					<p>
+						<lb/>"<reg change="metadata#StE" facs="#f021_z009">"I seek for Truth",</reg> said he."<lb/>
+					</p>
+					<p>
+						<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">x x x x x x</hi>
+						<lb/>
+					</p>
+				</quote>
+				<p>Twenty-four hours have elapsed since writing the<lb/> foregoing. I have just returned from the hay mow<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> charged more and more with love and admiration of Hawthorne<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<lb/> For I have just been gleaning through the <reg change="metadata#StE" facs="#f021_z004">m</reg>osses<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/> picking up many things here and there that had previously<lb/> escaped me<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">And</hi> I found that but to glean after this man<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+				</p>
+			</div>
+			
+			<div type="leaf" n="23">
+				<pb facs="#f022"/>
+				
+				<p>is better than to be in at the harvest of others<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> To be<lb/> frank <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">(</hi>though<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> perhaps<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> rather foolish<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">)</hi> notwithstanding what<lb/> I wrote yesterday of these <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">M</hi>osses<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I had not then culled<lb/> them all<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> but had<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> nevertheless<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> been sufficiently <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">sensible of the</hi> subtle essence<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in them, as to write</hi> as I did<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+					<lb/> To what infinite height of loving wonder and admiration<lb/> I may yet be borne<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> when by repeatedly banquetting on<lb/> these <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">M</hi>osses<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I shall have thoroughly incorporated the<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">ir</hi>
+					<lb/> whole stuff into my being<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>--that<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I can not tell<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> But<lb/> already I feel that this Hawthorne has dropped <reg change="metadata#StE" facs="#f022_z049 #f022_z050">ger-<lb/>minous</reg> seeds into my soul<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> He expands and deepens<lb/> down<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> the more I contemplate him<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and further<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and <lb/>further<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> shoots his strong New-England roots into<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">the hot soil</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">of</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> my Southern soul.</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+				</p>
+				<p>By careful <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>reference to the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">"</hi>Table of Contents<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+					<reg xmlns="http://www.tei-c.org/ns/1.0"
+						change="metadata#StE"
+						facs="#f022_z036">",</reg>
+				</hi> I now <lb/>find<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that I have gone through all the sketches<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">but</hi> that <lb/>when I yeterday wrote<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I had not at all read two <lb/>particular pieces<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> to which I now desire to call special <lb/>attention<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,--</hi>"A Select Party<reg change="metadata#StE" facs="#f022_z028">"</reg>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<reg xmlns="http://www.tei-c.org/ns/1.0"
+							change="metadata#StE"
+							facs="#f022_z028">,</reg>
+					</hi> and "Young Goodman Brown<reg change="metadata#StE" facs="#f022_z027">"</reg>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<reg xmlns="http://www.tei-c.org/ns/1.0"
+							change="metadata#StE"
+							facs="#f022_z027">.</reg>
+					</hi>
+					<lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Here,</hi> be it said to all those whom this poor fugitive <lb/>scrawl of mine may tempt to the purusal of the "Mosses<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>" <lb/>that they must on no account suffer themselves to be <lb/>trifled with<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> disappointed<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">or</hi> deceived by the <lb/>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">t</hi>riviality of many of the titles to these Sketches<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> For <lb/>in more than one instance<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> the title utterly belies <lb/>the piece<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> It is as if rustic demjohns containing the <lb/>very best and <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">costliest </hi>of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">F</hi>alernian and Tokay<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/>were labeled "Cider<reg change="metadata#StE" facs="#f022_z014">"</reg>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<reg xmlns="http://www.tei-c.org/ns/1.0"
+							change="metadata#StE"
+							facs="#f022_z014">,</reg>
+					</hi> "Perry<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>" and "Elder-berry Wine<reg change="metadata#StE" facs="#f022_z012">"</reg>
+					<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">
+						<reg xmlns="http://www.tei-c.org/ns/1.0"
+							change="metadata#StE"
+							facs="#f022_z012">.</reg>
+					</hi> The<lb/> truth seems to be<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that like many other geniuses<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/>this <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">M</hi>an of <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">M</hi>osses takes great delight in hoodwinking <lb/>the world<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,--</hi>at least<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> with respect to himself<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Personally<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+					<lb/>I dou<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">b</hi>t not<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that he rather prefers to be <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">generally</hi> esteemed but <lb/>a so-so sort of author<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> being willing to</p>
+			</div>
 			
 		</body>
 	</text>
