@@ -2,20 +2,19 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <text>
         <body>
-            <div type="leaf">
-                <p>
+            <div type="leaf" n="16">
                     <pb facs="#f015"/>
-                </p>
+                
                 <p>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">praise mediocrity even, in her own children, before she <lb xmlns="http://www.tei-c.org/ns/1.0"/> praises (for everywhere, merit demands acknowledgment from every one) <lb xmlns="http://www.tei-c.org/ns/1.0"/> the best excellence in the children of any other land. Let <lb xmlns="http://www.tei-c.org/ns/1.0"/> her own authors, I say, have the priority of appreciation. I <lb xmlns="http://www.tei-c.org/ns/1.0"/> was much pleased with a hot-headed Carolina cousin of mine, <lb xmlns="http://www.tei-c.org/ns/1.0"/> who once said,--"If there </hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">were</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> no other American to stand <lb xmlns="http://www.tei-c.org/ns/1.0"/> by, in Literature,--why, then, I would stand by Pop Emmons <lb xmlns="http://www.tei-c.org/ns/1.0"/> and his <corr xmlns="http://www.tei-c.org/ns/1.0"
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">praise mediocrity even, in her own children, before she <lb xmlns="http://www.tei-c.org/ns/1.0"/> praises (for everywhere, merit demands acknowledgment from every one) <lb xmlns="http://www.tei-c.org/ns/1.0"/> the best excellence in the children of any other land. Let <lb xmlns="http://www.tei-c.org/ns/1.0"/> her own authors, I say, have the priority of appreciation. I <lb xmlns="http://www.tei-c.org/ns/1.0"/> was much pleased with a hot-headed Carolina cousin of mine, <lb xmlns="http://www.tei-c.org/ns/1.0"/> who once said,--"If there </hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">were</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> no other American to stand <lb xmlns="http://www.tei-c.org/ns/1.0"/> by, in Literature,--why, then, I would stand by Pop Emmons <lb xmlns="http://www.tei-c.org/ns/1.0"/> and his <corr xmlns="http://www.tei-c.org/ns/1.0"
                         change="metadata#StE"
                         facs="#f015_z002">"</corr>Fredoniad,<corr xmlns="http://www.tei-c.org/ns/1.0"
                             change="metadata#StE"
                             facs="#f015_z001">"</corr> and till </hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">a</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> better epic came along, <lb xmlns="http://www.tei-c.org/ns/1.0"/> swear it was not very far behind the Iliad." Take away <lb xmlns="http://www.tei-c.org/ns/1.0"/> the words, and in spirit he was sound</hi>.</p>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">a</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> better epic came along, <lb xmlns="http://www.tei-c.org/ns/1.0"/> swear it was not very far behind the Iliad." Take away <lb xmlns="http://www.tei-c.org/ns/1.0"/> the words, and in spirit he was sound</hi>.</p>
             </div>
         </body>
     </text>

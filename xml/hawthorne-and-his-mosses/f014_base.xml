@@ -2,49 +2,48 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <text>
         <body>
-            <div type="leaf">
-                <p>
+            <div type="leaf" n="15">
                     <pb facs="#f014"/>
-                </p>
+                
                 <p>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Hawthorne and His Mosses</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Hawthorne and His Mosses</hi>
                     <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> By a Virginian Spending July in Vermont</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> By a Virginian Spending July in Vermont</hi>
                     <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">[</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">concluded from the last number.</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">]</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">[</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">concluded from the last number.</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">]</hi>
                     <note facs="#f014_z049" type="compositorial">McIntyre</note>
                     <lb/>
                 </p>
                 <p>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Now</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">I</hi> do not  ^<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">say that</hi> Nathaniel of Salem is a <lb/>greater than William of Avon<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or as great<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> But <lb/>the difference between the two men is by no <lb/>means immeasurable<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Not a very great deal <lb/> more<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and Nathaniel were <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">verily</hi> William.</p>
-                <p>This<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> too<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I mean<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that if Shakespeare has <lb/>not been equalled<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">give the world time, <reg xmlns="http://www.tei-c.org/ns/1.0"
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Now</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">I</hi> do not  ^<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">say that</hi> Nathaniel of Salem is a <lb/>greater than William of Avon<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> or as great<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> But <lb/>the difference between the two men is by no <lb/>means immeasurable<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Not a very great deal <lb/> more<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and Nathaniel were <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">verily</hi> William.</p>
+                <p>This<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> too<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> I mean<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that if Shakespeare has <lb/>not been equalled<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">give the world time, <reg xmlns="http://www.tei-c.org/ns/1.0"
                         change="metadata#StE"
                         facs="#f014_z034">&amp;</reg>
-                    </hi>he is sure to be surpassed<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    </hi>he is sure to be surpassed<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
                     <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in one hemisphere or the other.</hi>
-                    <lb/>
-                    <lb/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in one hemisphere or the other.</hi>
                     <lb/>
                     <lb/>
                     <lb/>
-                    <lb/> Nor will <lb/>it <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at</hi> all do to say<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that the world is getting<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">grey &amp; grizzled</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
-                    <lb/>now<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and has lost that fresh charm which <lb/>she wore of old<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and by virtue of which <lb/>the great poets of past times made themselves <lb/>
-                    <lb/>what we esteem them <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">to be</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Not so. the world is as young today<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as when it was <lb/>created<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and th<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">is</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Vermont</hi> morning dew is as wet to <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">my</hi> feet<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as Eden's <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">dew</hi> to Adam<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">'s</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Nor has <lb/>Nature been all over ransacked by our <reg change="metadata#StE" facs="#f014_z015 #f014_z016">progen--<lb/>itors,</reg> so t<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">hat</hi> no new charms and mysteries remain <lb/>for this lat<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">t</hi>er generation to find. Far from it<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
-                    <lb/>The <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">trillionth</hi> part has not yet been <lb/>said<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and all that has been said<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> but <reg change="metadata#StE" facs="#f014_z007 #f014_z008">mul-<lb/>tiplies</reg> the avenues to what <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">remains</hi> to be said<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
-                    <lb/>It is not so much paucity<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as superabundance <lb/>of material that <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">seems to</hi> incapacitate<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">modern authors.</hi>
+                    <lb/>
+                    <lb/>
+                    <lb/> Nor will <lb/>it <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">at</hi> all do to say<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> that the world is getting<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">grey &amp; grizzled</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+                    <lb/>now<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and has lost that fresh charm which <lb/>she wore of old<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> and by virtue of which <lb/>the great poets of past times made themselves <lb/>
+                    <lb/>what we esteem them <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">to be</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Not so. the world is as young today<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as when it was <lb/>created<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and th<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">is</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Vermont</hi> morning dew is as wet to <lb/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">my</hi> feet<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as Eden's <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">dew</hi> to Adam<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">'s</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi> Nor has <lb/>Nature been all over ransacked by our <reg change="metadata#StE" facs="#f014_z015 #f014_z016">progen--<lb/>itors,</reg> so t<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">hat</hi> no new charms and mysteries remain <lb/>for this lat<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">t</hi>er generation to find. Far from it<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+                    <lb/>The <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">trillionth</hi> part has not yet been <lb/>said<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and all that has been said<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> but <reg change="metadata#StE" facs="#f014_z007 #f014_z008">mul-<lb/>tiplies</reg> the avenues to what <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">remains</hi> to be said<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">.</hi>
+                    <lb/>It is not so much paucity<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> as superabundance <lb/>of material that <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">seems to</hi> incapacitate<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">modern authors.</hi>
                 </p>
             </div>
         </body>

@@ -2,17 +2,15 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <text>
         <body>
-            <div type="leaf">
-                <p>
+            <div type="leaf" n="28">
                     <pb facs="#f027"/>
-                </p>
-                <p> By some people<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>this entire <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">scrawl of mine</hi>may be esteemed altogether unnecessary<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
-                    <lb/>inasmuch<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>"as years ago"<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> (they may say) </hi>"we found out<lb/> the rich and rare stuff in this Hawthorne<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> whom<lb/> you now par<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">ade forth</hi>, as if only yourself were<lb/> the discoverer of this <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Portuguese diamond</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in our</hi>
-                    <lb/>Literature." -- But even granting<lb/> all this<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and adding to it, the assumption that the<lb/> books of Hawthorne have sold by the five-thousand<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,--</hi> what does <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">that</hi>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">signify?--</hi> They should be<lb/> sold by the hundred-thousand<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and read by the<lb/> million<hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and admired by every one who is capable <lb/>of <corr change="#StBa" facs="#f027_z002" rend="no_caret">a</corr>dmiration.<lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/>
+                
+                <p> By some people<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>this entire <lb/>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">scrawl of mine</hi>may be esteemed altogether unnecessary<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi>
+                    <lb/>inasmuch<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">, </hi>"as years ago"<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"> (they may say) </hi>"we found out<lb/> the rich and rare stuff in this Hawthorne<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,</hi> whom<lb/> you now par<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">ade forth</hi>, as if only yourself were<lb/> the discoverer of this <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Portuguese diamond</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">in our</hi>
+                    <lb/>Literature." -- But even granting<lb/> all this<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and adding to it, the assumption that the<lb/> books of Hawthorne have sold by the five-thousand<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">,--</hi> what does <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">that</hi>
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">signify?--</hi> They should be<lb/> sold by the hundred-thousand<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and read by the<lb/> million<hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">;</hi> and admired by every one who is capable <lb/>of admiration.<lb/>
                 </p>
             </div>
         </body>

@@ -2,10 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <text>
         <body>
-            <div type="leaf">
-                <p>
+            <div type="leaf" n="14">
                     <pb facs="#f013"/>
-                </p>
                 <p>not Shakespeare, but only Master William Shakespeare <lb/> of the <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">shrewd, thriving</hi>,
                     business firm of Condell, Shakespeare &amp; <corr change="metadata#StE" facs="#f013_z007">Co.</corr>, proprietors <lb/> of the Globe Theatre in
                     London; <reg change="metatdata#StE" facs="#f013_z008">&amp; </reg>by a  courtly author, <lb/> of
