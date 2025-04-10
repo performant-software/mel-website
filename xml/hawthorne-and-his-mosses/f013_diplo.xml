@@ -2,10 +2,10 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<text>
 		<body>
-			<div type="leaf">
+			<div type="leaf" n="14">
 				<p><pb facs="#f013"/>
 					<metamark change="metadata#StBa" facs="#f013_z003" function="folio" n="14"
-						place="top right margin">folio number 14</metamark></p>
+						place="top right margin">14</metamark></p>
 				<p>not Shakespeare, but only Master William Shakespeare <lb/> of the <metamark
 						change="metadata#StC" facs="#f013_z001" function="insertion"
 						place="inline above" rend="caret">caret with guiding line</metamark><add
