@@ -4,10 +4,10 @@
         <body>
             <div type="leaf" n="14">
                     <pb facs="#f013"/>
-                <p>not Shakespeare, but only Master William Shakespeare <lb/> of the <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">shrewd, thriving</hi>,
-                    business firm of Condell, Shakespeare &amp; <corr change="metadata#StE" facs="#f013_z007">Co.</corr>, proprietors <lb/> of the Globe Theatre in
+                <p>not Shakespeare, but only Master William Shakespeare <lb/> of the <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">shrewd, thriving</hi>,
+                    business firm of Condell, Shakespeare &amp; <corr change="#StE" facs="#f013_z007">Co.</corr>, proprietors <lb/> of the Globe Theatre in
                     London; <reg change="metatdata#StE" facs="#f013_z008">&amp; </reg>by a  courtly author, <lb/> of
-                    the name of Chettle, was hooted at, as an <quote change="metadata#readingNH"
+                    the name of Chettle, was hooted at, as an <quote change="#readingNH"
                         facs="#f013_z004 #f013_z005 #f013_z006"
                         source="Shakespeare Volume 1">"upstart <lb/> crow" beautified "with
                         other birds' feathers."</quote>
@@ -18,12 +18,12 @@
                     well, <lb/> imitation is often the first charge brought against real <lb/>
                     originality. Why this is so, there is not space to set forth here. You must
                     <lb/> have plenty of sea-room to tell the <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Truth</hi> in; especially, when it seems to have an aspect
-                    <lb/> of newness, as America did in 1492, <reg change="metadata#StE" facs="#f013_z010">tho'</reg> it was then <lb/> just as old, and perhaps
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">Truth</hi> in; especially, when it seems to have an aspect
+                    <lb/> of newness, as America did in 1492, <reg change="#StE" facs="#f013_z010">tho'</reg> it was then <lb/> just as old, and perhaps
                     older than Asia, only <lb/>
-                    <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">those </hi>sagacious philosophers, the common sailors, had
-                    never <lb/> seen it before<corr change="metadata#StE" facs="#f013_z011">;</corr>
-                    swearing it was all water <reg change="metadata#StE" facs="#f013_z012">&amp;</reg> moonshine <lb/> there. <hi xmlns="" xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">（to be
+                    <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">those </hi>sagacious philosophers, the common sailors, had
+                    never <lb/> seen it before<corr change="#StE" facs="#f013_z011">;</corr>
+                    swearing it was all water <reg change="#StE" facs="#f013_z012">&amp;</reg> moonshine <lb/> there. <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold">（to be
                         concluded next week)</hi>
                 </p>
             </div>
