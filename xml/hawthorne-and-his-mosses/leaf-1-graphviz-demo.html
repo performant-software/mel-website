@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Interactive Graphviz Viewer (Leaf 1)</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+    }
+    #graph-container {
+      flex: 1;
+      overflow: hidden;
+      flex: 1;
+      overflow: hidden;
+      background-color: #f9f9f9;
+      border-top: 1px solid #ccc;
+      display: flex;
+      justify-content: flex-start; /* Ensure left alignment */
+      align-items: center;
+    }
+    #graph {
+      width: 90%;
+      height: 90%;
+    }
+    #controls {
+      padding: 10px;
+      background: #eee;
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+    }
+    button {
+      padding: 6px 12px;
+      font-size: 14px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+<div id="title"><h1>Leaf 1 visualisation of "Hawthorne and his Mosses"</h1>
+</div>
+  <div id="controls">
+    <button onclick="zoomIn()">Zoom In</button>
+    <button onclick="zoomOut()">Zoom Out</button>
+    <button onclick="resetZoom()">Reset</button>
+    <button onclick="toggleDirection()">Toggle Direction (vertical view)</button>
+  </div>
+
+  <div id="graph-container">
+    <div id="graph"></div>
+  </div>
+
+  <!-- Viz.js (Graphviz rendering) -->
+  <script src="https://cdn.jsdelivr.net/npm/viz.js@2.1.2/viz.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/viz.js@2.1.2/full.render.js"></script>
+
+  <!-- Panzoom -->
+  <script src="https://cdn.jsdelivr.net/npm/panzoom@9.4.0/dist/panzoom.min.js"></script>
+
+  <script>
+    const dotContent = `
+      v0 [label = "LEAF 1"];
+      v1 [label = "Hawthorne "];
+      v2 [label = "and "];
+      v3 [label = "& "];
+      v4 [label = "His Mosses ¶"];
+      v5 [label = "\"The truth seems to be, that like many other geniuses, this Man of Mosses takes great delight in hoodwinking the world,-at least, with respect to himself.\"¶"];
+      v6 [label = "By a Virginian Spending July in Vermont¶A papered chamber in a fine old "];
+      v7 [label = "farm- house--a "];
+      v8 [label = "farm-house -- a "];
+      v9 [label = "mile from any other dwelling, and dipped to the eaves in "];
+      v10 [label = "foliage -- surrounded "];
+      v11 [label = "foliage--surrounded "];
+      v12 [label = "by mountains, old woods, and Indian ponds, -- this, surely, is the place to write of Hawthorne. Some charm is in this northern air, for love and duty seem both impelling to the task. A man of a deep "];
+      v13 [label = "& "];
+      v14 [label = "and "];
+      v15 [label = "noble nature has seized me in this seclusion. His wild, witch voice rings "];
+      v16 [label = "through "];
+      v17 [label = "thro' "];
+      v18 [label = "me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds, that sing in the larch trees at my window. Would that all excellent books were foundlings, without father or mother, that so it might be, we could glorify them, without including their ostensible authors. Nor would any true man take exception to this; "];
+      v19 [label = "-- least "];
+      v20 [label = "--least "];
+      v21 [label = "of all, he who writes, "];
+      v22 [label = "-- \"When "];
+      v23 [label = "--\"When "];
+      v24 [label = "the Artist rises high enough to achieve the Beautiful, the symbol by which he makes it perceptible to mortal senses becomes of little value in his eyes, while his spirit possesses itself in the enjoyment of the reality.\" But more than this. I know not"];
+      v25 [label = ""];
+      v0 -> v1 [label = "W1, W2"];
+      v1 -> v2 [label = "W2"];
+      v1 -> v3 [label = "W1"];
+      v2 -> v4 [label = "W2"];
+      v3 -> v4 [label = "W1"];
+      v4 -> v6 [label = "W1"];
+      v4 -> v5 [label = "W2"];
+      v5 -> v6 [label = "W2"];
+      v6 -> v7 [label = "W2"];
+      v6 -> v8 [label = "W1"];
+      v7 -> v9 [label = "W2"];
+      v8 -> v9 [label = "W1"];
+      v9 -> v10 [label = "W1"];
+      v9 -> v11 [label = "W2"];
+      v10 -> v12 [label = "W1"];
+      v11 -> v12 [label = "W2"];
+      v12 -> v13 [label = "W1"];
+      v12 -> v14 [label = "W2"];
+      v13 -> v15 [label = "W1"];
+      v14 -> v15 [label = "W2"];
+      v15 -> v16 [label = "W2"];
+      v15 -> v17 [label = "W1"];
+      v16 -> v18 [label = "W2"];
+      v17 -> v18 [label = "W1"];
+      v18 -> v19 [label = "W1"];
+      v18 -> v20 [label = "W2"];
+      v19 -> v21 [label = "W1"];
+      v20 -> v21 [label = "W2"];
+      v21 -> v22 [label = "W1"];
+      v21 -> v23 [label = "W2"];
+      v22 -> v24 [label = "W1"];
+      v23 -> v24 [label = "W2"];
+      v24 -> v25 [label = "W1, W2"];
+      v0 -> v25 [color =  "white"];
+    `;
+
+    let viz = new Viz();
+    let panZoomController;
+    let isHorizontal = false;
+
+    function renderGraph() {
+      const rankdir = isHorizontal ? "TB" : "LR";
+      const fullDot = `digraph G { rankdir=${rankdir}; ${dotContent} }`;
+
+      viz.renderSVGElement(fullDot)
+        .then(svg => {
+          const graphContainer = document.getElementById('graph');
+          graphContainer.innerHTML = '';
+          graphContainer.appendChild(svg);
+
+          panZoomController = panzoom(svg, {
+            maxZoom: 5,
+            minZoom: 0.5,
+            bounds: true,
+            boundsPadding: 0.2
+          });
+
+          svg.parentElement.addEventListener('wheel', panZoomController.zoomWithWheel);
+        })
+        .catch(error => {
+          document.getElementById('graph').innerText = "Error rendering graph: " + error;
+        });
+    }
+
+    function zoomIn() {
+      panZoomController.smoothZoom(0, 0, 1.2);
+    }
+
+    function zoomOut() {
+      panZoomController.smoothZoom(0, 0, 0.8);
+    }
+
+    function resetZoom() {
+      panZoomController.moveTo(0, 0);
+      panZoomController.zoomAbs(0, 0, 1);
+    }
+
+    function toggleDirection() {
+      isHorizontal = !isHorizontal;
+      renderGraph();
+    }
+
+    renderGraph();
+  </script>
+</body>
+</html>

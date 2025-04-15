@@ -8,7 +8,7 @@
 						place="top right margin">14</metamark></p>
 				<p><add change="#StC" hand="#HM" place="inline">not Shakespeare, but only Master William Shakespeare <lb/> of the <metamark
 						change="#StC" facs="#f013_z001" function="insertion"
-						place="inline above" rend="caret">caret with guiding line</metamark><add
+						place="inline" rend="guideline">^</metamark><add
 						change="#StC" facs="iiifmossesmanifest.json#f013_add-shrewdthriving"
 						hand="#HM" place="above" rend="caret">shrewd, thriving</add>,
 					business firm of Condell, Shakespeare &amp; <corr change="StE"
@@ -26,7 +26,7 @@
 					<lb/> of newness, as America did in 1492, tho' it was then <lb/> just as old, and perhaps
 					older than Asia, only <del change="#StC"
 						facs="iiifmossesmanifest.json#f013_delete-the" hand="#HM"
-						rend="single-stroke">the</del>
+						rend="multi-stroke">the</del>
 					<lb/>
 					<add change="#StC" facs="#f013_z002" hand="#HM" place="inline"
 						rend="no_caret">those</add> sagacious philosophers, the common sailors, had
