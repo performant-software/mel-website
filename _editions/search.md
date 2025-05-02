@@ -2,10 +2,9 @@
 layout: editions_two-columns
 title: Mel Search
 permalink: /search
-
 ---
 
-    <body>
+<body>
         <form action="https://duckduckgo.com" target="_blank" rel="noopener">
         <label for="search">Search the MEL website (via DuckDuckGo):</label>
         <input name="q" id="search" />
@@ -16,4 +15,4 @@ permalink: /search
         <input type="hidden" name="km" value="m" />
         <input type="hidden" name="k7" value="#fafef5" />
       </form>
-        </body>
+</body>
