@@ -4,8 +4,9 @@ title: Mel Search
 permalink: /search
 ---
 
-<body>
-        <form action="https://duckduckgo.com" target="_blank" rel="noopener">
+## Search MEL using DuckDuckGo
+
+<form action="https://duckduckgo.com" target="_blank" rel="noopener">
         <label for="search">Search the MEL website (via DuckDuckGo):</label>
         <input name="q" id="search" />
         <input type="hidden" name="sites" value="https://melville.electroniclibrary.org/" />
@@ -14,5 +15,4 @@ permalink: /search
         <input type="hidden" name="kz" value="-1" />
         <input type="hidden" name="km" value="m" />
         <input type="hidden" name="k7" value="#fafef5" />
-      </form>
-</body>
+</form>
