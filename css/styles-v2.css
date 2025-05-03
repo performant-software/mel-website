@@ -36,11 +36,11 @@ hr {
 .navbar-brand {
   text-transform: uppercase;
   font-weight: 900;
-  letter-spacing: 2px;
+  letter-spacing: 3px;
 }
 .navbar-nav {
   text-transform: uppercase;
-  font-weight: 400;
+  font-weight: 450;
 }
 .img-full {
   min-width: 100%;
@@ -138,7 +138,7 @@ footer p {
   .navbar-default {
     border: none;
     background: #fff;
-    background: rgba(0, 123, 196, 0.8);
+    background: rgba(0, 124, 196, 0.969);
   }
   .navbar-nav > li > a {
     line-height: normal;
@@ -162,7 +162,7 @@ footer p {
   }
 }
 .navbar-default .navbar-nav > li > a {
-  color: #fff;
+  color: #ffffffa3;
 }
 .navbar-default .navbar-nav > li > a:focus,
 .navbar-default .navbar-nav > li > a:hover {
@@ -200,6 +200,15 @@ footer p {
 }
 
 h1 {
+  color: #fff;
+  background-color: rgba(0, 123, 196, 0.8);
+  padding: 10px 10px 0 10px;
+  margin-bottom: 0;
+  text-align: center;
+  display: inline-block;
+}
+
+h4 {
   color: #fff;
   background-color: rgba(0, 123, 196, 0.8);
   padding: 10px 10px 0 10px;
