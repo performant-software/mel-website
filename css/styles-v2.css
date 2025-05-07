@@ -137,7 +137,7 @@ footer p {
   }
   .navbar-default {
     border: none;
-    font-size: 4em;
+    font-size: 2em;
     background: #fff;
     background: rgba(0, 124, 196, 0.969);
   }
@@ -202,7 +202,7 @@ footer p {
 
 h1 {
   color: #fff;
-  background-color: rgba(0, 123, 196, 0.8);
+  background-color: transparent;
   padding: 10px 10px 0 10px;
   margin-bottom: 0;
   text-align: center;
@@ -211,7 +211,7 @@ h1 {
 
 h4 {
   color: #ffffff;
-  background-color: rgba(0, 123, 196, 0.8);
+  background-color: transparent;
   padding: 0;
   margin-bottom: 0;
   text-align: center;
