@@ -137,7 +137,8 @@ footer p {
   }
   .navbar-default {
     border: none;
-    font-size: 1.25em;
+    font-size: 1em;
+    font-weight: 200;
     background: #fff;
     background: rgba(0, 124, 196, 0.969);
   }
