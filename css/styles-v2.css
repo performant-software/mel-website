@@ -218,7 +218,7 @@ h4 {
 }
 
 input .search-query {
-  background-color:#43a1f4;
+  background-color: rgba(0, 123, 196, 0.8);
   color:white;
 }
 
