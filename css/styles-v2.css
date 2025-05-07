@@ -137,7 +137,7 @@ footer p {
   }
   .navbar-default {
     border: none;
-    background: #ffffff8e;
+    background: #fff;
     background: rgba(0, 124, 196, 0.969);
   }
   .navbar-nav > li > a {
@@ -162,7 +162,7 @@ footer p {
   }
 }
 .navbar-default .navbar-nav > li > a {
-  color: #ffffffac;
+  color: #ffffff;
 }
 .navbar-default .navbar-nav > li > a:focus,
 .navbar-default .navbar-nav > li > a:hover {
@@ -209,7 +209,7 @@ h1 {
 }
 
 h4 {
-  color: #ffffffaf;
+  color: #ffffff;
   background-color: rgba(0, 123, 196, 0.8);
   padding: 0;
   margin-bottom: 0;
