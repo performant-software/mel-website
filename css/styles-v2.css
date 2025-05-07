@@ -211,8 +211,8 @@ h1 {
 }
 
 h4 {
-  color: #0c0101;
-  background-color: transparent;
+  color: #fff;
+  background-color: rgba(0, 123, 196, 0.8);
   padding: 0;
   margin-bottom: 0;
   text-align: center;
