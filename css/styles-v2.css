@@ -212,7 +212,7 @@ h1 {
 
 h4 {
   color: #fff;
-  background-color: rgba(0, 123, 196, 0.8);
+  background-color: rgba(0, 124, 196, 0.969);
   padding: 0;
   margin-bottom: 0;
   text-align: center;
@@ -220,7 +220,7 @@ h4 {
 }
 
 .search-query {
-  background-color: rgba(0, 123, 196, 0.8);
+  background-color: rgba(0, 124, 196, 0.969);
   color:rgb(23, 2, 2);
 }
 
