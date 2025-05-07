@@ -217,6 +217,11 @@ h4 {
   display: inline-block;
 }
 
+input .search-query {
+  background-color:#43a1f4;
+  color:white;
+}
+
 .pad-top-20 {
   padding-top: 20px;
 }
