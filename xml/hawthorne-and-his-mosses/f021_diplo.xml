@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title></title>
+			</titleStmt>
+			<publicationStmt><ab>Mosses f021</ab></publicationStmt>
+			<sourceDesc><ab>MEL</ab></sourceDesc>
+		</fileDesc>
+	</teiHeader>
 	<text>
 		<body>
 			<div type="leaf">
