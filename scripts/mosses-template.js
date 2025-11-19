@@ -1,7 +1,6 @@
 
 function mossesMSPageTemplate(baseURL,dev) {
     const ecDir = dev ? 'ec-dev' : 'ec'
-    console.log('hi', ecDir, baseURL)
     return `
 <!DOCTYPE html>
 <html>
@@ -33,7 +32,7 @@ function mossesMSPageTemplate(baseURL,dev) {
             transcriptionTypes: {
               base: 'Base Text',
               lw: 'LW',
-              diplomatic: 'Diplomatic Transcription',
+              transcription: 'Diplomatic Transcription',
               reading: 'Reading Text'
             }
         });               
