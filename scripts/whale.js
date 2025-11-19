@@ -78,7 +78,7 @@ async function addBBEditionCrafterPage() {
 }
 
 async function addMossesEditionCrafterPage() {
-    const baseURL = process.env.URL
+    const baseURL = process.env.DEPLOY_PRIME_URL
     const dev = !!process.env.DEV_MODE
     const html = mossesMSPageTemplate(baseURL,dev)
     fs.writeFileSync("editions/hawthorne-and-his-mosses/mosses-ms.html", html, "utf8")
