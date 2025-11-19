@@ -8,6 +8,7 @@ require('dotenv').config();
 const {CETEI} = require("./CETEI")
 const { pageTemplate } = require("./page-template")
 const { bbMSPageTemplate } = require("./bb-ms-template")
+const { mossesMSPageTemplate } = require("./mosses-template")
 
 function dirExists( dir ) {
     if( !fs.existsSync(dir) ) {
@@ -76,7 +77,14 @@ async function addBBEditionCrafterPage() {
     fs.writeFileSync("editions/versions-of-billy-budd/billy-budd-ms.html", html, "utf8")
 }
 
-async function processDocs(sourceDocsPath, targetPath) {
+async function addMossesEditionCrafterPage() {
+    const baseURL = process.env.URL
+    const dev = !!process.env.DEV_MODE
+    const html = mossesMSPageTemplate(baseURL,dev)
+    fs.writeFileSync("editions/hawthorne-and-his-mosses/mosses-ms.html", html, "utf8")
+}
+
+async function processDocs(sourceDocsPath, targetPath, MSFile = 'index.html') {
     // clear out target and match directory structure with source
     mirrorDirs(sourceDocsPath, targetPath)
     
@@ -102,7 +110,7 @@ async function processDocs(sourceDocsPath, targetPath) {
     }
 
     for( const chapter of chapters ) {
-        const html = pageTemplate(chapter, toc, editionTitle, tl_leaf, iiif, envs )
+        const html = pageTemplate(chapter, toc, editionTitle, tl_leaf, iiif, `${targetPath}/${MSFile}`, envs )
         const targetFile = `${targetPath}/${chapter.id}.html`
         fs.writeFileSync(targetFile, html, "utf8")    
     }
@@ -113,10 +121,13 @@ async function run() {
     dirExists('editions/versions-of-billy-budd')
     dirExists('editions/battle-pieces')
     dirExists('editions/versions-of-moby-dick')
-    await processDocs('xml/versions-of-billy-budd','editions/versions-of-billy-budd')
+    dirExists('editions/hawthorne-and-his-mosses')
+    await processDocs('xml/versions-of-billy-budd','editions/versions-of-billy-budd', 'billy-budd-ms.html')
     await processDocs('xml/battle-pieces','editions/battle-pieces')
     await processDocs('xml/versions-of-moby-dick','editions/versions-of-moby-dick')
+    await processDocs('xml/hawthorne-and-his-mosses','editions/hawthorne-and-his-mosses', 'mosses-ms.html')
     await addBBEditionCrafterPage()
+    await addMossesEditionCrafterPage()
 }
 
 function main() {

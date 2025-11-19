@@ -85,12 +85,16 @@ function highlightImage( on, id ) {
     }
 }
 
-function initThumbs(tlLeaf,iiif) {
+function initThumbs(tlLeaf,iiif,MSPath) {
     // go through all the facs attributes and render them to the sidebar
     const thumbnailMarginEl = document.getElementById('thumbnail-margin')
-    const facsEls = document.querySelectorAll('[facs]')
+    const facsEls = document.querySelectorAll('tei-pb')
+    console.log(facsEls)
     let i = 0
     for( const facsEl of facsEls ) {
+        if (!facsEl.getAttribute('facs')) {
+            continue;
+        }
         const url = iiif ? `${ facsEl.getAttribute('facs')}/full/120,/0/default.jpg` : facsEl.getAttribute('facs')
         const imageEl = document.createElement('img')
         imageEl.id = `thumb-${i++}`
@@ -98,8 +102,8 @@ function initThumbs(tlLeaf,iiif) {
         imageEl.classList.add('thumbnail')
         imageEl.style.top = `${facsEl.offsetTop}px`
         imageEl.setAttribute('src',url)
-        const surfaceID = facsEl.getAttribute('corresp')
-        const ecURL = `${window.location.origin}/editions/versions-of-billy-budd/billy-budd-ms.html#/ec/${surfaceID}/f/${surfaceID}/transcription`
+        const surfaceID = facsEl.getAttribute('corresp') || facsEl.getAttribute('sameAs')
+        const ecURL = `${window.location.origin}/${MSPath}#/ec/${surfaceID}/f/${surfaceID}/transcription`
         const onClickFn = tlLeaf ? `window.open("${ecURL}")` : `createImageWindow("${imageEl.id}","${url}")`
         imageEl.setAttribute('onclick',onClickFn)
         imageEl.setAttribute('onmouseenter',`highlightImage( true, "${facsEl.id}"); highlightImage( true, "${imageEl.id}")`)
@@ -113,7 +117,7 @@ function initThumbs(tlLeaf,iiif) {
     }
 }
 
-function init(tl_leaf,iiif) {
+function init(tl_leaf,iiif,MSPath) {
     initNotes()
-    initThumbs(tl_leaf,iiif)
+    initThumbs(tl_leaf,iiif,MSPath)
 }
