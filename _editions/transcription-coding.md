@@ -9,7 +9,7 @@ permalink: /transcription-coding
 
 TEI elements, attributes, and values enable nuanced description of both manuscript leaf and word content. Notice that an element code uses angle brackets (and slash) to indicate the \<beginning> and \</end> of the range of words the code is meant to affect. Certain elements can also be contained within other elements. For instance, the nesting of codes—“of the \<restore>\<del>**British**\</del>\</restore> fleet”—means that in the phrase “in the British fleet” the word “British” was deleted then restored. When attributes and values are added, the coding becomes more involved:
 
-    of the <restore facs="#img_23-0025" change**="#StDa"> <del facs="#img_23-0025" rend="single-stroke _ink1" hand="#HM" change="#StDa">British</del> </restore> fleet
+    of the <restore facs="#img_23-0025" change="#StDa"> <del facs="#img_23-0025" rend="single-stroke _ink1" hand="#HM" change="#StDa">British</del> </restore> fleet
   
 
 Here, in **facs="#img_23-0025"**, the "facsimile" attribute, with its assigned image value links both the deletion and restoration to revision site 25 on leaf image 23. The @change attribute  records that both revision acts occurred in stage D (substage a) in the composition of *Billy Budd*. In addition, the @rend and @hand attributes within the deletion element indicate that HM (i.e. Melville and not his wife ESM) deleted “British,” in one pen stroke, using “ink1” or black ink. All of these attributes and values are contained within the <del> element, wrapped within the <restore> element.
