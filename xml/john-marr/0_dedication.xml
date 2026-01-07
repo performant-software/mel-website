@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>01 - Epistolary Dedication</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for TEI XML demonstration.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors</title>
+               <author>Herman Melville</author>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="dedication">
+            <head>INSCRIPTION EPISTOLARY</head>
+            
+            <opener>
+               <address>
+                  <addrLine>TO</addrLine>
+                  <addrLine><persName>W. C. R.</persName></addrLine>
+               </address>
+               <salute rend="allcaps">HEALTH AND CONTENT:</salute>
+            </opener>
+            
+            <p>Hilary, my companionable acquaintance, during an afternoon stroll under the trees along the higher bluffs of our Riverside Park last June, entertained me with one of those clever little theories, for the originating and formulating whereof he has a singular aptitude. He had but recently generalized it—so, at least, I inferred—from certain subtler particulars which, in the instances of sundry individuals, he flattered himself his perspicacity had enabled him to discern.</p>
+            
+            <p>Let me communicate to you this theory; not that I imagine you will hail it as a rare intellectual acquisition; hardly that, but because I am much mistaken if it do not attract your personal interest, however little it may otherwise, and with other people, win consideration or regard. Briefly put, it is this. Letting alone less familiar nationalities, an American born in England, or an Englishman born in America, each in his natural make-up retains through life, and will some way evince, an intangible something imbibed with his mother's milk from the soil of his nativity.</p>
+            
+            <p>But for a signal illustration hereof, whom, think you, he cites? Well, look into any mirror at hand and you will see the gentleman. Yes, Hilary thinks he perceives in the nautical novels of <persName>W. C. R.</persName> an occasional flavor as if the honest mid-sea brine, their main constituent, were impregnated with a dash of the New World's alluvium—such, say, as is discharged by our Father of Waters into the Gulf of Mexico. <quote>“Natural enough,”</quote> he observes; <quote>“for, though a countryman of the Queen,—his parentage, home, and allegiance all English,—this writer, I am credibly informed, is in his birthplace a New-Worlder; ay, first looked out upon life from a window here of our island of Manhattan, nor very far from the site of my place in Broadway, by Jove!”</quote></p>
+            
+            <p>Now, Hilary is that rare bird, a man at once genial and acute. Genial, I mean, without sharing much in mere gregariousness, which, with some, passes for a sort of geniality; and acute, though lacking more or less in cautionary self-skepticism. No wonder then that, however pleasing and instructive be Hilary's companionship, and much as I value the man, yet as touching more than one of his shrewder speculations I have been reluctantly led to distrust a little that penetrative perspicacity of his, a quality immoderately developed in him, and perhaps (who knows?), developed by his business; for he is an optician, daily having to do with the microscope, telescope, and other inventions for sharpening and extending our natural sight, thus enabling us mortals (as I once heard an eccentric put it) liberally to enlarge the field of our original and essential ignorance.</p>
+            
+            <p>In a word, my excellent friend's private little theory, while, like many a big and bruited one, not without a fancifully plausible aspect commending it to the easy of belief, is yet, in my humble judgment,—though I would not hint as much to him for the world,—made up in no small part of one element inadmissible in sound philosophy — namely, moonshine. As to his claim of finding signal evidence for it in the novels aforementioned, that is another matter. That, I am inclined to think, is little else than the amiable illusion of a zealous patriot eager to appropriate anything that in any department may tend to reflect added luster upon his beloved country.</p>
+            
+            <p>But, dismissing theory, let me come to a fact, and put it fact-wise; that is to say, a bit bluntly: By the suffrages of seamen and landsmen alike, <title>The Wreck of the Grosvenor</title> entitles the author to the naval crown in current literature. That book led the series of kindred ones by the same hand; it is the flag-ship, and to name it implies the fleet. Upon the <title>Grosvenor</title>'s first appearance—in these waters, I was going to say—all competent judges exclaimed, each after his own fashion, something to this effect: The very spit of the brine in our faces! What writer, so thoroughly as this one, knows the sea, and the blue water of it; the sailor and the heart of him; the ship, too, and the sailing and handling of a ship? Besides, to his knowledge he adds invention. And, withal, in his broader humane quality he shares the spirit of <persName>Richard H. Dana</persName>, a true poet's son, our own admirable <title>“Man before the Mast.”</title></p>
+            
+            <p>Well, in view of those unanimous verdicts summed up in the foregoing condensed delivery, with what conscientious satisfaction did I but just now, in the heading of this inscription, salute you, <persName>W. C. R.</persName>, by running up your colors at my fore. Would that the craft thus embravened were one of some tonnage, so that the flag might be carried on a loftier spar, commanding an ampler horizon of your recognizing friends.</p>
+            
+            <p>But the pleasure I take in penning these lines is such that, did a literary inscription imply aught akin to any bestowment, say, or benefit,—which it is so very far indeed from implying,—then, sinner though I am, I should be tempted to repeat that divine apothegm which, were it repeated forever, would never stale: <quote>“It is more blessed to give than to receive.”</quote> And tho' by the world at large so unworldly a maxim receives a more hospitable welcome at the ear than in the heart,—and no wonder, considering the persistent deceptiveness of so many things mundane,—nevertheless, in one province,—and I mean no other one than literature,—not every individual, I think, at least not every one whose years ought to discharge him from the minor illusions, will dispute it, who has had experience alike in receiving and giving, in one suggestive form or other, sincere contemporary praise. And what, essentially, is such praise? Little else indeed than a less ineloquent form of recognition.</p>
+            
+            <p>That these thoughts are no spurious ones, never mind from whomsoever proceeding, one naturally appeals to the author of <title>The Wreck of the Grosvenor</title>, who, in his duality as a commended novelist and liberal critic in his more especial department, may rightly be deemed an authority well qualified to determine.</p>
+            
+            <p>Thus far as to matters which may be put into type. For personal feeling—the printed page is hardly the place for reiterating that.</p>
+            
+            <closer>
+               <salute>So I close here as I began, wishing you from my heart the most precious things I know of in this world—</salute>
+               <signed rend="allcaps">HEALTH AND CONTENT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <p></p>
+      </body>
+   </text>
+</TEI>
