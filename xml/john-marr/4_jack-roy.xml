@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>04 - Jack Roy</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="jack_roy">
+            <head>JACK ROY.</head>
+            
+            <lg type="stanza">
+               <l>KEPT up by relays of generations young</l>
+               <l>Never dies at halyards the blithe chorus sung;</l>
+               <l>While in sands, sounds, and seas where the storm-petrels cry,</l>
+               <l>Dropped mute around the globe, these halyard singers lie.</l>
+               <l>Short-lived the clippers for racing-cups that run,</l>
+               <l>And speeds in life's career many a lavish mother's-son.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>But thou, manly king o' the old Splendid's crew,</l>
+               <l>The ribbons o' thy hat still a-fluttering, should fly—</l>
+               <l>A challenge, and forever, nor the bravery should rue.</l>
+               <l>Only in a tussle for the starry flag high,</l>
+               <l>When 't is piety to do, and privilege to die,</l>
+               <l>Then, only then, would heaven think to lop</l>
+               <l>Such a cedar as the captain o' the Splendid's main-top:</l>
+               <l>A belted sea-gentleman; a gallant, off-hand</l>
+               <l>Mercutio indifferent in life's gay command.</l>
+               <l>Magnanimous in humor; when the splintering shot fell,</l>
+               <l><quote>“Tooth-picks a-plenty, lads; thank 'em with a shell!”</quote></l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Sang Larry o' the Cannakin, smuggler o' the wine,</l>
+               <l>At mess between guns, lad in jovial recline:</l>
+               <l><quote>“In Limbo our Jack he would chirrup up a cheer,</quote></l>
+               <l><quote>The martinet there find a chaffing mutineer;</quote></l>
+               <l><quote>From a thousand fathoms down under hatches o' your Hades,</quote></l>
+               <l><quote>He 'd ascend in love-ditty, kissing fingers to your ladies!”</quote></l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Never relishing the knave, though allowing for the menial,</l>
+               <l>Nor overmuch the king, Jack, nor prodigally genial.</l>
+               <l>Ashore on liberty he flashed in escapade,</l>
+               <l>Vaulting over life in its levelness of grade,</l>
+               <l>Like the dolphin off Africa in rainbow a-sweeping—</l>
+               <l>Arch iridescent shot from seas languid sleeping.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Larking with thy life, if a joy but a toy,</l>
+               <l>Heroic in thy levity wert thou, Jack Roy.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
