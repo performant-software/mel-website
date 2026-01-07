@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>08 - Far Off-Shore</title>
+            <title>The Man-of-War Hawk</title>
             <author>Herman Melville</author>
          </titleStmt>
          <publicationStmt>
@@ -20,21 +20,18 @@
    </teiHeader>
    <text>
       <body>
-         <div type="poem" xml:id="far_off_shore">
-            <head>FAR OFF-SHORE.</head>
+         <div type="poem" xml:id="man_of_war_hawk">
+            <head>THE MAN-OF-WAR HAWK.</head>
             
             <lg type="stanza">
-               <l>LOOK, the raft, a signal flying,</l>
-               <l rend="indent2">Thin—a shred;</l>
-               <l>None upon the lashed spars lying,</l>
-               <l rend="indent2">Quick or dead.</l>
+               <l rend="indent">YON black man-of-war-hawk that wheels in the light</l>
+               <l>O'er the black ship's white sky-s'l, sunned cloud to the sight,</l>
+               <l>Have we low-flyers wings to ascend to his height?</l>
             </lg>
             
             <lg type="stanza">
-               <l>Cries the sea-fowl, hovering over,</l>
-               <l rend="indent2"><quote>“Crew, the crew?”</quote></l>
-               <l>And the billow, reckless rover,</l>
-               <l rend="indent2">Sweeps anew!</l>
+               <l>No arrow can reach him; nor thought can attain</l>
+               <l>To the placid supreme in the sweep of his reign.</l>
             </lg>
          </div>
       </body>
