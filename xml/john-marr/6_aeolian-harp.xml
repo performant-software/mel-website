@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>06 - The Æolian Harp at the Surf Inn</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="aeolian_harp">
+            <head>THE ÆOLIAN HARP<lb/>AT THE SURF INN.</head>
+            
+            <lg type="stanza">
+               <l>LIST the harp in window wailing</l>
+               <l rend="indent">Stirred by fitful gales from sea:</l>
+               <l>Shrieking up in mad crescendo—</l>
+               <l rend="indent">Dying down in plaintive key!</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Listen: less a strain ideal</l>
+               <l rend="indent">Than Ariel's rendering of the Real.</l>
+               <l>What that Real is, let hint</l>
+               <l rend="indent">A picture stamped in memory's mint.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Braced well up, with beams aslant,</l>
+               <l>Betwixt the continents sails the Phocion,</l>
+               <l>To Baltimore bound from Alicant.</l>
+               <l>Blue breezy skies white fleeces fleck</l>
+               <l>Over the chill blue white-capped ocean:</l>
+               <l>From yard-arm comes—<quote>“Wreck ho, a wreck!”</quote></l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Dismasted and adrift,</l>
+               <l>Longtime a thing forsaken;</l>
+               <l>Overwashed by every wave</l>
+               <l>Like the slumbering kraken;</l>
+               <l>Heedless if the billow roar,</l>
+               <l>Oblivious of the lull,</l>
+               <l>Leagues and leagues from shoal or shore,</l>
+               <l>It swims—a levelled hull:</l>
+               <l>Bulwarks gone—a shaven wreck,</l>
+               <l>Nameless, and a grass-green deck.</l>
+               <l>A lumberman: perchance, in hold</l>
+               <l>Prostrate pines with hemlocks rolled.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>It has drifted, waterlogged,</l>
+               <l>Till by trailing weeds beclogged:</l>
+               <l rend="indent">Drifted, drifted, day by day,</l>
+               <l rend="indent">Pilotless on pathless way.</l>
+               <l>It has drifted till each plank</l>
+               <l>Is oozy as the oyster-bank:</l>
+               <l rend="indent">Drifted, drifted, night by night,</l>
+               <l rend="indent">Craft that never shows a light;</l>
+               <l>Nor ever, to prevent worse knell,</l>
+               <l>Tolls in fog the warning bell.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>From collision never shrinking,</l>
+               <l>Drive what may through darksome smother;</l>
+               <l>Saturate, but never sinking,</l>
+               <l>Fatal only to the other!</l>
+               <l rend="indent">Deadlier than the sunken reef</l>
+               <l rend="indent">Since still the snare it shifteth,</l>
+               <l rend="indent">Torpid in dumb ambuscade</l>
+               <l rend="indent">Waylayingly it drifteth.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>O, the sailors—O, the sails!</l>
+               <l>O, the lost crews never heard of!</l>
+               <l>Well the harp of Ariel wails</l>
+               <l>Thoughts that tongue can tell no word of!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
