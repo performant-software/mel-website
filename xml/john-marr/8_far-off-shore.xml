@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>08 - Far Off-Shore</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for TEI XML repository.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="far_off_shore">
+            <head>FAR OFF-SHORE.</head>
+            
+            <lg type="stanza">
+               <l>LOOK, the raft, a signal flying,</l>
+               <l rend="indent2">Thin—a shred;</l>
+               <l>None upon the lashed spars lying,</l>
+               <l rend="indent2">Quick or dead.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Cries the sea-fowl, hovering over,</l>
+               <l rend="indent2"><quote>“Crew, the crew?”</quote></l>
+               <l>And the billow, reckless rover,</l>
+               <l rend="indent2">Sweeps anew!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
