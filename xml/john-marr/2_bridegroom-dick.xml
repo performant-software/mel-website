@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>02 - Bridegroom Dick</title>
+        <author>Herman Melville</author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+          <publisher>The De Vinne Press</publisher>
+          <date>1888</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="poem" xml:id="bridegroom_dick">
+        <head>BRIDEGROOM DICK</head>
+        <docDate>(1876.)</docDate>
+
+        <lg type="stanza">
+          <l>SUNNING ourselves in October on a day</l>
+          <l>Balmy as spring, though the year was in decay,</l>
+          <l>I lading my pipe, she stirring her tea,</l>
+          <l>My old woman she says to me,</l>
+          <l><quote>“Feel ye, old man, how the season mellows?”</quote></l>
+          <l>And why should I not, blessed heart alive,</l>
+          <l>Here mellowing myself, past sixty-five,</l>
+          <l>To think o' the May-time o' pennoned young fellows</l>
+          <l>This stripped old hulk here for years may survive.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Ere yet, long ago, we were spliced, Bonny Blue,</l>
+          <l>(Silvery it gleams down the moon-glade o' time,</l>
+          <l>Ah, sugar in the bowl and berries in the prime!)</l>
+          <l>Coxswain I o' the Commodore's crew—</l>
+          <l>Under me the fellows that manned his fine gig,</l>
+          <l>Spinning him ashore, a king in full fig.</l>
+          <l>Chirrupy even when crosses rubbed me,</l>
+          <l>Bridegroom Dick lieutenants dubbed me.</l>
+          <l>Pleasant at a yarn, Bob o' Linkum in a song,</l>
+          <l>Diligent in duty and nattily arrayed,</l>
+          <l>Favored I was, wife, and fleeted right along;</l>
+          <l>And though but a tot for such a tall grade,</l>
+          <l>A high quartermaster at last I was made.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>All this, old lassie, you have heard before,</l>
+          <l>But you listen again for the sake e'en o' me;</l>
+          <l>No babble stales o' the good times o' yore</l>
+          <l>To Joan, if Darby the babbler be.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Babbler?—O' what? Addled brains, they forget!</l>
+          <l>O—quartermaster I; yes, the signals set,</l>
+          <l>Hoisted the ensign, mended it when frayed,</l>
+          <l>Polished up the binnacle, minded the helm,</l>
+          <l>And prompt every order blithely obeyed.</l>
+          <l>To me would the officers say a word cheery—</l>
+          <l>Break through the starch o' the quarter-deck realm;</l>
+          <l>His coxswain late, so the Commodore's pet.</l>
+          <l>Ay, and in night-watches long and weary,</l>
+          <l>Bored nigh to death with the naval etiquette,</l>
+          <l>Yearning, too, for fun, some younker, a cadet,</l>
+          <l>Dropping for time each vain bumptious trick,</l>
+          <l>Boy-like would unbend to Bridegroom Dick.</l>
+          <l>But a limit there was—a check, d' ye see:</l>
+          <l>Those fine young aristocrats knew their degree.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Well, stationed aft where their lordships keep,—</l>
+          <l>Seldom going forward excepting to sleep,—</l>
+          <l>I, boozing now on by-gone years,</l>
+          <l>My betters recall along with my peers.</l>
+          <l>Recall them? Wife, but I see them plain:</l>
+          <l>Alive, alert, every man stirs again.</l>
+          <l>Ay, and again on the lee-side pacing,</l>
+          <l>My spy-glass carrying, a truncheon in show,</l>
+          <l>Turning at the taffrail, my footsteps retracing,</l>
+          <l>Proud in my duty, again methinks I go.</l>
+          <l>And Dave, Dainty Dave, I mark where he stands,</l>
+          <l>Our trim sailing-master, to time the high-noon,</l>
+          <l>That thingumbob sextant perplexing eyes and hands,</l>
+          <l>Squinting at the sun, or twigging o' the moon;</l>
+          <l>Then, touching his cap to Old Chock-a-Block</l>
+          <l>Commanding the quarter-deck,—<quote>“Sir, twelve o'clock.”</quote></l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Where sails he now, that trim sailing-master,</l>
+          <l>Slender, yes, as the ship's sky-s'l pole?</l>
+          <l>Dimly I mind me of some sad disaster—</l>
+          <l>Dainty Dave was dropped from the navy-roll!</l>
+          <l>And ah, for old Lieutenant Chock-a-Block—</l>
+          <l>Fast, wife, chock-fast to death's black dock!</l>
+          <l>Buffeted about the obstreperous ocean,</l>
+          <l>Fleeted his life, if lagged his promotion.</l>
+          <l>Little girl, they are all, all gone, I think,</l>
+          <l>Leaving Bridegroom Dick here with lids that wink.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Where is Ap Catesby? The fights fought of yore</l>
+          <l>Famed him, and laced him with epaulets, and more.</l>
+          <l>But fame is a wake that after-wakes cross,</l>
+          <l>And the waters wallow all, and laugh Where 's the loss?</l>
+          <l>But John Bull's bullet in his shoulder bearing</l>
+          <l>Ballasted Ap in his long seafaring.</l>
+          <l>The middies they ducked to the man who had messed</l>
+          <l>With Decatur in the gun-room, or forward pressed</l>
+          <l>Fighting beside Perry, Hull, Porter, and the rest.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Humped veteran o' the Heart-o'-Oak war,</l>
+          <l>Moored long in haven where the old heroes are,</l>
+          <l>Never on you did the iron-clads jar!</l>
+          <l>Your open deck when the boarder assailed,</l>
+          <l>The frank old heroic hand-to-hand then availed.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But where 's Guert Gan? Still heads he the van?</l>
+          <l>As before Vera-Cruz, when he dashed splashing through</l>
+          <l>The blue rollers sunned, in his brave gold-and-blue,</l>
+          <l>And, ere his cutter in keel took the strand,</l>
+          <l>Aloft waved his sword on the hostile land!</l>
+          <l>Went up the cheering, the quick chanticleering;</l>
+          <l>All hands vying—all colors flying:</l>
+          <l><quote>“Cock-a-doodle-doo!”</quote> and <quote>“Row, boys, row!”</quote></l>
+          <l><quote>“Hey, Starry Banner!”</quote> <quote>“Hi, Santa Anna!”</quote>—</l>
+          <l>Old Scott's young dash at Mexico.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Fine forces o' the land, fine forces o' the sea,</l>
+          <l>Fleet, army, and flotilla—tell, heart o' me,</l>
+          <l>Tell, if you can, whereaway now they be!</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But ah, how to speak of the hurricane unchained—</l>
+          <l>The Union's strands parted in the hawser over-strained;</l>
+          <l>Our flag blown to shreds, anchors gone altogether—</l>
+          <l>The dashed fleet o' States in Secession's foul weather.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Lost in the smother o' that wide public stress,</l>
+          <l>In hearts, private hearts, what ties there were snapped!</l>
+          <l>Tell, Hal—vouch, Will, o' the ward-room mess,</l>
+          <l>On you how the riving thunder-bolt clapped.</l>
+          <l>With a bead in your eye and beads in your glass,</l>
+          <l>And a grip o' the flipper, it was part and pass:</l>
+          <l><quote>“Hal, must it be? Well, if come indeed the shock,</quote></l>
+          <l><quote>To North or to South, let the victory cleave,</quote></l>
+          <l><quote>Vaunt it he may on his dung-hill the cock,</quote></l>
+          <l><quote>But Uncle Sam's eagle never crow will, believe.”</quote></l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Sentiment: ay, while suspended hung all,</l>
+          <l>Ere the guns against Sumter opened there the ball,</l>
+          <l>And partners were taken, and the red dance began,</l>
+          <l>War's red dance o' death!—Well, we, to a man,</l>
+          <l>We sailors o' the North, wife, how could we lag?—</l>
+          <l>Strike with your kin, and you stick to the flag!</l>
+          <l>But to sailors o' the South that easy way was barred.</l>
+          <l>To some, dame, believe (and I speak o' what I know),</l>
+          <l>Wormwood the trial and the Uzzite's black shard;</l>
+          <l>And the faithfuller the heart, the crueller the throe.</l>
+          <l>Duty? It pulled with more than one string,</l>
+          <l>This way and that, and anyhow a sting.</l>
+          <l>The flag and your kin, how be true unto both?</l>
+          <l>If one plight ye keep, then ye break the other troth.</l>
+          <l>But elect here they must, though the casuists were out;</l>
+          <l>Decide—hurry up—and throttle every doubt.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Of all these thrills thrilled at keelson, and throes,</l>
+          <l>Little felt the shoddyites a-toasting o' their toes;</l>
+          <l>In mart and bazar Lucre chuckled the huzza,</l>
+          <l>Coining the dollars in the bloody mint of war.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But in men, gray knights o' the Order o' Scars,</l>
+          <l>And brave boys bound by vows unto Mars,</l>
+          <l>Nature grappled honor, intertwisting in the strife:—</l>
+          <l>But some cut the knot with a thoroughgoing knife.</l>
+          <l>For how when the drums beat? How in the fray</l>
+          <l>In Hampton Roads on the fine balmy day?</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>There a lull, wife, befell—drop o' silence in the din.</l>
+          <l>Let us enter that silence ere the belchings re-begin.—</l>
+          <l>Through a ragged rift aslant in the cannonade's smoke</l>
+          <l>An iron-clad reveals her repellent broadside</l>
+          <l>Bodily intact. But a frigate, all oak,</l>
+          <l>Shows honeycombed by shot, and her deck crimson-dyed.</l>
+          <l>And a trumpet from port of the ironclad hails,</l>
+          <l>Summoning the other, whose flag never trails:</l>
+          <l><quote>“Surrender that frigate, Will! Surrender,</quote></l>
+          <l><quote>Or I will sink her—ram, and end her!”</quote></l>
+        </lg>
+
+        <lg type="stanza">
+          <l>'T was Hal. And Will, from the naked heart-o'-oak,</l>
+          <l>Will, the old messmate, minus trumpet, spoke,</l>
+          <l>Informally intrepid—<quote>“Sink her, and be damned!”</quote><ptr target="#note1"/></l>
+          <l>Enough. Gathering way, the ironclad rammed.</l>
+          <l>The frigate, heeling over, on the wave threw a dusk.</l>
+          <l>Not sharing in the slant, the clapper of her bell</l>
+          <l>The fixed metal struck—uninvoked struck the knell</l>
+          <l>Of the Cumberland stillettoed by the Merrimac's tusk;</l>
+          <l>While, broken in the wound underneath the gun-deck,</l>
+          <l>Like a sword-fish's blade in leviathan waylaid,</l>
+          <l>The tusk was left infixed in the fast-foundering wreck.</l>
+          <l>There, dungeoned in the cockpit, the wounded go down,</l>
+          <l>And the chaplain with them. But the surges uplift</l>
+          <l>The prone dead from deck, and for moment they drift</l>
+          <l>Washed with the swimmers, and the spent swimmers drown.</l>
+          <l>Nine fathom did she sink,—erect, though hid from light</l>
+          <l>Save her colours unsurrendered and spars that kept the height.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Nay, pardon, old aunty!—Wife, never let it fall,</l>
+          <l>That big started tear that hovers on the brim;</l>
+          <l>I forgot about your nephew and the Merrimac's ball;</l>
+          <l>No more then of her, since it summons up him.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But talk o' fellows' hearts in the wine's genial cup:—</l>
+          <l>Trap them in the fate, jamb them in the strait,</l>
+          <l>Guns speak their hearts then, and speak right up.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>The troublous colic o' intestine war</l>
+          <l>It sets the bowels o' affection ajar.</l>
+          <l>But, lord, old dame, so spins the whizzing world,</l>
+          <l>A humming-top, ay, for the little boy-gods</l>
+          <l>Flogging it well with their smart little rods,</l>
+          <l>Tittering at time and the coil uncurled.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Now, now, sweetheart, you sidle away,</l>
+          <l>No, never you like that kind o' gay;</l>
+          <l>But sour if I get, giving truth her due,</l>
+          <l>Honey-sweet forever, wife, will Dick be to you!</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But avast with the War! Why recall racking days</l>
+          <l>Since set up anew are the slip's started stays?</l>
+          <l>Nor less, though the gale we have left behind,</l>
+          <l>Well may the heave o' the sea remind.</l>
+          <l>It irks me now, as it troubled me then,</l>
+          <l>To think o' the fate in the madness o' men.</l>
+          <l>If Dick was with Farragut on the night-river,</l>
+          <l>When the boom-chain we burst in the fire-raft's glare,</l>
+          <l>That blood-dyed the visage as red as the liver;</l>
+          <l>In the Battle for the Bay too if Dick had a share,</l>
+          <l>And saw one aloft a-piloting the war—</l>
+          <l>Trumpet in the whirlwind, a Providence in place—</l>
+          <l>Our Admiral old whom the captains huzza,</l>
+          <l>Dick joys in the man nor brags about the race.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But better, wife, I like to booze on the days</l>
+          <l>Ere the Old Order foundered in these very frays,</l>
+          <l>And tradition was lost and we learned strange ways.</l>
+          <l>Often I think on the brave cruises then;</l>
+          <l>Resailing them in memory, I hail the press o' men</l>
+          <l>On the gunned promenade where rolling they go,</l>
+          <l>Ere the dog-watch expire and break up the show.</l>
+          <l>The Laced Caps I see between forward guns;</l>
+          <l>Away from the powder-room they puff the cigar;</l>
+          <l><quote>“Three days more, hey, the donnas and the dons!”</quote></l>
+          <l><quote>“Your Xeres widow, will you hunt her up, Starr?”</quote></l>
+          <l>The Laced Caps laugh, and the bright waves too;</l>
+          <l>Very jolly, very wicked, both sea and crew,</l>
+          <l>Nor heaven looks sour on either, I guess,</l>
+          <l>Nor Pecksniff he bosses the gods' high mess.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Wistful ye peer, wife, concerned for my head,</l>
+          <l>And how best to get me betimes to my bed.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But king o' the club, the gayest golden spark,</l>
+          <l>Sailor o' sailors, what sailor do I mark?</l>
+          <l>Tom Tight, Tom Tight, no fine fellow finer,</l>
+          <l>A cutwater-nose, ay, a spirited soul;</l>
+          <l>But, boozing away at the well-brewed bowl,</l>
+          <l>He never bowled back from that voyage to China.</l>
+          <l>Tom was lieutenant in the brig-o'-war famed</l>
+          <l>When an officer was hung for an arch-mutineer,</l>
+          <l>But a mystery cleaved, and the captain was blamed,</l>
+          <l>And a rumpus too raised, though his honor it was clear.</l>
+          <l>And Tom he would say, when the mousers would try him,</l>
+          <l>And with cup after cup o' Burgundy ply him:</l>
+          <l><quote>“Gentlemen, in vain with your wassail you beset,</quote></l>
+          <l><quote>For the more I tipple, the tighter do I get.”</quote></l>
+          <l>No blabber, no, not even with the can—</l>
+          <l>True to himself and loyal to his clan.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Tom blessed us starboard and d---d us larboard,</l>
+          <l>Right down from rail to the streak o' the garboard.</l>
+          <l>Nor less, wife, we liked him.—Tom was a man</l>
+          <l>In contrast queer with Chaplain Le Fan,</l>
+          <l>Who blessed us at morn, and at night yet again,</l>
+          <l>D---ning us only in decorous strain;</l>
+          <l>Preaching 'tween the guns—each cutlass in its place—</l>
+          <l>From text that averred old Adam a hard case.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>I see him—Tom—on horse-block standing,</l>
+          <l>Trumpet at mouth, thrown up all amain,</l>
+          <l>An elephant's bugle, vociferous demanding</l>
+          <l>Of topmen aloft in the hurricane of rain,</l>
+          <l><quote>“Letting that sail there your faces flog?</quote></l>
+          <l><quote>Manhandle it, men, and you 'll get the good grog!”</quote></l>
+          <l>O Tom, but he knew a blue-jacket's ways,</l>
+          <l>And how a lieutenant may genially haze;</l>
+          <l>Only a sailor sailors heartily praise.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Wife, where be all these chaps, I wonder?</l>
+          <l>Trumpets in the tempest, terrors in the fray,</l>
+          <l>Boomed their commands along the deck like thunder;</l>
+          <l>But silent is the sod, and thunder dies away.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But Captain Turret, “Old Hemlock” tall,</l>
+          <l>(A leaning tower when his tank brimmed all,)</l>
+          <l>Manœuvre out alive from the war did he?</l>
+          <l>Or, too old for that, drift under the lee?</l>
+          <l>Kentuckian colossal, who, touching at Madeira,</l>
+          <l>The huge puncheon shipped o' prime Santa-Clara;</l>
+          <l>Then rocked along the deck so solemnly!</l>
+          <l>No whit the less though judicious was enough</l>
+          <l>In dealing with the Finn who made the great huff;</l>
+          <l>Our three-decker's giant, a grand boatswain's mate,</l>
+          <l>Manliest of men in his own natural senses;</l>
+          <l>But driven stark mad by the devil's drugged stuff,</l>
+          <l>Storming all aboard from his run-ashore late,</l>
+          <l>Challenging to battle, vouchsafing no pretenses,</l>
+          <l>A reeling King Ogg, delirious in power,</l>
+          <l>The quarter-deck carronades he seemed to make cower.</l>
+          <l><quote>“Put him in brig there!”</quote> said Lieutenant Marrot.</l>
+          <l><quote>“Put him in brig!”</quote> back he mocked like a parrot;</l>
+          <l><quote>“Try it, then!”</quote> swaying a fist like Thor's sledge,</l>
+          <l>And making the pigmy constables hedge—</l>
+          <l>Ship's-corporals and the master-at-arms.</l>
+          <l><quote>“In brig there, I say!”</quote>—They dally no more;</l>
+          <l>Like hounds let slip on a desperate boar,</l>
+          <l>Together they pounce on the formidable Finn,</l>
+          <l>Pinion and cripple and hustle him in,</l>
+          <l>Anon, under sentry, between twin guns,</l>
+          <l>He slides off in drowse, and the long night runs.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Morning brings a summons. Whistling it calls,</l>
+          <l>Shrilled through the pipes of the boatswain's four aids;</l>
+          <l>Thrilled down the hatchways along the dusk halls:</l>
+          <l>Muster to the Scourge!—Dawn of doom and its blast!</l>
+          <l>As from cemeteries raised, sailors swarm before the mast,</l>
+          <l>Tumbling up the ladders from the ship's nether shades.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Keeping in the background and taking small part,</l>
+          <l>Lounging at their ease, indifferent in face,</l>
+          <l>Behold the trim marines uncompromised in heart;</l>
+          <l>Their Major, buttoned up, near the staff finds room—</l>
+          <l>The staff o' lieutenants standing grouped in their place.</l>
+          <l>All the Laced Caps o' the ward-room come,</l>
+          <l>The Chaplain among them, disciplined and dumb.</l>
+          <l>The blue-nosed boatswain, complexioned like slag,</l>
+          <l>Like a blue Monday shows—his implements in bag.</l>
+          <l>Executioners, his aids, a couple by him stand,</l>
+          <l>At a nod there the thongs to receive from his hand.</l>
+          <l>Never venturing a caveat whatever may betide,</l>
+          <l>Though functionally here on humanity's side,</l>
+          <l>The grave Surgeon shows, like the formal physician</l>
+          <l>Attending the rack o' the Spanish Inquisition.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>The angel o' the <quote>“brig”</quote> brings his prisoner up;</l>
+          <l>Then, steadied by his old Santa-Clara, a sup,</l>
+          <l>Heading all erect, the ranged assizes there,</l>
+          <l>Lo, Captain Turret, and under starred bunting</l>
+          <l>(A florid full face and fine silvered hair,)</l>
+          <l>Gigantic the yet greater giant confronting.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Now the culprit he liked, as a tall captain can</l>
+          <l>A Titan subordinate and true sailor-man;</l>
+          <l>And frequent he 'd shown it—no worded advance,</l>
+          <l>But flattering the Finn with a well-timed glance.</l>
+          <l>But what of that now? In the martinet-mien</l>
+          <l>Read the Articles of War, heed the naval routine;</l>
+          <l>While, cut to the heart a dishonor there to win,</l>
+          <l>Restored to his senses, stood the Anak Finn;</l>
+          <l>In racked self-control the squeezed tears peeping,</l>
+          <l>Scalding the eye with repressed inkeeping.</l>
+          <l>Discipline must be; the scourge is deemed due.</l>
+          <l>But ah, for the sickening and strange heart-benumbing,</l>
+          <l>Compassionate abasement in shipmates that view;</l>
+          <l>Such a grand champion shamed there succumbing!</l>
+        </lg>
+
+        <lg type="stanza">
+          <l><quote>“Brown, tie him up.”</quote>—The cord he brooked:</l>
+          <l>How else?—his arms spread apart—never threaping;</l>
+          <l>No, never he flinched, never sideways he looked,</l>
+          <l>Peeled to the waistband, the marble flesh creeping,</l>
+          <l>Lashed by the sleet the officious winds urge.</l>
+          <l>In function his fellows their fellowship merge—</l>
+          <l>The twain standing nigh—the two boatswain's mates,</l>
+          <l>Sailors of his grade, ay, and brothers of his mess.</l>
+          <l>With sharp thongs adroop the junior one awaits</l>
+          <l>The word to uplift.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l><quote>“Untie him—so!</quote></l>
+          <l><quote>Submission is enough.—Man, you may go.”</quote></l>
+          <l>Then, promenading aft, brushing fat Purser Smart,</l>
+          <l><quote>“Flog? Never meant it—had n't any heart.</quote></l>
+          <l><quote>Degrade that tall fellow?”</quote>—Such, wife, was he,</l>
+          <l>Old Captain Turret, who the brave wine could stow.</l>
+          <l>Magnanimous, you think?—But what does Dick see?</l>
+          <l>Apron to your eye! Why, never fell a blow;</l>
+          <l>Cheer up, old wifie, 't was a long time ago.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But where 's that sore one, crabbed and severe,</l>
+          <l>Lieutenant Don Lumbago, an arch scrutineer?</l>
+          <l>Call the roll to-day, would he answer—Here!</l>
+          <l>When the Blixum's fellows to quarters mustered</l>
+          <l>How he 'd lurch along the lane of gun-crews clustered,</l>
+          <l>Testy as touchwood, to pry and to peer.</l>
+          <l>Jerking his sword underneath larboard arm,</l>
+          <l>He ground his worn grinders to keep himself calm.</l>
+          <l>Composed in his nerves, from the fidgets set free,</l>
+          <l>Tell, Sweet Wrinkles, alive now is he,</l>
+          <l>In Paradise a parlor where the even tempers be?</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Where 's Commander All-a-Tanto?</l>
+          <l>Where 's Orlop Bob singing up from below?</l>
+          <l>Where 's Rhyming Ned? has he spun his last canto?</l>
+          <l>Where 's Jewsharp Jim? Where 's Ringadoon Joe?</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Ah, for the music over and done,</l>
+          <l>The band all dismissed save the droned trombone!</l>
+          <l>Where 's Glen o' the gun-room, who loved Hot-Scotch—</l>
+          <l>Glen, prompt and cool in a perilous watch?</l>
+          <l>Where 's flaxen-haired Phil? a gray lieutenant?</l>
+          <l>Or rubicund, flying a dignified pennant?</l>
+          <l>But where sleeps his brother?—the cruise it was o'er,</l>
+          <l>But ah, for death's grip that welcomed him ashore!</l>
+          <l>Where 's Sid, the cadet, so frank in his brag,</l>
+          <l>Whose toast was audacious—<quote>“Here 's Sid, and Sid's flag!”</quote></l>
+          <l>Like holiday-craft that have sunk unknown,</l>
+          <l>May a lark of a lad go lonely down?</l>
+          <l>Who takes the census under the sea?</l>
+          <l>Can others like old ensigns be,</l>
+          <l>Bunting I hoisted to flutter at the gaff—</l>
+          <l>Rags in end that once were flags</l>
+          <l>Gallant streaming from the staff?</l>
+          <l>Such scurvy doom could the chances deal</l>
+          <l>To Top-Gallant Harry and Jack Genteel?</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Lo, Genteel Jack in hurricane weather,</l>
+          <l>Shagged like a bear, like a red lion roaring;</l>
+          <l>But O, so fine in his chapeau and feather,</l>
+          <l>In port to the ladies never once jawing;</l>
+          <l>All bland politesse, how urbane was he—</l>
+          <l><quote>“Oui, mademoiselle”</quote>—<quote>“Ma chère amie!”</quote></l>
+        </lg>
+
+        <lg type="stanza">
+          <l>'T was Jack got up the ball at Naples,</l>
+          <l>Gay in the old Ohio glorious;</l>
+          <l>His hair was curled by the berth-deck barber,</l>
+          <l>Never you 'd deemed him a cub of rude Boreas;</l>
+          <l>In tight little pumps, with the grand dames in rout,</l>
+          <l>A-flinging his shapely foot all about;</l>
+          <l>His watch-chain with love's jeweled tokens abounding,</l>
+          <l>Curls ambrosial shaking out odors,</l>
+          <l>Waltzing along the batteries, astounding</l>
+          <l>The gunner glum and the grim-visaged loaders</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Wife, where be all these blades, I wonder,</l>
+          <l>Pennoned fine fellows, so strong, so gay?</l>
+          <l>Never their colors with a dip dived under;</l>
+          <l>Have they hauled them down in a lack-lustre day,</l>
+          <l>Or beached their boats in the Far, Far Away?</l>
+          <l>Hither and thither, blown wide asunder,</l>
+          <l>Where 's this fleet, I wonder and wonder.</l>
+          <l>Slipt their cables, rattled their adieu,</l>
+          <l>(Whereaway pointing? to what rendezvous?)</l>
+          <l>Out of sight, out of mind, like the crack Constitution,</l>
+          <l>And many a keel time never shall renew—</l>
+          <l>Bon Homme Dick o' the buff Revolution,</l>
+          <l>The Black Cockade and the staunch True-Blue.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Doff hats to Decatur! But where is his blazon?</l>
+          <l>Must merited fame endure time's wrong—</l>
+          <l>Glory's ripe grape wizen up to a raisin?</l>
+          <l>Yes! for Nature teems, and the years are strong,</l>
+          <l>And who can keep the tally o' the names that fleet along!</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But his frigate, wife, his bride? Would blacksmiths brown</l>
+          <l>Into smithereens smite the solid old renown?</l>
+          <l>Rivetting the bolts in the iron-clad's shell,</l>
+          <l>Hark to the hammers with a rat-tat-tat;</l>
+          <l><quote>“Handier a derby than a laced cocked hat!</quote></l>
+          <l><quote>The Monitor was ugly, but she served us right well,</quote></l>
+          <l><quote>Better than the Cumberland, a beauty and the belle.”</quote></l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Better than the Cumberland!—Heart alive in me!</l>
+          <l>That battlemented hull, Tantallon o' the sea,</l>
+          <l>Kicked in, as at Boston the taxed chests o' tea!</l>
+          <l>Ay, spurned by the ram, once a tall, shapely craft,</l>
+          <l>But lopped by the Rebs to an iron-beaked raft—</l>
+          <l>A blacksmith's unicorn armed cap-a-pie.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Under the water-line a ram's blow is dealt:</l>
+          <l>And foul fall the knuckles that strike below the belt.</l>
+          <l>Nor brave the inventions that serve to replace</l>
+          <l>The openness of valor while dismantling the grace.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Aloof from all this and the never-ending game,</l>
+          <l>Tantamount to teetering, plot and counterplot;</l>
+          <l>Impenetrable armor—all-perforating shot;</l>
+          <l>Aloof, bless God, ride the war-ships of old,</l>
+          <l>A grand fleet moored in the roadstead of fame;</l>
+          <l>Not submarine sneaks with them are enrolled;</l>
+          <l>Their long shadows dwarf us, their flags are as flame.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>Don't fidget so, wife; an old man's passion</l>
+          <l>Amounts to no more than this smoke that I puff;</l>
+          <l>There, there, now, buss me in good old fashion;</l>
+          <l>A died-down candle will flicker in the snuff.</l>
+        </lg>
+
+        <lg type="stanza">
+          <l>But one last thing let your old babbler say,</l>
+          <l>What Decatur's coxswain said who was long ago hearsed,</l>
+          <l><quote>“Take in your flying-kites, for there comes a lubber's day</quote></l>
+          <l><quote>When gallant things will go, and the three-deckers first.”</quote></l>
+        </lg>
+
+        <lg type="stanza">
+          <l>My pipe is smoked out, and the grog runs slack;</l>
+          <l>But booze away, wife, at your blessed Bohea;</l>
+          <l>This empty can here must needs solace me—</l>
+          <l>Nay, sweetheart, nay; I take that back;</l>
+          <l>Dick drinks from your eyes and he finds no lack!</l>
+        </lg>
+
+        <note xml:id="note1" place="bottom">* Historic.</note>
+      </div>
+    </body>
+  </text>
+</TEI>
