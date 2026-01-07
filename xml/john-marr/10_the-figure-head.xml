@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>10 - The Figure-Head</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="the_figure_head">
+            <head>THE FIGURE-HEAD.</head>
+            
+            <lg type="stanza">
+               <l>The Charles-and-Emma seaward sped,</l>
+               <l>(Named from the carven pair at prow,)</l>
+               <l>He so smart, and a curly head,</l>
+               <l>She tricked forth as a bride knows how:</l>
+               <l rend="indent">Pretty stem for the port, I trow!</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>But iron-rust and alum-spray</l>
+               <l>And chafing gear, and sun and dew</l>
+               <l>Vexed this lad and lassie gay,</l>
+               <l>Tears in their eyes, salt tears nor few;</l>
+               <l rend="indent">And the hug relaxed with the failing glue.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>But came in end a dismal night,</l>
+               <l>With creaking beams and ribs that groan,</l>
+               <l>A black lee-shore and waters white:</l>
+               <l>Wrecked on the reef, the pair lie prone:</l>
+               <l rend="indent">O, the breakers dance, but the winds they moan!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
