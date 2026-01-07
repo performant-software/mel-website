@@ -62,3 +62,19 @@ if df is not None:
     
 # Optional: Save to a spreadsheet
 df.to_csv("poetry_analysis_results.csv", index=False)
+
+def plot_poetry_analysis(df):
+    plt.figure(figsize=(12, 8))
+    sns.set_style("whitegrid")
+
+    # Create the scatter plot
+    scatter = sns.scatterplot(
+        data=df, 
+        x="Chaos", 
+        y="Punc_Density", 
+        size="Avg_Length", # Dot size represents average line length
+        hue="Avg_Length",  # Color represents average line length
+        palette="viridis",
+        sizes=(40, 400),
+        alpha=0.7
+    )
