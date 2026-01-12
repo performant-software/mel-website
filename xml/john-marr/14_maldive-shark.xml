@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>14 - The Maldive Shark</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="maldive_shark">
+            <head>THE MALDIVE SHARK.</head>
+            
+            <lg type="stanza">
+               <l>ABOUT the Shark, phlegmatical one,</l>
+               <l rend="indent">Pale sot of the Maldive sea,</l>
+               <l>The sleek little pilot-fish, azure and slim,</l>
+               <l rend="indent">How alert in attendance be.</l>
+               <l>From his saw-pit of mouth, from his charnel of maw,</l>
+               <l>They have nothing of harm to dread,</l>
+               <l>But liquidly glide on his ghastly flank</l>
+               <l>Or before his Gorgonian head;</l>
+               <l>Or lurk in the port of serrated teeth</l>
+               <l>In white triple tiers of glittering gates,</l>
+               <l>And there find a haven when peril 's abroad,</l>
+               <l>An asylum in jaws of the Fates!</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>They are friends; and friendly they guide him to prey,</l>
+               <l>Yet never partake of the treat—</l>
+               <l>Eyes and brains to the dotard lethargic and dull,</l>
+               <l>Pale ravener of horrible meat.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

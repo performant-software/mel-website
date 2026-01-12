@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>18 - The Enviable Isles</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="enviable_isles">
+            <head>THE ENVIABLE ISLES.</head>
+            <head type="sub">(From <quote>“Rammon.”</quote>)</head>
+            
+            <lg type="stanza">
+               <l>THROUGH storms you reach them and from storms are free.</l>
+               <l rend="indent">Afar descried, the foremost drear in hue,</l>
+               <l>But, nearer, green; and, on the marge, the sea</l>
+               <l rend="indent">Makes thunder low and mist of rainbowed dew.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>But, inland, where the sleep that folds the hills</l>
+               <l>A dreamier sleep, the trance of God, instills—</l>
+               <l rend="indent">On uplands hazed, in wandering airs aswoon,</l>
+               <l>Slow-swaying palms salute love's cypress tree</l>
+               <l rend="indent">Adown in vale where pebbly runlets croon</l>
+               <l>A song to lull all sorrow and all glee.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Sweet-fern and moss in many a glade are here,</l>
+               <l rend="indent">Where, strown in flocks, what cheek-flushed myriads lie</l>
+               <l>Dimpling in dream—unconscious slumberers mere,</l>
+               <l rend="indent">While billows endless round the beaches die.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

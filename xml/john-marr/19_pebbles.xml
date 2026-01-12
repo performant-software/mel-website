@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>19 - Pebbles</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="pebbles">
+            <head>PEBBLES.</head>
+            
+            <div type="section" n="1">
+               <head>I.</head>
+               <lg type="stanza">
+                  <l>THOUGH the Clerk of the Weather insist,</l>
+                  <l rend="indent">And lay down the weather-law,</l>
+                  <l>Pintado and gannet they wist</l>
+                  <l>That the winds blow whither they list</l>
+                  <l rend="indent">In tempest or flaw.</l>
+               </lg>
+            </div>
+            
+            <div type="section" n="2">
+               <head>II.</head>
+               <lg type="stanza">
+                  <l>Old are the creeds, but stale the schools,</l>
+                  <l rend="indent">Revamped as the mode may veer,</l>
+                  <l>But Orm from the schools to the beaches strays,</l>
+                  <l>And, finding a Conch hoar with time, he delays</l>
+                  <l rend="indent">And reverent lifts it to ear.</l>
+               </lg>
+               <lg type="stanza">
+                  <l>That Voice, pitched in far monotone,</l>
+                  <l rend="indent">Shall it swerve? shall it deviate ever?</l>
+                  <l>The Seas have inspired it, and Truth—</l>
+                  <l rend="indent">Truth, varying from sameness never.</l>
+               </lg>
+            </div>
+            
+            <div type="section" n="3">
+               <head>III.</head>
+               <lg type="stanza">
+                  <l>In hollows of the liquid hills</l>
+                  <l rend="indent">Where the long Blue Ridges run,</l>
+                  <l>The flattery of no echo thrills,</l>
+                  <l rend="indent">For echo the seas have none;</l>
+                  <l>Nor aught that gives man back man's strain—</l>
+                  <l>The hope of his heart, the dream in his brain.</l>
+               </lg>
+            </div>
+            
+            <div type="section" n="4">
+               <head>IV.</head>
+               <lg type="stanza">
+                  <l>On ocean where the embattled fleets repair,</l>
+                  <l>Man, suffering inflictor, sails on sufferance there.</l>
+               </lg>
+            </div>
+            
+            <div type="section" n="5">
+               <head>V.</head>
+               <lg type="stanza">
+                  <l>Implacable I, the old Implacable Sea:</l>
+                  <l rend="indent">Implacable most when most I smile serene—</l>
+                  <l>Pleased, not appeased, by myriad wrecks in me.</l>
+               </lg>
+            </div>
+            
+            <div type="section" n="6">
+               <head>VI.</head>
+               <lg type="stanza">
+                  <l>Curled in the comb of yon billow Andean,</l>
+                  <l rend="indent">Is it the Dragon's heaven-challenging crest?</l>
+                  <l>Elemental mad ramping of ravening waters—</l>
+                  <l rend="indent">Yet Christ on the Mount, and the dove in her nest!</l>
+               </lg>
+            </div>
+            
+            <div type="section" n="7">
+               <head>VII.</head>
+               <lg type="stanza">
+                  <l>Healed of my hurt, I laud the inhuman Sea—</l>
+                  <l>Yea, bless the Angels Four that there convene;</l>
+                  <l>For healed I am even by their pitiless breath</l>
+                  <l>Distilled in wholesome dew named rosmarine.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

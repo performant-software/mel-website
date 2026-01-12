@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>11 - The Good Craft "Snow-Bird"</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="snow_bird">
+            <head>THE GOOD CRAFT <quote>“SNOW-BIRD.”</quote></head>
+            
+            <lg type="stanza">
+               <l>STRENUOUS need that head-wind be</l>
+               <l rend="indent">From purposed voyage that drives at last</l>
+               <l>The ship, sharp-braced and dogged still,</l>
+               <l rend="indent">Beating up against the blast.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Brigs that figs for market gather,</l>
+               <l rend="indent">Homeward-bound upon the stretch,</l>
+               <l>Encounter oft this uglier weather</l>
+               <l rend="indent">Yet in end their port they fetch.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Mark yon craft from sunny Smyrna</l>
+               <l rend="indent">Glazed with ice in Boston Bay;</l>
+               <l>Out they toss the fig-drums cheerly,</l>
+               <l rend="indent">Livelier for the frosty ray.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>What if sleet off-shore assailed her,</l>
+               <l rend="indent">What though ice yet plate her yards;</l>
+               <l>In wintry port not less she renders</l>
+               <l rend="indent">Summer's gift with warm regards!</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>And, look, the underwriters' man,</l>
+               <l rend="indent">Timely, when the stevedore 's done,</l>
+               <l>Puts on his specs to pry and scan,</l>
+               <l rend="indent">And sets her down—<quote>A, No. 1.</quote></l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Bravo, master! Brava, brig!</l>
+               <l rend="indent">For slanting snows out of the West</l>
+               <l>Never the Snow-Bird cares one fig;</l>
+               <l rend="indent">And foul winds steady her, though a pest.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
