@@ -8,6 +8,7 @@ async function run() {
     const facsPath = 'xml/hawthorne-and-his-mosses/mossesFolios.xml'
     const xmlPath = 'xml/hawthorne-and-his-mosses/mosses_mel.xml'
     const fileContents = fs.readFileSync(originalsPath, "utf8")
+    const imagePrefix = 'manuscript_'
 
     // load the facs data so we can crosswalk from the xml:ids to URLs of surfaces
     const facsXML = fs.readFileSync(facsPath, "utf8");
@@ -29,7 +30,7 @@ async function run() {
             const graphicEl = surfaceEl[0].querySelector('graphic')
             const imageURL = graphicEl.getAttribute('url')
             console.log(imageID, imageURL)
-            pb.setAttribute('corresp', imageID.replaceAll('#', ''))
+            pb.setAttribute('corresp', imageID.replaceAll('#', imagePrefix || ''))
             pb.setAttribute('facs', imageURL)
         }
     }    
