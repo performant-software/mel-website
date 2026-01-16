@@ -28,13 +28,24 @@ function mossesMSPageTemplate(baseURL,dev) {
         EditionCrafter.viewer({
             id: 'ec',
             documentName: 'Hawthorne and his Mosses',
-            iiifManifest: '${baseURL}/${ecDir}/mosses_tei/iiif/manifest.json',
-            transcriptionTypes: {
-              base: 'Base Text',
-              lw: 'LW',
-              transcription: 'Diplomatic Transcription',
-              reading: 'Reading Text'
-            }
+            documentInfo: {
+                manuscript: {
+                    documentName: 'Manuscript',                
+                    iiifManifest: '${baseURL}/${ecDir}/mosses_tei/iiif/manifest.json',
+                    transcriptionTypes: {
+                        base: 'Base Text',
+                        lw: 'LW',
+                        transcription: 'Diplomatic Transcription',
+                        reading: 'Reading Text'
+                    }
+                },
+                lw: {
+                    documentName: 'Literary World',
+                    iiifManifest: '${baseURL}/${ecDir}/lw_folios/iiif/manifest.json',
+                    transcriptionTypes: {}
+                }
+            },
+            threePanel: true
         });               
     </script>
 </html>    
