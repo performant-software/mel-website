@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>03 - Tom Deadlight</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="tom_deadlight">
+            <head>TOM DEADLIGHT.
+               <date>(1810.)</date></head>
+            
+            <p rend="italic">
+               DURING a tempest encountered homeward-bound from the Mediterranean, a grizzled petty-officer, one of the two captains of the forecastle, dying at night in his hammock, swung in the sick-bay under the tiered gun-decks of the British Dreadnaught, 98, wandering in his mind, though with glimpses of sanity, and starting up at whiles, sings by snatches his good-bye and last injunctions to two messmates, his watchers, one of whom fans the fevered tar with the flap of his old sou'-wester. Some names and phrases, with here and there a line, or part of one; these, in his aberration, wrested into incoherency from their original connection and import, he involuntarily derives, as he does the measure, from a famous old sea-ditty, whose cadences, long rife, and now humming in the collapsing brain, attune the last flutterings of distempered thought.
+            </p>
+            
+            <lg type="stanza">
+               <l>Farewell and adieu to you noble hearties,—</l>
+               <l rend="indent">Farewell and adieu to you ladies of Spain,</l>
+               <l>For I 've received orders for to sail for the Deadman,</l>
+               <l rend="indent">But hope with the grand fleet to see you again.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>I have hove my ship to, with main-top-sail aback, boys;</l>
+               <l rend="indent">I have hove my ship to, for the strike soundings clear—</l>
+               <l>The black scud a' flying; but, by God's blessing, dam' me,</l>
+               <l rend="indent">Right up the Channel for the Deadman I'll steer.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>I have worried through the waters that are callèd the Doldrums,</l>
+               <l rend="indent">And growled at Sargasso that clogs while ye grope—</l>
+               <l>Blast my eyes; but the lightship is hid by the mist, lads:—</l>
+               <l rend="indent">Flying Dutchman—odds bobbs—off the Cape of Good Hope!</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>But what 's this I feel that is fanning my cheek, Matt?</l>
+               <l rend="indent">The white goney's wing?—how she rolls!—'t is the Cape!—</l>
+               <l>Give my kit to the mess, Jock, for kin none is mine, none;</l>
+               <l rend="indent">And tell Holy Joe to avast with the crape.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Dead reckoning, says Joe, it won't do to go by;</l>
+               <l rend="indent">But they doused all the glims, Matt, in sky t' other night.</l>
+               <l>Dead reckoning is good for to sail for the Deadman;</l>
+               <l rend="indent">And Tom Deadlight he thinks it may reckon near right.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>The signal!—it streams for the grand fleet to anchor.</l>
+               <l rend="indent">The captains—the trumpets—the hullabaloo!</l>
+               <l>Stand by for blue-blazes, and mind your shank-painters,</l>
+               <l rend="indent">For the Lord High Admiral, he 's squinting at you!</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>But give me my tot, Matt, before I roll over;</l>
+               <l rend="indent">Jock, let 's have your flipper, it 's good for to feel;</l>
+               <l>And don't sew me up without baccy in mouth, boys,</l>
+               <l rend="indent">And don't blubber like lubbers when I turn up my keel.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

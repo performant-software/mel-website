@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Man-of-War Hawk</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="man_of_war_hawk">
+            <head>THE MAN-OF-WAR HAWK.</head>
+            
+            <lg type="stanza">
+               <l rend="indent">YON black man-of-war-hawk that wheels in the light</l>
+               <l>O'er the black ship's white sky-s'l, sunned cloud to the sight,</l>
+               <l>Have we low-flyers wings to ascend to his height?</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>No arrow can reach him; nor thought can attain</l>
+               <l>To the placid supreme in the sweep of his reign.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

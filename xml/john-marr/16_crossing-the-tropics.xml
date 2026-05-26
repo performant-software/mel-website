@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>16 - Crossing the Tropics</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="crossing_the_tropics">
+            <head>CROSSING THE TROPICS.</head>
+            <head type="sub">(From <quote>“The Saya-y-Manto.”</quote>)</head>
+            
+            <lg type="stanza">
+               <l>WHILE now the Pole Star sinks from sight</l>
+               <l rend="indent">The Southern Cross it climbs the sky;</l>
+               <l>But losing thee, my love, my light,</l>
+               <l>O bride but for one bridal night,</l>
+               <l rend="indent">The loss no rising joys supply.</l>
+            </lg>
+            
+            <lg type="couplet">
+               <l>Love, love, the Trade Winds urge abaft,</l>
+               <l>And thee, from thee, they steadfast waft.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>By day the blue and silver sea</l>
+               <l rend="indent">And chime of waters blandly fanned—</l>
+               <l>Nor these, nor Gama's stars to me</l>
+               <l>May yield delight, since still for thee</l>
+               <l rend="indent">I long as Gama longed for land.</l>
+            </lg>
+            
+            <lg type="couplet">
+               <l>I yearn, I yearn, reverting turn,</l>
+               <l>My heart it streams in wake astern.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>When, cut by slanting sleet, we swoop</l>
+               <l rend="indent">Where raves the world's inverted year,</l>
+               <l>If roses all your porch shall loop,</l>
+               <l>Not less your heart for me will droop</l>
+               <l rend="indent">Doubling the world's last outpost drear.</l>
+            </lg>
+            
+            <lg type="couplet">
+               <l>O love, O love, these oceans vast:</l>
+               <l>Love, love, it is as death were past!</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

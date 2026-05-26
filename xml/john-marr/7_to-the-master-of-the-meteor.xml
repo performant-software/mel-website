@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>07 - To the Master of the "Meteor"</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="to_the_master_of_the_meteor">
+            <head>TO THE MASTER OF<lb/>THE <quote>“METEOR.”</quote></head>
+            
+            <lg type="stanza">
+               <l>LONESOME on earth's loneliest deep,</l>
+               <l rend="indent">Sailor! who dost thy vigil keep—</l>
+               <l>Off the Cape of Storms dost musing sweep</l>
+               <l>Over monstrous waves that curl and comb;</l>
+               <l>Of thee we think when here from brink</l>
+               <l>We blow the mead in bubbling foam.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Of thee we think, in a ring we link;</l>
+               <l>To the shearer of ocean's fleece we drink,</l>
+               <l rend="indent">And the Meteor rolling home.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>15 - To Ned</title>
+            <author>Herman Melville</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded for the Melville Electronic Library in TEI XML.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors with Some Sea-Pieces</title>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="poem" xml:id="to_ned">
+            <head>TO NED.</head>
+            
+            <lg type="stanza">
+               <l>WHERE is the world we roved, Ned Bunn?</l>
+               <l rend="indent">Hollows thereof lay rich in shade</l>
+               <l>By voyagers old inviolate thrown</l>
+               <l rend="indent">Ere Paul Pry cruised with Pelf and Trade.</l>
+               <l>To us old lads some thoughts come home</l>
+               <l>Who roamed a world young lads no more shall roam.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>Nor less the satiate year impends</l>
+               <l rend="indent">When, wearying of routine-resorts,</l>
+               <l>The pleasure-hunter shall break loose,</l>
+               <l rend="indent">Ned, for our Pantheistic ports:—</l>
+               <l>Marquesas and glenned isles that be</l>
+               <l>Authentic Edens in a Pagan sea.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>The charm of scenes untried shall lure,</l>
+               <l rend="indent">And, Ned, a legend urge the flight—</l>
+               <l>The Typee-truants under stars</l>
+               <l rend="indent">Unknown to Shakespere's Midsummer-Night;</l>
+               <l>And man, if lost to Saturn's Age,</l>
+               <l>Yet feeling life no Syrian pilgrimage.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>But, tell, shall he, the tourist, find</l>
+               <l rend="indent">Our isles the same in violet-glow</l>
+               <l>Enamoring us what years and years—</l>
+               <l rend="indent">Ah, Ned, what years and years ago!</l>
+               <l>Well, Adam advances, smart in pace,</l>
+               <l>But scarce by violets that advance you trace.</l>
+            </lg>
+            
+            <lg type="stanza">
+               <l>But we, in anchor-watches calm,</l>
+               <l rend="indent">The Indian Psyche's languor won,</l>
+               <l>And, musing, breathed primeval balm</l>
+               <l rend="indent">From Edens ere yet overrun;</l>
+               <l>Marvelling mild if mortal twice,</l>
+               <l>Here and hereafter, touch a Paradise.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

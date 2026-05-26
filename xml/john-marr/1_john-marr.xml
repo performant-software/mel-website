@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>01 - John Marr</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Encoded in TEI XML for the Melville Electronic Library</p>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>John Marr and Other Sailors</title>
+               <author>Herman Melville</author>
+               <publisher>The De Vinne Press</publisher>
+               <date>1888</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+                  <body>
+                     <div type="prose-headnote">
+                        <p>JOHN MARR, toward the close of the last cent-
+                        ury born in America of a mother unknown, 
+                        and from boyhood up to maturity a sailor under 
+                        divers flags, disabled at last from further mari-
+                        time life by a crippling wound received at close quarters with pirates of the Keys, eventually betakes himself for a livelihood to less active employment ashore. There, too, he transfers his 
+                        rambling disposition acquired as a seafarer.
+                        After a variety of removals, at first as a sailmaker from sea-port to sea-port, then adventurously inland as a rough bench-carpenter, he, 
+                        finally, in the last-named capacity, settles down 
+                        about the year 1838 upon what was then a frontier-prairie, sparsely sprinkled with small oak-
+                        groves and yet fewer log-houses of a little colony but recently from one of our elder inland States. 
+                        Here, putting a period to his rovings, he marries.
+                        Ere long a fever, the bane of new settlements 
+                        on teeming loam, and whose sallow livery was 
+                        certain to show itself, after an interval, in the 
+                        complexions of too many of these people, carries 
+                        off his young wife and infant child. In one 
+                        coffin, put together by his own hands, they are 
+                        committed with meager rites to the earth-another mound, though a small one, in the wide 
+                        prairie, nor far from where the mound-builders 
+                        of a race only conjecturable had left their pottery and bones, one common clay, under a strange terrace serpentine in form.
+                        With an honest stillness in his general mien-
+                        swarthy and black-browed, with eyes that could 
+                        soften or flash, but never harden, yet disclosing 
+                        at times a melancholy depth-this kinless man 
+                        had affections which, once placed, not readily 
+                        could be dislodged or resigned to a substituted 
+                        object. Being now arrived at middle-life, he resolves never to quit the soil that holds the only 
+                        beings ever connected with him by love in the 
+                        family tie. His log-house he lets to a new-comer,
+                        one glad enough to get it, and dwells with the 
+                        household.</p>
+                        
+                        <p>While the acuter sense of his bereavement becomes mollified by time, the void at heart abides. 
+                        Fain, if possible, would he fill that void by cultivating social relations yet nearer than before with 
+                        a people whose lot he purposes sharing to the end 
+                        -relations superadded to that mere work-a-day 
+                        bond arising from participation in the same outward hardships, making reciprocal helpfulness a 
+                        matter of course. But here, and nobody to blame, 
+                        he is obstructed.</p>
+                        
+                        <p>More familiarly to consort, men of a practical 
+                        turn must sympathetically converse, and upon 
+                        topics of real life. But, whether as to persons or 
+                        events, one cannot always be talking about the 
+                        present, much less speculating about the future ; 
+                        one must needs recur to the past, which, with the 
+                        mass of men, where the past is in any personal 
+                        way a common inheritance, supplies to most practical natures the basis of sympathetic communion.
+                        But the past of John Marr was not the past of 
+                        these pioneers. Their hands had rested on the 
+                        plow-tail, his upon the ship's helm.  They knew
+                        but their own kind and their own usages ;  to him had been revealed something of the checkered 
+                        globe. So limited unavoidably was the mental 
+                        reach, and by consequence the range of sympathy, 
+                        in this particular band of domestic emigrants, 
+                        hereditary tillers of the soil, that the ocean, but a 
+                        hearsay to their fathers, had now through yet 
+                        deeper inland removal become to themselves little 
+                        more than a rumor traditional and vague.
+                        They were a staid people ;  staid through habituation to monotonous hardship ; ascetics by necessity not less than through moral bias ; nearly all of them sincerely, however narrowly, religious. 
+                        They were kindly at need, after their fashion ; 
+                        but to a man wonted-as John Marr in his previous homeless sojournings could not but have 
+                        been-to the free-and-easy tavern-clubs affording 
+                        cheap recreation of an evening in certain old and 
+                        comfortable sea-port towns of that time, and yet 
+                        more familiar with the companionship afloat of 
+                        the sailors of the same period, something was 
+                        lacking. That something was geniality, the flower 
+                        of life springing from some sense of joy in it, 
+                        more or less. This their lot could not give to
+                        these hard-working endurers of the dispiriting 
+                        malaria,-men to whom a holiday never came,-
+                        and they had too much of uprightness and no art 
+                        at all or desire to affect what they did not really 
+                        feel. At a corn-husking, their least grave of 
+                        gatherings, did the lone-hearted mariner seek to 
+                        divert his own thoughts from sadness, and in 
+                        some degree interest theirs, by adverting to aught 
+                        removed from the crosses and trials of their personal surroundings, naturally enough he would 
+                        slide into some marine story or picture, but would 
+                        soon recoil upon himself and be silent, finding no 
+                        encouragement to proceed. Upon one such occasion an elderly man-a blacksmith, and at Sunday 
+                        gatherings an earnest exhorter-honestly said to 
+                        him, "Friend, we know nothing of that here."
+                        Such unresponsiveness in one's fellow-creatures 
+                        set apart from factitious life, and by their vocation-in those days little helped by machinery-
+                        standing, as it were, next of kin to Nature ;  this, 
+                        to John Marr, seemed of a piece with the apathy 
+                        of Nature herself as envisaged to him here on a 
+                        prairie where none but the perished mound- builders had as yet left a durable mark.</p>
+                        
+                        <p>The remnant of Indians thereabout-all but exterminated in their recent and final war with regular white troops, a war waged by the Red Men 
+                        for their native soil and natural rights-had been 
+                        coerced into the occupancy of wilds not very far 
+                        beyond the Mississippi-wilds then, but now the 
+                        seats of municipalities and States. Prior to that, 
+                        the bisons, once streaming countless in processional herds, or browsing as in an endless battle-
+                        line over these vast aboriginal pastures, had 
+                        retreated, dwindled in number, before the hunters, in main a race distinct from the agricultural 
+                        pioneers, though generally their advance-guard. 
+                        Such a double exodus of man and beast left the 
+                        plain a desert, green or blossoming indeed, but 
+                        almost as forsaken as the Siberian Obi.  Save the 
+                        prairie-hen, sometimes startled from its lurking-
+                        place in the rank grass; and, in their migratory 
+                        season, pigeons, high overhead on the wing, in 
+                        dense multitudes eclipsing the day like a pass-
+                        ing storm-cloud ;  save these-there being no wide 
+                        woods with their underwood-birds were strangely few.</p>
+                        
+                        <p>Blank stillness would for hours reign unbroken
+                        on this prairie. "It is the bed of a dried-up sea," 
+                        said the companionless sailor-no geologist-to 
+                        himself, musing at twilight upon the fixed undulations of that immense  alluvial expanse bounded 
+                        only by the horizon, and missing there the stir 
+                        that, to alert eyes and ears, animates at all times 
+                        the apparent solitudes of the deep.</p>
+                        
+                        <p>But a scene quite at variance with one's antecedents may yet prove suggestive of them. Hooped 
+                        round by a level rim, the prairie was to John Marr 
+                        a reminder of ocean.</p>
+                        
+                        <p>With some of his former shipmates, chums on 
+                        certain cruises, he had contrived, prior to this last 
+                        and more remote removal, to keep up a little correspondence at odd intervals. But from tidings of anybody or any sort he, in common with the other 
+                        settlers, was now cut off ;  quite cut off, except 
+                        from such news as might be conveyed over the 
+                        grassy billows by the last-arrived prairie-schooner- 
+                        the vernacular term, in those parts and times, for 
+                        the emigrant-wagon arched high over with sail-
+                        cloth and voyaging across the vast champaign. 
+                        There was no reachable post-office as yet ;  not even 
+                        the rude little receptive box with lid and leather 
+                        hinges, set up at convenient intervals on a stout 
+                        stake along some solitary green way, affording a 
+                        perch for birds, and which, later in the unintermitting advance of the frontier, would perhaps 
+                        decay into a mossy monument, attesting yet another successive overleaped limit of civilized life ; a life which in America can to-day hardly be said 
+                        to have any western bound but the ocean that 
+                        washes Asia. Throughout these plains, now in 
+                        places overpopulous with towns overopulent ; 
+                        sweeping plains, elsewhere fenced off in every 
+                        direction into flourishing farms-pale townsmen 
+                        and hale farmers alike, in part, the descendants 
+                        of the first sallow settlers ; a region that half a 
+                        century ago produced little for the sustenance 
+                        of man, but to-day launching its superabundant 
+                        wheat-harvest on the world ; -of this prairie, now 
+                        everywhere intersected with wire and rail, hardly 
+                        can it be said that at the period here written of 
+                        there was so much as a traceable road. To the 
+                        long-distance traveler the oak-groves, wide apart, 
+                        and varying in compass and form ;  these, with 
+                        recent settlements, yet more widely separate, offered some landmarks ; but otherwise he steered  by the sun.  In early midsummer, even going but 
+                        from one log-encampment to the next, a journey 
+                        it might be of hours or good part of a day, travel 
+                        was much like navigation.  In some more enriched 
+                        depressions between the long, green, graduated 
+                        swells, smooth as those of ocean becalmed receiving and subduing to its own tranquillity the voluminous surge raised by some far-off hurricane 
+                        of days previous, here one would catch the first 
+                        indication of advancing strangers either in the 
+                        distance, as a far sail at sea, by the glistening 
+                        white canvas of the wagon, the wagon itself wading through the rank vegetation and hidden by it, or, failing that, when near to, in the ears of the team, 
+                        peeking, if  not above the tall tiger-lilies, yet above 
+                        the yet taller grass.</p>
+                        
+                        <p>Luxuriant, this wilderness ;  but, to its denizen, a 
+                        friend left behind anywhere in the world seemed 
+                        not alone absent to sight, but an absentee from 
+                        existence.</p>
+                        
+                        <p>Though John Marr's shipmates could not all 
+                        have departed life, yet as subjects of meditation 
+                        they were like phantoms of the dead.  As the 
+                        growing sense of his environment threw him 
+                        more and more upon retrospective musings, these 
+                        phantoms, next to those of his wife and child, became spiritual companions, losing something of 
+                        their first indistinctness and putting on at last 
+                        a dim semblance of mute life ;  and they were lit 
+                        by that aureola circling over any object of the 
+                        affections in the past for reunion with which an 
+                        imaginative heart passionately yearns.</p>
+                        
+                        <p>He invokes these visionary ones,-striving, as 
+                        it were, to get into verbal communion with them, 
+                        or, under yet stronger illusion, reproaching them 
+                        for their silence :-</p>
+                     </div>
+                     <div type="poem">
+                        <lg type="stanza">
+                           <l>Since as in night's deck-watch ye show,</l>
+                           <l>Why, lads, so silent here to me,</l>
+                           <l>Your watchmate of times long ago?</l>
+                        </lg>
+                        
+                        <lg type="stanza">
+                           <l>Once, for all the darkling sea,</l>
+                           <l>You your voices raised how clearly,</l>
+                           <l>Striking in when tempest sung;</l>
+                           <l>Hoisting up the storm-sail cheerly,</l>
+                           <l>Life is storm—let storm! you rung.</l>
+                        </lg>
+                        
+                        <lg type="stanza">
+                           <l>Taking things as fated merely,</l>
+                           <l>Child-like though the world ye spanned;</l>
+                           <l>Nor holding unto life too dearly,</l>
+                           <l>Ye who hold your lives in hand—</l>
+                           <l>Skimmers, who on oceans four</l>
+                           <l>Petrels were, and larks ashore.</l>
+                        </lg>
+                        
+                        <lg type="stanza">
+                           <l>O, not from memory lightly flung,</l>
+                           <l>Forgot, like strains no more availing,</l>
+                           <l>The heart to music haughtier strung;</l>
+                           <l>Nay, frequent near me, never staleing,</l>
+                           <l>Whose good feeling kept ye young.</l>
+                           <l>Like tides that enter creek or stream,</l>
+                           <l>Ye come, ye visit me, or seem</l>
+                           <l>Swimming out from seas of faces,</l>
+                           <l>Alien myriads memory traces,</l>
+                           <l>To enfold me in a dream!</l>
+                        </lg>
+                        
+                        <lg type="stanza">
+                           <l>I yearn as ye. But rafts that strain,</l>
+                           <l>Parted, shall they lock again?</l>
+                           <l>Twined we were, entwined, then riven,</l>
+                           <l>Ever to new embracements driven,</l>
+                           <l>Shifting gulf-weed of the main!</l>
+                           <l>And how if one here shift no more,</l>
+                           <l>Lodged by the flinging surge ashore?</l>
+                        </lg>
+                        
+                        <lg type="stanza">
+                           <l>Nor less, as now, in eve's decline,</l>
+                           <l>Your shadowy fellowship is mine.</l>
+                           <l>Ye float around me, form and feature:—</l>
+                           <l>Tattooings, ear-rings, love-locks curled;</l>
+                           <l>Barbarians of man's simpler nature,</l>
+                           <l>Unworldly servers of the world.</l>
+                           <l>Yea, present all, and dear to me,</l>
+                           <l>Though shades, or scouring China's sea.</l>
+                        </lg>
+                        
+                        <lg type="stanza">
+                           <l>Whither, whither, merchant-sailors,</l>
+                           <l>Whitherward now in roaring gales?</l>
+                           <l>Competing still, ye huntsman-whalers,</l>
+                           <l>In leviathan's wake what boat prevails?</l>
+                           <l>And man-of-war's men, whereaway?</l>
+                           <l>If now no dinned drum beat to quarters</l>
+                           <l>On the wilds of midnight waters—</l>
+                           <l>Foemen looming through the spray;</l>
+                           <l>Do yet your gangway lanterns, streaming,</l>
+                           <l>Vainly strive to pierce below,</l>
+                           <l>When, tilted from the slant plank gleaming,</l>
+                           <l>A brother you see to darkness go?</l>
+                        </lg>
+                        
+                        <lg type="stanza">
+                           <l>But, gunmates lashed in shotted canvas,</l>
+                           <l>If where long watch-below ye keep,</l>
+                           <l>Never the shrill <quote>“All hands up hammocks!”</quote></l>
+                           <l>Breaks the spell that charms your sleep,</l>
+                           <l>And summoning trumps might vainly call,</l>
+                           <l>And booming guns implore—</l>
+                           <l>A beat, a heart-beat musters all,</l>
+                           <l>One heart-beat at heart-core.</l>
+                           <l>It musters. But to clasp, retain;</l>
+                           <l>To see you at the halyards main—</l>
+                           <l>To hear your chorus once again!</l>
+                        </lg>
+                     </div>
+      </body>
+  </text>
+</TEI>
