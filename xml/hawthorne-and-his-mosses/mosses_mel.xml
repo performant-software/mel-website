@@ -49,6 +49,7 @@
       <body>
          <div type="leaf" n="1">
             <pb facs="https://iiif.archivengine.com/iiif/3/xmvd680rsanz94duuo1e8rx1kn34;1" corresp="manuscript_f000"/>
+            <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/0f9ffb9f-6636-46b1-947a-44355b620144;1" corresp="lw_f000"/>
             <head>Hawthorne &amp; His Mosses,</head>
             <head>By a Virginian Spending July in Vermont</head>
             <head>Part I</head>
@@ -96,7 +97,7 @@
          <div type="leaf" n="7">
             <pb facs="https://iiif.archivengine.com/iiif/3/bpzi37scod4htzhoiu1pgi80fia4;1" corresp="manuscript_f006"/>
             <p>little way into the intricate, profound <lb/> heart <hi rend="bold">where</hi> they originated. And we see, that <lb/> suffering<hi rend="bold">,</hi> some time or other <hi rend="bold">&amp; in some shape or other, -- </hi>
-               <lb/>this only can enable any man to depict it in <lb/>others. All over <hi rend="bold">him,</hi> Hawthorne's melancholy rests <lb/>
+               <lb/>this only can enable any man to depict it in <lb/>others. All over <hi rend="bold">him,</hi> Hawthorne's <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/54481a01-9717-4045-82f4-20a3528702b3;1" corresp="lw_f001"/>melancholy rests <lb/>
                <hi xmlns:tei="http://www.tei-c.org/ns/1.0" rend="bold"/> like an Indian Summer<hi rend="bold">,</hi>
                <hi rend="bold">which tho' bathing a whole country <lb/> in one softness, still reveals the distinctive  hue of </hi>
                <hi rend="bold">every</hi>
@@ -194,13 +195,14 @@
          </div>
          <div type="leaf" n="14">
             <pb facs="https://iiif.archivengine.com/iiif/3/a70qqyy5rohe4vi7dcgdzovew0yt;1" corresp="manuscript_f013"/>
-            <p>not Shakespeare, but only Master William Shakespeare <lb/> of the <hi rend="bold">shrewd, thriving</hi>, business firm of Condell, Shakespeare &amp; Co., proprietors <lb/> of the Globe Theatre in London; <reg change="metatdata#StE" facs="#f013_z008">&amp; </reg>by a  courtly author, <lb/> of the name of Chettle, was hooted at, as an "upstart <lb/> crow" beautified "with other birds' feathers."<note facs="#f013_z004 #f013_z005 #f013_z006">The quote from Greene's Groatworth, misattributed and slightly misquoted here, marked on p. xv of volume I of Meville's Dramatic works of William Shakespeare. The Literary World retained both errors in its printing.</note> For, mark it well, <lb/> imitation is often the first charge brought against real <lb/> originality. Why this is so, there is not space to set forth here. You must <lb/> have plenty of sea-room to tell the <lb/>
+            <p>not Shakespeare, but only Master William Shakespeare <lb/> of the <hi rend="bold">shrewd, thriving</hi>, business firm of Condell, Shakespeare &amp; Co., proprietors <lb/> of the Globe Theatre in London; <reg change="metatdata#StE" facs="#f013_z008">&amp; </reg>by a  courtly author, <lb/> of the name of Chettle, was hooted at, as an "upstart <lb/> crow" beautified "with other birds' feathers."<note facs="#f013_z004 #f013_z005 #f013_z006">The quote from Greene's Groatworth, misattributed and slightly misquoted here, marked on p. xv of volume I of Meville's Dramatic works of William Shakespeare. The Literary World retained both errors in its printing.</note> For, mark it well, <lb/> imitation is often the first charge brought against real <lb/> originality. Why this is so, there is not space <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/0ece8311-c998-4682-8cfa-24441cfbf95f;1" corresp="lw_f002"/>to set forth here. You must <lb/> have plenty of sea-room to tell the <lb/>
                <hi rend="bold">Truth</hi> in; especially, when it seems to have an aspect <lb/> of newness, as America did in 1492, <reg change="metadata#StE" facs="#f013_z010">tho'</reg> it was then <lb/> just as old, and perhaps older than Asia, only <lb/>
                <hi rend="bold">those </hi>sagacious philosophers, the common sailors, had never <lb/> seen it before; swearing it was all water <reg change="metadata#StE" facs="#f013_z012">&amp;</reg> moonshine <lb/> there. <hi rend="bold">（to be concluded next week)</hi>
             </p>
          </div>
          <div type="leaf" n="15">
             <pb facs="https://iiif.archivengine.com/iiif/3/toeyju7juajsg5gs1m4styx9ytrb;1" corresp="manuscript_f014"/>
+            <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/348fa8a5-9db2-41f6-8e36-a177b6b45833;1" corresp="lw_f003"/>
             <head>Part II</head>
             <p>
                <hi rend="bold">Hawthorne and His Mosses</hi>
@@ -286,7 +288,7 @@
             <p>Not that American genius <lb/> needs patronage in order to expand. For that <lb/>
                <hi rend="bold">explosive</hi> sort of stuff will expand though screwed <lb/> up in a vice<hi rend="bold">,</hi> and bur<hi rend="bold">s</hi>t it<hi rend="bold">,</hi> though it were <lb/> triple steel. It is for the nation's sake<hi rend="bold">,</hi>
                <lb/> and not for her authors' sake<hi rend="bold">,</hi> that I would <lb/>have America be heedful of the <hi rend="bold">increasing</hi>
-               <lb/> greatness among her writers. <hi rend="bold">For</hi> how great <lb/> the shame<hi rend="bold">,</hi> if other nations should be before <lb/> her<hi rend="bold">,</hi> in crowning her heroes of the pen. But <lb/> this is almost the case now<hi rend="bold">.</hi> American <lb/> authors have received more just and <lb/> discriminating praise <hi rend="bold">(</hi>however <hi rend="bold">loftily </hi>and ridiculously</p>
+               <lb/> greatness among her <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/a0db8075-3819-4973-b559-c1ff24618ea8;1" corresp="lw_f004"/>writers. <hi rend="bold">For</hi> how great <lb/> the shame<hi rend="bold">,</hi> if other nations should be before <lb/> her<hi rend="bold">,</hi> in crowning her heroes of the pen. But <lb/> this is almost the case now<hi rend="bold">.</hi> American <lb/> authors have received more just and <lb/> discriminating praise <hi rend="bold">(</hi>however <hi rend="bold">loftily </hi>and ridiculously</p>
          </div>
          <div type="leaf" n="18">
             <pb facs="https://iiif.archivengine.com/iiif/3/gse3zgpoqsmgkvljnp563k65kdw6;1" corresp="manuscript_f017"/>
@@ -482,7 +484,7 @@
             </p>
             <p>But with whatever motive<hi rend="bold">,</hi> playful or profound<hi rend="bold">,</hi>
                <lb/> Nathaniel Hawthorne has chosen to entitle his pieces<lb/> in the manner he has<hi rend="bold">,</hi> it is certain<hi rend="bold">,</hi> that some of them<lb/> are directly calculated to deceive<hi rend="bold">--</hi>egregiously deceive<hi rend="bold">,</hi>
-               <lb/> the superficial skimmer of pages<hi rend="bold">.</hi> To be downright and<lb/> candid once more<hi rend="bold">,</hi> let me cheerfully say<hi rend="bold">,</hi> that two<lb/> of these titles did dolefully dupe no less an eagle-eyed<lb/> reader than myself<hi rend="bold">;</hi> and that<hi rend="bold">,</hi> too<hi rend="bold">,</hi> after I had<lb/> been impressed with a sense of the great depth and<lb/> breadth of this American man<hi rend="bold">.</hi> "Who in the name<lb/> of thunder" <hi rend="bold">(</hi>as the country- people say in this neighborhood<hi rend="bold">)</hi>
+               <lb/> the superficial skimmer of pages<hi rend="bold">.</hi> To be downright and<lb/> candid once more<hi rend="bold">,</hi> let me cheerfully say<hi rend="bold">,</hi> that two<lb/> of these titles did dolefully dupe no less an eagle-eyed<lb/> reader than myself<hi rend="bold">;</hi> and that<hi rend="bold">,</hi> too<hi rend="bold">,</hi> after I had<lb/> been impressed with a sense of the great depth and<lb/> breadth of this American <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/fd689f8f-6dcc-4679-81d2-8107f79531b7;1" corresp="lw_f005"/>man<hi rend="bold">.</hi> "Who in the name<lb/> of thunder" <hi rend="bold">(</hi>as the country- people say in this neighborhood<hi rend="bold">)</hi>
                <lb/> "who in the name of thunder<reg change="#StE" facs="#f023_z022">"</reg>
                <hi rend="bold">
                   <reg change="#StE" facs="#f023_z022">,</reg>
