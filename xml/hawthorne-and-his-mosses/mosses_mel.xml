@@ -48,11 +48,10 @@
    <text>
       <body>
          <div type="leaf" n="1">
-            
-            <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/0f9ffb9f-6636-46b1-947a-44355b620144;1" corresp="lw_f000"/>
             <pb facs="https://iiif.archivengine.com/iiif/3/xmvd680rsanz94duuo1e8rx1kn34;1" corresp="f000"/>
             <head>Hawthorne &amp; His Mosses,</head>
             <head>By a Virginian Spending July in Vermont</head>
+            <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/0f9ffb9f-6636-46b1-947a-44355b620144;1" corresp="lw_f000"/>
             <head>Part I</head>
             <p>A papered chamber in a fine<lb/> old farm-house -- a mile from any other dwelling,<lb/> and dipped to the eaves in foliage -- surrounded by<lb/> mountains, old woods, and Indian ponds, -- this, surely, is<lb/> the place to write of Hawthorne. Some charm is in<lb/> this northern air, for love and duty seem both impelling<lb/> to the task. A man of a deep &amp; noble nature has seized<lb/> me in this seclusion. His wild, witch voice rings thro' me;<lb/> or, in softer cadences, I seem to hear it in the songs of<lb/> the hill-side birds, that sing in the larch trees at my<lb/> window.</p>
             <p>Would that all excellent books were foundlings,<lb/> without father or mother, that so it might be, we<lb/> could glorify them, without including their ostensible authors. Nor<lb/> would any true man take exception to this; -- least of all,<lb/> he who writes, -- </p>
@@ -204,8 +203,6 @@
             </p>
          </div>
          <div type="leaf" n="15">
-           
-            <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/348fa8a5-9db2-41f6-8e36-a177b6b45833;1" corresp="lw_f003"/>
             <pb facs="https://iiif.archivengine.com/iiif/3/toeyju7juajsg5gs1m4styx9ytrb;1" corresp="manuscript_f014"/>
             <head>Part II</head>
             <p>
@@ -217,6 +214,7 @@
                <hi rend="bold">[</hi>
                <hi rend="bold">concluded from the last number.</hi>
                <hi rend="bold">]</hi>
+               <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/348fa8a5-9db2-41f6-8e36-a177b6b45833;1" corresp="lw_f003"/>
                <lb/>
             </p>
             <p>
