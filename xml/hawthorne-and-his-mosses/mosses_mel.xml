@@ -49,9 +49,9 @@
       <body>
          <div type="leaf" n="1">
             <pb facs="https://iiif.archivengine.com/iiif/3/xmvd680rsanz94duuo1e8rx1kn34;1" corresp="f000"/>
+            <lb/>
             <head>Hawthorne &amp; His Mosses,</head>
             <head>By a Virginian Spending July in Vermont</head>
-            
             <head>Part I</head>
             <lb/>
             <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/0f9ffb9f-6636-46b1-947a-44355b620144;1" corresp="lw_f000"/>
