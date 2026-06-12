@@ -49,6 +49,7 @@
       <body>
          <div type="leaf" n="1">
             <pb facs="https://iiif.archivengine.com/iiif/3/xmvd680rsanz94duuo1e8rx1kn34;1" corresp="f000"/>
+            <lb/>
             <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/0f9ffb9f-6636-46b1-947a-44355b620144;1" corresp="lw_f000"/>
 
             <head>Hawthorne &amp; His Mosses,</head>
@@ -205,6 +206,7 @@
          </div>
          <div type="leaf" n="15">
             <pb facs="https://iiif.archivengine.com/iiif/3/toeyju7juajsg5gs1m4styx9ytrb;1" corresp="manuscript_f014"/>
+            <lb/>
             <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/348fa8a5-9db2-41f6-8e36-a177b6b45833;1" corresp="lw_f003"/>
             <head>Part II</head>
             <p>
