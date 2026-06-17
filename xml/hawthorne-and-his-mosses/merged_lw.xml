@@ -15,8 +15,8 @@
     </teiHeader>
     <text>
         <body>
-			<div type="leaf">
-				<pb facs="#f000"/>
+			    <div type="section-1">
+			        <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/0f9ffb9f-6636-46b1-947a-44355b620144;1" corresp="lw_f000"/>
 				<head>HAWTHORNE AND HIS MOSSES.</head>
 				<head><hi rend="small-caps">by a virginian spending july in vermont</hi>.</head>
 				<p><hi rend="small-caps">A papered</hi> chamber in a fine old farm-house,<lb/> a mile from any other dwelling, and dipped to <lb/> the eaves in foliage--surrounded by moun-<lb/>tains, old woods, and Indian ponds,--this, surely, is the place to write of Hawthorne.<lb/> Some charm is in this northern air, for love<lb/> and duty seem both impelling to the task. A<lb/> man of a deep and noble nature has seized me<lb/> in this seclusion. His wild, witch-voice rings <lb/> through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds <lb/> that sing in the larch trees at my window.</p>
@@ -45,8 +45,8 @@
                     often--even had it recommended to me<lb/> by a tasteful friend, as a rare, quiet
                     book, per-<lb/>haps too deserving of popularity to be popu-<lb/>lar. But there
                     are so many books called "ex-<lb/>cellent," and so much</p>
-            <div type="leaf" n="3">
-                <pb facs="#f002"/>
+            
+               
                 <p>unpopular merit, that <lb/>amid the thick stir of other things, the hint of<lb/> my tasteful
                     friend was disregarded; and for<lb/> four years the Mosses on the Old Manse
                     never<lb/> refreshed me with their perennial green. It<lb/> may be, however,
@@ -68,10 +68,9 @@
                     spilling my raspberries, "this is the 'Mosses<lb/> from an Old Manse.'" "Yes"
                     said cousin<lb/> Cherry, "yes, it is that flowery Hawthorne."<lb/> "Hawthorne
                     and Mosses," said I ,"no more:<lb/> it is morning: it is July in the country: and I</p>
-            </div>
+            
        
-            <div type="leaf" n="4">
-                <pb facs="#f003"/>
+            
                 <p>am off for the barn."</p>
                 <p>Stretched on that new mown clover, the<lb/> hill-side breeze blowing over me
                     through the<lb/> wide barn door, and soothed by the hum of the<lb/> bees in the
@@ -95,10 +94,9 @@
                     rollicking rudeness, no gross fun<cb/> fed on fat dinners, and bred in the
                     lees<lb/> of wine,--but a humor so spiritually gentle, so<lb/> high, so deep,
                     and yet</p>
-            </div>
+            
        
-            <div type="leaf" n="5">
-                <pb facs="#f004"/>
+            
                 <p>so richly relishable, that<lb/> it were hardly inappropriate in an angel. It<lb/>
                     is the very religion of mirth; for nothing so<lb/> human but it may be advanced
                     to that. The<lb/> orchard of the Old Manse seems the visible<lb/> type of the
@@ -121,10 +119,8 @@
                     and helpfulness, that the mighty<lb/> spirit, were opportunity offered him,
                     would<lb/> run riot through the peaceful house, wrap its<lb/> inmates in his
                     terrible embrace, and leave<lb/> nothing of them save their whitened</p>
-            </div>
+            
 
-            <div type="leaf" n="6">
-                <pb facs="#f005"/>
                 <p>bones.<lb/> This possibility of mad destruction only made<lb/> his domestic
                     kindness the more beautiful and<lb/> touching. It was so sweet of him, being
                     en-<lb/>dowed with such power, to dwell, day after<lb/> day, and one long,
@@ -146,16 +142,14 @@
                     least,<lb/> in the artistic manifestation of these things.<lb/> Still more. Such
                     touches as these, -- and<lb/> many, very many similar ones, all through his<lb/>
                     chapters--furnish clues, whereby we enter a<lb/></p>
-            </div>
+            
        
 
        
-            <div type="leaf" n="7">
-                <pb facs="#f006"/>
                 <p>little way into the intricate, profound heart<lb/> where they originated. And we
                     see, that<lb/> suffering, some time or other and in some shape<lb/> or other,--
                     this only can enable any man to<lb/> depict it in others. All over him,
-                    Hawthorne's<pb/> melancholy rests like an Indian Summer,<lb/> which, though
+                    Hawthorne's <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/54481a01-9717-4045-82f4-20a3528702b3;1" corresp="lw_f001"/> melancholy rests like an Indian Summer,<lb/> which, though
                     bathing a whole country in one<lb/> softness, still reveals the distinctive hue
                     of<lb/> every towering hill, and each far-winding vale.</p>
                 <p>But it is the least part of genius that attracts<lb/> admiration. Where Hawthorne
@@ -175,11 +169,9 @@
                     at the same time, can possess<lb/> more mystical depth of meaning?--yes,
                     there<lb/> he sits, and looks at me,--this "shape of mys-<lb/>tery," this
                     "identical Monsieur du Miroir."<lb/></p>
-            </div>
+            
        
-    
-            <div type="leaf" n="8">
-                <pb facs="#f007"/>
+   
                 <p>"Methinks I should tremble now, were his<lb/> wizard power of gliding through all
                     impedi-<lb/>ments in search of me, to place him suddenly<lb/> before my eyes".</p>
                 <p> How profound, nay appalling, is the moral<lb/> evolved by the Earth's Holocaust;
@@ -201,11 +193,10 @@
                     mystical<lb/> blackness as a means to the wondrous effects he<lb/> makes it to produce in
                     his lights and shades;<lb/> or whether there really lurks in him, perhaps<lb/> unknown to
                     himself, a touch of Puritanic<lb/> gloom,--this, I cannot</p>
-            </div>
+            
        
     
-            <div type="leaf" n="9">
-                <pb facs="#f008"/>
+  
                 <p>altogether tell. Cer-<lb/>tain it is, however, that this great power of<lb/>
                     blackness in him derives its force from its ap-<lb/>peals to that Calvinistic
                     sense of Innate De-<lb/>pravity and Original Sin, from whose visita-<lb/>tions,
@@ -227,11 +218,8 @@
                     it, and you find it is gold</p>
                 <p> Now it is that blackness in Hawthorne, of<lb/> which I have spoken, that so
                     fixes and fasci-<lb/>nates me. It may be, nevertheless, that it is<lb/> too </p>
-            </div>
+            
        
-    
-            <div type="leaf" n="10">
-                <pb facs="#f009"/>
                 <p>largely developed in him. Perhaps he<lb/> does not give us a ray of his light for
                     every<lb/> shade of his dark. But however this may be,<lb/> this blackness it is
                     that furnishes the infinite<lb/> obscure of his background,--that
@@ -253,11 +241,10 @@
                     frantic King tears off the mask, and<lb/> speaks the same madness of vital
                     truth. But,<lb/> as I before said, it is the least part of genius<lb/> that
                     attracts admiration. And so, </p>
-            </div>
+            
        
     
-            <div type="leaf" n="11">
-                <pb facs="#f010"/>
+
                 <p> much of the<lb/> blind, unbridled admiration that has been heap-<lb/>ed upon
                     Shakspeare, has been lavished upon<lb/> the least part of him. And few of his
                     endless<lb/> commentators and critics seem to have re-<lb/>membered, or even
@@ -281,11 +268,8 @@
                     men. Here and there, in some quiet arm-<lb/> chair in the noisy town, or some
                     deep nook<lb/> among the noiseless mountains, he may be ap-<lb/>preciated for
                     something of what he is.</p>
-            </div>
-       
-
-            <div type="leaf" n="12">
-                <pb facs="#f011"/>
+            
+      
 
                 <p>But <lb/>unlike Shakspeare, who was forced to the <lb/>contrary course by
                     circumstances, Hawthorne<lb/> (either from simple disinclination, or else
@@ -310,11 +294,9 @@
                     <lb/>universe. And hardly a mortal man, who, at <lb/>some time or other, has not
                     felt as great <lb/>thoughts in him as any you will find in Ham-<lb/>let. We must
                     not inferentially malign man-<lb/>kind</p>
-            </div>
+            
        
-   
-            <div type="leaf" n="13">
-                <pb facs="#f012"/>
+  
                 <p>for the sake of any one man, whoever he <lb/>may be. This is too cheap a purchase
                     of con-<lb/>tentment for conscious mediocrity to make. <lb/>Besides, this
                     absolute and unconditional adora-<lb/>tion of Shakspeare has grown to be a
@@ -336,25 +318,22 @@
                     streets,<lb/> were still praying for his magnificent coming; <lb/>looking for
                     him in a chariot, who was already <lb/>among them on an ass. Nor must we
                     forget<lb/> that, in his own life-time, Shakspeare was</p>
-            </div>
+            
        
-    
-            <div type="leaf" n="14">
-                <pb facs="#f013"/>
+   
                 <p>not <lb/>Shakspeare, but only Master William Shak-<lb/>speare of the shrewd, thriving,
                     business firm <lb/>of Condell, Shakspeare &amp; Co., proprietors of the <lb/>Globe Theatre in
                     London; and by a courtly <lb/>author, of the name of Chettle, was looked at<lb/>
                     as an "upstart crow," beautified "with other <lb/>birds' feathers." For, mark it well,
                     imitation <lb/>is often the first charge brought against real <lb/>originality. Why this
-                    is so, there is not space <pb/>to set forth here. You must have plenty of <lb/>sea-room to
+                    is so, there is not space <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/0ece8311-c998-4682-8cfa-24441cfbf95f;1" corresp="lw_f002"/> to set forth here. You must have plenty of <lb/>sea-room to
                     tell the Truth in; especially <lb/>when it seems to have an aspect of newness,
                     <lb/>as America did in 1492, though it was then <lb/>just as old, and perhaps older than Asia, only <lb/>those sagacious philosophers, the common <lb/>sailors, had never seen it before, swearing it <lb/>was all water and moonshine there.</p>
-                <p><hi rend="italics align(center)">(To be concluded next week.)</hi></p>
+                <p><hi rend="italics align(center)">(To be concluded next week.)</hi></p></div>
  
-            </div>
-       
-            <div type="leaf" n="15">
-                <pb facs="#f014"/>
+            
+                <div type="section-2">
+                    <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/348fa8a5-9db2-41f6-8e36-a177b6b45833;1" corresp="lw_f003"/>
                 <head>HAWTHORNE AND HIS MOSSES.</head>
                 <head><hi rend="small-caps align(center)">by a virginian spending july in vermont</hi>.</head>
                 <head>[<hi rend="italics">Concluded from the last number.</hi>]</head>
@@ -375,10 +354,9 @@
                     been said; and all<lb/> that has been said, but multiplies the avenues <lb/>to
                     what remains to be said. It is not so much<lb/> paucity as superabundance of
                     material that <lb/>seems to incapacitate modern authors. </p>
-            </div>
+            
        
-            <div type="leaf" n="16">
-                <pb facs="#f015"/>
+      
                 <p> praise <lb/>mediocrity even, in her own children, before <lb/>she praises (for everywhere,
                     merit demands <lb/>acknowledgment from every one) the best<lb/> excellence in the children
                     of any other land. <lb/>Let her own authors, I say, have the pri-<lb/>ority of
@@ -387,16 +365,12 @@
                     then, <lb/>I would stand by Pop Emmons and his "Fre-<lb/>doniad," and till a better epic
                     came along, <lb/>swear it was not very far behind the Iliad." <lb/>Take away the words,
                     and in spirit he was <lb/>sound.</p>
-            </div>
-
-			<div n="17" type="leaf">
-				<pb facs="#f016"/>
+  
 				<p>Let America then prize and cherish her <lb/> writers; yea, let her glorify them. They are<lb/> not so many in number as to exhaust her<lb/> good-will. And while she has good kith and<lb/> kin of her own, to take to her bosom, let her<lb/> not lavish her embraces upon the household of<lb/> an alien. For believe it or not, England, after<lb/> all, is, in many things an alien to us. China<lb/> has more bonds of real love for us than she.<lb/> But even were there no strong literary indivi-<lb/>dualities among us, as there are some dozens at<lb/> least, nevertless, let America first <note>[Rest of the paragraph inserted from f015]</note>praise <lb/>mediocrity even, in her own children, before <lb/>she praises (for everywhere, merit demands <lb/>acknowledgment from every one) the best<lb/> excellence in the children of any other land. <lb/>Let her own authors, I say, have the pri-<lb/>ority of appreciation. I was much pleased <lb/>with a hot-headed Carolina cousin of mine,<lb/> who once said,--"If there were no other<lb/> American to stand by, in literature, why, then, <lb/>I would stand by Pop Emmons and his "Fre-<lb/>doniad," and till a better epic came along, <lb/>swear it was not very far behind the Iliad." <lb/>Take away the words, and in spirit he was <lb/>sound.</p>
-				<p>Not that American genius needs patronage<lb/> in order to expand. For that explosive sort o<lb/>f stuff will expand though screwed up in a <lb/>vice, and burst it, though it were triple steel.<lb/> It is for the nation's sake, and not for her<lb/> authors' sake, that I would have America be<lb/> heedful of the increasing greatness among her<pb/> writers. For how great the shame,<lb/> if other nations should be before her, in crowning her<lb/> heroes of the pen! But this is almost the case <lb/>now. American authors have received more<lb/> just and discriminating praise (however loftily<lb/> and ridiculously</p>
-			</div>
+			    <p>Not that American genius needs patronage<lb/> in order to expand. For that explosive sort o<lb/>f stuff will expand though screwed up in a <lb/>vice, and burst it, though it were triple steel.<lb/> It is for the nation's sake, and not for her<lb/> authors' sake, that I would have America be<lb/> heedful of the increasing greatness among her<pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/a0db8075-3819-4973-b559-c1ff24618ea8;1" corresp="lw_f004"/> writers. For how great the shame,<lb/> if other nations should be before her, in crowning her<lb/> heroes of the pen! But this is almost the case <lb/>now. American authors have received more<lb/> just and discriminating praise (however loftily<lb/> and ridiculously</p>
+			
 		
-            <div type="leaf" n="18">
-                <pb facs="#f017"/>
+   
                 <p>given, in certain cases) even <lb/>from some Englishmen, than from their own
                     <lb/>countrymen. There are hardly five critics in<lb/> America; and several of
                     them are asleep. As<lb/> for patronage, it is the American author who <lb/>now
@@ -420,10 +394,9 @@
                     the plain fact, they but furnish an appendix <lb/>to Goldsmith, and other
                     English authors. And <lb/>we want no American Goldsmiths; nay, we <lb/>want no
                     American Miltons. </p>
-            </div>
+            
        
-     <div type="leaf">
-                    <pb facs="#f018"/>                
+                    
                 <p>It were the vilest <lb/> thing you could say of a true American author, <lb/>
                     that he were an American Tompkins. Call him <lb/>an American and have done, for
                     you cannot say<lb/> a nobler thing of him. But it is not meant <lb/>that all
@@ -444,11 +417,9 @@
                     <lb/>own;--those writers who breathe that un-<lb/>shackled, democratic spirit of
                     Christianity in all<lb/> things, which now takes the practical lead in<lb/> this
                     world, though at the same</p>
-            </div>
+            
        
 
-            <div type="leaf" n="20">
-                <pb facs="#f019"/>
                 <p>time led by <lb/>ourselves--us Americans. Let us boldly con-<lb/>temn all
                     imitation, though it comes to us <lb/>graceful and fragrant as the morning; and
                     <lb/>foster all originality, <lb/>though, at first, it be crabbed and ugly as
@@ -471,11 +442,9 @@
                     shall he feel those grateful <lb/>impulses in him, that may possibly prompt
                     <lb/>him to the full flower of some still greater <lb/>achievement in your
                     eyes.</p>
-            </div>
+            
        
-    
-            <div type="leaf" n="21">
-                <pb facs="#f020"/>
+  
                 <p>And by confessing <lb/>him, you thereby confess others; you brace <lb/>the whole
                     brotherhood. For genius, all over <lb/>the world, stands hand in hand, and one
                     shock <lb/>of recognition runs the whole circle round.</p>
@@ -498,11 +467,7 @@
                     an honorable thing to confess to what is <lb/>honorable in others.</p>
                 <p>But I cannot leave my subject yet. No man <lb/>can read a fine author, and relish
                     him to his <lb/>very bones while he reads, without</p>
-            </div>
-       
-    
-            <div type="leaf" n="22">
-                <pb facs="#f021"/>
+   
                 <p>subse-<lb/>quently fancying to himself some ideal image <lb/>of the man and his
                     mind. And if you rightly <lb/>look for it, you will almost always find that
                     <lb/>the author himself has somewhere furnished <lb/>you with his own picture.
@@ -534,10 +499,8 @@
                     For <lb/>I have just been gleaning through the Mosses, <lb/>picking up many things here
                     and there that had <lb/>previously escaped me. And I found that but <lb/>to glean after
                     this man, </p>
-            </div>
+            
        
-            <div type="leaf">
-                <pb facs="#f022"/>
                 <p>is better than to be in <lb/>at the harvest of others. To be frank (though,
                     <lb/>perhaps, rather foolish) notwithstanding what <lb/>I wrote yesterday of
                     these Mosses, I had not <lb/>then culled them all; but had, nevertheless,
@@ -564,10 +527,9 @@
                     in hood-<lb/>winking the world,--at least, with respect to <lb/>himself.
                     Personally, I doubt not, that he <lb/>rather prefers to be generally esteemed
                     but a <lb/>so-so sort of author; being willing to</p>
-            </div>
+            
        
-            <div type="leaf">
-                <pb facs="#f023"/>
+      
                 <p>reserve <lb/>the thorough and acute appreciation of what he <lb/>is, to that
                     party most qualified to judge--that <lb/>is, to himself. Besides, at the bottom
                     of their <lb/>natures, men like Hawthorne, in many things, <lb/>deem the
@@ -585,7 +547,7 @@
                     the superfi-<lb/>cial skimmer of pages. To be downright and <lb/>candid once
                     more, let me cheerfully say, that <lb/>two of these titles did dolefully dupe no
                     less <lb/>an eager-eyed reader than myself; and that, <lb/>too, after I had been
-                    impressed with a sense of <lb/>the great depth and breadth of this American
+                    impressed with a sense of <lb/>the great depth and breadth of this American <pb facs="https://iiif-cloud-production.herokuapp.com/public/resources/fd689f8f-6dcc-4679-81d2-8107f79531b7;1" corresp="lw_f005"/>
                     <lb/>man. "Who in the name of thunder" (as the <lb/>country- people say in this
                     neighborhood),<lb/> "who in the name of thunder, would antici-<lb/>pate any
                     marvel in a piece entitled 'Young<lb/> Goodman Brown?'" You would of course
@@ -593,11 +555,7 @@
                     "Goody Two Shoes." <lb/>Whereas, it is deep as Dante; nor can you <lb/>finish
                     it, without addressing the author in his <lb/>own words--"It is yours to
                     penetrate, in every <lb/>bosom, the deep mystery of sin". And with<lb/></p>
-            </div>
-       
-    
-            <div type="leaf">
-                <pb facs="#f024"/>
+            
                 <p>Young Goodman, too, in allegorical pursuit of <lb/>his Puritan wife, you cry out
                     in your anguish:</p>
                 <p>"'Faith !' shouted Goodman Brown, in a voice <lb/>of agony and desperation; and
@@ -627,11 +585,9 @@
                     Haw-<lb/>thorne seems lost in his sweetness,--as per-<lb/>haps in this same
                     "Select Party" of his; for <lb/>whom he has builded so august a dome of
                     sun-<lb/>set clouds, and served them on richer plate<lb/> than</p>
-            </div>
+            
        
        
-            <div type="leaf">
-                <pb facs="#f025"/>
                 <p>Belshazzar when he banquetted his lords <lb/>in Babylon.</p>
                 <p>But my chief business now, is to point out <lb/>a particular page in this piece,
                     having reference <lb/>to an honored guest, who under the name of <lb/>"The
@@ -658,11 +614,9 @@
                     little acquainted with <lb/>those neglected old authors, for the first time
                     <lb/>read them thoroughly, or even read Charles Lamb's <lb/>Specimens of them,
                     and he will</p>
-            </div>
+            
        
 
-            <div type="leaf">
-                <pb facs="#f026"/>
                 <p>be <lb/>amazed at the wondrous ability of those Anaks <lb/>of men, and shocked at
                     this renewed example <lb/>of the fact, that Fortune has more to do with
                     <lb/>fame than merit,-- though, without merit, last-<lb/>ing fame there can be
@@ -693,11 +647,8 @@
                     atmosphere of <lb/>heaven.</p>
                 <p>Once more--for it is hard to be finite upon <lb/>an infinite subject, and all subjects
                     are infinite.</p>
-            </div>
-       
-   
-            <div type="leaf">
-                <pb facs="#f027"/>                
+            
+                      
                 <p>By some people, this entire scrawl of mine may <lb/>be esteemed altogether
                     unnecessary, inasmuch, <lb/>"as years ago" (they may say) "we found out <lb/>the
                     rich and rare stuff in this Hawthorne, <lb/>whom you now parade forth, as if
@@ -706,8 +657,7 @@
                     and adding to it, the assumption that <lb/>the books of Hawthorne have sold by
                     the five <lb/>thousand,--what does that signify? They <lb/>should be sold by the
                     hundred thousand; and <lb/>read by the million; and admired by every one
-                    <lb/>who is capable of admiration.</p>
-            </div>
+                    <lb/>who is capable of admiration.</p></div>
         </body>
     </text>
 </TEI>
