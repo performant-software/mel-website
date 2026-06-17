@@ -5,8 +5,138 @@ permalink: /sources
 
 ---
 
+<style>
+    .catalog-wrapper {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        line-height: 1.6;
+        color: #333;
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 2rem 0;
+    }
+    .catalog-wrapper h1 {
+        border-bottom: 2px solid #2c3e50;
+        padding-bottom: 0.5rem;
+        color: #2c3e50;
+    }
+    .search-container {
+        margin: 2rem 0;
+    }
+    #searchInput {
+        width: 100%;
+        padding: 12px 20px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .catalog-table {
+        width: 100%;
+        border-collapse: collapse;
+        background: white;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .catalog-table th, .catalog-table td {
+        text-align: left;
+        padding: 12px 15px;
+        border-bottom: 1px solid #ddd;
+    }
+    .catalog-table th {
+        background-color: #2c3e50;
+        color: white;
+        position: sticky;
+        top: 0;
+    }
+    .catalog-table tr:hover {
+        background-color: #f5f5f5;
+    }
+    .ref-link {
+        color: #0066cc;
+        text-decoration: none;
+        font-weight: bold;
+    }
+    .ref-link:hover {
+        text-decoration: underline;
+        color: #004999;
+    }
+    .count {
+        font-size: 0.9rem;
+        color: #666;
+        margin-bottom: 1rem;
+    }
+</style>
+
 Melville was a voracious reader and inveterate researcher.  He used sources to augment his own personal experiences or to stimulate inventions for his imaginative works.  Melville’s appropriation of source books also shows how he revises those texts, and in revising—through quotation, paraphrase, or outright plagiarism—he creates his own version of another writer’s text. His revisions essentially convert a source text into a fluid text. For instance, in *Moby-Dick* we find passages on colonizing the Pacific taken directly from Thomas Beale’s *Natural History of the Sperm Whale*, but Melville has massaged Beale’s text to question his colonial perspective.  Melville’s revision of Beale is in fact Melville’s version of Beale, tucked within the text of *Moby-Dick*. But we cannot know the interpretive value of Melville’s revisions of his sources until we can collate the corresponding texts, display them side-by-side, and highlight the differences.  For further discussion on collation, see [Collating *Moby-Dick*](https://mel.netlify.app/expurgating-moby-dick). Our proposed text and image annotation workspace Melville ReMix will also enable close comparison and study. All that is required is access to Melville’s source books.
 
 Fortunately, much of the work of finding, cataloguing, and displaying Melville’s source books has been, and continues to be done, in *Melville’s Marginalia Online* (MMO). Edited by Steven Olsen-Smith, Peter Norberg, and Dennis C. Marnon, MMO lists the works known to have existed in Melville's dispersed library, curates images of the 300 or so books retrieved from the dispersal, and displays transcriptions of Melville's marginal markings and inscriptions in them.
 
 MEL and MMO have been affiliated informally and are working toward developing a means for fuller interoperability of our two sites as well as MPCO: *Melville's Print Collection Online*.
+
+<div class="catalog-wrapper">
+    <h1>Melville Sources Checklist</h1>
+    
+    <div class="search-container">
+        <input type="text" id="searchInput" placeholder="Search by author, title, or reference code...">
+    </div>
+    
+    <div class="count" id="resultCount">Loading data...</div>
+
+    <table class="catalog-table" id="catalogTable">
+        <thead>
+            <tr>
+                <th width="10%">ID</th>
+                <th width="60%">Source (Author, Title, & Details)</th>
+                <th width="30%">References</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            <!-- Data will be populated here via JS -->
+        </tbody>
+    </table>
+</div>
+
+<script>
+    // Jekyll Liquid tag magic: This takes the JSON file from the _data folder 
+    // and instantly converts it into a JavaScript array when the site builds.
+    const catalogData = {{ site.data.melville_sources | jsonify }};
+
+    const searchInput = document.getElementById('searchInput');
+    const tableBody = document.getElementById('tableBody');
+    const resultCount = document.getElementById('resultCount');
+
+    // Function to render the table based on data
+    function renderTable(data) {
+        tableBody.innerHTML = ''; // Clear current rows
+        resultCount.textContent = `Showing ${data.length} results`;
+
+        data.forEach(item => {
+            const row = document.createElement('tr');
+            
+            // Using innerHTML here specifically because we WANT to render the anchor tags
+            row.innerHTML = `
+                <td>${item.id}</td>
+                <td>${item.source}</td>
+                <td>${item.linked_refs}</td>
+            `;
+            tableBody.appendChild(row);
+        });
+    }
+
+    // Initial render of all 1,395 items
+    renderTable(catalogData);
+
+    // Add event listener for the search bar filtering
+    searchInput.addEventListener('keyup', (e) => {
+        const term = e.target.value.toLowerCase();
+        
+        const filteredData = catalogData.filter(item => {
+            // Search across ID, Source text, and the reference codes
+            return item.id.toLowerCase().includes(term) || 
+                   item.source.toLowerCase().includes(term) || 
+                   item.linked_refs.toLowerCase().includes(term);
+        });
+        
+        renderTable(filteredData);
+    });
+</script>
