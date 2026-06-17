@@ -12,73 +12,68 @@ $( document ).ready(function() {
         }
     });
 
-    // Run once on initial load (just in case they land directly on the Sources page)
     initMelvilleCatalog();
 });
 
-// THE WATCHER: This fixes the dynamic page rendering issue
+// The layout watcher for dynamic page transitions
 const observer = new MutationObserver(function(mutations) {
+    const storageDiv = document.getElementById('catalogDataStorage');
     const tableBody = document.getElementById('tableBody');
     
-    // If the table suddenly appears on screen, but hasn't been loaded yet
-    if (tableBody && !tableBody.dataset.loaded) {
-        tableBody.dataset.loaded = "true"; // Mark it so we don't load it twice
+    if (storageDiv && tableBody && !tableBody.dataset.loaded) {
+        tableBody.dataset.loaded = "true";
         initMelvilleCatalog();
     }
 });
-// Start watching the whole website for layout changes
 observer.observe(document.body, { childList: true, subtree: true });
 
 
-// Function to fetch and render the Melville Sources Catalog
 function initMelvilleCatalog() {
+    const storageDiv = document.getElementById('catalogDataStorage');
     const tableBody = document.getElementById('tableBody');
     const searchInput = document.getElementById('searchInput');
     const resultCount = document.getElementById('resultCount');
 
-    // Safety check: Only run this code if the table is actually on the page
-    if (!tableBody || !searchInput) return;
+    // Only run if the elements are actually on the page
+    if (!storageDiv || !tableBody || !searchInput) return;
 
-    // Fetch the public JSON file from the root directory
-    fetch('/melville_sources.json')
-        .then(response => {
-            if (!response.ok) throw new Error("Network response was not ok");
-            return response.json();
-        })
-        .then(catalogData => {
-            
-            function renderTable(data) {
-                tableBody.innerHTML = ''; 
-                resultCount.textContent = `Showing ${data.length} results`;
+    try {
+        // Read the text out of the hidden HTML div and turn it into JSON
+        const rawText = storageDiv.textContent || storageDiv.innerText;
+        const catalogData = JSON.parse(rawText.trim());
 
-                data.forEach(item => {
-                    const row = document.createElement('tr');
-                    row.innerHTML = `
-                        <td>${item.id || ''}</td>
-                        <td>${item.source || ''}</td>
-                        <td>${item.linked_refs || ''}</td>
-                    `;
-                    tableBody.appendChild(row);
-                });
-            }
+        function renderTable(data) {
+            tableBody.innerHTML = ''; 
+            resultCount.textContent = `Showing ${data.length} results`;
 
-            // Initial render
-            renderTable(catalogData);
-
-            // Add search filtering
-            searchInput.addEventListener('keyup', (e) => {
-                const term = e.target.value.toLowerCase();
-                const filteredData = catalogData.filter(item => {
-                    const id = (item.id || '').toLowerCase();
-                    const source = (item.source || '').toLowerCase();
-                    const refs = (item.linked_refs || '').toLowerCase();
-                    return id.includes(term) || source.includes(term) || refs.includes(term);
-                });
-                renderTable(filteredData);
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>${item.id || ''}</td>
+                    <td>${item.source || ''}</td>
+                    <td>${item.linked_refs || ''}</td>
+                `;
+                tableBody.appendChild(row);
             });
-        })
-        .catch(error => {
-            console.error("Error loading catalog data:", error);
-            resultCount.innerHTML = `<span style="color:red; font-weight:bold;">Error loading data. Make sure melville_sources.json is accessible at the root of the site.</span>`;
+        }
+
+        // Initial render
+        renderTable(catalogData);
+
+        // Add search filtering
+        searchInput.addEventListener('keyup', (e) => {
+            const term = e.target.value.toLowerCase();
+            const filteredData = catalogData.filter(item => {
+                const id = (item.id || '').toLowerCase();
+                const source = (item.source || '').toLowerCase();
+                const refs = (item.linked_refs || '').toLowerCase();
+                return id.includes(term) || source.includes(term) || refs.includes(term);
+            });
+            renderTable(filteredData);
         });
+
+    } catch (error) {
+        console.error("Melville Catalog Error: Could not parse the data.", error);
+        resultCount.innerHTML = `<span style="color:red; font-weight:bold;">Error parsing data.</span>`;
+    }
 }

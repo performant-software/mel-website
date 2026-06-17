@@ -64,14 +64,6 @@ permalink: /sources/
         color: #666;
         margin-bottom: 1rem;
     }
-    .error-msg {
-        color: #d9534f;
-        background: #fdf7f7;
-        padding: 1rem;
-        border: 1px solid #d9534f;
-        border-radius: 4px;
-        display: block;
-    }
 </style>
 
 <div>
@@ -102,4 +94,8 @@ permalink: /sources/
         <tbody id="tableBody">
             </tbody>
     </table>
+
+    <div id="catalogDataStorage" style="display: none;" aria-hidden="true">
+        {{ site.data.melville_sources | jsonify }}
+    </div>
 </div>
