@@ -1,8 +1,7 @@
 ---
 layout: archive_two-columns
 title: Sources
-permalink: /sources
-
+permalink: /sources/
 ---
 
 <style>
@@ -65,14 +64,22 @@ permalink: /sources
         color: #666;
         margin-bottom: 1rem;
     }
+    .error-msg {
+        color: #d9534f;
+        background: #fdf7f7;
+        padding: 1rem;
+        border: 1px solid #d9534f;
+        border-radius: 4px;
+        display: block;
+    }
 </style>
 
 <div>
-<p>Melville was a voracious reader and inveterate researcher.  He used sources to augment his own personal experiences or to stimulate inventions for his imaginative works.  Melville’s appropriation of source books also shows how he revises those texts, and in revising—through quotation, paraphrase, or outright plagiarism—he creates his own version of another writer’s text. His revisions essentially convert a source text into a fluid text. For instance, in *Moby-Dick* we find passages on colonizing the Pacific taken directly from Thomas Beale’s *Natural History of the Sperm Whale*, but Melville has massaged Beale’s text to question his colonial perspective.  Melville’s revision of Beale is in fact Melville’s version of Beale, tucked within the text of *Moby-Dick*. But we cannot know the interpretive value of Melville’s revisions of his sources until we can collate the corresponding texts, display them side-by-side, and highlight the differences.  For further discussion on collation, see [Collating *Moby-Dick*](https://mel.netlify.app/expurgating-moby-dick). Our proposed text and image annotation workspace Melville ReMix will also enable close comparison and study. All that is required is access to Melville’s source books.</p>
+    <p>Melville was a voracious reader and inveterate researcher. He used sources to augment his own personal experiences or to stimulate inventions for his imaginative works. Melville’s appropriation of source books also shows how he revises those texts, and in revising—through quotation, paraphrase, or outright plagiarism—he creates his own version of another writer’s text. His revisions essentially convert a source text into a fluid text. For instance, in <em>Moby-Dick</em> we find passages on colonizing the Pacific taken directly from Thomas Beale’s <em>Natural History of the Sperm Whale</em>, but Melville has massaged Beale’s text to question his colonial perspective. Melville’s revision of Beale is in fact Melville’s version of Beale, tucked within the text of <em>Moby-Dick</em>. But we cannot know the interpretive value of Melville’s revisions of his sources until we can collate the corresponding texts, display them side-by-side, and highlight the differences. For further discussion on collation, see <a href="https://mel.netlify.app/expurgating-moby-dick" target="_blank">Collating <em>Moby-Dick</em></a>. Our proposed text and image annotation workspace Melville ReMix will also enable close comparison and study. All that is required is access to Melville’s source books.</p>
 
-<p>Fortunately, much of the work of finding, cataloguing, and displaying Melville’s source books has been, and continues to be done, in *Melville’s Marginalia Online* (MMO). Edited by Steven Olsen-Smith, Peter Norberg, and Dennis C. Marnon, MMO lists the works known to have existed in Melville's dispersed library, curates images of the 300 or so books retrieved from the dispersal, and displays transcriptions of Melville's marginal markings and inscriptions in them.</p>
+    <p>Fortunately, much of the work of finding, cataloguing, and displaying Melville’s source books has been, and continues to be done, in <em>Melville’s Marginalia Online</em> (MMO). Edited by Steven Olsen-Smith, Peter Norberg, and Dennis C. Marnon, MMO lists the works known to have existed in Melville's dispersed library, curates images of the 300 or so books retrieved from the dispersal, and displays transcriptions of Melville's marginal markings and inscriptions in them.</p>
 
-<p>MEL and MMO have been affiliated informally and are working toward developing a means for fuller interoperability of our two sites as well as MPCO: *Melville's Print Collection Online*.</p>
+    <p>MEL and MMO have been affiliated informally and are working toward developing a means for fuller interoperability of our two sites as well as MPCO: <em>Melville's Print Collection Online</em>.</p>
 </div>
 
 <div class="catalog-wrapper">
@@ -93,15 +100,16 @@ permalink: /sources
             </tr>
         </thead>
         <tbody id="tableBody">
-            <!-- Data will be populated here via JS -->
-        </tbody>
+            </tbody>
     </table>
 </div>
 
 <script>
-    // Jekyll Liquid tag magic: This takes the JSON file from the _data folder 
-    // and instantly converts it into a JavaScript array when the site builds.
-    const catalogData = {{ site.data.melville_sources | jsonify }};
+    // Jekyll Liquid tag magic
+    const rawData = {{ site.data.melville_sources | jsonify }};
+    
+    // Safety check: if Jekyll output null, fall back to an empty array so the script doesn't crash
+    const catalogData = rawData || []; 
 
     const searchInput = document.getElementById('searchInput');
     const tableBody = document.getElementById('tableBody');
@@ -110,33 +118,41 @@ permalink: /sources
     // Function to render the table based on data
     function renderTable(data) {
         tableBody.innerHTML = ''; // Clear current rows
+        
+        // If there is no data, show the error message
+        if (data.length === 0) {
+            resultCount.innerHTML = `<span class="error-msg"><strong>Data Missing:</strong> Jekyll could not find the JSON file. Please verify that 'melville_sources.json' is located in the '_data' folder and was pushed to your repository.</span>`;
+            return;
+        }
+
         resultCount.textContent = `Showing ${data.length} results`;
 
         data.forEach(item => {
             const row = document.createElement('tr');
-            
-            // Using innerHTML here specifically because we WANT to render the anchor tags
             row.innerHTML = `
-                <td>${item.id}</td>
-                <td>${item.source}</td>
-                <td>${item.linked_refs}</td>
+                <td>${item.id || ''}</td>
+                <td>${item.source || ''}</td>
+                <td>${item.linked_refs || ''}</td>
             `;
             tableBody.appendChild(row);
         });
     }
 
-    // Initial render of all 1,395 items
+    // Initial render
     renderTable(catalogData);
 
     // Add event listener for the search bar filtering
     searchInput.addEventListener('keyup', (e) => {
+        if (catalogData.length === 0) return; // Stop if there's no data
+        
         const term = e.target.value.toLowerCase();
         
         const filteredData = catalogData.filter(item => {
-            // Search across ID, Source text, and the reference codes
-            return item.id.toLowerCase().includes(term) || 
-                   item.source.toLowerCase().includes(term) || 
-                   item.linked_refs.toLowerCase().includes(term);
+            const id = (item.id || '').toLowerCase();
+            const source = (item.source || '').toLowerCase();
+            const refs = (item.linked_refs || '').toLowerCase();
+            
+            return id.includes(term) || source.includes(term) || refs.includes(term);
         });
         
         renderTable(filteredData);
