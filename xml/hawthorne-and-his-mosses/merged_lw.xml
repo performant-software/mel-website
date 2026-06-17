@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<combined_data>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<text>
-		<body>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
 			<div type="leaf">
 				<pb facs="#f000"/>
 				<head>HAWTHORNE AND HIS MOSSES.</head>
 				<head><hi rend="small-caps">by a virginian spending july in vermont</hi>.</head>
 				<p><hi rend="small-caps">A papered</hi> chamber in a fine old farm-house,<lb/> a mile from any other dwelling, and dipped to <lb/> the eaves in foliage--surrounded by moun-<lb/>tains, old woods, and Indian ponds,--this, surely, is the place to write of Hawthorne.<lb/> Some charm is in this northern air, for love<lb/> and duty seem both impelling to the task. A<lb/> man of a deep and noble nature has seized me<lb/> in this seclusion. His wild, witch-voice rings <lb/> through me; or, in softer cadences, I seem to hear it in the songs of the hill-side birds <lb/> that sing in the larch trees at my window.</p>
 				<p>Would that all excellent books were found-<lb/>lings, without father or mother, that so it<lb/> might be we could glorify them, without in-<lb/>cluding their ostensible authors!<note>HM had used a full-stop in the MS.</note> Nor would<lb/> any true man take exception to this; least of<lb/> all, he who writes, "When the Artist rises high<lb/> enough to achieve the Beautiful, the symbol by<lb/> which he makes it perceptible to mortal senses<lb/> becomes of little value in his eyes, while his<lb/> spirit possesses itself in the enjoyment of the reality."</p>
-				<p>But more than this. I know not</p>
-			</div>
-		</body>
-	</text>
-</TEI><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
-            <div type="leaf" n="2">
-                <pb facs="#f001"/>
-                <p>what would be <lb/> the right name to put on the title-page of<lb/> an excellent
+				<p>But more than this. I know not
+                what would be <lb/> the right name to put on the title-page of<lb/> an excellent
                     book; but this I feel, that the <lb/>names of all fine authors are fictitious
                     ones,<lb/> far more so than that of Junius; simply stand-<lb/>ing, as they do,
                     for the mystical, ever-eluding<lb/> spirit of all beauty, which ubiquitously
@@ -41,13 +45,6 @@
                     often--even had it recommended to me<lb/> by a tasteful friend, as a rare, quiet
                     book, per-<lb/>haps too deserving of popularity to be popu-<lb/>lar. But there
                     are so many books called "ex-<lb/>cellent," and so much</p>
-            </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
             <div type="leaf" n="3">
                 <pb facs="#f002"/>
                 <p>unpopular merit, that <lb/>amid the thick stir of other things, the hint of<lb/> my tasteful
@@ -72,10 +69,7 @@
                     said cousin<lb/> Cherry, "yes, it is that flowery Hawthorne."<lb/> "Hawthorne
                     and Mosses," said I ,"no more:<lb/> it is morning: it is July in the country: and I</p>
             </div>
-        </body>
-    </text><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
             <div type="leaf" n="4">
                 <pb facs="#f003"/>
                 <p>am off for the barn."</p>
@@ -102,12 +96,7 @@
                     lees<lb/> of wine,--but a humor so spiritually gentle, so<lb/> high, so deep,
                     and yet</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
             <div type="leaf" n="5">
                 <pb facs="#f004"/>
                 <p>so richly relishable, that<lb/> it were hardly inappropriate in an angel. It<lb/>
@@ -133,12 +122,7 @@
                     would<lb/> run riot through the peaceful house, wrap its<lb/> inmates in his
                     terrible embrace, and leave<lb/> nothing of them save their whitened</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+
             <div type="leaf" n="6">
                 <pb facs="#f005"/>
                 <p>bones.<lb/> This possibility of mad destruction only made<lb/> his domestic
@@ -163,12 +147,9 @@
                     touches as these, -- and<lb/> many, very many similar ones, all through his<lb/>
                     chapters--furnish clues, whereby we enter a<lb/></p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+
+       
             <div type="leaf" n="7">
                 <pb facs="#f006"/>
                 <p>little way into the intricate, profound heart<lb/> where they originated. And we
@@ -195,12 +176,8 @@
                     there<lb/> he sits, and looks at me,--this "shape of mys-<lb/>tery," this
                     "identical Monsieur du Miroir."<lb/></p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+    
             <div type="leaf" n="8">
                 <pb facs="#f007"/>
                 <p>"Methinks I should tremble now, were his<lb/> wizard power of gliding through all
@@ -225,12 +202,8 @@
                     his lights and shades;<lb/> or whether there really lurks in him, perhaps<lb/> unknown to
                     himself, a touch of Puritanic<lb/> gloom,--this, I cannot</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+    
             <div type="leaf" n="9">
                 <pb facs="#f008"/>
                 <p>altogether tell. Cer-<lb/>tain it is, however, that this great power of<lb/>
@@ -255,12 +228,8 @@
                 <p> Now it is that blackness in Hawthorne, of<lb/> which I have spoken, that so
                     fixes and fasci-<lb/>nates me. It may be, nevertheless, that it is<lb/> too </p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+    
             <div type="leaf" n="10">
                 <pb facs="#f009"/>
                 <p>largely developed in him. Perhaps he<lb/> does not give us a ray of his light for
@@ -285,12 +254,8 @@
                     truth. But,<lb/> as I before said, it is the least part of genius<lb/> that
                     attracts admiration. And so, </p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+    
             <div type="leaf" n="11">
                 <pb facs="#f010"/>
                 <p> much of the<lb/> blind, unbridled admiration that has been heap-<lb/>ed upon
@@ -317,12 +282,8 @@
                     deep nook<lb/> among the noiseless mountains, he may be ap-<lb/>preciated for
                     something of what he is.</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+
             <div type="leaf" n="12">
                 <pb facs="#f011"/>
 
@@ -350,12 +311,8 @@
                     felt as great <lb/>thoughts in him as any you will find in Ham-<lb/>let. We must
                     not inferentially malign man-<lb/>kind</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+   
             <div type="leaf" n="13">
                 <pb facs="#f012"/>
                 <p>for the sake of any one man, whoever he <lb/>may be. This is too cheap a purchase
@@ -380,16 +337,12 @@
                     him in a chariot, who was already <lb/>among them on an ass. Nor must we
                     forget<lb/> that, in his own life-time, Shakspeare was</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+    
             <div type="leaf" n="14">
                 <pb facs="#f013"/>
                 <p>not <lb/>Shakspeare, but only Master William Shak-<lb/>speare of the shrewd, thriving,
-                    business firm <lb/>of Condell, Shakspeare & Co., proprietors of the <lb/>Globe Theatre in
+                    business firm <lb/>of Condell, Shakspeare &amp; Co., proprietors of the <lb/>Globe Theatre in
                     London; and by a courtly <lb/>author, of the name of Chettle, was looked at<lb/>
                     as an "upstart crow," beautified "with other <lb/>birds' feathers." For, mark it well,
                     imitation <lb/>is often the first charge brought against real <lb/>originality. Why this
@@ -397,14 +350,9 @@
                     tell the Truth in; especially <lb/>when it seems to have an aspect of newness,
                     <lb/>as America did in 1492, though it was then <lb/>just as old, and perhaps older than Asia, only <lb/>those sagacious philosophers, the common <lb/>sailors, had never seen it before, swearing it <lb/>was all water and moonshine there.</p>
                 <p><hi rend="italics align(center)">(To be concluded next week.)</hi></p>
-                </p>
+ 
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
             <div type="leaf" n="15">
                 <pb facs="#f014"/>
                 <head>HAWTHORNE AND HIS MOSSES.</head>
@@ -428,12 +376,7 @@
                     what remains to be said. It is not so much<lb/> paucity as superabundance of
                     material that <lb/>seems to incapacitate modern authors. </p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
             <div type="leaf" n="16">
                 <pb facs="#f015"/>
                 <p> praise <lb/>mediocrity even, in her own children, before <lb/>she praises (for everywhere,
@@ -445,22 +388,13 @@
                     came along, <lb/>swear it was not very far behind the Iliad." <lb/>Take away the words,
                     and in spirit he was <lb/>sound.</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-	<text>
-		<body>
+
 			<div n="17" type="leaf">
 				<pb facs="#f016"/>
 				<p>Let America then prize and cherish her <lb/> writers; yea, let her glorify them. They are<lb/> not so many in number as to exhaust her<lb/> good-will. And while she has good kith and<lb/> kin of her own, to take to her bosom, let her<lb/> not lavish her embraces upon the household of<lb/> an alien. For believe it or not, England, after<lb/> all, is, in many things an alien to us. China<lb/> has more bonds of real love for us than she.<lb/> But even were there no strong literary indivi-<lb/>dualities among us, as there are some dozens at<lb/> least, nevertless, let America first <note>[Rest of the paragraph inserted from f015]</note>praise <lb/>mediocrity even, in her own children, before <lb/>she praises (for everywhere, merit demands <lb/>acknowledgment from every one) the best<lb/> excellence in the children of any other land. <lb/>Let her own authors, I say, have the pri-<lb/>ority of appreciation. I was much pleased <lb/>with a hot-headed Carolina cousin of mine,<lb/> who once said,--"If there were no other<lb/> American to stand by, in literature, why, then, <lb/>I would stand by Pop Emmons and his "Fre-<lb/>doniad," and till a better epic came along, <lb/>swear it was not very far behind the Iliad." <lb/>Take away the words, and in spirit he was <lb/>sound.</p>
 				<p>Not that American genius needs patronage<lb/> in order to expand. For that explosive sort o<lb/>f stuff will expand though screwed up in a <lb/>vice, and burst it, though it were triple steel.<lb/> It is for the nation's sake, and not for her<lb/> authors' sake, that I would have America be<lb/> heedful of the increasing greatness among her<pb/> writers. For how great the shame,<lb/> if other nations should be before her, in crowning her<lb/> heroes of the pen! But this is almost the case <lb/>now. American authors have received more<lb/> just and discriminating praise (however loftily<lb/> and ridiculously</p>
 			</div>
-		</body>
-	</text>
-</TEI><TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+		
             <div type="leaf" n="18">
                 <pb facs="#f017"/>
                 <p>given, in certain cases) even <lb/>from some Englishmen, than from their own
@@ -487,13 +421,8 @@
                     English authors. And <lb/>we want no American Goldsmiths; nay, we <lb/>want no
                     American Miltons. </p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
-            <div type="leaf">
+       
+     <div type="leaf">
                     <pb facs="#f018"/>                
                 <p>It were the vilest <lb/> thing you could say of a true American author, <lb/>
                     that he were an American Tompkins. Call him <lb/>an American and have done, for
@@ -516,12 +445,8 @@
                     Christianity in all<lb/> things, which now takes the practical lead in<lb/> this
                     world, though at the same</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+
             <div type="leaf" n="20">
                 <pb facs="#f019"/>
                 <p>time led by <lb/>ourselves--us Americans. Let us boldly con-<lb/>temn all
@@ -547,12 +472,8 @@
                     <lb/>him to the full flower of some still greater <lb/>achievement in your
                     eyes.</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+    
             <div type="leaf" n="21">
                 <pb facs="#f020"/>
                 <p>And by confessing <lb/>him, you thereby confess others; you brace <lb/>the whole
@@ -578,12 +499,8 @@
                 <p>But I cannot leave my subject yet. No man <lb/>can read a fine author, and relish
                     him to his <lb/>very bones while he reads, without</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+    
             <div type="leaf" n="22">
                 <pb facs="#f021"/>
                 <p>subse-<lb/>quently fancying to himself some ideal image <lb/>of the man and his
@@ -618,12 +535,7 @@
                     and there that had <lb/>previously escaped me. And I found that but <lb/>to glean after
                     this man, </p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
             <div type="leaf">
                 <pb facs="#f022"/>
                 <p>is better than to be in <lb/>at the harvest of others. To be frank (though,
@@ -653,12 +565,7 @@
                     Personally, I doubt not, that he <lb/>rather prefers to be generally esteemed
                     but a <lb/>so-so sort of author; being willing to</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
             <div type="leaf">
                 <pb facs="#f023"/>
                 <p>reserve <lb/>the thorough and acute appreciation of what he <lb/>is, to that
@@ -687,12 +594,8 @@
                     it, without addressing the author in his <lb/>own words--"It is yours to
                     penetrate, in every <lb/>bosom, the deep mystery of sin". And with<lb/></p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+    
             <div type="leaf">
                 <pb facs="#f024"/>
                 <p>Young Goodman, too, in allegorical pursuit of <lb/>his Puritan wife, you cry out
@@ -725,12 +628,8 @@
                     "Select Party" of his; for <lb/>whom he has builded so august a dome of
                     sun-<lb/>set clouds, and served them on richer plate<lb/> than</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+       
             <div type="leaf">
                 <pb facs="#f025"/>
                 <p>Belshazzar when he banquetted his lords <lb/>in Babylon.</p>
@@ -760,12 +659,8 @@
                     <lb/>read them thoroughly, or even read Charles Lamb's <lb/>Specimens of them,
                     and he will</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+
             <div type="leaf">
                 <pb facs="#f026"/>
                 <p>be <lb/>amazed at the wondrous ability of those Anaks <lb/>of men, and shocked at
@@ -799,12 +694,8 @@
                 <p>Once more--for it is hard to be finite upon <lb/>an infinite subject, and all subjects
                     are infinite.</p>
             </div>
-        </body>
-    </text>
-</TEI>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <text>
-        <body>
+       
+   
             <div type="leaf">
                 <pb facs="#f027"/>                
                 <p>By some people, this entire scrawl of mine may <lb/>be esteemed altogether
@@ -820,4 +711,3 @@
         </body>
     </text>
 </TEI>
-</combined_data>
