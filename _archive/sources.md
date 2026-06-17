@@ -9,4 +9,4 @@ Melville was a voracious reader and inveterate researcher.  He used sources to a
 
 Fortunately, much of the work of finding, cataloguing, and displaying Melville’s source books has been, and continues to be done, in [*Melville’s Marginalia Online* (MMO)](https://melvillesmarginalia.org/). Edited by Steven Olsen-Smith, Peter Norberg, and Dennis C. Marnon, MMO lists the works known to have existed in Melville's dispersed library, curates images of the 300 or so books retrieved from the dispersal, and displays transcriptions of Melville's marginal markings and inscriptions in them.
 
-MEL and MMO have been affiliated informally and are working toward developing a means for fuller interoperability of our two sites as well as MPCO: [*Melville's Print Collection Online*](https://melvillesprintcollection.org/exhibits/show/project-and-site/project-and-site-intro).
+MEL and MMO have been affiliated informally and are working toward developing a means for fuller interoperability of our two sites as well as [*Melville's Print Collection Online*](https://melvillesprintcollection.org/exhibits/show/project-and-site/project-and-site-intro).
