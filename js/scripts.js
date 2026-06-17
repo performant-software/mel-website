@@ -12,9 +12,23 @@ $( document ).ready(function() {
         }
     });
 
-    // Initialize the Melville Catalog
+    // Run once on initial load (just in case they land directly on the Sources page)
     initMelvilleCatalog();
 });
+
+// THE WATCHER: This fixes the dynamic page rendering issue
+const observer = new MutationObserver(function(mutations) {
+    const tableBody = document.getElementById('tableBody');
+    
+    // If the table suddenly appears on screen, but hasn't been loaded yet
+    if (tableBody && !tableBody.dataset.loaded) {
+        tableBody.dataset.loaded = "true"; // Mark it so we don't load it twice
+        initMelvilleCatalog();
+    }
+});
+// Start watching the whole website for layout changes
+observer.observe(document.body, { childList: true, subtree: true });
+
 
 // Function to fetch and render the Melville Sources Catalog
 function initMelvilleCatalog() {
@@ -22,7 +36,7 @@ function initMelvilleCatalog() {
     const searchInput = document.getElementById('searchInput');
     const resultCount = document.getElementById('resultCount');
 
-    // Safety check: Only run this code if we are actually on the Sources page
+    // Safety check: Only run this code if the table is actually on the page
     if (!tableBody || !searchInput) return;
 
     // Fetch the public JSON file from the root directory
