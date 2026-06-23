@@ -1,0 +1,99 @@
+<text xmlns="http://www.tei-c.org/ns/1.0" xml:id="reading">
+        <body>
+
+            <div type="leaf">
+                <pb facs="#f000"/>
+                <head>Hawthorne &amp; His Mosses,</head>
+                <head>By a Virginian Spending July in Vermont</head>
+                <p>A papered chamber in a fine<lb/> old farm-house -- a mile from any other
+                    dwelling,<lb/> and dipped to the eaves in foliage -- surrounded by<lb/>
+                    mountains, old woods, and Indian ponds, -- this, surely, is<lb/> the place to
+                    write of Hawthorne. Some charm is in<lb/> this northern air, for love and duty
+                    seem both impelling<lb/> to the task. A man of a deep &amp; noble nature has
+                    seized<lb/> me in this seclusion. His wild, witch voice rings thro' me;<lb/>
+                    or, in softer cadences, I seem to hear it in the songs of<lb/> the hill-side
+                    birds, that sing in the larch trees at my<lb/> window.</p>
+                <p>Would that all excellent books were foundlings,<lb/> without father or mother,
+                    that so it might be, we<lb/> could glorify them, without including their
+                    ostensible authors. Nor<lb/> would any true man take exception to this; --
+                    least of all,<lb/> he who writes, -- <ref target="note_9f762d8685424b2e8380ea53d69940e4" type="editorial">"When the
+                    Artist rises high enough to<lb/> achieve the Beautiful, the symbol by which he
+                    makes it<lb/> perceptible to mortal senses becomes of little value in his<lb/>
+                    eyes, while his spirit possesses itself in the enjoyment<lb/> of the reality."</ref><note xml:id="note_9f762d8685424b2e8380ea53d69940e4">HM did not mark this passage
+                    in his copy of Mosses from an Old Manse. This is the final line from "The Artist
+                    of the Beautiful, on which Melville left marginalia on four pages. Melville
+                    mistakenly capitalized "artist" and switched tenses in copying the sentence --
+                    "When the artist rose enough to achieve the Beautiful, the symbol by which he
+                    made it perceptible to mortal senses became of little value in his eyes, while
+                    his spirit possessed itself in the enjoyment of the reality" (p. 191 in HM's
+                    1846 Wiley &amp; Putnam edition).</note></p>
+                <p>But more than this. I know not</p>
+            </div>
+
+            <div type="leaf">
+                <p>
+                    <pb facs="#f003"/>
+                </p>
+                <p>am off for the barn".</p>
+                <p>
+                    <note type="compositorial">Alexander</note>Stretched on that new mown clover, <lb/>
+                    the hill-side breeze blowing over me <lb/>
+               <app>
+                        <rdg wit="ms">thro'</rdg>
+                        <rdg wit="lw">through</rdg>
+                    </app> the wide barn door,
+                    and soothed by the hum of the <lb/> bees in the meadows around, how magically <lb/>
+                    stole over me this Mossy Man! And how amply, <lb/> how bountifully, did he
+                    redeem that delicious <lb/> promise to his guests in the Old Manse, of whom <lb/>
+                    it is written -- "Others could give them pleasure, <lb/> "or amusement, or
+                    instruction -- these could be <lb/> "picked up anywhere -- but it was for me to <lb/>
+                    "give them rest. Rest, in a life of trouble! What <lb/> "better could be done
+                    for weary and <lb/> "world-worn spirits? what better could be done <lb/> "for
+                    anybody, who came within our magic <lb/> "circle, than to throw the spell of a
+                    magic spirit <lb/> "over him?" -- So all that day, half-buried in the <lb/>
+                    new clover , I watched this Hawthorne's <lb/> "Assyrian dawn, and Paphian
+                    sunset and moon-<lb/> rise, from the summit of our Eastern Hill."</p>
+                <p>The soft ravishments of the man spun me round <lb/> about in a web of dreams,
+                    and when the book was <lb/> closed, when the spell was over, this wizard <lb/>
+                    "dismissed me with but misty reminiscences, as if <lb/> I had been dreaming of
+                    him"</p>
+                <p>What a mild moonlight of contemplative <lb/>humor bathes that Old Manse!-- the
+                    rich and <lb/> rare distilment of a spicy and slowly-oozing heart.<lb/> No
+                    rollicking rudeness, no gross fun fed on fat dinners, <lb/> and bred in the
+                    lees of wine,-- but a humor <lb/> so spiritually gentle, so high, so deep, and
+                    yet</p>
+            </div>
+
+            <div type="leaf" n="14">
+                <pb facs="#f013"/>
+                <p>not Shakespeare, but only Master William Shakespeare <lb/> of the shrewd,
+                    thriving,<note/> business firm of Condell, Shakespeare &amp; <corr change="#StE" facs="#f013_z007">Co.</corr>, proprietors <lb/> of the Globe
+                    Theatre in London; <reg change="metatdata#StE" facs="#f013_z008">&amp; </reg>by
+                    a courtly author, <lb/> of the name of Chettle, was hooted at, as an <quote change="#readingNH" facs="#f013_z004 #f013_z005 #f013_z006" source="Shakespeare Volume 1">"upstart <lb/> crow" beautified "with other
+                    birds' feathers."</quote>
+               <note facs="#f013_z004 #f013_z005 #f013_z006">The quote
+                    from <hi rend="italic">Greene's Groats-worth of Witte</hi>, slightly misquoted
+                    here, was marked on p. xv of volume I of Meville's <hi rend="italic">Dramatic
+                    Works of William Shakespeare</hi>: "for there is an upstart crow, beautified
+                    with our feathers, that, with his tiger's heart wrapped in a player's hide,
+                    supposes he is as well able to bombast out a blank verse as the best of you...".
+                    The NN edition claimed that the <hi rend="italic">Literary World</hi> retained
+                    both "errors" in its printing, but in fact "Groats-worth" was entered in the
+                    Stationers' Register 'upon the peril of Henry Chettle' on 20 September 1592, two
+                    and a half weeks after Greene's death on 3 September. On the page that Melville
+                    marked, Chettle is also mentioned as the publisher. As Chettle arranged for the
+                    book to be published, some have claimed that he authored the book, so Melville's
+                    claim is not quite an error. MEL therefore retains his original wording.</note>For,
+                    mark it well, <lb/> imitation is often the first charge brought against real <lb/>
+                    originality. Why this is so, there is not space to set forth here. You must <lb/>
+                    have plenty of sea-room to tell the <lb/> Truth<note>HM modified "truth" to be
+                    upper case</note> in; especially, when it seems to have an aspect <lb/> of
+                    newness, as America did in 1492, <reg change="#StE" facs="#f013_z010">tho'</reg>
+                    it was then <lb/> just as old, and perhaps older than Asia, only <lb/> those<note/>
+                    sagacious philosophers, the common sailors, had never <lb/> seen it before;
+                    swearing it was all water and moonshine <lb/> there. (to be concluded next
+                    week)<note>Added by Duyckinck...</note>
+                </p>
+            </div>
+        </body>
+    </text>

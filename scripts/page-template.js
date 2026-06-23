@@ -11,7 +11,7 @@ function renderTOC(toc) {
     return `<ul>${listItems.join('\n')}</ul>`
 }
 
-const pageTemplate = function renderPage(chapter, toc, editionTitle, tl_leaf, iiif, envs ) {
+const pageTemplate = function renderPage(chapter, toc, editionTitle, tl_leaf, iiif, MSPath, envs ) {
     return `<!DOCTYPE html>
     <html>
     <head>
@@ -21,7 +21,7 @@ const pageTemplate = function renderPage(chapter, toc, editionTitle, tl_leaf, ii
         <link rel="stylesheet" href="/css/main.css" media="screen" charset="utf-8">
         <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/themes/light-border.css"/>
     </head>
-    <body onload="init(${!!tl_leaf},${!!iiif})">
+    <body onload="init(${!!tl_leaf},${!!iiif},'${MSPath}')">
         <div id="floating-window-container"></div>
         <div id="grid-container">
             <div id="header">
