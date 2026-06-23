@@ -41,8 +41,10 @@ function mossesMSPageTemplate(baseURL,dev) {
                 },
                 lw: {
                     documentName: 'Literary World',
-                    iiifManifest: '${baseURL}/${ecDir}/lw_folios/iiif/manifest.json',
-                    transcriptionTypes: {}
+                    iiifManifest: '${baseURL}/${ecDir}/lw_tei/iiif/manifest.json',
+                    transcriptionTypes: {
+                        transcription: 'Transcription'
+                    }
                 }
             },
             threePanel: true
