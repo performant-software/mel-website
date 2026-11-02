@@ -112,7 +112,7 @@
 				<note>added ","</note>
 			</zone>
 			<zone xml:id="f020_z009" ulx="1064.8631591796875" uly="2051.192138671875" lrx="1097.852294921875" lry="2112.457763671875">
-				<note> & regularized</note>
+				<note> &amp; regularized</note>
 			</zone>
 			<zone xml:id="f020_z010" ulx="388.5986328125" uly="2041.730224609375" lrx="1488.235107421875" lry="2113.991943359375">
 				<note>addition in space</note>

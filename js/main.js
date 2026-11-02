@@ -85,35 +85,72 @@ function highlightImage( on, id ) {
     }
 }
 
-function initThumbs(tlLeaf,iiif) {
+//helper function
+const delay = (ms) => {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function initThumbs(tlLeaf,iiif,MSPath) {
     // go through all the facs attributes and render them to the sidebar
     const thumbnailMarginEl = document.getElementById('thumbnail-margin')
-    const facsEls = document.querySelectorAll('[facs]')
+    const facsEls = document.querySelectorAll('tei-pb')
     let i = 0
+    let minOffset = 0
     for( const facsEl of facsEls ) {
+        if (!facsEl.getAttribute('facs')) {
+            continue;
+        }
         const url = iiif ? `${ facsEl.getAttribute('facs')}/full/120,/0/default.jpg` : facsEl.getAttribute('facs')
+        const topOffset = Math.max(facsEl.offsetTop, minOffset)
         const imageEl = document.createElement('img')
         imageEl.id = `thumb-${i++}`
         facsEl.id = `inline-${imageEl.id}`
         imageEl.classList.add('thumbnail')
-        imageEl.style.top = `${facsEl.offsetTop}px`
+        imageEl.style.top = `${topOffset}px`
         imageEl.setAttribute('src',url)
-        const surfaceID = facsEl.getAttribute('corresp')
-        const ecURL = `${window.location.origin}/editions/versions-of-billy-budd/billy-budd-ms.html#/ec/${surfaceID}/f/${surfaceID}/transcription`
+        const surfaceID = facsEl.getAttribute('corresp') || facsEl.getAttribute('sameAs')
+        const ecURL = `${window.location.origin}/${MSPath}#/ec/${surfaceID}/f/${surfaceID}/transcription`
         const onClickFn = tlLeaf ? `window.open("${ecURL}")` : `createImageWindow("${imageEl.id}","${url}")`
         imageEl.setAttribute('onclick',onClickFn)
         imageEl.setAttribute('onmouseenter',`highlightImage( true, "${facsEl.id}"); highlightImage( true, "${imageEl.id}")`)
         imageEl.setAttribute('onmouseleave',`highlightImage( false, "${facsEl.id}"); highlightImage( false, "${imageEl.id}")`)
         thumbnailMarginEl.appendChild(imageEl)
-
+        
         // create an icon which is linked to the image
         facsEl.innerHTML=`<img onclick='${onClickFn}' style="padding-top: 2px" height="15" width="12" src="/images/pb.png"/>`
         facsEl.setAttribute('onmouseenter',`highlightImage( true, "${imageEl.id}"); highlightImage( true, "${facsEl.id}")`)
         facsEl.setAttribute('onmouseleave',`highlightImage( false, "${imageEl.id}"); highlightImage( false, "${facsEl.id}")`)
+
+        await delay(10)
+        minOffset = topOffset + imageEl.offsetHeight + 8
     }
 }
 
-function init(tl_leaf,iiif) {
+function adjustThumbs(num) {
+    const thumbnails = document.querySelectorAll('.thumbnail')
+    let minOffset = 0;
+    for (const el of thumbnails) {
+        if (el.offsetHeight === 0 && num < 100) {
+            setTimeout(() => {
+                adjustThumbs(num + 1)
+            }, 50)
+            break;
+        } else {
+            if (el.offsetTop >= minOffset) {
+                minOffset = el.offsetTop + el.offsetHeight + 8
+                continue;
+            } else {
+                el.style.top = `${minOffset}px`
+                minOffset = minOffset + el.offsetHeight + 8
+            }
+        }
+    }
+}
+
+function init(tl_leaf,iiif,MSPath) {
     initNotes()
-    initThumbs(tl_leaf,iiif)
+    initThumbs(tl_leaf,iiif,MSPath)
+    setTimeout(() => {
+        adjustThumbs(0)
+    }, 50)
 }

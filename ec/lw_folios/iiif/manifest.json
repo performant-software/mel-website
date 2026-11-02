@@ -1,0 +1,269 @@
+{
+	"@context": [
+		"http://www.w3.org/ns/anno.jsonld",
+		"http://iiif.io/api/presentation/3/context.json"
+	],
+	"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/manifest.json",
+	"type": "Manifest",
+	"items": [
+		{
+			"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f000",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f000/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f000/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif-cloud-production.herokuapp.com/public/resources/0f9ffb9f-6636-46b1-947a-44355b620144;1",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6830,
+								"width": 4860,
+								"service": [
+									{
+										"id": "https://iiif-cloud-production.herokuapp.com/public/resources/0f9ffb9f-6636-46b1-947a-44355b620144;1",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f000"
+						}
+					]
+				}
+			],
+			"height": 6830,
+			"width": 4860,
+			"label": {
+				"none": [
+					"literary_world_hawthorne_and_his_mosses_1850_Page_1.tif"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f001",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f001/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f001/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif-cloud-production.herokuapp.com/public/resources/54481a01-9717-4045-82f4-20a3528702b3;1",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6852,
+								"width": 4788,
+								"service": [
+									{
+										"id": "https://iiif-cloud-production.herokuapp.com/public/resources/54481a01-9717-4045-82f4-20a3528702b3;1",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f001"
+						}
+					]
+				}
+			],
+			"height": 6852,
+			"width": 4788,
+			"label": {
+				"none": [
+					"literary_world_hawthorne_and_his_mosses_1850_Page_2.tif"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f002",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f002/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f002/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif-cloud-production.herokuapp.com/public/resources/0ece8311-c998-4682-8cfa-24441cfbf95f;1",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6818,
+								"width": 4848,
+								"service": [
+									{
+										"id": "https://iiif-cloud-production.herokuapp.com/public/resources/0ece8311-c998-4682-8cfa-24441cfbf95f;1",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f002"
+						}
+					]
+				}
+			],
+			"height": 6818,
+			"width": 4848,
+			"label": {
+				"none": [
+					"literary_world_hawthorne_and_his_mosses_1850_Page_3.tif"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f003",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f003/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f003/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif-cloud-production.herokuapp.com/public/resources/348fa8a5-9db2-41f6-8e36-a177b6b45833;1",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6818,
+								"width": 4776,
+								"service": [
+									{
+										"id": "https://iiif-cloud-production.herokuapp.com/public/resources/348fa8a5-9db2-41f6-8e36-a177b6b45833;1",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f003"
+						}
+					]
+				}
+			],
+			"height": 6818,
+			"width": 4776,
+			"label": {
+				"none": [
+					"literary_world_hawthorne_and_his_mosses_1850_Page_4.tif"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f004",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f004/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f004/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif-cloud-production.herokuapp.com/public/resources/a0db8075-3819-4973-b559-c1ff24618ea8;1",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6764,
+								"width": 4766,
+								"service": [
+									{
+										"id": "https://iiif-cloud-production.herokuapp.com/public/resources/a0db8075-3819-4973-b559-c1ff24618ea8;1",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f004"
+						}
+					]
+				}
+			],
+			"height": 6764,
+			"width": 4766,
+			"label": {
+				"none": [
+					"literary_world_hawthorne_and_his_mosses_1850_Page_5.tif"
+				]
+			},
+			"annotations": []
+		},
+		{
+			"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f005",
+			"type": "Canvas",
+			"items": [
+				{
+					"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f005/annotationpage/0",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f005/annotationpage/0/annotation/0",
+							"type": "Annotation",
+							"motivation": "painting",
+							"body": {
+								"id": "https://iiif-cloud-production.herokuapp.com/public/resources/fd689f8f-6dcc-4679-81d2-8107f79531b7;1",
+								"format": "image/jpeg",
+								"type": "Image",
+								"height": 6782,
+								"width": 4836,
+								"service": [
+									{
+										"id": "https://iiif-cloud-production.herokuapp.com/public/resources/fd689f8f-6dcc-4679-81d2-8107f79531b7;1",
+										"type": "ImageService2",
+										"profile": "http://iiif.io/api/image/2/level2.json"
+									}
+								]
+							},
+							"target": "https://rb-mosses--mel.netlify.app/ec/lw_folios/iiif/canvas/f005"
+						}
+					]
+				}
+			],
+			"height": 6782,
+			"width": 4836,
+			"label": {
+				"none": [
+					"literary_world_hawthorne_and_his_mosses_1850_Page_6.tif"
+				]
+			},
+			"annotations": []
+		}
+	],
+	"label": {
+		"en": [
+			"lw_folios"
+		]
+	},
+	"seeAlso": [
+		{
+			"id": "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/glossary.json",
+			"type": "Dataset",
+			"label": "Glossary",
+			"format": "text/json"
+		}
+	]
+}

@@ -241,3 +241,31 @@ img.btnBullet {
 a.btn {
   white-space: normal;
 }
+
+/* some basic custom table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1em 0;
+}
+
+th {
+  border-bottom: 2px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+td {
+  border-bottom: 1px solid #eee;
+  padding: 10px;
+}
+
+/* Alternating row backgrounds */
+tr:nth-child(even) {
+  background-color: #f9f9f9; 
+}
+
+/* Clean up the very last row's bottom border */
+tr:last-child td {
+  border-bottom: none;
+}
